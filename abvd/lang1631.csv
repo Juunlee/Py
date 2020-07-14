@@ -1,0 +1,15 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+1631,Ma'uke,"Online Ma'uke Dictionary",rar,mauk1238,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, East, Central, Tahitic","Mary Walworth",,
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+3228572,1,hand,rima,,,1,
+3228573,4,leg/foot,vāvia,,,"1,100",
+3228574,12,skin,pakiri,,,,
+3228575,13,back,tua,,,11,
+3228576,14,belly,pito,,,,
+3228577,15,bone,kōvari,"'weak of bone'",,,
+3228578,18,breast,ū,,,1,
+3228579,22,"to fear",mataku,,,1,
+3228580,24,head,upoko,,,,
+3228581,25,neck,karaponga,,,132,
+3228582,27,nose,putāi‘u,,,,
+3228583,37,"to eat",kai,,,"1,47",

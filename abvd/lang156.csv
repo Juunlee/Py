@@ -1,0 +1,328 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+156,Futuna-Aniwa,"Kenneth Fakamuri, POLLEX 2002 (Bruce Biggs & Ross Clark)",fut,futu1245,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, Samoic-Outlier, Futunic","Penny Keenan","Simon Greenhill","@article{POLLEX,  journal = {Oceanic Linguistics},  number  = {2},  pages   = {551--559},  title   = {{POLLEX-Online: The Polynesian Lexicon Project Online}},  volume  = {50},  year    = {2011},  author  = {Greenhill, Simon J. and Clark, Ross}}"
+latitude,longitude
+-14.98671398029729928680,-177.39047965095531367297
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+156,1,hand,rima,,,1,1
+513,2,left,masui,,,"1,59,74",
+870,3,right,matau,,,"5,13",1
+1227,4,leg/foot,vae,,,"1, 100",1
+1941,6,road/path,retu,,,,
+2298,7,"to come","hmai [ṃai]",,,1,1
+90936,8,"to turn",tafuri,"Pollex 06: Tafuri. :To turn (Dty).",,15,
+3012,9,"to swim",kaukau,,,5,
+3117,9,"to swim",kau,"Swim (Dty)",,5,
+3369,10,dirty,uriuri,"'dark' form cognate with 114, but not same semantic value -MW",,,
+90937,10,dirty,paku,"Pollex 06: Paku. :Dirty; a blot (Cpl).",,37,
+3726,11,dust,baku,,,1,
+4083,12,skin,kiri,,,1,1
+4440,13,back,bua,,,62,
+4797,14,belly,"shinae [ʃinae]",,,"19, 34",
+88054,14,belly,manava,Belly,,9,
+88055,14,belly,alo,"Front, chest",,10,
+5154,15,bone,ivi,,,"52,5",
+88085,15,bone,iui,"Bone (ANI) (Dty)",,"52,5",
+5511,16,intestines,"hgavava [ŋ̥avave]",,,11,
+88323,16,intestines,jinae,"Belly, abdomen, stomach",,1,
+88324,16,intestines,vava,Intestines,,11,
+5868,17,liver,ate,,,1,1
+6225,18,breast,u,,,1,
+6582,19,shoulder,pahkau,"\"h\" is unexpected - JCM",,22,
+90938,19,shoulder,pakau,"Polelx 06: Pakau. :Wing, shoulder (Dty).",,22,
+6939,20,"to know, be knowledgeable",iroa,,,13,
+7296,21,"to think",manatunea,,,9,
+7401,21,"to think",manatu/nea,"Think,  meditate,  understand (Dty)",,9,
+7653,22,"to fear",mataku,,,1,
+8010,23,blood,toto,,,4,
+8367,24,head,uru,,,1,
+8724,25,neck,kaupenaua,,,"21,18",
+90939,25,neck,penaaua,"Pollex 06: Penaaua. :Neck.",,"21,18",
+9081,26,hair,fufuru-uru,,,31,
+88628,26,hair,furu,"Hair, fur, feathers (Dty)",,31,
+88629,26,hair,ra-uru,"Hair of head",,40,
+9438,27,nose,isu,,,1,1
+9795,28,"to breathe","hmava [ṃava]",,,1,
+9900,28,"to breathe",manava,"Breathe rapidly (as with fright) (Dty)",,1,
+10152,29,"to sniff, smell",namuia,,,41,
+10257,29,"to sniff, smell",soŋi,Kiss,,9,
+10509,30,mouth,fafa,,,1,1
+10866,31,tooth,nifo,,,1,1
+11223,32,tongue,rero,,,15,
+11580,33,"to laugh",kata,,,7,?
+11937,34,"to cry",tangi,,,1,1
+12042,34,"to cry",tagi,Cry,,1,
+12294,35,"to vomit","hlua [ḷua]",,,8,
+88877,35,"to vomit",lua,vomit,,8,
+88878,35,"to vomit",h/lua/,"vomit (Dty)",,8,
+12651,36,"to spit",savari,,,18,
+12756,36,"to spit",saavari-a,"To spit,  spittle (Dty)",,18,
+13008,37,"to eat",kai,,,"1,47",1
+89324,37,"to eat","kai kai","Food, eat (Dty)",,"1,47",
+89325,37,"to eat",keina,"Eat (Trans.)",,"1,47",
+13365,38,"to chew",maia,,,1?,
+90940,38,"to chew",mama,"Pollex 06: Mama. :Chew.",,1,
+73409,39,"to cook",hkavi,,,2,
+13827,39,"to cook",tao,"Cook in earth oven",,10,
+73410,39,"to cook",htunu,,,9,
+14079,40,"to drink",inu,,,1,1
+14436,41,"to bite","mangushia [maŋuʃia]",,,9,
+14793,42,"to suck",umia,,,12,1
+14898,42,"to suck",umi/a,"Suck,  to nurse (Dty)",,12,
+15150,43,ear,taringa,,,1,1
+15507,44,"to hear",rangona,,,"1, 83",?
+15864,45,eye,feimata,,,1,1
+15969,45,eye,mata,Eye,,1,
+16221,46,"to see",safea,,,,
+16683,47,"to yawn",(h)mava,"Yawn,  pull in breath (Dty)",,"19, 39",
+16935,48,"to sleep",moeroa,,,"10, 109",
+17292,49,"to lie down",moe,,,6,
+17649,50,"to dream","mishi [miʃi]",,,36,
+17754,50,"to dream",miji,"Dream (Dty)",,36,
+18006,51,"to sit",buku,,,122?,
+18111,51,"to sit",nofo,Sit,,16,
+18363,52,"to stand",tu,,,2,1
+18720,53,"person/human being",tangata,,,"1,66, 97",1
+18825,53,"person/human being",tafata,"Man,  person,  human being (Dty)",,"1,66",
+19077,54,man/male,tane,,,"1,11",1
+19182,54,man/male,taane,Male,,"1,11",
+19434,55,woman/female,[fʰine],,,"1,41",1
+19539,55,woman/female,fafine,Women,,"1,106",
+19791,56,child,tama,,,6,
+20148,57,husband,tangata,,,23,
+20505,58,wife,[fʰine],,,"5, 89",
+91234,58,wife,nofune,"Old woman (Clk)",,"5,66",
+91235,58,wife,nafune,"Old woman (Clk)",,"5,66",
+91236,58,wife,fine,"Woman, girl, female,  wife (Dty)",,"5, 89",
+20862,59,mother,shinana,,,1,1
+91293,59,mother,nana,"Mother (vocative)",,"1,83",
+91294,59,mother,tsinana,Mother,,1,
+21219,60,father,tamana,,,1,1
+21324,60,father,tama/na,Father,,1,
+21576,61,house,fare,,,14,
+22290,63,name,ingoa,,,6,
+22395,63,name,e/igoa,"Name (Dty)",,6,
+22647,64,"to say",tukua,,,27,
+90941,64,"to say",tuku/a,"Pollex 06: Tuku/a. :Say, tell.",,27,
+23004,65,rope,vava,,,74,
+23109,65,rope,taura,"Rope (Cpl)",,9,
+23361,66,"to tie up, fasten",rishia,,,,
+23466,66,"to tie up, fasten",fau/sia,"To bind (Dty)",,11,
+23718,67,"to sew",sukia,,,17,
+23823,67,"to sew",tui,"To thread,  string something (Dty)",,"13, 16",
+24075,68,needle,nil,"L from English",L,,
+24180,68,needle,sik/up,"Needle for sewing nets (Dty)",,9,
+24432,69,"to hunt","hmoshi [mcʃi]",,,,
+24789,70,"to shoot",fania,,,1,1
+24894,70,"to shoot",fana,"Bow,  shoot",,1,
+25146,71,"to stab, pierce",sukia,,,"1, 8",1
+25251,71,"to stab, pierce",suki/a,"Pierce,  stab,  sew (Dty)",,"1, 8",
+25503,72,"to hit","jia [ǰia]","could be palatalised *ta - jcm",,,
+91772,72,"to hit",paki,"Slap, strike with the open hand (Dty)",,6,
+91773,72,"to hit",tuki,"Hit, poke, punch (Dty)",,8,
+25860,73,"to steal",ʃiŋo,,,,
+26217,74,"to kill","jia ka mate",,,2,
+26574,75,"to die, be dead",mate,,,1,1
+26931,76,"to live, be alive",mouri,,,"1, 76",1
+27288,77,"to scratch",arashia,,,10,
+27393,77,"to scratch",arajia,"Scratch,  engrave,  claw (Dty)",,10,
+27645,78,"to cut, hack",saua,,,,
+92281,78,"to cut, hack",motu,"Be severed, cut,  broke (Dty)",,"54, 14",
+92282,78,"to cut, hack",sere,"Cut,  circumcise",,16,
+92283,78,"to cut, hack",tu/ia,"Cut away, cut off",,17,
+28002,79,stick/wood,ranea,,,,
+28107,79,stick/wood,rakau,"Tree,  plant (Dty); club",,1,
+28359,80,"to split",fasia,,,4,
+28464,80,"to split",tapasi/a,"Break,  split; separate",,4,
+28716,81,sharp,[ṃtakai],,,"14,16",
+90942,81,sharp,mta/kai,"Pollex 06: Mta/kai. :Sharp (Cpl).",,"14,16",
+29073,82,"dull, blunt",[ṃtapuni],,,"39,49",
+29430,83,"to work",fishikai,,,26,
+29787,84,"to plant","hpura [pʰura]",,,,
+30144,85,"to choose",tusia,,,,
+92562,86,"to grow",somo,"To grow of plants",,7,
+92563,86,"to grow",tupu,Grow,,1,
+30858,87,"to swell",hfura[fʰura],,,7,
+30963,87,"to swell",fura,"Swell (of a sore)",,7,
+31215,88,"to squeeze",kumkumia,,,14,
+31572,89,"to hold",kumia,,,"1,85",
+31929,90,"to dig",keria,,,1,1
+32034,90,"to dig",keri/a,Dig,,1,
+32286,91,"to buy",takamata,,,43,
+32643,92,"to open, uncover",atongia,,,,
+33000,93,"to pound, beat",tuhtukia,,,"20, 2",1
+33357,94,"to throw",shiri,,,9,
+33462,94,"to throw",tsiri,Throw,,9,
+33714,95,"to fall",takaifo,,,,
+34071,96,dog,kuli,,,7,
+34428,97,bird,manu,,,1,1
+34785,98,egg,vahvaka,,,9,
+35142,99,feather,"furu [furu]",,,1,1
+90943,99,feather,furu,"Pollex 06: Furu. :Hair, fur, feathers (Dty).",,1,
+35499,100,wing,pahkau,,,"1,59",
+35604,100,wing,pakau,"Wing, shoulder (Dty)",,"1,59",
+35856,101,"to fly",rere,,,11,
+36213,102,rat,kimoa,,,14,
+36570,103,meat/flesh,"hkano [kʰano]",,,14,
+36927,104,fat/grease,ngako,,,14,
+37284,105,tail,suku,,,13,
+37389,105,tail,siku,"Tail,  tail end (Dty)",,13,
+37641,106,snake,ngata,,,12,
+37998,107,"worm (earthworm)",nufekere,,,9,
+38355,108,louse,kutu,,,1,1
+38712,109,mosquito,namo,,,1,1
+38817,109,mosquito,namu,Mosquito,,1,
+39069,110,spider,toutouafare,,,5,
+39426,111,fish,ika,,,1,1
+39783,112,rotten,purau,,,15,
+105245,112,rotten,para,"Rotten; to decay",,13,
+105246,112,rotten,popo,"Rotted (Dty)",,14,
+40140,113,branch,-ra,,,1,1
+40245,113,branch,rakau,"Tree,  plant (Dty); club",,"1,4",
+40497,114,leaf,-rau,,,1,1
+40602,114,leaf,rau,"Leaf (Dty)",,1,
+40854,115,root,-akai,,,2,1
+41211,116,flower,-se,,,9,
+41316,116,flower,se,"Flower (Dty)",,9,
+41568,117,fruit,-fua,,,1,1
+41673,117,fruit,fua,"Fruit (Dty",,1,
+41925,118,grass,ngafari,,,1,
+42282,119,earth/soil,kere,,,10,
+42639,120,stone,fātu,,,1,1
+42996,121,sand,hngaone[ŋ̥aone],,,1,1
+43101,121,sand,one,Sand,,1,
+43353,122,water,vai,,,2,1
+43710,123,"to flow",tafe,,,10,
+105496,123,"to flow",sari/a,"Run, flow (Dty)",,24,
+44067,124,sea,tai,,,1,
+44424,125,salt,sol,"L from English",L,,
+44781,126,lake,namo,"[=small pool]",,7,
+45138,127,woods/forest,"ngamotu hmara [ṃara]","L from Namakura or Nakanamanga",L,18,
+45495,128,sky,rangi,,,1,
+45600,128,sky,ragi,"Sky,  heaven (Dty)",,1,
+45852,129,moon,[ṃrama],,,7,
+90946,129,moon,mrama,"Pollex 06: Mrama. :Moon, month.",,7,
+46209,130,star,fatū,,,1,
+46566,131,cloud,boa,,,67,
+46671,131,cloud,tih/tea,"To shine after rain (of sun) (Dty)",,13,
+46923,132,fog,kofu,,,"1, 47",1
+47280,133,rain,ua,,,1,1
+47637,134,thunder,vahshiri,,,14,
+47742,134,thunder,vehjiri,"Thunder (Dty)",,14,
+47994,135,lightning,tapeia,,,13?,
+48351,136,wind,[ṃtangi],,,"1,66",1
+108079,136,wind,matagi,"Wind (Dty)",,"1,66",
+108080,136,wind,sau,"To blow (of wind); sound of wind",,10,
+108117,137,"to blow","hsau [sʰau]",,,12,
+48813,137,"to blow",ifi/a,"To blow (Dty)",,5,
+108118,137,"to blow",ifia,,,5,
+49065,138,warm,mafana,,,"1, 72",1
+49422,139,cold,makahlingi,,,"1,53",1
+49527,139,cold,makaligi,Cold,,"1,53",
+49779,140,dry,matu,,,66,
+49884,140,dry,masa,"To dry up,  evaporate completely (Dty)",,11,
+50136,141,wet,"hnupu [n̥upu]",,,,
+50241,141,wet,su,"Wet (Dty)",,11,
+50493,142,heavy,"hmafa [ṃafa]",,,46,
+50598,142,heavy,mafa,Heavy,,46,
+50850,143,fire,afi,,,1,1
+51207,144,"to burn",tungia,,,"1,7",
+119490,144,"to burn",tugi/a,"Burn, ignite, roast (Dty)",,"1,7",
+119491,144,"to burn",tuŋ/tuŋia/,"Burn many things",,"1,7",
+51564,145,smoke,ausafi,,,2,1
+122811,145,smoke,au,"Smoke (Dty)",,2,
+51921,146,ash,namuhlanga,"L from SVan Lgs",L,,
+90947,146,ash,efu,"Pollex 06: Efu. :Ashes.",,1,
+90948,146,ash,magarafu,,,"67, 60",
+52278,147,black,uri,,,7,
+52635,148,white,"hkengo [kʰeŋa]",,,10,
+52740,148,white,tea,White,,8,
+52992,149,red,"hmea [ṃea]",,,1,1
+53097,149,red,mea,"Brown,  red",,1,
+53349,150,yellow,"raunea hleu [ḷeu]",,,,
+53454,150,yellow,fero,"Yellow (Dty)",,11,
+53706,151,green,"raunea mahmata",,,"1, 12",
+53811,151,green,moto,"Green,  bitter,  unripe (Dty)",,"1, 10",
+54063,152,small,sisi,,,141,
+54168,152,small,poto,Short,,x,
+54420,153,big,sore,,,,
+54525,153,big,efa,"Big (Ply)",,13,
+54777,154,short,"hpoto [pʰoto]",,,9,
+119492,154,short,poto,Short,,9,
+119493,154,short,saka,"Short, short of stature (Dty)",,10,
+55134,155,long,"hpalo [pʰalo]",,,72,
+55491,156,thin,mafinfini,,,1,1
+55848,157,thick,matoru,,,3,
+56205,158,narrow,"hkapi [kʰapi]",,,1,1
+56562,159,wide,"hlafa [ḷafa]",,,48,
+56667,159,wide,xlafa,"Broad,  wide",,48,
+56919,160,"painful, sick",maki,,,1,1
+123032,160,"painful, sick",hmae,"Pain (Dty)",,10,
+123033,160,"painful, sick",are/ki,"Weak, sick (Dty)",,1?,
+57276,161,"shy, ashamed","hma [ṃa]",,,1,1
+57381,161,"shy, ashamed",hma,"Be ashamed,  embarassed (Dty)",,1,
+57633,162,old,takausore,,,,
+57990,163,new,fou,,,1,1
+58347,164,good,rufie,,,92,
+58704,165,"bad, evil",sa,,,1,1
+58809,165,"bad, evil",saa,Bad,,1,
+59061,166,"correct, true",nomari,,,106?,
+59166,166,"correct, true",tonu,"Straight,  correct (Dty)",,8,
+59418,167,night,bo,,,1,1
+59523,167,night,po,"Dark,  darkness,  night (Dty)",,1,
+59775,168,day,ao,,,"1, 54",1
+60132,169,year,tau,,,1,1
+60489,170,when?,afia,,,5,1
+60846,171,"to hide","hmuni [ṃuni]",,,"1, 67",1
+121538,172,"to climb",kʰava,,,,
+61308,172,"to climb",fiji,"Go up,  ascend (Dty)",,6,
+121539,172,"to climb",fishi,,,6,
+61560,173,at,i,,,1,1
+61917,174,"in, inside",weitakoro,,,,
+62022,174,"in, inside",i,"In,  at,  on",,x,
+62274,175,above,weihlunga,,,9,
+62631,176,below,weiraro,,,8,
+62736,176,below,raro,"Below,  underneath,  down (Dty)",,8,
+62988,177,this,tenei,,,"7,1",1
+63345,178,that,tena,,,1,1
+63702,179,near,tata,,,9,
+64059,180,far,"hpai [pʰai]",,,43,
+64416,181,where?,wafe,,,"3,35",
+64521,181,where?,ua/fe,"Where? (Dty)",,"3,35",
+64773,182,I,avau,,,"1, 21, 18",1
+64878,182,I,au,"I,  me (Dty)",,"1,21",
+65130,183,thou,akoe,,,1,
+65235,183,thou,-koe,"Second person singular pronoun stem (Dty)",,1,
+65487,184,he/she,aia,,,1,1
+65592,184,he/she,-ia,"Third person singular personal pronoun",,1,
+121540,185,we,kìtaua,dl,,"1, 29",1
+119494,185,we,a/kita/tou,"First person inclusive plural pronoun (Dty)",,"1, 39",
+119495,185,we,a/kita/ua,"First person inclusive dual pronoun (Dty)",,"1, 29",
+121541,185,we,kìmaua,,,"2, 29",
+66201,186,you,korua,dl,,x,
+66306,186,you,-koe,"Second person singular pronoun stem (Dty), Second person dual pronoun,  you (Dty), Second person plural pronoun in nucleus of the phrase (Ply)",,s,
+66558,187,they,kiraua,dl,,x,
+66915,188,what?,taha,,,1,
+89937,188,what?,ha,"What? (Dty)",,1,
+89938,188,what?,aha,What?,,1,
+67272,189,who?,akai,,,1,?
+67629,190,other,teiai,,,7?,
+67986,191,all,kireoʃi,,,60?,
+90949,191,all,otshi,"Pollex 06: Otshi. :All.",,60,
+68343,192,and,ma,,,2,
+68700,193,if,pe,,,28,
+69057,194,how?,pekua,,,"11,52",1
+69414,195,"no, not",shikai,,,"10,83",
+69771,196,"to count",taua,,,8,
+69876,196,"to count",tau/a,"Count,  add,  read (Dty)",,8,
+70128,197,One,tasi,,,41,
+70485,198,Two,rua,,,1,1
+70842,199,Three,toru,,,1,1
+71199,200,Four,"hfa [fʰa]",,,"1,66",1
+71304,200,Four,fa,"Four (Cpl)",,"1,66",
+83788,201,Five,rima,"Five, hand-arm.(Source: Pollex)",,1,
+83690,203,Seven,fitu,"Seven (Dty).(Source: Pollex)",,1,
+90950,204,Eight,varu,"Pollex 06: Varu. :Eight.",,3,
+83561,205,Nine,iva,"Nine (Dty).(Source: Pollex)",,"5,44,66",
+83441,206,Ten,-gafuru,"Ten (Dty).(Source: Pollex)",,"5,32",
+83457,206,Ten,t/agafuru,"Ten (Dty).(Source: Pollex)",,5,
+83458,206,Ten,tar/agafuru/,"Ten (Dty).(Source: Pollex)",,5,

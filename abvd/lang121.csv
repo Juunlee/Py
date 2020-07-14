@@ -1,0 +1,199 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+121,Seimat,Blust,ssg,seim1238,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Admiralty Islands, Western","Debasish Roy","Simon Greenhill","@misc{Blust-121-2005,  author = \"Blust\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-1.38963424765552434614,144.57458496093750000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+121,1,hand,mina-n,,,35,1
+478,2,left,kala|maw,,,"1,81",1
+835,3,right,manaw,,,"5, 36",
+1192,4,leg/foot,ae-n,,,1,1
+1549,5,"to walk",nahĩ,,,,
+1906,6,road/path,"awey sal",,,1,1
+2263,7,"to come","nahĩ ma",,,"1,84",1
+2620,8,"to turn",toheni,,,,
+2977,9,"to swim",nunu,,,"12, 56",
+3334,10,dirty,lolo,,,6,
+3691,11,dust,axuan,,,,
+4048,12,skin,uli-n,,,1,1
+4405,13,back,tehĩto-n,,,12,
+4762,14,belly,tia-n,,,1,1
+5119,15,bone,kui-n,,,2,
+5476,16,intestines,puhũa-n,,,10,
+5833,17,liver,ate-n,,,1,1
+6190,18,breast,susu-n,,,1,1
+6547,19,shoulder,wahe-n,,,92,
+6904,20,"to know, be knowledgeable",tioi,,,,
+7261,21,"to think",namiloi,,,,
+7618,22,"to fear",mamata,,,1,1
+7975,23,blood,kaka,,,1,1
+8332,24,head,patu-n,,,9,
+8689,25,neck,kinawe-n,,,19,
+9046,26,hair,uku-n,,,23,
+9403,27,nose,we|ixu-n,,,"1,93",1?
+9760,28,"to breathe",ha|naw,,,1,1
+10117,29,"to sniff, smell",asoi,,,1,1
+10474,30,mouth,awa-n,,,36,
+10831,31,tooth,nisu-n,,,,?
+11188,32,tongue,leho-n,,,9,
+11545,33,"to laugh",mal,,,3,
+11902,34,"to cry",taŋ,,,1,1
+12259,35,"to vomit",mutumut,,,1,1
+12616,36,"to spit",puke,,,,
+12973,37,"to eat",aŋ,,,1,1
+13330,38,"to chew",naketi,,,,
+73387,39,"to cook",simi,,,,
+73388,39,"to cook",saleki,,,,
+14044,40,"to drink",un,,,1,1
+14401,41,"to bite",atalahi,,,,
+14758,42,"to suck",susui,,,25,1
+15115,43,ear,taxiŋa-n,,,1,1
+15472,44,"to hear",hoŋ,,,1,1
+15829,45,eye,pula-n,,,3,
+16186,46,"to see",paxai,,,,
+16543,47,"to yawn",maw,,,19,1
+16900,48,"to sleep",mati,,,"1,70",1
+17257,49,"to lie down",eŋ,,,1,1
+17614,50,"to dream",paxaŋoŋ,,,63,
+17971,51,"to sit",to,,"or 15?",80,
+18328,52,"to stand",tu,,,2,1
+18685,53,"person/human being",seilon,,,,
+19042,54,man/male,wawan,,,1,1
+19399,55,woman/female,hehin,,,"1, 106",1
+19756,56,child,natu-n,,,5,
+20113,57,husband,axoa-n,,,2,1
+20470,58,wife,axoa-n,,,1,
+20827,59,mother,tina-n,,,1,1
+21184,60,father,tama-n,,,1,1
+21541,61,house,iŋ,,,70,
+21898,62,thatch/roof,"kay api",,,1?,
+22255,63,name,axa-n,,,"1, 18",1
+22612,64,"to say",kakak,,,,
+22969,65,rope,tal,,,1,1
+23326,66,"to tie up, fasten",xioti,,,10,
+23683,67,"to sew",sawiti,,,2,
+24040,68,needle,sasawit,,,20,
+24397,69,"to hunt","nahĩ teletel",,,,
+24754,70,"to shoot",hapiki,,,,
+25111,71,"to stab, pierce",tapuhĩ,,,,
+25468,72,"to hit",xai,,,51,
+25825,73,"to steal",xuxuina,,,61,
+26182,74,"to kill",telei,,,98,
+26539,75,"to die, be dead",mat,,,1,1
+26896,76,"to live, be alive",moĩhin,,,5,?
+27253,77,"to scratch",axuti,,,44,?
+27610,78,"to cut, hack",koti,,,9,
+27967,79,stick/wood,pata,,,,
+28324,80,"to split",saŋai,,,,
+28681,81,sharp,aŋian,,,14,
+29038,82,"dull, blunt",tumuku,,,,
+29395,83,"to work",nahĩ,,,,
+29752,84,"to plant",seini,,,,
+30466,86,"to grow",xelexele,,,,
+30823,87,"to swell",hulo,,,7,
+31180,88,"to squeeze",hunui,,,,
+31537,89,"to hold",akekeni,,,,
+31894,90,"to dig",tahĩwi,,,59,
+32251,91,"to buy",kahui,,,,
+33322,94,"to throw",toi,,,,
+33679,95,"to fall",putaput,,,,
+34036,96,dog,sinen,,,91,
+34393,97,bird,manexux,,,1,?
+34750,98,egg,atol,,,1,1
+35107,99,feather,ole-n,,,73,
+35464,100,wing,pau-n,,,7,
+35821,101,"to fly",ŋoŋ,,,,
+36178,102,rat,usuh,,,3,
+36535,103,meat/flesh,xixio-n,,,10,
+36892,104,fat/grease,wia-n,,,34,
+37249,105,tail,koloh,,,71,
+37606,106,snake,weiko,,,61,
+37963,107,"worm (earthworm)",wããt,,,10,
+38320,108,louse,lil,,,26,
+38677,109,mosquito,nam,,,1,1
+39034,110,spider,pulil,,,,
+39391,111,fish,xixi,,,50,
+39748,112,rotten,kohan,,,6,
+40105,113,branch,pehe-n,,,,
+40462,114,leaf,"kay pata",,,,
+40819,115,root,wahã-n,,,2,
+41176,116,flower,palawa,[P],L,,
+41533,117,fruit,hua-n,,,1,1
+41890,118,grass,pahõa,,,,
+42247,119,earth/soil,pekeun,,,,
+42604,120,stone,hat,,,1,1
+42961,121,sand,pekeun,,,,
+43318,122,water,kan,,,1,1
+44032,124,sea,tax,,,1,1
+45103,127,woods/forest,nemaux,,,,
+45460,128,sky,maun,,,73,
+45817,129,moon,paŋapaŋ,,,66,
+46174,130,star,kohot,,,79,
+46531,131,cloud,maun,[=128],,,
+46888,132,fog,oah,,,,
+47245,133,rain,akah,,,,
+47602,134,thunder,kuhuh,,,2,
+47959,135,lightning,usil,,,2,1
+48316,136,wind,aupol,,,,
+48673,137,"to blow",ahoah,,,71,
+49030,138,warm,kekean,,,77,
+49387,139,cold,makian,,,1,1?
+49744,140,dry,paxepaxen,,,9,
+50101,141,wet,waxexan,,,,
+50458,142,heavy,kawatan,,,,
+50815,143,fire,ah,,,1,1
+51172,144,"to burn",lui,,,5,
+51529,145,smoke,axu[an],,,2,1
+51886,146,ash,paloŋ,,,,
+52243,147,black,polun,,,88,
+52600,148,white,papaxaxun,,,115,
+52957,149,red,kakan,,,12,
+53314,150,yellow,aŋoaŋon,,,9,
+53671,151,green,koki,"[cp. Leipon, w-w]",,46,
+54028,152,small,kokol,,,,
+54385,153,big,lalap,,,10,
+54742,154,short,kukunan,,,66,
+55099,155,long,weluwelun,,,12,
+55456,156,thin,maelu,,,,
+55813,157,thick,kilakilan,,,,
+56170,158,narrow,omiomin,,,,
+56527,159,wide,mamanahan,,,6,
+80370,160,"painful, sick",moloan,,,,
+80371,160,"painful, sick",tinun,,,106,
+57241,161,"shy, ashamed",hĩena,,,,
+57598,162,old,salaimat,,,,
+57955,163,new,haun,,,1,
+58312,164,good,solian,,,39,?
+58669,165,"bad, evil",lialun,,,109,
+59026,166,"correct, true",salan,,,91,
+59383,167,night,i|poŋ,,,1,
+59740,168,day,ŋain,,,,1
+60097,169,year,ahaŋ,,,77,
+60454,170,when?,lokon,,,,
+60811,171,"to hide",mumuna,,,"1,67",
+61168,172,"to climb",han,,,1,
+61882,174,"in, inside",leili,,,1,
+62239,175,above,patul,,,40,
+62596,176,below,ahitake,,,,
+62953,177,this,ie,,,,
+81474,178,that,io,,,,
+81475,178,that,ien,,,1,
+63667,179,near,xoixohin,,,,
+64024,180,far,xauxauan,,,1,
+64381,181,where?,ia,,,3?,1?
+64738,182,I,ŋ|a,,,12,
+65095,183,thou,o,,,1,1
+65452,184,he/she,i,,,1,1
+113892,185,we,kako,,,,1
+113893,185,we,amite,,,2,
+66166,186,you,mu|to,,,"1,32",1
+66523,187,they,la|to,,,"62,60",1
+66880,188,what?,la,,,1,?
+67237,189,who?,aita,,,22,
+67951,191,all,hatesol,,,,
+69022,194,how?,ukekia,,,,
+69379,195,"no, not",tap,,,22,
+69736,196,"to count",wexe,,,10,
+70093,197,One,tehu,,,14,
+70450,198,Two,hũõhu,,,1,
+70807,199,Three,toluhu,,,1,1
+71164,200,Four,hinalo,,,20,1

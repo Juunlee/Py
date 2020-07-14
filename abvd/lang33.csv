@@ -1,0 +1,236 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+33,Kapampangan,"Blust from: Forman (1971), McFarland 1977",pam,pamp1243,"Forman, M.L. (1971) A Kapampangan dictionary. Honolulu: University of Hawaii Press.McFarland, C.D. (1977) Northern Philippine linguistic geography. Study of Languages Cultures of Asia and Africa Monograph Series, no. 9. Tokyo: Institute for the Study of Languages and Cultures of Asia and Africa.",,"Austronesian, Malayo-Polynesian, Philippine, Central Luzon, Pampangan","Simon Greenhill","Simon Greenhill","@book{forman1971a,  date      = {1971},  title     = {A Kapampangan dictionary},  publisher = {University of Hawaii},  language  = {en},  address   = {Honolulu},  author    = {Forman, M.L.}}@book{h-McFarland-Northern-Philippine,  title            = {Northern Philippine linguistic geography},  publisher        = {Tokyo: Institute for the Study of Languages and Cultures of Asia and Africa},  pages            = {539},  year             = {1977},  gbid             = {http://books.google.com/books?id=upctAAAAMAAJ},  glottolog_ref_id = {320663},  hhtype           = {overview},  inlg             = {English [eng]},  author           = {McFarland, Curtis D.}}"
+latitude,longitude
+14.98655793030495964047,122.28666925578160373789
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+33,1,hand,gāmat,,,21,
+390,2,left,kaqilí,,,"1,43",
+747,3,right,wánan,,,1,1
+1104,4,leg/foot,bitís,,,23,
+1461,5,"to walk",lákad,,,40,1
+1818,6,road/path,dálan,,,1,1
+2175,7,"to come",dátaŋ,,,14,
+2532,8,"to turn",kurba,,,,
+2889,9,"to swim",káwe,,,82,
+3246,10,dirty,ma-rinát,,,53,
+71894,11,dust,alik|abuk,,,"1,48",
+71895,11,dust,púlbus,,,,
+3960,12,skin,balát,,,21,
+4317,13,back,gúlut,,,85,
+4674,14,belly,á|tcan,,,1,1?
+5031,15,bone,binyás,,,,
+174676,15,bone,butul,,,,
+5388,16,intestines,bitúka,,,21,
+5745,17,liver,até,,,1,1
+6102,18,breast,súsu,,,1,1
+6459,19,shoulder,pagó,,,"21,83",
+6816,20,"to know, be knowledgeable",balwan,,,,
+7173,21,"to think",ísip,,,23,
+7530,22,"to fear",ma-takút,,,1,1
+7887,23,blood,dáyaq,,,1,1
+8244,24,head,búntuk,,,,
+8601,25,neck,bátal,,,,
+8958,26,hair,bwak,,,"1,65",1
+9315,27,nose,áruŋ,,,"1,83",1
+9672,28,"to breathe",maŋis|nawa,,,1,1
+10029,29,"to sniff, smell",bawan,,,71,
+10386,30,mouth,asbúk,,,,
+10743,31,tooth,ípan,,,"1,50",1
+11100,32,tongue,dílaq,,,4,1
+11457,33,"to laugh",ilï,,,99,
+11814,34,"to cry",kiyák,,,20,
+12171,35,"to vomit",súkaq,,,9,
+12528,36,"to spit",yapsa,,,,
+12885,37,"to eat",maŋám,,,"1,14",1
+73302,38,"to chew",gígut,,,1,1
+73303,38,"to chew",mamáq,,,1,1
+13599,39,"to cook",lútuq,,,20,
+13956,40,"to drink",inúm,,,1,1
+14313,41,"to bite",-ket,,,21,1?
+14670,42,"to suck",sipsip,"from Tagalog",L,,1
+15027,43,ear,balugbúg,,,,
+15384,44,"to hear",damdaman,,,,
+15741,45,eye,matá,,,1,1
+16098,46,"to see",íkit,,,"1,109",
+16455,47,"to yawn",úyab,,,"19,11",1?
+16812,48,"to sleep",tudtud,,,1?,
+17169,49,"to lie down",kéra,,,86,
+17526,50,"to dream",maa-ninap,,,30,
+17883,51,"to sit",luklúk,,,,
+18240,52,"to stand",tikdóq,,,,
+18597,53,"person/human being",taú,,,1,1
+18954,54,man/male,laláki,,,"2,99",1
+19311,55,woman/female,babái,,,"1,105",1
+19668,56,child,anák,,,1,1
+20025,57,husband,asáwa,,,2,1
+20382,58,wife,asáwa,,,1,1
+20739,59,mother,maq,,,,
+21096,60,father,núnuq,,,,
+21453,61,house,balé,,,14,
+21810,62,thatch/roof,buuŋán,,,6,
+22167,63,name,lagyúq,,,,
+22524,64,"to say",sábi,"from Tagalog",L,,
+22881,65,rope,lúbid,,,21,
+23238,66,"to tie up, fasten",talíq,,,26,
+23595,67,"to sew",tayí,,,1,1
+23952,68,needle,karayum,,,1,1
+24309,69,"to hunt",man-áyup,,,1?,?
+24666,70,"to shoot",suldúŋ,,,,
+25023,71,"to stab, pierce",saksák,,,68,?
+25380,72,"to hit",paldu,,,,
+25737,73,"to steal",maa-nako,,,1,1
+26094,74,"to kill",paté,,,2,
+26451,75,"to die, be dead",maté,,,1,1
+26808,76,"to live, be alive",ma-biyé,,,15,
+27165,77,"to scratch",kaskás,,,,
+27522,78,"to cut, hack",putut,,,,
+27879,79,stick/wood,dútuŋ,,,,
+28236,80,"to split",baŋal,,,,
+28593,81,sharp,ma-tarám,,,1,1
+28950,82,"dull, blunt",ma-purul,,,"1,33",1
+29307,83,"to work",mag-obra,,L,,
+29664,84,"to plant",tanam,,,2,1
+30021,85,"to choose",piliq,,,1,1
+76204,86,"to grow",dágul,,,,1
+76205,86,"to grow",túbuq,,,1,1
+76265,87,"to swell",ma-kalbag,,,,
+76266,87,"to swell",limbág,,,"1,73",
+31092,88,"to squeeze",paslan,,,,
+76421,89,"to hold",talan,,,,
+76422,89,"to hold",sakmál,,,,
+31806,90,"to dig",kulkúl,,,,
+32163,91,"to buy",salíq,,,"20,54",
+32520,92,"to open, uncover",búklat,,,64,
+32877,93,"to pound, beat",bayú,,,1,1
+76715,94,"to throw",atcáq,,,,
+76716,94,"to throw",pukúl-an,,,27,
+33591,95,"to fall",ma-nábuq,,,1,1
+33948,96,dog,ásu,,,1,1
+34305,97,bird,áyup,,,,
+34662,98,egg,ébun,,,,
+77035,99,feather,bagyús,,,,
+77036,99,feather,bulbul,,,"1,68",
+35376,100,wing,pakpak,,,33,
+35733,101,"to fly",sulápo,,,,
+36090,102,rat,dagís,,,40,
+36447,103,meat/flesh,katawan,,,,
+36804,104,fat/grease,tabáq,,,23,
+37161,105,tail,íkiq,,,1?,?
+37518,106,snake,ubíŋan,,,,
+37875,107,"worm (earthworm)",bu|láti,,,"1,34",1?
+38232,108,louse,kútu,,,1,1
+38589,109,mosquito,amúk,,,1,1
+38946,110,spider,baabagwáq,,,,
+39303,111,fish,asán,,,,
+39660,112,rotten,bugúk,,,,1
+40017,113,branch,saŋá,,,2,
+40374,114,leaf,bulúŋ,,,18,
+77829,115,root,émut,,,3,1
+77830,115,root,yamut,,,3,1
+41088,116,flower,sampága,,,,
+41445,117,fruit,búŋa,,,9,
+41802,118,grass,dikút,,,"2,45",
+42159,119,earth/soil,gabún,,,,
+42516,120,stone,batú,,,1,1
+42873,121,sand,balás,,,19,
+43230,122,water,danúm,,,1,1
+43587,123,"to flow",mam-agus,,,2,
+43944,124,sea,"dayat malat",,,25,
+44301,125,salt,asín,,,3,
+44658,126,lake,labák,,,,
+78454,127,woods/forest,gúbat,,,32,
+78455,127,woods/forest,pulúq,,,,
+45372,128,sky,bánwa,[=169],,32,
+45729,129,moon,búlan,,,1,1
+46086,130,star,batwín,,,1,1
+46443,131,cloud,lúlaq,,,,
+46800,132,fog,úlap,,,37,
+47157,133,rain,urán,,,1,1
+47514,134,thunder,duldúl,,,"2,47",?
+47871,135,lightning,kildáp,,,"1,87",
+48228,136,wind,áŋin,,,1,1
+48585,137,"to blow",labul,,,,
+48942,138,warm,ma-páliq,,,,
+49299,139,cold,ma-rímla,,,,
+49656,140,dry,ma-laŋíq,,,1,
+50013,141,wet,ma-basáq,,,1,1
+50370,142,heavy,ma-báyat,,,1,1
+50727,143,fire,apíq,,,1,1
+51084,144,"to burn",silab,,,37,
+51441,145,smoke,asú|k,,,"2,53",1?
+51798,146,ash,abú,,,1,1
+52155,147,black,ma-tuliŋ,,,84,
+52512,148,white,ma-putíq,,,1,1
+52869,149,red,ma-lutúq,,,,
+53226,150,yellow,diló,"from Tagalog",L,,
+53583,151,green,bérde,,L,,
+53940,152,small,ma-latíq,,,130,
+54297,153,big,ma-rágul,,,22,
+80089,154,short,ma-kúyad,,,,1
+80090,154,short,pandák,,,1,1
+55011,155,long,ma-kábaq,,,41,
+55368,156,thin,impís,,,"1,47",1?
+55725,157,thick,ma-kapál,,,1,1
+56082,158,narrow,ma-kíput,,,47,1?
+56439,159,wide,ma-lápad,,,48,?
+56796,160,"painful, sick",ma-sakít,,,1,1
+57153,161,"shy, ashamed",ma-ríne,,,"76,77",
+57510,162,old,ma-tuá,,,1,1
+57867,163,new,báyu,,,"1,54",1
+58224,164,good,ma-kayap,,,,
+58581,165,"bad, evil",ma-rók,,,"1,97",
+80730,166,"correct, true",talagá,,,,1
+80731,166,"correct, true",tutúq,,,6,1
+59295,167,night,béyi,Metathesis,,"21,90",1
+59652,168,day,aldó,,,1,1
+60009,169,year,bánwa,[=128],,70,
+60366,170,when?,kap|ilán,,,"1,26",1
+60723,171,"to hide",salikút,,,,
+118208,172,"to climb",ukyát,,,17?,1
+118209,172,"to climb",i|panik,,,"1,62",
+61437,173,at,kiŋ,,,"42,47",
+61794,174,"in, inside",lub,,,23,
+62151,175,above,bábo,,,2,1
+81285,176,below,babáq,,,1,1
+81286,176,below,lálam,,,20,1
+62865,177,this,iní,,,1,1
+81445,178,that,ián,,,1,
+81446,178,that,itá,,,58,
+63579,179,near,sípiŋ,,,,
+63936,180,far,ma-rayuq,,,1,?
+81688,181,where?,ante,,,"1,16",
+81689,181,where?,anta,,,"1,16",
+81690,181,where?,nukarín,,,"1,56",
+64650,182,I,aku,,,"1,5",1
+65007,183,thou,ika,,,1,?
+65364,184,he/she,ia,,,1,1
+118210,185,we,itamu,(incl.),,"1,57",1
+118211,185,we,ikami,(excl.),,2,
+66078,186,you,ikayu,"or 59?",,"1,53",
+66435,187,they,ila,,,"1,70",1
+82227,188,what?,naŋ,,,24,
+82228,188,what?,nanuŋ,,,2,
+67149,189,who?,nínu,,,"14,48",
+67506,190,other,aliwaq,,,28,
+67863,191,all,lagánas,,,,
+82480,192,and,ampó,,,,
+82481,192,and,anpón,,,,
+82482,192,and,at,,,26,
+68577,193,if,nuŋ,,,"2,70",?
+68934,194,how?,makanánu,,,"29,78",
+69291,195,"no, not",alíq,,,1,1?
+69648,196,"to count",bílaŋ,,,1,1
+70005,197,One,métuŋ,,,,
+70362,198,Two,adwáq,,,"1,27",1
+70719,199,Three,atlú,,,"1,15",1
+71076,200,Four,apát,,,1,1
+102674,201,Five,lima,,,1,
+102675,202,Six,anam,,,"1,38",
+102676,203,Seven,pitú,,,1,
+108016,204,Eight,walu,,,3,
+108015,205,Nine,siam,,,9,
+108014,206,Ten,apulu,,,5,
+108013,207,Twenty,aduang-pulu,,,"3,6",
+108012,208,Fifty,limam-pulu,,,"1,2",
+102678,209,"One Hundred",dinalan,,,49,
+102677,210,"One Thousand",libu,,,5,

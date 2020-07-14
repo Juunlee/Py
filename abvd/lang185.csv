@@ -1,0 +1,272 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+185,Sasak,"Peter Austin",sas,sasa1249,"Accents indicate an open-close contrast for mid vowels:é = close eè = open eó = close oò = close oWord-final schwa is stressed and more tense, similar to central [3], though itdoesn't contrast with schwa (which is found elsewhere). Some dialects preservefinal [a] while most raise and centralis to [E], and others lower and back it toopen-o (like Javanese). Also, in some dialects there is harmony of earlier [a]with the final vowel. So 'eye' is variably: mata ~ matE ~ mEtE ~ mEt'o ~ m'ot'o.This level of variation is not included, but only the majority form.There is also dialect variation between final l and final n, so some speakershave 'to sit' as t'ok'on, but most have t'ok'ol.",,"Austronesian, Malayo-Polynesian, Bali-Sasak-Sumbawa, Sasak-Sumbawa","Peter Austin",,"@misc{Austin-185-2005,  author = \"Peter Austin\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-8.66791800236312148797,116.27929687500000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+185,1,hand,imə,,,"1,65",1
+542,2,left,kiri,,,"1,42",1
+181161,3,right,kawan,"dialect variation",,"1,62",1
+181162,3,right,kanan,"dialect variation",,"1,73",1
+1256,4,leg/foot,naé,,,1?,1?
+1613,5,"to walk",lampaq,,,42,1
+1970,6,road/path,laŋan,,,1,
+2327,7,"to come",datəŋ,,,14,
+2684,8,"to turn",nikuŋ,,,24,
+3041,9,"to swim",ŋònòŋ,,,1,
+181164,10,dirty,rèmòŋ,"dialect variation",,,
+181163,10,dirty,garut,"dialect variation",,,
+181165,10,dirty,gemi,"dialect variation",,,
+181166,10,dirty,lətaq,"dialect variation",,,
+3755,11,dust,kələpuq,,,,
+159847,11,dust,kərəpuq,,,,
+4112,12,skin,léndóŋ,,,,
+4469,13,back,bòŋkòr,,,,
+4826,14,belly,tian,,,1,1
+5183,15,bone,tòlaŋ,,,1,1
+5540,16,intestines,baduk,,,,
+5897,17,liver,até,,,1,1
+6254,18,breast,susu,,,1,1
+6611,19,shoulder,taòk,,,,
+6968,20,"to know, be knowledgeable",taóq,,,1,1
+7325,21,"to think",pikir,"loan of 22?",L?,22,
+7682,22,"to fear",takut,,,1,1
+8039,23,blood,daraq,,,1,1
+8396,24,head,òtak,,,30,
+8753,25,neck,belòŋ,,,70,
+9110,26,hair,bulu,,,31,
+181167,27,nose,iduŋ,"dialect variation",,1,1
+181168,27,nose,iruŋ,"dialect variation",,1,
+9824,28,"to breathe",bərəmbòk,,,,
+10181,29,"to sniff, smell",ambuq,,,1?,
+10538,30,mouth,biwih,,,32,
+10895,31,tooth,gigi,,,17,
+11252,32,tongue,èlaq,,,4,1?
+181141,33,"to laugh",réréq,"dialect variation",,30,
+181142,33,"to laugh",ririq,"dialect variation",,,
+11966,34,"to cry",naŋis,,,1,1
+12323,35,"to vomit",utaq,,,1,1
+12680,36,"to spit",tusiq,,,,
+181170,37,"to eat",kakən,"(eat meat)",,,
+181169,37,"to eat",maŋan,"(eat rice)",,"1,14",1
+13394,38,"to chew",aŋèt,,,,
+181171,39,"to cook",kəlak,"dialect variation",,,
+181172,39,"to cook",pəriap,"dialect variation",,,
+14108,40,"to drink",ŋinəm,,,1,1
+14465,41,"to bite",gigit,,,21,1
+14822,42,"to suck",ŋəmot,,,,
+15179,43,ear,kəntòk,,,,
+15536,44,"to hear",dəŋah,,,1,1
+159846,44,"to hear",dəŋar,,,,
+15893,45,eye,matə,,,1,1
+16250,46,"to see",gitaq,,,1,1?
+16607,47,"to yawn",ŋóam,,,,
+73961,48,"to sleep",tindóq,,,25,1?
+17321,49,"to lie down",tindóq,,,,
+17678,50,"to dream",impi,,,1,1
+18035,51,"to sit",tòkòl,,,,
+18392,52,"to stand",njəŋ,,,18,1?
+74166,53,"person/human being",dəŋan,,,1,
+74167,53,"person/human being",manusiə,Loan,L,,
+19106,54,man/male,mamə,,,39,
+19463,55,woman/female,ninə,,,30,
+19820,56,child,kanak,,,1,1
+20177,57,husband,səmamə,,,2,
+20534,58,wife,səninə,,,1,
+20891,59,mother,inaq,,,1,1
+21248,60,father,amaq,,,1,1
+21605,61,house,balé,,,14,
+21962,62,thatch/roof,atəp,,,1,1
+22319,63,name,aran,,,1,1
+22676,64,"to say",uni,,,,
+23033,65,rope,tali,,,1,1
+23390,66,"to tie up, fasten",taliq,,,,
+23747,67,"to sew",jait,,,2,1
+24104,68,needle,jarum,,,1,1
+24461,69,"to hunt",seran,,,,
+24818,70,"to shoot",adil,"ult. < Dravidian",L,9,
+25175,71,"to stab, pierce",galah,,,,
+181173,72,"to hit",pantòk,"dialect variation",,,
+181174,72,"to hit",mpuk,"dialect variation",,,
+25889,73,"to steal",paliŋ,,,,
+26246,74,"to kill",matéq,,,2,
+26603,75,"to die, be dead",matə,,,1,1
+181152,76,"to live, be alive",idup,"dialect variation",,1,1
+181153,76,"to live, be alive",irup,"dialect variation",,1,1
+181147,77,"to scratch",kaéh,"dialect variation",,,
+181148,77,"to scratch",karèk,"dialect variation",,,
+181149,77,"to scratch",kaók,"dialect variation",,,
+181175,78,"to cut, hack",pələŋ,"dialect variation",,,
+181176,78,"to cut, hack",pòlòŋ,"dialect variation",,,
+28031,79,stick/wood,kayuq,,,1,1
+28388,80,"to split",sigar,,,94,
+181177,81,sharp,tajəm,"dialect variation",,1,
+181178,81,sharp,məraŋ,"dialect variation",,1,
+181179,82,"dull, blunt",kòŋòl,"dialect variation",,,
+181180,82,"dull, blunt",còŋaŋ,"dialect variation",,,
+181181,82,"dull, blunt",tupuq,"dialect variation",,,
+29459,83,"to work",gawéq,,,21?,
+29816,84,"to plant",talət,,,,
+181182,85,"to choose",piléq,"dialect variation",,1,
+181183,85,"to choose",péléq,"dialect variation",,1,
+181184,86,"to grow",tiwóq,"dialect variation",,1,1?
+181185,86,"to grow",téwóq,"dialect variation",,1,1?
+30887,87,"to swell",bókóq,,,19,
+31244,88,"to squeeze",njək,,,,
+181154,89,"to hold",dəmak,"dialect variation",,,
+181155,89,"to hold",gadiŋ,"dialect variation",,,
+181156,89,"to hold",təgəl,"dialect variation",,,
+31958,90,"to dig",kaliq,,,1,1
+32315,91,"to buy",bəli,,,1,1
+32672,92,"to open, uncover",bukaq,,,1,1
+33029,93,"to pound, beat",tujaq,,,6,
+33386,94,"to throw",ladək,,,,
+181186,95,"to fall",təriq,"dialect variation",,,
+181187,95,"to fall",gəri,"dialect variation",,,
+181188,96,dog,acòŋ,"dialect variation",,1,
+181189,96,dog,basóŋ,"dialect variation",,1,
+181190,96,dog,asu,"dialect variation",,1,
+181230,96,dog,bèrès,"dialect variation",,1,
+34457,97,bird,kəmanukan,,,1,1
+34814,98,egg,təlóq,,,1,1
+35171,99,feather,bulu,,,1,1
+35528,100,wing,kəlètèk,,,,
+35885,101,"to fly",kélép,,,,
+36242,102,rat,bəgaŋ,,,,
+36599,103,meat/flesh,mpaq,,,,
+36956,104,fat/grease,ləmu,,,24,
+37313,105,tail,èlòŋ,,,,
+37670,106,snake,ulah,,,2,1
+181145,107,"worm (earthworm)",lóŋə,"dialect variation",,,
+181146,107,"worm (earthworm)",luŋə,"dialect variation",,,
+38384,108,louse,gutu,,,1,1
+38741,109,mosquito,bəraŋkak,,,,
+39098,110,spider,bərarak,,,,
+39455,111,fish,mpaq,,,,
+39812,112,rotten,bais,,,,
+40169,113,branch,pèmpaŋ,,,"20,62",
+181191,114,leaf,daun,"dialect variation",,1,
+181192,114,leaf,gèdèŋ,"dialect variation",,1,
+181159,115,root,akar,,,2,1
+181160,115,root,akah,,,2,
+41240,116,flower,kəmbaŋ,,,21,
+41597,117,fruit,buaq,,,1,1
+41954,118,grass,rəbu,,,,
+42311,119,earth/soil,tanaq,,,1,1
+42668,120,stone,batu,,,1,1
+181193,121,sand,gerès,"dialect variation",,,
+181194,121,sand,gesik,"dialect variation",,24,
+181195,121,sand,biras,"dialect variation",,26,
+43382,122,water,aiq,,,2,1
+43739,123,"to flow",ŋèlèk,,,,
+44096,124,sea,səgarə,"SA: < Javanese < Sanskrit",L,30,
+44453,125,salt,siə,,,1,1?
+44810,126,lake,telagə,,,,
+181196,127,woods/forest,gawah,"dialect variation",,,
+181197,127,woods/forest,alis,"dialect variation",,,
+45524,128,sky,laŋit,,,1,1
+45881,129,moon,bulan,,,1,1
+46238,130,star,bintaŋ,,,1,
+181150,131,cloud,ukəp,"dialect variation",,57?,
+181151,131,cloud,òkəp,"dialect variation",,57?,
+46952,132,fog,awun-awun,,,27,
+47309,133,rain,ujan,,,1,1
+47666,134,thunder,guntur,,,1,
+48023,135,lightning,kisap,,,1,1?
+48380,136,wind,aŋin,,,1,1
+48737,137,"to blow",tiup,,,"1,19",1
+49094,138,warm,panas,,,1,1
+49451,139,cold,nyət,,,,
+181198,140,dry,geró,"dialect variation",,,
+181199,140,dry,góró,"dialect variation",,,
+181200,140,dry,geriŋ,"dialect variation",,,
+181201,140,dry,tais,"dialect variation",,,
+50165,141,wet,basaq,,,1,1
+50522,142,heavy,bərat,,,1,1
+50879,143,fire,api,,,1,1
+51236,144,"to burn",sədut,,,,
+181139,145,smoke,pəndət,"dialect variation",,49,
+181140,145,smoke,asəp,"dialect variation",,49,
+51950,146,ash,awu-awu,,,1,1
+181202,147,black,bidəŋ,"dialect variation",,"22,32",
+181203,147,black,birəŋ,"dialect variation",,"22,32",
+52664,148,white,putiq,,,1,1
+181204,149,red,abaŋ,"dialect variation",,33,
+181205,149,red,béaq,"dialect variation",,,
+181206,150,yellow,kuniŋ,"dialect variation",,1,
+181207,150,yellow,kóniŋ,"dialect variation",,1,
+181208,151,green,ijó,"dialect variation",,25,
+181209,151,green,éjó,"dialect variation",,25,
+54092,152,small,kódéq,,,2,1?
+54449,153,big,bəléq,,,21,
+54806,154,short,kóntéq,,,,
+55163,155,long,béló,,,,
+55520,156,thin,tipis,,L?,"1,44",1
+181210,157,thick,təbəl,"dialect variation",,26,
+181211,157,thick,mòkóh,"dialect variation",,,
+181212,158,narrow,kutiq,"dialect variation",,1,
+181213,158,narrow,bəkət,"dialect variation",,,
+56591,159,wide,galuh,,,,
+56948,160,"painful, sick",sakit,,,1,1
+57305,161,"shy, ashamed",ilaq,,,1?,
+57662,162,old,tóaq,,,1,1
+58019,163,new,baru,,,1,1
+181214,164,good,bagus,"dialect variation",,31,
+181215,164,good,sólah,"dialect variation",,,
+58733,165,"bad, evil",ləŋé,,L,,
+59090,166,"correct, true",kənaq,"[cf. = Tring]",,,
+59447,167,night,maləm,,,20,
+59804,168,day,jəló,,,,
+60161,169,year,taun,,,1,1
+60518,170,when?,piran,,,"1,65",1
+60875,171,"to hide",nyəbóq,,,,
+61232,172,"to climb",taèk,"[cf. = 157]",,,
+61589,173,at,léq,,,,
+61946,174,"in, inside",daləm,,,1,
+62303,175,above,atas,,,1,1
+62660,176,below,bawaq,,,1,1
+181216,177,this,iné,"dialect variation",,1,1
+181217,177,this,ini,"dialect variation",,1,1
+181218,177,this,né,"dialect variation",,1,1
+181219,177,this,ni,"dialect variation",,1,1
+181220,178,that,inó,"dialect variation",,1,1
+181221,178,that,nó,"dialect variation",,1,1
+63731,179,near,rapət,,,,1?
+64088,180,far,jaóq,,,1,
+64445,181,where?,mbé,,,2?,1
+64802,182,I,aku,,,1,
+181143,183,thou,antə,"dialect variation",,10,
+181144,183,thou,kamu,"dialect variation",,10,
+65516,184,he/she,iə,,,1,
+65873,185,we,itə,,,1,1
+66230,186,you,"antə səlapuq",,,,1
+66587,187,they,"iə padə",,,1?,
+66944,188,what?,apə,,,1,
+67301,189,who?,sai,,,1,1
+67658,190,other,lain,,,2,1
+68015,191,all,səlapuq,,L,,
+68372,192,and,dait,,,,
+68729,193,if,lamun,,,10,
+69086,194,how?,bərəmbé,,,,
+69443,195,"no, not",ndéq,,,2,
+181222,196,"to count",ituŋ,"dialect variation",,31,
+181223,196,"to count",rèkèŋ,"dialect variation; < Dutch",L?,,
+181157,197,One,səkéq,"dialect variation",L,1,
+181158,197,One,sai,"dialect variation",,1,
+70514,198,Two,duə,,,1,
+70871,199,Three,təlu,,,1,1
+71228,200,Four,mpat,,,1,1
+181231,201,Five,limə,,,1,
+181232,202,Six,nəm,,,1,
+181233,203,Seven,pituq,,,1,
+181234,204,Eight,baluq,,,,
+181235,205,Nine,siwaq,,,5,
+181236,206,Ten,sepulu,,,,
+182156,207,Twenty,"duə pulu",,,,
+182157,207,Twenty,lékur,,,,
+182158,207,Twenty,likur,,,,
+181238,208,Fifty,sèkət,,,,
+196745,208,Fifty,"petang dasə",,,,
+181239,209,"One Hundred",seratus,,,4,
+182159,210,"One Thousand",siu,,,5,
+182160,210,"One Thousand",seribu,,,5,
+182161,210,"One Thousand",setali,,,5,

@@ -1,0 +1,223 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+49,Buli,"Blust from: Maan (1940)",bzq,buli1255,"Maan, G. (1940) Boelisch-Nederlandse woordenlijst. Verhandelingen van het Bataviaasch Genootschap van Kunsten en Wetenschappen 74",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, South Halmahera-West New Guinea, South Halmahera, Southeast","Peng Du","Simon Greenhill","@book{64947,  address               = {Bandoeng},  pages                 = {187},  publisher             = {A.C. Nix &Co.},  series                = {Verhandelingen van het Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen},  title                 = {Boelisch-Nederlandsche woordenlijst met Nederlandsch-Boelisch register},  volume                = {74(3)},  year                  = {1940},  bibtexkey             = {maan_boelisch-nederlandsche1940},  class_loc             = {PL7511.H3},  document_type         = {B},  hhtype                = {dictionary},  inlg                  = {Dutch [nld]},  inlg_code             = {nld},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 7511 .H3 MAA 1940},  src                   = {hh, mpieva},  srctrickle            = {hh#d:Maan:Boelisch, mpieva#Maan1940Boelisch},  subject_headings      = {Halmaheran languages–Dictionaries–Dutch, Dutch language–Dictionaries–Halmaheran, Buli language –Dictionaries –Dutch., Halmaheran languages–Dictionaries–Dutch – Dutch language–Dictionaries–Halmaheran – Buli language –Dictionaries –Dutch.},  author                = {Maan, G.}}"
+latitude,longitude
+0.79283187272957811320,128.34237087687549205839
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+49,1,hand,kakamo,,,21,
+406,2,left,balit,,,7,
+763,3,right,wela,,,,
+1120,4,leg/foot,fico,,,,
+1477,5,"to walk",fān,,,2,1
+1834,6,road/path,laliŋ,,,1,1
+2191,7,"to come",làfa,,,,
+71702,8,"to turn",amolol,,,,
+71703,8,"to turn",toy,,,,
+2905,9,"to swim",yas,,,19,
+3619,11,dust,pipasā,,,,
+3976,12,skin,gico,,,,
+4333,13,back,tao,,,,
+4690,14,belly,hñao,,,23,
+5047,15,bone,loŋ,,,,
+5404,16,intestines,"hñai walwalo",,,1,1
+5761,17,liver,yatay,,,1,1
+6118,18,breast,sus,,,1,1
+6475,19,shoulder,maglo,,,,
+6832,20,"to know, be knowledgeable",tō,,,1?,1?
+7189,21,"to think",lolam,,,28,1
+7546,22,"to fear",am-cait,,,,1
+7903,23,blood,laflaf,,,,?
+8260,24,head,boboko,,,,
+8617,25,neck,wao,,,,
+8974,26,hair,uta,,,,
+9331,27,nose,guguo,,,1?,
+9688,28,"to breathe",fawa,,,1?,?
+10045,29,"to sniff, smell",fatan,,,18,
+10402,30,mouth,smo,,,18,
+10759,31,tooth,smo,,,,
+11116,32,tongue,papleo,,,,
+11473,33,"to laugh",amlif,,,3,
+11830,34,"to cry",taŋis,,,1,1
+12187,35,"to vomit",muta,,L,1,
+12544,36,"to spit",apas[a],,,,
+12901,37,"to eat",ān,,,1,1
+13258,38,"to chew",moŋ,,,,
+13615,39,"to cook",[n]dak,,,,
+13972,40,"to drink",dom,,,1?,
+73537,41,"to bite",agél,,,,
+73538,41,"to bite",oŋ,,,,
+73616,42,"to suck",sus,,,1,
+73617,42,"to suck",soraf,,,1,
+15043,43,ear,kaño,,,,
+15400,44,"to hear",loŋa,,,1,1
+15757,45,eye,mta,,,1,1
+73852,46,"to see",ēm,,,,
+73853,46,"to see",niŋa,,,,
+16471,47,"to yawn",mamaip,,,19,1
+16828,48,"to sleep",tuli,,,1,1
+74004,49,"to lie down",ahlēŋ,,,,
+74005,49,"to lie down",pakpak,,,,
+17542,50,"to dream",mafŋél,,,19,
+17899,51,"to sit",totoláŋ,,,1?,
+18256,52,"to stand",osal,,,16,
+18613,53,"person/human being",smat,,,,
+18970,54,man/male,mān,,,1,1?
+19327,55,woman/female,mapíŋ,,,"1,51",1
+19684,56,child,ntu,,,5,
+20041,57,husband,uattā,,,,
+20398,58,wife,ŋolotá,,,,
+20755,59,mother,hñē,,,1?,1
+21112,60,father,hmā,,,1,1
+21469,61,house,ebay,,,,
+21826,62,thatch/roof,yataf,,,1,1
+22183,63,name,ŋasan,,,1,1
+22540,64,"to say",u,,,,
+22897,65,rope,wala,,,2,
+74965,66,"to tie up, fasten",balat,,,,
+74966,66,"to tie up, fasten",pitan,,,,
+23611,67,"to sew",diŋ,,,,
+23968,68,needle,paplaki,,L,,
+24325,69,"to hunt","fān ronda",,,,
+24682,70,"to shoot",pusi,,,2,
+75288,71,"to stab, pierce",tusa,,,33,
+75289,71,"to stab, pierce",sagu,,,,
+25396,72,"to hit",pun,,,23,
+25753,73,"to steal",lois,,,,
+91841,74,"to kill",pun,,,1,1
+91842,74,"to kill",fa-mat,,,2,
+26467,75,"to die, be dead",mat,,,1,1
+26824,76,"to live, be alive",tub,,,,
+27181,77,"to scratch",gāg,,,18,
+75679,78,"to cut, hack",ab,,,,
+75680,78,"to cut, hack",oat,,,,
+75681,78,"to cut, hack",tekis,,,,
+27895,79,stick/wood,ai,,,1,1
+28252,80,"to split",segal,,,17,
+28609,81,sharp,mdalim,,,1,1
+28966,82,"dull, blunt",puŋpuŋ,,,,
+29323,83,"to work","pei manara",,,,
+29680,84,"to plant",tiwa,,,,
+30037,85,"to choose",fisan,,,9,
+30394,86,"to grow",tub,,,1,1
+30751,87,"to swell",bos,,,,
+31108,88,"to squeeze",forār,,,,
+31822,90,"to dig",tiu,,,,
+32179,91,"to buy",gon,,,,
+32536,92,"to open, uncover",salawe,,,,
+76678,93,"to pound, beat",cut,"or 20?",,20,?
+76679,93,"to pound, beat",tok,,,"20, 2",?
+76680,93,"to pound, beat",ta,,,,?
+33250,94,"to throw",tig,,,,
+33607,95,"to fall",pawil,,,,
+33964,96,dog,fun,,,19,
+34321,97,bird,mani,,,1,1
+34678,98,egg,tāl,,,1?,?
+35035,99,feather,"[mani] plu",,,1,1
+35392,100,wing,faio,,,,
+35749,101,"to fly",opa,,,1,1
+36106,102,rat,luf,,,21,
+36463,103,meat/flesh,wàŋat,,,24,
+36820,104,fat/grease,mna,,,1,1
+37177,105,tail,golo,,,,
+37534,106,snake,gu,,,,
+37891,107,"worm (earthworm)",gugulat,,,36,
+38248,108,louse,ut,,,1,1
+38605,109,mosquito,mumis,,,18,
+38962,110,spider,kopolaw,,,,
+39319,111,fish,ian,,,1,1
+77638,112,rotten,bili,,,,
+77639,112,rotten,pepē,,,,
+40033,113,branch,maglo,,,,
+40390,114,leaf,ulú,,,,
+40747,115,root,wā,,,,
+41104,116,flower,saya,,L,,
+41461,117,fruit,"[ai] pio",,,,
+41818,118,grass,wati,,,,
+42175,119,earth/soil,rakrak,,,,
+42532,120,stone,pāt,,,1,1
+42889,121,sand,ñiñēn,,,,
+43246,122,water,waya,,,2,1
+43603,123,"to flow",yoli,,,,?
+43960,124,sea,olat,,,20,
+44317,125,salt,gasi,,L,"3,55",
+44674,126,lake,lanlan,,,1?,1
+45031,127,woods/forest,ailoló,,,11,
+45388,128,sky,laŋit,,,1,1
+45745,129,moon,ŋa,,,,
+46102,130,star,aitotaf,,,,
+46459,131,cloud,mēt,,,,
+47173,133,rain,ulan,,,1,1
+47530,134,thunder,dub,,,,
+47887,135,lightning,lēmlēm,,,19,
+48244,136,wind,làtan,,,,
+48601,137,"to blow",uf[o],,,"4,57",
+48958,138,warm,mfànas,,,1,1
+49315,139,cold,mairiŋ,,,1,1
+79217,140,dry,las,,,,1
+79218,140,dry,māŋ,,,1,1
+50029,141,wet,sisòŋit,,,,
+50386,142,heavy,tēbtēb,,,,
+50743,143,fire,yap,,,1,1
+51100,144,"to burn",mgini,,,,
+51457,145,smoke,mamayás,,,44,1?
+51814,146,ash,gigi|áp,,,1?,1?
+52171,147,black,gogó,,,,
+52528,148,white,bubuláŋ,,,23,
+52885,149,red,kakalā,,,60,
+53242,150,yellow,banban,,,,
+53599,151,green,bisbis,,,,
+53956,152,small,kòrikòri,,,,
+54313,153,big,mamagal,,,,
+54670,154,short,kokopē,,,,
+55027,155,long,mlàŋa,,,22,
+55384,156,thin,mlifis,,,1,1
+55741,157,thick,kapcut,,,19,
+56098,158,narrow,kos,,,,
+56455,159,wide,[m]sai,,,,
+80348,160,"painful, sick",pirpir,,,,
+80349,160,"painful, sick",pisi,,,42,
+57169,161,"shy, ashamed",mai,,,1,1
+57526,162,old,leo,,,,
+57883,163,new,po,,,,
+58240,164,good,mafia,,,1,1
+58597,165,"bad, evil",mayay,,,,
+58954,166,"correct, true",molaŋ,,,,
+59311,167,night,dòram,,,,
+59668,168,day,wōl,,,,
+60025,169,year,taun,,,1,1
+60382,170,when?,ma-fis,,,,
+60739,171,"to hide",gogan,,,,
+81028,172,"to climb",dawil,,,,
+81029,172,"to climb",gewit,,,,
+61453,173,at,mali,,,,
+81183,174,"in, inside",loló,,,1,
+81184,174,"in, inside",mul,,,1,
+62167,175,above,popó,,,2,?
+62524,176,below,pāp,,,1,1
+62881,177,this,taie,,,,
+63238,178,that,ca,,,,
+63595,179,near,las,,,51,
+63952,180,far,lau,,,1,1
+81693,181,where?,luā,,,,
+81694,181,where?,mancā[wa],,,,
+64666,182,I,ya,,,1,1
+65023,183,thou,au,,,1,1
+65380,184,he/she,i,,,1,1
+118220,185,we,ite,,,1,1
+118221,185,we,ame,,,2,
+66094,186,you,meu,,,"1,13",1
+66451,187,they,sil[e],,,1,1?
+66808,188,what?,ahai,,,1,
+67165,189,who?,ise,,,1,1
+67522,190,other,nēsa,,,,
+82383,191,all,dumi,,,21,
+82384,191,all,fa-rumi,,,21,
+68236,192,and,re,,,14,
+68593,193,if,gabe,,,,
+68950,194,how?,laisawa,,,,
+82685,195,"no, not",pa,,,25,
+82686,195,"no, not",pene,,,,
+69664,196,"to count",etaŋ,,,,
+70021,197,One,"[a] sa/[i]sa",,,1,1
+70378,198,Two,"[si] lu",,,1,1
+70735,199,Three,"[si] tol",,,1,1
+71092,200,Four,"[si] fat",,,1,1

@@ -1,0 +1,227 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+288,Ilokano,Blust,ilo,ilok1237,,,"Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Ilocano","Simon Greenhill","Simon Greenhill","@misc{Blust-288-2005,  author = \"Blust\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+17.64402202787272244677,121.11328125000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+288,1,hand,ima,,,"1,65",1
+645,2,left,kannigid,,L,,
+1002,3,right,kannawan,,,"1,67",1
+1359,4,leg/foot,saka,,,"24,107",
+1716,5,"to walk",magna,,,,
+2073,6,road/path,dalan,,,1,1
+2430,7,"to come",umay,,,"1,",1
+2787,8,"to turn",ag-likko,,,21,1
+3144,9,"to swim",ag-langoy,,,1,1
+3501,10,dirty,na-rugit,"PMP (Reid) *rujit \"dirty\"",,27,
+3858,11,dust,tapok,,,47,1
+4215,12,skin,kudil,,,"1,86",
+4572,13,back,likod,,,1,1
+4929,14,belly,tian,,,1,1
+5286,15,bone,tulang,,,1,1
+5643,16,intestines,bagis,,,70,
+6000,17,liver,dalem,,L,,
+6357,18,breast,suso,,,1,1
+6714,19,shoulder,abaga,,L,,1
+7071,20,"to know, be knowledgeable",ammo,,,"25,28",
+7428,21,"to think",ag-panunot,,,70,
+7785,22,"to fear",ag-buteng,,,,
+8142,23,blood,dara,,,1,1
+8499,24,head,ulo,,,1,1
+8856,25,neck,tengnged,,,72,
+9213,26,hair,buok,,,"1,65",1
+9570,27,nose,agong,,,"1,83",1
+9927,28,"to breathe",ag-anges,,,"23,24",
+10284,29,"to sniff, smell",ag-angot,,,"4, 22",
+10641,30,mouth,bibig,"from Tagalog",L,,
+10998,31,tooth,ngipen,,,"1,48",1
+11355,32,tongue,dila,,,4,1
+11712,33,"to laugh",ag-katawa,,,1,1
+12069,34,"to cry",ag-sangit,,,"1,74",1
+12426,35,"to vomit",ag-uta,,,1,1
+171955,35,"to vomit",ag-sarwa,,,,
+12783,36,"to spit",ag-tupra,,,44,
+13140,37,"to eat",mangan,,,"1,14",1
+13497,38,"to chew",ag-ngalngal,,,53,
+13854,39,"to cook",aglu:to,,,20,
+14211,40,"to drink",um-inom,,,1,1
+14568,41,"to bite",ag-kagat,,,1,1
+14925,42,"to suck",supsop,,,"1,73",1
+15282,43,ear,lapayag,,,17,
+15639,44,"to hear",ag-dengngeg,,,1,1
+15996,45,eye,mata,,,1,1
+16353,46,"to see",k-um-ita,,,1,1
+16710,47,"to yawn",ag-suyyaab,?,,,
+17067,48,"to sleep",ma-turog,,,1,1
+17424,49,"to lie down",ag-idda,,,"19,39",
+17781,50,"to dream",ag-tagainep,,,30,
+18138,51,"to sit",ag-tugaw,,,"50,141",
+18495,52,"to stand",ag-takder,,,85,
+18852,53,"person/human being",tao,,,1,1
+19209,54,man/male,lalaki,,,"2,99",1
+19566,55,woman/female,babai,,,"1,105",1
+19923,56,child,anak,,,1,1
+20280,57,husband,asawa,,,2,1
+20637,58,wife,asawa,,,1,1
+20994,59,mother,ina,,,1,1
+247031,59,mother,nanang,,,,
+21351,60,father,ama,,,1,1
+246738,60,father,tatang,,,,
+21708,61,house,balay,,,14,
+22065,62,thatch/roof,atep,,,1,1
+22422,63,name,nagan,,,1,1
+22779,64,"to say",ag-kuna,,,,
+23136,65,rope,tali,,,1,1
+23493,66,"to tie up, fasten",igalot,,,106,
+23850,67,"to sew",ag-dait,,,2,1
+24207,68,needle,dagum,,L,,
+24564,69,"to hunt",ag-anup,,,1,1
+24921,70,"to shoot",ag-pana,,,1,1
+25278,71,"to stab, pierce",mang-dugsol,,,,
+25635,72,"to hit",ag-pangʔor,,,,
+25992,73,"to steal",ag-takaw,,,1,1
+26349,74,"to kill",mang-patay,,,2,
+26706,75,"to die, be dead",matay,,,1,1
+27063,76,"to live, be alive",ag-biag,"with irregular reflex (?) of *R.",,15,
+27420,77,"to scratch",ag-kudkod,,,23,
+27777,78,"to cut, hack",ag-balsig,,,,
+28134,79,stick/wood,kayo,,,1,1
+28491,80,"to split",bisak,,,,
+28848,81,sharp,na-tadem,,,1,1
+29205,82,"dull, blunt",na-mudel,,,"1,33",1
+29562,83,"to work",ag-talon,,,,
+29919,84,"to plant",ag-mula,,,1,1
+30276,85,"to choose",ag-pili,,,1,1
+30633,86,"to grow",t-um-ubo,,,1,1
+30990,87,"to swell",l-um-teg,,,"21,71",
+31347,88,"to squeeze",pespes,,,18,1
+31704,89,"to hold",mang-iggem,,,"43,98",1
+32061,90,"to dig",ag-kali,,,1,1
+32418,91,"to buy",g-um-atang,,,"21,52",
+32775,92,"to open, uncover",lukatan,,,,
+33132,93,"to pound, beat",bayo,,,1,1
+33489,94,"to throw",i-bato,,,45,
+33846,95,"to fall",ag-tinnag,,,,
+34203,96,dog,aso,,,1,1
+34560,97,bird,billit,,,,
+34917,98,egg,iklog,,,"1,24",1
+35274,99,feather,dutdut,,,15,
+35631,100,wing,payak,,,"33,40",
+35988,101,"to fly",ag-tayab,,,"83,84",
+36345,102,rat,utot,,,25,
+36702,103,meat/flesh,bagas,,,28,
+37059,104,fat/grease,taba,,,23,
+37416,105,tail,ipus,,,30,
+37773,106,snake,uleg,,,"2,33",1?
+38130,107,"worm (earthworm)",igges,,,76,
+38487,108,louse,kuto,,,1,1
+38844,109,mosquito,lamok,,,"1,33",1
+39201,110,spider,lawwa-lawwa,,,1,
+39558,111,fish,ikan,,,1,1
+128556,111,fish,sida,,,"18,35",
+39915,112,rotten,na-lungsot,"corrected (LAR)",,,
+40272,113,branch,sanga,,,2,
+40629,114,leaf,bulong,,,18,1
+40986,115,root,ramut,,,3,
+41343,116,flower,sabong,,,"1,24",
+41700,117,fruit,bunga,,,9,
+42057,118,grass,ruot,,,85,
+42414,119,earth/soil,daga,,,24,
+42771,120,stone,bato,,,1,1
+43128,121,sand,darat,,,,
+43485,122,water,danum,,,1,1
+43842,123,"to flow",ag-ayus,,L,"2,74",
+107809,124,sea,taaw,,,27,
+107810,124,sea,baybay,,,28,
+44556,125,salt,asin,,,3,
+44913,126,lake,danaw,,,1,1
+45270,127,woods/forest,ka-kayu-an,,,2,
+45627,128,sky,langit,,,1,1
+45984,129,moon,bulan,,,1,1
+46341,130,star,bituen,,,1,1
+46698,131,cloud,ulep,,,57,
+47055,132,fog,angep,,,,
+47412,133,rain,tudo,,,,
+47769,134,thunder,gurruod,,,"1,94",
+48126,135,lightning,kimat,,,"1,81",
+48483,136,wind,angin,,,1,1
+48840,137,"to blow",puyot,,,,
+49197,138,warm,na-pudot,,,25,
+49554,139,cold,na-lamʔek,,,,1?
+49911,140,dry,na-maga,,,26,
+50268,141,wet,na-basa,,,1,1
+50625,142,heavy,na-dagsen,,,23,
+50982,143,fire,apoy,,,1,1
+51339,144,"to burn",puor,"Corrected (LAR)",,35,
+51696,145,smoke,asok,,,"2,53",1?
+52053,146,ash,dapo,,,17,
+52410,147,black,na-ngisit,"from a Cagayan Valley language where *t > /s/",,,
+52767,148,white,puraw,,,3,
+53124,149,red,na-labaga,,,29,
+53481,150,yellow,duyaw,,,"24,75",
+53838,151,green,na-ata,,,1,
+54195,152,small,bassit,,,,
+54552,153,big,dakkel,,,"22,102",
+54909,154,short,a-baba,,,54,1
+55266,155,long,a-tiddog,,,42,
+55623,156,thin,na-ingpis,,,"1,47",1
+55980,157,thick,na-puskol,,,,
+56337,158,narrow,a-kikid,,,,
+56694,159,wide,na-lawa,,,1,1
+57051,160,"painful, sick",na-sakit,,,1,1
+57408,161,"shy, ashamed",ma-bain,,,25,
+80522,162,old,baket,,,,
+80523,162,old,lakay,,,20,
+58122,163,new,baro,,,"1,54",
+58479,164,good,na-imbag,,,,
+58836,165,"bad, evil",dakes,,,"1,96",
+59193,166,"correct, true",ag-payso,,,,
+59550,167,night,rabii,,,21,
+59907,168,day,aldaw,,,1,1
+60264,169,year,tawen,,,"1,71",1
+60621,170,when?,ka-ano,,,"10,19",
+60978,171,"to hide",ag-lemmeng,,,,
+61335,172,"to climb",um-uli,,,50,
+61692,173,at,iti,,,43,
+81242,174,"in, inside",iti,,,,
+81243,174,"in, inside",uneg,,,16,
+62406,175,above,ngato,,,"21,16",
+62763,176,below,baba,,,1,1
+63120,177,this,daytoy,,,10,
+63477,178,that,dayta,,,16,
+63834,179,near,a-sideg,,,,
+64191,180,far,a-dayu,,,"1,76",
+64548,181,where?,sa-dinno,,,"1,56",
+64905,182,I,si-ak,,,"1,31",1
+65262,183,thou,si-ka,,,"1,30",1
+65619,184,he/she,isu,,,,
+121564,185,we,da-tayo,incl,,"1,64",1
+121565,185,we,da-kami,excl,,"2,53",
+66333,186,you,da-kayo,,,"1,41",
+82184,187,they,da,,,"1,52",1
+82185,187,they,isu-da,,,,1
+67047,188,what?,ania,,,24,
+67404,189,who?,sinno,,,14,
+67761,190,other,sabali,,,"17,41",
+68118,191,all,amin,,,1,1
+82561,192,and,ken,,,1,
+82562,192,and,ket,,,1,
+82563,192,and,ta,,,1,
+68832,193,if,no,,,"2,70",1
+69189,194,how?,kasano,,,"29,74",
+69546,195,"no, not",haan,"Southern dialect?",,,
+291505,195,"no, not",saan,"Northern dialect?",,,
+69903,196,"to count",ag-bilang,,,1,1?
+70260,197,One,maysa,,,1,1
+70617,198,Two,dua,,,1,1
+70974,199,Three,tallo,,,"1,10",1
+71331,200,Four,uppat,,,1,1
+83865,201,Five,lima,,,1,
+83860,202,Six,innem,,,1,
+83861,203,Seven,pito,,,1,
+83862,204,Eight,walo',,,3,
+83863,205,Nine,siam,,,9,
+83864,206,Ten,sangapulo,,,5,
+128557,207,Twenty,duapullo,,,"3,6",
+133468,208,Fifty,limapulo,,,"1,2",
+116392,209,"One Hundred",sanga-gassut,,,"4,50",
+116393,210,"One Thousand",sanga-ribu,,,5,

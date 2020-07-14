@@ -1,0 +1,290 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+36,"Bontok, Guina-ang","Lawrence A. Reid",lbk,cent2292,,,"Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Central Cordilleran, North Central Cordilleran, Nuclear Cordilleran, Bontok-Kankanay, Bontok","Penny Keenan","Simon Greenhill","@book{136553,  address               = {[Honolulu]},  note                  = {Bibliography: p. [241]},  pages                 = {xii+239},  publisher             = {Univ. of Hawaii Press},  series                = {Oceanic linguistics special publication},  title                 = {Philippine minor languages: word lists and phonologies},  volume                = {8},  year                  = {1971},  bibtexkey             = {reid_minor-phonologies1971},  class_loc             = {PL5525},  document_type         = {B},  fn                    = {papua\reid_philippine-minor1971.pdf},  hhtype                = {overview;comparative;wordlist},  inlg                  = {English [eng]},  inlg_code             = {eng},  internetarchive_id    = {rosettaproject_syb_phon-1},  isbn                  = {9780870226915},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 5525 PHI 1971},  src                   = {hh, mpieva, wals},  srctrickle            = {hh#hvw:Reid:Philippine-Minor, mpieva#1971Philippi, wals#4987},  subject_headings      = {Philippine languages–Glossaries, vocabularies, etc., Philippine languages–Phonology, Philippine languages–Glossaries, vocabularies, etc. – Philippine languages–Phonology},  author                = {Reid, Lawrence Andrew},  editor                = {Reid, Lawrence Andrew}}"
+latitude,longitude
+17.00000000000000000000,121.00000000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+36,1,hand,líma,"and arm",,"1,64",1
+393,2,left,ʔigíd,,,,
+750,3,right,ʔawán,,,"1,62",?
+1107,4,leg/foot,sikí,,,24,
+1464,5,"to walk",manálan,,,21,
+1821,6,road/path,dálan,,,1,1
+2178,7,"to come",ʔáli,,,1,1?
+2535,8,"to turn",lígus,,,128,
+2892,9,"to swim",kiyát,,,37,
+3249,10,dirty,kálət,,,57,
+87972,11,dust,tápuk,"from the road. Loan from Ilokano",L,47,
+87973,11,dust,dapúl,"ashes, dust",,77,
+87974,11,dust,ʔabú,"from pounding rice, cleaning etc,",,1,1?
+87988,12,skin,kúdil,"skin of buffalo and cow",,"1,86",
+87989,12,skin,kúpkup,"skin of a person or an animal other than a buffalo or cow, also bark of a tree",,41,
+4320,13,back,ʔədə́g,,,21,
+4677,14,belly,putú,,,52,
+5034,15,bone,túŋʔal,(<M),,1,1
+5391,16,intestines,putú,,,72,
+5748,17,liver,ʔágtəy,,L,,1
+6105,18,breast,súsu,,,1,1
+6462,19,shoulder,púkəl,,,32,
+72281,20,"to know, be knowledgeable",ʔámmú,,,"25,28",
+72282,20,"to know, be knowledgeable",gətkən,,,105,
+72283,20,"to know, be knowledgeable","maŋták [gətə́k]",,,105,
+7176,21,"to think",səmə́k,,,44,
+7533,22,"to fear",ʔə́gyat,,,30,
+7890,23,blood,dála,,,1,1
+8247,24,head,ʔúlu,,,1,1
+8604,25,neck,bagáŋ,,,73,
+8961,26,hair,buʔúk,,,"1,65",1
+9318,27,nose,ʔəŋə́l,,,85,
+9675,28,"to breathe",ʔáŋəs,,,"23,24",
+10032,29,"to sniff, smell",súŋsuŋ,,,9,
+10389,30,mouth,tupə́k,,,34,
+10746,31,tooth,bábʔa,,,72,
+11103,32,tongue,díla,,,4,1
+11460,33,"to laugh",ʔiyə́k,,,"26,37",
+11817,34,"to cry",ʔágal,,,21,
+12174,35,"to vomit",ʔúta,,,1,1
+12531,36,"to spit",túbba,,,44,
+73210,37,"to eat",maŋán,,,"1,14",1
+73211,37,"to eat",kanə́n,,,"1,14",1
+13245,38,"to chew",gə́gʔal,,,"26,55",
+13602,39,"to cook",lútu,,,20,
+13959,40,"to drink",ʔinúm,,,1,1
+14316,41,"to bite",kətə́b,,,71,1
+73609,42,"to suck",súsu,,,25,1
+73610,42,"to suck",súsup,,,"1,24",1
+73611,42,"to suck",súpsup,,,"1,73",1
+15030,43,ear,kúləŋ,,,46,
+15387,44,"to hear",dəŋə́l,,,1,1
+15744,45,eye,matá,,,1,1
+16101,46,"to see",ʔíla,,,26,
+16458,47,"to yawn",ʔuwáb,,,19,1
+16815,48,"to sleep",sə́yəp,,,31,
+17172,49,"to lie down",likə́w,,,,
+17529,50,"to dream",ʔiʔítaw,,,31,
+17886,51,"to sit",patúŋ,,,52,
+18243,52,"to stand",tákdəg,"All forms in this group have irregular reflex of *R",,"85,86",
+74138,53,"person/human being",ʔipugáw,,,30,?
+74139,53,"person/human being",tágu,,,"1,75",?
+74209,54,man/male,laláki,,,"2,99",1
+74210,54,man/male,láki,,,2,1
+74270,55,woman/female,babáʔi,,,"1,105",1
+74271,55,woman/female,báʔi,,,1,1
+91117,56,child,anák,offspring,,1,1
+91118,56,child,ʔuŋá,"stage of development",,22,
+20028,57,husband,asáwa,,,2,1
+20385,58,wife,asáwa,,,1,1
+91250,59,mother,ʔɪ́na,address,,1,1
+91251,59,mother,ʔiná,"relation: ?ina + GEN",,1,
+91303,60,father,ʔáma,"address: ?ama",,1,1
+91304,60,father,ʔamá,"relation: ?ama + GEN",,1,
+21456,61,house,ʔábuŋ,,,16,
+21813,62,thatch/roof,ʔatə́p,,,1,1
+22170,63,name,ŋádan,,,"1,47",1
+74752,64,"to say",kanán,,,"35,36",
+74753,64,"to say",maŋwáni,,,41,
+74754,64,"to say",kumwáni,,,41,
+22884,65,rope,talí,,,1,1
+23241,66,"to tie up, fasten",takə́d,,,104,
+23598,67,"to sew",dáʔit,,,2,1
+23955,68,needle,dágum,,L,,
+24312,69,"to hunt",ʔánup,,,1,1
+25026,71,"to stab, pierce",bádyuk,,,42,
+75366,72,"to hit",pákʔul,,,27,
+75367,72,"to hit",páŋʔul,,,27,
+25740,73,"to steal",lákəw,,,1,1
+26097,74,"to kill",patayə́n,,,2,
+26454,75,"to die, be dead",matə́y,,,1,1
+26811,76,"to live, be alive",tágu,,,75,
+27168,77,"to scratch",gúgʔu,,,22,
+27525,78,"to cut, hack",bákag,"A downward blow of an axe, bolo etc.",,,
+27882,79,stick/wood,káʔəw,,,1,1
+75835,80,"to split",pásək,,,,?
+75836,80,"to split",tampaŋ,,,,?
+75837,80,"to split",deltak,,,,?
+75838,80,"to split",balsig,,,,?
+75839,80,"to split",delsig,,,,?
+75840,80,"to split",tampak,,,,?
+75841,80,"to split",gigʔi,,,,?
+75842,80,"to split",pitak,,,,?
+75843,80,"to split",walakwak,,,,?
+75844,80,"to split",walay,,,,?
+28596,81,sharp,təbə́ŋ,,,40,
+28953,82,"dull, blunt",ʔúpəd,,,,
+29310,83,"to work",buknag,,,,
+76097,84,"to plant",ʔəsə́k,,,28,1
+76098,84,"to plant",múla,,,1,1
+30024,85,"to choose",píli,,,1,1
+30381,86,"to grow",túbu,,,1,1
+76267,87,"to swell",lamán,,,,
+76268,87,"to swell",lətə́g,,,"21,71",
+76269,87,"to swell",latʔəd,,,,
+31095,88,"to squeeze",pisít,,,,?
+31452,89,"to hold",ʔəgnán,,,43,
+93422,90,"to dig",káʔub,"a hole",,77,
+93423,90,"to dig",kúbub,,,13,
+93424,90,"to dig",gúbaŋ,"a garden",,,
+93425,90,"to dig",káʔub,"st. up",,77,
+32166,91,"to buy",láku,,,27,
+32523,92,"to open, uncover",lukát,"from Ilokano",L,,
+32880,93,"to pound, beat",báyu,,,1,1
+33237,94,"to throw",təpʔal,,,96,
+76810,95,"to fall",yakáyak,,,,
+76811,95,"to fall",ʔəpás,,,,
+33951,96,dog,ʔásu,,,1,1
+34308,97,bird,ʔinyúlan,,,74,
+34665,98,egg,ʔítlug,,,"1,24",1
+35022,99,feather,dútdut,"[=body hair]",,15,
+35379,100,wing,payák,,,"33,40",
+35736,101,"to fly",táyaw,"as bird",,"83,38",
+36093,102,rat,ʔútut,,,25,
+36450,103,meat/flesh,bəgás,substance,,28,
+36807,104,fat/grease,tabá,,,23,
+37164,105,tail,ʔípus,,,30,
+37521,106,snake,ʔuwál,,,,1?
+37878,107,"worm (earthworm)",kəláŋ,,,18,
+38235,108,louse,kútu,,,1,1
+38592,109,mosquito,lamúk,,,"1,33",1
+38949,110,spider,kawá,,,"1,71",1?
+39306,111,fish,gadíw,,,37,
+39663,112,rotten,bulúk,,,"1,102",1
+77726,113,branch,paŋa,,,22,
+77727,113,branch,pátiŋ,,,,
+40377,114,leaf,túbu[na],,,23,
+40734,115,root,lamút,,,3,1
+41091,116,flower,sabsábuŋ,,,"1,24",
+41448,117,fruit,bagás[na],"< rice grain",,15,
+41805,118,grass,lúgam,,,,
+42162,119,earth/soil,lúta,,,25,
+42519,120,stone,batú,,,1,1
+42876,121,sand,lagán,,,38,
+43233,122,water,danúm,,,1,1
+78253,123,"to flow",ʔáyus,,,"2,74",
+78254,123,"to flow",búlus,,,29,
+43947,124,sea,báybay,"from Ilokano",L,,
+44304,125,salt,ʔasín,,,3,
+44661,126,lake,pusúŋ,"[flooded area]",,18,
+45018,127,woods/forest,kapágpag,,,103,
+45375,128,sky,dáya,,,22,
+45732,129,moon,búlan,,,1,1
+46089,130,star,taláw,,,25,
+46446,131,cloud,libúʔu,,,50,
+46803,132,fog,libúʔu,,,73,
+47160,133,rain,ʔudán,,,1,1
+47517,134,thunder,kidúl,,,"2,92",
+47874,135,lightning,kə́lyat,,,,1?
+48231,136,wind,latə́ŋ,"also 'cold'",,38,
+78974,137,"to blow",ʔinlatəŋ,,,,1
+78975,137,"to blow",ʔinsúpʔuk,,,,1
+78976,137,"to blow",ʔinsíbud,,,,1
+78977,137,"to blow",ʔinʔayúp,,,,1
+48945,138,warm,púdut,,,25,
+49302,139,cold,latə́ŋ,,,,
+120775,140,dry,namagʔanán,"not of plants",,"26,57",
+120776,140,dry,naklúŋ,"of pondfield",,,
+120777,140,dry,ʔisít,"of water",,,
+50016,141,wet,ʔəbə́l,,,26,
+50373,142,heavy,dágsən,,,23,
+50730,143,fire,ʔapúy,,,1,1
+51087,144,"to burn",púʔul,,,35,
+51444,145,smoke,gasúk,,,"2,53",?
+51801,146,ash,dapúl,,,17,
+52158,147,black,ngísit,"from Ilokano",L,,
+52515,148,white,putaʔák,,,107,
+52872,149,red,ŋayáŋʔa,,,,
+53586,151,green,kagʔaŋə́l,"[lit.like camote leaf]",,,
+53943,152,small,bánʔig,,,33,
+54300,153,big,dakə́l,,,"22,102",
+80091,154,short,ʔáptik,,,49,
+80092,154,short,ʔástik,,,,
+55014,155,long,ʔándu,,,1,
+55371,156,thin,yákut,,,,
+55728,157,thick,sədə́l,,,34,
+56085,158,narrow,lipít,,,1,1?
+56442,159,wide,ʔəwwá,,,"1,61",1?
+56799,160,"painful, sick",sakít,,,1,1
+57156,161,"shy, ashamed",ʔənə́l,,,26,
+80470,162,old,ʔamʔaʔamʔamá,,,,
+80471,162,old,ʔinʔiʔinʔiná,,,,
+57870,163,new,balú,,,"1,54",1
+58227,164,good,gawís,,,48,
+80668,165,"bad, evil",ŋáʔag,,,35,
+80669,165,"bad, evil",lawá,,,27,
+58941,166,"correct, true",ʔustú,,,,
+59298,167,night,labí,,,21,
+59655,168,day,ʔálgew,,,1,1
+60012,169,year,tawə́n,,,"1,71",1
+122672,170,when?,"ʔas kamána",,,66,
+122673,170,when?,"ʔas kaʔátna",,,64,
+122674,170,when?,"ʔad kamána",,,66,
+122675,170,when?,"ʔad kaʔátna",,,,
+60726,171,"to hide",tábon,,,19,
+81022,172,"to climb",káyʔat,,,17?,
+81023,172,"to climb",tíkid,,,17?,
+81091,173,at,ʔas,,,"14,46",
+81092,173,at,ʔad,,,"20,45",
+61797,174,"in, inside","ʔas dáləm",,,1,1
+62154,175,above,"ʔas ʔantágʔəy",,,22,
+62511,176,below,"ʔas ʔanguwáb",,,79,
+81333,177,this,ná,,,8,
+81334,177,this,náʔay,,,8,
+81335,177,this,tuná,,,8,
+81336,177,this,túnʔa,,,8,
+119348,178,that,sá,,,62,
+119349,178,that,sána,,,62,
+119350,178,that,tusá,,,62,
+119351,178,that,túsʔa,,,62,
+119352,178,that,dí,,,56,
+119353,178,that,də́ʔəy,,,56,
+119354,178,that,tudí,,,56,
+119355,178,that,túdʔi,,,56,
+63582,179,near,ʔaśagʔən,,,"47,49",
+63939,180,far,ʔadáwwi,,,"1,36",
+81691,181,where?,ʔíntu,,,"1,28",
+81692,181,where?,ʔandə́,,,"1,16",
+81773,182,I,sakʔə́n,,,"1,28",1
+81774,182,I,-ak,,,"1,30",1
+81775,182,I,-ku,,,x,1
+81857,183,thou,sikʔá,,,"1,30",1
+81858,183,thou,-ka,,,1,1
+81859,183,thou,"-mu /-m",,,28,1
+81931,184,he/she,siyá,,,"1,31",1
+81932,184,he/she,ø,,,,1
+81933,184,he/she,-na,,,"1,34",1
+122676,185,we,datakú,,,"1,20",
+122677,185,we,-takú,,,"1,58",
+122678,185,we,-takú,,,"1,58",
+122679,185,we,dakamí,,,"2,53",
+122680,185,we,-kamí,,,"2,51",
+122681,185,we,-mi,,,2,
+82030,186,you,dakayú,,,"1,41",
+82031,186,you,-kayú,,,"1,20",
+82032,186,you,-yu,,,"1,40",
+82121,187,they,daʔidá,,,"1,53",1
+82122,187,they,didá,,,"1,53",1
+82123,187,they,-da,,,"1,52",1
+82124,187,they,-da,,,"1,52",1
+82229,188,what?,nə,,,"2,18",
+82230,188,what?,"ʔay nə kan",,,"2,18",
+67152,189,who?,sínu,,,"14,47",
+67509,190,other,təkə́n,,,34,
+67866,191,all,ʔamʔin,,,1,1
+68223,192,and,ya,"or 15?",,1?,?
+68580,193,if,mu,,,"3,24",?
+122682,195,"no, not",ʔadí,"[vbal neg]",,1,1
+122683,195,"no, not",bakən,"[nominal neg]",,26,
+69651,196,"to count",bílaŋ,,,1,1
+70008,197,One,ʔəsá,,,1,1
+119171,198,Two,duwá,two,,1,1
+119172,198,Two,dəwʔə́n,"divide in two",,1,
+70722,199,Three,tulú,,,1,1
+71079,200,Four,ʔəpát,,,1,1
+254035,201,Five,limá,,,1,
+254036,202,Six,ʔənə́m,,,1,
+254037,203,Seven,pitú,,,1,
+254038,204,Eight,walú,,,3,
+254039,205,Nine,siyám,,,9,
+254040,206,Ten,sinpúlu,,,5,
+254041,207,Twenty,duwanpúlu,,,"3,6",
+254042,208,Fifty,limanpúlu,,,"1,2",
+254043,209,"One Hundred",singasút,,,"4,50",
+254044,210,"One Thousand",sinlíbu,,,5,

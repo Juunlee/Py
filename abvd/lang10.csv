@@ -1,0 +1,243 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+10,Gimán,"Dick Teljeur",gzn,gane1237,"Villages of Gane Dalam and Gane Luar in South Halmahera",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, South Halmahera-West New Guinea, South Halmahera, East Makian-Gane","Simon Greenhill","Simon Greenhill","@misc{Teljeur-10-2005,  author = \"Dick Teljeur\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-0.14316066226984000553,128.48725864953451036854
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+10,1,hand,komu,,,21,
+367,2,left,abalit,,,7,
+724,3,right,awoyan,,,79,
+1081,4,leg/foot,we,,,"1,100",?
+1438,5,"to walk",han,,,2,
+1795,6,road/path,lolan,,,1,1
+2152,7,"to come",wom,,,,
+2509,8,"to turn",waik,,,8?,
+2866,9,"to swim",koai,,,,
+3223,10,dirty,lila,,,,
+3580,11,dust,yipyáp,,,,
+3937,12,skin,kulit,,,1,1
+72007,13,back,bayau,,,,
+72008,13,back,bawai,,,,
+72009,13,back,buai,,,,
+4651,14,belly,tutu,,,,
+72095,15,bone,moma,,,28,
+72096,15,bone,momu,,,28,
+5365,16,intestines,gale-gale,,,,
+5722,17,liver,yocu,,,,
+88339,18,breast,susu,female,,1,1
+88340,18,breast,pipidu,male,,,
+6436,19,shoulder,paposu,,,,
+6793,20,"to know, be knowledgeable",unak,,,,
+7150,21,"to think",bafikir,"loan of 22",L,22,
+72393,22,"to fear",kiwak,,,,
+72394,22,"to fear",kiak,,,,
+7864,23,blood,git,,,,
+8221,24,head,poi,,,,
+8578,25,neck,koku,,,32,
+72611,26,hair,kiklé,,,71,
+72612,26,hair,kiklena,,,71,
+9292,27,nose,usnu,,,1?,
+9649,28,"to breathe",manou,"0r 17?",,1,1?
+10006,29,"to sniff, smell",fotan,,,18,
+10363,30,mouth,sumu,,,18,
+72911,31,tooth,afó,,,,
+72912,31,tooth,fafó,,,,
+11077,32,tongue,mimou,,,,
+11434,33,"to laugh",mlif,,,3,
+11791,34,"to cry",tangis,,,1,1
+12148,35,"to vomit",awá,,,,
+12505,36,"to spit",badidíf,,,,
+12862,37,"to eat",fon,,,,
+73289,38,"to chew",cakum,,,,
+73290,38,"to chew",hamóm,,,,
+73354,39,"to cook",go,,,,
+73355,39,"to cook",hagó,,,,
+73356,39,"to cook",soang,,,,
+13933,40,"to drink",imin,(<M),,1,1
+14290,41,"to bite",pakat,,,,
+14647,42,"to suck",pis,,,,
+73693,43,ear,tinge,"accented a in Gimar language name",,1?,1
+73694,43,ear,tingena,"accented a in Gimar language name",,1?,1
+15361,44,"to hear",longa,,,1,1
+15718,45,eye,mto,,,1,1
+16075,46,"to see",am,,,,
+16432,47,"to yawn",nganga,,,,
+16789,48,"to sleep",melas,,,,
+17146,49,"to lie down",mtuli,,,,
+17503,50,"to dream",bibúf,,,,
+17860,51,"to sit",bol,,,,
+18217,52,"to stand",wosal,,,16,
+18574,53,"person/human being",manusia,,L,,
+18931,54,man/male,maón,,,1?,
+19288,55,woman/female,mapín,,,"1,51",1
+74343,56,child,tu,,,5?,
+74344,56,child,mtuna,,,5?,
+74345,56,child,nya,,,,
+20002,57,husband,lagai,,,,
+20359,58,wife,kawán,,,,
+20716,59,mother,mamu,,,,
+21073,60,father,bapa,,,5,1
+21430,61,house,um,,,1,1
+21787,62,thatch/roof,yotaf,,,1,1
+22144,63,name,fsona,,,,
+74738,64,"to say",bing,,,,
+74739,64,"to say",bi,,,,
+22858,65,rope,kapiloan,,,,
+23215,66,"to tie up, fasten",soat,,,,
+23572,67,"to sew",badidíng,,,,
+23929,68,needle,laim,,,1?,
+24286,69,"to hunt","hangkik yo","(with dogs)",,,
+24643,70,"to shoot",tablu,"(don't use arrows)",,,
+25000,71,"to stab, pierce",tapa,,,7,
+25357,72,"to hit",bolam,,,,
+25714,73,"to steal",masulak,,,,
+26071,74,"to kill",pun,,,1,1
+26428,75,"to die, be dead",mot,,,1,1
+26785,76,"to live, be alive",fifia,,,,
+27142,77,"to scratch",agág,,,18,
+27499,78,"to cut, hack",tipal,,,,
+27856,79,stick/wood,tokun,,,33,
+28213,80,"to split",sagal,,,17,
+28570,81,sharp,magamin,,,,
+75975,82,"dull, blunt",kapudung,,,,
+75976,82,"dull, blunt",tasusil,,,,
+29284,83,"to work",hamanitap,,,,
+29641,84,"to plant",tonam,,,2,1
+30355,86,"to grow",tub,,,1,1
+76259,87,"to swell",poán,,,,
+76260,87,"to swell",pungas,,,,
+31069,88,"to squeeze",ofal,,,,
+31426,89,"to hold",gotal,,,,
+31783,90,"to dig",ólai,,,,
+32140,91,"to buy",tua,,,,
+32497,92,"to open, uncover",ayolu,,,,
+32854,93,"to pound, beat",tut,"or 20?",,20,1?
+33211,94,"to throw",abilat,,,,
+33568,95,"to fall",mtat,,,26?,
+33925,96,dog,yo,,,,
+34282,97,bird,manik,,,1,1
+34639,98,egg,toli,,,1,1
+34996,99,feather,longku-longku,,,,
+35353,100,wing,faku,,,,
+35710,101,"to fly",opa,,,1,1
+36067,102,rat,luf,,,21,
+36424,103,meat/flesh,wontu,,,24?,
+36781,104,fat/grease,gaji,,,25,
+37138,105,tail,walu,,,,
+37495,106,snake,bau,,,,
+37852,107,"worm (earthworm)",galét,,,,1?
+38209,108,louse,kut,,,1,
+38566,109,mosquito,ninik,,,17,
+77551,110,spider,karanganga,,,,
+77552,110,spider,balágai,,,,
+77553,110,spider,tapilou,,,,
+39280,111,fish,ian,,,1,1
+105183,112,rotten,lekat,(food),,,
+105184,112,rotten,puík,(corpse),,,
+39994,113,branch,kakolu,,,,
+40351,114,leaf,longku,,,,
+40708,115,root,wolu,,,,
+77881,116,flower,sai,,,,?
+77882,116,flower,bungan,,,1,?
+41422,117,fruit,bobu,,,,
+41779,118,grass,bibisá,,,,
+42136,119,earth/soil,gigyát,,,,
+42493,120,stone,lai,,,,
+42850,121,sand,minyana,,,,
+43207,122,water,waya,,,2,1
+43564,123,"to flow",gasi,,,,
+43921,124,sea,wolat,,,20,
+78382,125,salt,gasi,,,"3,55",
+78383,125,salt,myasing,,,"3,45",
+44635,126,lake,talaga,"Sanskrit  loan",L,,
+44992,127,woods/forest,dom,,,,
+45349,128,sky,langit,,,1,1
+45706,129,moon,pait,,,16,
+46063,130,star,batól,,,,
+46420,131,cloud,malukut,,,,
+46777,132,fog,mayas,,,,
+47134,133,rain,ulan,,,1,1
+78785,134,thunder,plakat,,,,
+78786,134,thunder,dimdím,"dimdim - still far away",,,
+47848,135,lightning,bebit,,,,
+48205,136,wind,moda,,,,
+48562,137,"to blow",ufu,,,"4,57",?
+48919,138,warm,psan,,,1,?
+49276,139,cold,makufin,,,1?,
+79207,140,dry,gamós,"aweik - in the sun",,,
+79208,140,dry,aweik,"aweik - in the sun",,,
+49990,141,wet,baloám,,,,
+50347,142,heavy,batona,,,,
+50704,143,fire,lutan,,,20,
+51061,144,"to burn",slai,,,,
+51418,145,smoke,nyas,,,44,
+51775,146,ash,tapin,,,,
+52132,147,black,kidkuda,,,,
+52489,148,white,bulang,,,23,
+121165,149,red,malaka,"(in Gane Dalam)",,,
+121166,149,red,mikoat,"(in Gane Luar)",,,
+53203,150,yellow,madimal,,,,
+53560,151,green,biru,,,5,
+53917,152,small,wai,,,,L
+54274,153,big,loál,,,,
+121167,154,short,gapópai,a.,,,
+121168,154,short,poli-poli,a.,,,
+121169,154,short,katobat,b.,,,
+54988,155,long,mlonga,,,22,
+55345,156,thin,manifis,,,1,1
+55702,157,thick,kamudi,,,,
+56059,158,narrow,nakota,,,1,
+80301,159,wide,loas,,,42?,?
+80302,159,wide,lawilua,,,,?
+80342,160,"painful, sick",bitan,,,,
+80343,160,"painful, sick",culum,,,,
+57130,161,"shy, ashamed",moi,,,1,1
+57487,162,old,tua,,,1,1
+57844,163,new,pou,,,1,1
+58201,164,good,fia,,,1,1
+58558,165,"bad, evil",lekat,,,1?,
+58915,166,"correct, true",hatú,,,,
+59272,167,night,bakomu,,,,
+59629,168,day,balantu,,,,
+89895,169,year,taun,,,1,1
+89896,169,year,pariama,,,15?,
+60343,170,when?,hafisak,,,,
+60700,171,"to hide",bakapók,,,,
+61057,172,"to climb",sapák,,,,
+61414,173,at,li,,,1,1
+81170,174,"in, inside",li,,,1,1
+81171,174,"in, inside",liló,,,1,1
+62128,175,above,payau,,,2?,
+62485,176,below,poli,,,,
+62842,177,this,tajini,,,1,1
+81426,178,that,tajia,,,,
+81427,178,that,tijá,,,,
+63556,179,near,dekin,,,,
+63913,180,far,lou,,,1,1
+81684,181,where?,paló,,,,
+81685,181,where?,"paló li",,,,
+64627,182,I,yak,,,1,1
+64984,183,thou,au,"au (sing.)",,1,1
+65341,184,he/she,i,,,1,1
+120892,185,we,kit,,,1,1
+120893,185,we,am,,,2,
+120894,185,we,ame,,,2,
+66055,186,you,meu,"meu (plur.)",,"1,13",1
+66412,187,they,si,,,1,?
+66769,188,what?,puí,,,,
+67126,189,who?,mei,,,,
+82323,190,other,maleu,,,,
+82324,190,other,goli,,,,
+82325,190,other,lomu,,,,
+67840,191,all,hadumik,,,21,
+68197,192,and,de,,,14,
+82568,193,if,coba,,,,
+82569,193,if,co,,,,
+82618,194,how?,hapuí,,,,
+82619,194,how?,"pei hapuí",,,,
+82668,195,"no, not",tes,,,,
+82669,195,"no, not",tesin,,,,
+69625,196,"to count",hayofan,,,,
+69982,197,One,pso,,,"1,23",1
+70339,198,Two,plu,,,1,1
+70696,199,Three,ptol,,,1,1
+71053,200,Four,pfot,,,1,1

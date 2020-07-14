@@ -1,0 +1,250 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+209,"Cheke Holo","G.M. White",mrn,chek1238,"Also known as A'ara, Marinde, Hograno",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, South New Ireland-Northwest Solomonic, Santa Isabel, East","Peng Du","Simon Greenhill","@book{118627,  address    = {Canberra},  pages      = {285},  publisher  = {Research School of Pacific and Asian Studies, Australian National University},  series     = {Pacific Linguistics: Series C},  title      = {Cheke Holo dictionary},  volume     = {97},  year       = {1988},  bibtexkey  = {kokhonigita-pulomana-white_cheke-holo1988},  fn         = {papua\whiteetal_cheke-holo1988.pdf},  hhtype     = {dictionary},  inlg       = {English [eng]},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#d:Whiteetal:Cheke-Holo},  author     = {White, Geoffrey M. and Kokhonigita, Francis and Pulomana, Hugo}}"
+latitude,longitude
+-8.29847029706735028753,159.65332031250000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+209,1,hand,khame,,,13,1
+566,2,left,mairi,,,"1,59",1
+923,3,right,hneta,strong,,11,
+1280,4,leg/foot,ghahe,,,1,
+1637,5,"to walk",jaoja'o,,,22,
+1994,6,road/path,nabrou,,,37,
+2351,7,"to come",mei,,,1,1
+2708,8,"to turn",kale,,,,
+3065,9,"to swim",aflo,,,,
+3422,10,dirty,thapa,,,76,
+3779,11,dust,nuafi,[?],,,
+4136,12,skin,guli,,,1,1
+4493,13,back,thagru,,,12,
+4850,14,belly,thi'a,,,1,1
+5207,15,bone,hnubra,,,11,
+5564,16,intestines,butu,,,42,
+5921,17,liver,khebu,,,23,
+6278,18,breast,chu'u,,,1,
+6635,19,shoulder,fafra,,,1,
+6992,20,"to know, be knowledgeable",lase,,,34,
+7349,21,"to think",[ghao]ghato,,,18,
+7706,22,"to fear",hmaghu,,,1,?
+8063,23,blood,dadara,,,1,1
+8420,24,head,pha'u,,,14,
+72556,25,neck,grara,"bahbao (polite)",,86,
+72557,25,neck,bahbao,"bahbao (polite)",,,
+9134,26,hair,khakla,,,,
+9491,27,nose,nebu,n-ehu-,,1,
+9848,28,"to breathe",phanga,,,44,
+88693,29,"to sniff, smell",gnahngi,distant,,54,
+88694,29,"to sniff, smell",gnahngo,proximate,,54,
+10562,30,mouth,fɔflo,,,56,
+10919,31,tooth,khe'i,,,9,
+11276,32,tongue,glapi,,,21,
+11633,33,"to laugh",[mae]ma'e,,,63,
+11990,34,"to cry",tahni,,,1,1
+12347,35,"to vomit",lu'a,,,8,
+12704,36,"to spit",kmisu,,,"14, 22",
+13061,37,"to eat",ghamu,,,"1,43",
+13418,38,"to chew",ehu,"especially sugar cane",,,
+13775,39,"to cook",gahu,,,,?
+14132,40,"to drink",ko'u,,,30,
+14489,41,"to bite",kathu,,,13,
+14846,42,"to suck",chubo,,,33,
+15203,43,ear,khuli,,,6,
+15560,44,"to hear",nohmi,,,31,
+15917,45,eye,tatha,,,17,1
+16274,46,"to see",filo,"chance resemblance with hilo in Nakanai, can't reconstruct proto form",,59,
+16631,47,"to yawn",hohoa,,,,
+16988,48,"to sleep",thuru,,,1,1
+17345,49,"to lie down",lughu,,,,
+17702,50,"to dream",mifi,,,"1, 37",1
+18059,51,"to sit",hgnokro,,,83,
+18416,52,"to stand",khegra,,,39,
+18773,53,"person/human being",naikno,,,13,
+74231,54,man/male,mae,,,1,
+74232,54,man/male,mahla'u,,,47,
+74300,55,woman/female,naikno,,,,
+74301,55,woman/female,ga'ase,,,12,
+19844,56,child,sua,,,9,
+20201,57,husband,kheto[gna],her,,,
+20558,58,wife,kheto[gna],his,,,
+74495,59,mother,doghe,"ido (vocative)",,29,
+74496,59,mother,ido,"ido (vocative)",,19,
+91329,60,father,kma[gna],,,1,1
+91330,60,father,mama,(vocative),,"1,10",
+21629,61,house,suga,,,9,
+21986,62,thatch/roof,naota[sugo],,,1?,?
+22343,63,name,nahnga[gna],,,"1,18",
+22700,64,"to say",cheke,,,79,
+23057,65,rope,phukri,,,17,
+23414,66,"to tie up, fasten",[pi]pigla,,,52,
+23771,67,"to sew",susuki,,,"17, 48",
+24485,69,"to hunt",hili,(pig),,12,
+24842,70,"to shoot",fada,,,,?
+25199,71,"to stab, pierce",churu,,,,
+25556,72,"to hit",a'aknu,,,50,
+25913,73,"to steal",blau,,,"1,11",
+26270,74,"to kill",falehe,,,16,
+26627,75,"to die, be dead",lehe,,,5,
+26984,76,"to live, be alive",kahra,,,40,
+27341,77,"to scratch",gharo,,,1,1
+75742,78,"to cut, hack",rave,,,83,?
+75743,78,"to cut, hack",toka,,,27,?
+28055,79,stick/wood,gaiju,,,1,1
+28412,80,"to split",ahla,,,14,
+28769,81,sharp,fnonu,,,75,
+29126,82,"dull, blunt",phuka,,,20,
+29483,83,"to work",loku,,,50,
+76124,84,"to plant",ja'i,,,,
+76125,84,"to plant",jo'u,,,,
+30197,85,"to choose",fahi,,,11,
+30554,86,"to grow",khotu,,,,
+30911,87,"to swell",huge,,,38,
+31268,88,"to squeeze",poji,,,18,?
+31625,89,"to hold",[lou]loku,,,60,
+31982,90,"to dig",dokha,,,3,
+32339,91,"to buy",foli,,,1,1
+76655,92,"to open, uncover",fehra,,,,
+76656,92,"to open, uncover",tora,,,,
+33053,93,"to pound, beat",tuge,,,"20, 2",1?
+76783,94,"to throw",fada,,,,
+76784,94,"to throw",koko,,,,
+76923,96,dog,khuma,,,13,
+76924,96,dog,khau,,,17,
+76925,96,dog,hmeke,,,65,
+34481,97,bird,nahngaji,,,35,
+34838,98,egg,nakredi,,,13,
+35195,99,feather,khakla,,,9,
+35552,100,wing,baghi,,,16,
+35909,101,"to fly",flalo,,,16,
+77177,102,rat,nakhude,,,3,
+77178,102,rat,nakhusi,,,3,
+77179,102,rat,khukumede,,,3,
+36623,103,meat/flesh,nafnahi,,,17,
+36980,104,fat/grease,garofa,,,46,
+37337,105,tail,gleghu,,,49,
+37694,106,snake,mogho,,,48,
+38051,107,"worm (earthworm)",moadukhe,[?],,,
+38408,108,louse,theli,,,18,
+38765,109,mosquito,naungo,,,49,
+39122,110,spider,khakafre,,,13,
+39479,111,fish,sasa,,,45,
+39836,112,rotten,boto,,,"9, 70",
+40193,113,branch,gaiju,,,8,
+40550,114,leaf,khakla,,,15,
+77841,115,root,glathi,"grabu - small root",,25,
+77842,115,root,grabu,"grabu - small root",,26,
+41264,116,flower,sisi,,,16,
+77939,117,fruit,sisi,,,,1
+77940,117,fruit,fu'a,,,1,1
+41978,118,grass,buburu,,,19,
+42335,119,earth/soil,glose,,,43,
+42692,120,stone,thina,,,24,
+43049,121,sand,nusu,,,55,
+43406,122,water,kho'u,,,7,
+43763,123,"to flow",britha,,,50,
+78344,124,sea,thongna,,,44,
+78345,124,sea,thibuhi,,,40,
+44477,125,salt,tahi,,,20,
+45191,127,woods/forest,mata,,,25,
+45548,128,sky,gabro,,,43,
+45905,129,moon,glaba,,,27,
+46262,130,star,nathunu,,,"1,41",
+46619,131,cloud,grokho,"dark cloud=gromno",,20,
+47333,133,rain,nakhete,,,29,
+108003,134,thunder,fila,"close / loud",,23,?
+108004,134,thunder,gugulu,"distant rumble",,2,
+48047,135,lightning,nakafli,,,13,
+48404,136,wind,nuri,,,68,
+79026,137,"to blow",nuinuri,,,,
+79027,137,"to blow",gagahafa,,,,
+79028,137,"to blow",ifu,,,5,
+49118,138,warm,brana,,,60,
+49475,139,cold,reka,,,48,
+79268,140,dry,kapra,,,,
+79269,140,dry,moja,,,62,
+50189,141,wet,bothu,,,54,
+50546,142,heavy,tahu,,,15,
+50903,143,fire,kha'agi,,,29,
+51260,144,"to burn",tunu,,,1,1
+51617,145,smoke,khujo,,,64,
+51974,146,ash,nakrofu,,,25,
+52331,147,black,pipito,,,11,?
+52688,148,white,vegha,,,19,
+53045,149,red,ukru,,,22,
+79785,150,yellow,ngonge,,,9,
+79786,150,yellow,kopi,,,53,
+53759,151,green,kakahra,,,23,
+54116,152,small,ikoi,,,54,
+54473,153,big,bi'o,,,53,
+54830,154,short,kmo'e,,,17,
+55187,155,long,brahu,,,16,
+80196,156,thin,nihmi,"gagaro (body)",,,1?
+80197,156,thin,gagaro,"gagaro (body)",,31,1?
+55901,157,thick,thuta,,,16,
+56258,158,narrow,gobro,,,,
+56615,159,wide,krepa,,,,
+80393,160,"painful, sick",kahru,,,,
+80394,160,"painful, sick",fogra,,,19,
+57329,161,"shy, ashamed",mamaja,,,1,1
+80499,162,old,thiatifa,,,63,
+80500,162,old,bi'o,,,,
+58043,163,new,majaghani,,,29,
+58400,164,good,keli,,,23,
+58757,165,"bad, evil",di'a,,,14,
+80786,166,"correct, true",doglo,"doglo (straight)",,,
+80787,166,"correct, true",tuani,"doglo (straight)",,37,
+59471,167,night,bongi,,,1,1
+59828,168,day,na|rane,,,6,1
+60185,169,year,finogha,,,11,
+60542,170,when?,niha,,,"1,24",1
+60899,171,"to hide",phoru,,,,
+81063,172,"to climb",haghe,,,2,
+81064,172,"to climb",grafa,,,,
+61613,173,at,ka,,,9,
+61970,174,"in, inside",lamna,,,29,1?
+62327,175,above,kligna,,,,
+62684,176,below,phari,,,14,
+81382,177,this,igne,"ao = held",,1,1
+81383,177,this,ao,"ao = held",,23,1
+81508,178,that,igno,,,,1
+81509,178,that,ana,"ana = visible",,1,1
+63755,179,near,namo,,,18,
+81655,180,far,ga'u,,,20,?
+81656,180,far,brahu,,,,?
+64469,181,where?,heva,,,10,
+64826,182,I,iara,,,"1,24",
+65183,183,thou,iagho,,,1,
+81962,184,he/she,na'a,,,15,
+81963,184,he/she,mana,,,"1,8",
+123699,185,we,ta|pa,"incl. 2",,30,1
+123700,185,we,tatilo,3,,,
+123701,185,we,tahati,>3,,31,
+123702,185,we,ghepa,"excl. 2",,,
+123703,185,we,ghetilo,3,,,
+123704,185,we,ghehati,>3,,,
+123313,186,you,ghopa,2,,x,1
+123314,186,you,ghotilo,>2,,,
+82158,187,they,repa,"males and male spp.",,x,
+82159,187,they,retilo,"males and male spp.",,x,
+82160,187,they,rehati,"males and male spp.",,x,
+82161,187,they,"phia mare","males and male spp.",,x,
+82162,187,they,tilomare,"males and male spp.",,x,
+82163,187,they,mare,"males and male spp.",,x,
+66968,188,what?,uhna,,,35,
+67325,189,who?,hei,,,1,1
+67682,190,other,keha,,,,
+82433,191,all,fate'o,,,,
+82434,191,all,hnigho,,,,
+82527,192,and,nei,persons,,33,
+82528,192,and,ghe,persons,,1,
+68753,193,if,ne..nu,"if? then",,36,?
+69110,194,how?,neha,,,16,
+69467,195,"no, not",the'o,,,18,
+82796,196,"to count",kaha,,,10,
+82797,196,"to count",ae'ahe,,,10,
+123399,197,One,kaisei,,,"32,49",
+123400,197,One,kaha,,,32,
+82917,198,Two,phiei,,,6,
+82918,198,Two,pea,,,6,
+82975,199,Three,thiloi,,,1,1?
+82976,199,Three,tilo,,,1,1?
+83055,200,Four,fati,,,"1,65",1
+83056,200,Four,fati,,,"1,65",1

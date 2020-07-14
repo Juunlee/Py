@@ -1,0 +1,266 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+175,Chuukese,Unknown,chk,chuu1238,,"Possible Incorrect Language (Identification based on Three letter acronym)","Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Micronesian, Micronesian Proper, Ponapeic-Trukic, Trukic","Simon Greenhill","Simon Greenhill","@misc{Anonymous-175-2005,  author = \"Anonymous\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+7.57584198321024793188,151.96139955761910300680
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+175,1,hand,kumwuch,,,9,
+532,2,left,-feefin,"word for woman replaced word for left, mwaan means right!",,,
+889,3,right,-mwáán,,,"5, 36",
+1246,4,leg/foot,peche,,,15,
+85145,5,"to walk",nó,,,1,1
+85146,5,"to walk",fetán,,,8,
+1960,6,road/path,aan,,,1,1
+2317,7,"to come",too-,,,9,
+71744,8,"to turn",rik,"change direction",,16,
+71745,8,"to turn",sor,,,13,
+3031,9,"to swim",á,,,7,
+3388,10,dirty,pwpún,,,74,
+3745,11,dust,fanang,,,,
+4102,12,skin,siin,,,1,1
+4459,13,back,sékúr,,,12,
+72067,14,belly,wuupw,,,11,?
+72068,14,belly,saa,,,,?
+5173,15,bone,chúú,,,2,
+5530,16,intestines,aaf,,,,
+5887,17,liver,áá-yá,,,1,1
+6244,18,breast,ttú-,,,1,1
+6601,19,shoulder,afara-,,,1,1
+6958,20,"to know, be knowledgeable",sineēy,,,18,
+88452,21,"to think",eki-yek,,,12,
+88453,21,"to think",neme-ni,,,28,
+7672,22,"to fear",mésék,,,1,1
+8029,23,blood,chcha,,,1,1
+8386,24,head,mékúr,,,13,
+8743,25,neck,wúú,,,18,
+9100,26,hair,wúún,,,10,
+9457,27,nose,pwéét,,,"1,12",1
+9814,28,"to breathe",ngas,,,10,
+10171,29,"to sniff, smell",tini,"coded as a reflex of PMic *saŋu, but relies on irregular vowel changes and subsequent regular *ŋ > n /_i",,11,
+10528,30,mouth,aaw,,,36,
+10885,31,tooth,nii,,,30,?
+11242,32,tongue,chénn-aaw,,,19,
+73022,33,"to laugh",takir,,,98,
+73023,33,"to laugh",kkey,,,11,
+11956,34,"to cry",kkechiw,,,63,
+12313,35,"to vomit",mwmwus,,,1,1
+12670,36,"to spit",ó-ttif,,,"19, 55",
+89297,37,"to eat",mwéngé,?,,8,1?
+89298,37,"to eat",eni,,,1,
+13384,38,"to chew",ngúti,,,11,
+13741,39,"to cook",mwoot,,,"19, 82",
+73480,40,"to drink",wún,,,1,1
+73481,40,"to drink",wúnúmi,,,1,1
+14455,41,"to bite",k-kúú-w,,,9,1
+14812,42,"to suck",t-tumw,"irregular *m > mw probably condition by following round vowel",,81,1?
+15169,43,ear,senig,,,1,1
+15526,44,"to hear",rongo-rong,,,1,1
+15883,45,eye,maas,,,1,1
+73892,46,"to see",weri,,,10,
+73893,46,"to see",kúna,,,18,
+16597,47,"to yawn",m-maw,,,19,?
+16954,48,"to sleep",méwúr,,,1,1
+74016,49,"to lie down",wúnú-,,,1,?
+74017,49,"to lie down",eyi-wen,,,1,?
+17668,50,"to dream",ttan,,,9,
+18025,51,"to sit",móót,,,"18,101",
+18382,52,"to stand",wúú-,,,2,1
+18739,53,"person/human being",aramas,,,"67,70",1?
+19096,54,man/male,mwáán,,,1,1
+91057,55,woman/female,feefin,,,"1,47",1
+91058,55,woman/female,fiin,,,"1,41",
+91059,55,woman/female,chóópwut,,,7,
+74375,56,child,néwú-,,,5,
+74376,56,child,se-miriit,,,,
+173590,57,husband,punuwomw,,,16,
+20881,59,mother,iin,,,1,1
+21238,60,father,saam,,,1,1
+21595,61,house,iimw,,,"1, 48",1
+21952,62,thatch/roof,óós,,,1,1
+22309,63,name,iit,,,66,?
+91404,64,"to say",áá-,,,51,1?
+91405,64,"to say",érá,,,14,
+23023,65,rope,sáán,,,1,1
+75015,66,"to tie up, fasten",féé-ti,,,11,
+75016,66,"to tie up, fasten",rii-ti,,,,
+23737,67,"to sew",tee-te,,,2,1
+24094,68,needle,tikek,,,11,
+24451,69,"to hunt",chee-y,,,9,
+24808,70,"to shoot",pekki,,,4,
+25165,71,"to stab, pierce",t-tuu-,,,13,?
+75407,72,"to hit",wechee-y,,,15,
+75408,72,"to hit",wópwu-wópw,,,,
+25879,73,"to steal",mwócho,,,9,?
+26236,74,"to kill",nnii-y,,,11,
+26593,75,"to die, be dead",máá-,,,1,1
+26950,76,"to live, be alive",manaw,,,7,
+27307,77,"to scratch",eri-ker,,,12,
+92049,78,"to cut, hack",kupii-y,,,20,
+92050,78,"to cut, hack",sepe-si,,,19,
+92303,79,stick/wood,irá,,,2,1
+92304,79,stick/wood,eyi-,,,1,
+92361,80,"to split",pékúú-w,,,8,1
+92362,80,"to split",tine-ni,,,29,
+28735,81,sharp,kkén,,,"14,68",1?
+29092,82,"dull, blunt",kkópw,,,13,
+29449,83,"to work",angaang,,,12,
+29806,84,"to plant",f-fót,,,6,
+30163,85,"to choose",fini,,,1,1
+76231,86,"to grow",teriwi,,,9,
+76232,86,"to grow",nimwmwukonó,,,,
+30877,87,"to swell",pwo,,,9,?
+31234,88,"to squeeze",fiyee-y,,,15,
+31591,89,"to hold",é-mwéchú,,,16,
+31948,90,"to dig",s-sin,,,1,1?
+32305,91,"to buy",méé-ni,,,11,
+32662,92,"to open, uncover",suuki,,,11,
+102919,93,"to pound, beat",wúsú-ús,,,"20, 2",1?
+102920,93,"to pound, beat",pwpwo,,,3,
+33376,94,"to throw",a-kka-ch,,,14,
+33733,95,"to fall",púngú-,,,15,
+34090,96,dog,konaak,,"L < Chamor",,
+76961,97,bird,maan,,,1,1
+76962,97,bird,mach-chang,,,1,1
+34804,98,egg,sókkun,,,"1, 66",
+35161,99,feather,úún,,,30,
+35518,100,wing,paaw,,,7,
+77146,101,"to fly",áás,,,,
+77147,101,"to fly",chang,,,33,
+36232,102,rat,nakkich,,,16,
+36589,103,meat/flesh,futuk,,,10,
+36946,104,fat/grease,kiriis,Loan,L,,
+37303,105,tail,wúkú-,,,1,1
+38017,107,"worm (earthworm)",nikénúúnúpwpwún,,,78,
+38374,108,louse,kúú,,,1,1
+38731,109,mosquito,nǒǒmw,,,1,1
+39088,110,spider,nittopwuráán,,,7,
+39445,111,fish,iik,,,1,1
+77675,112,rotten,tomwun,,,,
+77676,112,rotten,pwa,,,17,
+40159,113,branch,ráá,,,1,1
+40516,114,leaf,chéé,,,1,1
+40873,115,root,waar,,,2,1?
+41230,116,flower,péé-,,,10,
+41587,117,fruit,wuwa,,,1,1
+41944,118,grass,fetin,,,1,1
+78038,119,earth/soil,sóón,,,1,1
+78039,119,earth/soil,pwpwún,,,13,1
+42658,120,stone,faaw,,,1,1
+43015,121,sand,ppi,,,12,
+78194,122,water,chaan,,,1,1
+78195,122,water,kkónik,,,59,1
+43729,123,"to flow",pwu,,,11,
+44086,124,sea,sáát,,,1,1
+44443,125,salt,sóón,,L,,
+78473,127,woods/forest,wén-nap,,,17,
+78474,127,woods/forest,irá-nnap,,,,
+45514,128,sky,nááng,,,1,1
+45871,129,moon,maram,,,7,
+46228,130,star,fúú,,,1,1
+46585,131,cloud,kuchu,,,15,
+173591,132,fog,toopw,,,76,
+173592,132,fog,topwutopw,,,76,
+47299,133,rain,wúút,,,1,1
+107995,134,thunder,paach,,,"15, 16",
+107996,134,thunder,chopwunap,,,,
+107997,134,thunder,ménúng,,,17,
+48013,135,lightning,fiifi,,,34,
+78906,136,wind,eni-,,,1,1
+78907,136,wind,ásápwán,,,81,1
+48727,137,"to blow",wuki,,,15,
+49084,138,warm,pwichi-kkar,,,"10, 76",
+49441,139,cold,ffééw,,,11,
+49798,140,dry,pwas,,,14,
+50155,141,wet,chécho-chén,,,12,
+50512,142,heavy,ch-chow,,,9,
+50869,143,fire,efi-,,,1,1
+51226,144,"to burn",kkar,,,,
+51583,145,smoke,éét,,,2,1
+51940,146,ash,fanang,,,8,
+52297,147,black,chón,,,8,
+52654,148,white,pwecha-,,,11,
+53011,149,red,par,,,17,
+53368,150,yellow,óno-,,,9,
+53725,151,green,araw,,,"13, 52",
+79892,152,small,kisi-kiis,,,80,1
+79893,152,small,chiki-,,,81,1
+54439,153,big,watte,,,,
+54796,154,short,mwoch,,,12,
+55153,155,long,nááney,,,13,
+55510,156,thin,chách-cháák,,,,
+55867,157,thick,maanúún,,,3,
+56224,158,narrow,chéé-mwakkún,,,,
+122864,159,wide,chéé-nap,,,"9, 48",?
+122865,159,wide,chéé-watte,,,9,
+56938,160,"painful, sick",metek,,,1,1
+122999,161,"shy, ashamed",sááw,,,5,
+123000,161,"shy, ashamed",ma,,,1,
+57652,162,old,chiin-nap,,,56,
+58009,163,new,ffé,,,1,1
+80604,164,good,eech,,,,
+80605,164,good,mwirinné,,,,
+80606,164,good,ris,,,112,
+58723,165,"bad, evil",ngngaw,,,11,
+59080,166,"correct, true",pwúng,,,12,
+59437,167,night,pwongú-,,,1,1
+59794,168,day,ráán,,,6,1
+80910,169,year,iyér,,,,1
+80911,169,year,séé,,,,1
+60508,170,when?,ineet,,,"1,24",1
+119189,171,"to hide",wop,,,5,
+119190,171,"to hide",ó-mwóna,,,4,
+61222,172,"to climb",tééki,,,8,
+81124,173,at,nee-,"or 18?",,,1
+81125,173,at,ree-,,,20,1
+81126,173,at,i-,,,1,1
+61936,174,"in, inside",nnó-,,,1,1?
+62293,175,above,wóó-,,,2,?
+62650,176,below,faa-,,,1,1?
+63007,177,this,e-ey,,,"1, 18",
+63364,178,that,e-na,,,1,1
+63721,179,near,arapa-,,,13,
+64078,180,far,toow,,,1,?
+64435,181,where?,iiya,,,37,
+123660,182,I,ngaang,foc.pron,,12,
+123661,182,I,wú,"subj.pron. obj.pron",,x,
+123662,182,I,-ey,poss.pron,,x,
+123663,182,I,-y,,,x,
+123544,183,thou,een,foc.pron,,6,?
+123545,183,thou,ke,subj.pron.,,1,
+123546,183,thou,-k,obj.pron,,x,
+123547,183,thou,-mw,poss.pron,,x,
+132621,184,he/she,iiy,foc.pron,,1,1
+132622,184,he/she,e,subj.pron,,x,
+132623,184,he/she,-a-,obj.pron,,x,
+132624,184,he/she,-n,poss.pron,,x,
+123799,185,we,kiich,foc.pron,,"1, 42",1
+123800,185,we,si,subj.pron.,,9,
+123801,185,we,-kich,obj.pron,,"1, 42",
+123802,185,we,-ch,poss.pron,,x,
+123298,186,you,áámi,foc.pron,,"1,13",1
+123299,186,you,owu,subj.pron.,,x,
+123300,186,you,-kemi,obj.pron,,x,
+123301,186,you,-mi,poss.pron,,x,
+123375,187,they,iir,foc.pron,,"1, 70",
+123376,187,they,re,subj.pron,,"1, 70",1
+123377,187,they,-ʋr,obj.pron,,22,
+123378,187,they,-ʋr,poss.pron,,22,
+66934,188,what?,meeta,,,"1, 64",1?
+67291,189,who?,iyé,,,9,?
+173589,190,other,ööch,,,,
+68005,191,all,meyinisin,,,3,
+122960,192,and,me,,,2,1
+122961,192,and,nge,,,10,
+68719,193,if,ika,,,1,1?
+69076,194,how?,ifa,,,12,
+123594,195,"no, not",aawp,,,14,
+123595,195,"no, not",-se,,,4,
+69790,196,"to count",ánnáyá,,,12,
+82830,197,One,eet,,,1,1
+82831,197,One,e-,,,1,1
+82832,197,One,se-,,,14,1
+70504,198,Two,rúwa-,,,1,1
+82966,199,Three,één,,,1,1
+82967,199,Three,wúnú-,,,1,1
+83041,200,Four,faan,,,"1, 69",1
+83042,200,Four,fa-,,,"1, 66",1
+83043,200,Four,faa-,,,"1, 66",1

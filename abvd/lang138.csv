@@ -1,0 +1,236 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+138,"Tsou T63","Blust, from: Tung (1963)",tsu,tsou1248,"Tung T'ung-ho (1963). A descriptive study of the Tsou language. Taipei: Academia Sinica Special Publications No. 48. ",,"Austronesian, Tsouic, Tsou","Peng Du","Simon Greenhill","@book{61369,  address    = {Taipei},  publisher  = {Institute of History and Philology, Academia Sinica},  series     = {Special Publications},  title      = {A Descriptive Study of the Tsou Language, Formosa},  volume     = {48},  year       = {1964},  added      = {2013-09-01 12:19:49 +0000},  bibtexkey  = {tung_tsou-formosa1964},  hhtype     = {grammar},  inlg       = {English [eng]},  inlg_code  = {eng},  keywords   = {Tsou},  macro_area = {Papua},  modified   = {2013-09-01 12:19:49 +0000},  src        = {phoible, wals},  srctrickle = {phoible#Tung1964, wals#6129},  author     = {Tung, T'ung-Ho}}"
+latitude,longitude
+23.50000000000000000000,120.75000000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+138,1,hand,múcu,,,4,
+495,2,left,vri-na,,,1,1?
+852,3,right,vhóna,"tsu 144",,"1,68",1?
+1209,4,leg/foot,rúru,,,,
+1566,5,"to walk",coecónʉ[a],,,21,
+1923,6,road/path,ceónʉ,"tsu 223",,1,1
+71652,7,"to come",oh-,,,3,
+71653,7,"to come",úso,"PAN *usah according to Sagart",,3,
+2637,8,"to turn",miúnu[i],,,,
+2994,9,"to swim",eu|húŋzu,,,1,1?
+71836,10,dirty,cái,,,1,1
+71837,10,dirty,cáʔi,,,1,1
+4065,12,skin,snʉ́fʉ,,,68,
+4422,13,back,fʔuhu,"cf Saisiat bö?öl 'bone' (LS) No, BB!!",,2,
+4779,14,belly,bʉeo,,,69,
+5136,15,bone,cʉ́ehʉ,"tsu 141",,1,1
+5493,16,intestines,sóeu,,,55,
+5850,17,liver,hʔónu,,,45,
+6207,18,breast,núnʔu,,,3,1
+6564,19,shoulder,eíʔsi,,,52,
+6921,20,"to know, be knowledgeable",bochío,,,3,
+7278,21,"to think",máʔmi,,,1,
+7635,22,"to fear",skóeu[va],,,62,
+7992,23,blood,hmúeu,,,42,
+8349,24,head,fŋúu,"based on PAN buŋuh",,2,
+8706,25,neck,sʉ́nʉ,,,51,
+9063,26,hair,fʔʉ́sʉ,,,1,1
+9420,27,nose,ŋʉcʉ,,,48,
+9777,28,"to breathe",eunsóu,,,1,
+10134,29,"to sniff, smell",eéluʉ[i],,,,
+10491,30,mouth,ŋáeo,,,77,
+10848,31,tooth,hísi,,,2,
+11205,32,tongue,úmo,,,38,
+11562,33,"to laugh",cócvo[i],,,1,1
+11919,34,"to cry",móŋsi,,,1,1
+12276,35,"to vomit",teabuto,"(Ferrell) TSU 169",,"1,33",1
+12633,36,"to spit",tmʉepósʉ[a],,,33?,
+73236,37,"to eat",bónʉ,,,1,1
+73237,37,"to eat",ána,,,1,1
+73316,38,"to chew",msímo,,,45,
+73317,38,"to chew",sínvi,,,45,
+13704,39,"to cook",cúeu[a],,,,
+14061,40,"to drink",mímo,,,2,
+73558,41,"to bite",bóecʉ,"Tsu 174",,1,1
+73559,41,"to bite",eoeóca,"Tsu 174",,1,1
+15132,43,ear,kóeu,,,36,
+15489,44,"to hear",t-m-alʉ,,,2,
+15846,45,eye,mcóo,,,1,1
+73875,46,"to see",baíto,"Tsu 183, km becomes b is Tsou",,1,1
+73876,46,"to see",aíti,"Tsu 183",,,1
+16917,48,"to sleep",oeŋʉ́tʉ,,,44,
+17274,49,"to lie down",oevói,,,,
+17631,50,"to dream",eacéi,,,45,
+17988,51,"to sit",eusúhŋu[i],,,128,
+18345,52,"to stand",eácʉ[i],,,77,
+18702,53,"person/human being",cóu,,,1,1
+19059,54,man/male,hahócŋʉ,,,17,
+19416,55,woman/female,mamespíŋi,,,67,
+74363,56,child,foinána,,,,
+74364,56,child,óko,,,60,
+20130,57,husband,vcóŋʉ,,,87,
+20487,58,wife,vcóŋʉ,,,84,
+20844,59,mother,inó,,,1,1
+21201,60,father,amó,,,1,1
+21558,61,house,emóo,,,1,1
+21915,62,thatch/roof,euási,,,,
+22272,63,name,óŋko,,,42,
+22629,64,"to say",maínca,,,131,
+22986,65,rope,teési,,,1,1
+23343,66,"to tie up, fasten",maepoeísi,,,,
+23700,67,"to sew",t-m-éʔsi,taqiS,,"1,52",1
+24057,68,needle,feézo,,,31,
+24414,69,"to hunt",t-m-aseíti,,,70,
+75250,70,"to shoot",póno,,,1,1
+75251,70,"to shoot",pnáa,,,1,1
+25128,71,"to stab, pierce",s-m-úeu,,,66,
+25485,72,"to hit",smízi,,,,
+25842,73,"to steal",meoeói,,,42,
+26199,74,"to kill",poh-,,,,
+26556,75,"to die, be dead",mcói,,,1,1
+26913,76,"to live, be alive",eansoúa,,,64,
+27270,77,"to scratch",misíʔsi,,,,
+27627,78,"to cut, hack",bohi-,,,,
+75800,79,stick/wood,évi,*kawi,,1,
+75801,79,stick/wood,sʔofʉ,,,,
+28341,80,"to split",aacʔóhu,,,,
+28698,81,sharp,máeno,,,,
+29412,83,"to work",hióa,,,68,
+76118,84,"to plant",emʉ́mʔʉ,,,59,
+76119,84,"to plant",emʉ́a,,,,
+30126,85,"to choose",esbʉtʉ[a],,,,
+30483,86,"to grow",eusúhci,,,44,
+30840,87,"to swell",euoféoʉ,,,46,
+31197,88,"to squeeze",tvóeʉ,,,,
+31554,89,"to hold",tieópʉ[i],,,86,
+31911,90,"to dig",máe,,,57,
+32268,91,"to buy",mihía,,,44,
+76639,92,"to open, uncover",maávo,,,14,
+76640,92,"to open, uncover",paávi,,,14,
+32982,93,"to pound, beat",zotpúu[i],,,41,
+33339,94,"to throw",m-tokʉ,,,81,
+33696,95,"to fall",supeohʉ[i],,,92,
+34053,96,dog,abʔú,,,69,
+34410,97,bird,zómu,,,2,
+34767,98,egg,fcúeu,,,50,
+35124,99,feather,eopúŋu,,,31,
+35481,100,wing,eopúŋu,,,29,
+35838,101,"to fly",toesóso,,,69,
+36195,102,rat,búhci,,,46,
+36552,103,meat/flesh,beáhci,,,75,
+36909,104,fat/grease,hə́sə,,,,
+37266,105,tail,cívci,,,20,
+37623,106,snake,fkói,"etymon: *buNay",,29,
+37980,107,"worm (earthworm)",pólo,,,58,
+38337,108,louse,teó|cu,,,1,1
+38694,109,mosquito,moeócʉ,,,77,
+39408,111,fish,eóskʉ,,,72,
+39765,112,rotten,nakúzo,,,,
+77738,113,branch,éhti,,,45,
+77739,113,branch,ehtísi,,,45,
+40479,114,leaf,hʉŋʉ,,,"4,57",
+40836,115,root,mísi,,,3,
+41193,116,flower,bʉvnʉ,,,,
+41550,117,fruit,beáhci,,,18,
+41907,118,grass,sʔósʔo,,,70,
+42264,119,earth/soil,céoa,,,30,
+42621,120,stone,skúzu,,,,
+42978,121,sand,fuyufuʔu,[F],,"3,92",
+43335,122,water,chúmu,,,1,1
+43692,123,"to flow",moheóvcu,,,25,
+44049,124,sea,"[e] tʉpʉ",,,21,
+44406,125,salt,síeu,,,1,
+44763,126,lake,topúku,,,35,
+45120,127,woods/forest,eazólin[ʔ],,,,
+45477,128,sky,nʉ́ca,,,1,
+45834,129,moon,feóhʉ,,,1,1
+46191,130,star,coŋéoha,,,24,
+46548,131,cloud,cmʉ́cmʉ,,,109,
+107980,133,rain,tnʉeʉ,[N],,1,
+107981,133,rain,m|ʉchʉ,[V],,1,
+47619,134,thunder,akʔeŋʉca,[?],,73,
+47976,135,lightning,moihócu,,,66,
+48333,136,wind,poépe,,,53,
+48690,137,"to blow",hávi,,,,
+49047,138,warm,noeáno,,,,
+49404,139,cold,soeʉmʉ,,,80,
+49761,140,dry,oemíʔmi,,,94,
+50118,141,wet,noeʉ́cʉ,,,83,
+50475,142,heavy,ecbʉ́hʉ,,,7,
+50832,143,fire,púzu,,,1,1
+51189,144,"to burn",ho-,,,,
+51546,145,smoke,feúfeu,*qebel,,1,
+51903,146,ash,fúu,"TSU 134",,1,1
+52260,147,black,kuaóŋa,,,70,
+52617,148,white,fuecʉʔía,,,37,
+52974,149,red,fʉhŋóea,,,83,
+53331,150,yellow,hofʔóea,,,2,
+53688,151,green,riŋhóva,,,67,
+79882,152,small,óko,,,95,
+79883,152,small,okósi,,,95,
+54402,153,big,lóeo,,,,
+54759,154,short,nanʉhtʉ[a],,,80,
+55116,155,long,tacvóhʔi,,,77,
+55473,156,thin,hípsi,"Ni[ ]pis",,1,1
+55830,157,thick,ocmóeʉ,*demeR,,21,
+56187,158,narrow,teakótva,,,57,
+56544,159,wide,fafʔóhʉ,,,57,
+56901,160,"painful, sick",cóŋo,,,86,
+57258,161,"shy, ashamed",hʔoinvéni,,,50,
+57615,162,old,mameói,,,105,
+57972,163,new,fáev|a,,,1,1
+58329,164,good,ʉmnʉ[a],,,99,
+58686,165,"bad, evil",kúi,,,2,
+59400,167,night,féŋna,,,1,
+59757,168,day,híe,,,47,
+60114,169,year,tonsóha,,,63,
+60471,170,when?,homna,*Numana,,17,
+60828,171,"to hide",amʉtʉ[a],,,,
+61185,172,"to climb",tisifóu,,,,
+61899,174,"in, inside",aeumóna,,,18,
+62256,175,above,noépe,,,46,
+62613,176,below,nosʔóeeʉ,,,,
+62970,177,this,éni,,,1,1
+63327,178,that,ícʔo,,,34,?
+63684,179,near,cmúu,,,85,
+64041,180,far,covhi[-a],,,2,
+81709,181,where?,nénu,,,1,1
+81710,181,where?,ánʔo,,,,1
+64755,182,I,áo,,,1,1
+65112,183,thou,súu,,,1,1
+113924,185,we,áto,,,1,1
+113925,185,we,amía,,,2,
+66183,186,you,múu,,,x,1
+66540,187,they,hee,,,,
+66897,188,what?,cúma,,,44,
+67254,189,who?,sía,,,33,
+67611,190,other,cóni,,,,
+67968,191,all,acʉhʉ[a],,,65,
+68325,192,and,ho,,,22,1
+68682,193,if,hoci,,,57,
+69039,194,how?,hía,,,,
+69396,195,"no, not",óʔte,,,93,
+82786,196,"to count",s-m-upeu,,,3,
+82787,196,"to count",spuéni,,,3,
+70110,197,One,cíni,,,3,
+70467,198,Two,eúso,,,1,1
+70824,199,Three,túeu,,,1,1
+71181,200,Four,sʉptʉ,,,1,1
+83822,201,Five,eimo,"*Rima -EG",,1,
+83823,201,Five,rimo,"L? -EG",,1,
+83825,201,Five,limà,"L? -EG",,1,
+83705,202,Six,nomu,,,1,
+83706,202,Six,nauma,,,1,
+83728,202,Six,nómə,,,1,
+83618,203,Seven,pitu,,,1,
+83640,203,Seven,pitu,,,1,
+83641,203,Seven,pitò,,,1,
+83569,204,Eight,vóeu,,,3,
+83591,204,Eight,woru,,,3,
+83592,204,Eight,mevarou,,,3,
+83494,205,Nine,sio,,,5,
+83516,205,Nine,siyo,,,5,
+83517,205,Nine,chuga,,,,
+83103,206,Ten,matl,,,2,
+83102,206,Ten,massok,,,2,
+83101,206,Ten,máskə,,,2,
+83485,206,Ten,máskə,,,2,
+83488,206,Ten,massok,,,2,
+83489,206,Ten,matl,,,2?,
+83377,207,Twenty,mpúsku,,,1,
+83978,209,"One Hundred",seʔconiya,,,,

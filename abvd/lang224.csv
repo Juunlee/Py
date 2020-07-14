@@ -1,0 +1,207 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+224,Teanu,"P. C. Lincoln, 18 Feb 1981",tkw,tean1237,"Puma village in Vanikoro Island",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Temotu, Utupua-Vanikoro","Debasish Roy","Simon Greenhill","@misc{Lincoln-224-2005,  author = \"P. C. Lincoln\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-11.63610000000000077591,166.89331000000001381522
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+224,1,hand,ma,,,"1, 78",?
+581,2,left,mouro,,,"1,59",
+938,3,right,moso,,,5,?
+1295,4,leg/foot,aele,,,90,
+1652,5,"to walk",-le,,,,?
+2009,6,road/path,anoko,,,17,
+2366,7,"to come",-ka,,,,
+2723,8,"to turn",-lubi,,,,
+3080,9,"to swim",-wou,,,25,
+3437,10,dirty,sukuro,,,36,
+3794,11,dust,"awi niawa","[< awi + ne + iawo]",,16,
+4151,12,skin,bele,,,23,
+89758,13,back,ute,,,28,
+89759,13,back,uta,,,28,
+4865,14,belly,sa,,,1,
+5222,15,bone,die,,,2,
+5579,16,intestines,bea,,,25,
+5936,17,liver,owo,"[? 'heart']",,11,
+88348,18,breast,masasa,chest,,10,
+88349,18,breast,ero,nipple,,11,
+6650,19,shoulder,"utele bisa",,,,
+7007,20,"to know, be knowledgeable",-ovei,,,125,
+7364,21,"to think",-vodo,,,10,
+7721,22,"to fear",-madau,,,1,1
+8078,23,blood,abo,,,19,
+8435,24,head,basa,,,9,
+8792,25,neck,awa,,,18,
+9149,26,hair,vie,,,21,
+9506,27,nose,veseŋele,,,24,
+9863,28,"to breathe","-katei mevia",,,,
+10220,29,"to sniff, smell","-leŋi mie",,,95,
+10577,30,mouth,mua,,,29,
+10934,31,tooth,ije,,,20,
+11291,32,tongue,memia,,,7,
+11648,33,"to laugh",-ekeke,,,83,
+12005,34,"to cry",-eteŋi,,,1,1
+12362,35,"to vomit",-loro,,,8,?
+12719,36,"to spit",-ravioe,,,57,
+89305,37,"to eat",-e,[transitive],,1,
+89306,37,"to eat",-voŋo,[intransitive],,"1,53",
+13433,38,"to chew",-kanu,,,63,
+13790,39,"to cook",-apinu,,,,
+14147,40,"to drink",-anu,,,1,1?
+14504,41,"to bite",-ke,,,41,1?
+14861,42,"to suck",-katei,[pull],,,
+15218,43,ear,tania,,,1,1
+15575,44,"to hear",-leŋi,,,1?,?
+15932,45,eye,mata,,,1,1
+16289,46,"to see",-romo,,,21,
+16646,47,"to yawn",-mo,,,19,
+17003,48,"to sleep",-mokoio,,,1,
+17360,49,"to lie down",-wene,,,1,1?
+18074,51,"to sit",-te,,,,
+18431,52,"to stand",-vio,,,103,
+18788,53,"person/human being",mwaliko,,,21,
+19145,54,man/male,mwalikote,,,28,
+19502,55,woman/female,emele,,,21,
+19859,56,child,menu,,,17,
+20216,57,husband,mwalikote,,,,
+20573,58,wife,emele,,,,
+20930,59,mother,ete,,,13,
+21287,60,father,aia,,,22,?
+21644,61,house,moe,,,1,
+22001,62,thatch/roof,ote,"[< m]",,1,1?
+22358,63,name,eŋa,,,20,
+22715,64,"to say",-ko,,,64,
+23072,65,rope,veve,,,26,
+23429,66,"to tie up, fasten",-nago,,,145,
+23786,67,"to sew",-a|sai,,,2,1?
+24143,68,needle,nadakele,,,,
+24500,69,"to hunt",-vio,,,,
+25214,71,"to stab, pierce",-woi,,,60,
+25571,72,"to hit",-wete,,,29?,
+25928,73,"to steal",-punuo,,,"1,58",1?
+26285,74,"to kill",-abu,,,51,
+26642,75,"to die, be dead",-bu,,,19,
+26999,76,"to live, be alive",-maluo,,,21,?
+27356,77,"to scratch",-akale,,,10,
+27713,78,"to cut, hack",-toe,,,74,
+28070,79,stick/wood,-vilo,,,,
+75902,80,"to split",-tevele,,,33?,
+75903,80,"to split",-panade,,,,
+28784,81,sharp,metene,,,36,
+29141,82,"dull, blunt",basa,,,30,
+29498,83,"to work","- la ŋatene",,,,
+29855,84,"to plant",-do,,,,
+30926,87,"to swell",-osubu,,,12,
+31283,88,"to squeeze",-epele,,,1?,
+31640,89,"to hold",-labu,,,,
+31997,90,"to dig",-ae,,,,
+32354,91,"to buy",-sava,,,,
+32711,92,"to open, uncover",-ko,,,,
+33068,93,"to pound, beat",-vo,,,,
+33425,94,"to throw",-laioi,,,,
+33782,95,"to fall",-sabu,,,41?,
+34139,96,dog,kuli,[PNL],L,7,
+34496,97,bird,menuko,,,1,1
+34853,98,egg,waluluo,,,1,
+35210,99,feather,"via menu ko","['hair bird']",,,
+35567,100,wing,ava,,,28,
+35924,101,"to fly",-ava,,,36?,
+36281,102,rat,uvilo,,,29,
+36638,103,meat/flesh,anise,,,40,
+36995,104,fat/grease,teia,,,28,
+37352,105,tail,dekele,,,19,
+37709,106,snake,abilo,,,28,
+38066,107,"worm (earthworm)",mebele,,,,
+38423,108,louse,uko,,,12,?
+38780,109,mosquito,muko,"1,99",,"1,99",
+39137,110,spider,ave,,,38,1?
+39494,111,fish,namuko,,,28,
+39851,112,rotten,-mwaulu,,,1,
+40208,113,branch,"ela vilo",,,12,
+40565,114,leaf,"uie vilo",,,22,
+40922,115,root,kara,,,2,
+41279,116,flower,mana,,,25,
+105353,117,fruit,ua,,,1,1
+105354,117,fruit,wa,,,1,1
+41993,118,grass,abo,,,29,
+42350,119,earth/soil,tanoe,,,1,1?
+42707,120,stone,voko,,,20,1
+43064,121,sand,ole,,,28,1?
+43421,122,water,ero,,,20,
+43778,123,"to flow",-pu,,,11,
+44135,124,sea,revo,,,32,
+44492,125,salt,"kidisa revo",,,,
+44849,126,lake,"toloto ne ŋogoro","lagoon in bush",,6?,
+78481,127,woods/forest,ŋogoro,,,,
+78482,127,woods/forest,atero,"hunting ground",,,
+45563,128,sky,meteliko,,,20,
+45920,129,moon,metele,,,20,
+46277,130,star,"kani moro",,,22,
+46634,131,cloud,adawo,,,11,
+46991,132,fog,miawo,,,20,?
+47348,133,rain,tebo,,,30,
+47705,134,thunder,"i-abu i-epa",,,,
+48062,135,lightning,megilo,,,22,
+48419,136,wind,ŋiro,,,32,
+48776,137,"to blow",-aka,,,27,
+49133,138,warm,pana,,,1,1
+49490,139,cold,medigo,,,1,
+49847,140,dry,kokoro,,,29,
+50204,141,wet,-dobuo,,,,
+50561,142,heavy,motoro,,,,
+50918,143,fire,iawo,,,24,?
+51275,144,"to burn",-voŋo,"[see #37]",,104,
+51632,145,smoke,kaiawo,,,48,
+51989,146,ash,beniawo,,,18,
+52346,147,black,boro,,,25,
+52703,148,white,koro,,,32,
+53060,149,red,moloe,,,1,
+53417,150,yellow,"ŋalukilo imodo",,,31,
+53774,151,green,"abuaŋa toloto",,,32,
+54131,152,small,apiɬaka,,,25,
+54488,153,big,pine,,,30,
+54845,154,short,kuledi,,,29,
+55202,155,long,biouro,,,16,
+55559,156,thin,menieviro,,,1,
+55916,157,thick,abia,,,24,?
+56273,158,narrow,"mona tae","much plenty",,,
+56630,159,wide,mona,,,,
+56987,160,"painful, sick",-tavie,,,31,
+57344,161,"shy, ashamed",-metei,,,,
+57701,162,old,velia,,,,
+58058,163,new,motoe,,,19,
+58415,164,good,wako,,,35,
+58772,165,"bad, evil",tamwaliko,,,21,
+59129,166,"correct, true",susuko,,,11,
+59486,167,night,bogo,,,1,
+59843,168,day,tomoro,,L?,14,?
+60200,169,year,ebieve,,L?,21,
+60557,170,when?,miŋa,"coral tree",,15,
+61271,172,"to climb",-vene,,,7,
+61628,173,at,ne,up,,18,
+61985,174,"in, inside","ne lema",,,1,
+62342,175,above,-vene,,,,1?
+62699,176,below,-abu,up,,,
+63056,177,this,pwene,down,,,
+63413,178,that,ponu,,,,
+63770,179,near,vitoko,,,12,
+64127,180,far,somu,,,1,
+64484,181,where?,vele,,,22,
+64841,182,I,ene,,,"1,22",
+65198,183,thou,eo,,,1?,
+65555,184,he/she,ini,,,"1,6",?
+119410,185,we,"kia pa",,,1,
+119411,185,we,"ku pa",,,,
+66269,186,you,"kai pa",,,x,
+66626,187,they,"da pa",,,14,
+66983,188,what?,ŋanae,,,15,?
+67340,189,who?,ŋele,,,18,
+67697,190,other,iote,,,,
+68054,191,all,abia,['indep'],,,
+68411,192,and,ka,,,1,
+68768,193,if,ŋa,,,31,1
+69125,194,how?,"ŋa pwae",,,,
+69482,195,"no, not",tae,,,4,
+69839,196,"to count",-wo,,,,
+70196,197,One,iune,,,19,
+70553,198,Two,ti|lu,,,1?,
+70910,199,Three,te|te,,,1,1
+71267,200,Four,te|va,,,1,1

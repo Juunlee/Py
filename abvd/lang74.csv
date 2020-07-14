@@ -1,0 +1,205 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+74,Lou,Blust,loj,louu1245,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Admiralty Islands, Eastern, Southeast Islands","Penny Keenan","Simon Greenhill","@misc{Blust-74-2005,  author = \"Robert A. Blust\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-2.39432235753507738352,147.35412597656250000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+74,1,hand,mina-,,,35,1
+431,2,left,kosur,,,,
+788,3,right,kal|moru,,,5,1
+1145,4,leg/foot,pʷeleki-,,,11,
+1502,5,"to walk",wawa,,,,
+1859,6,road/path,sal,,,1,1
+2216,7,"to come",me,,,1,1
+2573,8,"to turn","rek pelewek",,,,
+2930,9,"to swim",kea,,,,
+3287,10,dirty,korkorin,,,5,
+3644,11,dust,kopkop,,,59,1
+4001,12,skin,kuna-,,,10,
+4358,13,back,tomʷa-,,,,
+4715,14,belly,tia-,,,1,1
+5072,15,bone,peteri-,,,30,
+5429,16,intestines,tolui-,,,37,
+5786,17,liver,kari-,,,1,1
+6143,18,breast,susu-,,,1,1
+6500,19,shoulder,tukoru-,,,,
+6857,20,"to know, be knowledgeable",pasek,,,62,
+7214,21,"to think",aŋar,,,6,
+7571,22,"to fear",karirit,,,,
+7928,23,blood,turi-,,,,
+8285,24,head,ara-,,,49,
+8642,25,neck,porŋa-,,,98,
+8999,26,hair,lumu-,,,9,
+9356,27,nose,pur|su-,,,"1,12",?
+9713,28,"to breathe","wilip ŋo-m","[you are breathing]",,8,
+10070,29,"to sniff, smell",uŋ,,,8,
+10427,30,mouth,kolo-,,,97,
+10784,31,tooth,lia-,,,"1,35",?
+11141,32,tongue,karmi-,,,"7, 14",
+11498,33,"to laugh",pilél,,,"3, 54",
+11855,34,"to cry",teŋ,,,1,1
+12212,35,"to vomit",mumut,,,1,1
+12569,36,"to spit",kokorup,,,19,
+12926,37,"to eat",ŋan,,,"1,12",
+13283,38,"to chew",kui,,,,
+13640,39,"to cook",apur,,,112,
+13997,40,"to drink",im,(<M),,1,1?
+14354,41,"to bite",arisap,,,,
+14711,42,"to suck",kum,,,17,
+15068,43,ear,teliŋa,,,1,1
+15425,44,"to hear",roŋ,,,1,1
+15782,45,eye,mara-,,,1,1
+16139,46,"to see",niŋ,,,112,
+16496,47,"to yawn",al|ma,,,19,1
+16853,48,"to sleep",metir,,,"1,70",1?
+17210,49,"to lie down",in,,,1,1
+17567,50,"to dream",mipmip,,,"1, 37",1?
+17924,51,"to sit",tuk,,"or 15?",80,
+18281,52,"to stand",tolul,,,99,
+18638,53,"person/human being",ramat,,,"1,66",1?
+18995,54,man/male,mʷeen,,,1,1
+19352,55,woman/female,pein,,,"1, 41",1
+19709,56,child,noru-,,,5,
+20066,57,husband,asoa-,,,2,1
+20423,58,wife,peria-,,,6,
+20780,59,mother,tina-,,,1,1
+21137,60,father,tama-,,,1,1
+21494,61,house,um,,,1,1
+21851,62,thatch/roof,kat,,,1,1
+22208,63,name,ŋara-,,,1,1
+22565,64,"to say",nesek,,,,
+22922,65,rope,tel,,,1,1
+23279,66,"to tie up, fasten","wirik eli tel","[around with rope]",,,
+23636,67,"to sew",so,,,56,
+23993,68,needle,sou-n,,,1,1
+24350,69,"to hunt",suŋsuŋ,,,5,
+24707,70,"to shoot",aek,,,,
+25064,71,"to stab, pierce",sok,,,67,?
+25421,72,"to hit",op,,,44,
+25778,73,"to steal",panak,,,"1,51",1
+26135,74,"to kill","op mat","[Strike dead]",,"2,45",
+26492,75,"to die, be dead",mat,,,1,1
+26849,76,"to live, be alive","mat puin","[not dead]",,5,
+27206,77,"to scratch",ŋais,,,,
+27563,78,"to cut, hack",om,,,121,
+27920,79,stick/wood,ke,,,1,1
+28634,81,sharp,paran,,,,
+28991,82,"dull, blunt","maran puin","[no point]'sharp' + 'not'",,X,
+29348,83,"to work",maŋas,,,9,
+29705,84,"to plant",as,,,6,
+30062,85,"to choose",ŋaraŋraŋ,,,,
+30419,86,"to grow","mat marak",,,21,
+30776,87,"to swell",ririk,,,,
+31133,88,"to squeeze",ir,,,7,
+31490,89,"to hold",ok,,,,
+31847,90,"to dig",wil,,,1,?
+32204,91,"to buy",pap,,,,
+32561,92,"to open, uncover",uk,,,1,1
+33275,94,"to throw",nek,,,,
+33632,95,"to fall",lus,,,109,
+33989,96,dog,mʷi,,,6,
+34346,97,bird,monmon,,,1,1
+34703,98,egg,rou-n,,,,
+35060,99,feather,"lumu-n monmon",,,4,
+35417,100,wing,"kalu-n monmon",,,83,
+35774,101,"to fly",op,,,1,1
+36131,102,rat,ne,,,,
+36488,103,meat/flesh,kani-,"should this bet combined with set 3? No, it's an independent derivation.",,13,
+36845,104,fat/grease,neneman,,,11,
+37202,105,tail,penreu-,,,,
+37559,106,snake,kolponu,,,,
+38273,108,louse,kut,,,1,1
+38630,109,mosquito,tipnon,,,,
+38987,110,spider,raŋ,,,,
+39344,111,fish,nik,,,1,1
+39701,112,rotten,porokan,,,12,
+40058,113,branch,ra-n,,,1,1
+40415,114,leaf,rei-n,,,1,
+40772,115,root,aku-n,,,2,
+41129,116,flower,pua-n,,,,
+41486,117,fruit,pua-n,,,1,1
+41843,118,grass,pu,,,,
+42200,119,earth/soil,pʷanat,,,9,
+42557,120,stone,rey,,,12,
+42914,121,sand,kone,,,1,1
+43271,122,water,wei,,,2,1
+43985,124,sea,set,(<M),,1,1?
+44699,126,lake,lalwe,,,,
+45056,127,woods/forest,leleap,,,,
+45413,128,sky,ŋorop,,,,
+45770,129,moon,pul,,,1,1
+46127,130,star,rere,,,,
+46841,132,fog,kopkop,,,1,1
+47198,133,rain,paŋ,,,5,
+47555,134,thunder,kurur,,,2,
+47912,135,lightning,salpir,,,92,
+48269,136,wind,aur,,,20,
+48626,137,"to blow",tepelek,,,,
+48983,138,warm,ŋaraan,,,7,
+49340,139,cold,roroun,,,7,
+49697,140,dry,posa,,,9,
+50054,141,wet,pʷiri,,,72,
+50411,142,heavy,[kun]kunun,,,8,
+50768,143,fire,mon,,,4,
+51125,144,"to burn",suli,,,4,
+51482,145,smoke,kosu,,,2,1
+51839,146,ash,posuŋ|op,,,,?
+52196,147,black,karan,,,61,
+52553,148,white,koroun,,,,
+52910,149,red,ramraman,,,12,
+53267,150,yellow,monti,,,,
+53624,151,green,arawin,,,"13, 52",
+79862,152,small,kapʷiri,,,9,
+79863,152,small,kikirin,,,78,
+54338,153,big,meneŋan,,,,
+54695,154,short,tourun,,,66,
+55052,155,long,elewen,,,12,
+55409,156,thin,rakelin,,,,
+55766,157,thick,ururun,,,9,
+56480,159,wide,meneŋan,,,,
+122692,160,"painful, sick",ŋerian,,,9,
+122693,160,"painful, sick",marik,,,54,
+57194,161,"shy, ashamed",mʷemʷesik,,,"1,78",
+57551,162,old,marak,,,,
+57908,163,new,papaeun,,,1,?
+58265,164,good,ian,,,1,1
+58622,165,"bad, evil",palawik,,,107,
+80740,166,"correct, true",pun,,,1,
+80741,166,"correct, true",tuinan,,,37,
+59336,167,night,keli/peŋ,,,1,1?
+59693,168,day,paloal,,,,
+60050,169,year,sasan,Loan?,L?,x,
+60407,170,when?,kipi,,,,
+60764,171,"to hide",perek,,,,
+61121,172,"to climb",tarak,,,,
+61835,174,"in, inside",lalun,,,1,?
+62192,175,above,patan,,,40,
+62549,176,below,mʷelin,,,,
+62906,177,this,tapo,,,,
+63620,179,near,kasoŋ,,,11,
+63977,180,far,awot,,,,
+64334,181,where?,elipe,,,3?,
+64691,182,I,ŋa,,,12,1
+65048,183,thou,o,,,1,?
+65405,184,he/she,i,,,1,1
+81997,185,we,ta-,,,1,1
+81998,185,we,e-,,,66,1
+66119,186,you,a-,,,x,
+82135,187,they,u-,,,,
+82136,187,they,i-,,,42,
+66833,188,what?,sa,,,1,1
+67190,189,who?,sie,(&<M),,"1,28",1?
+67904,191,all,tamina,,,,
+68261,192,and,a,,,,1
+68975,194,how?,"la tamande",,,,
+69332,195,"no, not",puin,,,9,
+69689,196,"to count",tut,,,,
+70046,197,One,sip,,,56,
+70403,198,Two,ruep,,,1,1
+70760,199,Three,telip,,,1,1
+71117,200,Four,tolot,,,12,
+153192,201,Five,ŋuran,,,21,
+153191,202,Six,ŋiniop,,,43,
+153190,203,Seven,ŋaniselip,,,23,
+153189,204,Eight,ŋaniru'ep,,,32,
+153188,205,Nine,ŋanisip,,,39,
+153187,206,Ten,saŋaul,,,5,

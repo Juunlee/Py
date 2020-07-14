@@ -1,0 +1,130 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+23,Kis,"D.C. Laycock",kis,kiss1246,"no inalienable possession",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Schouten, Kairiru-Manam, Manam","Peng Du","Simon Greenhill","@misc{Laycock-23-2005,  author = \"D.C. Laycock\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-3.78204052821104541593,143.91540527343750000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+23,1,hand,dəmá[kei],,,,
+380,2,left,"dəmá yigi",,,,
+737,3,right,"dəmá ŋgo",,,,
+1094,4,leg/foot,beka[i],,,,
+1451,5,"to walk",kei,(=go),,70,
+1808,6,road/path,dʒera,,,1,1?
+89752,7,"to come",me,,,1,1
+89753,7,"to come",may,,,1,1
+3236,10,dirty,wisuk,,,,
+3950,12,skin,kulí,,,1,1
+4307,13,back,bʷapkei,,,,
+4664,14,belly,keŋí,,,,
+5021,15,bone,kekái,,,13,
+5378,16,intestines,keŋélo,,,,
+5735,17,liver,até,,,1,1
+6092,18,breast,sus,,,1,1
+6449,19,shoulder,təpákei,,,,
+7877,23,blood,dara,,,1,1
+8234,24,head,tapikái,,,,
+8591,25,neck,bwaŋ,,,,
+8948,26,hair,rou,,,40,
+9305,27,nose,ŋwak,,,27,
+10376,30,mouth,awábot,,,36?,
+10733,31,tooth,aro,,,10,
+11090,32,tongue,mintu,,,,
+12875,37,"to eat",an,,,1,1
+13589,39,"to cook",yuwani,cooked,,,
+13946,40,"to drink",kwuŋiya,,,,
+14303,41,"to bite",[a]kəti,,,"1, 55",1?
+14660,42,"to suck",iya,breast,,,
+15017,43,ear,kəŋabi,,,,
+15374,44,"to hear",raŋaŋa,,,1,
+15731,45,eye,məta,,,1,1
+16088,46,"to see",re,,,13,
+16802,48,"to sleep",wena,,,8,
+17873,51,"to sit","miya posu",,,26,
+18230,52,"to stand",raigwa,,,,
+18944,54,man/male,mata,,,12,
+19301,55,woman/female,win,,,"1,106",1
+19658,56,child,matantu,,,5,
+20729,59,mother,taya,,,,
+21086,60,father,mama,,,"1,10",
+21443,61,house,bazá,,,,
+91402,64,"to say",rimu,noun,,,
+91403,64,"to say",sapa,verb,,,
+22871,65,rope,war,"made string",,2,
+25370,72,"to hit",se,,,,
+26441,75,"to die, be dead",yime,,,,
+33938,96,dog,kióu,,,17,
+34295,97,bird,man,,,1,1
+34652,98,egg,altó,(<M?),,1,1?
+35009,99,feather,dʒipwá,"(=body hair)",,,
+35366,100,wing,bəzí,,,20,
+36080,102,rat,kəpéi,,,,
+36794,104,fat/grease,mwiyá,,,,
+37151,105,tail,kuŋkái,,,,
+37508,106,snake,ukwin,"maybe species",,,
+38222,108,louse,kukut,,,1,1
+38579,109,mosquito,nugur,,,,
+39293,111,fish,ŋgam,,,,
+40007,113,branch,sipá,,,16,
+40364,114,leaf,rou,,,1,1
+41435,117,fruit,"putú [pətú]",,,8,
+41792,118,grass,mus,,,,
+42149,119,earth/soil,bulá,ground,,,
+42506,120,stone,pat,,,1,1
+42863,121,sand,dʒiŋai,,,,
+43220,122,water,dan,,,"1,61",1
+43934,124,sea,masak,metathesis,,8,
+44291,125,salt,masak,"metathesis of 3, 45 ??",,54,
+44648,126,lake,"dan buli",,,43,
+45005,127,woods/forest,məráḇ,,,,
+45719,129,moon,alewa,,,12,
+46076,130,star,domára,,,,
+46433,131,cloud,buna,,,,
+46790,132,fog,dʒim,,,,
+47147,133,rain,úla,,,1,1
+48218,136,wind,wau,,,18,
+48932,138,warm,gap,,,,
+49289,139,cold,katakip,,,,
+50360,142,heavy,meyiwakŋa,,,,
+50717,143,fire,yuwá,,,1,
+51431,145,smoke,kasík,,,2,
+122614,146,ash,oisáp,white,,,
+122615,146,ash,nugum,black,,,
+52145,147,black,nugun-don,d=r,,,
+52502,148,white,ŋgau-ron,,,,
+52859,149,red,dara-ron,"blood colour",,25,
+53930,152,small,pepene,,,,
+54287,153,big,kəŋáŋgo,,,,
+54644,154,short,pokep,b.,,,
+55001,155,long,kʷoliŋgo,,,,
+56786,160,"painful, sick","kai wáro",,,,
+57500,162,old,pam,,,,
+57857,163,new,yuwáune,,,36,
+58214,164,good,kainene,,,,
+58571,165,"bad, evil",sepám,,,,
+59285,167,night,doma,,,11,
+59642,168,day,uzyem,sun,,70,
+60356,170,when?,"uzyem asumo","? what day",,,
+64283,181,where?,wano,(?),,,
+81769,182,I,au,,,"1,21",1
+81770,182,I,u-,,,x,1
+81853,183,thou,iu[po],,,1,1
+81854,183,thou,k-,,,1,1
+81929,184,he/she,e,,,1,1
+81930,184,he/she,a-,,,1,1
+123784,185,we,tukwa,,,,
+123785,185,we,t-,,,1,1
+123786,185,we,am,,,2,
+123787,185,we,m-,,,,
+123278,186,you,ikpo,,,,
+123279,186,you,m-,,,x,
+82117,187,they,dei,,,25,
+82118,187,they,r-,,,x,
+66782,188,what?,təka,,,,
+67139,189,who?,ta,,,54,
+67853,191,all,souŋgwu,(?),,,
+68567,193,if,takei,(?),,33,
+68924,194,how?,təkata,why,,,
+69281,195,"no, not",bəráwa,,,,1?
+69995,197,One,ageiḇ,,,,
+70352,198,Two,urá|ni,,,1,?
+70709,199,Three,to|ni,,,1,?
+71066,200,Four,owá|ni,,,1,

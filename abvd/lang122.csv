@@ -1,0 +1,204 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+122,Selaru,Blust,slu,sela1259,,,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Southeast Maluku, Southern","Debasish Roy","Simon Greenhill","@misc{Blust-122-2005,  author = \"Blust\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-7.75345127326905103615,131.28331761219050122236
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+122,1,hand,sima-,,,"1,64",1
+479,2,left,wisal,,,,
+836,3,right,wan,,,1,1
+1193,4,leg/foot,lwau,,,,
+85130,5,"to walk",ba,r-ba,,2,
+85131,5,"to walk",lakut,,,"1,47",
+1907,6,road/path,sal,,,1,1
+2264,7,"to come",ma,,,1,1
+71721,8,"to turn",srik,,,,
+71722,8,"to turn",tiri,,,4?,
+2978,9,"to swim",nau,,,"1,45",1
+3335,10,dirty,rai,,,1,1
+4049,12,skin,iblu-n,,,,
+4406,13,back,eta-,,,,
+4763,14,belly,ftéi,,,,
+5120,15,bone,luri-,,,2,
+5477,16,intestines,katin,,,1,
+5834,17,liver,kati-,,,1,1
+72190,18,breast,susu-re,,,1,1
+72191,18,breast,huruk,,,1,1
+6548,19,shoulder,hesa-,,,,
+6905,20,"to know, be knowledgeable",he,,,113,
+7262,21,"to think",fikir,"loan of 22?",L,22,
+7619,22,"to fear",taut,,,1,1
+7976,23,blood,lara-,,,1,1
+8333,24,head,usu-,,,1,1
+72545,25,neck,swakan,,,,
+72546,25,neck,tela,,,121?,
+9047,26,hair,huk,,,1,1
+9404,27,nose,nura-,,,1,
+9761,28,"to breathe",meya,,,,
+10118,29,"to sniff, smell",los,,,,
+10475,30,mouth,haha-,,,1,1
+10832,31,tooth,nisi-,,,1,1
+11189,32,tongue,mā,,,7,?
+11546,33,"to laugh",mahis,,,3?,
+11903,34,"to cry",ser,,,30,
+12260,35,"to vomit",mut,,,1,1
+12617,36,"to spit",mof,,,,
+12974,37,"to eat",a,,,1,1
+13331,38,"to chew",tama,,,,
+73389,39,"to cook",noha,,,1,
+73390,39,"to cook",torak,,,1?,
+14045,40,"to drink",én,,,1,1
+14402,41,"to bite",kis,,,,
+73644,42,"to suck",sus,,,1,1
+73645,42,"to suck",masu,,,6,1
+15116,43,ear,tlia-,,,1,1
+15473,44,"to hear",tomolu,,,,
+15830,45,eye,mata-,,,1,1
+16187,46,"to see",seak,,,,
+16544,47,"to yawn",ma|f,,,19,1
+16901,48,"to sleep",enaf,,,8?,
+17258,49,"to lie down",enaf,,,1,1
+17615,50,"to dream",mei,,,"1,37",1?
+18329,52,"to stand",diri,,,1,1
+19043,54,man/male,wa|mwan,,,1?,?
+19400,55,woman/female,wa|mhet,,,,
+19757,56,child,ana,,,1,1
+20114,57,husband,sawa,,,2,1
+20471,58,wife,sawa,,,1,
+20828,59,mother,ena,,,1,1
+21185,60,father,ama,,,1,1
+21542,61,house,séi,,,,
+21899,62,thatch/roof,tahar,,,9,
+22256,63,name,an|i,,,1?,?
+22613,64,"to say",bu,,,,
+74993,66,"to tie up, fasten",et,,,8,
+74994,66,"to tie up, fasten",rakit,,,1,
+74995,66,"to tie up, fasten",wik,,,,
+23684,67,"to sew",sor,,,10,
+24398,69,"to hunt",sinaut,,,,
+24755,70,"to shoot",rama,,,1?,1
+25112,71,"to stab, pierce",tabak,,,6,
+25469,72,"to hit",oban,,,,
+25826,73,"to steal",namet,,,,
+26183,74,"to kill",bahun,,,1?,
+26540,75,"to die, be dead",mati,,,1,1
+26897,76,"to live, be alive",morif,,,"1,76",1
+27254,77,"to scratch",kérit,,,49,?
+75710,78,"to cut, hack",het,,,,1
+75711,78,"to cut, hack",tetak,,,3,1
+27968,79,stick/wood,au,,,1,1
+28325,80,"to split",sin,,,,
+28682,81,sharp,nas,,,,
+29039,82,"dull, blunt",tubal,,,3?,?
+30110,85,"to choose",fil,,,1,1
+30467,86,"to grow",léan,,,,
+30824,87,"to swell",bet,,,1,
+31181,88,"to squeeze",ramas,,,43,
+31538,89,"to hold",kumak,,,106,
+31895,90,"to dig",kal,,,1,1
+32252,91,"to buy",liu,,,,
+32609,92,"to open, uncover",lakat,,,,
+76689,93,"to pound, beat",démur,,,,1
+76690,93,"to pound, beat",hau,,,,1
+76745,94,"to throw",sau,,,35,
+76746,94,"to throw",jai,,,8,
+33680,95,"to fall",di,,,,1
+34037,96,dog,as,,,1,1
+34394,97,bird,manu,,,1,1
+34751,98,egg,tésu,,,1?,1?
+35108,99,feather,husi,,,1,1
+35465,100,wing,ani,,,2,
+36179,102,rat,klah,,,,
+36536,103,meat/flesh,h|isi,,,31,1
+77292,104,fat/grease,mina-n,,,1,1
+77293,104,fat/grease,mami-n,,,1,1
+37250,105,tail,iku,,,1,1
+37607,106,snake,ni,,,1,1
+38321,108,louse,ut,,,1,1
+38678,109,mosquito,nina,,,1?,
+39035,110,spider,bailola,,,,
+39392,111,fish,mas,,,,
+77662,112,rotten,acat,,,,
+77663,112,rotten,tas,,,,
+77736,113,branch,sana,,,2,
+77737,113,branch,ksansana-n,,,2,
+40463,114,leaf,tahi,,,7,
+77833,115,root,kawa-n,,,2,1?
+77834,115,root,wakir,,,2,1?
+41177,116,flower,huna,,,1,1
+41534,117,fruit,khisi,,,,
+42248,119,earth/soil,lasmyer,,,,
+42605,120,stone,hat,,,1,1
+42962,121,sand,laran,,,,
+43319,122,water,wer,,,2,1
+43676,123,"to flow",naha,,,,
+44033,124,sea,tasi,,,1,1
+44390,125,salt,tasi-si-nare,,,20,
+45104,127,woods/forest,alas,,,1,1
+45461,128,sky,lait,,,1,1
+45818,129,moon,hul,,,1,1
+46175,130,star,ftun,,,1,1
+46532,131,cloud,oan,,,,
+46889,132,fog,kelarkok,,,,
+47246,133,rain,us,,,1,1
+47603,134,thunder,rutu,,,,
+47960,135,lightning,hitik,,,34,1
+48317,136,wind,es,,,,
+49031,138,warm,anas,,,1,
+49388,139,cold,rin,,,1?,
+49745,140,dry,met,,,,
+50102,141,wet,betar,,,,
+50459,142,heavy,dedan,,,,
+50816,143,fire,ai,,,1,1
+79473,144,"to burn",sor,,,,1
+79474,144,"to burn",tun,,,1,1
+51530,145,smoke,duha,,,,
+51887,146,ash,kusma,,,,
+52244,147,black,metmet,,,1,1
+52601,148,white,bokbok,,,,
+52958,149,red,mérmér,,,1,1
+54029,152,small,kakan,,,,
+80099,154,short,dusa,,,,1
+80100,154,short,babaf,,,54,1
+55100,155,long,narnar,,,1,1
+55457,156,thin,ninias,,,1,
+56171,158,narrow,hekat,,,,
+56528,159,wide,helhela,,,,
+56885,160,"painful, sick",kluruk,,,,
+57242,161,"shy, ashamed",mai,,,1?,
+57599,162,old,amosu,,,,1
+58313,164,good,eras,,,,
+80754,166,"correct, true",bain,,,,
+80755,166,"correct, true",lol,,,4?,
+59384,167,night,metjet,,,,
+59741,168,day,sé,,,,
+60098,169,year,ain,(<+lajaw),,,1?
+60455,170,when?,"hei ka",,,,
+60812,171,"to hide",tina,,,,
+61169,172,"to climb",sai,,,2?,
+61526,173,at,ti,,,20,
+61883,174,"in, inside",rala,,,1,?
+62240,175,above,sra,,,,1
+62597,176,below,hah,,,,
+62954,177,this,né,,,1,1
+81476,178,that,da,,,,1?
+81477,178,that,so,,,,1?
+63668,179,near,rsasryas,,,,
+64025,180,far,sos,,,,
+64739,182,I,yau,,,1,
+65096,183,thou,oa,,,1,1
+65453,184,he/she,ia,,,1,1
+113894,185,we,it|it,,,1,?
+113895,185,we,ar|am,,,2,
+66167,186,you,éa,,,,1
+66524,187,they,sira,,,1,
+66881,188,what?,sa|i,,,1,1
+67238,189,who?,e|se,,,1,1?
+67595,190,other,it,,,,1?
+67952,191,all,mumu,,,,
+68309,192,and,ma,,,2,
+69380,195,"no, not",léma,,,,
+69737,196,"to count",aki,,,6,
+70094,197,One,sasam,,,1?,
+70451,198,Two,ru,,,1,?
+70808,199,Three,tél,,,1,1
+71165,200,Four,at,,,1,1

@@ -1,0 +1,232 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+47,"Bikol (Naga City)","Amy V. Daniega",bcl,cent2087,,,"Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bikol, Coastal, Naga","Simon Greenhill","Simon Greenhill","@misc{Daniega-47-2005,  author = \"Amy V. Daniega\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+13.58192000000000021487,123.17870999999999526153
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+47,1,hand,kamut,"Buli cognate?",,"21,68",
+404,2,left,wala,,,"25,68",
+761,3,right,tu-o,,,"5,25",
+83938,4,leg/foot,bitís,foot,,23,
+83939,4,leg/foot,tabáy,calf,,,
+165200,4,leg/foot,hítaʔ,leg,,,
+1475,5,"to walk",malacao,,,1,1
+1832,6,road/path,tinampo-dalan,,,1,1
+2189,7,"to come",maabot,,,15,
+2546,8,"to turn",mabiric,??,,"4,75",
+2903,9,"to swim",malangoy,,,1,1
+3260,10,dirty,maati,,,118,
+3617,11,dust,alpog,,,"1,51",1?
+3974,12,skin,kublit,,,"1,76",1?
+4331,13,back,likod,,,1,1
+4688,14,belly,tulac,,,,
+5045,15,bone,tu-lang,,,1,1
+5402,16,intestines,minudencia,,L,,
+165184,16,intestines,bituka,,,21,
+5759,17,liver,katoy,"Irregular initial consonant. Should be glottal stop.",,,
+6116,18,breast,susu,,,1,1
+6473,19,shoulder,abaga,,,1,1
+6830,20,"to know, be knowledgeable",tatao,,,1,1
+7187,21,"to think",maisip,,,23,
+7544,22,"to fear",matakot,,,1,1
+7901,23,blood,dugô,,,16,
+8258,24,head,payo,,,46,
+8615,25,neck,li-og,,,1,1
+8972,26,hair,buhok,,,"1,65",1
+9329,27,nose,dungô,,,"1,71",
+9686,28,"to breathe",maguinhawa,,,"1,70",1
+10043,29,"to sniff, smell",maparong,,,79,
+10400,30,mouth,ngusò,,,2,
+10757,31,tooth,ngipon,,,"1,48",1
+11114,32,tongue,dilà,,,4,1
+73012,33,"to laugh",ma-ngisi,,,17,
+73013,33,"to laugh",ma-oloc,,,,
+11828,34,"to cry",mahibi,,,31,
+12185,35,"to vomit",masuka,,,9,
+12542,36,"to spit",malutab,,,"29,72",
+12899,37,"to eat",makakan,,,"1,14",1
+13256,38,"to chew",masapâ,,,17,
+89655,39,"to cook",maluto,(a),,20,
+89656,39,"to cook",magâgâ,(b),,,
+13970,40,"to drink",mainum,,,1,1
+14327,41,"to bite",macagat,,,1,1
+14684,42,"to suck",masupsup,,,1,1
+15041,43,ear,talinga,,,1,1
+15398,44,"to hear",madangog,,,1,1
+15755,45,eye,matá,,,1,1
+16112,46,"to see",mahiling,,,110,
+16469,47,"to yawn",mahacay,,,43,
+16826,48,"to sleep",maturog,,,1,1
+17183,49,"to lie down",mahigdâ,,,"19,30",
+17540,50,"to dream",mangiturugan,,,,
+17897,51,"to sit",matucao,,,50,
+18254,52,"to stand",matindog,,,20,
+18611,53,"person/human being",tawo,,,1,1
+18968,54,man/male,lalaki,,,"2,99",1
+19325,55,woman/female,babaye,,,"1,105",1
+19682,56,child,aquì,,,,
+20039,57,husband,"agom na lalaki",,,28,
+20396,58,wife,"agom na babaye",,,20,
+20753,59,mother,inâ,,,"1,76",1
+21110,60,father,amâ,,,"1,18",1
+21467,61,house,harong,,,,
+21824,62,thatch/roof,atop,,,1,1
+22181,63,name,pangaran,,,1,1
+74764,64,"to say",masabi,,,33,
+74765,64,"to say",mataram,,,,
+22895,65,rope,lubid,,,21,
+23252,66,"to tie up, fasten",bugkuson,,,111,
+23609,67,"to sew",matahî,,,1,1
+23966,68,needle,dagum,,,1,1
+24323,69,"to hunt",mang-ayam,,,25,
+24680,70,"to shoot",mapanà,,,1,1
+25037,71,"to stab, pierce",masaksak,,,68,?
+25394,72,"to hit",mapacol,,,,
+25751,73,"to steal",mahab-on,,,27,
+26108,74,"to kill",magadan,,,,
+26465,75,"to die, be dead",magpacagadan,,,,
+26822,76,"to live, be alive",mabuhay,,,14,
+27179,77,"to scratch",macagao,,,1,1
+27536,78,"to cut, hack",ti-a-con,,,,
+27893,79,stick/wood,kahoy,,,1,1
+28250,80,"to split",ba-a-con,,,,
+28607,81,sharp,matarom,,,1,1
+28964,82,"dull, blunt",mangurol,,,"40,27",
+29321,83,"to work",ma-oma,,,1,1
+29678,84,"to plant",matanom,,,2,1
+30035,85,"to choose",mapilì,,,1,1
+30392,86,"to grow",matubo,,,1,1
+30749,87,"to swell",magatoc,,,,
+31106,88,"to squeeze",mapigâ,,,"1,37",1?
+31463,89,"to hold",macapot,,,25,
+31820,90,"to dig",maducag,,,,
+32177,91,"to buy",mabacal,,,32,
+32534,92,"to open, uncover",mabucas,,,"1,63",?
+32891,93,"to pound, beat",mabayo,,,1,1
+33248,94,"to throw",maapon,,,,
+33605,95,"to fall",mahulog,,,29,
+33962,96,dog,ayam,,,23,
+34319,97,bird,"gamgam [bayong]",,,72,
+34676,98,egg,"bunay [sugok]",,,75,
+35033,99,feather,balúkag,,,,
+35390,100,wing,pakpák,,,33,
+35747,101,"to fly",malupad,,,21,
+36104,102,rat,quinô,,,,
+36461,103,meat/flesh,carne,,L,,
+36818,104,fat/grease,mantika,,L,,
+37175,105,tail,ikog,,,1,1
+37532,106,snake,halas,,,26,
+37889,107,"worm (earthworm)",alulunti,,,,?
+38246,108,louse,kuto,,,1,1
+38603,109,mosquito,namok,,,"1,90",1
+38960,110,spider,lawà,,,1,1
+39317,111,fish,sirâ,,,18,
+39674,112,rotten,lapâ,,,26,
+40031,113,branch,sanga,,,2,
+40388,114,leaf,dahon,,,1,1
+40745,115,root,gamut,,,3,1
+41102,116,flower,burak,,,22,
+41459,117,fruit,bunga,,,9,
+77967,118,grass,du-ut,,,,
+77968,118,grass,awot,,,87,
+42173,119,earth/soil,dagâ,,,24,
+42530,120,stone,gapû,,,45,
+42887,121,sand,baybay,,,52,
+43244,122,water,"tubig - las-ay",,,14,
+43601,123,"to flow",bulus,,,29,
+43958,124,sea,dagat,,,25,
+44315,125,salt,asin,,,3,
+44672,126,lake,danao,,,1,1
+45029,127,woods/forest,cadlagan,,,105,
+45386,128,sky,langit,,,1,1
+45743,129,moon,bulan,,,1,1
+46100,130,star,bituun,,,1,1
+46457,131,cloud,panganoron,,,27,
+46814,132,fog,culop,,,,
+47171,133,rain,uran,,,1,1
+47528,134,thunder,daguldol,,,"2,47",?
+47885,135,lightning,kilat,,,1,1
+78892,136,wind,paros,,,48,
+78893,136,wind,durus,,,36,
+108095,137,"to blow",maduros,(a),,,
+108096,137,"to blow",hayupon,(b),,1,1
+48956,138,warm,maaringasa,,,,
+49313,139,cold,malipot,,,,
+119380,140,dry,alang,(a),,,
+119381,140,dry,baladon,(b),,,
+50027,141,wet,basâ,,,1,1
+50384,142,heavy,magabat,(<M),,1,1
+50741,143,fire,calayo,,,10,
+51098,144,"to burn",sulu-on/masulô,,,"100,101",
+51455,145,smoke,aso',"or 49?",,2,1
+51812,146,ash,abo',,,1,1
+52169,147,black,itom,,,1,1
+52526,148,white,puti,,,1,1
+52883,149,red,pula,,,28,
+53240,150,yellow,canario,,L,,
+53597,151,green,berde,,L,,
+53954,152,small,sadit,,,,?
+54311,153,big,daculà,,,"22,23",
+119382,154,short,hababâ,(a),,54,1
+119383,154,short,hali'pót,(b),,,
+55025,155,long,halaba,,,27,
+55382,156,thin,mahimpis,,,"1,47",?
+55739,157,thick,mahib-og,,,60,
+56096,158,narrow,haya|cpit,,,47,1
+56453,159,wide,mahiwas,,,69,
+56810,160,"painful, sick",maculog,,,,
+80436,161,"shy, ashamed",masup-gon,,,"29,70",
+80437,161,"shy, ashamed",nasupog,,,"29,70",
+57524,162,old,gurang,"cp TB, kadipang",,21,
+57881,163,new,ba'go,,,1,1
+58238,164,good,marhay,,,"46,120",
+58595,165,"bad, evil",maraot,,,1,1
+80734,166,"correct, true",tama,,,3,
+80735,166,"correct, true",tutoo,,,6,
+59309,167,night,bangui,,,"1,72",1
+59666,168,day,aldao,,,1,1
+60023,169,year,taon,,,1,1
+60380,170,when?,no-arin,(<M),,,1
+60737,171,"to hide",matago,,,13,
+81026,172,"to climb",masacat,,,57,
+81027,172,"to climb",matucad,,,,
+61451,173,at,sa,,,14,
+61808,174,"in, inside",laog,,,23?,
+62165,175,above,itaas,,,1,1
+62522,176,below,ibaba,"? or",,1,1
+62879,177,this,ini,,,1,1
+63236,178,that,ito,,,16,1
+63593,179,near,harani,,,"1,39",1
+63950,180,far,harayô,,,"1,34",
+64307,181,where?,sain,,,"1,63",
+64664,182,I,aco',,,"1,5",1
+65021,183,thou,ica',,,1,
+65378,184,he/she,siya,,,"1,31",1
+65735,185,we,quita,,,"1,50",1
+165182,185,we,kamí,(exclusive),,"2,52",
+165183,185,we,kitá,(inclusive),,"1,50",
+66092,186,you,ica,,,s,
+66449,187,they,sinda,,,"1,35",1
+66806,188,what?,ano,,,"2,18",
+67163,189,who?,si-isay,,,"1,50",1
+67520,190,other,ibaba,,,12,
+67877,191,all,gabos,,,78,
+68234,192,and,sa|ka,,,1,1
+68591,193,if,con,,,"1,11",
+68948,194,how?,paano,,,"29,77",
+82683,195,"no, not",bacu,,,,
+82684,195,"no, not",dai,,,27,
+69662,196,"to count",mabilang,,,1,1
+70019,197,One,saro',,,"1,63",
+70376,198,Two,duwa,,,1,1
+70733,199,Three,tulo',,,1,1
+71090,200,Four,apat,,,"1,16",1
+130605,201,Five,lima,,,1,
+131259,202,Six,anum,,,"1,40",
+131260,203,Seven,pito,,,1,
+131261,204,Eight,walo,,,3,
+131263,205,Nine,siyam,,,9,
+131264,206,Ten,sampulo,,,5,
+165181,207,Twenty,"duwang pulo'",,,"3,6",
+165198,208,Fifty,"limang pulo'",,,"1,2",
+131488,209,"One Hundred",sanggatus,,,4,
+131489,210,"One Thousand",sang-ribu,,,5,

@@ -1,0 +1,234 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+219,Molima,"Blust, from Chowning",mox,moli1248,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Papuan Tip, Nuclear, North Papuan Mainland-D'Entrecasteaux, Bwaidoga","Simon Greenhill","Simon Greenhill","@misc{Chowning-219-2005,  author = \"Ann Chowning\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-9.57908433588252172797,150.64453125000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+219,1,hand,nima-,,,1,1
+576,2,left,keli,,,"1,43",
+933,3,right,atai,"cf GLB.",,14,1?
+1290,4,leg/foot,ae-,,,1,1
+1647,5,"to walk",nao[nao],,,1,1
+2004,6,road/path,ʔeda,,,12,
+2361,7,"to come",mai,,,1,1
+3075,9,"to swim",ʔayoʔayo,,,32,
+3432,10,dirty,bwawubwawu-na,,,139,
+3789,11,dust,pwayavasu,,,,
+71972,12,skin,pusa-,,,102,
+71973,12,skin,ʔwapi-,,,15,
+4503,13,back,gwawu-,,,40,
+72073,14,belly,gamo-,,,45,
+72074,14,belly,ʔumutuna,,,104,
+5217,15,bone,lulu-,,,32,
+5574,16,intestines,diya-,,,88,
+5931,17,liver,ʔateʔate,,,1,1
+6288,18,breast,susu-,,,1,1
+6645,19,shoulder,ʔavala-,,,1,1
+7002,20,"to know, be knowledgeable",mwalatoni,,,133,
+7359,21,"to think",nuanua-,"insides (noun)",,30,
+7716,22,"to fear",matauta,,,1,1
+8073,23,blood,su|lala-,,,,1?
+8430,24,head,ʔunuʔunu,,,1,1
+8787,25,neck,maga-,,,,
+9144,26,hair,deba-,"< PPT *deba- 'head'",,57,
+9501,27,nose,gabu-,,,17,
+9858,28,"to breathe",yawasi,,,22,
+10215,29,"to sniff, smell",yaso-ya,,,1,1
+10572,30,mouth,ʔawa,,,36,
+10929,31,tooth,sala-,,,11,
+11286,32,tongue,meya-,,,7,?
+11643,33,"to laugh",venama,,,22,
+73084,34,"to cry",ʔauʔautoni,,,78,
+73085,34,"to cry",doo,,,8,
+12357,35,"to vomit",maiwa,,,4,
+73186,36,"to spit",giligilisese,,,,
+73187,36,"to spit",wewe,,,"19, 88",
+13071,37,"to eat",ʔai,,,"1,44",1?
+13428,38,"to chew",ʔuta,,,14,
+13785,39,"to cook",bude,,,,
+14142,40,"to drink",numa,,,"1,34",1
+14499,41,"to bite",ʔalas|ia,,,1,1
+14856,42,"to suck",ʔamwagu,,,,
+15213,43,ear,tena-,,,1,?
+15570,44,"to hear",nowola,,,"1, 36",
+15927,45,eye,mata,,,1,1
+16284,46,"to see",ʔita,,,1,1
+16641,47,"to yawn",lomwaova,,,19,
+16998,48,"to sleep",ʔeno,,,8,
+17355,49,"to lie down",ʔeno,,,1,1
+17712,50,"to dream",madawala,,,18,
+18069,51,"to sit",towa,,,80,
+18426,52,"to stand",towolo,,,2,
+18783,53,"person/human being",tomo|tau,"folk etymology",,"1,66",1?
+19140,54,man/male,meʔolotona,,,"21, 103",
+74302,55,woman/female,vavine,,,"1,106",1
+74303,55,woman/female,meyavine,,,"1,110",1
+91139,56,child,gwama,,,14,
+91140,56,child,natu-,,,5,
+20211,57,husband,mwane-,,,26,
+20568,58,wife,mwane-,,,18,
+20925,59,mother,sina-,,,1,1
+21282,60,father,tama-,,,1,1
+21639,61,house,vanua,,,7,
+74678,62,thatch/roof,laʔalaʔa,,,35,
+74679,62,thatch/roof,lakalaka,,,35,
+22353,63,name,wawa,,,9,
+22710,64,"to say",wona[wona],,,20,
+23067,65,rope,malakwa,,,85,
+23424,66,"to tie up, fasten",yowona,,,37,
+23781,67,"to sew",saila,,,"2,53",?
+24138,68,needle,saima,"cf 163, 199",,1,?
+24852,70,"to shoot",tupu,,,10,
+25209,71,"to stab, pierce",ʔedawa,,,,
+75426,72,"to hit",ʔau,,,114,
+75427,72,"to hit",gumu,,,,
+75482,73,"to steal",ʔaidebana,,,,1?
+75483,73,"to steal",vanaw|ala,,,"1,58",1?
+91857,74,"to kill",ʔaumagaiya,,,,1
+91858,74,"to kill",wunu,,,1,
+75547,75,"to die, be dead",ʔaliga,,,46,
+75548,75,"to die, be dead",lusi,,,45,
+26994,76,"to live, be alive",maʔiyawayawasi-na,,,10,
+27351,77,"to scratch",kalo,,,1,1
+27708,78,"to cut, hack",tala,,,1,1
+75810,79,stick/wood,ʔai|wa,,,"1,33",1
+75811,79,stick/wood,dadala,,,37,1
+75900,80,"to split",ʔilawata,,,,
+75901,80,"to split",diʔaya,,,,
+28779,81,sharp,soʔusoʔu-na,,,100,
+29136,82,"dull, blunt",batukwa,,,"25, 74",
+29493,83,"to work",paisewa,(Dobu),L,20,1
+29850,84,"to plant",bagula,,,17,
+30207,85,"to choose",vesinua,,,8,
+30564,86,"to grow",tupwana,,,11,
+30921,87,"to swell",bou,,,81,
+31278,88,"to squeeze",buyo,,,59,
+31635,89,"to hold",kapi,,,23,
+31992,90,"to dig",tavi,,,59,
+32349,91,"to buy",gimwane,,,17,
+32706,92,"to open, uncover",gege,,,18,
+33063,93,"to pound, beat",vile,,,63,
+33420,94,"to throw",ula,,,17,
+33777,95,"to fall",sawuta,,,126,
+34134,96,dog,kedewa,,,18,
+34491,97,bird,manu,,,1,1
+34848,98,egg,poʔu,,,15,
+35205,99,feather,dagula,,,13,
+35562,100,wing,pape-,,,21,
+35919,101,"to fly",yewayewa,,,44,
+36276,102,rat,kwekweyalu,,,32,
+36633,103,meat/flesh,vesiʔo-,,,10,
+36990,104,fat/grease,bila-,,,102,
+37347,105,tail,yiwu-,,,1,?
+37704,106,snake,mwata,,,12,
+38061,107,"worm (earthworm)",dimwamwana,,,48,
+38418,108,louse,dobuʔe,,,,
+38775,109,mosquito,namo|kili,,,"1,100",1?
+39132,110,spider,gagaboʔa,,,,
+39489,111,fish,iyana,,,1,1
+77688,112,rotten,dawuli-na,,,78,
+77689,112,rotten,kola-na,,,,
+40560,114,leaf,yawai-,,,17,
+40917,115,root,kwalama,,,62,
+41274,116,flower,kaiwa-seni-na,,,"9,14",
+41631,117,fruit,uwa-,,,1,1
+77991,118,grass,lomata,,,,
+77992,118,grass,lowulowu,,,,
+42345,119,earth/soil,bwaʔobwaʔo,,,91,
+42702,120,stone,dabo,,,14,
+43059,121,sand,gelasa,,,16,
+43416,122,water,goʔila,,,2,
+43773,123,"to flow",dau,,,18,
+78346,124,sea,doga,,,72,
+78347,124,sea,wola,,,70,
+44487,125,salt,wola,,,53,
+44844,126,lake,lawu,,,46,
+45201,127,woods/forest,mutaʔwa,,,27,
+45558,128,sky,masala,,,,
+45915,129,moon,waiʔena,,,14,
+46272,130,star,ʔubwana,,,56,
+78660,131,cloud,kwao,,,43,
+78661,131,cloud,kwau,,,43,
+78662,131,cloud,yaloa,,,23,
+46986,132,fog,umauma,,,17,
+47343,133,rain,ʔusana,,,1,1
+78813,134,thunder,weipalala,,,"15,45",
+78814,134,thunder,wetalala,,,26,
+78869,135,lightning,namala,,,18,
+78870,135,lightning,ʔwasi,,,,
+78919,136,wind,nuba,,,,
+78920,136,wind,yagila,,,1,
+79035,137,"to blow",loliloli,,,,
+79036,137,"to blow",muʔwe,,,75,
+79109,138,warm,esitana,,,,
+79110,138,warm,galalava,,,104,
+79167,139,cold,bwaloʔo,,,,
+79168,139,cold,gugaʔu,,,49,
+79272,140,dry,lovesaya,,,69,
+79273,140,dry,sayasaya-na,,,69,
+50199,141,wet,buta-na,,,20,
+50556,142,heavy,vita,,,19,
+50913,143,fire,ʔaiwe,,,35,
+51270,144,"to burn",gabu,,,16,
+51627,145,smoke,bwawa,,,23,
+51984,146,ash,ʔalipapa,,,"90,89",
+79634,147,black,boboso-na,,,,
+79635,147,black,kwaukwau-na,,,89,
+79692,148,white,wadawada-na,,,73,
+79693,148,white,waʔewaʔeʔe-na,,,68,
+53055,149,red,bweyabweyali-na,,,26,
+53412,150,yellow,yawoyawo-na,,,9,
+53769,151,green,galiʔe-na,,,,
+54126,152,small,goyo-na,,,,
+54483,153,big,vidua,,,,
+54840,154,short,kukupa-na,,,20,
+55197,155,long,duduli-na,,,21,
+55554,156,thin,yalayala-na,,,66,
+55911,157,thick,badobado-na,,,18,
+56268,158,narrow,sisisi-na,,,15,
+80395,160,"painful, sick",ʔawala,,,,
+80396,160,"painful, sick",leʔoasa,,,116,
+57339,161,"shy, ashamed",womayamaya,,,1,1
+57696,162,old,kopekope-na,,,,
+58053,163,new,vauvau-na,,,"1,26",1?
+58410,164,good,ʔaviʔavili,,,,
+58767,165,"bad, evil",lovesipa-na,,,,
+59124,166,"correct, true",palupalu-na,,,19,
+59481,167,night,boiboi,,,1,1
+59838,168,day,ʔasu-bena,,,"1,31",?
+60195,169,year,yaʔwala,,,83,
+60552,170,when?,totuta,,,,
+61266,172,"to climb",vane,,,1,1
+61623,173,at,-ya,,,"12,31",
+61980,174,"in, inside",solana,,,67,
+62337,175,above,debanaya,,,14,
+81304,176,below,agalaula,,,18,
+81305,176,below,ubunega,,,,
+63051,177,this,baʔe,,,,
+81512,178,that,na|ina,,,1,1
+81513,178,that,benaʔe,,,,1
+63765,179,near,diʔwe-na,,,,
+64122,180,far,luvai,,,23,
+81729,181,where?,toʔasa[ya],,,,
+81730,181,where?,maina,,,13,
+64836,182,I,iya|ʔa,,,"1,21",
+65550,184,he/she,tau|na,,,9,
+118948,185,we,ita|ʔa,,,1,1
+118949,185,we,ima|ʔa,,,2,
+66264,186,you,omiʔa,,,"1,13",1
+66621,187,they,tau|di,,,21,
+66978,188,what?,tolaʔai,,,,
+67335,189,who?,toga,,,,
+67692,190,other,ebweu,,,,
+82435,191,all,yawu-,,,35,
+82436,191,all,ʔowosi,,,,
+82535,192,and,ta,,,30,
+82536,192,and,be,,,24,
+82606,193,if,aba,,,28,
+82607,193,if,eguma,,,81,
+69120,194,how?,toʔedega,,,,
+69477,195,"no, not",ge[bu],,,23,
+69834,196,"to count",saʔwa,,,19,
+70191,197,One,ʔaigedana,,,73,
+70548,198,Two,lua,,,1,1
+70905,199,Three,toi,,,1,1
+71262,200,Four,veyata,,,1,1?

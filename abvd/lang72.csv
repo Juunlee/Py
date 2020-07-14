@@ -1,0 +1,191 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+72,Likum,Blust,lib,liku1243,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Admiralty Islands, Eastern, Manus, West","Penny Keenan","Simon Greenhill","@misc{Blust-72-2005,  author = \"Robert A. Blust\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-2.43060571171546113689,147.41615218883649163217
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+72,1,hand,lime-n,,,1,1
+429,2,left,ke|mow,,,"1,81",1?
+786,3,right,selin,,,6,
+1143,4,leg/foot,kelite-n,,,,
+1500,5,"to walk",ootet,,,,
+1857,6,road/path,san,,,1,1
+2214,7,"to come",o|mʷe,,,1,1
+2571,8,"to turn",posoa,,,,
+2928,9,"to swim",e-jay,,,6,
+3285,10,dirty,d̃akaʔan,,,,
+3999,12,skin,kalaʔu-n,,,,
+4356,13,back,cawe-n,,,,
+4713,14,belly,alo-n,,,10,
+5070,15,bone,cui-n,,,52,
+5427,16,intestines,cini-n,,,1,1?
+5784,17,liver,ate-n,,,1,1
+72186,18,breast,suh,,,1,1
+72187,18,breast,suru-n,,,1,1
+6498,19,shoulder,kase-n,,,91,
+6855,20,"to know, be knowledgeable",toniʔan,,,63,
+7212,21,"to think",e-puton,,,90,
+7569,22,"to fear",i-noh,,,7,
+7926,23,blood,cay,,,1,1
+8283,24,head,petu-n,,,9,
+8640,25,neck,cokopare-n,,,98,
+8997,26,hair,lemi,,,9,
+9354,27,nose,noʔo-n,,,29,
+9711,28,"to breathe","eso koha-n",,,"82,9",
+10068,29,"to sniff, smell",enuhun,,,8,
+10425,30,mouth,pʷaha-n,,,1,1
+10782,31,tooth,lihe-n,,,"1,35",1
+11139,32,tongue,karameʔe-n,,,"7, 14",
+11496,33,"to laugh",kerekih,,,,
+11853,34,"to cry",cilen,,,19,
+12210,35,"to vomit",e-mok,,,1,1
+12567,36,"to spit",kurusom,,,,
+12924,37,"to eat",i-aʔan,,,1,1?
+13281,38,"to chew",e-taʔak,,,61,
+13638,39,"to cook",e-joh,,,8,
+13995,40,"to drink",i-uʔun,,,1,1?
+14352,41,"to bite",e-taʔak,(=38),,6,
+15066,43,ear,cine-n,,,1,1
+15423,44,"to hear",e-rohon,"(cp. - h - in 56",,1?,1?
+15780,45,eye,mita-n,,,1,1
+16137,46,"to see",e-saʔan,,,,
+16851,48,"to sleep",e-metin,,,"1,70",1
+17208,49,"to lie down",yiʔin,,,1,?
+17565,50,"to dream",emmih,,,"1, 6",1
+17922,51,"to sit",mañah,,,149,
+18279,52,"to stand",tatok,,,62,
+18636,53,"person/human being",camak,,,"1,66",1
+18993,54,man/male,kaman,,,9,
+19350,55,woman/female,petih,,,56,
+19707,56,child,nahatu-n,,,5,
+20064,57,husband,mud̃ay,,,,
+20421,58,wife,petih,,,6,
+20778,59,mother,tine-n,,,1,1
+21135,60,father,tama-n,,,1,1
+21492,61,house,esew,,,32,
+21849,62,thatch/roof,ak,,,1,1
+22206,63,name,sare-n,,,5,
+22563,64,"to say",maw,,,,
+22920,65,rope,sukay,,,82,
+23277,66,"to tie up, fasten",uhu,,,,
+23634,67,"to sew",e-sirih,,,15,
+23991,68,needle,nunu,,,7,
+24348,69,"to hunt",e-yohow,,,,
+24705,70,"to shoot",i-rom,,,,
+25062,71,"to stab, pierce",i-rom,,,,
+25419,72,"to hit",yeʔum,,,,
+25776,73,"to steal",ekkeh,,,,
+26490,75,"to die, be dead",i-mak,,,1,1
+27204,77,"to scratch",e-maʔak,,,,
+27561,78,"to cut, hack",e-motoh,,,"54, 14",
+27918,79,stick/wood,kay,,,1,1
+28275,80,"to split",sapow,,,85,
+28632,81,sharp,mitan,,,36,
+28989,82,"dull, blunt",tuk,,,,
+29346,83,"to work",lohow,,,,
+29703,84,"to plant",ettah,,,72,
+30417,86,"to grow",ettoh,"< *tupu, rather than *tubu",,"1,6",
+30774,87,"to swell",ellah,,,4,
+31131,88,"to squeeze",ekkek,,,6,
+31488,89,"to hold",e-torow,,,,
+31845,90,"to dig",ih,,,83,
+32202,91,"to buy",sewie,,,,
+33273,94,"to throw",sapara,,,,
+33630,95,"to fall",elloh,,,109,
+33987,96,dog,mʷi,,,6,
+34344,97,bird,sirih,,,8,
+34701,98,egg,d̃osu,,,"91, 92",
+35058,99,feather,lemi,,,4,
+35415,100,wing,pʷese,,,,
+35772,101,"to fly",ejih,,,,
+36129,102,rat,pʷiley,,,11,
+36486,103,meat/flesh,ota-n,,,12,
+36843,104,fat/grease,nama-n,,,11,
+37200,105,tail,koliʔi,,,9,
+37557,106,snake,mʷak,,,12,
+38271,108,louse,kuk,,,1,1
+38628,109,mosquito,nom,,,1,1
+38985,110,spider,kaano|lew,,,1,1?
+39342,111,fish,n|i,,,1,1
+39699,112,rotten,epura,,,12,
+40056,113,branch,a|d̃a,,,1,1
+40413,114,leaf,leʔu,,,16,
+40770,115,root,moco,,,13,
+41127,116,flower,plaua,(P),L,,
+41484,117,fruit,pʷie,,,1,1?
+41841,118,grass,putiw,,,94,
+42198,119,earth/soil,pʷinek,,,9,
+42555,120,stone,pok,,,1,1
+42912,121,sand,on,,,1,1
+43269,122,water,gʷay,,,2,1
+43983,124,sea,"alo putun",,,,
+44340,125,salt,cah,,,20,
+44697,126,lake,kaloh,,,,
+45054,127,woods/forest,"alo kay",,,"2, 49",
+45411,128,sky,pullen,,,56,
+45768,129,moon,pun,,,1,1
+46125,130,star,d̃aw,,,11,
+46482,131,cloud,"esi pullen",,,,
+46839,132,fog,watuh,,,82,
+47196,133,rain,uh,,,1,1
+47553,134,thunder,kuruh,,,2,
+47910,135,lightning,kamek,,,8,
+48267,136,wind,joh,,,9,
+48624,137,"to blow",somuna,,,,
+48981,138,warm,ñarahan,,,7,
+49338,139,cold,nalaʔan,,,7,
+49695,140,dry,horaʔan,,,10,
+50052,141,wet,seriʔen,,,,
+50409,142,heavy,keniʔin,,,8,
+50766,143,fire,jeh,,,1,1
+51123,144,"to burn",esun,,,4,
+51480,145,smoke,kesueh,,,2,
+51837,146,ash,kuluih,,,"1,81",
+52194,147,black,poʔoton,,,52,
+52551,148,white,pellen,,,7,
+52908,149,red,cayon,,,11,
+53265,150,yellow,ñokoan,,,84,
+53622,151,green,ñarawin,,,"13, 57",
+53979,152,small,kopek,,,9,
+54336,153,big,mud̃aʔan,,,67,
+54693,154,short,kamuh,,,7,
+55050,155,long,laweʔen,,,12,
+55407,156,thin,telehen,,,4,
+56121,158,narrow,kapeh,,,71,
+56478,159,wide,med̂aʔan,(=153),,6,
+56835,160,"painful, sick",selien,,,9,
+57192,161,"shy, ashamed",ma,,,1,1
+57906,163,new,haʔun,,,1,1
+58263,164,good,moson,,,47,
+58620,165,"bad, evil",caʔin,,,8,
+58977,166,"correct, true",had̃u,,,89,
+59334,167,night,pen,,,1,1
+59691,168,day,lan,,,6,1
+60405,170,when?,sebelan,,,,
+60762,171,"to hide",emmay,,,49,
+61119,172,"to climb",i-ñek,,,41,
+61476,173,at,ite,,,"1,7",
+61833,174,"in, inside",a|lo,,,1,1
+62190,175,above,bʷeleʔe,,,56,
+62547,176,below,"pehe ca",,,57,?
+62904,177,this,eteh,,,38,
+81462,178,that,eliy,,,,
+81463,178,that,yeto,,,,
+63618,179,near,merihɪk,,,10,
+63975,180,far,talo,,,12,
+64332,181,where?,petutah,,,8,
+64689,182,I,je,,,"1,21",1
+65046,183,thou,ow,,,1,?
+65403,184,he/she,iy,,,1,1
+81993,185,we,to,,,66,
+81994,185,we,etu,,,1,
+66117,186,you,eto,,,"1,25,32",
+66474,187,they,ndo,,,61,?
+66831,188,what?,she,,,1,1
+67188,189,who?,esi,"(&<M? cf selau)",,"1,28",1
+68259,192,and,ma,,,2,1
+68973,194,how?,"ile pukuse",,,,
+69687,196,"to count",cacom,,,84,
+70044,197,One,esi,,,56,
+70401,198,Two,rueh,,,1,1
+70758,199,Three,taloh,,,1,1
+71115,200,Four,hahu,"-ha- > *pat",,1,1?

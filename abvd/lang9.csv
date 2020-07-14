@@ -1,0 +1,196 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+9,Ghari,"Blust, from Tryon & Hackman (1983)",gri,ghar1239,"Tryon, D.T. & Hackman, B. (1983) Solomon Islands languages: an internal classification.",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Southeast Solomonic, Gela-Guadalcanal, Guadalcanal","Simon Greenhill","Simon Greenhill","@book{85830,  address               = {Canberra},  note                  = {Bibliography: p. 483-490.},  pages                 = {viii+490},  publisher             = {Research School of Pacific and Asian Studies, Australian National University},  series                = {Pacific Linguistics: Series C},  title                 = {Solomon Islands Languages: An Internal Classification},  volume                = {72},  year                  = {1983},  bibtexkey             = {hackman-tryon_solomon-islands1983},  class_loc             = {PL6211.S6},  document_type         = {B},  fn                    = {papua\tryon-hackman_solomon-islands1983.pdf, papua\tryon-hackman_solomon-islands1983pages.pdf, papua\tryon-hackman_solomon-islands1983pages_o.pdf},  hhtype                = {overview;comparative;wordlist},  inlg                  = {English [eng]},  inlg_code             = {eng},  isbn                  = {9780858832923},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 6211 .S6 TRY 1983},  src                   = {hh, mpieva},  srctrickle            = {hh#hvw:TryonHackman:Solomon, mpieva#Tryon1983SolomonI},  subject_headings      = {Melanesian languages–Solomon Islands–Classification, Solomon Islands–Languages–Classification, Melanesian languages–Solomon Islands–Classification – Solomon Islands–Languages–Classification},  author                = {Tryon, Darrell T. and Hackman, B. D.}}"
+latitude,longitude
+-9.36235282205559293800,159.69726562500000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+9,1,hand,lima-,,,1,1
+366,2,left,mauli,,,"1,59",1
+723,3,right,mandoa,"irregular loss of *l/*R",,9,
+1080,4,leg/foot,tua-,,,95,
+1437,5,"to walk",vano,,,2,1
+1794,6,road/path,sautu,,,6,
+2151,7,"to come",mai,,,1,1
+2508,8,"to turn",pilo,,,86,
+2865,9,"to swim",olo,,,74,
+3222,10,dirty,mbau,,,66,
+71884,11,dust,papasa,,,19,
+71885,11,dust,lololo,,,,
+3936,12,skin,kokora-,,,37,
+4293,13,back,ɣotu-,,,14,
+4650,14,belly,tomba-,,,36,
+5007,15,bone,suli-,,,52,
+5364,16,intestines,tinae-,,,1,1
+5721,17,liver,ate-,,,1,1
+6078,18,breast,cucu-,,,1,1
+6792,20,"to know, be knowledgeable",ndona,,,56,
+7149,21,"to think",papanda,,,36,
+7506,22,"to fear",mataɣu,,,1,1
+7863,23,blood,ɣambu-,,,5,
+8220,24,head,lova-,,,47,
+8577,25,neck,lio-,,,1,1
+148284,26,hair,vuvulu-na,"hair (body)",,31,
+9291,27,nose,isu-,,,1,1
+9648,28,"to breathe",maɣomaɣo,,,17,
+10005,29,"to sniff, smell",siɣinia,,,12,
+10362,30,mouth,maŋa-,,,13,
+10719,31,tooth,livo-,,,"1,35",1
+11076,32,tongue,lapi-,,,21,
+11433,33,"to laugh",kia,,,14,
+73050,34,"to cry",ŋaŋai,,,44,
+73051,34,"to cry",ara,"irregular *o > a",,45,
+12147,35,"to vomit",mumuta,,,1,1
+12504,36,"to spit",čuve,,,"19,88",1
+12861,37,"to eat",ɣania,,,1,1
+13932,40,"to drink",inu,,,1,1
+14289,41,"to bite",ɣati,,,"1, 55",1
+14646,42,"to suck",mučua,,,20,
+15003,43,ear,kuli-,,,6,
+15360,44,"to hear",roroŋo,,,1,1
+15717,45,eye,mata-,,,1,1
+73841,46,"to see",morosia,,,60,
+73842,46,"to see",reia,"irregular loss of *k",,13,
+16788,48,"to sleep",maturu,,,1,1
+17145,49,"to lie down",eno,,,1,1
+17859,51,"to sit",totu,,,104,
+18216,52,"to stand",tū,,,2,1
+18573,53,"person/human being",tinoni,,,10,
+18930,54,man/male,mane,,,1,1
+19287,55,woman/female,ndaki,,,25,
+19644,56,child,mbaka,,,41,
+20715,59,mother,tina-,,,1,1
+21072,60,father,tama-,,,1,1
+21429,61,house,vale,,,14,
+74655,62,thatch/roof,tiatia,,,22,1
+74656,62,thatch/roof,ato,,,1,1
+22143,63,name,soa,,,31,
+22500,64,"to say",čaria,,,65,
+22857,65,rope,itai,"irregular initial i-",,51,
+23214,66,"to tie up, fasten",soria,,,57,
+75075,67,"to sew",čukia,,,17,
+75076,67,"to sew",tulā,,,30,
+24285,69,"to hunt",ruɣu,,,13,
+24999,71,"to stab, pierce",ŋgoulā,,,,
+25356,72,"to hit",lambua,,,42,
+25713,73,"to steal",komi,,,33,
+26070,74,"to kill",lambua,,,42,
+26427,75,"to die, be dead",mate,,,1,1
+26784,76,"to live, be alive",mamauri,,,"1, 76",1
+27141,77,"to scratch",ŋgaruŋgaru,,,44,1
+27498,78,"to cut, hack",kavia,,,60,
+27855,79,stick/wood,ɣai,,,1,1
+28212,80,"to split",talā,,,52,
+28569,81,sharp,vavaŋa,,,"14, 20",
+28926,82,"dull, blunt",paru,,,54,
+29283,83,"to work",aŋgo,,,32,
+30711,87,"to swell",čomo,,,45,
+31068,88,"to squeeze",lusia,"irregular *o > u",,19,
+31425,89,"to hold",taŋolia,,,61,
+31782,90,"to dig",čaia,,,79,
+33567,95,"to fall",puka,,,19,
+33924,96,dog,pai,,Loan,54,
+34281,97,bird,manu,,,1,1
+34638,98,egg,tolu-,,,1,1
+34995,99,feather,ivu-,,,7,
+35352,100,wing,rapo-,,,50,
+35709,101,"to fly",lovo,,,1,1
+36066,102,rat,mboɣu,,,55,
+36423,103,meat/flesh,velesi-,,,"17, 69",
+36780,104,fat/grease,sereɣa-,,,35,
+37137,105,tail,kali-,,,34,
+37494,106,snake,muata,,,12,
+38208,108,louse,ŋutu,"irregular *k > ŋ",,"1, 27",1?
+38565,109,mosquito,nāmu,,,1,1
+38922,110,spider,tea,,,45,
+39279,111,fish,čeče,,,56,
+39636,112,rotten,mambulu,,,1,
+39993,113,branch,ara-,,,"1,17",1?
+40350,114,leaf,rau,,,1,1
+40707,115,root,lamu-,,,3,1
+41064,116,flower,čiči,,,42,
+41421,117,fruit,vua-,,,1,1
+41778,118,grass,mburumburu,,,19,
+42135,119,earth/soil,kao,,,,
+42492,120,stone,vatu,,,1,1
+42849,121,sand,one,,,1,1
+78247,123,"to flow",tatave,,,10,
+78248,123,"to flow",čati,,,,
+43920,124,sea,tasi,,,1,1
+44991,127,woods/forest,laɣai,,,"2, 49",
+45348,128,sky,masaoka,,,44,
+45705,129,moon,vula,,,1,1
+46062,130,star,vetuɣu,,,"1, 50",1
+46419,131,cloud,parako,,,74,
+78689,132,fog,lavo,,,3,1
+78690,132,fog,kavu,,,1,1
+47133,133,rain,usa,,,1,1
+47490,134,thunder,vivisa,,,19,
+47847,135,lightning,aŋaaŋa,,,43,
+48204,136,wind,ɣuɣuri,,,12,
+78962,137,"to blow",pua,,,17,
+78963,137,"to blow",ɣuɣuv,,,,
+48918,138,warm,papara,,,71,
+49275,139,cold,mbisi,,,46,
+49632,140,dry,mamača,,,11,
+49989,141,wet,pori,,,44,
+50346,142,heavy,mamava,,,46,
+50703,143,fire,lake,,,6,
+79434,144,"to burn",puča,,,,
+79435,144,"to burn",kondoa,,,52,
+51417,145,smoke,puŋu,,,28,
+51774,146,ash,tora,,,27,
+52131,147,black,mbau,,,42,
+52488,148,white,sere,,,15,
+52845,149,red,čiči,,,19,
+53202,150,yellow,mila,,,44,
+53559,151,green,marao,,,13,
+53916,152,small,tetelo,,,56,
+54273,153,big,loki,,,55,
+54630,154,short,kurikuri,"irregular *u > i",,13,
+54987,155,long,kači,,,57,
+55344,156,thin,matipi,,,"1, 32,44",?
+55701,157,thick,matolu,,,3,
+56772,160,"painful, sick",lomboɣu,,,56,
+57486,162,old,tuŋgatuŋga,,,78,
+57843,163,new,vaolu,,,1,1
+58200,164,good,ndou,,,54,
+58557,165,"bad, evil",seko,,,50,
+58914,166,"correct, true",ɣoto,,,13,
+59271,167,night,mboŋi,,,1,1
+59628,168,day,ndani,,,6,1
+59985,169,year,ŋalitupa,,,"55, 51",
+60342,170,when?,ŋisa,,,"1,24",1
+61056,172,"to climb",ndato,,,,
+81080,173,at,i,,,1,1
+81081,173,at,tana,,,7,1
+61770,174,"in, inside",lao-na,"irregular loss of *l",,"1, 69",1?
+62484,176,below,vava-na,,,1,1
+62841,177,this,iani,,,1,1
+63555,179,near,varaŋi,,,"1, 74",?
+63912,180,far,ao,,,"1, 56",?
+64269,181,where?,iava,,,"3, 48",
+64626,182,I,nau,,,"1, 22",1
+64983,183,thou,ɣoe,,,1,?
+65340,184,he/she,[a]ia,,,1,1
+111912,185,we,iɣita,,,1,1
+111913,185,we,iɣami,,,2,
+66054,186,you,iɣamu,,,1,1
+66411,187,they,iɣira,,,"1, 69",1
+66768,188,what?,"na ɣua",,,36,
+67125,189,who?,asei,,,"1, 68",1
+68196,192,and,mana,,,"2, 40",1
+68553,193,if,ti,,,50,
+68910,194,how?,"e ɣua",,,"1, 39",1
+69267,195,"no, not",taɣara,,,77,
+69624,196,"to count",čoko,,,60,
+69981,197,One,k|esa,,,32,1?
+70338,198,Two,ruka,"irregular medial -k-",,"1, 21",?
+70695,199,Three,tolu,,,1,1
+71052,200,Four,vati,,,"1,65",1
+148276,201,Five,čeɣe,five,,16,
+148277,202,Six,ono,six,,1,
+148278,203,Seven,vitu,seven,,1,
+148279,204,Eight,alu,eight,,3,
+148280,205,Nine,siu,nine,,5,
+148281,206,Ten,saŋavulu,ten,,5,
+148282,209,"One Hundred","kesa saŋatu","one hundred; irregular loss of *R",,"4, 38",
+148283,210,"One Thousand","kesa toɣa","one thousand",,27,

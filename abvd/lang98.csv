@@ -1,0 +1,207 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+98,"Nehan Hape","Bertha Quista Kenneth",nsn,neha1247,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, South New Ireland-Northwest Solomonic, Nehan-North Bougainville, Nehan","Peng Du","Simon Greenhill","@misc{Kenneth-98-2005,  author = \"Bertha Quista Kenneth\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-4.48607103437042109562,154.21508789062500000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+98,1,hand,liman,,,1,1
+455,2,left,pangkais,"borrowing? TP kais",,15,
+812,3,right,pangmua,,,26,
+1169,4,leg/foot,keken,"or 60?",,1,
+1526,5,"to walk",la,,,"1, 69",1
+1883,6,road/path,lel,,,8,
+2240,7,"to come",lame,,,"1,85",1?
+2597,8,"to turn",gel,,,,
+2954,9,"to swim",waen,,,,
+3311,10,dirty,muskurum,,,,
+3668,11,dust,mongmong,,,,
+4025,12,skin,kapokon,,,12,
+4382,13,back,mudin,,,3,
+4739,14,belly,balan,,,18,
+5096,15,bone,hiron,,,9,
+5453,16,intestines,todin,,,38,
+5810,17,liver,kotan,,,10,
+6167,18,breast,huhun,,,1,1
+6524,19,shoulder,huhuatan,,,13,
+6881,20,"to know, be knowledgeable","tang iate",,,35,
+7238,21,"to think",naman,,,28,
+7595,22,"to fear",sokor,,,10,
+7952,23,blood,dewatin,,,8,
+8309,24,head,lun,,,1,1?
+8666,25,neck,wekwekon,,,26,
+9023,26,hair,ulun,,,31,
+9380,27,nose,ngusun,,,27,?
+9737,28,"to breathe",ung,,,19,
+10094,29,"to sniff, smell",amuh,,,14,
+10451,30,mouth,wawan,,,36,1
+10808,31,tooth,liwon,,,"1,35",1
+11165,32,tongue,mian,,,7,
+11522,33,"to laugh",wanio,,,19,
+11879,34,"to cry",kiring,,,36,
+12236,35,"to vomit",luah,,,8,
+12593,36,"to spit",low,,,24,
+12950,37,"to eat",en,,,1,1
+89363,38,"to chew",som,"general term",,21,
+89364,38,"to chew",korak,"chew betel",,29,
+13664,39,"to cook",wasilung,,,14,
+14021,40,"to drink",inum,,,1,1
+14378,41,"to bite",et,,,11,?
+14735,42,"to suck",totop,,,"1, 32",?
+15092,43,ear,talingan,,,1,1
+15449,44,"to hear",longor,,,"1, 36",1
+15806,45,eye,matan,,,1,1
+16163,46,"to see",bang,,,16,
+16520,47,"to yawn",ham,,,14,
+16877,48,"to sleep",hohow,,,13,
+17234,49,"to lie down",rikin,,,12,
+17591,50,"to dream",borborian,,,10,
+17948,51,"to sit",tabil,,,22,
+18305,52,"to stand",tur,,,"2,69",1
+18662,53,"person/human being",tamat,,,"1,66",1
+19019,54,man/male,bulot,,,16,
+19376,55,woman/female,kuah,,,10,
+19733,56,child,keketik,,,10,
+20090,57,husband,"na bulut",,,16,
+20447,58,wife,"na kuah",,,15,
+20804,59,mother,ni,,,"1, 83",
+21161,60,father,papa,"nursery form?",,48,
+21518,61,house,um,,,1,1
+21875,62,thatch/roof,kuku,,,13,
+22232,63,name,hangan,"<metathesis of 1?",,"1,15",1
+22589,64,"to say",kotow,,,,
+22946,65,rope,woh,,,27,
+23303,66,"to tie up, fasten",rokos,,,,
+23660,67,"to sew",somap,,L,46,
+24017,68,needle,harum,,,1,1
+24374,69,"to hunt",hihip,,,18,
+24731,70,"to shoot",wan,,,1,1
+25088,71,"to stab, pierce",sop,,,17,
+25445,72,"to hit",haluh,,,1,1
+25802,73,"to steal",wenau,,,"1,32",1
+26159,74,"to kill","haluh pos",,,17,
+26516,75,"to die, be dead",mat,,,1,1
+26873,76,"to live, be alive",tua,,,8,
+27230,77,"to scratch",keh,,,5,?
+27587,78,"to cut, hack",tokot,,,"3,141",?
+27944,79,stick/wood,randok,,,4,
+28301,80,"to split",sasang,,,,
+28658,81,sharp,man,,,24,
+124923,82,"dull, blunt",kalebuk,,,,
+124924,82,"dull, blunt",tutukab,,,46,
+29372,83,"to work","kale kinale",,,16,
+29729,84,"to plant",leb,,,13,
+30086,85,"to choose",malahir,,,,
+30443,86,"to grow",tungar,,,27,
+30800,87,"to swell",ising,,,14,
+31157,88,"to squeeze",pos,,,18,1
+31871,90,"to dig",koh,,,82,
+32228,91,"to buy",bulbulau,,,38,
+32585,92,"to open, uncover",puk,,,1,1
+32942,93,"to pound, beat",sok,,,27,
+33299,94,"to throw",bak,,,53,
+33656,95,"to fall",pung,,,21,
+34013,96,dog,lo,,,12,
+34370,97,bird,tetsiau,,,12,
+34727,98,egg,tagun,,,11,
+35441,100,wing,titsia|wan,,,14,?
+35798,101,"to fly",luluh,,,1,
+36155,102,rat,kih,,,"3,88",
+36512,103,meat/flesh,maharang,,,,
+36869,104,fat/grease,hihianang,,,,
+37226,105,tail,wihing,,,44,
+37583,106,snake,soi,,,17,
+37940,107,"worm (earthworm)",solet,,,,
+38297,108,louse,ut,,,1,1
+38654,109,mosquito,kohik,,,15,
+39011,110,spider,kako,,,35,
+39368,111,fish,ian/yan,,,1,1
+39725,112,rotten,beng,,,21,
+40082,113,branch,ranan,,,"1,21",1
+40439,114,leaf,kamanan,,,14,
+40796,115,root,wa,,,39,1
+41153,116,flower,purpur,,L?,13,
+41867,118,grass,garas,Loan?,L,,
+42224,119,earth/soil,kot,,,15,
+42581,120,stone,palau,,,9,
+42938,121,sand,ion/yon,,,1,1
+105447,122,water,laur,(water),,34,
+105448,122,water,kodom,"(fresh water)",,7,
+43652,123,"to flow",sosor,,,,
+44009,124,sea,laur|teh,,,"6,1",1
+44366,125,salt,teh,,,20,
+44723,126,lake,"kodomo ulek",,,26,
+45080,127,woods/forest,tatangowon,,,,
+45437,128,sky,langit,,,1,1
+45794,129,moon,bialok,,,9,
+46151,130,star,pitapit,,,"1,81",
+46508,131,cloud,langit,,,3,
+46865,132,fog,bolboloh,,,,
+47222,133,rain,huan,(&<met),,"1,19",1
+47579,134,thunder,pil,,,23,
+47936,135,lightning,kanau,,,14,
+48293,136,wind,rom,,,15,
+48650,137,"to blow",u,,,4,
+49007,138,warm,welwelsuk,,,15,
+49364,139,cold,malahong,,,15,
+49721,140,dry,papadak,,,17,
+50078,141,wet,bus,,,16,
+50435,142,heavy,duh,,,36,
+50792,143,fire,hue,,,22,
+51149,144,"to burn",luh,,,13,
+51506,145,smoke,diku,,,15,
+51863,146,ash,taun,,,28,
+52220,147,black,kurkurum,,,13,
+52577,148,white,gawgawil,,,44,
+52934,149,red,kubkubar,,,20,
+53291,150,yellow,yawyawel,,,16,
+53648,151,green,bukbukir,,,17,
+54005,152,small,kit/kikitilik,"irregular *q > k",,121,
+54362,153,big,ulek,,,16,
+54719,154,short,puhin,,,15,
+55076,155,long,barah,,,16,
+55433,156,thin,belabel,,,7,
+55790,157,thick,obot,,,14,
+56147,158,narrow,hehelen,,,,
+56504,159,wide,rabian,,,47,
+56861,160,"painful, sick",momoh,,,17,
+57218,161,"shy, ashamed",matal,,,10,
+57575,162,old,lapun,,L,42,
+57932,163,new,timuh,,,11,
+58289,164,good,uia,,,1,
+58646,165,"bad, evil",sa,,,1,?
+59003,166,"correct, true",oman,,,14,
+59360,167,night,bong,,,1,1
+59717,168,day,maren,,,6,?
+60074,169,year,kirismas,Loan,L,,
+60431,170,when?,mangih,,,"1,48",
+60788,171,"to hide",tokowaow,,,,
+61145,172,"to climb",mot,"b - no mountains on Nissan",,12,
+61502,173,at,gala,?,,,
+81195,174,"in, inside",irolon,"ium =inside house",,1,
+81196,174,"in, inside",ium,"ium =inside house",,18,
+62216,175,above,iran,,,12,
+62573,176,below,kot,,,44,
+62930,177,this,gine,,,1,1?
+63287,178,that,gaat,,,,1?
+63644,179,near,wahuhut,,,16,
+64001,180,far,ireh,,,17,
+64358,181,where?,ia,,,37,
+64715,182,I,ingo,,,14,
+65072,183,thou,inga,,,7,
+65429,184,he/she,ingon,,,7,
+119230,185,we,ingem,,,14,
+119231,185,we,ingom,,,14,
+66143,186,you,inga,,,8,
+66500,187,they,gisin,,,6,
+66857,188,what?,"ahaw | haw",,,1,
+67214,189,who?,mai,,,11,
+67571,190,other,ginin,,,,
+67928,191,all,"te enina wakap",,,46,
+68285,192,and,doh,,,13,
+68642,193,if,gete,,,8,
+68999,194,how?,hape,,,15,
+69356,195,"no, not",ahik,,,"1,16",
+69713,196,"to count",ah,,,10,
+70070,197,One,siok,,,12,
+70427,198,Two,torik,,,5,
+70784,199,Three,towon,,,5,
+71141,200,Four,towet,,,"1,65",

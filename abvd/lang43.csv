@@ -1,0 +1,245 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+43,"Aklanon - Bisayan","Dave Zorc",akl,akla1241,,,"Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, West, Aklan","Penny Keenan","Simon Greenhill","@misc{Zorc-43-2005,  author = \"Dave Zorc\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+11.53385219151053320275,122.36572265625000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+43,1,hand,ʔalí:mah,,,1,1
+400,2,left,waɣáh,,,"25,68",
+134108,2,left,waéah,,,"25,68",
+757,3,right,tuʔúh,,,"5,25",1
+1114,4,leg/foot,sikí,,,24,
+85123,5,"to walk",pá:ńaw,go,,2,1
+85124,5,"to walk",tikáŋ,"leave / walk on 2 legs",,,
+1828,6,road/path,dá:ɣan,,,1,1
+2185,7,"to come",ʔabút,"'come, arrive'",,15,
+2542,8,"to turn",likúʔ,"'to turn[as around corner]",,21,
+2899,9,"to swim",ɣaŋúy,,,1,1
+3256,10,dirty,hígkuʔ,,,11,
+3613,11,dust,taputapúh,,,47,?
+3970,12,skin,pa:nit,,,"2,85",
+4327,13,back,likúd,,,1,1
+4684,14,belly,tiyán,,,1,1
+5041,15,bone,túɣʔan,,,1,1
+5398,16,intestines,tiná:ʔih,,,1,1
+5755,17,liver,ʔatáy,,,1,1
+6112,18,breast,su:su.,,,1,1
+6469,19,shoulder,ʔabá:gah,,,1,1
+6826,20,"to know, be knowledgeable",ka:sá:yud,,,11,
+89762,21,"to think",ʔí:sip,,,23,
+89763,21,"to think",hunáʔhunáʔ,,,24,
+7540,22,"to fear",hádluk,,,16,
+7897,23,blood,dugúʔ,,,16,
+8254,24,head,ʔú:ɣuh,,,1,1
+8611,25,neck,lí:ʔug,,,1,1
+8968,26,hair,buhúk,,,"1,65",1
+9325,27,nose,ʔilúŋ,,,1,1
+9682,28,"to breathe",ginhá:wa.,,,1,1
+10039,29,"to sniff, smell",humút,,,31,
+10396,30,mouth,báʔbaʔ,,,1,1
+10753,31,tooth,ŋí:pun,,,"1,48",1
+11110,32,tongue,dí:laʔ,,,4,1
+11467,33,"to laugh",hibayág,,,,
+11824,34,"to cry",tá:ŋis,,,1,1
+12181,35,"to vomit",sú:kah,,,9,
+12538,36,"to spit",túpɣah,,,44,
+12895,37,"to eat",ká:ʔun,,,1,1
+89356,38,"to chew",mamáʔ,"chew - betel",,1,1
+89357,38,"to chew",ʔú:sap,[premasticate],,"17,18",
+13609,39,"to cook",ɣa:haʔ,,,,
+13966,40,"to drink",ʔinúm,,,1,1
+89750,41,"to bite",kitkit,"nibble, gnaw",,21,1
+89751,41,"to bite",ʔaŋkit,bite-into,,,
+14680,42,"to suck",supsup,,,1,1
+15037,43,ear,duɣúŋgan,,,11,
+15394,44,"to hear",naka:batíʔ,,,21,
+15751,45,eye,matá.,,,1,1
+16108,46,"to see",kí:taʔ,,,1,1
+16465,47,"to yawn",húyʔab,,,"19,38",1
+16822,48,"to sleep",tu:ɣug,,,1,1
+17179,49,"to lie down",ɣubúg,,,,
+17536,50,"to dream",dámguh,,,21,
+17893,51,"to sit",púŋkuʔ,,,139,
+18250,52,"to stand",tíndug,,,20,
+18607,53,"person/human being",tá:wuh,,,1,1
+74213,54,man/male,ɣaɣá:ki,,,"2,99",1
+74214,54,man/male,ɣa:ki,,,2,1
+74272,55,woman/female,babá:yih,,,"1,105",1
+74273,55,woman/female,ba:yih,,,1,1
+19678,56,child,ʔuŋáʔ,,,22,
+74429,57,husband,ʔasá:wa:ŋ,,,2,1
+74430,57,husband,ɣaɣá:kih,,,2,1
+20392,58,wife,ʔasa:wa.,,,1,
+20749,59,mother,ʔinah,,,1,1
+21106,60,father,ʔanáh,,,1,1
+21463,61,house,baɣáy,,,14,
+21820,62,thatch/roof,ʔatúp,,,1,1
+22177,63,name,ŋá:ɣan,,,1,1
+22534,64,"to say",hámbaɣ,,,,
+91426,65,rope,pí:siʔ,rope,,22,
+91427,65,rope,ɣúbid,string,,21,
+23248,66,"to tie up, fasten","higút [hígt:an]",,,1,1(
+23605,67,"to sew",tahíʔ,,,1,1
+23962,68,needle,da:gum,,,1,1
+24319,69,"to hunt",paŋayám,,,25,
+24676,70,"to shoot",panáʔ,,,1,1
+25033,71,"to stab, pierce",bunúʔ,,,26,
+25390,72,"to hit",sámpuk,,,36,
+25747,73,"to steal",tá:kaw,,,1,1
+26104,74,"to kill",patáy,,,2,
+26461,75,"to die, be dead",matáy,,,1,1
+26818,76,"to live, be alive",paŋa:bú:hiʔ,,,"14,74",
+27175,77,"to scratch",ká:ɣut,,,44,?
+92022,78,"to cut, hack",tuktuk,"into pieces",,3,1
+92023,78,"to cut, hack",saksak,cut-up,,,
+92024,78,"to cut, hack",tagáʔ,hew,,1,
+27889,79,stick/wood,ka:huy,,,1,1
+28246,80,"to split",búsʔak,"split wood",,,
+28603,81,sharp,taɣúm,,,1,1
+28960,82,"dull, blunt",daŋáɣ,,,,
+29317,83,"to work",ʔumáh,,,1,1
+29674,84,"to plant",tanúm,,,2,1
+30031,85,"to choose",píliʔ,,,1,1
+30388,86,"to grow",tú:buʔ,,,1,1
+92566,87,"to swell",bagáʔ,,,1,1
+92567,87,"to swell",há:ɣuk,,,,
+92591,88,"to squeeze",pú:gaʔ,"as orange",,"1,37",1
+92592,88,"to squeeze",kú:mus,"as clothes",,,
+31459,89,"to hold",kúmkum,,,"1,45",1
+31816,90,"to dig",kútkut,,,13,
+32173,91,"to buy",bakáɣ,,,32,
+32530,92,"to open, uncover",bukáʔ,,,1,1
+32887,93,"to pound, beat",bayúh,,,1,1
+33244,94,"to throw",habúy,,,,
+33601,95,"to fall",hú:ɣog,,,29,
+33958,96,dog,ʔá:yam,,,23,
+76955,97,bird,manuk,,,1,
+76956,97,bird,píspis,,,27,
+76981,98,egg,ʔítlug,,,1,1
+76982,98,egg,onok,,,23,1
+104632,99,feather,búɣbuɣ,,,"1,68",?
+77040,99,feather,bubul,,,"1,67",?
+104633,99,feather,baɣahí:buh,,,21,?
+35386,100,wing,pákpak,,,33,
+35743,101,"to fly",ɣupád,,,21,
+36100,102,rat,ɣáŋgam,,,,
+36457,103,meat/flesh,ʔunúd,,,27,
+104743,104,fat/grease,sí:buh,"[as oil]",,,
+104744,104,fat/grease,támbuk,"[in solid form]",,82,
+37171,105,tail,ʔí:kug,,,1,1
+37528,106,snake,sawáh,,,25,
+37885,107,"worm (earthworm)",ʔú:ɣud,,,21,
+38242,108,louse,kú:tuh,,,1,1
+38599,109,mosquito,namúk,,,"1,90",1
+38956,110,spider,ɣamáŋ,,,,
+39313,111,fish,ʔísdaʔ,,,18,
+105191,112,rotten,bulúk,,,"1,102",1?
+105192,112,rotten,ɣúbʔuk,,,"1,102",
+40027,113,branch,saŋáh,,,2,
+40384,114,leaf,dá:hun,,,1,1
+40741,115,root,gamút,,,3,1
+41098,116,flower,bú:ɣak,,,22,
+41455,117,fruit,bú:ŋah,,,9,
+41812,118,grass,halimunún,,,"91,92",
+42169,119,earth/soil,ɣúgtaʔ,,,"25,83",
+42526,120,stone,batu,,,1,1
+42883,121,sand,baɣás,,,19,
+43240,122,water,tú:biʔ,,,"14,57",
+43597,123,"to flow",ʔí:lug,,,72,?
+107758,124,sea,dá:gat,,,25,
+107759,124,sea,ɣawúd,[open-sea],,6,
+44311,125,salt,ʔasín,,,3,
+44668,126,lake,danáw,,,1,1
+45025,127,woods/forest,kaguɣá:ŋan,,,58,
+45382,128,sky,ɣá:ŋit,,,1,1
+45739,129,moon,bú:ɣan,,,1,1
+46096,130,star,bitú:ʔun,,,1,1
+46453,131,cloud,paŋá:nud,,,27,
+46810,132,fog,ʔámbun,,,"27,35",
+47167,133,rain,ʔuɣán,,,1,1
+47524,134,thunder,daɣúgdug,,,"2,48",?
+47881,135,lightning,kilát,,,1,1
+48238,136,wind,há:ŋin,,,1,1
+48595,137,"to blow",huyúp,,,"1,44",1
+48952,138,warm,ʔí:nit,,,23,
+49309,139,cold,ɣamíg,,,22,
+49666,140,dry,maɣa.,,,26,?
+50023,141,wet,basáʔ,,,1,1
+50380,142,heavy,búgʔat,,,"1,63",1
+50737,143,fire,kaɣá:yu.,,,10,
+51094,144,"to burn",sú:nug,,,21,
+51451,145,smoke,ʔasúh,,,2,1
+51808,146,ash,ʔabúh,,,1,1
+52165,147,black,ʔitúm,,,1,1
+52522,148,white,putíʔ,,,1,1
+52879,149,red,puɣáh,,,28,
+53236,150,yellow,duɣáw,,,24,
+53593,151,green,berde,,L,,
+79852,152,small,ʔisút,,,,
+79853,152,small,saŋ:kiríʔ,,,,
+54307,153,big,bahúɣ,,,93,
+80095,154,short,putút,,,,
+80096,154,short,ʔisút,,,,
+55021,155,long,há:baʔ,,,27,
+55378,156,thin,nipís,,,1,1
+55735,157,thick,dá:muɣ,,,21,
+56092,158,narrow,kitíd,,,19,
+122858,159,wide,ɣá:wig,,,"1,30",
+122859,159,wide,ɣá:pad,,,,
+56806,160,"painful, sick",sakít,,,1,1
+57163,161,"shy, ashamed",huyáʔ,,,"1,23",1
+57520,162,old,gú:ɣaŋ,"(cp. TB)",,21,
+57877,163,new,bágʔuh,,,1,1
+58234,164,good,mayád,,,"46,29",
+58591,165,"bad, evil",ɣá:ʔin,,,86,
+58948,166,"correct, true",tú:ʔud,,,38,?
+59305,167,night,gabí:ʔih,,,21,
+59662,168,day,ʔádlaw,,,1,1
+60019,169,year,dágʔun,,,43,
+123635,170,when?,hinʔunúh,future,,"10,20",
+123636,170,when?,kánʔuh,past,,"10,19",
+60733,171,"to hide",tá:guʔ,,,13,
+61090,172,"to climb",sá:kaʔ,,,55,
+61447,173,at,sa,,,14,?
+61804,174,"in, inside",suɣúd,,,14,
+62161,175,above,ʔibá:baw,,,2,1
+62518,176,below,ʔdá:ɣum,,,20,?
+81339,177,this,dá:yah,,,35,
+81340,177,this,dú:naʔ,,,8,
+81449,178,that,dú:yun,,,49,1
+81450,178,that,datúh,,,16,1
+63589,179,near,ɣapít,,,36,
+63946,180,far,ɣayúʔ,,,"1,75",?
+64303,181,where?,siʔɪ́n,,,"1,63",
+64660,182,I,ʔakú.,,,"1,5",1
+65017,183,thou,ʔikáw,,,1,1
+65374,184,he/she,ʔimáw,,,,
+122860,185,we,kitáh,,,"1,50",1
+122861,185,we,kamíh,,,"2,52",
+66088,186,you,kamú,,,"1,38",1
+66445,187,they,sándah,,,"1,35",?
+66802,188,what?,ʔanúh,,,"2,18",?
+67159,189,who?,sínʔuh,,,14,
+122453,190,other,ɣaʔɪ́n,different,,2,
+122454,190,other,ʔíbáh,,,12,
+67873,191,all,tanán,,,24,
+68230,192,and,ʔag,,,25,
+68587,193,if,kun,,,"1,11",
+68944,194,how?,maʔú:nuh,,,29,
+123588,195,"no, not",ʔindiʔ,"future verb",,"1,44",
+123589,195,"no, not",ʔayáw,imperative,,,
+69658,196,"to count",huyáp,,,2,
+70015,197,One,ʔisaɣáh,,,"1,29",?
+70372,198,Two,daywáh,,,"1,23",1
+70729,199,Three,tatlúh,,,"1,10",1
+71086,200,Four,ʔapʔat,,,"1,14",1
+135238,201,Five,lima,,,1,
+136051,202,Six,sais,,L,,
+254249,202,Six,ʔanʔom,,,"1,38",
+136050,203,Seven,pitu,,,1,
+135237,204,Eight,waeo,,,3,
+136049,205,Nine,syam,,,9,
+136048,206,Ten,pueo,,,5,
+136045,207,Twenty,baynti,,L?,,
+139192,208,Fifty,singkwenta,,,,
+136047,209,"One Hundred","sang gatos",,,4,
+136046,210,"One Thousand","sang libo",,,5,

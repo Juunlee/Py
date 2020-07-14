@@ -1,0 +1,240 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+84,Manggarai,"Blust, from: Verheijen (1967)",mqy,mang1405,"Verheijen, J.A.J.(1967). Kamus Manggarai. I, Manggarai - Indonesia. II, Indonesia - Manggarai. The Hague: The Netherlands.","Forms marked 'umum' or found within 'Manggarai Barat' in Verheijen","Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Bima-Sumba","Peng Du","Simon Greenhill","@book{478432,  publisher  = {Nijhoff},  title      = {Kamus Manggarai: Manggarai-Indonesia &Indonesia-Manggarai},  volume     = {1},  year       = {1967},  bibtexkey  = {verheijen_kamus-manggaraii1967},  hhtype     = {dictionary},  src        = {langsci},  srctrickle = {langsci#Verheijen:67},  author     = {Verheijen, Jilis A. J.}}"
+latitude,longitude
+-8.53756535080401768312,120.58593750000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+84,1,hand,limé,,,"1,64",1
+441,2,left,léo,,,4,
+798,3,right,wanaŋ,,,1,1
+1155,4,leg/foot,waʔi,,,"1,100",1
+1512,5,"to walk",lako,,,1,1
+1869,6,road/path,salaŋ,,,1,1
+71640,7,"to come",cai,,,1,1
+71641,7,"to come",mai,,,1,1
+2583,8,"to turn",seléko,,,,
+2940,9,"to swim",aŋiŋ,,,"1,45",
+3297,10,dirty,saki,,,1,1
+71900,11,dust,kebok,,,1?,?1
+71901,11,dust,r|awok,,,1?,?1
+4011,12,skin,loké,,,36,
+4368,13,back,wekur,,,,
+72059,14,belly,bara,,,,
+72060,14,belly,tuka,,,4,
+5082,15,bone,toko,,,3,
+5439,16,intestines,tuka,,,4,
+5796,17,liver,ati,,,1,1
+6153,18,breast,cucu,,,1,1
+6510,19,shoulder,tetak,,,,
+6867,20,"to know, be knowledgeable",ŋgepuk,,,,
+7224,21,"to think",nuk,,,30?,
+7581,22,"to fear",rantaŋ,,,,
+7938,23,blood,dara,"L? <Malay (Emily)",,1,1
+8295,24,head,ulu,,,1,1
+8652,25,neck,bokak,,,,
+9009,26,hair,wuk,,,1,1
+9366,27,nose,isuŋ,,,1,1
+9723,28,"to breathe",nai,,,4,
+10080,29,"to sniff, smell",isuk,,,,
+10437,30,mouth,muʔu,,,2?,
+10794,31,tooth,ŋis,,,24,1?
+11151,32,tongue,l|ema,,,6,1?
+11508,33,"to laugh",tawa,,,1,1
+11865,34,"to cry",rétaŋ,,,1?,?
+12222,35,"to vomit",roa,,,,
+12579,36,"to spit",ipo,"or 29?",,6?,
+12936,37,"to eat",haŋ,,,1?,1
+13293,38,"to chew",mama,,,1,1
+13650,39,"to cook",teneŋ,,,,
+14007,40,"to drink",inuŋ,,,1,1
+14364,41,"to bite",akit,,,1?,?
+14721,42,"to suck",mecol,,,6,
+15078,43,ear,tilu,"cp. Elat",,"1,4",
+15435,44,"to hear",deŋé,,,1,1
+15792,45,eye,mata,,,1,1
+16149,46,"to see",lelo,,,,
+16506,47,"to yawn",ŋoap,,,19,1?
+16863,48,"to sleep",toko,,,,
+17220,49,"to lie down",berit,,,,
+17577,50,"to dream",nipi,,,"1,60",1
+17934,51,"to sit",lonto,,,9,
+18291,52,"to stand",hesé,,,,1?
+18648,53,"person/human being",ata,,,4,?
+19005,54,man/male,rona,,,112,1
+19362,55,woman/female,wina,,,"1,41",1
+19719,56,child,anak,,,1,1
+20076,57,husband,rona,,,,
+20433,58,wife,wina,,,5,
+20790,59,mother,ende,,,1?,
+21147,60,father,ema,,,1,1
+21504,61,house,mbaru,,,,
+21861,62,thatch/roof,épa,,,,
+22218,63,name,ŋasaŋ,,,1,1
+22575,64,"to say",curup,,,,
+74886,65,rope,wase,"*wasin, POc",,27,1
+74887,65,rope,tali,,,1,1
+23289,66,"to tie up, fasten",poŋo,,,5,
+23646,67,"to sew",jaʔik,,,2,1?
+24003,68,needle,jaruŋ,,L,1,1
+24360,69,"to hunt",ŋobaŋ,,,,
+24717,70,"to shoot",pana,,,1,1
+75302,71,"to stab, pierce",ceka,,,,
+75303,71,"to stab, pierce",dus,,,,
+75304,71,"to stab, pierce",jelok,,,,
+25431,72,"to hit",wego,,,,
+25788,73,"to steal",tako,,,1,1
+26145,74,"to kill",mbele,,,,
+26502,75,"to die, be dead",mata,,,1,1
+26859,76,"to live, be alive",mosé,,,"1,76",1
+27216,77,"to scratch",koér,,,1,
+27573,78,"to cut, hack",déntér,,,,
+27930,79,stick/wood,haju,,,1,1
+28287,80,"to split",cahir,,,,
+28644,81,sharp,harat,,,,
+29001,82,"dull, blunt",dumpul,,,3,1
+29358,83,"to work",gori,,,,
+29715,84,"to plant",weri,,,,
+76170,85,"to choose",lir,,,1,1
+76171,85,"to choose",pilé,,,1,1
+30429,86,"to grow",todo,,,1,
+30786,87,"to swell",bara,,,1,1
+76354,88,"to squeeze",kedur,,,3,
+76355,88,"to squeeze",kejé,,,3,
+76432,89,"to hold",cau,,,,
+76433,89,"to hold",pekeŋ,,,,
+31857,90,"to dig",cace,,,5,
+32214,91,"to buy",weli,,,1,1
+76630,92,"to open, uncover",céŋka,,,1,1
+76631,92,"to open, uncover",wuka,,,1,1
+32928,93,"to pound, beat",tuk,,,"20, 2",1
+33285,94,"to throw",pake,,,,
+33642,95,"to fall",paʔu,,,113,
+33999,96,dog,acu,,,1,1
+34356,97,bird,kaka,,,,
+76985,98,egg,ruha,,,1,1
+76986,98,egg,telo,,,1,1
+35070,99,feather,wulu,,,1,1
+35427,100,wing,lebé,,,4,
+35784,101,"to fly",lélap,,,2?,
+36141,102,rat,belawo,,,1,1
+36498,103,meat/flesh,ici,,,31,1
+77284,104,fat/grease,wusak,,L?,,1
+77285,104,fat/grease,mina,,L?,1?,1
+37212,105,tail,iko,,,1,1
+37569,106,snake,ular,,,2,1
+37926,107,"worm (earthworm)",mbalaŋ,,,,
+38283,108,louse,utu,,,1,1
+38640,109,mosquito,namok,,,1,1
+38997,110,spider,"sawa ndao",,,1?,?
+39354,111,fish,ikaŋ,,,1,1
+39711,112,rotten,wau,,,3,
+40068,113,branch,paŋa,,,22,
+40425,114,leaf,sauŋ,,,1,1
+40782,115,root,wake,,,2,1?
+41139,116,flower,wela,,,4,
+41496,117,fruit,wua,,,1,1
+41853,118,grass,remaŋ,,,,
+42210,119,earth/soil,tana,,,1,1
+42567,120,stone,watu,,,1,1
+42924,121,sand,laiŋ,,,,
+43281,122,water,waé,,,2,1
+43638,123,"to flow",waʔa,,,,
+43995,124,sea,tacik,,,1,1
+44352,125,salt,ciʔe,,,1,1?
+44709,126,lake,sano,,,1,1
+45066,127,woods/forest,puar,,,,
+107903,128,sky,awaŋ,,,7,1
+107904,128,sky,laŋit,,,1,
+45780,129,moon,wulaŋ,,,1,1
+46137,130,star,ntala,,,4,
+46494,131,cloud,rewuŋ,,,1?,1?
+78705,132,fog,lana,,,,
+78706,132,fog,napuŋ,,,,
+78707,132,fog,rewuŋ,,,,
+47208,133,rain,usaŋ,,,1,1
+47565,134,thunder,bo,,,,
+78855,135,lightning,ndilap,,,1,?
+78856,135,lightning,pasat,,,,?
+48279,136,wind,buru,,,,
+48636,137,"to blow",pur,,,,
+79070,138,warm,kolaŋ,,,,1
+79071,138,warm,panas,,,1,1
+49350,139,cold,menes,,,,
+49707,140,dry,d|aŋo,,,1?,1?
+50064,141,wet,baca,,,1,1
+50421,142,heavy,mendo,,,,
+50778,143,fire,api,,,1,1
+51135,144,"to burn",tapa,,,,
+51492,145,smoke,nus,,,,1?
+51849,146,ash,rawuk,,,1?,
+52206,147,black,miteŋ,,,1,1
+52563,148,white,bakok,,,,
+52920,149,red,nderaŋ,,,,
+79777,150,yellow,leros,,,,
+79778,150,yellow,téʔé,,,,
+53634,151,green,taʔa,,,,
+53991,152,small,koé,,,,
+54348,153,big,mésé,,,4,
+54705,154,short,wokok,,,3?,
+55062,155,long,léwé,,,6,
+80190,156,thin,laroŋ,,,1,1
+80191,156,thin,mipis,,,"1,65",1
+55776,157,thick,kimpur,,,,
+56133,158,narrow,pimpet,,,,?
+80311,159,wide,akék,,,,
+80312,159,wide,mésé,,,,
+56847,160,"painful, sick",keti,,,1?,
+80443,161,"shy, ashamed",ritak,,,1,1
+80444,161,"shy, ashamed",maja,,,1,1
+57561,162,old,tuʔa,,,1,1
+57918,163,new,weru,,,1,1
+58275,164,good,dia,,,43,1
+58632,165,"bad, evil",daʔat,,,1,1
+58989,166,"correct, true",tuʔu,,,6,1
+59346,167,night,wie,,,,
+59703,168,day,leso,,,24,1
+60060,169,year,ntauŋ,,,1,1
+60417,170,when?,"cai pisa",,,"11,65",1
+80988,171,"to hide",lépéŋ,,,,1
+80989,171,"to hide",boné,,,1,1
+61131,172,"to climb",tuké,,,20,
+61488,173,at,one,,,25,
+61845,174,"in, inside",délem,,,1,1
+62202,175,above,éta,,,5,
+62559,176,below,wa,,,1,1
+62916,177,this,hoʔo,,,,
+63273,178,that,h|itu,,,,1
+63630,179,near,baliŋ,,,,
+63987,180,far,olu,,,,
+64344,181,where?,baté,,,2?,
+64701,182,I,aku,,,1,1
+65058,183,thou,hau,,,1,1
+65415,184,he/she,h|ia,,,1,1
+121416,185,we,ita,,,1,1
+121417,185,we,ami,,,2,
+66129,186,you,meu,,,"1,13",1
+66486,187,they,isa,,,1,1
+66843,188,what?,apa,,,1,1
+67200,189,who?,cei|ŋ,,,1,1
+82332,190,other,bana,,,,
+82333,190,other,dio,,,,
+82334,190,other,iwo,,,,
+67914,191,all,"saŋgan tauŋ",,,,
+68271,192,and,agu,,,4,
+68628,193,if,eme,,,,?
+68985,194,how?,coʔo,,,,
+69342,195,"no, not",toa,,,,
+69699,196,"to count",bilaŋ,,,1,1
+70056,197,One,ca,,,1,1
+70413,198,Two,sua,,,1,1
+70770,199,Three,telu,,,1,1
+71127,200,Four,pat,,,1,1
+89609,201,Five,lima,,,1,
+89610,202,Six,enem,,,1,
+89611,203,Seven,pitu,,,1,
+89612,204,Eight,alo,,,3,
+89613,205,Nine,ciok,,,5?,
+89614,206,Ten,cempulu,,,5,
+131201,207,Twenty,suampulu,,,,
+131202,208,Fifty,limampulu,,,"1,2",
+154012,209,"One Hundred",ceratus,,,,
+154011,210,"One Thousand",cesebu,,,,

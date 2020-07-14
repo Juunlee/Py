@@ -1,0 +1,224 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+19,Canala,"Blust, from: Grace (1975)",ane,xara1244,"Grace, G.W. (1975) Canala dictionary (New Caledonia). Canberra:Pacific Linguistics.",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, New Caledonian, Southern, South, Xaracuu-Xaragure","Peng Du","Simon Greenhill","@book{106213,  address               = {Canberra},  pages                 = {viii+128},  publisher             = {Dept. of Linguistics, Research School of Pacific Studies, Australian National University},  series                = {Pacific linguistics: Series C},  title                 = {Canala dictionary (New Caledonia)},  volume                = {2},  year                  = {1975},  bibtexkey             = {grace_canala-caledonia1975},  class_loc             = {PL6218.Z5},  document_type         = {B},  fn                    = {papua\grace_canala1975.pdf},  hhtype                = {dictionary},  inlg                  = {English [eng]},  inlg_code             = {eng},  isbn                  = {9780858831223},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 6218 .Z5 GRA 1975},  src                   = {hh, mpieva, wals},  srctrickle            = {hh#d:Grace:Canala, mpieva#Grace1975Canaladi, wals#2204},  subject_headings      = {Anesu language–Dictionaries–English, English language–Dictionaries–Anesu, Anesu language–Dictionaries–English – English language–Dictionaries–Anesu},  author                = {Grace, George William}}"
+latitude,longitude
+-21.67000000000000170530,166.00000000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+19,1,hand,xɛrɛ,,,33,
+376,2,left,çɛdɛyaa,,,29?,
+733,3,right,çɛdɛnũrũ,,,23,
+1090,4,leg/foot,pa,,,33?,
+1447,5,"to walk",fʌdʌ,,,2,
+1804,6,road/path,xʷãĨ,,,1?,
+2161,7,"to come",mɛ̃,,,1,1
+2518,8,"to turn",šɛpʷĩrĩ,,,92,
+2875,9,"to swim",xɛ̃,,,86,
+71806,10,dirty,kɔtɔɔ,,,,
+71807,10,dirty,xadṫ,,,,
+3589,11,dust,purɛu,,,"20,104",
+3946,12,skin,kʌ̃,,,1,1
+4303,13,back,də,"Is this 11 or 12?",,82,
+4660,14,belly,pʷe,,,36,
+5017,15,bone,ñɪ,,,2?,
+5374,16,intestines,kʷã,,,82,
+5731,17,liver,dɛ̃,,,1,
+6088,18,breast,ji,,,1,1?
+6445,19,shoulder,pumɛ̃,,,37,
+6802,20,"to know, be knowledgeable",nexʌ̃,,,139,
+7159,21,"to think",nãrã[cɛ],,,,
+7516,22,"to fear",bata,,,,
+7873,23,blood,ma|da,,,1,?
+8230,24,head,bʷa,,,9,
+8587,25,neck,puwinãã,,,130,
+8944,26,hair,pubʷa,,,31,
+9301,27,nose,kũ,,,11,
+9658,28,"to breathe",mʌʌbʷi,,,14?,
+10015,29,"to sniff, smell",bu,,,42,
+10372,30,mouth,nãxwã,,,36,
+10729,31,tooth,pã,,,21,
+11086,32,tongue,kurumɛ,,,"14,7",
+11443,33,"to laugh",mʷãrã,,,87,
+11800,34,"to cry",tɛ̃ĩ,,,1,1
+12157,35,"to vomit",gɔɔ,,,39?,
+12514,36,"to spit",juxʷãrĩ,,,,
+12871,37,"to eat",da,,,39,
+73295,38,"to chew",mãã,,,1?,1?
+73296,38,"to chew",maada,,,1?,1?
+73357,39,"to cook",šuta,,,,
+73358,39,"to cook",xañida,,,,
+13942,40,"to drink",wijɔ,,,66,
+14299,41,"to bite",kɛkɛ,,,1,1?
+14656,42,"to suck",jii,"cp 18",,25,1?
+15013,43,ear,[xʷa]nɛnɛ̃,,,1,
+73737,44,"to hear",çɛdɛ̃ɛ̃,,,80?,
+73738,44,"to hear",xʷata,,,,
+15727,45,eye,kãra|mɛ,,,"32,1",1?
+16084,46,"to see",tee,,,130,
+16441,47,"to yawn",kɔmãã,,,"19,30?",1?
+16798,48,"to sleep",mɛtɨçɛ,,,1,1
+17155,49,"to lie down",mɛtɨ,,,37,
+17512,50,"to dream",mɛtɨkii,,,65,
+17869,51,"to sit",cuɛ,,,,
+74092,52,"to stand",nawi,,,,
+74093,52,"to stand",tãã,,,,
+18583,53,"person/human being",ka|muru,,,"93,95",?
+18940,54,man/male,xɔtɔ,,,14,
+19297,55,woman/female,çɛ̃,,,,
+19654,56,child,xuu,,,98,
+20011,57,husband,kʷɛɛtɔ-,,,"2,31",
+20368,58,wife,kʷɛɛɔ-,,,"1,53",
+20725,59,mother,mʷiñɛ-,,,"1,45",1?
+21082,60,father,panɛɛ-,,,41,
+21439,61,house,mʷã,,,1,1
+21796,62,thatch/roof,nɔɔmʷã,,,"1,61",
+22153,63,name,nĩ,,,,
+22510,64,"to say",šɛ,,,,
+22867,65,rope,kʷii,,,25,
+23224,66,"to tie up, fasten",fʌpɨtɨ,,,12,
+23581,67,"to sew",šii,,,1?,?
+23938,68,needle,ñibɨ,,,43,
+24295,69,"to hunt",caa,,,,
+24652,70,"to shoot",pʷɛrɛ,,,1?,1?
+75278,71,"to stab, pierce",çikɛ,,,"1, 8?",
+75279,71,"to stab, pierce",pɔkɛ,,,,
+25366,72,"to hit",bo,,,,
+25723,73,"to steal",pɛdɛ,,,1?,
+75503,74,"to kill",šaamɛ,,,,
+75504,74,"to kill",boɛmɛ,,,,
+26437,75,"to die, be dead",mɛ,,,1?,1
+26794,76,"to live, be alive",muru,,,"1, 76",1
+27151,77,"to scratch",kɔu,,,44,1?
+27508,78,"to cut, hack",ça,,,136,
+27865,79,stick/wood,kʷãã,,,45,
+28222,80,"to split",çɔtia,,,,
+75941,81,sharp,miidɔ,,,,
+75942,81,sharp,xɛnũrũ,,,,
+28936,82,"dull, blunt",xɛ̃yaa,,,,
+29293,83,"to work",çɛŋu,,,,
+29650,84,"to plant",paba,,,,
+30007,85,"to choose",kʌnɛ̃ɛ̃,,,7?,
+30364,86,"to grow",çɨɨ,,,4,
+30721,87,"to swell",cee,,,,
+31078,88,"to squeeze",jiipʷee,,,35?,?
+31435,89,"to hold",xabibiri,,,,
+76486,90,"to dig",ja,,,,1?
+76487,90,"to dig",kĩĩ,,,1?,1?
+32149,91,"to buy",xadɨɨ,,,,
+76614,92,"to open, uncover",cũũ,,,78,
+76615,92,"to open, uncover",mĩã,,,37?,
+76616,92,"to open, uncover",pʷii,,,37?,
+32863,93,"to pound, beat",šuu,,,67?,
+33220,94,"to throw",tagɛ,,,51?,
+33577,95,"to fall",çɔ̃,,,133,
+34291,97,bird,mʌ̃rʌ̃,,,1,1
+34648,98,egg,xɔ,,,,
+35005,99,feather,pũ,,,1,1?
+35362,100,wing,pũšɛmɛ̃,,,,
+35719,101,"to fly",cĩĩ,,,93,
+36076,102,rat,abʷara,,,1,
+36433,103,meat/flesh,piʌ,,,10?,
+37147,105,tail,pubɛ,,,,
+37504,106,snake,mãradi,,,,
+37861,107,"worm (earthworm)",xãridɔɔ,,,"1,49",
+38218,108,louse,kɨtɨ,,,1,1
+38575,109,mosquito,nɔ̃ɔ̃,,,1,1
+77554,110,spider,gara,,,1,
+77555,110,spider,nɔɔ,,,1?,
+39289,111,fish,nɔ̃,,,9,
+39646,112,rotten,muda,,,119,
+40003,113,branch,kɔɔ,,,,
+40360,114,leaf,nɛ,,,1,1
+40717,115,root,kʷɛɛ-,,,"2,41,42",1?
+41431,117,fruit,pʷã,,,1,1
+41788,118,grass,mɛi,,,,
+42145,119,earth/soil,[nɛ]dɔɔ,,,1,
+42502,120,stone,çɛgɛ,,,,
+42859,121,sand,nãwã,,,15,
+43216,122,water,kʷe,,,2,1
+43573,123,"to flow",jɔ,,,,
+43930,124,sea,nɛkʷetaa,,,18,
+44644,126,lake,nɛdɛ̃,,,1?,
+45001,127,woods/forest,nuɔ,,,,
+78494,128,sky,nɛkɔ,,,35,
+78495,128,sky,nɛxɔɔa,,,35,
+45715,129,moon,mʷea,,,52,
+46072,130,star,šuɛmɛ,,,,
+78630,131,cloud,axʌ̃,,,,
+78631,131,cloud,kɔ,,,12,
+46786,132,fog,axʌ̃,,,,
+47143,133,rain,kʷie,,,27,1
+47500,134,thunder,netɔ,,,100,
+47857,135,lightning,çimiagatɛ,,,15?,
+48214,136,wind,kʷadɛ,,,"93,18?",
+78966,137,"to blow",cĩ,,,,
+78967,137,"to blow",šuɛ,,,1?,
+48928,138,warm,mɛgi,,,108,
+49285,139,cold,xɨpɛ,,,128?,
+49642,140,dry,mʌtʌ,,,1,
+49999,141,wet,meɔ,,,113,
+50356,142,heavy,mɛ̃çee,,,,
+50713,143,fire,nɛ,,,46,
+51070,144,"to burn",kɛ̃,,,,
+51427,145,smoke,"jəə nɛ",,,86,
+51784,146,ash,xatɛ,,,94,
+52141,147,black,ŋɨ̃rɨ̃,,,97?,
+52498,148,white,pʷãrã,,,11,
+52855,149,red,mĩã,,,"1,55",1?
+53212,150,yellow,kɛ̃rɛnãwã,,,90,
+53569,151,green,kɔdɔ,,,44,
+53926,152,small,wɛrɛ,,,,
+54283,153,big,çe,,,125,
+54640,154,short,xubʷɛ,,,34,
+54997,155,long,mʷaa,,,19?,
+55354,156,thin,kãã,,,,
+55711,157,thick,šaba,,,70,
+56068,158,narrow,"[gʷa] kʌ̃",,,,
+56425,159,wide,daraa,,,,
+56782,160,"painful, sick",paii,,,51,
+57496,162,old,bɛ̃ɛ̃rĩ,,,16,
+57853,163,new,dɔpɔɔ,,,18,?
+58210,164,good,xɔru,,,55,
+58567,165,"bad, evil",çaa,,,"1,99",1?
+80726,166,"correct, true",dɔ,,,94,
+80727,166,"correct, true",va,,,,
+59281,167,night,mɔ̃,,,1,
+59638,168,day,daa,,,6,1
+59995,169,year,xʷada,,,,?
+80922,170,when?,anĩĩ,,,1,
+80923,170,when?,aniina,,,1,
+60709,171,"to hide",kɔɔ,,,,
+61066,172,"to climb",petoa,,,,
+81082,173,at,rɔ,,,20?,
+81083,173,at,tɔ,,,6?,
+81084,173,at,tɨ,,,6?,
+81085,173,at,wã,,,1?,
+61780,174,"in, inside",nɛpʷe,,,,
+62137,175,above,noa,,,,
+62494,176,below,tɛšeea,,,,
+63208,178,that,mʷiri,,,,
+81563,179,near,a,,,,
+81564,179,near,nubɔ,,,109,
+63922,180,far,mʷaa,,,96,
+64279,181,where?,tii,,,,
+64636,182,I,na,,,"1,22?",1
+64993,183,thou,gɛ,,,1,
+81979,185,we,ĩrĩ,,,,
+81980,185,we,ŋɛ̃ɛ̃,,,,
+66064,186,you,wĩrĩ,,,1?,
+66421,187,they,nii,,,"1,33",
+82221,188,what?,anɛ̃,,,1,1?
+82222,188,what?,jɛ,,,1,1?
+67135,189,who?,yaa[pɛ],,,,
+82326,190,other,barə,,,,
+82327,190,other,wɛi,,,,
+82375,191,all,šaɨ,,,,
+82376,191,all,xɛ̃vadi,,,,
+68206,192,and,mɛ̃,,,2,1
+68563,193,if,mɛ̃,,,3?,1
+68920,194,how?,nɛ̃Ĩ,,,,
+69277,195,"no, not",çiɛ,,,"10,84",?
+69634,196,"to count",fãrã,,,1,
+69991,197,One,šaa,,,14,
+82907,198,Two,baa|ru,,,1,1
+82908,198,Two,du,,,1,1
+70705,199,Three,ba|šee,,,1,?
+71062,200,Four,kʌ̃rʌ̃fɨɛ,,,"1,65",?

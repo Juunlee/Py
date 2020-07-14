@@ -1,0 +1,221 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+183,Sangir,"Blust, from: Steller & Aebersold (1959)",sxn,sang1336,"Steller, K.G.F., & Aebersold, W.E. (1959). Sangiree-Nederrlands Woordernboek Met Nederlands-Sangirees Register. s-Gravenhage: The Netherlands",,"Austronesian, Malayo-Polynesian, Philippine, Sangiric, Northern","Debasish Roy","Simon Greenhill","@book{127733,  address               = {s-Gravenhage},  pages                 = {622},  publisher             = {'s-Gravenhage: Martinus Nijhoff},  title                 = {Sangirees-Nederlands woordenboek},  year                  = {1959},  bibtexkey             = {aebersold-steller_sangirees-nederlands1959},  class_loc             = {PL6025},  document_type         = {B},  hhtype                = {dictionary},  inlg                  = {Dutch [nld]},  inlg_code             = {eng},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 6025 STE 1959},  src                   = {hh, mpieva},  srctrickle            = {hh#d:StellerAebersold:Sangirees, mpieva#Steller1959Sangiree},  subject_headings      = {Sangir language–Dictionaries–Dutch, Dutch language–Dictionaries–Sangir, Sangir language–Dictionaries–Dutch – Dutch language–Dictionaries–Sangir},  author                = {Steller, K. G. F. and Aebersold, W. E.}}"
+latitude,longitude
+1.41709182944163902818,125.21118164062500000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+183,1,hand,lima,,,"1,64",1
+540,2,left,kaihi,,,"1,42",1
+897,3,right,koaneŋ,,,"1,62",1
+1254,4,leg/foot,laedĕʔ,,,109,
+1611,5,"to walk",d-um-aley,,,57,
+1968,6,road/path,daleŋ,,,"1,59",1
+2325,7,"to come",mahi,,,1,1
+2682,8,"to turn",tiriŋ,,,,?
+3039,9,"to swim",kalaŋ,,,41,
+3396,10,dirty,ma-labusanaŋ,,,,
+3753,11,dust,awulĕʔ,"final consonat wrong for set 1",,,?
+4110,12,skin,pisi,,,22,
+4467,13,back,likudĕʔ,,,1,1
+4824,14,belly,tiaŋ,,,1,1
+5181,15,bone,duhi,,,2,
+5538,16,intestines,tinai,,,1,1
+5895,17,liver,ate,,,1,1
+6252,18,breast,susu,,,1,1
+6609,19,shoulder,bĕmbaŋ,,,19,
+6966,20,"to know, be knowledgeable",siŋkaʔ,,,48,
+7323,21,"to think",maŋ-ĕnna,,,,
+7680,22,"to fear",takuʔ,,,1,1
+8037,23,blood,daha,,,1,1
+8394,24,head,tĕmboʔ,,,41,
+8751,25,neck,leheʔ,,,1?,?
+9108,26,hair,utaʔ,,,27,
+9465,27,nose,iruŋ,,,1,1
+9822,28,"to breathe",sindaʔ,,,26,
+10179,29,"to sniff, smell",imbu,,,25,
+10536,30,mouth,mohoŋ,,,25,
+10893,31,tooth,isi,,,"24,75",1
+11250,32,tongue,dila,,,4,1
+11607,33,"to laugh",lĕge,,,28,
+11964,34,"to cry",saŋiʔ,,,"1,74",1
+12321,35,"to vomit",m-uta,,,1,1
+12678,36,"to spit",maŋ-ĕdu,,,49,
+13035,37,"to eat",k-um-aeŋ,,,1,1
+13392,38,"to chew",sĕpa,,,17,
+13749,39,"to cook",pakasasaʔ,,,47,
+14106,40,"to drink",inuŋ,,,1,1
+14463,41,"to bite",kiki,,,69,?
+14820,42,"to suck",sĕsuʔ,,,"1,55",1
+15177,43,ear,tuli,,,12,
+15534,44,"to hear",diŋiheʔ,,,1,1?
+15891,45,eye,mata,,,1,1
+16248,46,"to see",silo,,,5,
+16605,47,"to yawn",kiolabĕʔ,,,10,
+16962,48,"to sleep",tikiʔ,,,24,
+17319,49,"to lie down",dĕmmaʔ,,,,
+17676,50,"to dream",m-ioi,,,"1,42",1
+18033,51,"to sit",maiaŋ,,,60,
+74112,52,"to stand",tigohĕʔ,,,,
+74113,52,"to stand",darisiʔ,,,1,
+18747,53,"person/human being",tau[mata],,,"1,66",1
+19104,54,man/male,eseʔ,,,34,
+19461,55,woman/female,bawine,,,"1,106",1
+19818,56,child,anaʔ,,,1,1
+20175,57,husband,kawiŋ,,,33,
+20532,58,wife,kawiŋ,,,24,
+20889,59,mother,inaŋ,,,"1,74",1
+21246,60,father,amaŋ,,,"1,38",1
+21603,61,house,bale,,,14,
+21960,62,thatch/roof,atuʔ,,,"1,63",1
+22317,63,name,areŋ,,,17,1
+22674,64,"to say",kuĕŋ,,,,
+23031,65,rope,tali,,,1,1
+23388,66,"to tie up, fasten",ikiʔ,,,1,1
+23745,67,"to sew",gepeʔ,,,42,
+24102,68,needle,da|rahuŋ,,,1,1
+24459,69,"to hunt",mĕŋanuʔ,"(cf. 96)",,36,1
+216903,69,"to hunt",mĕnahusu,,,,
+216904,69,"to hunt",-sahusu,,,,
+24816,70,"to shoot",me-lutaŋ,,,11,
+25173,71,"to stab, pierce",susuʔ,,,1,1
+25530,72,"to hit",tutu,,,8,
+25887,73,"to steal",tako,,,1,1
+26244,74,"to kill",pate,,,2,
+26601,75,"to die, be dead",mate,,,1,1
+26958,76,"to live, be alive",biahĕʔ,,,"14,74",
+27315,77,"to scratch",kaho,,,1,1
+27672,78,"to cut, hack",ma-nariʔ,,,,
+28029,79,stick/wood,kalu,,,1,1
+28386,80,"to split",hĕŋeʔ,,,,
+28743,81,sharp,maroro,,,44,
+29100,82,"dull, blunt",malumu,,,48,
+29457,83,"to work",mĕ-halĕʔ,,,,
+76120,84,"to plant",asiʔ,"plant rice",,"28,32",
+76121,84,"to plant",maŋ-asiʔ,,,"28,32",
+30171,85,"to choose",pile,,,1,1
+30528,86,"to grow",t-um-uwo,,,1,1
+30885,87,"to swell",hamau,,,,
+31242,88,"to squeeze",pĕha,,,"1,37",1
+31599,89,"to hold",meŋumbeleʔ,,,30,
+31956,90,"to dig",baŋka,,,24,
+32313,91,"to buy",bĕlli,,,1,1
+32670,92,"to open, uncover",buka,,,1,1
+33027,93,"to pound, beat",tĕtuʔ,,,2,1?
+33384,94,"to throw",paloʔ,,,48,
+33741,95,"to fall",ma-nawo,,,1,1
+34098,96,dog,asu,,,1,1
+34455,97,bird,manuʔ,,,1,1
+34812,98,egg,tĕlluhĕʔ,,,1,1
+35169,99,feather,bĕmbulu,,,"1,32",1
+35526,100,wing,panidĕʔ,,,2,1
+35883,101,"to fly",tĕlaʔ,,,26,
+36240,102,rat,balawo,,,"1,30",1
+36597,103,meat/flesh,g|ĕsi,,,1,1?
+36954,104,fat/grease,lana,,,81,
+37311,105,tail,tole,,,22,
+37668,106,snake,tĕmpu,,,35,
+38025,107,"worm (earthworm)",tĕmpu,,,37,
+38382,108,louse,kutu,,,1,1
+38739,109,mosquito,tĕniʔ,,,25,
+39096,110,spider,kaluaŋkaŋ,,,20,
+39453,111,fish,kinaʔ,,,"46,91",
+39810,112,rotten,heneʔ,,,48,
+40167,113,branch,lelaŋ,,,,
+40524,114,leaf,dauŋ,,,"1,55",1
+40881,115,root,hamuʔ,,,3,1
+41238,116,flower,buŋaŋ,,,"1,61",1
+41595,117,fruit,bua,,,1,1
+41952,118,grass,dukuʔ,,,2,
+42309,119,earth/soil,ĕn|tana,,,"1,80",1
+42666,120,stone,batu,,,1,1
+43023,121,sand,ĕne,,,1,1
+43380,122,water,akeʔ,,,17,
+43737,123,"to flow",elehĕʔ,,,,1?
+44094,124,sea,sasiʔ,,,1,1
+44451,125,salt,asiŋ,,,"3,46",
+44808,126,lake,dano,,,1,1
+45165,127,woods/forest,andeaŋ,,,,
+45522,128,sky,laŋiʔ,,,1,1
+45879,129,moon,bulaŋ,,,1,1
+46236,130,star,bituin,,,1,1
+46593,131,cloud,binawa,,,31,
+46950,132,fog,buhawudĕʔ,,,,
+47307,133,rain,tahiti,,,14,
+47664,134,thunder,dĕlluʔ,,,35,?
+48021,135,lightning,kilaʔ,,,1,1
+48378,136,wind,aŋiŋ,,,"1,87",1
+48735,137,"to blow",tiuʔ,,,"1,69",1
+49092,138,warm,tĕtiʔ,,,40,
+49449,139,cold,dalĕndiŋ,,,"1,106",1?
+49806,140,dry,ma-haŋu,,,1,1
+50163,141,wet,ma-nantaʔ,,,31,
+50520,142,heavy,behaʔ,,,1,1
+50877,143,fire,putuŋ,,,13,
+51234,144,"to burn",tutuŋ,,,"1,94",
+51591,145,smoke,tipu,,,24,
+51948,146,ash,awu,,,1,1
+52305,147,black,ma-ituŋ,,,"1,83",1
+52662,148,white,ma-wira,,,40,
+53019,149,red,ma-hamuʔ,,,46,
+53376,150,yellow,ma-ririhĕʔ,,,29,
+53733,151,green,ido,,,25,
+54090,152,small,kadodoʔ,,,36,
+54447,153,big,guwaʔ,,,40,
+54804,154,short,ma-nibuʔ,,,,
+55161,155,long,nandu,,,1,1
+55518,156,thin,manipiʔ,,,1,
+55875,157,thick,ma-suenehĕʔ,,,,1
+56232,158,narrow,hepoʔ,,,24,
+80321,159,wide,ma-lamba,,,"48,40",
+80322,159,wide,ma-loaŋ,,,"62,68",
+56946,160,"painful, sick",ma-sakiʔ,,,1,1?
+57303,161,"shy, ashamed",ma-mea,,,1,1
+57660,162,old,guraŋ,,,21,1
+58017,163,new,buhu,,,"1,54",
+58374,164,good,ma-pia,,,1,1
+58731,165,"bad, evil",dalakiʔ,,,1,1
+59088,166,"correct, true",dĕpaʔ,,,,
+59445,167,night,basa,,,41,
+59802,168,day,ĕllo,,,1,
+60159,169,year,tauŋ,,,"1,76",1
+60516,170,when?,kaŋereʔ,,,"1,11",1
+60873,171,"to hide",buni,,,1,
+61230,172,"to climb",awiʔ,,,36,1
+61587,173,at,su,,,16,
+61944,174,"in, inside",daluŋ,,,1,
+62301,175,above,dasiʔ,,,,1
+62658,176,below,bawa,,,1,
+63015,177,this,ini,,,1,1
+63372,178,that,ene,,,1,1
+63729,179,near,sandigĕʔ,,,,?
+64086,180,far,ma-rau,,,"1,6",
+64443,181,where?,"su apa",,,33,1
+64800,182,I,"i  aʔ",,,"1,32",
+65157,183,thou,"i  kau",,,1,1
+65514,184,he/she,"i sie",,,"1,31",1
+113979,185,we,"i kiteʔ",,,1,1
+113980,185,we,"i kami",,,2,
+66228,186,you,"i kamene",,,,1
+66585,187,they,"i sire",,,1,?
+66942,188,what?,apa,,,"1,66",1
+67299,189,who?,"i  sai",,,1,1
+67656,190,other,baline,,,17,1
+68013,191,all,kĕbiʔ,"(= 195)",,43,
+68370,192,and,diŋaŋ,,,64,
+68727,193,if,maʔeŋ,,,29,
+69084,194,how?,kere,,,,
+69441,195,"no, not",baline,,,39,
+69798,196,"to count",mĕ-tiaʔ,"(= 190)",,24,
+70155,197,One,ode,,,,
+70512,198,Two,dua,,,1,
+70869,199,Three,tĕllu,,,1,1
+71226,200,Four,epaʔ,,,"1,15",1
+216896,201,Five,lima,,,1,
+216893,202,Six,ĕnung,,,12,
+216894,203,Seven,pitu,,,1,
+216895,204,Eight,waļu,,,3,
+216897,205,Nine,sio,,,"5,34",
+216898,206,Ten,mapuļo,,,"5,40",
+216899,207,Twenty,duampuļo,,,"3,6",
+216900,208,Fifty,"liman puļo",,,"1,2",
+216901,209,"One Hundred",mahasù,,,"4,53",
+216902,210,"One Thousand",sĕhiwu,,,5,

@@ -1,0 +1,216 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+129,Tabar,"Malcolm Ross",tbf,mand1440,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, Tabar","Peng Du","Simon Greenhill","@misc{Ross-129-2005,  author = \"Malcolm Ross\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-3.28697764528902380832,151.65103615974109629860
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+129,1,hand,rima-na,,,1,1
+486,2,left,keari,,,"1,43",?
+843,3,right,suvu,,,65,
+1200,4,leg/foot,kake-na,,,1,?
+1557,5,"to walk",vasi,,,39,
+1914,6,road/path,rosara,,,33,
+2271,7,"to come",ne|mai,,,"1,88",1
+2628,8,"to turn",vurisi,,,15,
+2985,9,"to swim",kakasi,,,9,
+3342,10,dirty,bita,,,39,
+3699,11,dust,puti,,,10,
+4056,12,skin,kurikuri-na,,,1,1
+4413,13,back,vunataru-na,,,12,
+4770,14,belly,kuku|tia-na,,,"1,56",1?
+5127,15,bone,jiri-na,,,2,
+5484,16,intestines,tinai-na,,,1,1
+5841,17,liver,ate-na,,,1,1
+6198,18,breast,susu-na,,,1,1
+6555,19,shoulder,karakara-na,"also 1? and below?",,25,
+6912,20,"to know, be knowledgeable",talakirana,,,18,
+7269,21,"to think",vadovadona,,,,
+7626,22,"to fear",matovana,,,"1, 26",?
+7983,23,blood,dara-na,,,1,1
+8340,24,head,kova-na,,,50,
+8697,25,neck,konokono-na,,,44,
+9054,26,hair,vuruvuru-na,,,31,
+9411,27,nose,pipi|usu-na,,,"1,35",1
+9768,28,"to breathe",mase,,,33,
+10125,29,"to sniff, smell",jikosinenana,,,44,
+10482,30,mouth,ŋuju-na,,,2,
+10839,31,tooth,rivo-na,,,"1,35",1
+11196,32,tongue,karameŋ,,,"7, 14",
+11553,33,"to laugh",ŋiŋija,,,17,
+11910,34,"to cry",taŋi,,,1,1
+12267,35,"to vomit","muta muta",,,1,1
+12624,36,"to spit",kinoju,,,"14, 90",
+12981,37,"to eat",ŋau,,,15,
+73314,38,"to chew",ŋasana,,,12,
+73315,38,"to chew",toka,,,27,
+13695,39,"to cook",tuni-na,bake,,9,
+14052,40,"to drink",unu,,,1,1
+14409,41,"to bite",arati-a,,,1,1
+14766,42,"to suck",nopi,,,"1, 78",
+15123,43,ear,tatariŋa-na,,,1,1
+15480,44,"to hear",roroŋ,,,"1, 36",1
+15837,45,eye,kojo|mata-na,,,"1, 21",1
+16194,46,"to see",dedeŋa,,,28,
+16551,47,"to yawn",ŋaŋuvi,,,24,
+16908,48,"to sleep",muaŋe,,,42,
+17265,49,"to lie down",pada,,,,
+17622,50,"to dream",parabore,,,10,
+17979,51,"to sit",magos,,,74,
+18336,52,"to stand",turi,,,"2,69",?
+74155,53,"person/human being",mai,,,26,
+74156,53,"person/human being",mane,,,27,
+19050,54,man/male,ka,=person,,35,
+19407,55,woman/female,vevine,,,"1,106",1
+19764,56,child,natu-na,,,5,
+20121,57,husband,"kena labati",,,"21, 50",
+20478,58,wife,"kena vevine",,,"14, 5, 68",
+20835,59,mother,kina-na,,,"1,27",1
+21192,60,father,tama-na,,,1,1
+21549,61,house,vanua,,,7,
+21906,62,thatch/roof,joka,,,30,
+22263,63,name,asa-na,,,"1,18",1
+22620,64,"to say",kia,,,,
+22977,65,rope,sua,,,41,
+23334,66,"to tie up, fasten",rorojia,,,66,
+23691,67,"to sew",jiki,,,34,
+24048,68,needle,nil,"[Pidgin] loan?",L,,
+24405,69,"to hunt",mamana,,,34,
+24762,70,"to shoot",paneko,,,1,?
+75319,71,"to stab, pierce",tara,,,48,
+75320,71,"to stab, pierce",tava,,,47,
+25476,72,"to hit",tutua,,,8,
+25833,73,"to steal",pore,22?,,47,
+26190,74,"to kill",keda,,,46,
+26547,75,"to die, be dead",mate,,,1,1
+26904,76,"to live, be alive",to,,,8,
+27261,77,"to scratch",gave,,,50,
+27618,78,"to cut, hack",tara,,,1,1
+27975,79,stick/wood,kato,,,10,
+28332,80,"to split",jepa,,,45,
+28689,81,sharp,va,,,"14,20",
+29046,82,"dull, blunt",ŋuri,,,19,
+29403,83,"to work",jajaŋ,,,43,
+29760,84,"to plant",jura,,,42,
+30117,85,"to choose",kinane,,,14,
+30474,86,"to grow",to,,,4,
+30831,87,"to swell",ti,,,36,
+31188,88,"to squeeze",polojan,,,42,?
+31545,89,"to hold",paro,,,42,
+31902,90,"to dig",evua,,,31,
+32259,91,"to buy",vori-a,,,1,1
+102876,92,"to open, uncover",jiji,,,32,1
+102877,92,"to open, uncover",puke,,,1,
+32973,93,"to pound, beat",jajaki-a,,,16,
+33330,94,"to throw",tome,,,43,
+33687,95,"to fall",kora,,,50,
+34044,96,dog,kapune,,,35,
+34401,97,bird,ma,"(for -nu>? cp.122)",,1,1
+34758,98,egg,katuru,,,1,1
+35115,99,feather,vuruvuru,,,1,1
+35472,100,wing,paruparu-na,,,37,
+35829,101,"to fly",rovo,,,1,1
+36186,102,rat,kotu,"irreg reflex",,"3,63",
+36543,103,meat/flesh,pinaji,,,17,
+36900,104,fat/grease,monaki,,,"1,65",1?
+37257,105,tail,lotulotu-na,,,,
+37614,106,snake,joui,,,17,
+37971,107,"worm (earthworm)",kunukunu,,,32,
+38328,108,louse,raku,,,11,
+38685,109,mosquito,ŋatiŋati,,,41,
+39042,110,spider,kobora,,,27,
+39399,111,fish,ia,,,1,1
+39756,112,rotten,ovi,,,45,
+40113,113,branch,rakaraka,,,1,1?
+40470,114,leaf,pakapaka,,,12,
+40827,115,root,bau-na,,,36,
+41184,116,flower,purupuru,,L?,13,
+41541,117,fruit,pai,seed,,,
+41898,118,grass,utauta,,,38,
+42255,119,earth/soil,kabere,,,14,
+42612,120,stone,vuna|vatu,,,1,1
+42969,121,sand,ŋiriŋiri,,,49,
+43326,122,water,da,cp.97,,1,1
+43683,123,"to flow",pup,,,,
+44040,124,sea,rorau,,,6,
+44397,125,salt,baratasi,,,20,
+44754,126,lake,kapuji,,,,
+45111,127,woods/forest,roniot,,,59,
+45468,128,sky,raŋiti,,,1,1
+45825,129,moon,vura,,,1,1
+46182,130,star,kamekame,,,35,
+46539,131,cloud,balabala,,,17,
+46896,132,fog,o,,,39,?
+47253,133,rain,bata,,,8,
+47610,134,thunder,teŋateŋa,,,50,
+47967,135,lightning,kujulaip,,,29,
+48324,136,wind,uviuvi,,,45,
+48681,137,"to blow",uvi,,,4,
+49038,138,warm,tinarapa,,,54,
+49395,139,cold,tuŋa,,,76,
+79235,140,dry,pura,,,39,
+79236,140,dry,pura,,,39,
+50109,141,wet,puluka,,,37,
+50466,142,heavy,patu,,,29,
+50823,143,fire,laŋi,,,,
+51180,144,"to burn",tuni-na,,,1,1
+51537,145,smoke,kinakovu,,,13,
+51894,146,ash,puti,,,19,
+52251,147,black,maketo,"(cf. 113, 165 for q~>k)",,1,1?
+52608,148,white,punaji,,,35,
+52965,149,red,meragi,,,1,
+53322,150,yellow,iŋoŋo,,,9,
+53679,151,green,maŋemaŋeda,,,"8,79",
+54036,152,small,lili,"irregular l reflex of *r",,"66, 82",?
+54393,153,big,lego,,,,
+54750,154,short,potipoti,,,9,
+55107,155,long,kuara,,,37,
+55464,156,thin,lili,,,,
+55821,157,thick,lego,,,,
+56178,158,narrow,banalili,bara=width,,23,
+56535,159,wide,baralego,,,46,
+56892,160,"painful, sick",marako,,,39,
+57249,161,"shy, ashamed",maŋamaŋari,,,9,
+57606,162,old,komosi,,,45,
+57963,163,new,voru,,,1,1
+58320,164,good,kalai,,,60,
+58677,165,"bad, evil",jaka,,,1,1?
+80760,166,"correct, true",kalai,cp.113,,31,1
+80761,166,"correct, true",tukutuku,cp.113,,6,1
+59391,167,night,kati,,,44,
+59748,168,day,sisiat,,,"1,30",
+60105,169,year,avarati,,,12,
+60462,170,when?,"si sa","[at what?]",,,
+60819,171,"to hide",kokovi,,,11,
+61176,172,"to climb",kide,,,,
+81115,173,at,i,,,1,1
+81116,173,at,si,,,,1
+61890,174,"in, inside",yaro-,,,,
+62247,175,above,popo-,"cf. Bugotu",,2,?
+62604,176,below,paki-,,,1,
+81357,177,this,ni,,,1,1
+81358,177,this,de,,,,1
+81480,178,that,nikot,,,,
+81481,178,that,dekot,,,,
+81586,179,near,babare-,,,61,
+81587,179,near,soi-,,,,
+64032,180,far,apeke,,,40,
+64389,181,where?,i-veʔ,"I=preposition location",,3,
+64746,182,I,au,,,"1,22",1
+65103,183,thou,voi,,,1?,
+65460,184,he/she,ia,,,1,1
+113910,185,we,gita,,,2?,1
+113911,185,we,gai,,,2?,
+66174,186,you,go,,,"1,25",?
+66531,187,they,dia,,,25,?
+66888,188,what?,misaʔ,"mi = common article",,1,
+67245,189,who?,eseʔ,,,1,1
+67602,190,other,edia,,,,
+67959,191,all,kakaku,,,,
+68316,192,and,ma,,,2,1
+68673,193,if,va,"(<+ka? Cd.183)",,28,1
+69030,194,how?,vaide,,,,
+69387,195,"no, not",boŋ,,,40,
+69744,196,"to count",ase,,,10,
+70101,197,One,k|ese,,,32,1?
+70458,198,Two,lua,,,1,1
+70815,199,Three,toru,,,1,1
+71172,200,Four,vati,,,"1,65",1

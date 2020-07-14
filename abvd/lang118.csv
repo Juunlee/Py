@@ -1,0 +1,314 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+118,Samoan,Blust,smo,samo1305,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, Samoic-Outlier, Samoan","Debasish Roy","Simon Greenhill","@misc{Blust-118-2005,  author = \"Blust\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-14.00000000000000000000,-170.00000000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+118,1,hand,lima,,,1,1
+475,2,left,tau-aŋavale,,,31,
+832,3,right,tau-matau,,,"5,13",1
+1189,4,leg/foot,vae,,,"1, 100",1
+1546,5,"to walk",savali,,,6,
+134030,5,"to walk",saele,,,6,
+1903,6,road/path,ala,,,1,1
+87236,7,"to come",sau,,,44,
+87237,7,"to come","ō mai",,,1,
+2617,8,"to turn",fāliu,,,2,1
+2974,9,"to swim",ʔaʔau,,,5,
+3331,10,dirty,ʔeleʔelea,,,10,
+3688,11,dust,p|efu,,,"1, 74",1?
+4045,12,skin,paʔu,,,x,
+153126,12,skin,'ili,,,1,
+153127,12,skin,'iliola,,,1,
+4402,13,back,tua,,,11,
+4759,14,belly,manava,,,9,
+5116,15,bone,ivi,,,"52,5",
+5473,16,intestines,ŋāʔau,,,12,
+5830,17,liver,ate,,,1,1
+6187,18,breast,susu,,,1,1
+6544,19,shoulder,tauʔau,,,22?,
+6901,20,"to know, be knowledgeable",ilo-a,,,13,
+7258,21,"to think",māfaufau,,,107,
+216793,21,"to think",manatu,,,9,
+72408,22,"to fear",mataʔu,,,1,1
+72409,22,"to fear",fefe,,,92,1
+7972,23,blood,toto,,,4,
+8329,24,head,ulu,,,1,1
+8686,25,neck,ua,,,18,
+9043,26,hair,"lau ulu",,,40,
+9400,27,nose,isu,,,1,1
+9757,28,"to breathe",mānava,,,1,1
+10114,29,"to sniff, smell",soŋi,,,9,
+10471,30,mouth,ŋutu,,,2,
+10828,31,tooth,nifo,,,1,1
+11185,32,tongue,laulaufaiva,,,,
+134031,32,tongue,alelo,,,15,
+11542,33,"to laugh",ʔata,,,7,
+11899,34,"to cry",taŋi,,,1,1
+12256,35,"to vomit",puaʔi,,,"1,32",
+216794,35,"to vomit",luaʔi,"to spit out",,"8,31",
+12613,36,"to spit",anu,,,"14,84, 121",
+12970,37,"to eat",ʔai,,,"1,47",1
+89367,38,"to chew",mama,,,1,1
+89368,38,"to chew",lamu,,,7,
+13684,39,"to cook",tao,,,10,?
+14041,40,"to drink",inu,,,1,1
+14398,41,"to bite",ʔati,,,"1,55",1?
+153133,41,"to bite",u,,,8,
+153134,41,"to bite",utia,,,9,
+14755,42,"to suck",susu,,,25,1
+15112,43,ear,taliŋa,,,1,1
+15469,44,"to hear",faʔa-loŋo,,,1,1
+15826,45,eye,mata,,,1,1
+16183,46,"to see",vaʔai,,,,
+134028,46,"to see",matamata,,,8,
+153142,46,"to see",'ite,"to foresee",,1,
+16540,47,"to yawn",māvava,,,19,1
+16897,48,"to sleep",moe,,,"10, 109",
+153140,49,"to lie down",ta'oto,,,7,
+17611,50,"to dream",miti,,,36,
+17968,51,"to sit",nofo,,,16,
+18325,52,"to stand",tū,,,2,1
+18682,53,"person/human being",taŋata,,,"1,66, 97",1
+19039,54,man/male,tāne,,,"1,11",1
+19396,55,woman/female,fafine,,,"1,106",1
+19753,56,child,tamaitiiti,,,"6,64",
+20110,57,husband,tāne,,,14,
+20467,58,wife,āvā,,,8,1?
+20824,59,mother,tinā,,,1,1
+21181,60,father,tamā,,,1,1
+21538,61,house,fale,,,14,
+21895,62,thatch/roof,ato,,,1,1
+134016,62,thatch/roof,ina'i,"a section of thatch",,11,
+22252,63,name,iŋoa,,,6,
+22609,64,"to say",tautala,,,60,
+22966,65,rope,maea,,,10,
+23323,66,"to tie up, fasten",noa,,,15,
+23680,67,"to sew",suʔi,,,17,
+24037,68,needle,au,,,1,1
+24394,69,"to hunt",tuli,,,8,
+24751,70,"to shoot",fana,,,1,1
+25108,71,"to stab, pierce",tui,,,52,
+25465,72,"to hit",tā,,,10,
+153139,72,"to hit",tu'i,,,8,
+25822,73,"to steal",ŋaoi,"Common vernacular",,,
+216796,73,"to steal",'aisola,"chiefly register",,,
+216797,73,"to steal",'aisā,"chiefly register",,7,
+26179,74,"to kill",fasioti,,,,
+134029,74,"to kill",tāmate,,,2,
+26536,75,"to die, be dead",mate,,,1,1
+26893,76,"to live, be alive",ola,,,6,
+216916,76,"to live, be alive",maui,"literally \"ebb like the tide\", usage in oratory refers to living cycles (inhale/exhale, sleep/awake, life/death, etc.",,"1, 76",
+27250,77,"to scratch",lala'u,,,9,
+216795,77,"to scratch",fela'u,,,9,
+27607,78,"to cut, hack",faʔa-mutu,,,"54, 14",
+153137,78,"to cut, hack",sele,,,16,
+27964,79,stick/wood,lāʔau,,,1,1
+28321,80,"to split",isi,,,7,
+153208,80,"to split",matofi,,,7,
+28678,81,sharp,maʔai,,,"14,16",
+216798,81,sharp,masele,,,2,
+29035,82,"dull, blunt",matatupa,,,49,
+29392,83,"to work",ŋalue,,,11,
+29749,84,"to plant",tō,,,4,
+30106,85,"to choose",filifili,,,1,1
+30463,86,"to grow",tupu,,,1,1
+30820,87,"to swell",fula,,,7,
+216799,87,"to swell",fefete,,,5,
+31177,88,"to squeeze",ʔoʔomi,,,14,
+31534,89,"to hold",ʔuʔu,,,12,
+76505,90,"to dig",ʔoso,,,,1
+76506,90,"to dig",ʔeli,,,1,1
+32248,91,"to buy",tautotoŋi,,,"9,10",
+153136,91,"to buy","fa'atau mai",,,9,
+32605,92,"to open, uncover",matala,,,,
+153141,92,"to open, uncover",susu'e,,,1,
+32962,93,"to pound, beat",tuʔituʔi,,,2,1
+33319,94,"to throw",toŋi,,,,
+33676,95,"to fall",paʔū,,,59,
+216800,95,"to fall",tō-,,,14,
+34033,96,dog,ʔulī,"polite word for dog, rarely used.",,7,
+167309,96,dog,maile,,,,
+34390,97,bird,manulele,,,1,1
+34747,98,egg,fuāmoa,,,5,
+35104,99,feather,fulu,,,1,1
+218011,99,feather,ʔula,,,50,
+35461,100,wing,ʔapaʔau,,,"1,59",
+35818,101,"to fly",lele,,,11,
+36175,102,rat,ʔimoa,,,14,
+216801,102,rat,ʔiole,,,12,
+36532,103,meat/flesh,ʔaʔano,,,14,
+216802,103,meat/flesh,ʔiʔo,,,10,
+36889,104,fat/grease,ŋaʔo,,,14,
+216803,104,fat/grease,suni,,,12,
+216804,104,fat/grease,momona,,,"1,65",
+77340,105,tail,iʔu,,,13,1
+77341,105,tail,siʔusiʔu,,,13,1
+37603,106,snake,ŋata,,,12,
+37960,107,"worm (earthworm)",ʔanufe,,,45,
+153124,107,"worm (earthworm)",'elemutu,wood-worm,,9,
+153125,107,"worm (earthworm)",to'e,"sea snake",,7,
+38317,108,louse,ʔutu,,,1,1
+38674,109,mosquito,namu,,,1,1
+39031,110,spider,ʔapoŋāleveleve,,,"1,57",
+39388,111,fish,iʔa,,,1,1
+39745,112,rotten,pala,,,13,
+40102,113,branch,lālā,,,1,1
+40459,114,leaf,lau,,,1,1
+40816,115,root,aʔa,,,2,1
+41173,116,flower,fuŋa,,,72,1
+41530,117,fruit,fua,,,1,1
+41887,118,grass,mutia,,,13,
+42244,119,earth/soil,lalolaŋi,,,,
+42601,120,stone,maʔa,,,4,
+216805,120,stone,fatu,,,1,
+42958,121,sand,oneone,,,1,1
+43315,122,water,vai,,,2,1
+43672,123,"to flow",tafe,,,10,
+44029,124,sea,sami,,,,
+216806,124,sea,tai,,,1,
+216807,124,sea,vasa,,,12,
+216808,124,sea,moana,,,10,
+44386,125,salt,māsima,,,3,
+216809,125,salt,miti,"(salty water)",,7,
+44743,126,lake,lano,,,1,1
+216811,126,lake,loto,,,6,
+45100,127,woods/forest,vao,,,14,
+45457,128,sky,laŋi,,,1,1
+45814,129,moon,māsina,,,"37, 5",
+216780,129,moon,mālama,,,7,
+46171,130,star,fetū,,,1,1?
+46528,131,cloud,ao,,,12,
+46885,132,fog,puao,,,36,
+153209,132,fog,nefu,,,22,
+216810,132,fog,ʔaʔapu,,,1,
+47242,133,rain,timu,,,12,
+216814,133,rain,ua,,,1,
+47599,134,thunder,fāititili,,,14,
+47956,135,lightning,uila,,,2,1
+48313,136,wind,mat|aŋi,,,"1,66",1
+216812,136,wind,savili,(breeze),,11,
+48670,137,"to blow",aŋi,,,8,
+216813,137,"to blow",sau,,,12,
+216816,138,warm,vevela,,,8,
+216817,138,warm,vela,,,8,
+49384,139,cold,maʔalili,,,"1,52",1
+216815,139,cold,malūlū,,,74,
+49741,140,dry,maŋo,,,1,1
+216910,140,dry,paʔaʔa,,,12,
+216911,140,dry,paʔupaʔu,,,38,
+50098,141,wet,susū,,,11,
+50455,142,heavy,mamafa,,,46,
+50812,143,fire,afi,,,1,1
+51169,144,"to burn",mu,,,,
+153135,144,"to burn",susunu,,,106,
+216792,144,"to burn",tafu,,,8,
+51526,145,smoke,asu,,,2,1
+51883,146,ash,lefulefu,,,67,
+52240,147,black,uliuli,,,7,
+52597,148,white,paʔepaʔe,,,,
+153128,148,white,sina,,,66,
+153129,148,white,tea,,,8,
+52954,149,red,ʔula,,,13,
+216788,149,red,melomelo,,,"1, 16",
+216791,149,red,mea,,,1,
+53311,150,yellow,sāmasama,,,59,
+153130,150,yellow,lega,,,10,
+53668,151,green,lanumeamata,,,"1, 12",
+216790,151,green,usiusi,,,61,
+54025,152,small,itiiti,,,1,?
+54382,153,big,tele,,,,
+153119,153,big,nui,"works as a verb \"to be great\" or \"to augment\" instead of an adjective.",,11,
+153147,153,big,lasi,(archaic/formal),,12,
+54739,154,short,puʔupuʔu,,,3,
+216912,154,short,poto,"short-legged, stunted",,9,
+216913,154,short,saʔasaʔa,"(short stature)",,10,
+55096,155,long,ʔumi,,,63,
+153143,155,long,loloa,"\"long\" or \"expansive\"",,"12,105",
+55453,156,thin,manifi,,,1,
+55810,157,thick,mafia,,,,1
+153145,157,thick,matolutolu,,,3,
+216789,157,thick,tuatua,"(of rope)",,10,
+56167,158,narrow,lauitiiti,,,,
+56524,159,wide,lautele,,,73,
+153146,159,wide,vateatea,,,21,
+216787,159,wide,āteatea,,,21,
+56881,160,"painful, sick",maʔi,,,1,
+80451,161,"shy, ashamed",matamuli,,,,1
+80452,161,"shy, ashamed",mā,,,1,1
+216785,161,"shy, ashamed",sila,,,3,
+216786,161,"shy, ashamed",silasila,,,3,
+57595,162,old,matua,,,1,1
+153144,162,old,tuai,,,48,
+57952,163,new,fou,,,1,1
+58309,164,good,lelei,,,17,1
+153210,164,good,malie,,,16,
+58666,165,"bad, evil",leaŋa,"more commonly used in colloquial speech to express \"ugly\" or \"unseemly\"",,,
+153118,165,"bad, evil",'ino'ino,"\"disgusting,\" \"reproachful\" or \"abominable\"",,9,
+59023,166,"correct, true",saʔo,"More accurately refers to \"straightness\" (in modern slang, \"sa'o\" can mean something like \"right on!\")",,107,
+153120,166,"correct, true",tonu,,,8,
+153121,166,"correct, true",talitonu,"moral truth/belief",,8,
+153122,166,"correct, true",amiotonu,"socially correct behavior",,8,
+59380,167,night,pō,,,1,
+59737,168,day,aso,,,"1, 54",?
+216778,168,day,ao,,,"1, 54",
+216779,168,day,lā,,,7,
+60094,169,year,tau|saŋa,,,1,1
+80934,170,when?,afea,,,5,1
+80935,170,when?,anafea,,,5,1
+60808,171,"to hide",lafi,,,,
+153138,171,"to hide",nanā,,,17,
+61165,172,"to climb",aʔe,,,32,
+216784,172,"to climb",piʔi,,,6,
+61522,173,at,i,,,1,
+61879,174,"in, inside",[i]totonu[o],,,,1
+153131,174,"in, inside",loto,within,,5,
+62236,175,above,"i luŋa",,,9,
+62593,176,below,"i lalo",,,8,
+62950,177,this,lenei,"(cp. WBM)",,1,1
+113882,178,that,le|na,"(< M)",,1,1?
+113883,178,that,lela,,,,
+63664,179,near,lata,,,9,1
+216914,179,near,tafatafa,adjacent,,,
+216915,179,near,vālata,"close together",,38?,
+64021,180,far,mamao,,,13,
+64378,181,where?,"ʔo fea",,,"3,35",
+64735,182,I,aʔu,,,"1,21",
+65092,183,thou,ʔoe,,,1,1
+153212,183,thou,'oe,(singular),,1,
+65449,184,he/she,ia,,,1,?
+113884,185,we,tātou,,,"1, 39",1
+113885,185,we,mātou,,,"2, 39",
+66163,186,you,ʔoutou,(plural),,16,1
+153211,186,you,'oulua,(dual),,x,
+66520,187,they,lātou,,,"1, 72",1?
+216783,187,they,lāʔua,,,x,
+66877,188,what?,"ʔo le ā",,,1?,1
+67234,189,who?,"ʔo ai",,,1,
+82339,190,other,isi,,,7?,1
+82340,190,other,ʔese,,,8,1
+216782,190,other,"ʔo se tasi",another,,7,
+67948,191,all,ʔātoa,,,13,
+68305,192,and,ma,,,2,
+68662,193,if,ʔa|na,,,6,1
+153213,193,if,'afai,,,"1, 46",
+69019,194,how?,faʔapēfea,,,11,1?
+69376,195,"no, not",leai,,,"111,84",
+216781,195,"no, not",iʔai,,,"10,83",
+69733,196,"to count",faitau,,,8,
+70090,197,One,"e tasi",,,41,
+70447,198,Two,"e lua",,,1,
+70804,199,Three,"e tolu",,,1,1
+71161,200,Four,"e fā",,,"1,66",1
+83766,201,Five,lima,"Five, hand.(Source: Pollex)",,1,
+121444,202,Six,ono,,,1,
+83667,203,Seven,fitu,"Seven.(Source: Pollex)",,1,
+90598,204,Eight,valu,"POllex 06: Valu. :Eight.",,3,
+83541,205,Nine,iva,"Nine.(Source: Pollex)",,"5,44,66",
+83433,206,Ten,gafulu,"Ten (Prt). Not given by (Mnr).(Source: Pollex)",,"5,32",
+121446,206,Ten,sefulu,,,5,
+121445,207,Twenty,"lua sefulu",,,"3,6",
+153214,208,Fifty,limasefulu,,,"1, 7",
+153215,208,Fifty,limagafulu,,,"1,2",
+83355,209,"One Hundred",lau,"Hundred (Prt).(Source: Pollex)",,2,
+83322,210,"One Thousand",afe,"Thousand (Source: Pollex)",,3,
+153132,210,"One Thousand",mano,"10,000 (multiple thousands)",,2,

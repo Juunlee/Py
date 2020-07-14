@@ -1,0 +1,219 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+73,Loniu,Blust,los,loni1238,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Admiralty Islands, Eastern, Manus, Mokoreng-Loniu","Peng Du","Simon Greenhill","@misc{Blust-73-2005,  author = \"Robert A. Blust\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-2.07321686972868768351,147.33215332031250000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+73,1,hand,nime-n,,,"1,66",1
+430,2,left,koʔun,,,"1,42",
+787,3,right,paʔahan,,,,
+1144,4,leg/foot,kaka-n,,,1,
+1501,5,"to walk",la,,,"1, 69",1
+1858,6,road/path,[pʷaha]can,,,"1, 4",1
+2215,7,"to come",me,,,1,1
+2572,8,"to turn",telpelewani,,,,
+71771,9,"to swim",yaŋaŋay,,,,
+71772,9,"to swim",ñuhay,,,"12, 56",
+3286,10,dirty,porososon,,,,
+3643,11,dust,ʔohuʔohun,,,1,1
+4000,12,skin,maʔa-n,,,,
+4357,13,back,pokeleŋa-n,,,19,
+4714,14,belly,peʔetie-n,,,,1?
+5071,15,bone,pitiʔo-n,,,30,
+5428,16,intestines,ŋoʔoputua-n,,,10,?
+5785,17,liver,pusasa-n,"possibly cog with 18",,,
+6142,18,breast,susu-n,,,1,1
+6499,19,shoulder,kehea-n,,,103,?
+6856,20,"to know, be knowledgeable",pasani,,,62,
+7213,21,"to think",oŋoŋehe,,,,
+7570,22,"to fear",nohono,,,7,
+7927,23,blood,ʔeye-n,,,1,1
+8284,24,head,pala-n,,,8,
+8641,25,neck,keñewe-n,,,19,
+8998,26,hair,kumpala-n,,,58,
+9355,27,nose,poʔoŋo-n,,,29,
+9712,28,"to breathe","hoti ŋesuha-n",,,8,
+10069,29,"to sniff, smell",hoŋey,,,8,
+10426,30,mouth,pʷaha-n,,,1,1
+10783,31,tooth,lehe-n,,,"1,35",1?
+11140,32,tongue,palakeʔeme-n,,,"7, 14",
+73014,33,"to laugh",han,,,"3, 54",
+73015,33,"to laugh",helisai,,,"3, 54",
+11854,34,"to cry",taŋ,,,1,1
+12211,35,"to vomit",amut,,,1,1
+12568,36,"to spit",ñuʔoh,,,,
+12925,37,"to eat",ñani,,,"1,12",
+13282,38,"to chew",yati,,,,
+13639,39,"to cook",tuɪ,,,7,
+13996,40,"to drink",ɪn,,,1,1
+14353,41,"to bite",yati,,,1,?
+189073,42,"to suck","coco mʷi","irregular *u > o",,51,
+15067,43,ear,poteleŋa-n,,,"1,71",1
+15424,44,"to hear",aŋey,,,1,
+15781,45,eye,mata-n,,,1,1
+16138,46,"to see",eleʔey,,,14,
+16495,47,"to yawn",yelimaw,,,"19, 26",1
+16852,48,"to sleep",metɪ,,,"1,70",1
+17209,49,"to lie down",ahe,,,,
+17566,50,"to dream",nihineh,,,"1, 60",1
+17923,51,"to sit","e mitan",,,26,
+18280,52,"to stand",celu,,,99,
+18637,53,"person/human being",amat,,,"1,66",1
+18994,54,man/male,kaman,,,9,
+19351,55,woman/female,pihɪn,,,"1, 106",1
+19708,56,child,ñetu-n,,,5,
+20065,57,husband,ñapulu-n,,,16,
+172418,58,wife,"ñapulu-n pihɪn",,,10,
+20779,59,mother,ñani-n,,,"1, 83",
+21136,60,father,ñatama-n,,,1,1
+21493,61,house,um,,,1,1
+21850,62,thatch/roof,"loʔo na epi",,,,
+22207,63,name,ŋaʔa-n,,,1,1
+22564,64,"to say",pʷay,,,"13, 93",
+22921,65,rope,was,,,27,
+23278,66,"to tie up, fasten",hosi,,,10,
+23635,67,"to sew",coeti,,,2,
+23992,68,needle,keni,,,,
+24349,69,"to hunt",coŋ,,,5,
+24706,70,"to shoot",soʔiy,,,26,
+25063,71,"to stab, pierce",sopoʔoti,,,,
+25420,72,"to hit",teʔiy,,,,
+25777,73,"to steal",pahena,,,"1,51",1
+26134,74,"to kill",teʔiy,,,98,
+26491,75,"to die, be dead",mat,,,1,1
+26848,76,"to live, be alive",mahuyan,,,4,
+27205,77,"to scratch",asi,,,5,
+27562,78,"to cut, hack",ceʔiti,,,8,
+27919,79,stick/wood,kɪ,,,1,1
+28276,80,"to split",tesalay,,,"40,84",
+28633,81,sharp,ñaman,,,,
+28990,82,"dull, blunt",toton,,,25,
+29347,83,"to work",puret,,,,
+29704,84,"to plant","e lomʷi",,,62,
+189059,85,"to choose",hilitei,,,"1, 29",
+92538,86,"to grow",ek,(plants),,20,
+92539,86,"to grow",mata,(animals),,21,
+30775,87,"to swell",cama,,,45,
+31132,88,"to squeeze",tapicey,,,,
+31489,89,"to hold",potoey,,,10,
+31846,90,"to dig",taku|eli,,,1,1?
+32203,91,"to buy",cimani,,,6,
+189060,92,"to open, uncover",tapaʔani,,,48,
+251315,93,"to pound, beat",te-tehei,,,,
+33274,94,"to throw",tekeni,,,71,
+33631,95,"to fall",ilos,,,109,
+33988,96,dog,mʷi,,,6,
+34345,97,bird,ñetukan,,,,
+34702,98,egg,ʔeletu,metathesis,,"1, 4",?
+35059,99,feather,lomu-n,,,4,
+35416,100,wing,kapini-n,,,82,
+35773,101,"to fly",tahawowoh,,,1,
+36130,102,rat,pucon,,,10,
+36487,103,meat/flesh,ceŋɪ-n,,,11,
+36844,104,fat/grease,ñaman,,,11,
+37201,105,tail,kelepe-n,,,8,
+37558,106,snake,mʷat,,,12,
+189061,107,"worm (earthworm)",tekeleʷet,,,,
+38272,108,louse,kut,,,1,1
+38629,109,mosquito,ñam|on,,,"1, 92",1
+38986,110,spider,wɪ|law,,,1,1
+39343,111,fish,ni,,,1,1?
+39700,112,rotten,poʔoan,,,12,
+40057,113,branch,ʔaʔan,,,"1,33",1
+40414,114,leaf,loʔo,,,16,
+40771,115,root,ŋoʔo,,,12,
+41128,116,flower,palawa,,L,,
+41485,117,fruit,puɪ,,,1,1
+41842,118,grass,mʷiʔiw,,,32,
+42199,119,earth/soil,tan,,,1,1
+42556,120,stone,pat,,,1,1
+42913,121,sand,teʔe|won,,,"1,69",1?
+43270,122,water,ʔan,,,1,1
+43984,124,sea,tas,,,1,1
+44341,125,salt,tas,,,20,
+251314,126,lake,lo-an,,,1,
+45055,127,woods/forest,poʔoloke,,,,
+45412,128,sky,laŋ,,,1,1
+45769,129,moon,pun,,,1,1
+46126,130,star,piti,,,1,1
+46483,131,cloud,kaʔah,,,11,
+47197,133,rain,leŋin,,,6,
+47554,134,thunder,ketuŋ,,,13,
+47911,135,lightning,emen,,,90,
+48268,136,wind,ko,,,47,
+48625,137,"to blow",ŋoh,,,,
+48982,138,warm,ŋetahan,,,7,
+49339,139,cold,ñeletun,,,7,
+49696,140,dry,posoen,,,9,
+50053,141,wet,"e mʷuʔun",,,,
+50410,142,heavy,tuan,,,29,
+50767,143,fire,mʷan,,,4,
+51124,144,"to burn",culumʷi,,,73,1?
+51481,145,smoke,"ŋesu mʷan",,,2,
+51838,146,ash,"cipoʔo mʷan",,,83,
+52195,147,black,okoten,,,58,
+52552,148,white,piʔen,,,7,
+52909,149,red,meʔeman,,,1,
+53266,150,yellow,moñoŋow,,,"9,83",
+53623,151,green,oʔoan,,,"13, 52",
+53980,152,small,inen,,,135,
+54337,153,big,napʷanan,,,49,
+54694,154,short,puon,,,6,
+55051,155,long,eloen,,,12,
+251316,156,thin,meke-hen,,,23,
+55765,157,thick,hutun,,,9,
+56122,158,narrow,inen,,,,
+56479,159,wide,melehan,,,6,
+56836,160,"painful, sick",ŋetian,,,9,
+57193,161,"shy, ashamed",pulenmamaci,,,"1,78",
+57550,162,old,cakɪn,,,8,
+57907,163,new,mahun,,,"1,38",?
+58264,164,good,huyán,,,1,
+58621,165,"bad, evil",muan,,,7,
+58978,166,"correct, true",tuenan,,,37,
+59335,167,night,[lo]peŋ,,,1,1
+59692,168,day,ʔaŋ,,,6,1?
+60049,169,year,yia,Loan,L,x,
+60406,170,when?,tukehe,,,32,
+60763,171,"to hide",yakaʔani,,,,
+61120,172,"to climb","e ñak",,,41,
+61477,173,at,lo,,,38,
+61834,174,"in, inside",lo,,,"1,72",1
+62191,175,above,tata,,,1,
+62548,176,below,paʔaha,,,57,?
+62905,177,this,dio,,,,
+119288,178,that,dien,"(near hearer)",,,
+119289,178,that,letow,(far),,,
+63619,179,near,paʔoh,,,10,
+81643,180,far,ŋoh,,,,
+81644,180,far,eluen,,,23,
+64333,181,where?,eheh,,,8,
+64690,182,I,yu,,,"1,21",1?
+65047,183,thou,wow,,,1,?
+65404,184,he/she,iy,,,1,1
+81995,185,we,citu,,,66,
+81996,185,we,utu,,,66,
+66118,186,you,etow,,,"1,25,32",
+66475,187,they,hitow,,,"62,60",
+66832,188,what?,cah,,,1,1
+67189,189,who?,hemohɪh,,,1,
+67903,191,all,masih,,,86,
+68260,192,and,e,,,8,?
+189062,193,if,hipara,,,,
+68974,194,how?,tatape,,,42,
+69331,195,"no, not",pʷɪ,,,9,
+69688,196,"to count",oŋehi,,,66,
+70045,197,One,sih,,,56,
+70402,198,Two,ma-ʔuoh,,,1,1
+70759,199,Three,ma-coloh,,,1,1?
+71116,200,Four,ma-hah,"-ha- > *pat",,1,1
+189072,201,Five,ma-lime,,,1,
+189071,202,Six,ma-wono,,,1,
+189070,203,Seven,ma-urucolo,,,22,
+189069,204,Eight,ma-uruwo,,,31,
+189068,205,Nine,ma-urusi,,,37,
+189067,206,Ten,ma-soŋon,,,5,
+189064,207,Twenty,ma-uŋon,,,"3,6",
+189063,208,Fifty,ma-limeŋon,,,1,
+189066,209,"One Hundred",ma-saŋat,,,"4,38",
+169238,210,"One Thousand",masongon,,,,
+189065,210,"One Thousand",ma-pʷensi,,,46,

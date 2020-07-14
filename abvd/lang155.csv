@@ -1,0 +1,279 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+155,Tikopia,"POLLEX 2000 (Bruce Biggs & Ross Clark)",tkp,tiko1237,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, Samoic-Outlier, Futunic","Simon Greenhill","Simon Greenhill","@article{POLLEX,  journal = {Oceanic Linguistics},  number  = {2},  pages   = {551--559},  title   = {{POLLEX-Online: The Polynesian Lexicon Project Online}},  volume  = {50},  year    = {2011},  author  = {Greenhill, Simon J. and Clark, Ross}}"
+latitude,longitude
+-13.38259910978620048638,168.99100518614150701069
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+155,1,hand,rima,"Five; hand, arm, wrist (Fth)",,1,1
+512,2,left,sema,"Left-handed; left hand (Fth)",,11,1
+869,3,right,matau,"Right-hand (Fth)",,"5,13",1
+1226,4,leg/foot,vae,"Leg, foot; boot, shoe (Fth)",,"1, 100",
+85140,5,"to walk",saere,"Walk, stride, go, travel (Fth)",,6,
+85141,5,"to walk",taafau,"Walk (Fth)",,7,
+85142,5,"to walk",tahao,"Walk (Wms)",,7,
+1940,6,road/path,ara,"Path, way (Fth)",,1,1
+2297,7,"to come",au,"Come, enter",,44,1
+2654,8,"to turn",pare,"Turn, divert (Fth)",,11,1
+87893,9,"to swim",kakau,"Swim (continuous aspect) of man, but not fish (Fth)",,5,
+87894,9,"to swim",ka(ka)u,"To swim, of a person (Fth)",,5,
+87943,10,dirty,kela,"Dirty (Fth) B.) [<]",,10,1
+87944,10,dirty,kere/kere,"Muddy, dirty (Fth)",,10,1
+3725,11,dust,refu,"Dust, ash, soot for tattooing (Fth)",,"1, 68",1
+4082,12,skin,kiri,"Skin, bark (Fth)",,1,1
+4439,13,back,tua,"Back, of person or animal; outer side (Fth)",,11,1
+88019,14,belly,kona,"Area of belly below navel (Fth)",,8,1
+88020,14,belly,manava,"Belly, stomach (Fth)",,9,
+88021,14,belly,aro/aro,Belly,,10,
+5153,15,bone,ivi,"Bone (Fth)",,"52,5",1
+5510,16,intestines,ngakau,"Interior of mouth, throat, gullet; guts (Fth)",,12,1
+5867,17,liver,ate,"Liver of man and other creatures (Fth)",,1,1
+6224,18,breast,uu,"Breast of a man or woman; suck at breast (Fth)",,1,1
+90620,19,shoulder,kapakau,"Pollex 06: Kapakau. :Shoulder, upper arm, wing, fin (Fth).",,22,
+88384,20,"to know, be knowledgeable",iroa,"Know, understand, recognise",,13,
+88385,20,"to know, be knowledgeable",iloa,"Skilled, adept, knowledgeable (Fth)",,13,
+88386,20,"to know, be knowledgeable",poto,,,15,
+7295,21,"to think",maanatu,"Think, call to mind, remember, thought (Fth)",,9,
+7652,22,"to fear",mataku,"Afraid, frightened, fear, fright (Fth)",,1,1
+8009,23,blood,toto,"Blood, blood-red; sap of plants and trees (Fth)",,4,1
+8366,24,head,poko/uru,"Head of human being (Fth)",,"10,62",1
+8723,25,neck,ua,"Neck, throat (external) (Fth)",,18,1
+88607,26,hair,furu,"Hair, feathers (Fth)",,31,
+88608,26,hair,rauuru,"Hair of the head",,40,
+9437,27,nose,isu,"Nose, beak, pointed end, tip (Fth)",,1,1
+9794,28,"to breathe",maanava,Breath,,1,?1
+10151,29,"to sniff, smell",songi,Smell,,9,
+10508,30,mouth,ngutu,Mouth,,2,1
+10865,31,tooth,nifo,"Tooth, of man or animal (Fth)",,1,1
+11222,32,tongue,alelo,"Tongue (Fth) B. [<]",,15,
+11579,33,"to laugh",kata,"Laugh (Fth)",,7,1
+11936,34,"to cry",tangi,"Cry, wail, sing mourning song (Fth)",,1,1
+12293,35,"to vomit",rua,vomit,,8,1
+12650,36,"to spit",aanu,"To spit (Fth)",,"14,84, 121",
+13007,37,"to eat",kai,"Food, eat (Fth)",,"1,47",1
+13364,38,"to chew",ngau,"Bite, chew; take in teeth (Fth)",,8,1
+13721,39,"to cook",tao,"Bake food (Fth)",,10,1
+14078,40,"to drink",inu,"Drink (Fth)",,1,1
+89808,41,"to bite",ngau,"Bite, chew; take in teeth (Fth)",,7,
+89809,41,"to bite",kati,"Bite into (Fth)",,"1,55",
+89810,41,"to bite",uti,"Bite, sting (Fth)",,9,
+89811,41,"to bite",uuti,Bite,,9,
+90026,42,"to suck",miti,"Suck, sip, make sucking sound, chirrup (Fth)",,8,
+90027,42,"to suck",puku,Suck,,,
+15149,43,ear,taringa,"Ear, lug, projection from timber etc. (Fth)",,1,1
+15506,44,"to hear",rogo,"Hear, listen, feel; news; good name (Fth)",,1,1
+145909,45,eye,mata,eye,,1,
+90129,46,"to see",kite,"See, look at, catch sight of (Fth)",,1,
+90130,46,"to see",ma/mata/,"Watch, gaze, look at",,8,
+16577,47,"to yawn",mava,"Yawn (Fth)",,"19, 39",1
+16934,48,"to sleep",moe,"Lie down, sleep, die (Fth)",,"10, 109",1
+17291,49,"to lie down",moe,"Lie down, sleep, die (Fth)",,6,1
+17648,50,"to dream",miti,"To dream (Fth)",,36,1
+18005,51,"to sit",nofo,"Sit, stay, dwell, live (Fth)",,16,1
+18362,52,"to stand",tuu,"Stand (Fth)",,2,1
+18719,53,"person/human being",tangata,"Human being, person; man, male, adult male (Fth)",,"1,66, 97",1
+19076,54,man/male,taane,"Male (Rare) (Fth)",,"1,11",
+91053,55,woman/female,fafine,Woman,,"1,106",
+91054,55,woman/female,fa/fine,"Woman, female",,"1,106",
+19790,56,child,tamariki,"Child, children (Fth)",,"6,63",
+20504,58,wife,nofine,Wife,,"5,66",1
+91260,59,mother,nana,"Mother, aunt",,"1,83",1
+91261,59,mother,nau,"Mother, spouses's aunt, son's wife",,7,
+91262,59,mother,tinana,"Mother (Fth)",,1,
+21218,60,father,tama/na,"Father (Fth)",,1,1
+91362,61,house,paito,House,,,
+91363,61,house,fare,Hut,,14,
+145917,62,thatch/roof,rautau,thatch,,"55,23",
+22289,63,name,igoa,"Name, namesake (Fth)",,6,1
+90621,64,"to say",muna,"Pollex 06: Muna. :Say, speak, tell.",,,
+23003,65,rope,maea,"Rope, line",,10,1
+91471,66,"to tie up, fasten",fau,"Tie on, lash (Fth)",,11,1
+91472,66,"to tie up, fasten",rii,"Tie, bind round, wrap up (Fth)",,14,
+91473,66,"to tie up, fasten",noa,"Tie, bind, put noose around (Fth)",,15,
+23717,67,"to sew",tui,"Put on a cord, sew (Fth)",,"13, 16",1
+91560,68,needle,sau,"Large needle of traditional type (Fth)",,1,
+91561,68,needle,sika,"Net-needle (Fth)",,9,
+145903,69,"to hunt",turi,hunt,,8,
+145904,69,"to hunt",fara,hunt,,28,
+24788,70,"to shoot",fana,"Shoot; bow, gun (Fth)",,1,1
+91605,71,"to stab, pierce",so/soka,"Transfix, spear",,67,
+91606,71,"to stab, pierce",suki,"Pierce, spit",,"1, 8",
+91695,72,"to hit",paa,"Hit, strike, crash, explode (Fth)",,13,1
+91696,72,"to hit",sasa,"Beat with a stick, slash with a rope; flick (Fth)",,12,
+91697,72,"to hit",taa,"Strike, hit (Fth)",,10,
+91698,72,"to hit",tuki,"Pound, pummel, punch, bang down (Fth)",,8,
+25859,73,"to steal",kaia,"Steal; theft (Fth)",,7,1
+145907,74,"to kill",ta,kill,,8,
+26573,75,"to die, be dead",mate,"To die, lose consciousness, be extinguished (Fth)",,1,1
+26930,76,"to live, be alive",ora,"Life, health, alive",,6,1
+145908,77,"to scratch",maŋiso,scratch,,65,
+92040,78,"to cut, hack",fasi/a,"Chop down a tree as low as possible (Fth)",,13,1
+92041,78,"to cut, hack",koti,"Cut into pieces",,9,
+92042,78,"to cut, hack",kokoti,"Cut, as with sawing motion of a knife (Fth)",,9,
+92043,78,"to cut, hack",sere,"To cut; a cut (e.g. of fish) (Fth)",,16,
+92044,78,"to cut, hack",tuu,,,17,
+28001,79,stick/wood,rakau,"Wood, tree, timber, stick",,1,1
+28358,80,"to split",faa/i,"To split, cut open, cut lengthwise (Fth)",,5,1
+28715,81,sharp,mata/kai/,"Sharp (of blade, of claw) (Fth)",,"14,16",1
+29072,82,"dull, blunt",paku,"Blunt (Fth) [<]",,61,
+92463,83,"to work",ngaua,"Spend time, energy (as in working hard for a small reward) (Fth) [<]",,11,1
+92464,83,"to work",sanga,"Cultivate, especially by a working party (Fth)",,10,
+29786,84,"to plant",too,"To plant (Fth)",,4,1
+30143,85,"to choose",firi,"Select (Fth)",,1,1
+30500,86,"to grow",tupu,Grow,,1,
+30857,87,"to swell",fura,"Swell; swollen belly or other part of body (Fth)",,7,1
+31214,88,"to squeeze",ku/kumi/,"Squeeze, express, press",,14,1
+92665,89,"to hold",fesu,"Clutch, grasp firmly, make fast (Fth)",,,
+92666,89,"to hold",kuku,"Clinch, close the hand",,12,
+92667,89,"to hold",puke,"Grip, grasp, hold (Fth)",,13,
+92668,89,"to hold",sapo,"Grab (Fth)",,15,
+31928,90,"to dig",keri,"To dig (Fth)",,1,1
+32642,92,"to open, uncover",afaafa,"Wide, especially of a gap (Fth)",,9,1
+32999,93,"to pound, beat",tuki,"Pound, pummel, punch, bang down (Fth)",,2,1
+33713,95,"to fall",singa,"Slip, fall (Fth)",,44,1
+34070,96,dog,kuri,Dog,,7,1
+34427,97,bird,manu,"Creature, ranging from mammal to arthropod; especially including birds (Fth)",,1,1
+145899,98,egg,fuei,egg,,5,
+90622,99,feather,furu,"Pollex 06: Furu. :Hair, feathers (Fth).",,1,
+35498,100,wing,kapakau,"Shoulder, upper arm, wing, fin (Fth)",,"1,59",1
+35855,101,"to fly",rere,"Run, fly, rush (Fth)",,11,1
+104694,102,rat,kiore,"Rat (Arch.) (Fth)",,12,1
+104695,102,rat,kumari,"Rat (one informant only) (Fth) [<]",,13,
+145905,103,meat/flesh,kanofi,meat/flesh,,14,
+36926,104,fat/grease,sinu,"Oil, cooked coconut cream",,12,1
+145906,105,tail,sikusiku,tail,,13,
+145916,106,snake,ŋau,snake,,12,
+38354,108,louse,kutu,"Head louse (Fth)",,1,1
+38711,109,mosquito,namu,Mosquito,,1,1
+39425,111,fish,ika,"Fish, including turtle and cetaceans (Fth)",,1,1
+105199,112,rotten,para,Rotten,,13,1
+105200,112,rotten,kuu,"Rotten (Fth)",,86,
+105271,113,branch,raa,"Stem, twig, minor branch of tree (Fth)",,1,
+105272,113,branch,rakau,"Wood, tree, timber, stick",,"1,4",
+40496,114,leaf,rau,"Leaf (Fth)",,1,1
+145911,115,root,vaiaka,root,,2,
+41210,116,flower,see,"Flower, blossom, ear-ornament (Wms)",,9,1
+41567,117,fruit,fua,"Fruit (Fth)",,1,1
+41924,118,grass,mauku,"Grass, many types, used as mulch for taro (Fth)",,58,1
+42281,119,earth/soil,kere,"Earth; ritual uncleanness (Fth)",,10,
+42638,120,stone,fatu,"Stone, rock (Fth)",,1,1
+42995,121,sand,one,"Sand (Fth)",,1,1
+43352,122,water,vai,"Water, liquid; pool, spring (Fth)",,2,1
+90623,123,"to flow",ranu,"Pollex 06: Ranu. :Flow, of water (Fth).",,,
+107778,124,sea,moana,"Sea, especially deep sea; ocean (Fth)",,10,1
+107779,124,sea,tai,"Sea, near the shore",,1,
+107780,124,sea,vasa,"Space, ocean space (Fth)",,12,
+90624,126,lake,roto,"Pollex 06: Roto. :Lake.",,6,
+107845,127,woods/forest,uru/ao,"Woods, natural vegetation (Fth)",,"15,14",
+107846,127,woods/forest,-vao,"Suffix in words for forest vegetation",,14,
+45494,128,sky,ragi,"Sky, heavens (Fth)",,1,1
+90625,129,moon,marama,"Pollex 06: Marama. :Moon, lunar month (Fth).",,7,
+46208,130,star,fetuu,"Star, constellation (Fth)",,1,1
+46565,131,cloud,ao,"Cloud generally, but especially cirrus cloud (Fth)",,12,1
+90626,132,fog,nefu,"Pollex 06: Nefu. :Mist, fog.",,22,
+47279,133,rain,ua,"Rain (Fth)",,1,1
+47636,134,thunder,fatitiri,Thunder,,14,1
+170072,134,thunder,mana,,,37,
+47993,135,lightning,uira,"Sheet lightning; summer lightning (Fth)",,2,1
+48350,136,wind,matagi,"Wind (Fth)",,"1,66",1
+48707,137,"to blow",angi,"To blow (Fth)",,8,1
+49064,138,warm,mafana,"Hot (Fth)",,"1, 72",1
+49421,139,cold,makariri,"Cold (Fth)",,"1,52",1
+120781,140,dry,masa,"Empty, dry, of container of liquid; low, out, of tide (Fth)",,11,
+120782,140,dry,maroo,"Dry (of vegetation), hence dead, parched (Fth)",,13,
+122728,141,wet,sisiu,(Fth),,11,
+122729,141,wet,suu,"Soaked in water, saturated (Fth)",,11,
+50492,142,heavy,mafa,"Heavy, weighty (Fth)",,46,1
+50849,143,fire,afi,"Fire, firebrand, glowing coal, torch (Fth)",,1,1
+122758,144,"to burn",tafu,"Set on fire",,8,
+122759,144,"to burn",tutu,"Kindle, set light to; heat (Fth)",,"1,6",
+122792,145,smoke,ausiafi,(Fth),,2,1
+122793,145,smoke,au,Smoke,,2,
+122794,145,smoke,au/siafi,"Smoke (Fth)",,2,
+122795,145,smoke,ausiafi,Smoke,,2,
+122796,145,smoke,kofu,"Emit smoke, to foam, create spray (Fth)",,13,
+51920,146,ash,refu,"Dust, ash, soot for tattooing (Fth)",,67,1
+52277,147,black,uri,"Dark colour, ranging from black to dark blue ordark green (Fth)",,7,1
+122850,148,white,kena,"White, especially pure white; devoid of colour, bright, shining; pale, bleached; flaxen, of hair (Fth)",,10,
+122851,148,white,tea,"Light-coloured, white, clear (Fth)",,8,
+123134,149,red,mea,"Reddish, pink, especially of vegetation (Fth)",,1,
+123135,149,red,mero,Red,,"1, 16",
+122884,150,yellow,fero,"Tawny, yellow, brown, brown-red (Fth)",,11,
+122885,150,yellow,senga,"Yellow, yellowish-red (Fth)",,12,
+145912,151,green,mata,green,,1,
+145913,151,green,kefu,green,,9,
+123724,152,small,faa/iti/,Compact,,1,
+123725,152,small,riki,"Small, little (Fth)",,66,
+123726,152,small,liki/liki,"L from unknown source",L,66,
+123727,152,small,pukupuku,"Compact; small, yet heavy; rounded (Fth)",,12,
+54419,153,big,lasi,"Big, great, tall, many B. (Fth) [<]",,12,
+54776,154,short,pukupuku,"Compact; small, yet heavy; rounded (Fth)",,3,1
+122481,155,long,roa,Long,,"12,105",
+122482,155,long,loa,"L from unknown source",L,"12,105",
+90627,156,thin,nifi/nifi,"Pollex 06: Nifi/nifi. :Thin (Fth).",,1,
+55847,157,thick,maatoru,"Broad, thick (Fth)",,3,1
+90628,158,narrow,komo,"Pollex 06: Komo. :Narrow.",,10,
+80319,159,wide,lafa,"Broad (Fth) [<]",,48,
+80320,159,wide,lafalafa,"Broad (Fth) [<]",,48,
+90629,160,"painful, sick",ngaengae,"Pollex 06: Ngaengae. :Sick (Fth).",,10,
+122993,161,"shy, ashamed",koro,"Hesitate, be shy (Fth)@ [<]",,,
+122994,161,"shy, ashamed",faka/maa/,"Be ashamed, embarassed, shy (Fth)",,1,1
+145901,162,old,mātua,"old (person)",,1,
+145902,162,old,mātua,"old (thing)",,1,
+57989,163,new,fou,"New, modern, fresh (Fth)",,1,1
+58346,164,good,tau/rekareka/,"Fine, splendid, handsome, beautiful (Fth)",,14,1
+145918,165,"bad, evil",pariki,bad,,,
+59060,166,"correct, true",tonu,"Straight, right, correct",,8,1
+59417,167,night,poo,Night,,1,1
+119459,168,day,ao,"Daylight (Fth)",,"1, 54",
+119460,168,day,aso,"Day, as time span (Fth)",,"1, 54",
+60131,169,year,tau,"Season, period",,1,1
+60488,170,when?,afea,"When? (Fth)",,5,1
+90630,171,"to hide",funa,"Pollex 06: Funa. :Hide.",,"1, 16",
+61202,172,"to climb",kake,"Climb, ascend, come up into (Fth)",,32,1
+145910,173,at,i,at,,1,
+123156,174,"in, inside",i,"In, on, from (Fth)",,x,
+123157,174,"in, inside",roto,"Inside, lake",,5,
+62273,175,above,"luga. ruga",Top,,9,1
+62630,176,below,raro,"Down, below; the sun goes down; softly, quietly (Fth)",,8,1
+90631,177,this,nei,"Pollex 06: Nei. :This, here (Fth).",,1,
+90632,178,that,na,"Pollex 06: Na. :There, that (Fth).",,1,
+90633,179,near,piri,"Pollex 06: Piri. :Near, close (of time and space) (Fth).",,30,
+123081,180,far,mamao,"Distant (Drd)",,13,
+123082,180,far,mao,"Far, at a distance (Fth)",,13,
+64415,181,where?,fea,"Where?, what?, when? (Fth)",,"3,35",1
+123650,182,I,au,"I (poetic form) (Fth)",,"1,21",1
+123651,182,I,kau,"First person singular pronoun, short form (Fth)",,"1,21",
+123652,182,I,-ku,"First person singular (possessive)",,x,
+123536,183,thou,kee,"Second person singular preposed pronoun used both preposed to verb  and absolutely (Bgs)",,5,
+123537,183,thou,koe,"Second person sing.",,1,
+132663,183,thou,koe,"Second person sing.",,1,
+65486,184,he/she,ia,"He, she, it (Fth)",,1,1
+65843,185,we,tou,"First person incl. plural incorporated pronoun (Bgs)",,39,1
+132662,186,you,kee,"Second person singular preposed pronoun used both preposed to verb and absolutely (Bgs)",,1,1
+132664,186,you,korua,thou,,x,
+132665,186,you,kotou,"in poetry and traditional tales (Fth)",,16,
+132666,186,you,kootou,"Second person dual pronoun, both preposed and independant (Fth)",,16,
+145914,187,they,raua,"they (3du)",,x,
+145915,187,they,ratou,"they (3pl)",,"1, 72",
+66914,188,what?,aa,"What?, in what condition?, how? (Fth)",,1,1
+67271,189,who?,ai,"Who?, whom?, whose? (Fth)",,1,1
+67985,191,all,katoa,"All, every, whole",,13,1
+122954,192,and,ma,"And, with, from, for (Fth)",,2,
+122955,192,and,mo,"And (poetic form of ma) (Fth)",,9,
+90634,193,if,ka,"Pollex 06: <Ka. :If (Fth).",,1,
+69056,194,how?,fefea,"How? (Fth) [<]",,11,1
+145900,195,"no, not",siei,no,,"10,84",
+119400,196,"to count",rau,"Enumerate, count, go through items on a list (Fth)",,62,
+119401,196,"to count",tau,"Count, reckon, measure (Fth)",,8,
+70127,197,One,tasi,One,,41,1
+70484,198,Two,rua,"Two; both; double; second; equivalent; substitute (Fth)",,1,1
+70841,199,Three,toru,Three,,1,1
+71198,200,Four,faa,"Four (Fth)",,"1,66",1
+83768,201,Five,rima,"Five, hand, arm, wrist (Fth).(Source: Pollex)",,1,
+90635,202,Six,ono,"Pollex 06: Ono. :Six (Fth)",,1,
+83670,203,Seven,whitu,"Seven (Fth).(Source: Pollex)",,1,
+90636,204,Eight,varu,"Pollex 06: Varu. :Eight (Fth).",,3,
+83544,205,Nine,siva,"Nine.(Source: Pollex)",,"5,44,43",
+83431,206,Ten,gafulu,"Ten, Ten (Fth).(Source: Pollex)",,"5,32",
+83454,206,Ten,angafuru,"Ten, Ten (Fth).(Source: Pollex)",,5,
+83357,209,"One Hundred",rau,"Ten or hundred according to items counted (Fth).(Source: Pollex)",,2,
+83325,210,"One Thousand",mano,"Thousand, any large number (Fth).(Source: Pollex)",,2,

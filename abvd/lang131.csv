@@ -1,0 +1,206 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+131,Tangga,"Blust, from: Bell (1977)",hrc,tang1348,"Bell, F.L.S. (1977). Tanga-English, English-Tanga Dictionary. Sydney, University of Sydney.",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, South New Ireland-Northwest Solomonic","Penny Keenan","Simon Greenhill","@book{43084,  address    = {University of Sydney, Australia},  series     = {Oceania Linguistic Monographs},  title      = {Tanga-English, English-Tanga Dictionary},  volume     = {21},  year       = {1977},  bibtexkey  = {bell_tanga-dictionary1977},  hhtype     = {dictionary},  inlg       = {English [eng]},  macro_area = {Papua},  src        = {hh, wals},  srctrickle = {hh#d:Bell:Tanga, wals#470},  author     = {Bell, F. L. S.}}"
+latitude,longitude
+-3.46955730306145992969,153.22631835937500000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+131,1,hand,nima-,,,"1,66",1
+488,2,left,kais,"borrowing? TP kais",,15,
+845,3,right,to,,,"5, 70",1?
+1202,4,leg/foot,keke,,,1,
+71550,5,"to walk",fes,,,8,
+71551,5,"to walk",seuseu,,,,
+1916,6,road/path,saris,,,,
+2273,7,"to come",la,,,,
+2987,9,"to swim",ka:kes,,,9,
+4058,12,skin,fo,,,13,
+4415,13,back,tua,"or 17?",,12?,
+72065,14,belly,bal,,,18,
+72066,14,belly,buŋa,,,,
+5129,15,bone,tutua,,,"1,10",
+5486,16,intestines,suk,,,,
+5843,17,liver,ete,,,1,1?
+6200,18,breast,susu-,,,1,1
+6557,19,shoulder,pasua-,,,,
+6914,20,"to know, be knowledgeable",parfat,,,119,
+7271,21,"to think",kele,,,,
+7628,22,"to fear",soke,,,66,
+7985,23,blood,didiak,,,,
+8342,24,head,pakalu,,,54,
+8699,25,neck,koŋoŋo-,,,25,
+9056,26,hair,"olo [lo]",,,3,
+9413,27,nose,nornor,,,15,
+10841,31,tooth,ŋisa,,,24,
+11198,32,tongue,keremet,,,"7, 14",
+11912,34,"to cry",boŋ,,,,
+12626,36,"to spit",ibis,,,25,
+12983,37,"to eat",en,,,1,1
+13340,38,"to chew",nau,,,8,
+73395,39,"to cook",sul,,,14,
+73396,39,"to cook",tut,,,9,
+14054,40,"to drink",imin,(<M),,"1,49",1?
+14411,41,"to bite",nuŋau,,,42,
+14768,42,"to suck",sus,,,25,1
+15125,43,ear,balbalu-,,,50,
+15482,44,"to hear",oŋ,,,1,1
+15839,45,eye,mata-,,,1,1
+16196,46,"to see",par,,,121,
+16553,47,"to yawn",naufi,,,"19, 27",
+73954,48,"to sleep",ma:t,,,1,1?
+73955,48,"to sleep",masun,,,1,1?
+17267,49,"to lie down",nor,,,72,
+17624,50,"to dream",nubil,,,69,
+17981,51,"to sit",kis,,,20,
+18338,52,"to stand",ti,,,"2,69",
+18695,53,"person/human being",tamat,,,"1,66",1
+19052,54,man/male,tamat,,,"12,14",
+74284,55,woman/female,fifin,,,"1,106",1
+74285,55,woman/female,poŋo,,,,1
+19766,56,child,sigua,,,92,
+20123,57,husband,ma:tuk,,,36,
+20480,58,wife,wok,,,98,
+20837,59,mother,tina,,,1,1
+21194,60,father,tema,,,1,1
+21551,61,house,fel,,,14,
+21908,62,thatch/roof,atof,,,1,1
+22265,63,name,a:sa,,,"1,18",1?
+22622,64,"to say",pete,,,47,
+74896,65,rope,wa:,,,2,
+74897,65,rope,fefel,,,,
+23336,66,"to tie up, fasten",sok,,,130,
+75248,70,"to shoot",soko,,,26,
+75249,70,"to shoot",fus,,,28,
+25121,71,"to stab, pierce",rusai-iŋ,,,,
+25478,72,"to hit",paksi,,,6,
+25835,73,"to steal",puri,22?,,,
+75511,74,"to kill","fa miteni",,,2,
+75512,74,"to kill",pa:ket,,,,
+26549,75,"to die, be dead",met,,,1,1
+26906,76,"to live, be alive","to [to]",,,8,
+27263,77,"to scratch",kukais,,,5,
+27620,78,"to cut, hack",pok,,,56,
+27977,79,stick/wood,au,,,1,1
+28334,80,"to split",sian,,,,
+28691,81,sharp,sereŋ,,,,
+29405,83,"to work",fefaim,,,45,
+76116,84,"to plant",a:we,,,,
+76117,84,"to plant",so,,,28,
+30476,86,"to grow",sus,,,3,
+76295,87,"to swell",iŋ,,,56,
+76296,87,"to swell",sifol,,,,
+31190,88,"to squeeze",pula,,,79,
+31547,89,"to hold",kosigil,,,,
+31904,90,"to dig",ma:tet,,,,
+76577,91,"to buy",tun,,,,1?
+76578,91,"to buy",lo,,,,1?
+76579,91,"to buy",fil,,,1,1?
+33689,95,"to fall",lut,,,63,
+34046,96,dog,pul,,,36,
+34403,97,bird,man,,,1,1
+34760,98,egg,katalu,,,1,1?
+35117,99,feather,"olo [lo]",,,1?,
+35474,100,wing,papaunan,,,7,
+35831,101,"to fly","of somaŋ",,,1,
+36188,102,rat,kut,"irreg reflex",,"3,63",
+36545,103,meat/flesh,tisum,,,,
+36902,104,fat/grease,kortiŋ,,,,
+37259,105,tail,kum,,,28,
+37616,106,snake,si,,,17,
+37973,107,"worm (earthworm)",arere,,,,
+77467,108,louse,luk,,,,1?
+77468,108,louse,n|ut,,,1,1?
+38687,109,mosquito,momos,,,97,
+39401,111,fish,kok,,,,
+39758,112,rotten,ma:pek,,,,
+40115,113,branch,aka,,,1,
+77780,114,leaf,pan,,,12,
+77781,114,leaf,uili,,,,
+40829,115,root,wara,"(-R > ? in 48,98)",,2,?
+41186,116,flower,sia,,,,
+41543,117,fruit,fira,,,30,
+41900,118,grass,ae,,,,
+42257,119,earth/soil,nul,,,,
+42614,120,stone,fa:t,,,1,1
+42971,121,sand,kin,,,1,1
+43328,122,water,da:n,,,"1,61",1
+78328,124,sea,tes,,,1,1
+78329,124,sea,kasap,,,,1
+44399,125,salt,semek,,,,
+78467,127,woods/forest,mok,,,51,
+78468,127,woods/forest,tuk,,,62?,
+45470,128,sky,lumbat,,,39,
+45827,129,moon,funil,(<M),,,1?
+78591,130,star,keltot,,,31,
+78592,130,star,sauma:li,,,,
+46541,131,cloud,ba:t,,,63,
+46898,132,fog,bau,,,57,
+47255,133,rain,ba:t,,,8,
+47612,134,thunder,pa:,,,15,
+47969,135,lightning,pil,,,26,
+48326,136,wind,kif,,,,
+48683,137,"to blow",kife,,,72,
+49040,138,warm,tuntun,,,12,
+79150,139,cold,mir,,,1,
+79151,139,cold,patuk,,,,
+79237,140,dry,maŋ,,,1,1?
+79238,140,dry,mus,,,11,1?
+79326,141,wet,mura:k,,,,
+79327,141,wet,bisbis,,,16,
+50825,143,fire,if,,,1,1?
+51182,144,"to burn",tu,,,1?,
+51896,146,ash,pif,,,,
+52253,147,black,meketket,,,1,
+52610,148,white,murmur,,,,
+52967,149,red,bulam,,,,
+53324,150,yellow,pilpil,,,,
+53681,151,green,mukerau,,,"13, 81",
+54038,152,small,lik,"irregular l reflex of *r",,"66, 82",1?
+54395,153,big,dok,,,,
+80105,154,short,tuŋtuŋ,,,,
+80106,154,short,poŋ,,,,
+55109,155,long,arim,,,,
+55823,157,thick,sum,,,,
+80374,160,"painful, sick",soksok,,,,
+80375,160,"painful, sick",filis,,,,
+57251,161,"shy, ashamed",n-yi:r,,,11,
+57608,162,old,ma:tuk,,,1,1?
+57965,163,new,fo,,,1,1
+58322,164,good,kausi,,,,
+58679,165,"bad, evil",sak,,,1,1
+59036,166,"correct, true",buŋ,,,,
+59393,167,night,panam|biŋ,,,1,1
+59750,168,day,biŋ,"'whole day'",x,,
+60107,169,year,mata'm-fay-im,,,,
+60464,170,when?,naŋis,,,"1,43",1
+61178,172,"to climb",fen,,,1,1
+61535,173,at,una,,,52,
+61892,174,"in, inside",bal,,,,
+81265,175,above,ia:t,,,1,
+81266,175,above,"pakalu'n mu",,,58,
+81295,176,below,pigliŋ,,,,
+81296,176,below,ifaf,,,1,
+81359,177,this,ge,,,,
+81360,177,this,lo,,,,
+63320,178,that,tam,,,,
+81588,179,near,fa:ta,,,,
+81589,179,near,gina,,,,
+64034,180,far,tapak,,,19,
+64391,181,where?,wa,,,"3,48",
+81791,182,I,ai,,,"1,21",1
+81792,182,I,yau,,,"1,21",1
+65105,183,thou,o,,,1,1
+65462,184,he/she,i,,,1,1
+113912,185,we,kerer,,,,
+113913,185,we,kemem,,,2,
+66176,186,you,"kam [u]",,,1,1
+66533,187,they,ri,,,25,
+66890,188,what?,sa,,,1,?
+67247,189,who?,se,,,1,1
+82409,191,all,eri,,,,
+82410,191,all,fun,,,,
+68318,192,and,ma,,,2,1
+69032,194,how?,afa,,,,
+69389,195,"no, not",bel,,,108,
+70103,197,One,tike,,,43,
+70460,198,Two,u,,,1,1
+70817,199,Three,tul,,,1,1
+71174,200,Four,ifet,,,"1,65",1

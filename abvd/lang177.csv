@@ -1,0 +1,227 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+177,"Paiwan (Kulalao F82)","Ferrell (1982)",pwn,paiw1248,"Ferrell, R. (1982). Paiwan dictionary. Canberra: Pacific linguistics.(Compiled from the Kulalao (Kuɬaɬau) dialect)",,"Austronesian, Paiwan","Peng Du","Simon Greenhill","@book{86263,  address    = {Canberra},  publisher  = {ANU},  title      = {Paiwan dictionary. Pacific linguistics, Series C-73},  year       = {1982},  bibtexkey  = {ferrell_paiwan-series1982},  hhtype     = {dictionary},  inlg       = {English [eng]},  macro_area = {Papua},  src        = {wals},  srctrickle = {wals#1858},  author     = {Ferrell, Raleigh}}"
+latitude,longitude
+22.28909641872304092658,120.78369140625000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+177,1,hand,lima,,,"1,64",1
+534,2,left,ka-viri,,,"1,42",1
+891,3,right,ka-navaɬ,,,"1,67",1
+1248,4,leg/foot,kula,,,77,
+1605,5,"to walk",djavats,,,23?,
+1962,6,road/path,djalan,,,1,1
+2319,7,"to come",ma-ŋetjez,,,36,
+2676,8,"to turn",ki-palits,*paliC,,104,
+3033,9,"to swim",ɬaŋuy,,,1,1
+3390,10,dirty,ma-qitaŋ,,,,1
+3747,11,dust,qunevuɬan,,,43,
+4104,12,skin,qaɬits,,,2,
+4461,13,back,uquɬ,"cf. Tsou",,94,
+4818,14,belly,tjiaɬ,,,1,1
+5175,15,bone,tsuqelaɬ,,,1,1
+5532,16,intestines,vu,,,52,
+5889,17,liver,qatsay,,,1,1
+6246,18,breast,tutu,,,1,1
+6603,19,shoulder,qavan,,,1,1
+6960,20,"to know, be knowledgeable",k-m-eɬaŋ,,,73,
+7317,21,"to think",ki-nemnem,,,"28, 34",1
+7674,22,"to fear",ma-rekutj,,,59,
+8031,23,blood,djamuq,,,20,
+8388,24,head,qulu,,,1,1
+8745,25,neck,liqe,,,1,1
+9102,26,hair,quvaɬ,"*qubaN grey hair",,52,
+9459,27,nose,ŋudjus,,,"42,44",
+9816,28,"to breathe",mi-nasi,,,58,
+10173,29,"to sniff, smell",s-m-equ,,,59,
+10530,30,mouth,aŋaɬ,,,69,
+10887,31,tooth,aɬis,,,2,
+11244,32,tongue,sema,,,1,1
+11601,33,"to laugh",dj-m-eli,,,77,
+73076,34,"to cry",q-m-auŋ,,,53,1
+73077,34,"to cry",ts-m-aŋitj,,,1,1
+12315,35,"to vomit",m-utjaq,,,1,1
+12672,36,"to spit",dj-m-ilay,,,78,
+13029,37,"to eat",k-m-an,,,1,1
+13386,38,"to chew",q-m-elqel,,,2,
+13743,39,"to cook",k-m-esa,,,73,
+14100,40,"to drink",t-m-ekel,,,44,
+14457,41,"to bite",k-m-ats,"*kaRaC. Irreg. -C",,1,1
+14814,42,"to suck",t-m-eptep,,,1,1
+15171,43,ear,tsaliŋa,,,1,1
+15528,44,"to hear",l-m-aŋeda,,,49,
+15885,45,eye,matsa,,,1,1
+16242,46,"to see",patsun,,,75,
+16599,47,"to yawn",me-suaw,,,1,?
+16956,48,"to sleep",q-m-ereŋ,,,47,
+17313,49,"to lie down",q-m-ereŋ,,,94,
+17670,50,"to dream",mi-sepi,,,1,1
+18027,51,"to sit",q-m-iladj,,,92,
+18384,52,"to stand",mi-gatsaɬ,,,51,
+18741,53,"person/human being",tsau-tsau,,,1,1
+19098,54,man/male,uqaɬay,,,1,1
+19455,55,woman/female,vavaian,,,"1,105",1
+19812,56,child,aɬak,,,1,1
+20169,57,husband,tsekeɬ,,,,
+20526,58,wife,tsekeɬ,,,,
+74489,59,mother,kina,,,"1,27",1
+74490,59,mother,tjaina,,,1,1
+74556,60,father,kama,,,"1,23",1
+74557,60,father,tjama,,,1,1
+21597,61,house,umaq,,,1,1
+21954,62,thatch/roof,qaɬiw,,,53,
+22311,63,name,ŋadán,,,1,1
+22668,64,"to say",aya,,,,
+23025,65,rope,tsalis,,,1,1
+23382,66,"to tie up, fasten",q-m-adjay,,,,
+23739,67,"to sew",ts-m-aqis,CaqiS,,"1,52",1
+24096,68,needle,djaum,,,1,1
+24453,69,"to hunt",q-m-aɬup,,,1,1
+24810,70,"to shoot",p-n-anaq,,,1,1
+25167,71,"to stab, pierce",v-n-akal,,,73,
+25524,72,"to hit",p-n-aŋul,,,,
+25881,73,"to steal",tsakaw,,,1,1
+26238,74,"to kill",pa-patsay,,,2,
+26595,75,"to die, be dead",matsay,,,1,1
+26952,76,"to live, be alive",vaɬut,,,54,
+27309,77,"to scratch",g-m-utsgusts,,,62,?
+27666,78,"to cut, hack",ts-m-eqadj,,,,
+28023,79,stick/wood,kasiw,,,1,1
+28380,80,"to split",mi-ne-tselaq,"< *Celaq? -EG",,40?,?
+28737,81,sharp,radjay,,,55,
+29094,82,"dull, blunt",qilut,,,53,
+29451,83,"to work",k-ar-a-kuda,*ku[dz]a,,27,
+29808,84,"to plant",t-m-alem,,,2,?
+30165,85,"to choose",p-n-iliq,,,1,1
+30522,86,"to grow",setukuɬ,,,,
+76304,87,"to swell",valak,,,46,
+76305,87,"to swell",velak,,,46,
+31236,88,"to squeeze",k-m-eramet,,,,1?
+31593,89,"to hold",ki-tsaiŋ,"g-m-emgem 'grasp in fist'(Ferrell dictionary, 1982)",,,
+31950,90,"to dig",kali,,,1,1
+32307,91,"to buy",veli,,,1,1
+32664,92,"to open, uncover",s-m-uqeɬev,,,52,
+33021,93,"to pound, beat",maisu,,,35,1?
+33378,94,"to throw",v-n-a-liɬiŋ,,,,
+76854,95,"to fall",ma-tjani,,,4,
+76855,95,"to fall",ma-tsepis,,,,
+34092,96,dog,vatu,,,1,1
+34449,97,bird,qaya-qayam,,,2,
+34806,98,egg,qetsilu,,,1,1
+35163,99,feather,palaɬ,,,58,
+35520,100,wing,kapkap,,,33?,
+104674,101,"to fly",mi-layap,,,2,
+104675,101,"to fly",perper,"perper (Ferrell 1982) #35",,65,
+36234,102,rat,kulavaw,,,1,1
+36591,103,meat/flesh,seti,,,1,1
+36948,104,fat/grease,qalum,,,58,
+37305,105,tail,iku,,,1,1
+37662,106,snake,qatjuvi,,,57,
+38019,107,"worm (earthworm)",qatjuday,,,55,
+38376,108,louse,kutsu,,,1,1
+38733,109,mosquito,salapeɬan,,,,
+39090,110,spider,kuma-kuma,,,53,
+39447,111,fish,tsiqaw,,,30,
+39804,112,rotten,ma-vúk,buRuk,,1,1
+40161,113,branch,ritsiŋ,,,42,
+40518,114,leaf,asaw,,,10,
+40875,115,root,kapaz,,,24,
+41232,116,flower,vutilak,,,,
+41589,117,fruit,vaŋaɬ,,,31,
+41946,118,grass,tsemel,,,3,
+42303,119,earth/soil,qipu,,,86,
+42660,120,stone,qatsiɬay,,,37,
+43017,121,sand,vudas,,,72,
+43374,122,water,zaɬum,,,1,1
+43731,123,"to flow",vai-vaik,,,,
+44088,124,sea,ɬavek,,,51,
+44445,125,salt,qatia,,,1,1
+44802,126,lake,djanaw,,,1,1
+45159,127,woods/forest,vukid,,,107,
+45516,128,sky,kalevlevan,,,2,
+45873,129,moon,qiɬas,,,2,
+46230,130,star,vitjuqan,,,1,1
+46587,131,cloud,qerepes,,,82,
+46944,132,fog,kerebaw,,,81,
+47301,133,rain,qudjaɬ,,,1,1
+78802,134,thunder,zuŋ,,,3,
+78803,134,thunder,tselalaq,,,70,
+48015,135,lightning,ladjap,,,3,
+48372,136,wind,vali,,,2,
+48729,137,"to blow",dj-m-apes,,,31,
+49086,138,warm,ma-seɬets,,,,
+49443,139,cold,ɬa-ɬeqel,,,86,
+49800,140,dry,me-tád,,,90,
+50157,141,wet,matjeveŋ,,,77,
+50514,142,heavy,sadjeluŋ,"One of Puyuma and Paiwan is a metathesis of the other. Possibly a loan one way or the other. MR.",,"3,53",
+50871,143,fire,sapuy,,,1,1
+51228,144,"to burn",ts-m-uɬu,,,1,1
+51585,145,smoke,tsevuɬ,,,65,
+51942,146,ash,qavu,,,1,1
+52299,147,black,qetseŋel,"Expected final [ɬ]. -EG",,2,
+52656,148,white,vuqaɬ,,,112,
+53013,149,red,qudjiɬ,,,78,
+53370,150,yellow,qulivay,,,,
+53727,151,green,liɬuas,,,58,
+54084,152,small,keḍi,,,2,1
+54441,153,big,qatsay,,,91,
+54798,154,short,ḍikitj,,,75,
+55155,155,long,laḍuq,*Naduq,,1,1?
+55512,156,thin,ɬusepit,"NuSepis. irreg. -u-",,1,
+55869,157,thick,keḍemel,,,21,
+56226,158,narrow,tjaɬi-keḍi,,,55,
+56583,159,wide,me-lava,,,1,1?
+56940,160,"painful, sick",saqetju,,,80,
+57297,161,"shy, ashamed",ma-siaq,,,1,1
+57654,162,old,vuluŋ,"Old Person",,102,
+58011,163,new,vaqu-an,,,1,1
+58368,164,good,na-ŋuaq,,,90,
+58725,165,"bad, evil",sa-lutjuk,,,69,
+59082,166,"correct, true",parut,,,,
+59439,167,night,veŋin,,,1,1
+59796,168,day,qadaw,,,1,1
+60153,169,year,tsaviɬ,,,22,
+60510,170,when?,nu-ŋida,,,1,?
+60867,171,"to hide",ki-ɬa-ɬiŋa,,,,
+61224,172,"to climb",t-m-adat,,,,
+61581,173,at,i,,,1,1
+61938,174,"in, inside","i taladj","Irreg final C. -EG",,40,
+62295,175,above,"i vavaw",,,2,1
+62652,176,below,"i teku",,,68,
+63009,177,this,a-i-tsu,,,14,
+63366,178,that,a-zua,,,13,
+63723,179,near,ɬia-dut,,,83,
+64080,180,far,ɬia-tsaja,,,41,
+64437,181,where?,inu,,,1,1
+64794,182,I,ti-aken,,,1,1
+65151,183,thou,ti-sun,,,1,1
+65508,184,he/she,ti-madju,,,17,
+113973,185,we,ti-tjen,,,1,1
+113974,185,we,ti-amen,,,2,
+66222,186,you,ti-mun,,,1?,1
+66579,187,they,ti-a-madju,,,26,
+66936,188,what?,a-nema,*nema,,16,
+67293,189,who?,t-ima,,,2,
+67650,190,other,zuma,,,1,1
+68007,191,all,puɬat,,,58,
+68364,192,and,sa,,,59,1?
+68721,193,if,nu,,,2,1
+69435,195,"no, not",ini,,,3,
+69792,196,"to count",s-m-upu,,,3,
+70149,197,One,ita,,,1,1
+70506,198,Two,ḍusa,,,1,1
+70863,199,Three,tjelu,,,1,1
+71220,200,Four,sepatj,,,1,1
+83798,201,Five,rimáʔ,,,1,
+83826,201,Five,rima,,,1,
+83707,202,Six,unum,,,1,
+83738,202,Six,ʔúnəm,,,1,
+83620,203,Seven,piţuʔ,,,1,
+83642,203,Seven,pitu,,,1,
+83571,204,Eight,'áruʔ,,,3,
+83593,204,Eight,aru,,,3,
+83496,205,Nine,sivaʔ,,,5,
+83518,205,Nine,siva,,,5,
+83470,206,Ten,púruq,,,5?,
+83471,206,Ten,purrok,,L,5,
+83399,207,Twenty,rusapúruq,,,"3,6",
+83985,209,"One Hundred",taidái,,,1,
+199166,210,"One Thousand",takuzuɬ,,,7,

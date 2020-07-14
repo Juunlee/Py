@@ -1,0 +1,255 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+78,Yamdena,"Blust, from Drabbe",jmd,yamd1240,"Drabbe, P. (1926). Speakkunst der Jamdeensche taal. Gravenhage: Martinus Nijhoff",,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Southeast Maluku, Kei-Tanimbar, Yamdena","Peng Du","Simon Greenhill","@book{72358,  pages                 = {93},  publisher             = {Batavia},  series                = {Verhandelingen van het Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen},  title                 = {Spraakkunst der Jamdeensche Taal},  volume                = {LXVII:2},  year                  = {1926},  bibtexkey             = {drabbe_spraakkunst-jamdeensche1926},  class_loc             = {PL5465.95.Y14},  document_type         = {B},  fn                    = {papua\drabbe_jamdeensche1926.pdf},  hhtype                = {grammar_sketch},  inlg                  = {Dutch [nld]},  inlg_code             = {nld},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 5465 .95 Y14 DRA 1926},  src                   = {hh, mpieva},  srctrickle            = {hh#s:Drabbe:Jamdeensche, mpieva#27},  subject_headings      = {Amboinese languages – Dialects, Yamdena Island – Languages, Amboinese languages – Dialects – Yamdena Island – Languages},  author                = {Drabbe, Peter}}"
+latitude,longitude
+-7.75345127326905103615,131.28331761219050122236
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+78,1,hand,lime,,,"1,64",1
+435,2,left,bayal,,,,
+792,3,right,fian,,,81,
+1149,4,leg/foot,eme,,,,
+85127,5,"to walk",n-mban,,,2,
+85128,5,"to walk",fala,,,116,1?
+85129,5,"to walk",laye,,,,
+1863,6,road/path,dalamtene,,,,?
+2220,7,"to come",n-ma,,,1,1
+2577,8,"to turn",balik,,,8,
+2934,9,"to swim",n-kawal,,,,
+87935,10,dirty,kini,,,,
+87936,10,dirty,nise,,,,
+87937,10,dirty,na-rai,,,1,
+4005,12,skin,kulit,,,1,1
+4362,13,back,burit,,,,
+4719,14,belly,kambu,,,2,
+5076,15,bone,duri,,,2,
+5433,16,intestines,kambu,,,,
+5790,17,liver,ate,,,1,1
+6147,18,breast,susu,,,1,1
+72231,19,shoulder,ba|bara|n,,,1,1
+72232,19,shoulder,slyape,,,,1
+6861,20,"to know, be knowledgeable",na-fai,,,113,
+72355,21,"to think",na-daun,,,,
+72356,21,"to think",n-kambar,,,,
+72357,21,"to think",n-kolak,,,,
+72402,22,"to fear",na-k-lele,,,,1
+72403,22,"to fear",taut,,,1,1
+7932,23,blood,dare,,,1,1
+8289,24,head,ulu,,,1,1
+72541,25,neck,nawe,,,,
+72542,25,neck,manuk,,,,
+9003,26,hair,buke,,,1,1?
+9360,27,nose,iri-n,,,1,1
+72761,28,"to breathe",reke,,,,1
+72762,28,"to breathe",sa|nawe,,,1,1
+10074,29,"to sniff, smell",n-aŋat,,,,
+10431,30,mouth,susuke,,,40?,
+10788,31,tooth,nife,,,1,1
+11145,32,tongue,kéri,,,35,
+11502,33,"to laugh",n-malip,,,3,
+11859,34,"to cry",n-tasiŋ,(<m),,1,1
+73122,35,"to vomit",n-lomb,,,,1
+73123,35,"to vomit",n-lokan,,,8,1
+73124,35,"to vomit",n-mut,,,1,1
+12573,36,"to spit",n-sirik,,,,
+12930,37,"to eat",n-ane,,,1,?
+13287,38,"to chew",n-kakit,,,,
+13644,39,"to cook",na-dane,,,,?
+14001,40,"to drink",énum,,,1,1
+14358,41,"to bite",n-karat,,,1,1
+73635,42,"to suck",n-sus,,,1,?
+73636,42,"to suck",n-wokut,,,,?
+15072,43,ear,tliŋe,,,1,1
+15429,44,"to hear",n-deŋar,,,1,1
+15786,45,eye,mate,,,1,1
+16143,46,"to see",n-keban,,,,
+16500,47,"to yawn",n-maup,,,19,1
+16857,48,"to sleep",owe,,,,
+90743,49,"to lie down",leŋan,,,,
+90744,49,"to lie down",narwa,"(sub rwaje)",,,
+17571,50,"to dream",mefi,,,"1,37",1
+17928,51,"to sit",na-m-toran,,,1,
+18285,52,"to stand",na-m-dir,,,1,1
+18642,53,"person/human being",tomwate,,,"1,66",1
+18999,54,man/male,mérwane,,,1,1
+19356,55,woman/female,bate,,,128,
+19713,56,child,anak,,,1,1
+20070,57,husband,sawe,,,2,1
+20427,58,wife,sawe,,,1,1
+20784,59,mother,ene,,,1,1?
+21141,60,father,ame,,,1,1
+21498,61,house,dase,,,,
+74661,62,thatch/roof,"epat buŋan",,,9,
+74662,62,thatch/roof,dafat,,,9,
+22212,63,name,ŋare,,,1,1
+74776,64,"to say",n-bét,,,,
+74777,64,"to say",na-boti,,,,
+74778,64,"to say",n-falak,,,,
+74779,64,"to say",n-otar,,,,
+22926,65,rope,tali,,,1,1
+74973,66,"to tie up, fasten",n-ndare,,,,
+74974,66,"to tie up, fasten",n-kele,,,,
+75081,67,"to sew",n-bibis,,,,
+75082,67,"to sew",n-sot,,,10,
+75149,68,needle,ndirin,,,,
+75150,68,needle,ndume,,,,
+75187,69,"to hunt",n-bes,,,,
+75188,69,"to hunt",na-nau,,,,
+75189,69,"to hunt",na-yaf,,,,
+75190,69,"to hunt",na-tian,,,,
+24711,70,"to shoot",n-fanak,,,1,1
+25068,71,"to stab, pierce",n-susuk,,,1,1
+91689,72,"to hit",na-babal,,,4,1
+91690,72,"to hit",n-falu,"(to hammer)",,1,
+25782,73,"to steal",naŋe,,,"1,59",
+26139,74,"to kill",n-fen,,,6,
+26496,75,"to die, be dead",n-mat,,,1,1
+26853,76,"to live, be alive",n-morip,,,"1,76",1
+75629,77,"to scratch",n-kér,,,49,?
+75630,77,"to scratch",ramas,,,1?,?
+75691,78,"to cut, hack",n-lolan,,,,1
+75692,78,"to cut, hack",n-tetak,,,3,1
+27924,79,stick/wood,kai,,,1,1
+75859,80,"to split",n-bindar,,,,
+75860,80,"to split",n-rak,,,,
+75861,80,"to split",n-siye,,,,
+75862,80,"to split",n-wak,,,36?,
+28638,81,sharp,ta-tariŋ[ʔ],,,1,
+28995,82,"dull, blunt",ŋai,,,,
+76042,83,"to work",n-karya,,,7,
+76043,83,"to work",n-lambat,,,,
+76104,84,"to plant",n-tanam,,,2,1
+76105,84,"to plant",n-tabat,,,38,1
+30066,85,"to choose",na-fili,,,1,1
+30423,86,"to grow",na-slyai,,,,
+30780,87,"to swell",bare,,,1,1
+31137,88,"to squeeze",n-feras,,,42,1
+31494,89,"to hold",n-ŋuŋum,,,,
+76496,90,"to dig",mbuam,,,,1
+76497,90,"to dig",na-kal,,,1,1
+32208,91,"to buy",n-sélir,,,,
+32565,92,"to open, uncover",na-bandil,,,69,
+76684,93,"to pound, beat",n-kalap,,,,
+76685,93,"to pound, beat",n-loli,,,,
+76686,93,"to pound, beat",n-sambuk,,,,
+76730,94,"to throw",jai,,,8,
+76731,94,"to throw",yébas,,,,
+76823,95,"to fall",n-fuf,,,,
+76824,95,"to fall",n-lol,,,,
+33993,96,dog,asu,,,1,1
+34350,97,bird,manik,,,1,1
+35064,99,feather,fulu-n,,,1,1
+35421,100,wing,slyape,,,,
+35778,101,"to fly",n-turim,,,,
+36135,102,rat,kawat,,,,
+36492,103,meat/flesh,isi,,,31,1
+36849,104,fat/grease,minak,,,1,1
+37206,105,tail,ikur,,,1,1
+37563,106,snake,kasi,,,,
+77425,107,"worm (earthworm)",laraksindak,,,,
+77426,107,"worm (earthworm)",ombak-nduam,,,,
+38277,108,louse,kutu,,,1,1
+38634,109,mosquito,ninik,,,17,?
+38991,110,spider,lawak,spiderweb,,1,1
+39348,111,fish,ian,,,1,1
+77646,112,rotten,n-ber,,,1,1
+77647,112,rotten,n-mbusuk,,,56,1
+77648,112,rotten,n-lor,,,1,1
+40062,113,branch,saŋe,,,2,
+40419,114,leaf,done,,,1,1?
+40776,115,root,wakar,,,2,1
+41133,116,flower,fusi,,,5,
+41490,117,fruit,buwe,,,1,1
+41847,118,grass,mbese,,,,
+42204,119,earth/soil,ombak,,,,
+42561,120,stone,bati,,,1,1
+42918,121,sand,knjai,,,,
+43275,122,water,wéye,,,2,1
+43632,123,"to flow",n-lale,,,,
+43989,124,sea,tasik,,,1,1
+44346,125,salt,sire,,,1,1
+45060,127,woods/forest,alas,,,1,1
+45417,128,sky,laŋit,,,1,1
+45774,129,moon,bulan,,,1,1
+46131,130,star,ftune,,,1,1
+46488,131,cloud,mutan,,,6,
+46845,132,fog,lobe,,,,
+47202,133,rain,udan,,,1,
+47559,134,thunder,ndundum,,,8,
+47916,135,lightning,fitik,,,34,
+48273,136,wind,mnaur,,,,
+48630,137,"to blow",n-oup,,,,
+48987,138,warm,mé-fanas,,,"1, 72",1
+79135,139,cold,ma-ndirun,,,1,1
+79136,139,cold,ma-rindin,,,1,1
+49701,140,dry,ma-ŋrétu,,,,
+50058,141,wet,na-mbetan,,,8,
+50415,142,heavy,ma-bérat,,,1,1
+50772,143,fire,au,,,1,?
+51129,144,"to burn",apu,,,,
+51486,145,smoke,m|asu,,,2,1?
+51843,146,ash,afu,,,1,1
+52200,147,black,me-metam,,,1,1
+52557,148,white,ma-futi,,,1,1
+52914,149,red,na-méméye,,,1?,
+53271,150,yellow,laktéru,,,,
+79819,151,green,laktéru,,,,
+79820,151,green,lakwatan,,,,
+79821,151,green,lalatu,,,,
+79864,152,small,ma-rumat,,,,
+79865,152,small,kaianak,,,,
+54342,153,big,silai,,,,
+54699,154,short,ma-buwe,,,,
+55056,155,long,mé-lawas,,,9,
+80188,156,thin,baianak,,,,
+80189,156,thin,mba-nisik,,,1,
+80251,158,narrow,mbalole,,,,
+80252,158,narrow,ta-ŋowe,,,,
+80253,158,narrow,ta-ŋora,,,,
+56484,159,wide,me-labar,,,49,1
+56841,160,"painful, sick",na-maninik,,,,
+80441,161,"shy, ashamed",n-meat,,,1,?
+80442,161,"shy, ashamed",télan,,,1,?
+80478,162,old,ma-kene,,,,
+80479,162,old,tuwet,,,,
+58269,164,good,mone,,,,
+80744,166,"correct, true",botuan,,,,
+80745,166,"correct, true",diat,,,,
+59340,167,night,ndondam,,,11,
+59697,168,day,lere,"cp.line+linaw 'calw'",,24,1
+60054,169,year,ŋarak,,,3,
+60768,171,"to hide",na-mudim,,,,
+81035,172,"to climb",n-faŋat,,,,
+81036,172,"to climb",n-kafar,,,,
+61482,173,at,na,"or 20?",,13,
+61839,174,"in, inside",dalam,,,1,1
+62196,175,above,das,,,,
+62553,176,below,bab,,,1,1
+62910,177,this,iye,,,1?,
+81466,178,that,[a]né,,,1,1?
+81467,178,that,[a]no,,,1,1?
+63624,179,near,losir,,,,
+63981,180,far,lolo,,,,
+64695,182,I,yaku,,,1,1
+65052,183,thou,ko[u],,,1,1
+65409,184,he/she,iye,,,1,1
+119331,185,we,kite,,,1,1
+119332,185,we,kami,,,2,
+82039,186,you,kmi,,,"1,13",1
+82040,186,you,mire,,,,1
+66480,187,they,sir[e],,,1,1
+66837,188,what?,safe,,,1,1
+67194,189,who?,isé,,,1,1
+67551,190,other,sa,,,,
+82393,191,all,fere,,,,
+82394,191,all,monuk,,,,
+68265,192,and,ma,,,2,1
+68622,193,if,keta,,,,
+68979,194,how?,farpe,,,,
+82698,195,"no, not",tate,,,4,
+82699,195,"no, not",to,,,4,
+69693,196,"to count",n-yaki,,,6,
+82820,197,One,lese,,,1,1
+82821,197,One,sa,,,1,1
+70407,198,Two,duwe,,,1,1
+70764,199,Three,tél,,,1,1
+71121,200,Four,fat,,,1,1
+173014,203,Seven,fitu,,,1,

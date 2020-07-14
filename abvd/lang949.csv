@@ -1,0 +1,63 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+949,Laha,"N. V. Solntseva & Hoang Van Ma",lha,laha1250,"Solntseva, N. V. [Солнцева, Н.В.], Hoang Van Ma. 1986. The Laha language [Язык Лаха]. Moscow: Издательство \"Наука\" Главная Редакция Восточной литературы.Tones:1 = /55/2 = /55ʔ/3 = /53/4 = /22/5 = /21/6 = /14/",,"Tai-Kadai, Kra, Eastern Kra","Andrew C. Hsiu",,"@book{83473,  address    = {Moscow},  publisher  = {Nauka},  title      = {Jazyk Lakha},  year       = {1986},  bibtexkey  = {solntseva-xoang_jazyk-lakha1986},  inlg       = {Russian [rus]},  inlg_code  = {rus},  macro_area = {Eurasia},  src        = {wals},  srctrickle = {wals#5646},  author     = {Solntseva, N.V. and Xoang, Van Ma}}"
+latitude,longitude
+21.55150000000000000000,103.86380000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+246669,1,hand,ma2,,,1,
+246670,6,road/path,hôn5,,,,
+246726,13,back,ew4,,,,
+246727,13,back,kưŋ6,,,,
+246672,14,belly,lôŋ5,,,,
+246673,19,shoulder,ba1,,,1,
+246674,22,"to fear",bla2,,,,
+246675,24,head,pom4,,,,
+246676,26,hair,śạm5,,,,
+246677,30,mouth,mul1,,,,
+246678,31,tooth,cuŋ3,,,33,
+246679,33,"to laugh",śo5,,,,
+246680,34,"to cry",ñit1,,,,
+246681,45,eye,ta3,,,1,
+246682,51,"to sit",tut4,,,,
+246683,52,"to stand",jưn4,,,,
+246684,53,"person/human being",khôn2,,,,
+246685,68,needle,bli2,,,,
+246686,74,"to kill",phən2,,,,
+246687,75,"to die, be dead",phən5,,,,
+246688,102,rat,lạj6,,,,
+246689,104,fat/grease,mal1,,,,
+246690,111,fish,bla2,,,,
+246691,116,flower,baal2,,,,
+246692,120,stone,com3,,,,
+246693,121,sand,ngạj5,,,,
+246694,122,water,uŋ6,,,40,
+246728,127,woods/forest,khḍôŋ1,,,,
+246729,127,woods/forest,khrôŋ1,,,,
+246696,128,sky,then5,,,,
+246697,129,moon,ḍan2,,,,
+246698,130,star,kluŋ2,,,,
+246699,132,fog,"muk1 klu6",,,,
+246700,133,rain,jạl2,,,,
+246724,135,lightning,"la4 lal1",,,,
+246725,135,lightning,"la4 lap1",,,,
+246702,136,wind,vạn2,,,,
+246703,143,fire,pơj3,,,1,
+246704,145,smoke,khwạn1,,,,
+246705,146,ash,thợw4,,,,
+246706,150,yellow,ŋil3,,,,
+246707,167,night,kan3,,,,
+246708,168,day,vạn5,,,,
+246709,169,year,phiŋ5,,,,
+246710,175,above,ợw1,,,,
+246711,176,below,ñun1,,,,
+246712,197,One,cạm6,,,1,
+246713,198,Two,śa5,,,1,
+246714,199,Three,tợw3,,,1,
+246715,200,Four,pa3,,,11,
+246716,201,Five,ha6,,,,
+246717,202,Six,hôk4,,,,
+246718,203,Seven,cêt4,,,,
+246719,204,Eight,pet4,,,,
+246720,205,Nine,kạw6,"loan chinese",L,,
+246721,206,Ten,śêp4,,,,
+246722,209,"One Hundred","cạm6 hoj3",,,,
+246723,210,"One Thousand","cạm6 phạn1",,,,

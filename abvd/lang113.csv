@@ -1,0 +1,260 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+113,Raga,"D.S. Walsh",lml,hano1246,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, North and Central Vanuatu, Northeast Vanuatu-Banks Islands, East Vanuatu","Peng Du","Simon Greenhill","@misc{Walsh-113-2005,  author = \"D.S. Walsh\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-15.62484606427988964583,169.01619632576060325846
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+113,1,hand,lima-,,,1,1
+470,2,left,mwairi,,,"1,59",1
+827,3,right,mwatua,(<M),,"5, 37",1
+1184,4,leg/foot,bwalage-,,,33,
+1541,5,"to walk",lago,,,1,1
+1898,6,road/path,hala,,,1,1
+2255,7,"to come",mai,,,1,1
+71717,8,"to turn",burigai,,,24,
+71718,8,"to turn","ban burigai",,,24,
+2969,9,"to swim",ḡagaru,,,5,
+3326,10,dirty,bibili,,,13,
+3683,11,dust,taniavu,"cf 146",,"1, 44",
+4040,12,skin,vinu-,,,28,
+4397,13,back,gatigu-,,,80,
+4754,14,belly,sibweŋi-,,,13,
+5111,15,bone,hui-,,,52,
+72137,16,intestines,sine-,,,1,1
+72138,16,intestines,sinae,,,1,1
+5825,17,liver,ate-,,,1,1
+6182,18,breast,huhu-,,,1,1
+6539,19,shoulder,isibwa-,,,"40,65",
+6896,20,"to know, be knowledgeable",ilo,,,13,
+72365,21,"to think",vinihi,,,43,
+72366,21,"to think",binihi,,,43,
+7610,22,"to fear",matagu,,,1,1
+7967,23,blood,daga-,,,1,?
+8324,24,head,bwatu-,,,9,
+8681,25,neck,mwagoro-,,,"11, 108",
+9038,26,hair,ilu-,,,31,
+72689,27,nose,ganhu-,,,27,1
+72690,27,nose,gan|ihu,,,27,1
+9752,28,"to breathe",mabu,,,14,
+10109,29,"to sniff, smell","ron̄ boni-",,,"42, 62",
+10466,30,mouth,bwaŋo-,,,41,
+10823,31,tooth,livo-,,,"1,35",1
+11180,32,tongue,mea-,,,7,?
+11537,33,"to laugh",mana,,,51,
+11894,34,"to cry",dei,,,32,?
+12251,35,"to vomit",lua,,,8,
+12608,36,"to spit",lodo,,,37,
+73231,37,"to eat",gani,,,"1,12",1
+73232,37,"to eat",ḡani,,,"1,12",1
+13322,38,"to chew",sama,,,21,
+73383,39,"to cook",tu-tunu,,,9,
+73384,39,"to cook",du-tunu,,,9,
+14036,40,"to drink",mwinu,,,"1,49",1
+73550,41,"to bite",gasi,,,"1, 60",1
+73551,41,"to bite",ḡasi,,,"1, 60",1
+14750,42,"to suck",huhu,,,25,1
+15107,43,ear,bwero-,,,16,
+15464,44,"to hear",ron̄o,,,1,1
+15821,45,eye,mata-,,,1,1
+73871,46,"to see",gita,,,1,1
+73872,46,"to see",ḡita,,,1,1
+154701,47,"to yawn",mamaovi,,,19,
+16892,48,"to sleep",maturu,,,1,1
+17249,49,"to lie down",eno,,,1,1
+90771,50,"to dream","gita maturu-bore",,,"11, 10",
+90772,50,"to dream","ḡita maturu-bore",,,"11, 10",
+74061,51,"to sit",togo,,,80,
+74062,51,"to sit",dogo,,,147,
+74098,52,"to stand",tu,,,2,1
+74099,52,"to stand",du,,,2,1
+18677,53,"person/human being",ata|tu,,,"4,34",?
+19034,54,man/male,ata|mwani,,,"1,14",1
+19391,55,woman/female,vavine,,,"1,106",1
+74360,56,child,nitu-,,,5,
+74361,56,child,natu-rigi,,,5,
+74362,56,child,natu-ri-rigi,,,5,
+20105,57,husband,ahoa-,,,2,1
+20462,58,wife,tasala-,,,54,
+20819,59,mother,ratahi-,,,57,
+21176,60,father,tama-,,,1,1
+21533,61,house,imwa,,,1,1
+21890,62,thatch/roof,taḡure,,,20,
+22247,63,name,iha,,,66,1?
+74784,64,"to say",veve,,,"13, 103",
+74785,64,"to say",beve,,,"13, 103",
+22961,65,rope,gao,,,25,
+23318,66,"to tie up, fasten",sisi,,,89,
+23675,67,"to sew",ligo,,,28,
+154700,69,"to hunt",vanvana,,,53,
+75246,70,"to shoot",vana,,,1,1
+75247,70,"to shoot",bana,,,1,1
+25103,71,"to stab, pierce",sari,"stab w. spear",,14,
+25460,72,"to hit",bala,,,,
+25817,73,"to steal",sura,,,64,
+26174,74,"to kill",wehi,,,12,
+26531,75,"to die, be dead",mate,,,1,1
+26888,76,"to live, be alive",rahu,,,85,
+75631,77,"to scratch",taḡari,,,"12, 28",
+75632,77,"to scratch",daḡari,,,"12, 28",
+75703,78,"to cut, hack",tai,,,1,1?
+75704,78,"to cut, hack",dai,,,1,1?
+27959,79,stick/wood,gai,,,1,1
+75871,80,"to split",tai-bora,,,1,?
+75872,80,"to split",dai-bora,,,1,?
+28673,81,sharp,mamagani,,,"14, 79",
+29030,82,"dull, blunt",bwatoa,,,15,
+29387,83,"to work","lol rovoga",,,,
+29744,84,"to plant",rivu,,,9,
+30458,86,"to grow",mauri,,,15,
+30815,87,"to swell",sisibo,,,11?,
+76366,88,"to squeeze",vwirihi,,,16,
+76367,88,"to squeeze",bwirihi,,,16,
+31529,89,"to hold",haḡo,,,109,?
+76503,90,"to dig",geli,,,1,1
+76504,90,"to dig",ḡeli,,,1,1
+76573,91,"to buy",voli,,,1,1
+76574,91,"to buy",boli,,,1,1
+76634,92,"to open, uncover",vuge,,,"1, 57",1
+76635,92,"to open, uncover",buge,,,1,1
+154699,93,"to pound, beat",vaho,,,1,
+76738,94,"to throw",voha,,,53,
+76739,94,"to throw",boha,,,53,
+33671,95,"to fall",hovi,,,13,
+34028,96,dog,vwiriu,,,"7, 75, 77, 80",
+34385,97,bird,manu,,,1,1
+34742,98,egg,idoli,,,1,1
+77051,99,feather,lalau,"[large sep. tail feather] [small]",,24,
+77052,99,feather,ilu,"[large sep. tail feather] [small]",,1,
+35456,100,wing,gabau,metathesis,,"1,58",
+165790,100,wing,laŋi,,,65?,
+77138,101,"to fly",gaga,,,14,
+77139,101,"to fly",ḡaga,,,14,
+36170,102,rat,garivi,,,18,
+36527,103,meat/flesh,vigoho/bigi,[muscle]/[gen],,10,
+154697,104,fat/grease,ruma,,,44?,
+154698,104,fat/grease,girisi,,L,,
+105098,105,tail,ḡere,"[ref. Animal/fish]",,39,
+105099,105,tail,garate,"[ref. Bird]",,39,
+37598,106,snake,teltele,,,13,
+37955,107,"worm (earthworm)",silosi,**sulati,,"1,8",?
+38312,108,louse,gutu,,,1,1
+38669,109,mosquito,namu,,,1,1
+39026,110,spider,tagaga,,,"8,78",?
+39383,111,fish,ige,,,1,1
+39740,112,rotten,boni,"stinking, boboga usually ref. Wood but some apply it to bad meat",,"52,109",
+40097,113,branch,rara,,,"1,33",1
+40454,114,leaf,rau,,,1,1
+40811,115,root,garo,<M,,"2, 41",
+41168,116,flower,vira-n-gai,,,35,
+41525,117,fruit,vwai-n-gai,,,"1, 26",1?
+41882,118,grass,mwanea,,,31,
+42239,119,earth/soil,tano,,,1,1
+42596,120,stone,vatu,,,1,1
+42953,121,sand,one,,,1,1
+43310,122,water,wai,,,2,1
+105476,123,"to flow",rovo,,,37,
+105477,123,"to flow",wai-rovo,,,37,
+44024,124,sea,tahi,,,1,1
+44381,125,salt,tahi,,,20,
+44738,126,lake,wai,,,9,
+45095,127,woods/forest,"ute vono",,,7,1
+45452,128,sky,mahau,,,63,
+45809,129,moon,vula,,,1,1
+46166,130,star,visiu,,,1,1
+46523,131,cloud,tenlaŋi,,,"3, 36",
+46880,132,fog,vivivi,,,11,
+47237,133,rain,uhe,,,1,1
+47594,134,thunder,bwahilo,,,105,
+47951,135,lightning,vilehi,,,26,?
+48308,136,wind,l|an̄i,(<+laNit?),,"1, 77",1
+78995,137,"to blow",here,,,26,
+78996,137,"to blow",uvwi,,,4,
+78997,137,"to blow",uvwi,,,4,
+49022,138,warm,aruaru,,,90,
+49379,139,cold,masisi,,,98,1?
+49736,140,dry,mamaha,,,11,?
+50093,141,wet,meho,,,49,
+50450,142,heavy,marahi,,,33,
+50807,143,fire,gabi,,,19,
+79469,144,"to burn",tunu,,,1,1
+79470,144,"to burn",dunu,,,1,1
+51521,145,smoke,ahu,,,2,1
+51878,146,ash,tani|avu,,,"1,26",1
+52235,147,black,meto,,,1,1
+52592,148,white,maita,,,49,
+52949,149,red,memea,,,1,1
+53306,150,yellow,aŋoga,,,9,
+53663,151,green,malageha,,,"8, 43",
+79872,152,small,ti-rigi,,,66,1
+79873,152,small,ri-rigi,,,66,1
+79874,152,small,kolo,,,139,1
+54377,153,big,gaivua,,,111,
+54734,154,short,vwelvwele,,,87,
+55091,155,long,ŋava,,,50,
+55448,156,thin,manevnevi,,,1,1
+55805,157,thick,vonoga,,,35,
+154696,158,narrow,kolo,,,,
+154695,159,wide,gaivua,,,,
+56876,160,"painful, sick",haro,,,119,
+154694,161,"shy, ashamed",busi,,,32,
+57590,162,old,bwatavwe,oldness,,1?,
+57947,163,new,gara,,,9,
+58304,164,good,tavuha,,,65,
+58661,165,"bad, evil",hantai,*saʔa-dai,,"1, 98",
+59018,166,"correct, true",mwasigi,,,,
+59375,167,night,bon̄i,,,1,1
+59732,168,day,rani,,,6,1
+60089,169,year,tau|lu,,,1,1?
+60446,170,when?,batenhano,,,88,
+60803,171,"to hide",hili,,,63,
+61160,172,"to climb",hae,"both (a. and b.)",,2?,
+61517,173,at,la,,,20?,
+81200,174,"in, inside",lol,,,1,?
+81201,174,"in, inside",alolo-,,,1,?
+62231,175,above,alu-,,,47,
+62588,176,below,ate-,,,9?,
+81351,177,this,uhu,,,,
+81350,177,this,geki,,,6,
+63302,178,that,gea,,,15?,
+63659,179,near,abe-,,,68?,
+64016,180,far,hau|tu,,,1,1?
+81703,181,where?,hala-behe,,,"3, 59",
+81704,181,where?,behe,,,"3, 59",
+64730,182,I,inau,,,"1,21,22",1
+165789,182,I,na-,,,"1,21,22",
+65087,183,thou,go-,,,"1, 17",?
+65444,184,he/she,ge-,,,"1, 29",
+113865,185,we,gida,,,1,1
+113866,185,we,kamai,,,2,
+165791,185,we,ta-,,,1,
+165792,185,we,ga-,,,,
+66158,186,you,kimiu,,,"1,13",1
+66515,187,they,ra-,,,"1, 70",1
+82241,188,what?,hano,,,1?,1
+82242,188,what?,hava|nau,,,1,1
+67229,189,who?,ihei,,,1,1
+82337,190,other,dolua,,,54,
+82338,190,other,do-dolua,,,54,
+82405,191,all,duluai,,,15?,
+82406,191,all,ŋoto,,,,
+68300,192,and,i,,,1?,
+154693,193,if,sobe,,,,
+69014,194,how?,hani-,,,,
+69371,195,"no, not",sigai,,,10,
+82781,196,"to count",bwiri,,,"1, 13",
+82782,196,"to count",vului,,,"1, 13",
+82783,196,"to count",bului,,,"1, 13",
+70085,197,One,-tuvwa,,,9,
+70442,198,Two,-rua,,,1,1
+70799,199,Three,-tolu,,,1,1
+71156,200,Four,-vasi,,,"1,65",1
+154692,201,Five,-lima,,,1,
+154691,202,Six,-ono,,,1,
+154687,203,Seven,-bitu,,,1,
+154690,204,Eight,-vwelu,,,3,
+154689,205,Nine,sivo,,,5,
+154688,206,Ten,haŋvulu,,,5,
+154686,207,Twenty,"ŋavul gairua",,,9,
+165787,208,Fifty,"ŋavul gailima",,,x,
+154685,209,"One Hundred",vudolua,,,16,
+154684,210,"One Thousand",vasanvulu,,,"13, 12?",
+165788,210,"One Thousand",tari,,,16,

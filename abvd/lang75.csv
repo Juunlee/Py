@@ -1,0 +1,221 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+75,Madurese,"Blust, from Nothofer (1975), Safioedin (1977)",mad,nucl1460,"Nothofer, B. (1975) The reconstruction of Proto-Malayo-Javanic, Verhandelingen Koninklijk Instituut voor Taal-, Land- en Volkenkunde, 73. The Hague: Nijhoff.Safioedin, A. (1977) Kamus Bahasa Madura-Indonesia. Jakarta: National Center for Language Development.",,"Austronesian, Malayo-Polynesian, Madurese","Simon Greenhill","Simon Greenhill","@book{80269,  address               = {'s-Gravenhage},  note                  = {A revision of the author's thesis, Yale, 1973 Includes index Bibliography: p. xv-xix},  pages                 = {xix+317},  publisher             = {Nijhoff},  series                = {Verhandelingen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde},  title                 = {The reconstruction of Proto-Malayo-Javanic},  volume                = {73},  year                  = {1975},  bibtexkey             = {nothofer_malayo-javanic1975},  class_loc             = {PL5053},  document_type         = {B},  fn                    = {papua\nothofer_malayojavanic1974_o.pdf, papua\nothofer_javaniclxxiii1975.pdf},  hhtype                = {overview;comparative},  inlg                  = {English [eng]},  inlg_code             = {eng},  isbn                  = {9789024717729},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 5053 NOT 1975},  mpifn                 = {malayojavanic_nothofer1974_o.pdf},  src                   = {hh, mpieva},  srctrickle            = {hh#hv:Nothofer:Malayo-Javanic:1975, mpieva#Nothofer1975Therecon},  subject_headings      = {Proto-Malayan language–Phonology, Proto-Malayan language–Phonology},  author                = {Nothofer, Bernd}}@book{safioedin1977,  date        = {1977},  title       = {Kamus Bahasa Madura-Indonesia},  language    = {es},  address     = {Jakarta},  institution = {National Center for Language Development},  author      = {Safioedin, A.}}"
+latitude,longitude
+-7.40756848691353386727,111.90942664979749565646
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+75,1,hand,tanaŋ,,,18,
+432,2,left,kacer,,,,
+789,3,right,kaŋan,,,"1,62",1
+1146,4,leg/foot,soko,,,,
+1503,5,"to walk",a-jalan,,,21,
+1860,6,road/path,loroŋ,,,1?,
+2217,7,"to come",dhateŋ,,,14,
+2574,8,"to turn",moter,,,,
+2931,9,"to swim",a-laŋŋoy,,,1,1
+3288,10,dirty,kotor,,,31,
+3645,11,dust,abu,,,1,
+4002,12,skin,koleʔ,,,1,1
+4359,13,back,balakaŋ,,,27,
+4716,14,belly,tabuʔ,,,28,
+5073,15,bone,tolaŋ,,,1,1
+5430,16,intestines,perroʔ,,,23,
+5787,17,liver,ate,,,1,1
+6144,18,breast,soso,,,1,1
+6501,19,shoulder,bau,,,17,
+6858,20,"to know, be knowledgeable",tao,,,1,1
+7215,21,"to think",mekker,"arabic borrowing",L,33?,
+7572,22,"to fear",takoʔ,,,1,1
+7929,23,blood,dhara,,,1,1
+8286,24,head,cethak,,,,
+8643,25,neck,leʔer,,,1,1
+9000,26,hair,obuʔ,,,"1,53",1
+9357,27,nose,eloŋ,,,1,1
+9714,28,"to breathe",a-ñaba,,,1,1
+10071,29,"to sniff, smell",ñeyom,,,20,
+10428,30,mouth,coloʔ,,,,
+10785,31,tooth,gigi,,,17,
+11142,32,tongue,jila,,,4,1
+11499,33,"to laugh",a-gellaʔ,,,108,
+11856,34,"to cry",naŋes,,,1,1
+12213,35,"to vomit",ŋota,,,1,1
+12570,36,"to spit",a-copa,,,"19,88",
+12927,37,"to eat",ŋakan,,,1,1
+13284,38,"to chew",a-kael,,,,
+13641,39,"to cook",ŋ-ola,,,,
+13998,40,"to drink",ŋemon,,,1,1
+14355,41,"to bite",kekkeʔ,,,20,1
+14712,42,"to suck",ŋeññot,,,,
+15069,43,ear,kopeŋ,"possible loan Javanese",L,15,
+15426,44,"to hear",ŋ-edhiŋ,,,19,
+15783,45,eye,mata,,,1,1
+73867,46,"to see",ŋanela,,,,
+73868,46,"to see",neŋgu,,,36,
+16497,47,"to yawn",a-uway,,,19,
+16854,48,"to sleep",tedhuŋ,,,1?,
+17211,49,"to lie down","dhuŋ tedhuyan",,,,
+17568,50,"to dream",a-mempe,,,1,1
+17925,51,"to sit",tajuʔ,,,,
+18282,52,"to stand",man|jeŋ,,,,?
+18639,53,"person/human being",oreŋ,,,20,
+18996,54,man/male,lakeʔ,,,2,1
+19353,55,woman/female,bineʔ,,,"1,41",1
+19710,56,child,anaʔ,,,1,1
+20067,57,husband,lake,,,28,
+20424,58,wife,bine,,,5,
+20781,59,mother,embuʔ,,,12?,
+21138,60,father,emmaʔ,,,1,1
+21495,61,house,roma,,,1,1
+21852,62,thatch/roof,ataʔ,,,1,1
+22209,63,name,ñama,,,12,
+22566,64,"to say",ŋocaʔ,,,,
+74882,65,rope,tampar,,,,1
+74883,65,rope,tale,,,1,1
+23280,66,"to tie up, fasten",naleʔe,,,,
+23637,67,"to sew",a-jaiʔ,,,2,1
+23994,68,needle,jarum,,,1,1
+24351,69,"to hunt",a-buru,,,23,
+24708,70,"to shoot",mana,,,1,1
+25065,71,"to stab, pierce",ñoca,,,,
+25422,72,"to hit",pokol,,,27,
+25779,73,"to steal",ma-maleŋ,,,16,
+26136,74,"to kill",mateʔe,,,2,
+26493,75,"to die, be dead",mate,,,1,1
+26850,76,"to live, be alive",odhiʔ,,,1,1
+27207,77,"to scratch",a-garu,,,55,?
+27564,78,"to cut, hack",ŋerraʔ,,,139,
+27921,79,stick/wood,kaju,,,1,1
+28278,80,"to split",ñebaʔ,,,1,
+28635,81,sharp,tajem,,,1,1
+28992,82,"dull, blunt",tompol,,,3,1?
+29349,83,"to work",a-lako,,,,
+29706,84,"to plant",namen,(<M),,2,1
+30063,85,"to choose",mele,,,1,1
+30420,86,"to grow",tombu,,,1,1
+30777,87,"to swell",bara,,,1,1
+31134,88,"to squeeze",ŋepeʔ,,,28,
+31491,89,"to hold",tek|kem,,,1?,?
+31848,90,"to dig",ŋali,,,1,1
+32205,91,"to buy",belli,,,1,1
+32562,92,"to open, uncover",bukkaʔ,"possible loan?",,1,1
+32919,93,"to pound, beat",noto,,,20,1
+33276,94,"to throw",ŋoteppagi,,,,
+33633,95,"to fall",gaggar,,,37,
+33990,96,dog,pateʔ,,,,
+34347,97,bird,manoʔ,,,1,1
+34704,98,egg,tellor,,,1,1
+35061,99,feather,bulu,,,1,1
+35418,100,wing,baŋbaŋ,,,,
+35775,101,"to fly",ŋabber,"possible loan",L,,
+36132,102,rat,tekos,,,22,
+36489,103,meat/flesh,dagiŋ,,,26,
+36846,104,fat/grease,gaji,"Javanese loan",L,25,
+37203,105,tail,buntoʔ,,,16,
+37560,106,snake,olar,,,2,1
+37917,107,"worm (earthworm)",caceŋ,,,23,
+38274,108,louse,koto,,,1,1
+38631,109,mosquito,reŋŋeʔ,,,21,
+38988,110,spider,[ba]laba,,,1,1
+39345,111,fish,jukoʔ,,,24,
+39702,112,rotten,buccoʔ,,,56,1
+40059,113,branch,rancaʔ,,,63,
+40416,114,leaf,dhaun,,,1,1
+40773,115,root,ramoʔ,,,3?,1
+41130,116,flower,kembaŋ,"possible Javanese loan based on the semantics",L,21,
+41487,117,fruit,buwa,,,1,1
+41844,118,grass,rebba,,,,
+42201,119,earth/soil,tana,,,1,1
+42558,120,stone,bato,,,1,1
+42915,121,sand,beddhi,"Old Javanese loan?",L?,,
+43272,122,water,aeŋ,,,2,1?
+43629,123,"to flow",a-gili,,,,?
+43986,124,sea,taseʔ,,,1,1
+44343,125,salt,buja,,,,
+44700,126,lake,talaga,"Sanscrit loan",L,,
+45057,127,woods/forest,alas,,,1,1
+45414,128,sky,laŋŋeʔ,,,1,1
+45771,129,moon,bulan,,,1,1
+46128,130,star,bintaŋ,,,1,
+46485,131,cloud,ondhem,,,,
+46842,132,fog,embun,,,27,
+47199,133,rain,ojan,,,1,1
+47556,134,thunder,g|al|udhak,"Javanese loan",L,"2,28",1?
+47913,135,lightning,kelap,,,"1,88",?
+48270,136,wind,aŋen,,,1,1
+48627,137,"to blow",ñarepo,,,,
+48984,138,warm,panas,,,1,1
+49341,139,cold,cellep,,,28,
+49698,140,dry,kerreŋ,,,22,
+50055,141,wet,bacca,,,1,1
+50412,142,heavy,berraʔ,,,1,1
+50769,143,fire,apoy,,,1,1
+51126,144,"to burn",ñolet,,,,
+51483,145,smoke,kokos,,,92,
+51840,146,ash,loloŋ,,,,
+52197,147,black,celleŋ,,,23,
+52554,148,white,pote,,,1,1
+52911,149,red,mera,,,1,1
+53268,150,yellow,koneŋ,,,1,
+53625,151,green,biru,,,5,
+53982,152,small,keneʔ,,,,
+54339,153,big,raja,,,1,1
+54696,154,short,pendhaʔ,,,1,1
+55053,155,long,jau,,,,
+55410,156,thin,tepes,"possible Malay loan",L?,1?,1
+55767,157,thick,tebbel,,,26,
+56124,158,narrow,copeʔ,,,68,?
+56481,159,wide,lebar,,,48,1
+56838,160,"painful, sick",sakeʔ,,,1,1
+57195,161,"shy, ashamed",malo,,,20,
+57552,162,old,towa,,,1,1
+57909,163,new,añar,"Old Javanese loan",L,16,
+58266,164,good,bagus,,,31,
+58623,165,"bad, evil",jubaʔ,,,1?,
+58980,166,"correct, true",bendher,,,1,?
+59337,167,night,malem,,,20,
+59694,168,day,are,,,17,1
+60051,169,year,taon,,,1,1
+60408,170,when?,bila,,,13,
+60765,171,"to hide",ŋerrem,,,,
+61122,172,"to climb",naeʔ,,,1,1
+61479,173,at,e,,,1,1
+61836,174,"in, inside",dhalem,,,1,1
+62193,175,above,attas,,,1,1
+62550,176,below,baba,,,1,1
+62907,177,this,areya,,,,
+81464,178,that,keʔissa,,,,
+81465,178,that,arowa,,,,
+63621,179,near,semmaʔ,,,,
+63978,180,far,jau,,,1,1
+64335,181,where?,edhimma,,,20,
+64692,182,I,seŋkoʔ,,,,
+65049,183,thou,baʔna,,,,
+65406,184,he/she,abaʔna,,,,
+119333,185,we,seŋkoʔ,(incl.),,,
+119334,185,we,"ban baʔna kabbi",(incl.),,,
+119335,185,we,"seŋkoʔ kabbi",(excl.),,,
+66120,186,you,"baʔna kabbi",,,,
+66477,187,they,"abaʔna kabbi",,,,
+66834,188,what?,apa,,,1,1
+67191,189,who?,sapa,,,12,
+67548,190,other,laen,,L,2,
+67905,191,all,kabbi,"Javanese loan",L,31,
+68262,192,and,ban,,,,
+68619,193,if,[kala]mon,,,10,
+68976,194,how?,baramma,,,23?,
+69333,195,"no, not",enjaʔ,,,27,?
+69690,196,"to count",metoŋ,,,31,1
+70047,197,One,settoŋ,,,1,
+70404,198,Two,dhuwaʔ,,,1,1
+70761,199,Three,telloʔ,,,1,1
+71118,200,Four,empaʔ,,,1,1
+154432,201,Five,lɛma,,,1,
+154431,202,Six,ənnam,,,1,
+154430,203,Seven,pɛttɔʔ,,,1,
+154429,204,Eight,balluʔ,,,3,
+154428,205,Nine,saŋaʔ,,,12,
+154427,206,Ten,(sa)polo,,,5,
+154426,207,Twenty,dhupolo,,,,
+154424,208,Fifty,saikət,,,,
+154425,208,Fifty,saikət,,,,
+154423,209,"One Hundred",saatɔs,,,,
+154422,210,"One Thousand",saebu,,,,

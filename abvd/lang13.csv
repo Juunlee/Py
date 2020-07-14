@@ -1,0 +1,254 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+13,Hanunóo,"Blust, from: Conklin (1953)",hnn,hanu1241,"Conklin, H. (1953). Hanunóo-English Vocabulary. University of California Publications in Linguistics, Volume 9.University of California Press: Berkeley.",,"Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, South Mangyan, Hanunoo","Simon Greenhill","Simon Greenhill","@book{146364,  address               = {Berkeley and Los Angeles},  pages                 = {290},  publisher             = {University of California Press},  series                = {University of California Publications in Linguistics},  title                 = {Hanunóo-English vocabulary},  volume                = {9},  year                  = {1953},  bibtexkey             = {conklin_hanunoo-vocabulary1953},  document_type         = {B},  hhtype                = {dictionary},  inlg                  = {English [eng]},  inlg_code             = {eng},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 5700 .4 CON 1953},  src                   = {hh, mpieva, wals},  srctrickle            = {hh#d:Conklin:Hanunoo, mpieva#Conklin1953HanunooE, wals#1161},  subject_headings      = {Hanunóo language–Dictionaries–English, Hanunóo language–Dictionaries–English},  author                = {Conklin, Harold C.}}"
+latitude,longitude
+12.46876014482321970434,121.24511718750000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+93339,1,hand,kámang,,,,
+370,2,left,wála,,,"25,68",
+727,3,right,sikún,??,,71,
+1084,4,leg/foot,raparapá,,,104,
+1441,5,"to walk",l-um-ákaw,,,1,1
+1798,6,road/path,dálan,,,1,1
+93338,7,"to come",balík,,,,
+2512,8,"to turn",símaŋ,,,,
+2869,9,"to swim",l-um-aŋuy,,,1,1
+71804,10,dirty,ma-yagtíŋ,,,46,
+71805,10,dirty,ma-ʔúriŋ,,,46,
+71886,11,dust,gabúk,,,1,1
+71887,11,dust,pukapúk,,,1,1
+71941,12,skin,tárip,,,40,
+71942,12,skin,lukúb,,,83,
+4297,13,back,dayú,?,,"87,89",
+4654,14,belly,tiyán,,,1,1
+5011,15,bone,butʔúl,,,39,
+72127,16,intestines,bitúkaʔ,,,21,
+72128,16,intestines,púnaʔ,,,64,
+5725,17,liver,atáy,,,1,1
+6082,18,breast,súsu,,,1,1
+6439,19,shoulder,lábay,,,85,
+72275,20,"to know, be knowledgeable",magka-ʔalam-an,,L?,18,1
+72276,20,"to know, be knowledgeable",[ka]-táʔu,,,1,1
+72339,21,"to think",um-ísip,,,23,
+72340,21,"to think",mag-dumán,,,106,
+7510,22,"to fear",dálaʔ,,,91,
+7867,23,blood,dugúʔ,,,16,
+8224,24,head,úlu,,,1,1
+8581,25,neck,líʔug,,,1,1
+8938,26,hair,buhúk,,,"1,65",1
+9295,27,nose,irúŋ,,,1,1
+9652,28,"to breathe",arúp,,,,
+10009,29,"to sniff, smell",s-um-iŋhút,,,"31,82",
+72834,30,mouth,bibíg,,,32,
+72835,30,mouth,súlaŋ,,,,
+10723,31,tooth,ŋípun,,,"1,48",1
+11080,32,tongue,dílaʔ,,,4,1
+73010,33,"to laugh",akʔák,,,26,
+73011,33,"to laugh",s-um-arí,,,,
+11794,34,"to cry",mag-lúmi,,,79,
+12151,35,"to vomit",s-um-úka,,,9,
+12508,36,"to spit",mag-búga,,,,
+12865,37,"to eat",k-um-áʔun,,,1,1
+13222,38,"to chew",mag-táltaʔ,,,,
+13579,39,"to cook",maŋ...gátuŋ,,,92,
+13936,40,"to drink",um-inúm,,,1,1
+14293,41,"to bite",kagát,,,1,1
+14650,42,"to suck",s-um-upsúp,,,1,1
+15007,43,ear,túli,,,12,
+15364,44,"to hear",dunúg,,,1,1
+15721,45,eye,matá,,,1,1
+16078,46,"to see",maka-kít,"analogically reformed from maka-kitan (to see)",,"1,109",1?
+16435,47,"to yawn",man-lábgab,,,37,
+16792,48,"to sleep",ma-túrug,,,1,1
+17149,49,"to lie down",igyáʔ,,,,
+90856,49,"to lie down",huwáy,,,31,
+90857,49,"to lie down",pa-huwáy,,,31,
+17506,50,"to dream",tag-ínʔup,,,30,
+17863,51,"to sit",t-um-úkaw,,,50,
+18220,52,"to stand",t-úm-índúg,,,20,
+18577,53,"person/human being",táwu,,,1,1
+18934,54,man/male,laláki,,,"2,99",1
+19291,55,woman/female,babáyi,,,"1,105",1
+19648,56,child,anák,,,1,1
+20005,57,husband,asáwa,,,2,1
+20362,58,wife,asáwa,,,1,1
+20719,59,mother,ínaʔ,,,"1,76",1
+21076,60,father,ámaʔ,,,"1,18",1
+21433,61,house,baláy,,,14,
+21790,62,thatch/roof,atúp,,,1,1
+22147,63,name,ŋáran,,,1,1
+22504,64,"to say",mag-kún,,,,
+22861,65,rope,lúbid,,,21,
+23218,66,"to tie up, fasten",higút,,,1,1
+23575,67,"to sew",tahiʔ,,,1,1
+23932,68,needle,dáyum,,L,,
+90837,69,"to hunt",mang-idú,,,1,
+24646,70,"to shoot",pálkas,,,54,
+25003,71,"to stab, pierce",hárug,,,,
+25360,72,"to hit",hampák,,,36,
+25717,73,"to steal",tákaw,,,1,1
+26074,74,"to kill",maty-ún,,,2,
+26431,75,"to die, be dead",mátay,,,1,1
+26788,76,"to live, be alive",buhi,,,"14,74",
+27145,77,"to scratch",kágaw,,,1,1
+27502,78,"to cut, hack",ma-nígbas,,,,
+27859,79,stick/wood,káyu,,,1,1
+28216,80,"to split",báŋag,,,,
+28573,81,sharp,ma-tarúm,,,1,1
+92427,82,"dull, blunt",dúmpul,,,3,1
+92428,82,"dull, blunt",ma-púruʔ,,,"1,33",
+29287,83,"to work",mag-buwát,,,1?,
+29644,84,"to plant",mag-tanúm,,,2,1
+30001,85,"to choose",píliʔ,,,1,1
+30358,86,"to grow",t-um-úbuʔ,,,1,1
+76261,87,"to swell",isál,"swelling of the gland (armpit, groin)",,,
+76262,87,"to swell",bagáʔ,(?),,19,1?
+31072,88,"to squeeze",pugáʔ,,,"1,37",1
+31429,89,"to hold",mag-hiyáput,,,,
+31786,90,"to dig",mag-kutkút,,,13,
+32143,91,"to buy",b-um-ilí,,,1,1
+32500,92,"to open, uncover",bukás,,,"1,63",
+32857,93,"to pound, beat",mag-bayú,,,1,1
+33214,94,"to throw",pisík,,,,
+33571,95,"to fall",rágdag,,,56,
+90838,95,"to fall",ma-lagpák,,,136,
+33928,96,dog,íduʔ,,,21,
+34285,97,bird,manúk,,,1,1
+34642,98,egg,itlúg,,,1,1
+34999,99,feather,"bulbúl manúk",,,"1,68",?
+35356,100,wing,pakpák,,,33,
+35713,101,"to fly",l-um-áyaŋ,,,22,
+36070,102,rat,áŋbu[ʔ],,,23,
+36427,103,meat/flesh,túban,,,,
+90839,103,meat/flesh,tagúban,,,,
+36784,104,fat/grease,tabáʔ,,,23,
+37141,105,tail,íkug,,,1,1
+37498,106,snake,úlay,,,2,1
+37855,107,"worm (earthworm)",alukátiʔ,,,"1,75",?
+38212,108,louse,kútu,,,1,1
+38569,109,mosquito,namúk,,,"1,90",1
+38926,110,spider,láwa,,,1,1
+39283,111,fish,isdáʔ,,,18,
+77630,112,rotten,ma-ʔíbas,,,,1
+77631,112,rotten,buyúk,,,"1,102",1
+39997,113,branch,saŋá,,,2,
+40354,114,leaf,lábuŋ,,,63,
+40711,115,root,gamút,,,3,1
+77883,116,flower,búsaŋ,,,70,
+77884,116,flower,rágaw,,,,
+90840,117,fruit,búrak,,,1,
+41782,118,grass,ríkut,"weed(s)",,45,
+90855,118,grass,ma-ríkut,"\"bushy, scrubby, brambly\"",,45,
+42139,119,earth/soil,dagáʔ,,,24,
+42496,120,stone,batú,,,1,1
+42853,121,sand,barás,,,19,
+43210,122,water,danúm,,,1,1
+43567,123,"to flow",lagnás,,,80,
+105502,124,sea,lawúd,"open sea",,6,
+105503,124,sea,dágat,sea,,25,
+44281,125,salt,asín,,,3,
+44638,126,lake,dánaw,,,1,1
+107840,127,woods/forest,purúʔ,,,122,1
+107841,127,woods/forest,tálun,,,30,
+45352,128,sky,láŋit,,,1,1
+45709,129,moon,búlan,,,1,1
+46066,130,star,pamgasán,,,74,
+46423,131,cloud,paŋánud,,,27,
+46780,132,fog,alinyábuʔ,,,89,
+47137,133,rain,urán,,,1,1
+90841,134,thunder,lintiʔ,,,48,
+47851,135,lightning,kílat,,,1,1
+48208,136,wind,aráhay,breeze,,,
+90842,136,wind,durús,wind,,36,
+48565,137,"to blow",mag-ʔúyup,,,"1,44",1
+48922,138,warm,ma-ʔínit,,,23,
+49279,139,cold,ma-ramíg,,,22,
+118915,140,dry,ugá,,,23,
+118916,140,dry,gáŋu,,,1,
+118917,140,dry,layúŋ,,,,
+49993,141,wet,túpus,,,,
+50350,142,heavy,ma-buyát,,,1,1
+50707,143,fire,apúy,,,1,1
+51064,144,"to burn",tútud,,,95,
+79517,145,smoke,ánus,,,80,1
+79518,145,smoke,súnuy,,,,1
+118918,146,ash,ayúm,,,,
+118919,146,ash,dapúg,,,17,
+79618,147,black,agíwan,,,,
+79619,147,black,ma-bíru,,,101,
+79670,148,white,abúkay,,,,
+79671,148,white,ma-lagtí,,,36,
+52849,149,red,ma-rará,,,"1,107",
+53206,150,yellow,diláw,"from Tagalog",L,100,
+53563,151,green,latúy,,,75,
+53920,152,small,diʔít,"from Tagalog",L,,
+79981,153,big,daká,,,22,
+79982,153,big,láʔun,,,129,
+54634,154,short,abábaʔ,"short for animals and humans",,54,1
+90843,154,short,dagʔúd,"(in length)",,,
+54991,155,long,ʔába,,,27,
+90854,155,long,ʔábaʔ,,,27,
+55348,156,thin,ma-nipís,,,1,1
+55705,157,thick,ma-dámul,,,21,
+56062,158,narrow,diʔít,,,35,
+56419,159,wide,daká,,,72,
+56776,160,"painful, sick",ma-sakít,,,1,1
+80425,161,"shy, ashamed",húya,,,"1,23",1
+80426,161,"shy, ashamed",úyaʔ,,,"1,23",1
+80427,161,"shy, ashamed",ma-kayʔaʔ,,,"1,68",1
+57490,162,old,gúraŋ,,,21,
+57847,163,new,bágʔu,,,1,1
+58204,164,good,mayád,,,"46,29",
+58561,165,"bad, evil",daʔút,,,1,1
+80723,166,"correct, true",káŋud,,,,1
+80724,166,"correct, true",támaʔ,,,3,1
+80725,166,"correct, true",tu-túʔu,,,6,1
+59275,167,night,yabí,,,21,
+59632,168,day,síraŋ,,,,
+80904,169,year,abágat,,,,
+80905,169,year,turuŋún,,,,
+60346,170,when?,kapirá,,,"1,65",1
+60703,171,"to hide",táguʔ,,,13,
+61060,172,"to climb",dáyik,,,1?,
+61417,173,at,sa,,,14,
+61774,174,"in, inside","sa basád",,,,
+62131,175,above,tuŋúd,,,,
+62488,176,below,láwud,?,,,
+62845,177,this,índa,,,38,
+81431,178,that,túnda,,,16,
+81432,178,that,tida,,,55,
+63559,179,near,aráni,,,"1,35",1
+63916,180,far,aráyuʔ,,,"1,76",?
+64273,181,where?,naʔán,,,"1,68",
+64630,182,I,akú,,,"1,5",1
+64987,183,thou,káwu,,,"1,10",1
+81923,184,he/she,siyá,,,"1,31",1
+118920,185,we,kitá,,,"1,50",1
+118921,185,we,kamí,,,"2,51",
+66058,186,you,kámu,,,"1,38",1
+66415,187,they,sidá,,,1,1
+66772,188,what?,híntay,,,69,
+67129,189,who?,síntay,,,"14,47",
+67486,190,other,ibá,,,12,
+67843,191,all,tanán,,,24,
+82474,192,and,[k]ag,,,1,
+68557,193,if,nu,,,"2,70",1
+68914,194,how?,abitáy,,,75,
+90836,194,how?,(k)abitáy,,,75,
+82670,195,"no, not",baláw,,,110,
+82671,195,"no, not",bukún,,,26,
+82672,195,"no, not",unmán,,,,
+69628,196,"to count",ma-bílaŋ,,,1,1
+69985,197,One,usá,,,1,1
+70342,198,Two,duwá,,,1,1
+70699,199,Three,túlu,,,1,1
+71056,200,Four,úpat,,,1,1
+90844,201,Five,líma,,,1,
+90845,202,Six,ʔúnum,,,1,
+90846,203,Seven,pitú,,,1,
+90847,204,Eight,walú,,,3,
+90848,205,Nine,siyám,,,9,
+90849,206,Ten,sampúlu,,,5,
+90850,207,Twenty,"duwá (ka) púlu",,,"3,6",
+90851,208,Fifty,"líma (ka) púlu",,,"1,2",
+90852,209,"One Hundred","ʔusá ka gátus",,,4,
+90853,210,"One Thousand","ʔusá ka líbu",,,5,

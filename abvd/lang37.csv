@@ -1,0 +1,280 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+37,Bughotu,Blust,bgt,bugh1239,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Southeast Solomonic, Gela-Guadalcanal, Bughotu","Penny Keenan","Simon Greenhill","@misc{Blust-37-2005,  author = \"Robert A. Blust\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-8.49410453755188221692,159.80712890625000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+37,1,hand,"lima [ña]",,,1,1
+394,2,left,"toi [ña]","cognate only in two lists from Bughotu",,45,
+751,3,right,madotho[ña],,,9,
+1108,4,leg/foot,n|ae[ña],"irregular initial n-",,1,1?
+71537,5,"to walk",vano,"go",,2,1
+71538,5,"to walk",taveti,"only found in two Bughotu lists",,12,1
+71539,5,"to walk",aʔaso,"cf. Hoava and Kusaghe forms",l,125,1
+1822,6,road/path,"hatha utu",,,1,1
+176732,6,road/path,haŋana,"only found in Bughotu",,23,
+2179,7,"to come",mai,,,1,1
+71697,8,"to turn",goro,,,,1?
+71698,8,"to turn",bafa,,,,1?
+71699,8,"to turn",pi|liu,,,2,1?
+2893,9,"to swim",otho,,,74,
+71811,10,dirty,garu,,,,
+3607,11,dust,"mau|m|avu [ña]",,,,1
+3964,12,skin,guiguli[ña],"irregular *k > g",,1,1
+210766,13,back,poguru,,,98,
+4678,14,belly,"kutu [ña]",,,14,
+5035,15,bone,"huli [ña]",,,52,
+210765,16,intestines,"kutu loolopo",,,"43, 61",
+72158,17,liver,"ate [ña]",,,1,1
+72159,17,liver,kola[ña],"this looks like a loan from NWSolomonic languages",L,8,1
+6106,18,breast,"susuu [ña]",,,1,1
+72219,19,shoulder,"thego [ña]",,,,
+72220,19,shoulder,"alo [ña]",,,94,
+72284,20,"to know, be knowledgeable",thaothadoga,,,,
+72285,20,"to know, be knowledgeable",ado,,,101,
+72341,21,"to think",toga,,,38?,
+72342,21,"to think",gana,,,14,
+7534,22,"to fear",matagu,,,1,1
+7891,23,blood,gaugabua[ña],,,5,
+8248,24,head,"ulu [ña]",,,1,1
+8605,25,neck,lua[ña],,,18,
+8962,26,hair,"vulu [ña]",,,31,
+9319,27,nose,"ihu [ña]",,,1,1
+9676,28,"to breathe",atheathe,,,16,
+72792,29,"to sniff, smell",higini,,,12,
+72793,29,"to sniff, smell",guba,,,,
+10390,30,mouth,livo[ña],"< POc *lipon 'tooth'",,54,
+10747,31,tooth,"kei [ña]","looks to be a loan from NWSols, where a similar form is found in Santa Isabel languages",L,9,
+11104,32,tongue,thapi[ña],,,21,
+11461,33,"to laugh",kia,,,14,
+11818,34,"to cry",taŋi,,,1,1
+12175,35,"to vomit",lua,,,8,
+12532,36,"to spit",aŋusu,,,"14, 83",
+73212,37,"to eat",vaŋa,,,"1,53",1
+73213,37,"to eat",gani,,,1,1
+13246,38,"to chew",ŋguuŋgumu,,,,
+13603,39,"to cook",duee,,,,
+13960,40,"to drink",kou,"irregular loss of *k",,30,
+73531,41,"to bite",ñou,,,,1
+73532,41,"to bite",ñami,,,,1
+73533,41,"to bite",ñapi,,,,1
+73534,41,"to bite",gathati,,,1,1
+73612,42,"to suck",suuvi,"POC *sosop = intransitive, *sopi = Transitive. /suuvi/ < * sopi",,"1, 82",1?
+73613,42,"to suck",ŋaŋata,,,,1?
+73695,43,ear,iru[ña],,,,
+73696,43,ear,kuli[ña],,,6,
+15388,44,"to hear",rooroŋo,,,1,1
+15745,45,eye,mata[ña],,,1,1
+16102,46,"to see",regi-a,,,13,
+16459,47,"to yawn",maomaova,"irregular retention of POc word-final *p with addition of final vowel; possible NWSols loan",,19,1
+16816,48,"to sleep",eŋgo,,,,
+17173,49,"to lie down",eŋgo,,,,
+17530,50,"to dream",maturiŋita,,,"11, 12",
+17887,51,"to sit",sopou,,,19,
+18244,52,"to stand",tuu,,,2,1
+18601,53,"person/human being",tinoni,,,10,
+18958,54,man/male,mane,,,1,1
+19315,55,woman/female,vaivine[ña],,,"1,47",1
+19672,56,child,dathe[ña],,,28,
+20029,57,husband,tau[ña],,,18,
+20386,58,wife,tau[ña],,,12,
+74473,59,mother,ido[ña],"looks like a loan from Isabel languages",L,19,1
+74474,59,mother,tina[ña],,,1,1
+21100,60,father,tama[ña],,,1,1
+74597,61,house,teŋguru,,,,
+74598,61,house,vathe[ña],,,14,
+74657,62,thatch/roof,poguru,,,,1
+74658,62,thatch/roof,ato,,,1,1
+74755,64,"to say",a,,,,
+74756,64,"to say",vele,,,81,
+74757,64,"to say",hagore,,,,
+74874,65,rope,[g]atho,,,2,
+74875,65,rope,piru,,,50,
+74961,66,"to tie up, fasten",tari,,,33,
+74962,66,"to tie up, fasten",sira,,,,
+23599,67,"to sew",pama,,,,
+24313,69,"to hunt",paji,,,,
+24670,70,"to shoot",vuhu,,,28,
+75284,71,"to stab, pierce",suki,,,"1, 8",1
+75285,71,"to stab, pierce",suba,,,,1
+25384,72,"to hit",puipusi,,,,
+25741,73,"to steal",bilau,"looks to be a loan from Santa Isabel languages",L,"1,11",
+26098,74,"to kill",va-thehe,,,,
+26455,75,"to die, be dead",thehe,"looks to be loan from Santa Isabel languages",L,5,
+26812,76,"to live, be alive",havi,,,43,
+27169,77,"to scratch",ŋgaŋ|garu,,,44,
+75676,78,"to cut, hack",utuhi,,,54,
+75677,78,"to cut, hack",miumisu,,,,
+75678,78,"to cut, hack",kajari,,,,
+27883,79,stick/wood,gai,,,1,1
+28240,80,"to split",pahala,,,,
+28597,81,sharp,vaavaŋa,,,"14, 20",
+28954,82,"dull, blunt",ŋutu,,,32,
+210764,83,"to work",tango,,,,
+210763,84,"to plant",jou,,,,
+30025,85,"to choose",vili,,,1,1
+76206,86,"to grow",bulou,,,10,
+76207,86,"to grow",kotu,,,,
+76208,86,"to grow",biobiroro,,,16,
+30739,87,"to swell",vora,,,,?
+31096,88,"to squeeze",poji,,,18,
+31453,89,"to hold",gani,,,,
+31810,90,"to dig",geli,,,1,1
+32167,91,"to buy",voli,,,1,1
+76617,92,"to open, uncover",haŋa-vi,,,40,
+76618,92,"to open, uncover",horupe,,,,
+32881,93,"to pound, beat",tupi,,,,
+33238,94,"to throw",soni,,,50,
+76812,95,"to fall",hotu,,,17,
+76813,95,"to fall",kutu,,,17,
+76900,96,dog,iu,,,46,
+76901,96,dog,aku,,,44,
+34309,97,bird,babaa,,,,
+34666,98,egg,kidoru[ña],,,"1,96",
+77037,99,feather,sesehu[ña],,,,1
+77038,99,feather,vulu[ña],,,1,1
+77107,100,wing,lima[ña],,,,
+77108,100,wing,alo[ña],,,,
+35737,101,"to fly",thovo,,,1,1
+36094,102,rat,kuhi,,,"3,64",
+36451,103,meat/flesh,vinahi[ña],,,17,
+36808,104,fat/grease,ragova,,,17,
+37165,105,tail,iuigu[ña],,,1,1
+77380,106,snake,umata,,,12,
+77381,106,snake,poli,,,44,
+37879,107,"worm (earthworm)",keju,,,31,
+38236,108,louse,gutu,,,1,1
+38593,109,mosquito,ñamu,,,1,1
+77556,110,spider,ŋgofe,,,,
+77557,110,spider,kaekavere,,,44,
+39307,111,fish,iga,,,1,1
+39664,112,rotten,sebe,,,,
+40021,113,branch,otooto[ña],,,5,
+40378,114,leaf,elo[ña],,,11,
+40735,115,root,oga[ña],"(cp.#47) +wa>0",,2,1
+41092,116,flower,ruŋgu,,,30,
+77931,117,fruit,sagaro[ña],,,21,
+77932,117,fruit,gano[ña],,,,
+77960,118,grass,sesehu[ña],"N; probably a loan from Santa Isabel languages",L,17,
+77961,118,grass,buuburu,N,,19,
+77962,118,grass,ŋguŋguru,N,,6,
+42163,119,earth/soil,tano,,,1,1
+42520,120,stone,gahira,"likely loan from Santa Isabel language",L,18,
+42877,121,sand,nahiga,,,57,
+43234,122,water,bea,,,39,
+43591,123,"to flow",sosolagi,,,,
+43948,124,sea,tahi,,,1,1
+44305,125,salt,tahi,,,20,
+44662,126,lake,kolo,,,11,
+78456,127,woods/forest,hothoho,,,,
+78457,127,woods/forest,jao,,,,
+45376,128,sky,maaloa,,,37,
+45733,129,moon,vula[ña],,,1,1
+46090,130,star,veitugu[ña],,,"1, 50",
+46447,131,cloud,parako,,,74,
+46804,132,fog,dara,,,,
+47161,133,rain,uha,,,1,1
+78787,134,thunder,kukuro,,,"2, 63",?
+78788,134,thunder,rete,,,54,?
+78789,134,thunder,ŋgumu,,,55,?
+47875,135,lightning,oŋa,,,43,
+48232,136,wind,guri,,,12,
+78978,137,"to blow",tavuge,,,,
+78979,137,"to blow",ifu,"with irregular metathesis of vowels",,5,
+78980,137,"to blow",sune,,,,
+48946,138,warm,guguvu,,,65,
+49303,139,cold,gaula,,,61,
+49660,140,dry,dadaga,,,46,
+210768,141,wet,gnubu,"to be wet",,68,
+79348,142,heavy,bohe,,,70,
+79349,142,heavy,tahu,"probably a loan from Santa Isabel languages",L,15,
+50731,143,fire,joto,,,39,
+79446,144,"to burn",siriki,,,,
+79447,144,"to burn",juru,,,70,
+51445,145,smoke,ahu[ña],,,2,1
+51802,146,ash,pa|rafu,,,67,?
+52159,147,black,joŋo,,,53,
+52516,148,white,pura,,,3,
+79727,149,red,mela,,,1,1
+79728,149,red,metha,,,1,1
+79775,150,yellow,ŋoŋone,,,,
+79776,150,yellow,aŋoaŋo,,,9,
+79812,151,green,ñaeñale,,,,
+79813,151,green,ñaumu,,,,
+53944,152,small,iso,,,53,
+79989,153,big,hutu,,,52,
+79990,153,big,kama,,,,
+54658,154,short,kudo,,,13,
+55015,155,long,teve,,,68,
+55372,156,thin,manivi,,,1,1
+55729,157,thick,tuta,"probably a loan from Santa Isabel languages",L,16,
+56086,158,narrow,kapisa,"irregular *a > o",,1,
+80307,159,wide,aba,,,,
+80308,159,wide,tavotha,,,,
+56800,160,"painful, sick",vahagi,"irregular *m > v",,"1, 67",1?
+80434,161,"shy, ashamed",giagina,,,,
+80435,161,"shy, ashamed",maomamo,,,,
+254316,162,old,haulagi,,,,
+254317,162,old,tuali,,,48,
+57871,163,new,mathaŋani,"probably a loan from Santa Isabel languages",L,29,
+58228,164,good,toke,,,75,
+80670,165,"bad, evil",dika,,,14,
+80671,165,"bad, evil",soŋge,,,,
+58942,166,"correct, true",tutuni,,,37,
+59299,167,night,boŋi,,,1,1
+59656,168,day,magavu[ña],,,,
+172564,169,year,vinoga,,,49,
+60370,170,when?,iŋiha,"irregular initial vowel",,"1,24",1
+60727,171,"to hide",polo,,,,
+81024,172,"to climb",raba,,,37,
+81025,172,"to climb",habira,,,,
+61441,173,at,i,,,1,1
+81179,174,"in, inside",suŋga,,,,
+81180,174,"in, inside",kora[ña],,,"24, 17",
+62155,175,above,popo,,,2,1?
+62512,176,below,sara,,,10,
+62869,177,this,ani,,,1,1
+81447,178,that,are,,,,
+81448,178,that,ŋeni,,,1,
+81575,179,near,laubano,,,,
+81576,179,near,hiliga[ña],,,76,
+81577,179,near,garani,,,"1, 75",
+63940,180,far,hau,,,1,1
+64297,181,where?,ivei,,,3,
+64654,182,I,i-nau,,,"1, 22",1
+65011,183,thou,i-goe,,,1,
+119384,184,he/she,ina,,,"1,66",1
+119385,184,he/she,nea,,,"1, 6",
+119386,184,he/she,ia,,,1,
+119387,185,we,i-gita,,,1,1
+119388,185,we,i-gami,,,2,
+66082,186,you,i-gamu,,,1,1
+82125,187,they,[ima]ira,,,"1, 70",1
+82126,187,they,[ra]ira,,,"1, 70",1
+66796,188,what?,hava,,,1,1
+67153,189,who?,hai,,,1,1
+67510,190,other,tavoga,,,,
+82379,191,all,udolu,,,15,
+82380,191,all,hihovu,,,,
+82483,192,and,ma,,,2,1
+82484,192,and,me,,,2,1
+253113,193,if,da,,,,
+253114,193,if,nggi,,,,
+68938,194,how?,"vagana na hava",,,,
+69295,195,"no, not",teo,,,79,
+69652,196,"to count",iju,,,46,1
+70009,197,One,tafi,,,,
+3213758,197,One,sikei,"also means: \"a, the first, once, the one ... the other, each\"",,,
+70366,198,Two,rua,,,1,1
+70723,199,Three,tolu,,,1,1
+71080,200,Four,vati,,,"1,65",1
+172568,201,Five,lima,,,1,
+172567,202,Six,ono,,,1,
+83659,203,Seven,vitu,"Seven.(Source: Pollex)",,1,
+3213757,204,Eight,alu,,,,
+172566,205,Nine,hia,,,5,
+254315,206,Ten,hangavulu,,,5,
+3213755,206,Ten,hangavulu,"Only used for numbers which are units of 10 and not units of 20.",,,
+3213756,206,Ten,salage,"combination of the article 'sa' and 'lage'",,,
+3213753,208,Fifty,"lima hangavulu",,,,
+172565,209,"One Hundred",hathangatu,"irregular loss of *R",,"4, 38",
+3213754,210,"One Thousand",toga,,,,

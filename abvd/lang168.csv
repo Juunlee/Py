@@ -1,0 +1,219 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+168,Manam,Blust,mva,mana1295,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Schouten, Kairiru-Manam, Manam","Penny Keenan","Simon Greenhill","@misc{Blust-168-2005,  author = \"Robert A. Blust\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-4.00000000000000000000,145.00000000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+168,1,hand,debu,,,,
+525,2,left,ŋasi,,,19,
+882,3,right,wanan,,,1,1
+1239,4,leg/foot,ae,,,1,1
+1596,5,"to walk",alale,,,115,
+1953,6,road/path,jala,,,1,1
+2310,7,"to come",mai,,,1,1
+71742,8,"to turn",buiri,,,28,
+71743,8,"to turn",balu[ri],,,,
+3024,9,"to swim",ŋara,,,15,
+3381,10,dirty,jiʔa,,,,
+3738,11,dust,gapu,,,59,1?
+4095,12,skin,ʔusi,,,50,
+4452,13,back,nuʔu,,,,
+4809,14,belly,dabuli,,,,
+5166,15,bone,tapou,,,,
+5523,16,intestines,tine,,,1,1
+5880,17,liver,mʷage,,,1,
+6237,18,breast,ruru,,,1,1
+6594,19,shoulder,bage,,,30,
+6951,20,"to know, be knowledgeable",ʔawa,,,,
+7308,21,"to think","ilo pile",,,,
+7665,22,"to fear",taburi,,,,
+8022,23,blood,dara,,,1,1
+92689,24,head,sema,,,69,
+92690,24,head,semam,,,69,
+9093,26,hair,doŋa,,,,
+9450,27,nose,mʷagaru,,,,
+9807,28,"to breathe","wasa doʔɪ",,,,
+10164,29,"to sniff, smell",bou,,,103,
+10521,30,mouth,awa,,,36,
+10878,31,tooth,ile,,,,
+11235,32,tongue,meme,,,7,?
+11592,33,"to laugh",au,,,61,
+11949,34,"to cry",taŋ,,,1,1
+12306,35,"to vomit",ʔulena,,,7,
+12663,36,"to spit",mʷaŋo,,,,
+73245,37,"to eat",ʔaŋ,,,1,1
+73246,37,"to eat",mʷanaʔo,,,8,1
+13377,38,"to chew",kisa,,,,
+13734,39,"to cook",mʷamʷa,,,6,
+14091,40,"to drink",siŋ,,,,1?
+14448,41,"to bite",ʔarati,,,1,1
+14805,42,"to suck",nono,,,"1, 22",?
+15162,43,ear,ʔuŋi,,,,
+15519,44,"to hear",loŋo,,,"1, 36",1
+15876,45,eye,mata,,,1,1
+16233,46,"to see",tea,,,1,
+16590,47,"to yawn",mawa,,,19,1
+16947,48,"to sleep",eno,,,8,
+17304,49,"to lie down",eno,"Source ACD",,1,
+18018,51,"to sit",tui,,,,
+18375,52,"to stand",soaʔi,,,,
+18732,53,"person/human being",tamʷata,,,"1,66",1
+19089,54,man/male,mʷane,,,1,1
+19446,55,woman/female,aine,,,"1,106",1
+19803,56,child,natu,,,5,
+20160,57,husband,roa,,,2?,1
+20517,58,wife,roa,,,1,1
+20874,59,mother,tina,,,1,1
+21231,60,father,tama,,,1,1
+21588,61,house,pera,,,29,
+21945,62,thatch/roof,regina,,,,
+22302,63,name,ara,,,"1,18",1
+22659,64,"to say",pile,,,81,
+23016,65,rope,warige,,,2,
+23373,66,"to tie up, fasten",uau,,,11,
+23730,67,"to sew",ʔalauri,,,,
+24087,68,needle,pasala,,,,
+24444,69,"to hunt",ŋado,,,,
+24801,70,"to shoot",pana,,,1,1
+25158,71,"to stab, pierce",uni,,,19,
+25515,72,"to hit",uni,,,23,
+25872,73,"to steal",anaʔo,,,"1,58",1
+26229,74,"to kill","u matei",,,2,
+26586,75,"to die, be dead",mate,,,1,1
+27300,77,"to scratch",ʔuare,,,12,
+27657,78,"to cut, hack",toto,,,3,1
+28014,79,stick/wood,ʔai,,,1,1
+28371,80,"to split",sare,,,,
+28728,81,sharp,saru,,,,
+29085,82,"dull, blunt","mata tago","'sharp' + 'not'",,x,
+76060,83,"to work",malipi,,,61,
+76061,83,"to work",ʔuari,,,,
+29799,84,"to plant",tanotano,,,2,1
+30156,85,"to choose",keliaki,,,,
+30513,86,"to grow",moga,,,,
+30870,87,"to swell",ʔauri,,,,
+31227,88,"to squeeze",pisaʔi,,,"29,34",
+31584,89,"to hold",doʔi,,,,
+31941,90,"to dig",ʔeli,,,1,1
+76651,92,"to open, uncover",kaka,,,,
+76652,92,"to open, uncover",oásari,,,,
+33012,93,"to pound, beat",tutuʔi,,,"20, 2",1
+33369,94,"to throw",roʔaʔi,,,,
+76850,95,"to fall",tapulo,,,81,
+76851,95,"to fall",tamoŋ,,,,
+34083,96,dog,ʔeu,,,17,
+34440,97,bird,maŋ,,,1,1
+34797,98,egg,patu,,,32,
+35154,99,feather,lalau,,,24,
+35511,100,wing,bazi,,,20,
+77144,101,"to fly",royo,,,1,1?
+77145,101,"to fly",roró,,,1,1?
+36225,102,rat,ŋeri,,,,
+36582,103,meat/flesh,ŋado,,,,
+36939,104,fat/grease,rara,,,,
+37296,105,tail,eʔu,,,1,
+37653,106,snake,mʷata,,,12,
+77431,107,"worm (earthworm)",ragiragi,,,,
+77432,107,"worm (earthworm)",mʷatamʷata,,,10,
+38367,108,louse,ʔutu,,,1,1
+38724,109,mosquito,naŋ,,,1,1
+39081,110,spider,labʷaro,,,1,
+39438,111,fish,iʔa,,,1,1
+39795,112,rotten,mopuru,,,"1, 65",1
+40152,113,branch,sapara,,,16,
+40509,114,leaf,dau,,,1,1
+40866,115,root,ziri,,,,
+41223,116,flower,mʷare,,,31,
+41580,117,fruit,"ʔai patu",,,8,
+41937,118,grass,siresire,,,20,
+42294,119,earth/soil,ʔateʔa,,,,
+42651,120,stone,patu,,,1,1
+43008,121,sand,lulu,,,47,
+43365,122,water,daŋ,,,"1,61",1
+44079,124,sea,mara,,,8,
+44436,125,salt,maʔasi,,,"3,45",
+45150,127,woods/forest,siŋaba,,,,
+45507,128,sky,laŋ,,,1,1
+45864,129,moon,ʔalea,,,12,
+46221,130,star,goai,,,84,
+46578,131,cloud,waru,,,,
+46935,132,fog,ʔasuʔasu,"< POc *qasu 'smoke'",,15,
+47292,133,rain,ura,,,1,1
+47649,134,thunder,lamalama,,,68,
+48006,135,lightning,pitiʔawa,,,,
+48363,136,wind,wasa,,,19,
+48720,137,"to blow",euri,,,71,
+49077,138,warm,ragogo,,,,
+49434,139,cold,tumura,,,,
+49791,140,dry,bara,,,,
+50148,141,wet,dandan,,,19,
+50505,142,heavy,mʷatubu,,,,
+50862,143,fire,ewa,,,1,
+51219,144,"to burn",mʷamʷa,,,76,
+51576,145,smoke,ʔasu,,,2,1?
+51933,146,ash,apʷaŋ,,,,
+52290,147,black,jimjim,,,16,
+52647,148,white,wawawa,,,,
+53004,149,red,daradara,,,25,
+53361,150,yellow,aŋoaŋo,,,9,
+53718,151,green,ʔarairai,,,,
+54075,152,small,muʔumuʔu,,,,
+54432,153,big,biabia,,,,
+80114,154,short,tuʔura,,,66,
+80115,154,short,tupeʔa,,,,
+55146,155,long,salaga,,,20,
+55503,156,thin,manipi,,,1,1
+55860,157,thick,matoli,,,3,
+56217,158,narrow,muʔumuʔu,,,,
+56574,159,wide,biabia,,,,
+80387,160,"painful, sick",kara,,,,
+80388,160,"painful, sick",more,,,,
+57288,161,"shy, ashamed",maya,,,1,
+57645,162,old,toŋiraŋira,,,,
+58002,163,new,wawau,,,"1,26",
+58359,164,good,iawia,,,1,
+58716,165,"bad, evil",gʷala,,,,
+59073,166,"correct, true",moimoi,,,58,
+59430,167,night,wabubu,,,,
+59787,168,day,"amari soasoa",,,,
+60144,169,year,barasi,,,14,
+60501,170,when?,aira,,,1,1
+60858,171,"to hide",koma,,,,
+61215,172,"to climb",eneʔi,,,1?,1?
+61572,173,at,i,,,1,1
+81216,174,"in, inside","i lo",,,1,1
+81217,174,"in, inside",lama,,,,1
+81267,175,above,atabala,,,1,
+81268,175,above,eta,,,1,
+62643,176,below,eruma,,,,
+63000,177,this,ŋe,,,,
+63357,178,that,ŋara,,,1?,
+63714,179,near,sariŋa,,,22,
+64071,180,far,ʔa|sau,,,"1,6",1
+64428,181,where?,inaŋa,,,,
+64785,182,I,ŋau,,,12,1
+65142,183,thou,kaiko,,,1,1
+65499,184,he/she,ŋai,,,,
+82009,185,we,ʔita,,,1,1
+82010,185,we,kita,,,1,1
+82011,185,we,ʔe,,,,1
+82012,185,we,keka,,,1,1
+66213,186,you,"ʔan kam",,,x,1
+82152,187,they,dia,,,25,?
+82153,187,they,sie,,,,?
+66927,188,what?,raʔana,,,,
+67284,189,who?,naita,,,54,
+67641,190,other,alu,,,,
+67998,191,all,moruŋa,,,,
+68355,192,and,ʔa,,,1,1
+69069,194,how?,baituʔa,,,,
+69426,195,"no, not",tago,,,4,
+69783,196,"to count",ware,,,10,
+70140,197,One,teʔe,,,53,
+70497,198,Two,rua,,,1,1
+70854,199,Three,toli,,,1,1
+71211,200,Four,wati,,,"1,65",1
+92691,201,Five,lima,,,1,
+92692,202,Six,"lima be teɬe",,,,
+92693,203,Seven,"lima be rua","5 + 2",,"5,2",
+92694,204,Eight,"lima be toli",,,,
+92695,205,Nine,"lima be oati",,,11,

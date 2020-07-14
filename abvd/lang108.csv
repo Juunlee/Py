@@ -1,0 +1,204 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+108,"Paamese (South)","T. Crowley",pma,paam1238,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, North and Central Vanuatu, Northeast Vanuatu-Banks Islands, East Vanuatu","Peng Du","Simon Greenhill","@misc{Crowley-108-2005,  author = \"Terry Crowley\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-16.52036591244210228524,168.33801269531250000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+108,1,hand,hee-,,,"16,72",
+465,2,left,ma|ile,,,"1,59",
+822,3,right,ma|tuu,,,"5, 37",1
+1179,4,leg/foot,hee-,,,,?
+1536,5,"to walk",ali,,,"10, 63",
+1893,6,road/path,aiisele,,,1,
+2250,7,"to come",mai,,,1,1
+2607,8,"to turn",hilesi,,,24,
+2964,9,"to swim",olo,,,8,
+3321,10,dirty,musīte,,,82,
+3678,11,dust,vulimolasu,"cf 146",,20,
+4035,12,skin,hiliive-,,,"1, 80, 71",
+4392,13,back,aisilu-,,,130,
+4749,14,belly,vange,,,76,
+5106,15,bone,sii-,,,52,
+5463,16,intestines,tine-,,,1,1
+5820,17,liver,leato-,,,38,
+6177,18,breast,suusuu,,,1,1
+6534,19,shoulder,vatisii-,,,"65,40",
+6891,20,"to know, be knowledgeable",longolongo,"from to hear",,19,
+7248,21,"to think",demi,,,13,
+7605,22,"to fear",matau,,,1,1
+7962,23,blood,raa-,,,1,1
+8319,24,head,vatu-,,,9,
+8676,25,neck,hiree-,,,43,
+9033,26,hair,hilu-,,,31,
+9390,27,nose,vulingasu-,,,"27, 52",
+9747,28,"to breathe",sehe,,,35,
+10104,29,"to sniff, smell",muusi,,,65,
+10461,30,mouth,ungo-,,,80,
+10818,31,tooth,luho-,,,"1,35",1?
+11175,32,tongue,mee-,,,7,
+11532,33,"to laugh",hiteali,,,84,
+11889,34,"to cry",isi,,,66,
+12246,35,"to vomit",luue,,,8,
+12603,36,"to spit",tive,,,15,
+12960,37,"to eat",ani,,,1,1
+13317,38,"to chew",ngasi,,,12,
+13674,39,"to cook",kuuke,"<Bislama cook",L,,
+14031,40,"to drink",muni,,,"1,49",?
+14388,41,"to bite",ati,,,"1, 55",1
+14745,42,"to suck",suusuu,,,25,1
+15102,43,ear,ralingo-,,,"1, 40",1
+15459,44,"to hear",longe,,,1,1
+15816,45,eye,meto-,,,1,1
+16173,46,"to see",lesi,,,"14, 94",
+16530,47,"to yawn",maamaa,,,19,1
+16887,48,"to sleep",matilu,,,1,1
+17244,49,"to lie down",matilu,,,37,
+17601,50,"to dream","matilu volarola",,,"11, 10",
+17958,51,"to sit",tootano,,,"80, 105",
+18315,52,"to stand",toomalu,,,25,
+18672,53,"person/human being",molatine,,,"7, 8",
+19029,54,man/male,molahose,,,96,
+19386,55,woman/female,ahine,,,"1,106",1
+19743,56,child,lohono,,,,
+20100,57,husband,asoo-,,,2,1
+20457,58,wife,asoo-,,,1,1
+20814,59,mother,la|tino-,,,"1, 47",1
+21171,60,father,tamo-,,,1,1
+21528,61,house,a|imo,,,1,1
+21885,62,thatch/roof,hoi,,,,
+22242,63,name,iso-,,,66,?
+22599,64,"to say",hiteni,,,16,
+22956,65,rope,voiaau,,,,
+23313,66,"to tie up, fasten",pare,,,35,
+23670,67,"to sew",tilii,,,13,
+24384,69,"to hunt",laau,,,10,
+24741,70,"to shoot",tuvo,,,10,
+25098,71,"to stab, pierce",sali,,,14,
+25455,72,"to hit",tii,,,,
+25812,73,"to steal",henaa,,,"1,58",1
+26169,74,"to kill",uasi,,,12,
+26526,75,"to die, be dead",mate,,,1,1
+26883,76,"to live, be alive",mauli,,,"1, 76",1
+27240,77,"to scratch",kali,,,12,?
+27597,78,"to cut, hack",toi,,,1,1
+27954,79,stick/wood,aai,,,1,1
+28311,80,"to split",vaasi,"V+ vaasi",,4,
+28668,81,sharp,kaane,,,14,
+29025,82,"dull, blunt",hute,,,16?,
+29382,83,"to work",umo,,,1,1
+29739,84,"to plant",luhi,,,9,
+30453,86,"to grow",ulue,,,30,
+30810,87,"to swell",tevi,,,,
+31167,88,"to squeeze",kumi,,,14?,
+31524,89,"to hold",hulikati,,,34,
+31881,90,"to dig",ili,,,1,1
+32238,91,"to buy",huli,(u<+o?),,1,1?
+32595,92,"to open, uncover",sehe,,,58,
+32952,93,"to pound, beat",tii,"(<A?) or 20?",,"20, 2?",1?
+33309,94,"to throw",sooni,,,50,
+33666,95,"to fall",laapoo,,,,
+34023,96,dog,hulii,,,7,
+34380,97,bird,a|manu,,,1,1
+34737,98,egg,oreli-,"(e<+0 cf Tryon 1976,#130)",,1?,1?
+35094,99,feather,hili-,,,1,1?
+35451,100,wing,levaue-,,,,
+35808,101,"to fly",kaa,,,14,
+36165,102,rat,asue,,,"3, 77",
+36522,103,meat/flesh,husio,,,10,
+36879,104,fat/grease,amuri,,,72,
+37236,105,tail,vatikee-,,,,
+89859,106,snake,tetali,,,13,
+89860,106,snake,amoti,,,12,
+125614,107,"worm (earthworm)",asilat,,,"1,8",
+38307,108,louse,a|utu,,,1,1
+38664,109,mosquito,a|namu,,,1,1
+39021,110,spider,valiaa,,,1?,?
+39378,111,fish,a|ie,,,"1, 68",1
+39735,112,rotten,voo,,,52,?
+40092,113,branch,lasi-,,,,
+40449,114,leaf,lau-,,,1,1
+40806,115,root,lii-,,,17?,
+41163,116,flower,hunga-,,,1,1
+41520,117,fruit,hai-,,,37?,
+41877,118,grass,munai,,,31,
+42234,119,earth/soil,atano,,,1,1
+42591,120,stone,ahatu,,,1,1
+42948,121,sand,veine,,,"1, 83",?
+43305,122,water,oai,,,2,1
+43662,123,"to flow",oloolo,,,32,?
+44019,124,sea,atasi,,,1,1
+44376,125,salt,atasi,,,20,
+45090,127,woods/forest,leioi,,,,
+45447,128,sky,tel|langi,,,"1, 61",1
+45804,129,moon,avatio,,,"6, 29",
+46161,130,star,hitue,"(e<+0, #98)",,1,1
+46518,131,cloud,mahumahu,,,39,?
+46875,132,fog,taaroho,,,,
+47232,133,rain,a|use,"(e&< +a?)",,1,1?
+47589,134,thunder,vauluulu,,,2,1
+47946,135,lightning,ahile,,,26,
+48303,136,wind,alangi,(<+laNit?),,"1, 77",?
+48660,137,"to blow",uhi,,,4,
+49017,138,warm,tinu,,,12,
+49374,139,cold,madili,,,1,1
+49731,140,dry,mese,,,11,
+50088,141,wet,merumeru,,,35,
+50445,142,heavy,melasi,,,33,
+50802,143,fire,ahango,,,21,
+51159,144,"to burn",ani,,,,
+51516,145,smoke,tup|asu,,,2,?
+51873,146,ash,vulimolasu,cf.#11,,30,
+52230,147,black,malikeliko,,,41,
+52587,148,white,oho,,,13,
+52944,149,red,hilihilii,,,18,
+53301,150,yellow,angoango,,,9,
+53658,151,green,talauai,,,,
+54015,152,small,havivii,,,108,
+54372,153,big,marisoo,,,,
+54729,154,short,tamurelo,,,,
+55086,155,long,tavelehi,,,60,
+55443,156,thin,mahinihini,,,1,1
+55800,157,thick,matetelu,,,3,
+56157,158,narrow,havivii,,,,
+56514,159,wide,marisoo,,,,
+80363,160,"painful, sick",maahi,,,1,1
+80364,160,"painful, sick",mesai,,,1,1
+57228,161,"shy, ashamed",memau,,,35?,
+57585,162,old,matuu,,,1,1
+57942,163,new,haau,,,1,1?
+58299,164,good,tahosi,,,65,
+58656,165,"bad, evil",tii|saa,"cfTryon '76",,1,1?
+80752,166,"correct, true",malu,,,,
+80753,166,"correct, true",anatine,,,,
+59370,167,night,vongi|ene,,,1,1
+59727,168,day,arongi,,,6,
+60084,169,year,auhu,,,41,
+60441,170,when?,ne|ngaise,,,"1,43",1
+60798,171,"to hide",tookusu,,,6,
+61155,172,"to climb",holau,,,38,
+61512,173,at,eni,,,,
+61869,174,"in, inside",naimo,,,18,
+62226,175,above,nesaa,,,11,
+62583,176,below,netano,,,9,
+63654,179,near,vesesali,,,55,
+64011,180,far,sau|tine,"cf Tryon '76",,1,1?
+64368,181,where?,kavee,,,3,
+64725,182,I,inau,,,"1,21,22",1
+65082,183,thou,kaiko,,,"1, 17, 26",1
+65439,184,he/she,kaie,,,"1, 29",1
+118851,185,we,ialu,,,,
+118852,185,we,komalu,,,2,
+66153,186,you,"kamilu [dl]",,,"1,13",?
+66510,187,they,"kailue [dl]",,,1?,
+66867,188,what?,a|saa,,,1,1?
+67224,189,who?,isei,,,1,1
+67581,190,other,savo,,,37,
+67938,191,all,vasiie,,,47?,
+68295,192,and,kaa,,,1,?
+68652,193,if,munake,,,,
+69009,194,how?,mukavee,,,"58, 82, 83",
+69366,195,"no, not",vuoli,,,,
+69723,196,"to count",hulii,,,"1, 13",
+70080,197,One,taai,,,14,
+70437,198,Two,elue,,,1,1
+70794,199,Three,etelu,,,1,1
+71151,200,Four,ehati,,,"1,65",1

@@ -1,0 +1,270 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+163,Tuvalu,"Geoffrey Jackson",tvl,tuva1244,"g = velar nasalmacron indicates long vowels",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, Samoic-Outlier, Ellicean","Mary Walworth",,"Jackson, Geoffrey. 2001. Tuvaluan Dictionary. Suva, Fiji: Oceania Printers."
+latitude,longitude
+-8.52941682451236182771,179.18426513671875000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+163,1,hand,lima,hand,,1,1
+90400,2,left,fakamaui,,,"1,59",
+877,3,right,,,,,1
+83950,4,leg/foot,vae,,,"1,100",
+83951,4,leg/foot,,,,,
+1591,5,"to walk",sale,,,"6,76",
+3229868,5,"to walk",saere,,,,
+1948,6,road/path,ala,,,1,1
+90401,8,"to turn",fuli,,,15,
+3019,9,"to swim",kau,,,5,1
+3376,10,dirty,lailai,,,,1
+4090,11,dust,pefu,,,"1, 74",
+90402,11,dust,,,,,
+88022,14,belly,tinae,,,"19,34",1
+88023,14,belly,,,,,
+88024,14,belly,manava,,,9,
+88025,14,belly,alo,,,10,
+5161,15,bone,ivi,,,"52,5",1
+88317,16,intestines,gakau,,,12,
+88318,16,intestines,,,,,
+5875,17,liver,ate,,,1,1
+6232,18,breast,u,,,1,1
+88387,20,"to know, be knowledgeable",,,,,
+88388,20,"to know, be knowledgeable",iloa,,,13,
+88389,20,"to know, be knowledgeable",,,,,
+7303,21,"to think",manatu,,,9,1
+7660,22,"to fear",mataku,,,1,1
+8017,23,blood,toto,,,4,1
+8374,24,head,ulu,,,1,1
+88591,25,neck,,,,,
+88592,25,neck,ua,,,18,
+88609,26,hair,,,,,1
+88610,26,hair,,,,,
+88611,26,hair,lauulu,,,40,
+9445,27,nose,ihu,,,1,1
+9802,28,"to breathe",mānava,,,1,
+10159,29,"to sniff, smell",hogi,,,9,
+3229869,29,"to sniff, smell",manogi,,,,
+10873,31,tooth,nifo,,,1,1
+11230,32,tongue,alelo,,,15,1
+11587,33,"to laugh",kata,,,7,1
+12301,35,"to vomit",lua,,,8,1
+88903,36,"to spit",puaki,,,16,
+88904,36,"to spit",,,,,
+13015,37,"to eat",kai,,,"1,47",1
+90403,38,"to chew",lamu,,,7,
+90404,39,"to cook",tunu,,,9,
+14086,40,"to drink",inu,,,1,1
+14800,42,"to suck",miti,,,8,1
+15157,43,ear,taliga,,,1,1
+15871,45,eye,mata,,,1,1
+73933,47,"to yawn",māvava,,,19,
+73934,47,"to yawn",,,,,
+16942,48,"to sleep",moe,,,"10, 109",1
+17656,50,"to dream",moemiti,,,36,1
+18013,51,"to sit",nofo,,,16,1
+3229870,51,"to sit",sagasaga,,,,
+18370,52,"to stand",tu,,,2,1
+18727,53,"person/human being",tino,,,,1
+19084,54,man/male,tagata,,,"12,14",1
+91055,55,woman/female,fafine,,,"1,106",
+91056,55,woman/female,,,,,
+19798,56,child,tamaliki,,,"6,63",
+20155,57,husband,avaga,,,13,1
+20512,58,wife,avaga,,,,1
+90405,59,mother,mātua,,,4,
+21226,60,father,tamana,,,1,1
+21583,61,house,fale,,,14,1
+21940,62,thatch/roof,lau,,,55,1
+22297,63,name,igoa,,,6,1
+23011,65,rope,maea,,,10,
+91474,66,"to tie up, fasten",fakamau,,,149,1
+91475,66,"to tie up, fasten",fakapiki,,,,
+91476,66,"to tie up, fasten",,,,,
+23725,67,"to sew",tui,,,"13, 16",1
+3229871,67,"to sew",sui,"L from Samoa",L,,
+24082,68,needle,nila,"L from English",L,,1
+90406,69,"to hunt",tuli,,,8,
+24796,70,"to shoot",fana,,,1,1
+91607,71,"to stab, pierce",,,,,
+91608,71,"to stab, pierce",suki,,,"1, 8",
+91699,72,"to hit",pā,,,13,
+91700,72,"to hit",,,,,
+91701,72,"to hit",,,,,
+91702,72,"to hit",,,,,
+91794,73,"to steal",kaiā,,,7,
+91795,73,"to steal",,,,,
+26581,75,"to die, be dead",mate,,,1,1
+26938,76,"to live, be alive",ola,,,6,1
+27295,77,"to scratch",lati,,,10,1
+92045,78,"to cut, hack",tipi,,,,1
+92046,78,"to cut, hack",,,,,
+92047,78,"to cut, hack",,,,,
+92048,78,"to cut, hack",,,,,
+28009,79,stick/wood,lakau,,,1,1
+28366,80,"to split",fakamaisi,,,7,1
+28723,81,sharp,kai,,,14,1
+29437,83,"to work",galue,,,11,1
+30151,85,"to choose",filifili,,,1,1
+92540,86,"to grow",,,,,
+92541,86,"to grow",tupu,,,1,
+92568,87,"to swell",fete,,,5,1
+92569,87,"to swell",,,,,
+92570,87,"to swell",,,,,
+92612,88,"to squeeze",,,,,1
+92613,88,"to squeeze",,,,,
+92614,88,"to squeeze",kumi,,,14,
+92669,89,"to hold",puke,,,13,1
+92670,89,"to hold",,,,,
+93429,90,"to dig",keli,,,1,
+93430,90,"to dig",,,,,
+90407,92,"to open, uncover",tala,,,10,
+33007,93,"to pound, beat",tuki,,,2,1
+90408,94,"to throw",,,,,
+90409,94,"to throw",pei,,,12,
+104580,95,"to fall",pakū,,,59,
+104581,95,"to fall",tō,,,14,
+34078,96,dog,kuli,,,7,1
+34435,97,bird,manu,,,1,
+90410,98,egg,fuā,"unsure about the vowel length, only forms given were compounds (p. 334)",,5,
+90411,99,feather,fulufulu,,,1,
+35506,100,wing,kapakau,,,"1,59",1
+3229872,100,wing,pakau,,,"1, 59",
+104672,101,"to fly",eva,,,12,
+104673,101,"to fly",lele,,,11,
+90412,102,rat,kimoa,,,14,
+3229873,102,rat,kiole,,,12,
+36577,103,meat/flesh,kano,,,14,1
+36934,104,fat/grease,gako,,,14,1
+37291,105,tail,velo,,,10,1
+3229874,105,tail,felo,,,,
+90413,107,"worm (earthworm)",kalemutu,,,9,
+3229875,107,"worm (earthworm)",anufe,,,45,
+3229876,107,"worm (earthworm)",ilo,,,80,
+3229877,107,"worm (earthworm)",ipo,,,,
+38362,108,louse,kutu,,,1,1
+38719,109,mosquito,namu,,,1,1
+105174,110,spider,naleau,,,,
+105175,110,spider,,,,,
+39433,111,fish,ika,,,1,1
+39790,112,rotten,"pala masei",,,"13, 117",1
+105273,113,branch,kaula,metathesis,,"1, 4, 66",
+105274,113,branch,maga,,,"2,35",
+40861,115,root,aka,,,2,1
+41575,117,fruit,fua,,,1,1
+41932,118,grass,mouku,,,58,1
+42289,119,earth/soil,kele,,,10,1
+42646,120,stone,fatu,,,1,1
+43003,121,sand,one,,,1,1
+43360,122,water,vai,,,2,1
+107781,124,sea,moana,,,10,
+107782,124,sea,vaha,,,12,
+3229878,124,sea,tai,,,1,
+44431,125,salt,masima,,,,1
+44788,126,lake,vaituloto,,,6,1
+107849,127,woods/forest,"togā lakau",,,13,
+107850,127,woods/forest,vao,,,14,
+45502,128,sky,lagi,,,1,1
+45859,129,moon,masina,,,"37, 5",1
+46216,130,star,fetū,,,1,1
+47287,133,rain,ua,,,1,1
+47644,134,thunder,fatili,,,14,1
+170069,134,thunder,,,,,
+48001,135,lightning,uila,,,2,1
+48358,136,wind,matagi,,,"1,66",1
+108119,137,"to blow",agi,,,8,
+108120,137,"to blow",pusi,,,6,
+49072,138,warm,mafanafana,,,"1, 72",1
+122711,139,cold,makalili,,,"1,52",
+122712,139,cold,moko,,,10,
+49786,140,dry,malō,,,13,1
+122730,141,wet,,,,11,
+122731,141,wet,siu,,,11,
+50500,142,heavy,mafa,,,46,1
+50857,143,fire,afi,,,1,1
+122760,144,"to burn",ka,,,62,
+122761,144,"to burn",sunu,,,106,
+51571,145,smoke,au,,,2,1
+3229398,146,ash,lefu,,,67,
+3229399,147,black,uli,,,7,
+52642,148,white,kena,,,10,1
+123136,149,red,kula,,,13,1
+123137,149,red,lanu,,,,
+123138,149,red,,,,,
+122886,150,yellow,,,,,
+122887,150,yellow,sega,,,12,
+53713,151,green,"lanu launiu",,,12,1
+123722,152,small,foliki,,,66,
+123723,152,small,foniki,,,,
+123062,153,big,matugā,,,73,
+123063,153,big,lasi,,,12,
+123064,153,big,māfaga,,,,
+123065,153,big,,,,,
+54784,154,short,toetoe,,,62,1
+55141,155,long,loa,,,"12,105",1
+123229,156,thin,kauvikiviki,,,,
+123230,156,thin,paka,,,6,
+55855,157,thick,matolu,,,3,1
+90414,158,narrow,lauliki,,,84,
+56569,159,wide,lauefa,,,"73, 48",1
+123018,160,"painful, sick",,,,,1
+123019,160,"painful, sick",,,,,
+123020,160,"painful, sick",masaki,,,1,
+122995,161,"shy, ashamed","mata mā",,,1,
+122996,161,"shy, ashamed",taema,,,1?,
+90415,162,old,matua,,,1,
+57997,163,new,fou,,,1,1
+3229400,164,good,lei,,,,
+3229401,165,"bad, evil",masei,,,42,
+59068,166,"correct, true",tonu,,,8,1
+3229879,166,"correct, true",sao,,,107,
+123211,167,night,po,,,1,1
+123212,167,night,,,,,
+119461,168,day,aso,,,"1, 54",
+119462,168,day,,,,,
+60139,169,year,tausaga,,,1,1
+60496,170,when?,fea,,,5,1
+60853,171,"to hide",pakili,,,,1
+62281,175,above,"i luga",,,9,1
+62638,176,below,"i lalo",,,8,1
+90416,179,near,pili,,,30,
+64066,180,far,mao,,,13,1
+64423,181,where?,tefea,,,"3,35",1
+123653,182,I,au,,,"1,21",1
+123654,182,I,,,,,
+123655,182,I,,,,,
+123538,183,thou,,,,,
+123291,183,thou,koe,,,1,
+123539,183,thou,,,,,
+65494,184,he/she,ia,,,1,1
+123771,185,we,mātou,excl.,,"2, 39",
+123772,185,we,tātou,incl.,,"1, 39",
+123290,186,you,,,,,
+123292,186,you,,,,,
+123293,186,you,koutou,,,16,
+66922,188,what?,ā,,,1,1
+67279,189,who?,"ko oi",,,1,1
+67993,191,all,katoa,,,13,1
+122956,192,and,,,,,
+122957,192,and,mo,,,9,
+68707,193,if,kafai,,,1,
+119422,194,how?,,,,,
+119423,194,how?,pefea,,,11,
+119424,194,how?,,,,,
+119425,194,how?,,,,,
+69421,195,"no, not",se,,,13,1
+3229880,195,"no, not",ikai,,,"10,83",
+3229881,195,"no, not",seai,,,13,
+123105,196,"to count","lau aka",,,62,1
+123106,196,"to count",,,,,1
+123107,196,"to count",faitau,,,8,1
+70135,197,One,tasi,,,41,1
+3229402,198,Two,lua,,,1,
+70849,199,Three,tolu,,,1,1
+71206,200,Four,fā,,,"1,66",1
+83769,201,Five,lima,,,1,
+3229403,202,Six,ono,,,1,
+83671,203,Seven,fitu,,,1,
+90417,204,Eight,valu,,,3,
+83545,205,Nine,iva,,,"5,44,66",
+83436,206,Ten,sefulu,,,5,
+3229404,207,Twenty,"lua sefulu",,,"3,6",
+83358,209,"One Hundred",selau,,,2,
+83317,210,"One Thousand",afe,,,3,
+83341,210,"One Thousand",,,,,

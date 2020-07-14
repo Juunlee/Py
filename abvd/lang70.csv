@@ -1,0 +1,222 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+70,Letinese,"Blust from: Jonker (1932)",lti,leti1246,"Jonker, J. C. G. (1932). Lettineesche taalstudiën. Verhandelingen van het Bataviaasch Genootschap van Kunsten en Wetenschappen 69. Bandung.",,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Timor, Extra-Ramelaic, East, Luang-Kisar, Luang","Penny Keenan","Simon Greenhill","@book{66632,  address    = {Bandoeng},  pages      = {viii+252},  publisher  = {A. C. Nix},  series     = {Verhandelingen van het Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen},  title      = {Lettineesche Taalstudiën},  volume     = {69},  year       = {1932},  bibtexkey  = {jonker_lettineesche-taalstudien1932},  fn         = {papua\jonker_lettineesche1932.pdf},  hhtype     = {grammar_sketch},  inlg       = {Dutch [nld]},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#s:Jonker:Lettineesche},  author     = {Jonker, J. C. G.}}"
+latitude,longitude
+-8.19999999999999928946,127.67000000000000170530
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+70,1,hand,lima,,,"1,64",1
+427,2,left,maliri,,,"1,82",1
+784,3,right,malw̃anna,,,"1,29",1
+1141,4,leg/foot,loki,,,9,
+1498,5,"to walk",lā,,,1,1
+1855,6,road/path,talla,,,1,1
+2212,7,"to come",mai,,,1,1
+2569,8,"to turn",wali,,,8,
+2926,9,"to swim",nani,,,"1,45",1
+3283,10,dirty,kupi,,,,
+3640,11,dust,awu,,,1,1
+3997,12,skin,ulti,,,1,1
+4354,13,back,tukra,,,12,
+4711,14,belly,apnu,,,"2,57",
+5068,15,bone,ruri,,,2,
+5425,16,intestines,"apnu wniote",,,,
+5782,17,liver,lānu,,,,
+72184,18,breast,susu,,,1,1
+72185,18,breast,irsu,,,1,1
+6496,19,shoulder,wāni,,,90,
+6853,20,"to know, be knowledgeable",atu,,,41,
+7210,21,"to think",warma,,,,
+7567,22,"to fear",tātu,,,1,1
+7924,23,blood,rara,,,1,1
+8281,24,head,w̃ata,,,65,
+8638,25,neck,tieru,,,14,
+8995,26,hair,mortu,,,5,
+9352,27,nose,irnu,,,1,1
+9709,28,"to breathe",wāri,,,31,
+124910,30,mouth,nūru,,,2,1
+124911,30,mouth,wawa,,,1,
+10780,31,tooth,nisa,,,1,?
+11137,32,tongue,nama,,,"6,12",1?
+11494,33,"to laugh",mali,,,3,
+12208,35,"to vomit",muta,,,1,1
+12922,37,"to eat",ana,,,25,1
+13279,38,"to chew",kawtu,,,,
+13636,39,"to cook",nasu,,,3,1
+13993,40,"to drink",emnu,,,1,1
+14350,41,"to bite",kisi,,,1?,?
+73631,42,"to suck",dedma,,,,
+73632,42,"to suck",dōsu,,,,
+15064,43,ear,tnina,,,1,1
+15421,44,"to hear",tāli,,,66?,
+15778,45,eye,mata,,,1,1
+73864,46,"to see",dōna,,,49,
+73865,46,"to see",toli,,,,
+73866,46,"to see",takra,,,114,
+16492,47,"to yawn",kewra,,,,
+16849,48,"to sleep",dudu,,,1?,
+125612,49,"to lie down",lēni,,,,
+125613,49,"to lie down",nina,,,1,1?
+17563,50,"to dream",mia,,,"1,37",?
+17920,51,"to sit",tietna,,,12,
+18277,52,"to stand",riri,,,1,1
+18634,53,"person/human being",ria,,,5,
+18991,54,man/male,muani,,,1,1
+19348,55,woman/female,puata,,,128,
+19705,56,child,ana,,,1,1
+20062,57,husband,so,,,2,1
+20419,58,wife,so,,,1,1
+20776,59,mother,ina,,,1,1
+21133,60,father,ama,,,1,1
+21490,61,house,ruma,,,1,1
+21847,62,thatch/roof,rita,,,,
+22204,63,name,nāna,,,1,1?
+22561,64,"to say",wei,,,150,
+22918,65,rope,tali,,,1,1
+74971,66,"to tie up, fasten",worna,,,,
+74972,66,"to tie up, fasten",tersa,,,,
+23632,67,"to sew",nawu,,,10,
+23989,68,needle,sora,,,37,
+24703,70,"to shoot",poka,,,,
+75298,71,"to stab, pierce",atra,,,,
+75299,71,"to stab, pierce",koki,,,,
+25417,72,"to hit",warnu,,,,
+75457,73,"to steal",dioro,,,,1
+75458,73,"to steal",ka|mnaa,,,"1,59,60",1
+26131,74,"to kill",wunu,,,1,1
+26488,75,"to die, be dead",mati,,,1,1
+26845,76,"to live, be alive",mori,,,"1,76",1
+27202,77,"to scratch",kartu,,,1?,?
+75689,78,"to cut, hack",tāsu,,,3,1
+75690,78,"to cut, hack",teti,,,3,1
+27916,79,stick/wood,ai,,,1,
+75855,80,"to split",karsa,,,,1
+75856,80,"to split",pāsa,,,,1
+28630,81,sharp,lokra,,,12,
+28987,82,"dull, blunt",tpinni,,,,
+125615,83,"to work",japi,,,8,
+125616,83,"to work",kari,,,7,
+125617,83,"to work",sia,,,,
+29701,84,"to plant",tomna,,,2,1
+30058,85,"to choose",ili,,,1,1
+124970,86,"to grow",mori,,,2,1
+124971,86,"to grow",nupu,,,5,
+30772,87,"to swell",petna,,,1,
+31486,89,"to hold",kukmu,,,106,?
+31843,90,"to dig",kasi,,,58,
+32200,91,"to buy",weli,,,1,1
+32557,92,"to open, uncover",sari,,,7,
+32914,93,"to pound, beat",tutu,,,20,1
+76820,95,"to fall",litri,,,,
+76821,95,"to fall",tūni,,,7,
+76822,95,"to fall",warnu,,,,
+33985,96,dog,asu,,,1,1
+34342,97,bird,manu,,,1,1
+34699,98,egg,ternu,,,1,1?
+35056,99,feather,wulu,,,1,1
+35413,100,wing,liwra,,,48,
+35770,101,"to fly",nema,,,7,
+36127,102,rat,or-roma/smela,,,"8,84",
+77209,103,meat/flesh,isi,,,31,1
+77210,103,meat/flesh,anna,,,,1
+36841,104,fat/grease,mina,,,1,1
+37198,105,tail,ikru,,,1,1
+37555,106,snake,nia,,,1,1
+37912,107,"worm (earthworm)",urna,,,,
+38269,108,louse,utu,,,1,1
+38626,109,mosquito,puti,,,,
+38983,110,spider,kourakraka,,,,
+39340,111,fish,īna,,,1,1?
+40054,113,branch,aka,,,1?,
+40411,114,leaf,tawi,,,7,
+40768,115,root,w̃āra,,,2?,1?
+41125,116,flower,lipa,,,,
+41482,117,fruit,woa,,,1,1
+41839,118,grass,penta,,,12,
+42196,119,earth/soil,tani,,,1,1
+42553,120,stone,watu,,,1,1
+42910,121,sand,eni,,,1,1
+43267,122,water,w̃era,,,2,
+43624,123,"to flow",wai,,,,
+43981,124,sea,taski,,,1,1
+44338,125,salt,sioa,,,1?,
+44695,126,lake,tōnu,,,,
+45052,127,woods/forest,rewta,,,,
+78502,128,sky,kakma,,,,1?
+78503,128,sky,lianti,,,1?,1?
+45766,129,moon,wulla,,,1,1
+46123,130,star,ptuna,,,1,1
+46480,131,cloud,umni,,,,
+46837,132,fog,spuona,,,,
+47194,133,rain,utna,,,1,1
+47551,134,thunder,kukru,,,1?,?
+47908,135,lightning,tirka,,,,
+48265,136,wind,anni,,,1,1
+48622,137,"to blow",teni,,,,
+48979,138,warm,pansa,,,1,1
+49336,139,cold,woki,,,5,
+49693,140,dry,kerna,,,6,?
+50050,141,wet,pēra,,,,
+50407,142,heavy,perta,,,1,1
+50764,143,fire,w̃ai,,,1,?
+51121,144,"to burn",tunu,,,1,1
+124788,145,smoke,mahü,,,2,
+124789,145,smoke,mukla,,,12,
+51835,146,ash,awu,,,1,1
+52192,147,black,metma,,,1,1
+52549,148,white,warsa,,,6,
+52906,149,red,mera,,,1,1
+53263,150,yellow,mara,,,6,
+53620,151,green,mota,,,1,
+53977,152,small,ana/kea/koi,,,8,
+54334,153,big,lawna,,,,
+54691,154,short,puri,,,,
+55048,155,long,lawsa,"cp POC + lawa_",,9,
+55405,156,thin,nisa/sini,,,1,1
+55762,157,thick,isi/pānu,,,,
+56119,158,narrow,miarta,,,,
+56476,159,wide,koli,,,4,
+56833,160,"painful, sick",pansa,,,,
+57190,161,"shy, ashamed",mola,,,,
+57547,162,old,w̃akmi,,,,
+57904,163,new,waru,,,1,1
+80580,164,good,swōna,,,,
+80581,164,good,moka,,,12,
+58618,165,"bad, evil",jata,,,1?,1
+58975,166,"correct, true",lola,,,4,
+80821,167,night,kotma,,,4,
+80822,167,night,mela,,,4,
+59689,168,day,lera,,,24,1
+60046,169,year,anni,Loan?,L?,,
+60403,170,when?,lera,,,,?
+60760,171,"to hide",odi/wuni,,,1,1
+61117,172,"to climb",sai,,,2?,
+61474,173,at,wawna,,,,
+61831,174,"in, inside",rarma,,,1,1
+62188,175,above,wuwru,,,,
+81287,176,below,náini,,,,
+81288,176,below,tawnu,,,,
+62902,177,this,di/sai,,,,
+81460,178,that,de,,,,
+81461,178,that,do,,,,
+63616,179,near,wakruani,,,1?,?
+63973,180,far,olieta,,,9,
+64330,181,where?,lomé/meni,,,6?,
+64687,182,I,au,,,1,1
+65044,183,thou,o,,,1,1
+65401,184,he/she,e,,,1,1
+119252,185,we,ita,,,1,1
+119253,185,we,ami,,,2,
+66115,186,you,mu,,,1,1
+66472,187,they,ira,,,1,1
+66829,188,what?,isia,,,,
+67186,189,who?,sei,,,1,1
+67543,190,other,toa,,,,
+67900,191,all,tema,,,12,
+68257,192,and,na/nana/dena/ne,,,2,1
+68614,193,if,me,,,3?,?
+68971,194,how?,emmé/nuü,,,,
+69328,195,"no, not",ta,,,4,
+69685,196,"to count",sora,,,7,
+70042,197,One,ida,,,1,1
+70399,198,Two,rua,,,1,1
+70756,199,Three,telu,,,1,1
+71113,200,Four,ata,,,1,1

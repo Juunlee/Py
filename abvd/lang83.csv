@@ -1,0 +1,229 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+83,Maloh,"Blust, from King (1976)",emb,emba1238,"King, Victor T.  1976.  The Maloh language: avocabulary and summary of the literature. The Sarawak Museum Journal 24.45(N.S.):137-171.","SA: Maloh is closely related to South Sulawesi languages (Adelaar 1994, 1995). (relationship is blurred by the strong Malay (and/or Iban) lexical influence).","Austronesian, Malayo-Polynesian, South Sulawesi, Bugis, Tamanic","Simon Greenhill","Simon Greenhill + Sander Adelaar","@article{26070,  journal    = {Sarawak Museum Journal},  pages      = {137-164},  title      = {The Maloh language: A vocabulary and summary of the literature},  volume     = {24},  year       = {1976},  bibtexkey  = {king_maloh-summary1976},  fn         = {papua\king_maloh1976.pdf},  hhtype     = {wordlist},  inlg       = {English [eng]},  inlg_code  = {eng},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#w:King:Maloh},  author     = {King, Victor T.}}"
+latitude,longitude
+1.16999999999999992895,112.32999999999999829470
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+83,1,hand,taŋan,,,18,
+440,2,left,kayoko,,,,
+797,3,right,kato,,,"5,40",1
+1154,4,leg/foot,kaki,"Malay loan?",,"1,32",
+1511,5,"to walk",lambaʔ,,,42,1
+1868,6,road/path,dalan,,,1,1
+2225,7,"to come",mondok,,,,
+2582,8,"to turn",lempaŋ,,,,
+2939,9,"to swim",arananaŋ,,,23?,
+3296,10,dirty,kotor,,L,31,
+4010,12,skin,kulit,,,1,1
+4367,13,back,balakaŋ,,,27,
+4724,14,belly,bataŋ,,,29,
+5081,15,bone,tulaŋ,,,1,1
+5438,16,intestines,parut,,,23,
+5795,17,liver,até,,,1,1
+6152,18,breast,susu,,,1,1
+344988,18,breast,aro,"chest (identical in Buginese)",,,
+6509,19,shoulder,babaŋ,,,19,
+6866,20,"to know, be knowledgeable",tamu,,,1?,
+7223,21,"to think",bapikir,"SA: < Malay < Arabic",L,22,
+7580,22,"to fear",takut,,,1,1
+7937,23,blood,daraʔ,,,1,1
+8294,24,head,ulu,,,1,1
+8651,25,neck,kaloŋ,"SA: cf. Buginese əlloŋ",,76,
+9008,26,hair,búk,,,1,1
+9365,27,nose,iŋar,"SA: cf. Buginese iŋəʔ",,76,
+9722,28,"to breathe","batak ñawa",,,1,
+10079,29,"to sniff, smell",mambu,,,25,
+10436,30,mouth,babaʔ,,,1,1
+10793,31,tooth,isi,"SA: cf. Buginese isi",,"24,75",1
+11150,32,tongue,lilaʔ,,,4,1
+11507,33,"to laugh",tatawa,,,1,1
+11864,34,"to cry",a-naŋis,,,1,1
+12221,35,"to vomit",talimbuak,,,1?,
+12578,36,"to spit",ma-lasuʔ,,,,
+12935,37,"to eat",aŋkán,"< aN- + kaan",,1,1
+73373,39,"to cook",mapiaŋ,,,,
+73374,39,"to cook",riko,,,,
+14006,40,"to drink",ma-iñum,,,1,1
+73546,41,"to bite",kokot,,,"1,32",1?
+73547,41,"to bite",siap,,,,1?
+14720,42,"to suck",mañusuʔ,,,1,
+15077,43,ear,taliŋa,,,1,1
+15434,44,"to hear",man-daliŋa,,,"1,81",1?
+345005,44,"to hear",liŋar,,,,
+15791,45,eye,mata,,,1,1
+16148,46,"to see",bélé,,,,
+344990,47,"to yawn",ma-uap,,,19,
+16862,48,"to sleep",tindoʔ,"SA: cf. Buginese ma-tinroʔ",,25,?
+17219,49,"to lie down",arabaʔ,,,107,
+17576,50,"to dream",mui,,,,
+17933,51,"to sit",dudúk,,,35,
+18290,52,"to stand",kadeŋ,,,,1
+74146,53,"person/human being",mantuari,,,1,1
+74147,53,"person/human being",tau,,,1,1
+19004,54,man/male,babaka,,,,
+19361,55,woman/female,babaiʔiŋé,,,"1,106",1
+19718,56,child,anak,,,1,1
+132601,57,husband,baka,,,,
+132602,57,husband,laki,,,28,
+20432,58,wife,baiʔiŋé,,,5,
+20789,59,mother,induʔ,,,10,
+21146,60,father,amaʔ,,,1,1
+21503,61,house,sau,,,3,
+21860,62,thatch/roof,tuduŋ,,,,
+22217,63,name,asan,"SA: cf. Buginese asəŋ",,"1, 54",1
+22574,64,"to say",jarum,,,,
+22931,65,rope,tali,,,1,1
+23288,66,"to tie up, fasten",miŋket,,,1,1
+23645,67,"to sew",mandait,,,2,1
+24002,68,needle,darum,,,1,1
+24359,69,"to hunt",mansuʔ,,,36,
+24716,70,"to shoot",manimbak,,,49,
+25073,71,"to stab, pierce",majuk,,,,
+25430,72,"to hit",sigusu,,,,
+25787,73,"to steal",kalit,,,"57,2",
+26144,74,"to kill",bunoʔ,,,1,1
+26501,75,"to die, be dead",maté,,,1,1
+26858,76,"to live, be alive",idup,"X = Malay interference",,"1,81",1
+344989,76,"to live, be alive",tio',"= default term",,20,
+27215,77,"to scratch",maŋauʔ,,,1?,?
+27572,78,"to cut, hack",papas,,,,
+27929,79,stick/wood,kayu,,,1,1
+28286,80,"to split",balaʔ,,,1,1
+28643,81,sharp,[ba]taram,,,1,1
+29000,82,"dull, blunt",atimbin,,,,
+29357,83,"to work",karaja,,L,23,
+29714,84,"to plant",tanam,,,2,1
+30785,87,"to swell",kambaŋ,,,20,
+31142,88,"to squeeze",mamaras,,,42,1
+31499,89,"to hold",maŋkam,,,1,1?
+31856,90,"to dig",maŋali,,,1,1
+32213,91,"to buy",bali,,,1,1
+32570,92,"to open, uncover",ilǎkeini,,,,
+344991,93,"to pound, beat",manutuk,"< tutuk",,2,
+33284,94,"to throw",mamantik,,,,
+76827,95,"to fall",alau,,,,
+76828,95,"to fall",arabaʔ,,,,
+33998,96,dog,asu,,,1,
+34355,97,bird,buroŋ,"< Malay",L,17,
+34712,98,egg,intaror,,,1,1
+35069,99,feather,bulu,,,1,1
+35426,100,wing,sáp,"SA: loss of *y is regular",,26,
+35783,101,"to fly",min/sap,"SA: loss of *y is regular",,23,
+36140,102,rat,balau,,,1,1
+36497,103,meat/flesh,isiʔ,,,31,1
+36854,104,fat/grease,-iñak,,,1,1
+37211,105,tail,iŋko,,,1,1?
+37568,106,snake,urar,,,2,1
+344992,107,"worm (earthworm)",ulas,,,36,
+38282,108,louse,kutu,,,1,1
+344993,109,mosquito,ñamuk,,,1,
+344994,110,spider,lalawaʔ,,,1,
+77585,111,fish,lauh,,,14,
+77586,111,fish,lauk,,,14,
+77649,112,rotten,ba-uruk,,,1,1
+77650,112,rotten,buruk,,,1,1
+40067,113,branch,dán,,,1,
+40424,114,leaf,daun,,,1,1
+40781,115,root,urat,,,1,1
+41138,116,flower,buŋa,,,1,1
+41495,117,fruit,buaʔ,,,1,1
+41852,118,grass,rimput,,,27,
+42209,119,earth/soil,tanaʔ,,,1,1
+42566,120,stone,batu,,,1,1
+42923,121,sand,kasik,,,24,
+43280,122,water,danum,,,1,1
+43637,123,"to flow",aréaŋ,,,,
+43994,124,sea,"roŋ jawa",,,,
+44351,125,salt,siaʔ,,,1,?
+44708,126,lake,dano,,,1,1
+45065,127,woods/forest,toan,,,30,
+45422,128,sky,suan,,,,
+45779,129,moon,bulan,,,1,1
+46136,130,star,bintaŋ,,,1,
+46493,131,cloud,dom,,,,
+46850,132,fog,aun,,,27,
+47207,133,rain,so|uran,"SA: < aso uran",,1,1
+47564,134,thunder,dalak,,,,
+47921,135,lightning,kilat,,,1,1
+48278,136,wind,so|aŋin,"SA: < aso aŋin",,1,1
+48635,137,"to blow",tiap,,,1?,?
+79068,138,warm,panas,,,1,1
+79069,138,warm,sisiak,,,,1
+49349,139,cold,diŋin,,,1,
+49706,140,dry,kariŋ,,,22,
+50420,142,heavy,borat,,,1,1
+50777,143,fire,api,,,1,1
+51134,144,"to burn",tutuŋ,,,"1,94",
+51491,145,smoke,rimbu,,,25,
+51848,146,ash,kutuan,,,,
+52205,147,black,intarum,,,,
+52562,148,white,ba|uté,,,1,1
+52919,149,red,dadaraʔ,,,,
+53276,150,yellow,tantamuan,"SA: colour of curcuma",,,
+53633,151,green,mamata,,,1,
+53990,152,small,kéké,,,,
+54347,153,big,bará,"SA: < ba- + *Raya",,1,
+54704,154,short,pandak,,,1,1
+55061,155,long,[ba]laŋké,,,,
+55418,156,thin,nipís,,,1,1
+55775,157,thick,[ba]tabal,,,1,
+56132,158,narrow,supit,,,68,?
+56489,159,wide,ribar,,L,,
+56846,160,"painful, sick",padis,,,23,
+344995,161,"shy, ashamed",bawaʔ,"< ba- awaʔ",,,
+57560,162,old,toa,,,1,1
+57917,163,new,baru,,,1,1
+58274,164,good,mám,,,,
+58631,165,"bad, evil",ajau,"SA: diphthong. not unusual but Iban has jai'",L?,1?,
+58988,166,"correct, true",tapat,,,,
+59345,167,night,malam,,,20,
+59702,168,day,aso,"SA: cf. Buginese əsso",,"1,59",1
+60059,169,year,taun,,,1,1
+60416,170,when?,endisi,,,,
+60773,171,"to hide",lamun,,,,
+61130,172,"to climb",ambit,,,,
+61487,173,at,i/di,,,"20,1",1
+81189,174,"in, inside",i/di,,,,1
+81190,174,"in, inside",ilalam,,,1,1
+62201,175,above,ibo,"SA: suspect: don't recognise this word",,2?,1
+344987,175,above,i-aset,"SA: this is default term",,62,
+62558,176,below,iyauŋ,"< *i auŋ, cf. Tae dioŋ",,,
+62915,177,this,indiʔ,,,1,
+63272,178,that,indin,,,,
+63629,179,near,insoʔ,,,,
+63986,180,far,ba|jau,,,1,1
+64343,181,where?,daínsi,,,,
+64700,182,I,iak,"SA: cf. Buginese -ia'",,"1,32",
+65057,183,thou,iko,,,1,1
+65414,184,he/she,ia,,,1,1
+119272,185,we,ikiʔ,(a),,1,
+119273,185,we,ikam,(b),,"2, 69",
+66128,186,you,ikin,,,,
+66485,187,they,ira,,,1,1
+82235,188,what?,aisi,,,1,
+82236,188,what?,aisana,,,1,
+67199,189,who?,intaín,,,,
+67556,190,other,lán,,,2,
+82395,191,all,kausan,,,,
+82396,191,all,samua,"SA: < Malay,  ult. < Sanskrit",L,33,
+68270,192,and,nana,,,15,1?
+68627,193,if,atiʔ,,,,
+68984,194,how?,"aisi loʔa",,,,
+82702,195,"no, not",bokan,,,26,
+82703,195,"no, not",naʔan,,,31,
+69698,196,"to count",maŋoroŋ,,,31?,
+82822,197,One,sera,"SA: cf. Tae sera 'nine' and Buginese a-sera' 'nine' (ten minus one) and ? Makassar se're 'one'",,"1,84",1
+82823,197,One,insa,,,1,1
+70412,198,Two,dua,,,1,1
+70769,199,Three,talu,,,1,1
+71126,200,Four,ampat,,,1,1
+344996,201,Five,lima,,,1,
+345006,202,Six,anam,,,,
+344997,203,Seven,tujuʔ,,,4,
+344998,204,Eight,lapan,,,,
+344999,205,Nine,samilan,,,10,
+345000,205,Nine,salapan,(obsolete),,41,
+345001,206,Ten,sa-puloʔ,,,5,
+345002,207,Twenty,"dua puloʔ",,,"3,6",
+345007,208,Fifty,"lima puloʔ",,,,
+345003,209,"One Hundred",sa-ratus,,,4,
+345004,210,"One Thousand",sa-ribu,,,5,

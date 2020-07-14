@@ -1,0 +1,238 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+333,Komering,"Karl Anderbeck",kge,kome1238,,,"Austronesian, Malayo-Polynesian, Lampung","Karl Anderbeck",,"@misc{Anderbeck-333-2005,  author = \"Karl Anderbeck\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-3.93002015711146235333,105.51269531250000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+333,1,hand,puŋu,,,17,
+690,2,left,kiʁi,,,"1,42",1
+1047,3,right,kanan,,,"1,73",1
+1404,4,leg/foot,kukt',,,29,
+133308,4,leg/foot,kukut,,,29,
+1761,5,"to walk",lapah,,,42,
+2118,6,road/path,ʁaŋʁaya,,,1,
+133307,6,road/path,ʁaŋgaya,,,1,
+2475,7,"to come",ʁatoŋ,,,14,
+2832,8,"to turn",bubiluk',,,24,
+3189,9,"to swim",bulaŋuy,,,1,1
+133305,9,"to swim",bukalaŋuy,,,1,
+133306,9,"to swim",bukalaŋuy,,,1,
+3546,10,dirty,kutuʁ,clothes,,31,
+3903,11,dust,hambuaʔ,,,1,1
+4260,12,skin,bawaʔ,,,18,
+4617,13,back,kaʁuyuŋ,,,41,
+4974,14,belly,tanihi̱,,,41,
+5331,15,bone,tuhlạn,,,1,1
+5688,16,intestines,isaw,'guts',,44,
+6045,17,liver,hati,,,1,1
+6402,18,breast,titɪʔ,,,6,
+6759,19,shoulder,pɪŋpɪŋ,,,16,
+7116,20,"to know, be knowledgeable",panday,,,23,
+7473,21,"to think",bupikiʁ,,,22,
+7830,22,"to fear",ʁabay,,,14,
+8187,23,blood,ʁah,,,1,1
+8544,24,head,hulu,,,1,1
+8901,25,neck,galah,,,33,
+9258,26,hair,buọʔ,,,1,1
+9615,27,nose,iʁuŋ,,,1,1
+9972,28,"to breathe",məhoŋas,,,50,
+133304,28,"to breathe",muhoŋas,,,50,
+10329,29,"to sniff, smell",sium,,,20,
+10686,30,mouth,baŋʉ̱ʔ,,,16,
+133302,30,mouth,baŋuʔ,,,16,
+133303,30,mouth,baŋuk,,,16,
+11043,31,tooth,ipon,,,1,1
+11400,32,tongue,ṃa,,,1,1
+11757,33,"to laugh",maha,,,23,
+12114,34,"to cry",miwaŋ,weep,,9,
+12471,35,"to vomit",mutah,,,1,1
+12828,36,"to spit",mahalotọʔ,,,41,?
+133301,36,"to spit",muhalotọʔ,,,41,
+13185,37,"to eat",moŋan,,,"1,14",?
+13542,38,"to chew",ŋalŋal,,,13,
+13899,39,"to cook",masaʔ,,,19,
+14256,40,"to drink",ŋinum,,,1,1
+14613,41,"to bite",ŋoʁoh,,,1,
+14970,42,"to suck",hisọp,,,1,1
+15327,43,ear,cupɪŋ,,,"15,51",
+15684,44,"to hear",andoŋi,,,1,1
+16041,45,eye,mata,,,1,1
+16398,46,"to see",liaʔ,"to see (unintentional), with affixation ŋa-liaʔ",,"19,23",
+16755,47,"to yawn",mahọwap,,,19,1
+133300,47,"to yawn",ŋahọwap,,,19,
+17112,48,"to sleep",tuʁuy,,,1,
+17469,49,"to lie down",aŋgulɪk',,,54,
+17826,50,"to dream",buɪnɪpi,,,1,1
+18183,51,"to sit",mojoŋ,,,28,
+90979,52,"to stand",togaʔ,"stay standing",,26,
+90980,52,"to stand",minjaʔ,"stand up",,38,
+18897,53,"person/human being",jolma,"< SKT jelma (SA)",L,16,
+19254,54,man/male,ṃbakas,,,37,
+133299,54,man/male,bakas,,,37,
+19611,55,woman/female,bay,,,1,1
+19968,56,child,sanaʔ,,,1,1
+20325,57,husband,laki,,,28,
+20682,58,wife,aŋgoman,,,25,
+21039,59,mother,umaʔ,,,36,
+21396,60,father,ubaʔ,,,13,
+21753,61,house,lombahan,,,28,
+22110,62,thatch/roof,hatoʔ,,,1,1
+22467,63,name,golaʁ,,,10,
+22824,64,"to say",cawa,,,21,
+23181,65,rope,tali,,,1,1
+23538,66,"to tie up, fasten",kaʁuʔ,"tether, tie (probable loan)",L?,44,
+23895,67,"to sew",ɲoʁuʔ,,,45,
+24252,68,needle,soʁoʔ,,,13,
+24609,69,"to hunt",ambuʁu,,,23,
+24966,70,"to shoot",nimbaʔ,,,49,
+75349,71,"to stab, pierce",nujah,,,22,
+75350,71,"to stab, pierce",pagas,,,3,
+75442,72,"to hit",togom,"hit (not punch)",,64,
+75443,72,"to hit",aŋgucuh,"hit (not punch)",,,
+26037,73,"to steal",ŋamalɪŋ,,,16,
+26394,74,"to kill",ŋəmatiko,,,15,
+26751,75,"to die, be dead",mati,,,1,1
+27108,76,"to live, be alive",huʁiʔ,,,1,1
+27465,77,"to scratch",ŋʉykʉy,,,19,
+27822,78,"to cut, hack",toʔtoʔ,,,3,1
+28179,79,stick/wood,kayu,wood,,1,1
+28536,80,"to split",bolah,,,1,1
+28893,81,sharp,tajom,"sharp machete",,1,1
+29250,82,"dull, blunt",kudul,"dull machete",,80,
+29607,83,"to work",bugawi,,,21,
+29964,84,"to plant",nanom,,,2,
+30321,85,"to choose",milɪh,,,1,1
+30678,86,"to grow",tumbuh,,,1,1
+31035,87,"to swell",bayoh,,,1,1
+31392,88,"to squeeze",pioh,,,55,1
+93412,89,"to hold",ambokọm,"hold ( static )",,66,
+93413,89,"to hold",katiŋ,"take hold of",,67,
+32106,90,"to dig",ŋali,,,1,1
+32463,91,"to buy",amboli,,,1,1
+32820,92,"to open, uncover",bukaʔ,,,1,1
+33177,93,"to pound, beat",nutu,,,20,1
+33534,94,"to throw",ŋumbanko,"throw away trash. Can be with or without -ko",,60,
+33891,95,"to fall",tiaʔ,,,66,
+34248,96,dog,asu,,,1,1
+34605,97,bird,manʉʔ,,,1,1
+133298,97,bird,buruŋ,,,17,
+34962,98,egg,tọhly,,,1,1
+133297,98,egg,tọhluy,,,1,
+35319,99,feather,bulu,,,1,1
+35676,100,wing,kọpi,,,52,
+36033,101,"to fly",toʁbaŋ,,,18,
+36390,102,rat,tikus,,,22,
+36747,103,meat/flesh,dagɪŋ,,,26,
+37104,104,fat/grease,baŋiʔ,,,59,
+37461,105,tail,gundaŋ,,,48,
+37818,106,snake,ulay,,,2,1
+38175,107,"worm (earthworm)",goloŋg̱,,,15,
+38532,108,louse,kutu,,,1,1
+38889,109,mosquito,agạs,,,56,
+39246,110,spider,lawah,,,1,1
+39603,111,fish,iwaʔ,,,25,
+39960,112,rotten,busuʔ,,,56,1
+40317,113,branch,paŋpaŋ,,,"20,62",
+40674,114,leaf,bulŋ,,,18,
+133296,114,leaf,buluŋ,,,18,
+41031,115,root,bakaʔ,,,2,1
+41388,116,flower,buŋa,,,1,1
+41745,117,fruit,buah,,,1,1
+42102,118,grass,jʉkuʔ,,,2,1
+42459,119,earth/soil,tanoh,,,1,1
+42816,120,stone,batu,,,1,1
+43173,121,sand,honi,,,1,1
+43530,122,water,uay,,,2,1
+43887,123,"to flow",ŋaliʁ,,,1,1
+44244,124,sea,lawoʔ,,,6,1
+44601,125,salt,sia,,,1,1
+44958,126,lake,danao͡,,,1,1
+133295,126,lake,danau,,,1,
+45315,127,woods/forest,pulan,,,71,
+45672,128,sky,laŋiʔ,,,1,
+46029,129,moon,bulan,,,1,1
+46386,130,star,bintaŋ,loan,L,43,
+46743,131,cloud,awan,,,68,
+47100,132,fog,kaboʁ,,,"1,86",1
+47457,133,rain,hujan,,,1,1
+47814,134,thunder,gogoʁ,,,1,1
+48171,135,lightning,kilaʔ,,,1,1
+48528,136,wind,aŋin,,,1,1
+48885,137,"to blow",ɲobu,,,50,
+49242,138,warm,panas,"hot water",,1,1
+49599,139,cold,ŋison,"cold water",,20,
+49956,140,dry,ŋoluh,"dry, not wet",,63,
+50313,141,wet,basoh,"wet cloth",,1,1
+50670,142,heavy,biaʔ,,,1,1
+51027,143,fire,apʉy,,,1,1
+51384,144,"to burn",mʉlpul,,,18,
+51741,145,smoke,hasoʔ,,,49,
+52098,146,ash,habu,,,1,1
+52455,147,black,halom,,,55,
+52812,148,white,handaʔ,,,25,
+53169,149,red,siaw,,,61,
+53526,150,yellow,kunɪŋ,?,,1,
+53883,151,green,hujaw,,,25,
+54240,152,small,ʁoniʔ,"small object",,65,
+54597,153,big,balak',"big object",,21,
+54954,154,short,buntaʔ,,,35,
+55311,155,long,tọjaŋ,,,102,
+55668,156,thin,nipis,,,1,1
+56025,157,thick,kodol,,,45,
+56382,158,narrow,sosok',,,32,
+56739,159,wide,boʁaʔ,,,50,
+123041,160,"painful, sick",sakiʔ,painful,,1,1
+123042,160,"painful, sick",maʁɪŋ,sick,,59,
+57453,161,"shy, ashamed",liom,,,40,
+57810,162,old,tuha,,,1,1
+58167,163,new,ompay,,,17,
+133294,163,new,ampay,,,17,
+58524,164,good,holaw,"good (person)",,82,
+121410,165,"bad, evil",jahat,"bad person",,1,1
+121411,165,"bad, evil",maʔhalọʔ,"bad quality",,,
+59238,166,"correct, true",bonoʁ,,,1,1
+59595,167,night,dibiŋi,,,1,1
+59952,168,day,haʁani,,,37,
+60309,169,year,tahun,,,1,1
+60666,170,when?,idan,,,1,1
+61023,171,"to hide",bujamọt',,,24,
+61380,172,"to climb",cakaʔ,,,59,
+61737,173,at,di,,,20,
+62094,174,"in, inside","di lọm",,,1,
+62451,175,above,duŋgaʔ,,,30,
+62808,176,below,"di bah",,,1,1
+63165,177,this,sija,,,16,
+63522,178,that,sina,,,1,1
+63879,179,near,podok',,,65,
+64236,180,far,jawọh,,,1,1
+64593,181,where?,"di pa",,,9,
+64950,182,I,ɲaʔ,,,7,
+65307,183,thou,niku,,,1,
+65664,184,he/she,ya,,,1,1
+123731,185,we,kita,,,1,
+123732,185,we,sikam,,,"2,65",
+66378,186,you,kuti,,,34,
+66735,187,they,tian,,,11,
+67092,188,what?,api,,,1,
+67449,189,who?,sapa,,,12,
+67806,190,other,layon,,,2,
+68163,191,all,kaʔuɲɪn,,,22,
+68520,192,and,ʁiʔ,"and with",,42,
+68877,193,if,amon,,,10,
+69234,194,how?,sanopa,,,20,
+69591,195,"no, not",maʔwat',,,48,
+69948,196,"to count",ŋambilaŋ,,,1,
+133293,196,"to count",ŋahituŋ,,,31,
+70305,197,One,say,,,"1,61",1
+70662,198,Two,ʁua,,,1,1
+71019,199,Three,tọlu,,,1,1
+71376,200,Four,p:aʔ,,,1,1
+133290,201,Five,lima,,,1,
+133291,202,Six,nom,,,1,
+133292,203,Seven,pitu,,,1,
+133315,204,Eight,walu,,,3,
+133314,205,Nine,suai,,,5,
+133313,206,Ten,puluh,,,5,
+133312,207,Twenty,ʁuaŋapuluh,,,"3,6",
+133311,208,Fifty,p:aʔŋapuluh,,,,
+133310,209,"One Hundred",saʁatus,,,4,
+133309,210,"One Thousand",saʁibu,,,5,

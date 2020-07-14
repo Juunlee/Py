@@ -1,0 +1,196 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+186,Sekar,"Blust, from Grace notebooks and Ronald Walkers 1991 list",skz,seka1247,,,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, North Bomberai","Penny Keenan","Simon Greenhill","@misc{GraceNB,  howpublished = {Ms.},  title        = {1955-1956 Fieldnotes: Notebook Swains Number 2},  year         = {1956},  url          = {http://digicoll.manoa.hawaii.edu/grace/Pages/PDFlist.html},  author       = {Grace, George W.}}@misc{Walker-186-2005,  author = \"Ronald Walker\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-2.98693000000000008498,132.84667999999999210559
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+186,1,hand,nina-n,,,"1,66",1
+543,2,left,kapepe,,,,
+900,3,right,banifia,,,81,
+1257,4,leg/foot,fani-n,,,,
+1614,5,"to walk",pana,,,2,1
+1971,6,road/path,nanam,,,,?
+2328,7,"to come",ma,,,1,1
+2685,8,"to turn",dabanin,,,,
+3042,9,"to swim",ruri,,,59,
+3399,10,dirty,budam,,,,
+3756,11,dust,afruk,(=#146),,1?,1?
+4113,12,skin,kunit,,,1,1
+4470,13,back,tawana-n,,,,
+4827,14,belly,bitua-n,,,,
+5184,15,bone,ruri|r,,,2,
+5541,16,intestines,"butune-n warwaras",,,9,
+72168,17,liver,nawa-n,,,,1
+72169,17,liver,yata-n,,,1,1
+6255,18,breast,susi,,,1,1
+6612,19,shoulder,bara|r,,,1,1
+6969,20,"to know, be knowledgeable",bre,,,,
+7326,21,"to think",nanam,,,28,1
+7683,22,"to fear",mkef,,,,
+8040,23,blood,rara,,,1,1
+8397,24,head,uni-n,,,1,1
+8754,25,neck,gurar,,,11,
+9111,26,hair,"uni-n faki-n","head leaf (ASch)",,,
+9468,27,nose,ipir,,,,
+9825,28,"to breathe",seg,,,,?
+10182,29,"to sniff, smell",sigir,,,"12, 7",
+10539,30,mouth,suma-n,,,40,
+10896,31,tooth,nifa-n,,,1,1
+11253,32,tongue,kerir,,,35,
+11610,33,"to laugh",manif,,,3,
+11967,34,"to cry",tagis,,,1,1
+12324,35,"to vomit",muta,,,1,1
+12681,36,"to spit",kuririf,,,,
+13038,37,"to eat",unkwai,,,,
+13752,39,"to cook",frubir,,,,
+14109,40,"to drink",nim,,,1,1
+14466,41,"to bite",kiki,,,1,1
+14823,42,"to suck",susi,,,1,1
+15180,43,ear,taniga-n,,,1,1
+15537,44,"to hear",tanam,,,2,
+15894,45,eye,batibati-n,,,,
+16251,46,"to see",niga,,,,
+16965,48,"to sleep",rua,,,,
+17322,49,"to lie down",bulbuliai,,,2,
+17679,50,"to dream",nifi,,,"1,60",1
+18036,51,"to sit",mtonag,,,148,?
+18393,52,"to stand",mriri,,,1,1
+18750,53,"person/human being",mancia,"< SKT (SA)",L,,
+19107,54,man/male,murarara,,,1,
+19464,55,woman/female,batbata,,,128,
+19821,56,child,kukanak,,,1,1
+20178,57,husband,isawa-n,,,2,1
+20535,58,wife,isawa-n,,,1,
+20892,59,mother,nini-n,,,"1,79",?
+21249,60,father,yama-n,,,1,1
+21606,61,house,ruma,,,1,1
+21963,62,thatch/roof,"sira faki-n",,,,
+22320,63,name,garar̄,,L,1,
+22677,64,"to say",farok,,,,
+23034,65,rope,warwaras,,,2,
+75019,66,"to tie up, fasten",sait,,,119,1?
+75020,66,"to tie up, fasten",eket,,,120,1?
+23748,67,"to sew",sor,,,10,
+24462,69,"to hunt",osir,,,4,
+24819,70,"to shoot",fanak,,,1,1
+25176,71,"to stab, pierce",sai,,,,
+25533,72,"to hit",baban,,,4,
+25890,73,"to steal",fnaga,,,"1,58",1
+26247,74,"to kill",nafedan,,,6,
+26604,75,"to die, be dead",warag,,,,
+26961,76,"to live, be alive",nais,,,,
+27318,77,"to scratch",keri,,,49,?
+27675,78,"to cut, hack",ois,,,,
+28032,79,stick/wood,kai,,,1,1
+28389,80,"to split",bakis,,,36,
+28746,81,sharp,magan,,,9,
+29103,82,"dull, blunt",akapugam,,,,
+29460,83,"to work",kərja,,L,,
+29817,84,"to plant",sai,,,,
+30174,85,"to choose",fini,,,1,1
+30888,87,"to swell",abara,,,1,1
+76378,88,"to squeeze",gugim,,,,
+76379,88,"to squeeze",kwapar,,,,
+31602,89,"to hold",gwain,,,,
+31959,90,"to dig",kani,,,1,1
+32316,91,"to buy",toin,,,,
+32673,92,"to open, uncover",sanak,,,,
+33030,93,"to pound, beat",tuti,,,20,1
+33387,94,"to throw",sai,,,35,
+34101,96,dog,yasi,,,1,1
+34458,97,bird,manik,,,1,1
+34815,98,egg,bati-n,,,,
+35172,99,feather,bunibuni|m,,,1,1
+35529,100,wing,senafi-n,,,2?,?
+35886,101,"to fly",aturig,,,,
+36243,102,rat,kofiata,,,,
+77228,103,meat/flesh,isisi-n,,,31,1
+77229,103,meat/flesh,isi-n,,,31,1
+36957,104,fat/grease,minminak,,,1,1
+37314,105,tail,ikir,,,1,1
+37671,106,snake,kunanawas,,,,
+38028,107,"worm (earthworm)",gorgor,,,6,
+38385,108,louse,kuti,,,1,1
+38742,109,mosquito,kifin,,,,
+39099,110,spider,agimomo,,,,
+39456,111,fish,sair,,,6,
+39813,112,rotten,sigir,,,,
+40170,113,branch,saga-n,,,2,
+40527,114,leaf,faki-n,,,,
+40884,115,root,sorsor,,,,
+41241,116,flower,fusi-n,,,5,
+41598,117,fruit,bua-n,,,1,1
+41955,118,grass,riri,,,,?
+42312,119,earth/soil,ropak,,,,
+42669,120,stone,bati,,,1,1
+43026,121,sand,kidai,,,,
+43383,122,water,wer,,,2,1
+43740,123,"to flow",asai,,,,
+44097,124,sea,sasik,,,1,1
+44454,125,salt,sira,,,1,1
+45168,127,woods/forest,tiri,,,,
+45525,128,sky,lagit,,,1,1
+45882,129,moon,bunan,,,1,1
+46239,130,star,finima,,,,
+46596,131,cloud,dirite,,,,
+46953,132,fog,soan,,,4,
+47310,133,rain,yagin,,,,
+47667,134,thunder,dudim,,,8,
+48024,135,lightning,ninaf,,,,
+48381,136,wind,diri,,,,
+48738,137,"to blow",afasar,,,,
+49095,138,warm,bayar,,,,
+49452,139,cold,ma|dirig,,,1,1
+49809,140,dry,atetar,,,,
+50166,141,wet,apagas,,,34,
+50523,142,heavy,ma|berat,,,1,1
+50880,143,fire,yafi,,,1,1
+51237,144,"to burn",agrasa,,,,
+51594,145,smoke,m|asi,,,2,1
+51951,146,ash,afiruk,(=#11),,1?,
+52308,147,black,kudkuda,,,4,
+52665,148,white,iriris,,,,
+53022,149,red,kasumba,,,10,
+53379,150,yellow,kuniŋ,,L,1,
+53736,151,green,matmatak,,,1,1
+54093,152,small,girif,,,,
+54450,153,big,mage:n,,,41,
+54807,154,short,fisik,,,,
+55164,155,long,ma|nawas,,,9,
+55521,156,thin,ma|nipis,,,1,1
+55878,157,thick,ma|kafan,,,1,1
+56592,159,wide,taberar,,,,
+56949,160,"painful, sick",fanas,,,,
+58020,163,new,beriberi,,,,1?
+58377,164,good,kues,,,,
+58734,165,"bad, evil",finta,,,,
+59091,166,"correct, true",tutu,,,6,1?
+59448,167,night,misiag,,,,
+59805,168,day,re|rera,,,,1
+60162,169,year,gara,,,6,
+61233,172,"to climb",sa,,,2,1
+61947,174,"in, inside",ami-nanam,,,1,1
+62304,175,above,ami-nasin,,,,
+62661,176,below,ami-boban,,,1,?
+63018,177,this,ige,,,,
+63375,178,that,ine,,,1,1
+63732,179,near,karagar,,,,
+64089,180,far,bair,,,,
+64446,181,where?,ampe,,,2?,
+64803,182,I,yai,,,1,1
+65160,183,thou,o,,,1,1
+65517,184,he/she,ia,,,1,1
+113983,185,we,ita,,,1,1
+113984,185,we,yami,,,2,
+66231,186,you,imi,,,"1,13",1?
+66588,187,they,sina,,,1,1
+66945,188,what?,safa,,,1,1
+67302,189,who?,ose,,,1,1
+67659,190,other,"[a] faserir",,,50,
+68016,191,all,karagatuni,,,,
+69087,194,how?,akape,,,,
+69444,195,"no, not",-ta,,,4,
+69801,196,"to count",yaf,,,2?,1?
+70158,197,One,isa,,,1,1
+70515,198,Two,nua,,,1,1
+70872,199,Three,teni,,,1,1
+71229,200,Four,fat,,,1,1

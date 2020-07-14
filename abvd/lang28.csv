@@ -1,0 +1,281 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+28,Iban,"Blust from: Richards (1981)",iba,iban1264,"Richards A. J. N. (1981): An Iban-English dictionary. Oxford: Oxford University Press.",,"Austronesian, Malayo-Polynesian, Malayo-Chamic, Malayic, Ibanic","Simon Greenhill","Simon Greenhill","@book{41604,  address    = {Oxford},  pages      = {417},  publisher  = {Oxford University Press},  title      = {An Iban-English Dictionary},  year       = {1981},  bibtexkey  = {richards_iban-dictionary1981},  fn         = {papua\richards_iban1981pages.pdf},  hhtype     = {dictionary},  inlg       = {English [eng]},  inlg_code  = {eng},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#d:Richards:Iban},  author     = {Richards, Anthony}}"
+latitude,longitude
+0.52733630481151694269,112.71972656250000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+71403,1,hand,taŋan,,,18,
+71404,1,hand,jari,finger,,x,
+385,2,left,kibaʔ,,,27,
+742,3,right,kanan,,,"1,73",1
+1099,4,leg/foot,kaki,=foot,,1,
+133418,4,leg/foot,pah,=leg,,,
+1456,5,"to walk",jalai,,,21,
+1813,6,road/path,jalai,,,1,1
+2170,7,"to come",datai,,,14?,
+2527,8,"to turn",bilok,,,24,
+2884,9,"to swim",nyemerai,,,,
+3241,10,dirty,kamah,,,35,
+71890,11,dust,abu,,,1,1
+71891,11,dust,apok,,,1,1
+3955,12,skin,kulit,,,1,1
+4312,13,back,belakaŋ,,,27,
+4669,14,belly,perut,,,32,
+5026,15,bone,tulaŋ,,,1,1
+5383,16,intestines,perut,,,23,
+5740,17,liver,atau,,,1,?
+6097,18,breast,tusu,,,1,1
+6454,19,shoulder,bau,,,17,
+72279,20,"to know, be knowledgeable",tauʔ,,,1,1
+72280,20,"to know, be knowledgeable",temu,,,,1
+7168,21,"to think",pikir,loan,L,22,
+133420,21,"to think",runding,,,,
+7525,22,"to fear",takut,,,1,1
+7882,23,blood,darah,,,1,1
+8239,24,head,palaʔ,"Skt kapala 'skull'",L,45,
+8596,25,neck,rekoŋ,,,,
+8953,26,hair,bok,,,1,1
+9310,27,nose,idoŋ,,,1,1
+9667,28,"to breathe",be-ñawa,"\"still alive\"?",,1,1
+102264,28,"to breathe","nyintak seput","inhale"?,,98,
+136099,28,"to breathe",enseput,"to breathe",,,
+10024,29,"to sniff, smell",sium,,,30,
+88707,30,mouth,mulut,,,27,
+88708,30,mouth,ñawa,,,1,
+10738,31,tooth,ŋeliʔ,,,,
+11095,32,tongue,dilah,,,4,1
+11452,33,"to laugh",ketawaʔ,,,1,1
+11809,34,"to cry",sabak,,,,
+12166,35,"to vomit",mutah,,,1,1
+12523,36,"to spit",ŋe-ludah,,,1,1
+12880,37,"to eat",makai,,,1,1
+13237,38,"to chew",kuñah,,,16,
+73364,39,"to cook",sumai,,,,1
+73365,39,"to cook",tanak,"\"to serve (food)\"",,1,1
+13951,40,"to drink",irup,,,12,
+14308,41,"to bite",gigit,"Malay Loan?",L?,21,1?
+135662,41,"to bite",ketup,,,,
+136105,41,"to bite",kanit,,,,
+14665,42,"to suck",tusu',,,,?
+15022,43,ear,pendiŋ,,,10,
+15379,44,"to hear",diŋa,,,1,1
+15736,45,eye,mata,,,1,1
+16093,46,"to see",pedaʔ,,,,
+16450,47,"to yawn",ŋuap,,,19,1
+16807,48,"to sleep",tindok,,,,?
+17164,49,"to lie down",galiʔ,,,"24,109",
+17521,50,"to dream",mimpi,,,1,1
+17878,51,"to sit",dudok,,,35,
+18235,52,"to stand",diri,,,1,1
+18592,53,"person/human being",oraŋ,,,20,
+18949,54,man/male,laki,,,2,1
+19306,55,woman/female,induʔ,,,,
+19663,56,child,anak,,,1,1
+20020,57,husband,laki,,,28,
+20377,58,wife,bini,,,5,
+20734,59,mother,indai,,,"1,92",
+21091,60,father,apai,,,12,
+21448,61,house,rumah,,,1,1
+21805,62,thatch/roof,atap,,,1,1
+133419,62,thatch/roof,bumbung,,,,
+22162,63,name,nama,,,12,
+74746,64,"to say",sebut,,,,
+74747,64,"to say",jakoʔ,,,,
+22876,65,rope,tali,,,1,1
+74951,66,"to tie up, fasten",kebat,,,,1
+74952,66,"to tie up, fasten",ŋikat,"Malay Loan",L,1,1
+136100,66,"to tie up, fasten",nanchang,,,,
+136101,66,"to tie up, fasten",nanggam,,,,
+23590,67,"to sew",jait,,,2,1
+23947,68,needle,jarum,,,1,1
+75173,69,"to hunt",gigaʔ,,,,
+75174,69,"to hunt",ŋ-asu,,,36,
+24661,70,"to shoot",timbak,,,49,
+25018,71,"to stab, pierce",tusok,,,"1,49",1
+25375,72,"to hit",pukul,"Malay Loan",L,27,
+102265,72,"to hit",maluk,,,1,
+135227,72,"to hit",sipat,,,1,
+135228,72,"to hit",lunsin,,,1,
+135768,72,"to hit",paluʔ,,,1,
+25732,73,"to steal",ngenchuri,,,19,
+26089,74,"to kill",bunoh,,,1,1
+26446,75,"to die, be dead",mati,,,1,1
+26803,76,"to live, be alive",idup,,,"1,82",1
+75615,77,"to scratch",garuʔ,,,55,?
+75616,77,"to scratch",kisai,,,,?
+27517,78,"to cut, hack",tetak,,,3,1
+27874,79,stick/wood,kayuʔ,,,1,1
+28231,80,"to split",belah,,,1,1
+28588,81,sharp,tajam,,,1,1
+28945,82,"dull, blunt",tumpul,,,3,1?
+76038,83,"to work",kereja,,,23,1
+76039,83,"to work",b-umai,"planting paddy",,1,1
+133623,83,"to work",gawa,"to work",,,
+133624,83,"to work",pengawa,work,,,
+29659,84,"to plant",tanam,,,2,1
+30016,85,"to choose",pilih,,,1,1
+30373,86,"to grow",tumboh,,,1,1
+30730,87,"to swell",kembai,,,20,
+31087,88,"to squeeze",perah,,,1,1
+135769,88,"to squeeze",gelam,,,,
+31444,89,"to hold",pegai,,,32,
+31801,90,"to dig",kali,,,1,1
+32158,91,"to buy",beli,,,1,1
+32515,92,"to open, uncover",bukaʔ,,,1,1
+133415,92,"to open, uncover",telenga,,,,
+133416,92,"to open, uncover",silak,,,,
+133417,92,"to open, uncover",kebak,,,,
+32872,93,"to pound, beat",tutok,,,2,1
+33229,94,"to throw",tikau,,,,
+33586,95,"to fall",laboh,,,1?,1?
+33943,96,dog,asuʔ,(archaic),,1,1
+133421,96,dog,ukui,,,20,
+133422,96,dog,uduk,,,,
+134060,96,dog,ukoi,,,20,
+134061,96,dog,udok,,,,
+34300,97,bird,buroŋ,,,17,
+34657,98,egg,teluʔ,,,1,1
+35014,99,feather,bulu,,,1,1
+35371,100,wing,sayap,,,26,
+35728,101,"to fly",terebai,,,18,
+77158,102,rat,cit,,,28,
+77159,102,rat,tikus,,,22,
+36442,103,meat/flesh,isiʔ,,,31,1
+36799,104,fat/grease,lemak,solid,,24,
+134922,104,fat/grease,lenying,greasy,,,
+37156,105,tail,ikoʔ,,,"1,72",1
+37513,106,snake,ular,,,2,1
+37870,107,"worm (earthworm)",ulat,,,36,
+38227,108,louse,kutu,,,1,1
+38584,109,mosquito,ñamok,,,1,1
+38941,110,spider,empelawaʔ,,,1,1
+39298,111,fish,ikan,,,1,1
+39655,112,rotten,burok,,,1,1
+40012,113,branch,dan,,,1,1
+40369,114,leaf,daun,,,1,1
+40726,115,root,urat,,,1,1
+41083,116,flower,buŋai,,,1,1
+41440,117,fruit,buah,,,1,1
+41797,118,grass,rumput,,,27,
+42154,119,earth/soil,tanah,,,1,1
+42511,120,stone,batu,,,1,1
+42868,121,sand,pasir,,,18,1
+43225,122,water,aiʔ,,,2,1
+133400,123,"to flow",arung,,,,
+133401,123,"to flow",jungking,,,,
+105504,124,sea,laut,,,6,1
+105505,124,sea,tasik,,,1,
+44296,125,salt,garam,,L,18,
+44653,126,lake,danau,"Malay Loan",L,1,1
+134086,126,lake,lepung,"a natural lake",,,
+134087,126,lake,pegung,"a man-made lake",,,
+45010,127,woods/forest,kampoŋ,"and 'utan' = poetic",,,
+45367,128,sky,laŋit,,,1,1
+45724,129,moon,bulan,,,1,1
+46081,130,star,bintaŋ,,,1,
+78632,131,cloud,awan,,,1,
+78633,131,cloud,remaŋ,,,,
+78634,131,cloud,sebun,,,,
+46795,132,fog,apok,,,,
+47152,133,rain,ujan,,,1,1
+47509,134,thunder,guntur,,,30,
+47866,135,lightning,kilat,,,1,1
+78888,136,wind,aŋin,,,1,1
+78889,136,wind,ribut,,,24,1
+48580,137,"to blow",tiup,"Malay Loan?",L?,"1,19",1
+135667,137,"to blow",sepu,,,,
+135668,137,"to blow",puput,,,,
+48937,138,warm,panas,,,1,1
+49294,139,cold,celap,,,28,
+49651,140,dry,raŋkai,,,1?,
+50008,141,wet,basah,,,1,1
+50365,142,heavy,berat,,,1,1
+50722,143,fire,api,,,1,1
+51079,144,"to burn",tunu,,,1,1
+51436,145,smoke,asap,,,49,
+51793,146,ash,abu,,,1,1
+123243,147,black,itam,,,1,1
+123244,147,black,celum,,,23,
+122848,148,white,burak,,,3,
+122849,148,white,putih,,,1,1
+79725,149,red,mirah,,,1,1
+79726,149,red,mansau,,,,1
+53221,150,yellow,kuniŋ,,,1,
+53578,151,green,ijau,,,25,
+53935,152,small,mit,,,23,
+54292,153,big,besai,,,28,
+80087,154,short,pandak,,,1,1
+80088,154,short,pandau,,,1,1
+55006,155,long,panjai,,,24,
+55363,156,thin,nipis,Malay?,L?,1,1
+136106,156,thin,mipau,,,,
+55720,157,thick,tebal,,,26,
+56077,158,narrow,sekut,,,,
+56434,159,wide,luas,,,42,
+56791,160,"painful, sick",sakit,,,1,1
+57148,161,"shy, ashamed",malu,,,20,
+57505,162,old,tuai,,,1,1
+57862,163,new,baru,,,1,1
+80577,164,good,baik,,,33,
+80578,164,good,manah,,,,
+80579,164,good,badas,,,31,
+58576,165,"bad, evil",jaiʔ,,,1,?
+80728,166,"correct, true",kenaʔ,,,,
+80729,166,"correct, true",amat,,,,
+59290,167,night,malam,,,20,
+59647,168,day,ari,,,17,1
+60004,169,year,taun,,,1,1
+60361,170,when?,kemaia,,,,
+60718,171,"to hide",pelam,,,,
+133622,171,"to hide",belalai,,,,
+134913,171,"to hide",lalai,,,,
+61075,172,"to climb",tikiʔ,,,1,
+122903,173,at,ba,,,17,1
+122904,173,at,di,,,20,
+81177,174,"in, inside",alam,,,1,1
+81178,174,"in, inside",dalam,,,1,1
+62146,175,above,d-atas,,,1,1
+81282,176,below,baroh,,,,1
+62860,177,this,tuʔ,,,,
+63217,178,that,ñaʔ,,,,1?
+81568,179,near,dampih,,,25,
+63931,180,far,jauh,,,1,1
+64288,181,where?,ni,,,,
+64645,182,I,aku,,,1,1
+81855,183,thou,nuan,,,,
+81856,183,thou,diʔ,,,,
+65359,184,he/she,ia,,,1,1
+123446,185,we,kitai,,,1,1
+123447,185,we,kami,,,2,
+66073,186,you,kitaʔ,"\"you all\"",,,
+136103,186,you,diʔ,,,,
+136104,186,you,nuan,,,,
+66430,187,they,sidaʔ,,,1,1
+82223,188,what?,apa,,,1,1
+82224,188,what?,nama,,,16,1
+67144,189,who?,sapa,,,12,
+67501,190,other,bukai,,,10,
+67858,191,all,abis,"finished + all : compare German \"alle\"",,"31, 74",
+136042,191,all,semua,,L,33,
+136043,191,all,magang,,,,
+68215,192,and,eŋgau,,,64,
+68572,193,if,entiʔ,,,,
+68929,194,how?,kati,,,,
+82675,195,"no, not",nadai,,,109,
+82676,195,"no, not",endaʔ,,,109,
+82677,195,"no, not",ukai,,,26,
+69643,196,"to count",itoŋ,,,31,1
+70000,197,One,satu,,,"1,16",?
+70357,198,Two,dua,,,1,1
+70714,199,Three,tiga,,,8,
+83033,200,Four,ampat,,,1,1
+83034,200,Four,empat,,,1,1
+133316,201,Five,limaʔ,,,1,
+133614,202,Six,enam,,,1,
+133621,203,Seven,tújûh,,,4,
+133620,204,Eight,lapan,,,4,
+133619,205,Nine,semilan,,,10,
+133618,206,Ten,sapuloh,,,5,
+133617,207,Twenty,"dua puloh",,,,
+136102,208,Fifty,"limaʔ puluh",,,,
+133616,209,"One Hundred",seratus,,,4,
+133615,210,"One Thousand",seribu,,,5,

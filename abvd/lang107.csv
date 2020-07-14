@@ -1,0 +1,205 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+107,Ogan,"Rasjid Mulkan",pse,cent2053,,,"Austronesian, Malayo-Polynesian, Malayo-Chamic, Malayic, Malay","Peng Du","Simon Greenhill","@misc{Mulkan-107-2005,  author = \"Rasjid Mulkan\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-2.69797689175062371802,104.91577137261629104614
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+107,1,hand,taŋan,,,18,
+464,2,left,kiri,,,"1,42",1
+821,3,right,kanan,,,"1,73",1
+1178,4,leg/foot,kətiŋ,,,92,
+1535,5,"to walk",bəjalan,,,21,
+1892,6,road/path,jalan,,,1,1
+2249,7,"to come",dataŋ,,,14,
+2606,8,"to turn",biluk,,,24,
+2963,9,"to swim",bədənaŋ,,,23,
+3320,10,dirty,kamah,,,35,
+3677,11,dust,abu,"from ash",,1,
+4034,12,skin,kulit,,,1,1
+4391,13,back,puŋguŋ,,,24,
+4748,14,belly,pəxut,,,32,
+5105,15,bone,tulaŋ,,,1,1
+5462,16,intestines,pəxut,,,23,
+5819,17,liver,ati,,,1,1
+6176,18,breast,susu,,,1,1
+6533,19,shoulder,bau,,,17,
+6890,20,"to know, be knowledgeable",tau,,,1,1
+7247,21,"to think",bəpikir,,,22,
+7604,22,"to fear",takut,,,1,1
+7961,23,blood,daxah,,,1,1
+8318,24,head,palaʔ,"Skt kapala 'skull'",L,45,
+8675,25,neck,liax̥,,,1,1
+9032,26,hair,gumbaʔ,,,,
+9389,27,nose,iduŋ,,,1,1
+9746,28,"to breathe",napas,,,29,
+10103,29,"to sniff, smell",m̃ium,,,30,
+10460,30,mouth,mulut,,,27,
+10817,31,tooth,gigi,,,17,
+11174,32,tongue,lidah,metathesis,,"4,31",1
+11531,33,"to laugh",tətawə,,,1,1
+11888,34,"to cry",naŋis,,,1,1
+12245,35,"to vomit",təmutah,,,1,1
+12602,36,"to spit",məliux,,,54,
+12959,37,"to eat",makan,,,1,1
+13316,38,"to chew",məpaʔ,,,30,
+13673,39,"to cook",masak,,,19,
+14030,40,"to drink",minum,,,1,1
+14387,41,"to bite",ŋgigit,,,21,1?
+14744,42,"to suck",ŋisap,,,1,1
+15101,43,ear,čupiŋ,,,"15,51",
+15458,44,"to hear",ŋaniŋ,,,,
+15815,45,eye,matə,,,1,1
+16172,46,"to see",ŋinaʔ,,,131,
+16529,47,"to yawn",ŋuap,,,19,1
+16886,48,"to sleep",tidux,,,"1,70",1
+17243,49,"to lie down",tidux,,,27,
+17600,50,"to dream",mimpi,,,1,1
+17957,51,"to sit",duduʔ,,,35,
+18314,52,"to stand",bəxaŋkat,,,,
+18671,53,"person/human being",jəmə,,,16,
+19028,54,man/male,jantan,"SA: < JV jalu + kramaïsation",,26,
+19385,55,woman/female,bətinə,,,19,
+19742,56,child,anaʔ,,,1,1
+20099,57,husband,laki,,,28,
+20456,58,wife,bini,,,5,
+20813,59,mother,umaʔ,,,35,
+21170,60,father,bapaʔ,,,5,1
+21527,61,house,xumah,,,1,1
+21884,62,thatch/roof,atap,,,1,1
+22241,63,name,namə,,,12,
+22598,64,"to say",ŋumuŋ,,,,
+22955,65,rope,tali,,,1,1
+23312,66,"to tie up, fasten",ŋaxut,,,,
+23669,67,"to sew",njait,,,2,1
+24026,68,needle,jaxum,,,1,1
+24383,69,"to hunt",bəburu,,,23,
+24740,70,"to shoot",nimbak,,,49,
+25097,71,"to stab, pierce",nujah,,,22,
+25454,72,"to hit",mukul,,,27,
+25811,73,"to steal",maliŋ,,,16,
+26168,74,"to kill",mbunuh,,,1,1
+26525,75,"to die, be dead",mati,,,1,1
+26882,76,"to live, be alive",idup,,,"1,82",1
+27239,77,"to scratch",ŋgaxu,,,55,1?
+27596,78,"to cut, hack",nətaʔ,,,3,1
+27953,79,stick/wood,kayu,,,1,1
+28310,80,"to split",mbəlah,,,1,1
+28667,81,sharp,landap,,,34,
+29024,82,"dull, blunt",tumpul,,,3,1?
+29381,83,"to work",bəgawi,,,21,
+29738,84,"to plant",nanam,,,2,1
+30095,85,"to choose",milih,,,1,1
+30452,86,"to grow",tumbuh,,,1,1
+30809,87,"to swell",mbəŋkaʔ,,,19,
+31166,88,"to squeeze",məxah,,,1,1
+31523,89,"to hold",ŋəcaʔ,,,72,
+31880,90,"to dig",ŋali,,,1,1
+32237,91,"to buy",mbəli,,,1,1
+32594,92,"to open, uncover",mbukaʔ,,,1,1
+32951,93,"to pound, beat",nutuʔ,,,2,1
+33308,94,"to throw",ŋumbai,,,119,
+33665,95,"to fall",titiʔ,,,,
+34022,96,dog,anjiŋ,,,27,
+34379,97,bird,buruŋ,,,17,
+34736,98,egg,təlux,,,1,1
+35093,99,feather,bulu,,,1,1
+35450,100,wing,sayap,,,26,
+35807,101,"to fly",məxəbaŋ,,,18,
+36164,102,rat,tikus,,,22,
+36521,103,meat/flesh,dagiŋ,,,26,
+36878,104,fat/grease,gəmuʔ,,,26,
+37235,105,tail,ikuʔ,,,"1,72",1
+37592,106,snake,ulax,,,2,1
+37949,107,"worm (earthworm)",caʔciŋ,,,23,
+38306,108,louse,kutu,,,1,1
+38663,109,mosquito,n̄amuk,,,1,1
+39020,110,spider,walawa,,,1,1
+39377,111,fish,ikan,,,1,1
+39734,112,rotten,busuk,,,56,1
+40091,113,branch,dahan,,,1,1
+40448,114,leaf,daun,,,1,1
+40805,115,root,akax,,,2,1
+41162,116,flower,buŋə,,,1,1
+41519,117,fruit,buabuahan,,,1,1
+41876,118,grass,xumput,,,27,
+42233,119,earth/soil,tanah,,,1,1
+42590,120,stone,batu,,,1,1
+42947,121,sand,buŋin,,,25,
+43304,122,water,ayax,,,2,1
+43661,123,"to flow",an̄ut,,,,
+44018,124,sea,laut,,,6,
+44375,125,salt,gaxam,,L,18,
+44732,126,lake,danau,,,1,1
+45089,127,woods/forest,utan,,,7,1
+45446,128,sky,laŋit,,,1,1
+45803,129,moon,bulan,,,1,1
+46160,130,star,bintaŋ,,,1,
+46517,131,cloud,aban,,,1,
+46874,132,fog,kabut,,,1,1
+47231,133,rain,ujan,,,1,1
+47588,134,thunder,guruh,,,1,
+47945,135,lightning,gəlap,,,,
+48302,136,wind,aŋin,,,1,1
+48659,137,"to blow",niup,,,"1,19",1
+49016,138,warm,paras,,,1,1
+49373,139,cold,diŋin,,,1,
+49730,140,dry,kəxiŋ,,,22,
+50087,141,wet,basah,,,1,1
+50444,142,heavy,bəxat,,,1,1
+50801,143,fire,api,,,1,1
+51158,144,"to burn",nunu,,,1,1
+51515,145,smoke,asap,,,49,
+51872,146,ash,abu,,,1,1
+52229,147,black,itam,,,1,1
+52586,148,white,putih,,,1,1
+52943,149,red,mixah,,,1,1
+53300,150,yellow,kuniŋ,,,1,1
+53657,151,green,ijau,,,25,
+54014,152,small,kəciʔ,,,28,
+54371,153,big,bəsaʔ,,,"28,128",
+54728,154,short,pandaʔ,,,1,1
+55085,155,long,panjaŋ,,,24,
+55442,156,thin,nipis,,,1,1
+55799,157,thick,kandal,,,45,
+56156,158,narrow,kəciʔ,,,36,
+56513,159,wide,libax,,,49,1
+56870,160,"painful, sick",sakit,,,1,1
+57227,161,"shy, ashamed",malu,,,20,
+57584,162,old,tuə,,,1,1
+57941,163,new,əmpai,,,,
+58298,164,good,iluk,,,68,
+58655,165,"bad, evil",jàhat,,,1,1
+59012,166,"correct, true",bənax,,,1,1
+59369,167,night,malam,,,20,
+59726,168,day,axi,,,17,1
+60083,169,year,taun,,,1,1
+60440,170,when?,kəbilə,,,13,
+60797,171,"to hide",səmbun̄ɪ,,,1,1
+61154,172,"to climb",nəiʔ,,,1,1
+61511,173,at,di,,,20,1
+61868,174,"in, inside",dalam,,,1,1
+62225,175,above,"di pucuʔ",,,,
+62582,176,below,"di bawah",,,1,1
+62939,177,this,ini,,,1,1
+63296,178,that,itu,,,16,1
+63653,179,near,paraʔ,,,27,
+64010,180,far,jauh,,,1,1
+64367,181,where?,dimanə,,,20,
+64724,182,I,aku,,,1,1
+65081,183,thou,ŋan,,,,
+65438,184,he/she,diə,,,18,1
+113853,185,we,kitə,,,1,1
+113854,185,we,kami,,,2,
+66152,186,you,kamu,,,1,1
+66866,188,what?,apə,,,1,1
+67223,189,who?,sapə,,,12,
+67580,190,other,lain,,,2,
+67937,191,all,galə,,,91,
+68294,192,and,awan,,,,
+68651,193,if,kalu,"< SKT jaka + AR law",L,14,
+69008,194,how?,maʔmanə,,,23,
+69365,195,"no, not",deʔdə,,,2,
+69722,196,"to count",ŋituŋ,,,31,1
+70079,197,One,sijat,,,,
+70436,198,Two,duə,,,1,1
+70793,199,Three,tigə,,,8,
+71150,200,Four,əmpat,,,1,1

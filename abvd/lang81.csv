@@ -1,0 +1,200 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+81,Mono,"Blust, from Tryon & Hackman (1983)",mte,mono1273,"Tryon, D.T. & Hackman, B. (1983) Solomon Islands languages: an internal classification.",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, South New Ireland-Northwest Solomonic, Mono-Uruava","Penny Keenan","Simon Greenhill","@book{85830,  address               = {Canberra},  note                  = {Bibliography: p. 483-490.},  pages                 = {viii+490},  publisher             = {Research School of Pacific and Asian Studies, Australian National University},  series                = {Pacific Linguistics: Series C},  title                 = {Solomon Islands Languages: An Internal Classification},  volume                = {72},  year                  = {1983},  bibtexkey             = {hackman-tryon_solomon-islands1983},  class_loc             = {PL6211.S6},  document_type         = {B},  fn                    = {papua\tryon-hackman_solomon-islands1983.pdf, papua\tryon-hackman_solomon-islands1983pages.pdf, papua\tryon-hackman_solomon-islands1983pages_o.pdf},  hhtype                = {overview;comparative;wordlist},  inlg                  = {English [eng]},  inlg_code             = {eng},  isbn                  = {9780858832923},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 6211 .S6 TRY 1983},  src                   = {hh, mpieva},  srctrickle            = {hh#hvw:TryonHackman:Solomon, mpieva#Tryon1983SolomonI},  subject_headings      = {Melanesian languages–Solomon Islands–Classification, Solomon Islands–Languages–Classification, Melanesian languages–Solomon Islands–Classification – Solomon Islands–Languages–Classification},  author                = {Tryon, Darrell T. and Hackman, B. D.}}"
+latitude,longitude
+-7.04999999999999982236,155.75000000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+81,1,hand,ime-,,,"1,65",?
+438,2,left,karaka,,,17,
+795,3,right,matau,,,"5,13",1
+1152,4,leg/foot,toto-,,,95,
+1509,5,"to walk",gagana,,,36,
+1866,6,road/path,poʔa,,,34,
+2223,7,"to come",laoma,"(<+lako mai)",,"1,85",1
+71715,8,"to turn",ilehe,,,42,
+71716,8,"to turn",eto,,,41,
+2937,9,"to swim",usu,,,12,
+3294,10,dirty,mētu,,,2,
+3651,11,dust,kotehu,,,63,
+4008,12,skin,ulili,,,1,1?
+4365,13,back,arɔ-,,,57,
+4722,14,belly,tia-,,,1,1
+5079,15,bone,suma-,,,22,
+5436,16,intestines,siopana,,,36,
+5793,17,liver,ate-,,,1,1
+6150,18,breast,lulu-,,,3,
+6864,20,"to know, be knowledgeable",ataeŋ,,,35,
+7221,21,"to think",ononogu,,,50,
+7578,22,"to fear",hulau,,,46,
+7935,23,blood,masini-,,,7,
+8292,24,head,alapatu-,,,"9, 63",
+8649,25,neck,lua-,,,18,
+145999,26,hair,pulu-na,"hair (body)",,31,
+9363,27,nose,leu-,,,40,
+9720,28,"to breathe",maoaha,,,42,
+72796,29,"to sniff, smell",aho,,,1,?
+72797,29,"to sniff, smell",oʔola,,,52,?
+10434,30,mouth,uru-,,,2,
+10791,31,tooth,nihɔ-,,,"1,35",1
+11148,32,tongue,meata-,,,7,
+11505,33,"to laugh",melea,,,52,
+11862,34,"to cry",tai,,,1,1
+12219,35,"to vomit",ʔopiʔopi,,,15,
+12576,36,"to spit",amisu,,,"14, 22",
+12933,37,"to eat",aŋ,,,1,?
+14004,40,"to drink",oa,,,26,
+14361,41,"to bite",ʔaʔati,,,"1, 55",
+14718,42,"to suck",motopi,,,"1, 32",
+15075,43,ear,tanna-,,1,1,
+15432,44,"to hear",nono,,1?,"1, 36",
+15789,45,eye,mata-,,1,1,
+16146,46,"to see",roroi,,,56,
+16860,48,"to sleep",suele,,,52,
+17217,49,"to lie down",eʔo,,,11,
+17931,51,"to sit","aʔu hotu",,,76,
+18288,52,"to stand",tegese,,,37,
+18645,53,"person/human being",tioŋ,,,"10,46",
+19002,54,man/male,tioŋ,,,"46, 68",
+19359,55,woman/female,vataha,,"or 5?",50,
+19716,56,child,natu-,,,5,
+20787,59,mother,nka-,,,28,
+21144,60,father,āpa-,,,48,
+21501,61,house,numa,,,1,1
+21858,62,thatch/roof,saveana,,,36,
+22215,63,name,lea-,,,"1,18",
+22572,64,"to say",tuʔu,,,75,
+22929,65,rope,alolo,,,47,
+74977,66,"to tie up, fasten",pipisi,,,32,
+74978,66,"to tie up, fasten",lamoŋ,,,,
+23643,67,"to sew",ave,,,49,
+24357,69,"to hunt",ahilu,,,43,
+75300,71,"to stab, pierce",pau,,,7,
+75301,71,"to stab, pierce",loati,,,,
+25428,72,"to hit",saʔu,,,74,
+25785,73,"to steal",sisiʔo,,,13,
+26142,74,"to kill",hamate,,,2,
+26499,75,"to die, be dead",mate,,,1,1
+26856,76,"to live, be alive",sale,,,38,
+27213,77,"to scratch",kɔnukɔnu,,,44,
+27570,78,"to cut, hack",kavaki,,,71,
+27927,79,stick/wood,au,,,1,1
+28284,80,"to split",mise,,,,
+28641,81,sharp,aromoto,,,74,
+344978,81,sharp,ràŋi,,,,
+28998,82,"dull, blunt",kuʔu,,,,
+29355,83,"to work",sasapale,,,39,
+76284,87,"to swell",ɪɔlo,,,43,
+76285,87,"to swell",kɔʔɔ,,,44,
+31140,88,"to squeeze",hituʔi,,,51,
+31497,89,"to hold",okɔti,,,57,
+31854,90,"to dig",eli,,,1,1
+76825,95,"to fall",kāpa,,,61,
+76826,95,"to fall",aga,,,,
+33996,96,dog,ʔauʔau,,,17,
+34353,97,bird,māraka,,,32,
+34710,98,egg,erana,,,37,
+35067,99,feather,regese,,,42,
+35424,100,wing,vae-,,,16,
+35781,101,"to fly",loho,,,1,1
+36138,102,rat,kuake,"irreg reflex",,"3,61",
+36495,103,meat/flesh,mɔsu-,,,42,
+36852,104,fat/grease,ha-tutu,,,50,
+37209,105,tail,auko-,,,47,
+37566,106,snake,nihe,,,1,1
+38280,108,louse,ūtu,,,1,1
+38637,109,mosquito,nono,,,42,
+38994,110,spider,koro,,,40,
+39351,111,fish,iana,,,1,1
+39708,112,rotten,mosi,,,31,
+40065,113,branch,lala-,,,"1,33",1?
+40422,114,leaf,loʔe-,,,24,
+40779,115,root,lamutu-,,,3,1
+41136,116,flower,epuepu,,,13,
+41493,117,fruit,hua-,,,1,1
+41850,118,grass,vuluvulu,,,19,
+78016,119,earth/soil,pirani,,,40,
+78017,119,earth/soil,peta,,,41,
+78092,120,stone,pausape,,,22,
+78093,120,stone,ʔoʔolo,,,,
+42921,121,sand,mesɔla,,,44,
+43278,122,water,atele,,,32,
+43635,123,"to flow",toala,,,39,
+43992,124,sea,keno,,,41,
+45063,127,woods/forest,āva,,,47,
+45420,128,sky,avu,,,41,
+45777,129,moon,nānaha,,,32,
+46134,130,star,vitovito,,,"1,81",1
+46491,131,cloud,tuvetuve,,,60,
+46848,132,fog,makohu,,,"1,47",?
+78743,133,rain,suʔa,metathesis,,"1,19",
+78744,133,rain,laiti,,,31,
+47562,134,thunder,salala,,,52,
+47919,135,lightning,ilailaha,,,2,?
+48276,136,wind,oa,,,,
+48633,137,"to blow",ihu,,,5,
+48990,138,warm,pɔsala,,,57,
+49347,139,cold,moamoa,,,56,
+49704,140,dry,regerege,,,60,
+50061,141,wet,siputa,,,51,
+50418,142,heavy,māmaʔa,,,"46,35",
+50775,143,fire,heli,,,26,
+79460,144,"to burn",ali,,,49,
+79461,144,"to burn",hagausi,,,,
+51489,145,smoke,tula,,,52,
+51846,146,ash,o|ahu,,,"1,69",1?
+52203,147,black,sivisivi,,,39,
+52560,148,white,ʔanaʔanaʔa,,,50,
+52917,149,red,masimasini,,,"50,75",
+53274,150,yellow,temotemoli,,,50,
+53631,151,green,malamalae,,,14,
+53988,152,small,atuaiʔi|na,,,50,
+54345,153,big,kanega|na,,,51,
+54702,154,short,papaʔa|na,,,50,?
+55059,155,long,reʔapa,,,51,
+55416,156,thin,perapera,,,7,
+55773,157,thick,vatuvatu,,,41,
+56844,160,"painful, sick",aoho,,,17,
+80480,162,old,kanega,,,14,
+80481,162,old,magota,,,70,
+57915,163,new,haolu|na,,,1,1
+58272,164,good,reko|na,,,71,
+58629,165,"bad, evil",paite|na,,,45,
+58986,166,"correct, true",toto|na,,,35,
+59343,167,night,voi,,,1,1
+59700,168,day,lale,,,6,1?
+60057,169,year,matinale,,,"9,37",
+122440,170,when?,rɔisa,,,34,?
+122441,170,when?,ahanaʔaŋ,,,6?,
+61128,172,"to climb",aneʔe,,,,
+61485,173,at,unao,,,26,
+61842,174,"in, inside",olava-na,,,24,
+62556,176,below,pola-na,,,12,
+62913,177,this,eʔa,,,26,
+63627,179,near,taginai,,,63,
+63984,180,far,reʔapana,,,49,
+64341,181,where?,hina,,,42,
+64698,182,I,ma|ha,,,19,
+65055,183,thou,ma|ito,,,,
+65412,184,he/she,eʔa,,,,
+122442,185,we,ma|ita,,,1,1
+122443,185,we,māni,,,32,
+66126,186,you,māŋ,,,26,
+66483,187,they,relanaʔi,,,,
+66840,188,what?,ahana,,,1,
+67197,189,who?,aleʔa,,,,
+68268,192,and,ai,,,35,
+68625,193,if,lao,,,,
+68982,194,how?,ahauaʔaŋ,,,,
+69339,195,"no, not",ʔaiʔai,,,19,
+69696,196,"to count",kāla,,,44,
+70053,197,One,kāla,,,"31,45",
+70410,198,Two,e-lua,,,1,1
+70767,199,Three,e-pisa,,,4,
+71124,200,Four,e-hati,,,"1,65",1
+145991,201,Five,lima,five,,1,
+145992,202,Six,ɔnɔmo,six,,1,
+145993,203,Seven,hitu,seven,,1,
+145994,204,Eight,ālu,eight,,3,
+145995,205,Nine,ulia,nine,,21,
+145996,206,Ten,lāhulu,ten,,"5,21",
+145997,209,"One Hundred","ea latuu","one hundred",,4,
+145998,210,"One Thousand","ea kɔkɔlei","one thousand",,34,

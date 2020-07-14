@@ -1,0 +1,221 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+157,Itbayaten,"Lawrence A. Reid",ivv,ivat1242,,,"Austronesian, Malayo-Polynesian, Philippine, Bashiic, Ivatan","Debasish Roy","Simon Greenhill","@book{136553,  address               = {[Honolulu]},  note                  = {Bibliography: p. [241]},  pages                 = {xii+239},  publisher             = {Univ. of Hawaii Press},  series                = {Oceanic linguistics special publication},  title                 = {Philippine minor languages: word lists and phonologies},  volume                = {8},  year                  = {1971},  bibtexkey             = {reid_minor-phonologies1971},  class_loc             = {PL5525},  document_type         = {B},  fn                    = {papua\reid_philippine-minor1971.pdf},  hhtype                = {overview;comparative;wordlist},  inlg                  = {English [eng]},  inlg_code             = {eng},  internetarchive_id    = {rosettaproject_syb_phon-1},  isbn                  = {9780870226915},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 5525 PHI 1971},  src                   = {hh, mpieva, wals},  srctrickle            = {hh#hvw:Reid:Philippine-Minor, mpieva#1971Philippi, wals#4987},  subject_headings      = {Philippine languages–Glossaries, vocabularies, etc., Philippine languages–Phonology, Philippine languages–Glossaries, vocabularies, etc. – Philippine languages–Phonology},  author                = {Reid, Lawrence Andrew},  editor                = {Reid, Lawrence Andrew}}"
+latitude,longitude
+20.75097714407783300317,121.83837890625000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+157,1,hand,limaʔ,"loss of *qa- prefix",,"1,64",1
+514,2,left,guriʔ,,,26,
+871,3,right,wanan,,,1,1
+1228,4,leg/foot,ʔayiʔ,,,1,1?
+1585,5,"to walk",humayam,,,,
+1942,6,road/path,raraxan,,,"1,54",1
+2299,7,"to come",ayan,,,1,
+2656,8,"to turn",masugɨd,,,71,
+3013,9,"to swim",miawat,,,21,
+3370,10,dirty,"marulit a riday","PMP (Reid) *rujit \"dirty\"",,27,
+71912,11,dust,ʔaǥbɨk,,,"1,49",1?
+71913,11,dust,kuǥbɨk,,,"1,49",1?
+4084,12,skin,kulit,,,1,1
+4441,13,back,licud,,,1,1
+4798,14,belly,vulɨk,,,27,
+5155,15,bone,tuʔǥaŋ,,,1,1
+5512,16,intestines,tinayiʔ,,,1,1
+5869,17,liver,ʔatay,,,1,1
+6226,18,breast,rahdah,,,18,
+6583,19,shoulder,psagatan,,,20,
+6940,20,"to know, be knowledgeable",icha'panmu,,,25,
+7297,21,"to think",maŋ-tuktu,,,25,
+7654,22,"to fear",mahaʔmuʔ,,,37,
+8011,23,blood,rayaʔ,,,1,1
+8368,24,head,ʔuǥuʔ,,,1,1
+8725,25,neck,ragaw,,,36,
+9082,26,hair,vuhuk,,,"1,65",1
+9439,27,nose,muhdan,,,19,
+9796,28,"to breathe",hinawa,,,1,
+10153,29,"to sniff, smell",haŋutɨn,*Saŋut-en,,"4, 22",
+10510,30,mouth,vivih,,,32,
+10867,31,tooth,ñipɨn,,,1,1
+11224,32,tongue,rilaʔ,,,4,1
+11581,33,"to laugh",humñit,,,34,
+11938,34,"to cry",tumañis,,,1,1
+132073,35,"to vomit",ʔumʔutaʔ,,,1,1
+132074,35,"to vomit",ʔumutaʔ,,,1,1
+12652,36,"to spit",mittiipah,,,15,
+13009,37,"to eat",kuman,,,"1,14",1
+13366,38,"to chew",ŋetŋet,,,,
+13723,39,"to cook",manuʔtuŋ,,,"22,41",
+14080,40,"to drink",ʔuminum,,,1,1
+14437,41,"to bite",suñitɨn,,,19,
+14794,42,"to suck",sɨpsɨpɨn,,,1,1
+15151,43,ear,tilwan,,,20,
+15508,44,"to hear",manʔadŋɨy,,,1,1
+15865,45,eye,mataʔ,,,1,1
+16222,46,"to see",tiiban,,,41,
+16579,47,"to yawn",ahwab,,,19,
+16936,48,"to sleep",makahicɨǥ,,,21,
+17293,49,"to lie down",akxeb,,,,
+17650,50,"to dream",taynɨp,,,30,
+18007,51,"to sit",matnɨk,,,32,
+18364,52,"to stand",mittaʔnɨk,,,21,
+18721,53,"person/human being",tawuʔ,,,1,1
+19078,54,man/male,maǥakay,,,"2,24",1?
+19435,55,woman/female,mavakɨs,,,16,
+19792,56,child,ʔanak,,,1,1
+20149,57,husband,"maysa maǥakay",,,30,
+20506,58,wife,"maysa mavakɨs",,,21,
+20863,59,mother,ʔinaʔ,,,"1,76",1
+21220,60,father,ʔamaʔ,,,"1,18",1
+21577,61,house,vaǥay,,,14,
+21934,62,thatch/roof,ʔatɨp,,,1,1
+22291,63,name,ŋaran,,,1,1
+22648,64,"to say",vatahɨn,,,40,
+23005,65,rope,pnuspus,,,88,
+75011,66,"to tie up, fasten",ʔicɨdkɨd,,,27,
+75012,66,"to tie up, fasten",ʔiʔwar,,,107,
+23719,67,"to sew",manʔaǥnɨb,,,35,
+24076,68,needle,rayɨm,,,"1,34",1
+24433,69,"to hunt",maŋǥaaǥap,,,,
+75252,70,"to shoot",paltog,,,,
+75253,70,"to shoot",pana,,,1,
+25147,71,"to stab, pierce",vunuɨn,,,26,
+25504,72,"to hit",bogbog,,,,
+25861,73,"to steal",manakaw,,,1,1
+26218,74,"to kill",manlipɨt,,,23,
+26575,75,"to die, be dead",naliman,,,14,
+26932,76,"to live, be alive",ma-vihay,,,15,
+27289,77,"to scratch",karamuhɨn,,,34,
+75729,78,"to cut, hack",tabtab-an,,,,1
+75730,78,"to cut, hack",taga-en,,,1,1
+28003,79,stick/wood,kayuh,,,1,1
+92359,80,"to split",vaka-en,,,,1
+92360,80,"to split",man-'aslah,,,,
+28717,81,sharp,matarɨm,,,1,1
+29074,82,"dull, blunt",maŋarɨǥ,,,26,
+29431,83,"to work",miparipariñ,,,,
+29788,84,"to plant",mimuǥaʔ,,,1,1
+30145,85,"to choose",mamiliʔ,,,1,1
+30502,86,"to grow",t-um-uvu,,,1,1
+30859,87,"to swell",bookol,,,,
+76374,88,"to squeeze",yamɨsɨn,,,44,1?
+76375,88,"to squeeze",yamsɨn,,,44,1?
+31573,89,"to hold",kɨmkɨmɨn,,,"1,45",1
+31930,90,"to dig",micaliʔ,,,1,1
+32287,91,"to buy",manaliw,,,20,
+32644,92,"to open, uncover",vokxad,,,,
+33001,93,"to pound, beat",maŋsad,,,7,
+76762,94,"to throw",paptadɨn,,,22,
+76763,94,"to throw",manʔaptad,,,22,
+33715,95,"to fall",maʔnas,,,30,
+34072,96,dog,tituʔ,,,49,
+34429,97,bird,kaŋkaŋ,,,19,
+34786,98,egg,ʔittiiyuy,,,1,1
+35143,99,feather,vuǥbuǥ,,,"1,68",
+35500,100,wing,panid,,,2,1
+35857,101,"to fly",sumayap,,,23,
+36214,102,rat,karam,,,24,
+36571,103,meat/flesh,a'si,,,"1,93",
+36928,104,fat/grease,tavaʔ,,,23,
+37285,105,tail,ʔipus,,,30,
+37642,106,snake,vulay,"etymon: *buNay",,29,?
+37999,107,"worm (earthworm)",ʔalwatiʔ,,,1,1
+38356,108,louse,kutuʔ,,,1,1
+38713,109,mosquito,hamuruk,,,,
+39070,110,spider,ʔaǥǥaawaʔ,,,1,1
+39427,111,fish,ʔamuŋ,,,19?,
+39784,112,rotten,maǥtaʔ,,,40,
+40141,113,branch,saŋa,,,2,
+40498,114,leaf,vuǥuŋ,,,18,
+40855,115,root,yamut,,,3,1
+41212,116,flower,savuŋ,,,"24,1",
+41569,117,fruit,ʔaʔsiʔ,,,10,
+41926,118,grass,vochivok,,,24,
+78034,119,earth/soil,tanaʔ,,,1,1
+78035,119,earth/soil,ǥutaʔ,,,25,1
+42640,120,stone,vatuʔ,,,1,1
+42997,121,sand,ʔaʔnay,,,"1,88",1
+43354,122,water,ranum,,,1,1
+43711,123,"to flow",um-uyug,,,22,
+44068,124,sea,hawaʔ,,,26,
+44425,125,salt,ʔasin,,,3,
+44782,126,lake,[liik],,,,
+107847,127,woods/forest,kakkayuhan,,,2,1
+107848,127,woods/forest,ka-axas-an,,,1,
+78516,128,sky,ǥanit,"ganit = gan)it?",,1,1
+78517,128,sky,karɨmdɨman,"ganit = gan)it?",,,1
+45853,129,moon,vuǥan,,,1,1
+46210,130,star,vituin,,,1,1
+46567,131,cloud,rimdim,,,"2,106",
+46924,132,fog,kaxepkep,,,18,
+47281,133,rain,timuy,,,12,
+47638,134,thunder,raagurug,,,"1,46",1
+47995,135,lightning,cilat,,,1,1
+48352,136,wind,sarawsaw,,,26,
+48709,137,"to blow",vuhitan,,,23,
+49066,138,warm,makuǥat,,,103,
+49423,139,cold,marukmiǥ,,,122,
+49780,140,dry,mabkuǥ,,,24,
+50137,141,wet,mavasaʔ,,,1,1
+50494,142,heavy,maraǥmɨt,,,"22,65",
+50851,143,fire,hapuy,,,1,1
+51208,144,"to burn",suǥsuǥan,,,100,
+51565,145,smoke,ʔaʔǥub,,,55,
+51922,146,ash,ʔavuʔ,,,1,1
+52279,147,black,mavaɨŋ,,,20,
+52636,148,white,mahilak,,,27,
+52993,149,red,mavayah,,,29,
+53350,150,yellow,mayuǥamaʔ,,,25?,
+53707,151,green,birdiʔ,,L,,
+79888,152,small,ʔalɨkɨt,,,"66,122",?
+79889,152,small,ʔalɨkɨy,,,"66,123",?
+54421,153,big,rakuǥ,,,22,
+54778,154,short,masidsid,,,,
+55135,155,long,ʔanaruʔ,,,1,
+55492,156,thin,mataripis,,,"1,11",1?
+55849,157,thick,matukpuǥ,,,22,
+56206,158,narrow,mahilid,,,20,
+56563,159,wide,mayavuŋ,,,"15,71",
+56920,160,"painful, sick",hiñnɨn,,,24,
+57277,161,"shy, ashamed",masnɨk,,,15,
+57634,162,old,markɨm,,,22,
+57991,163,new,vaʔyuʔ,,,1,1
+58348,164,good,mapiaʔ,,,1,1
+58705,165,"bad, evil",maraɨt,,,1,1
+59062,166,"correct, true",uyud,,,"21,86",
+59419,167,night,ʔaʔǥɨp,,,,
+59776,168,day,ʔaraw,,,"1,54",1
+60133,169,year,hawan,,,"2,74",
+80942,170,when?,ʔaŋkaaŋuh,,,"10,68",
+80943,170,when?,ʔannuŋuh,,,"10,67",
+60847,171,"to hide",ʔumtayuʔ,,,13,
+61204,172,"to climb",kayatɨn,,,17,
+61561,173,at,do,,,39,
+61918,174,"in, inside",asked,,,"14,58",
+62275,175,above,niʔto,,,"21,56",
+62632,176,below,ʔaǥbuʔ,,,29,
+62989,177,this,niyaʔ,,,35,
+63346,178,that,nawiʔ,,,,
+63703,179,near,masŋɨn,,,23,
+64060,180,far,harawiʔ,,,"1,52",
+81715,181,where?,dinuh,,,"1,56",
+81716,181,where?,rinuh,,,"1,56",
+64774,182,I,yakɨn,,,"1,28",1
+65131,183,thou,ʔimuʔ,,,28,?
+65488,184,he/she,ʔiiyaʔ,,,1,
+113953,185,we,yatɨn,,,"1,47",1
+113954,185,we,yamɨn,,,"2,48",
+66202,186,you,ʔimiiyuʔ,,,"1,39",
+66559,187,they,siraʔ,,,1,1
+66916,188,what?,ʔakuh,,,"2,20",
+67273,189,who?,sinuh,,,"14,47",
+67630,190,other,tarɨk,,,30,
+67987,191,all,tattavuh,,,45,
+82517,192,and,ka|n[i],,,1,
+82518,192,and,ka|n[u],,,1,
+68701,193,if,ʔan,,,"2,25",
+69058,194,how?,koŋoh,,,,
+69415,195,"no, not",ʔalih,,,1,
+69772,196,"to count",mivilavilaŋ,,,1,?
+70129,197,One,ʔaʔsaʔ,,,1,1
+70486,198,Two,duhaʔ,,,1,1
+70843,199,Three,ʔatluʔ,,,"1,15",1
+71200,200,Four,ʔaʔpat,,,"1,14",1

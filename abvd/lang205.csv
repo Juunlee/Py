@@ -1,0 +1,184 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+205,Lahanan,"Blust, from: J. Rousseau and Informant Lake'Ido",lhn,laha1253,,,"Austronesian, Malayo-Polynesian, North Borneo, Melanau-Kajang, Kajang","Peng Du","Simon Greenhill","@misc{LakeIdo-205-2005,  author = \"J. Rousseau and Lake'Ido\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+2.49036999999999997257,114.67255000000000109139
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+205,1,hand,tuju,,,,
+562,2,left,bujay,,,22,
+919,3,right,taʔo,,,"5,25",1
+1276,4,leg/foot,bəti,,,23,
+1633,5,"to walk",b|lakaw,,,1,1
+1990,6,road/path,jilu,,,15,
+2347,7,"to come",ñay,,,1?,?
+2704,8,"to turn",kək|ɪlaŋ,,,,?
+3061,9,"to swim",satoŋ,,,,
+3418,10,dirty,luaʔ,,,,
+3775,11,dust,luaw,,,,
+4132,12,skin,kərow,,,,
+4489,13,back,likut,,,1,1
+4846,14,belly,butit,,,24,
+5203,15,bone,tulwaŋ,,,1,1
+5560,16,intestines,buri,,,,
+5917,17,liver,atay,,,1,1
+6631,19,shoulder,bəbaŋ,,,19,
+6988,20,"to know, be knowledgeable",baŋ,,,,
+7345,21,"to think",pikir,"loan of 22",L,22,
+7702,22,"to fear",poʔut,,,,
+8059,23,blood,laʔa,,,1,1
+8416,24,head,kuhoŋ,,,27,
+8773,25,neck,kənuʔa,,,34,
+9130,26,hair,bulow,,,1,
+9487,27,nose,uroŋ,,,1,1
+9844,28,"to breathe","məjat iʔik",,,,
+10201,29,"to sniff, smell",ŋ-arək,,,1,1
+10558,30,mouth,baʔ,,,1,1
+10915,31,tooth,ñipən,,,1,1
+11272,32,tongue,jillaʔ,,,4,1
+11629,33,"to laugh",milaʔ,,,3,
+11986,34,"to cry",naŋih,,,1,1
+12343,35,"to vomit",nutaʔ,,,1,1
+12700,36,"to spit",nijaʔ,,,"14, 58?",1
+13057,37,"to eat",kuman,,,1,1
+13771,39,"to cook",bau,,,,
+14128,40,"to drink",ru,,,,
+14485,41,"to bite",teip,,,,
+14842,42,"to suck",nisip,,,1,1
+15199,43,ear,bariŋ,,,,
+15556,44,"to hear",nəniŋ,,,1,
+15913,45,eye,mata,,,1,1
+16270,46,"to see",pilap,,,,
+16984,48,"to sleep",məlut,,,,
+17341,49,"to lie down",miri,,,17,
+18055,51,"to sit",uŋu,,,,
+18412,52,"to stand",nəkriŋ,,,18,?
+18769,53,"person/human being",linow,,,18,
+19126,54,man/male,liley,,,2?,
+19483,55,woman/female,ləwa,,,,
+19840,56,child,anak,,,1,1
+20197,57,husband,sawa|k,,,2,1
+20554,58,wife,sawa|k,,,1,1
+20911,59,mother,hina|m,,,1,1
+21268,60,father,amaʔ,,,1,1
+21625,61,house,ləvu,,,12,
+22339,63,name,aran,,,1,1
+22696,64,"to say",laʔik,,,,
+23053,65,rope,taləy,,,1,1
+23410,66,"to tie up, fasten",mikət,,,1,1
+23767,67,"to sew",sut,,,,
+24838,70,"to shoot",nimak,,,49,?
+25195,71,"to stab, pierce",napag,,,,
+25552,72,"to hit",pok,,,,
+26266,74,"to kill",pə-kito,,,,
+26623,75,"to die, be dead",kito,,,,
+26980,76,"to live, be alive",murip,,,1,1
+27337,77,"to scratch",gatən,,,43,
+75740,78,"to cut, hack",pət,,,,
+75741,78,"to cut, hack",butun,,,,
+28408,80,"to split",mia,,,,
+28765,81,sharp,ñait,,,30,
+29122,82,"dull, blunt",kajən,,,,1
+29479,83,"to work",ñaduy,,,22,
+30907,87,"to swell",baa,,,1,1
+31264,88,"to squeeze",mamah,,,1,1?
+31621,89,"to hold",mivit,,,,
+31978,90,"to dig",ŋaleʔ,,,1,1
+76781,94,"to throw",mətoŋ,,,,
+76782,94,"to throw",mitig,,,,
+33763,95,"to fall",bə|lavu,,,1,1
+34120,96,dog,asow,,,1,1
+34477,97,bird,manok,,,1,1
+34834,98,egg,təlu,,,1,1
+35191,99,feather,bulun,,,1,1
+35548,100,wing,lat,,,23,
+35905,101,"to fly",mənilip,,,,
+36262,102,rat,blavow,,,1,1
+77236,103,meat/flesh,sey,,,1,1
+77237,103,meat/flesh,baʔa,,,,1
+36976,104,fat/grease,iñak,,,1,1
+37333,105,tail,ikuy,,,1,1
+37690,106,snake,ñipa,,,1,?
+38047,107,"worm (earthworm)",ulət,,,36,
+38404,108,louse,kutow,,,1,1
+38761,109,mosquito,diamok,,,1?,1?
+39118,110,spider,tə|lawaʔ,,,1,1
+39475,111,fish,giən,,,1?,?
+39832,112,rotten,maram,,,25,
+40546,114,leaf,daʔun,,,1,1
+40903,115,root,amut,,,3,1
+41260,116,flower,bərak,,,22,
+41617,117,fruit,bugwa,,,1,1
+41974,118,grass,urow,,,52,
+42331,119,earth/soil,tana,,,1,1
+42688,120,stone,batow,,,1,1
+43045,121,sand,atip,,,,
+43402,122,water,danum,,,1,1
+43759,123,"to flow",lugwa,,,,
+44116,124,sea,baŋət,,,24,
+44473,125,salt,ñiŋ,,,,
+44830,126,lake,bawaŋ,,,13,
+45187,127,woods/forest,"luvaŋ urow",,,,
+45544,128,sky,laŋit,,,1,1
+46258,130,star,kətuʔən,,,1,1
+46615,131,cloud,ʔap,,,,
+46972,132,fog,ʔap,,,,
+47329,133,rain,ujan,,,1,1
+48400,136,wind,bauy,,,25?,
+48757,137,"to blow",mu|ñup,,,"1,19",1
+49114,138,warm,pana,,,1,1
+49471,139,cold,siŋin,,,21,?
+49828,140,dry,mapok,,,,
+50185,141,wet,basaʔ,,,1,1
+50542,142,heavy,baat,,,1,1
+50899,143,fire,apuy,,,1,1
+79491,144,"to burn",katan,,,,
+79492,144,"to burn",sirəp,,,,
+51613,145,smoke,tugun,,,20,
+79593,146,ash,bənun,,,,
+79594,146,ash,uniŋ,,,,
+52327,147,black,busaŋ,,,,
+52684,148,white,puti,,,1,1
+53041,149,red,gilig,,,,
+53398,150,yellow,kuniŋ,,L,1,?
+53755,151,green,ñimit,,,26,
+54112,152,small,taʔi,,,,
+54469,153,big,bakan,,,,
+54826,154,short,kavu,,,,
+55183,155,long,larun,,,1,1
+55540,156,thin,ñipi,,,1,1
+55897,157,thick,kapan,,,1,1
+56254,158,narrow,atip,,,,
+56611,159,wide,bəlaŋ,,,13,
+57682,162,old,təvusu,,,,
+58039,163,new,bau,,,1,1
+58396,164,good,ia,,,1,1?
+58753,165,"bad, evil",jiʔat,,,1,1?
+59110,166,"correct, true",maroŋ,,,20,
+59467,167,night,lərəm,,,20,
+59824,168,day,daw,,,1,1
+60181,169,year,duman,,,18,
+60538,170,when?,təkura,,,,
+61609,173,at,tey,,,,
+61966,174,"in, inside",lovaŋ,,,23?,
+63037,177,this,itu,,,10,
+63394,178,that,inan,,,1,1?
+63751,179,near,ləkin,,,,
+64108,180,far,biju,,,,
+64465,181,where?,abaʔ,,,,
+64822,182,I,akow,,,1,1
+65179,183,thou,ikow,,,1,1
+65536,184,he/she,bəkən,,,,
+82013,185,we,kitah,,,1,1
+82014,185,we,"kita iow",,,1,1
+66250,186,you,adig,,,,
+66607,187,they,sirə|bukən,"bukən '(other) people' (SA)",,1,1
+66964,188,what?,naw,,,2,
+67678,190,other,inəbukən,,,10,
+68035,191,all,gaʔ,,,,
+68392,192,and,jantaʔ,,,,
+69106,194,how?,kaʔan,,,,
+69463,195,"no, not",ilow,,,,
+69820,196,"to count",piñap,,,2,
+70177,197,One,dìa,,,1,
+70534,198,Two,lugwa,,,1,1
+70891,199,Three,təlow,,,1,1
+71248,200,Four,pat,,,1,1

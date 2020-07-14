@@ -1,0 +1,197 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+171,"Madak (Lamasong Dial.)",Blust,lbv,lava1239,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, Madak","Penny Keenan","Simon Greenhill","@misc{Blust-171-2005,  author = \"Robert A. Blust\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-4.04342622844082022482,152.26639362647389930316
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+171,1,hand,guma,,,,?
+528,2,left,nəis,"careful = nais?",,,
+885,3,right,nasa,64?,,,
+71502,4,leg/foot,gege,,,1,1
+71503,4,leg/foot,kage,,,1,1
+1599,5,"to walk",pəs,,,8,
+71609,6,road/path,ŋas,,,20,
+71610,6,road/path,ŋisu,,,20,
+2313,7,"to come",undeu,,,,
+2670,8,"to turn",sapuk,,,80,
+3027,9,"to swim",kagɪs,,,9,
+71840,10,dirty,benan,,,,
+71841,10,dirty,bira,,,39,
+3741,11,dust,kakup,,,17,
+4098,12,skin,ragu,,,,
+4455,13,back,silom,,,,
+4812,14,belly,baya,,,18,
+5169,15,bone,si,,,52,
+5526,16,intestines,mbantine,,,1?,?
+5883,17,liver,gat,,,1,1
+6240,18,breast,susu,,,1,1
+6597,19,shoulder,kagayaŋ,,,25,
+6954,20,"to know, be knowledgeable",atik,,,35,
+7311,21,"to think",ndogondogoma,,,,
+7668,22,"to fear",maraat,,,1,1?
+8025,23,blood,ndaa,,,1,1
+9096,26,hair,kamanin,,,74,
+9453,27,nose,isi-,,,1,1
+9810,28,"to breathe",mamas,,,33,
+10167,29,"to sniff, smell",sima,,,,
+10524,30,mouth,ŋusa-,,,2,
+10881,31,tooth,ŋisa,,,24,1?
+11238,32,tongue,ŋgama-,,,"7, 14",
+11595,33,"to laugh",noŋon,,,16,
+11952,34,"to cry",tɪŋ,,,1,1
+12309,35,"to vomit",mura,,,1,1
+12666,36,"to spit",imbis,,,25,
+73247,37,"to eat",an,,,1,1
+73248,37,"to eat",anən,,,1,1
+73413,39,"to cook",rɪn,,,9,
+73414,39,"to cook",tɪn,,,9,
+14094,40,"to drink",in,,,1,1
+14451,41,"to bite",gonom,,,,
+14808,42,"to suck",rogop,,,30,
+15165,43,ear,rintiŋa,,,1,1?
+15522,44,"to hear",roŋo,,,"1, 36",1
+15879,45,eye,mara,,,1,1
+16236,46,"to see",vondo,,,,
+16593,47,"to yawn",məman,,,19,
+16950,48,"to sleep",uŋa,,,81,
+18021,51,"to sit",kis,,,20,
+18378,52,"to stand",tu,,,2,
+18735,53,"person/human being",rarina,,,37,
+19092,54,man/male,randi,,,49,
+19449,55,woman/female,gaine,,,1?,1?
+19806,56,child,nat,,,5,
+20163,57,husband,ramasɪk,,,,
+20520,58,wife,rumbu,,,,
+20877,59,mother,na-,,,"1,42",1
+21234,60,father,tama-,,,1,1
+21591,61,house,anu,,,7?,
+21948,62,thatch/roof,"sig anu",,,,
+22305,63,name,asa-,,,"1,18",1
+22662,64,"to say",vara,"< POc *waRa- ?",,30,
+23019,65,rope,"vugʊs vogus",,,2,
+23376,66,"to tie up, fasten",vogos,,,11,
+23733,67,"to sew",sɪk,"(sew sago leaves) (<+sawi)",,34,
+24447,69,"to hunt",silin,,,12,
+24804,70,"to shoot",tuyu,,,10,
+25161,71,"to stab, pierce",so,,,67,
+75405,72,"to hit",soŋgo,,,,
+75406,72,"to hit",tɪt,,,8,
+25875,73,"to steal",isigim,,,,
+26232,74,"to kill",səp,,,35,
+26589,75,"to die, be dead",məre,,,1,1
+26946,76,"to live, be alive",roro,,,30,
+27303,77,"to scratch",gaga,,,,?
+27660,78,"to cut, hack",vit,,,,
+28017,79,stick/wood,una,,,,
+28374,80,"to split",vəŋgəm,,,46,
+28731,81,sharp,anən,,,14,
+29088,82,"dull, blunt","vap mbut",,,,
+29445,83,"to work",ŋgu,,,93,
+29802,84,"to plant",sia,,,66,
+30873,87,"to swell",sʊk,,,37,
+31230,88,"to squeeze",vilok,,,64,
+76455,89,"to hold",rəŋə,,,19,
+76456,89,"to hold",təŋə,,,19,
+31944,90,"to dig",gʊt,,,,
+32658,92,"to open, uncover",vəvəŋ,,,,
+33372,94,"to throw",tuyu,,,70,
+33729,95,"to fall",goyo,,,,
+34086,96,dog,gandu,,,47,
+34443,97,bird,viga,,,25,
+34800,98,egg,gatli,,,1,1
+35157,99,feather,mbembe,,,35,
+35514,100,wing,vapa,,,49,
+35871,101,"to fly",pava,,,59,
+36228,102,rat,gisap,,,3,
+36585,103,meat/flesh,wet,,,98,
+36942,104,fat/grease,monok,,,"1,65",1?
+37299,105,tail,rigariga,,,,
+37656,106,snake,sisi,,,36,
+38013,107,"worm (earthworm)",ŋgoro,"(= maggot)",,,
+38370,108,louse,gap,,,14,
+38727,109,mosquito,gələvi,,,63,
+39084,110,spider,gəmbilʊŋ,,,28,
+39441,111,fish,mat,,,49,
+39798,112,rotten,mau,,,"1, 65",
+40155,113,branch,gagan,,,51,
+40512,114,leaf,gaman,,,,
+40869,115,root,kəkəs,(careful:kakas?),,,
+41226,116,flower,vusuvusu,,,,
+41583,117,fruit,venti,,,,
+41940,118,grass,mbini,,,,
+42297,119,earth/soil,vua,,,60,
+42654,120,stone,wat,,,1,1
+43011,121,sand,gaŋkanɪŋ,,,45,
+43368,122,water,ndan,,,"1,61",1
+44082,124,sea,magat,,,8,
+44439,125,salt,ras,"(not rIs?)",,20,
+45153,127,woods/forest,karuriŋ,,,,
+45510,128,sky,galimbet,,,39,
+45867,129,moon,ŋgolin,,,,
+46224,130,star,tian,,,54,?
+46581,131,cloud,gaŋ,,,,
+46938,132,fog,mbolombologaŋ,,,,
+47295,133,rain,gumbu,,,,
+48009,135,lightning,kəmes,,,,
+48366,136,wind,mantavu,,,,
+48723,137,"to blow",vu,,,6,
+49080,138,warm,tatalep,,,,
+49437,139,cold,mamandut,,,47,
+49794,140,dry,məməs,,,11,
+50151,141,wet,mbimbilu,,,,
+50508,142,heavy,mumuat,,,"46,35",
+50865,143,fire,vugɪn,,,,
+51222,144,"to burn",arʊs,,,,
+51579,145,smoke,aturas,,,2?,
+51936,146,ash,"mbilaŋ kakup",,,24,
+52293,147,black,mbumbugas,,,,
+52650,148,white,mapmavut,,,,
+53007,149,red,malamalɪs,,,1?,
+53364,150,yellow,laklaŋən,,,60,
+53721,151,green,məgaməga,,,82,
+54078,152,small,ndokndok,,,,
+54435,153,big,puruk,,,,
+54792,154,short,gumburik,,,,
+55149,155,long,mbamban,,,,
+55506,156,thin,ndokndok,,,,
+55863,157,thick,puruk,,,,
+56220,158,narrow,nguŋgumit,,,,
+56577,159,wide,malavəŋ,,,48,?
+56934,160,"painful, sick",ŋut,,,,
+57291,161,"shy, ashamed",məŋan,,,9,
+57648,162,old,maut,,,55,
+58005,163,new,məgət,,,23,
+80602,164,good,vukat,,,,
+80603,164,good,mapmaran,,,,
+58719,165,"bad, evil",vəsəgə,,,1?,
+59076,166,"correct, true",tuntuna,,,56,
+59433,167,night,məin,,,,
+59790,168,day,nagaŋkiŋ,,,39,
+60504,170,when?,naŋisa,,,"1,43",1
+61218,172,"to climb",ɪŋ,(ladder),,,
+81218,174,"in, inside",toŋ,,,,
+81219,174,"in, inside",te,,,,
+62289,175,above,vənə,,,2,
+62646,176,below,kərəpo,,,,
+63003,177,this,na,,,,1
+81495,178,that,ni,,,1,1
+81496,178,that,noŋ,,,1,1
+63717,179,near,atara,,,9,
+64074,180,far,pəpəŋga,,,,
+64431,181,where?,ava,,,"3,48",
+64788,182,I,e,,,"1,21",
+65145,183,thou,u,,,34,?
+65502,184,he/she,i,,,1,1
+113967,185,we,ndə,,,1,
+113968,185,we,mbə,,,,
+66216,186,you,mbi,,,26,
+66573,187,they,ndi,,,25,
+66930,188,what?,esa,,,1,
+67287,189,who?,sina,,,"1,28",
+68001,191,all,pirʊs,,,,
+69072,194,how?,"arəŋ wa",,,,
+69429,195,"no, not",pu,,,,
+69786,196,"to count",us,,,10,
+70143,197,One,"e gas",,,32,
+70500,198,Two,"e u",,,1,1?
+70857,199,Three,"e run",,,1,1
+71214,200,Four,"e wɪt",,,"1,65",1

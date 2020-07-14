@@ -1,0 +1,164 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+3,Banggi,"Blust, from Schneeberger",bdg,bong1289,,,"Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Palawanic","Peng Du","Simon Greenhill","@article{124789,  journal    = {Journal of the Malayan Branch Royal Asiatic Society},  number     = {3},  pages      = {145-164},  title      = {A short vocabulary of the Banggi and Bajau languages},  volume     = {15},  year       = {1937},  bibtexkey  = {schneeberger_banggi-bajau1937},  fn         = {papua\schneeberger_banggi-bajau1937.pdf},  hhtype     = {wordlist},  inlg       = {English [eng]},  inlg_code  = {eng},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#w:Schneeberger:Banggi-Bajau},  author     = {Schneeberger, W. F.}}"
+latitude,longitude
+7.29248999999999991672,117.17448000000000263299
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+3,1,hand,fī,,,,
+360,2,left,kuikiwaŋ,,,,
+717,3,right,kikuan,"cognate 23 or 1?",,"1,62",
+1074,4,leg/foot,uei,,,"1,100",1?
+1431,5,"to walk",ĕmpāno,,,2,1
+2145,7,"to come",miātaŋ,,,,
+2859,9,"to swim",lěmuŋi,,,,1
+3216,10,dirty,damak,,,44,
+3573,11,dust,auu,,,1?,
+3930,12,skin,kubal,,,,
+4644,14,belly,tiagn,,,1,1
+5001,15,bone,tulagn,,,1,1
+5715,17,liver,ati,,,1,1
+6072,18,breast,dudu,,,15,
+6429,19,shoulder,owu,,,,
+6786,20,"to know, be knowledgeable",fandi,,,,
+7143,21,"to think",mihir,"loan of 22",L,22,
+7500,22,"to fear",molok,,,,
+7857,23,blood,rāh,,,1,1
+8214,24,head,ulu,,,1,1
+8571,25,neck,tigoru,,,,
+8928,26,hair,obuk,,,"1,68",1
+9285,27,nose,iduŋ,,,1,1
+9642,28,"to breathe",intaŋ,,,,
+9999,29,"to sniff, smell",ĕŋgadak,,,1,1
+10356,30,mouth,bobok,,,,1
+10713,31,tooth,kuhud,,,,
+11070,32,tongue,dila,,,4,1
+11784,34,"to cry",tĕmeis,,,1,
+12498,36,"to spit",ilab,,,39,
+12855,37,"to eat",mohodn,,,"1,14",1
+13569,39,"to cook",ěŋgafi,,,90,
+13926,40,"to drink",ĕŋinum,,,1,1
+14283,41,"to bite",nohol,,,,
+14640,42,"to suck",nunsup,,,"1,24",1
+15354,44,"to hear",kidoŋor,,,1,1
+15711,45,eye,māta,,,1,1
+16782,48,"to sleep",modop,,,30,
+17139,49,"to lie down",sĕmarik,,,,
+17496,50,"to dream",ĕŋgĕnifi,,,"1,37",1
+17853,51,"to sit",mufuŋ,,,,
+18567,53,"person/human being",lāma,,,,
+18924,54,man/male,lahi,,,2,1
+19281,55,woman/female,liwun,,,17,
+19638,56,child,anak,,,1,1
+19995,57,husband,sāna,,,,?
+20352,58,wife,sāh,,,,
+21066,60,father,ama,,,1,1
+21423,61,house,bāli,,,14,
+21780,62,thatch/roof,safu,,,,
+22137,63,name,ĕŋārdn,,,1,
+22494,64,"to say",moro,,,,
+22851,65,rope,tali,,,1,1
+23208,66,"to tie up, fasten",nigad,,,1,
+23922,68,needle,jarum,,L,,
+24636,70,"to shoot",nimbak,,,,
+24993,71,"to stab, pierce",musuk,,,1,1
+25350,72,"to hit",numbuk,,,35,
+25707,73,"to steal",nahu,,,1,1
+26421,75,"to die, be dead",māti,,,1,1
+26778,76,"to live, be alive",biag,,,15,
+27135,77,"to scratch",nuhud,,,,
+27492,78,"to cut, hack",kĕtofo,,,"103,105",
+27849,79,stick/wood,kiau,,,1,1?
+28206,80,"to split",mĕlak,,,1,1
+28563,81,sharp,ĕntaram,,,1,1
+29634,84,"to plant",nanam,,,2,1
+29991,85,"to choose",mili,,,1,1
+32133,91,"to buy",moli,,,1,1
+32490,92,"to open, uncover",tiŋgiwa,,,,
+33561,95,"to fall",ĕndabu,,,1,1
+33918,96,dog,āsu,,,1,1
+34275,97,bird,bohed,,,,
+34989,99,feather,bubul,,,"1,67",
+35346,100,wing,koh,,,,
+35703,101,"to fly",lampad,,,21,
+36060,102,rat,sihud,,,,
+36417,103,meat/flesh,onsi,,,1,1
+36774,104,fat/grease,lāna,,,81,
+37131,105,tail,ifus,,,30,
+37488,106,snake,ulagn,,,2,1
+37845,107,"worm (earthworm)",liŋguaŋ,,,19,
+38559,109,mosquito,tonok,,,,
+39273,111,fish,sadak,,,18,
+39630,112,rotten,mutaŋ,,,,
+39987,113,branch,saŋa,,,2,
+40344,114,leaf,doudn,,,1,1
+77819,115,root,fahat,,,,1?
+77820,115,root,brān,,,,1?
+41058,116,flower,budak,,,22,
+41415,117,fruit,buak,,,1,1
+41772,118,grass,rihut,,,45,
+42129,119,earth/soil,tānah,,,1,1
+42486,120,stone,batu,,,1,1
+43200,122,water,beig,,,2,1
+43914,124,sea,loud,,,6,
+44271,125,salt,timus,,,2,1
+44985,127,woods/forest,gobak,,,32,
+45342,128,sky,laŋit,,,1,1
+45699,129,moon,buaitn,,,1,1
+46056,130,star,bitūdn,,,1,1
+46413,131,cloud,awan,,,,
+47127,133,rain,dolok,,,,
+48198,136,wind,dodos,,,82,
+48912,138,warm,ĕmfanas,,,1,1
+49269,139,cold,rāmig,,,22,
+49626,140,dry,eŋkorign,,,,
+49983,141,wet,ĕmbasah,,,1,1
+50340,142,heavy,mogat,,,1,1
+50697,143,fire,afi,,,1,1
+51054,144,"to burn",nutugn,,,19,
+51411,145,smoke,goudn,,,,
+51768,146,ash,awu,,,1,1
+52125,147,black,modom,,,82,
+52482,148,white,ĕmputih,,,1,1
+52839,149,red,ĕnsĕgak,,,,
+53196,150,yellow,kuid,,,1,
+53910,152,small,toyok,,,,
+54267,153,big,midia,,,,
+54624,154,short,puhu,,,,
+54981,155,long,mĕlaŋgu,,,94,
+55695,157,thick,ĕŋkafal,,,1,1
+56409,159,wide,melimbag,,,"1,65",
+56766,160,"painful, sick",sahit,,,1,1
+57123,161,"shy, ashamed",mĕlou,,,"71,72",
+57480,162,old,ĕntua,,,1,1
+57837,163,new,bāru,,,"1,54",1
+58194,164,good,ĕmpia,,,1,1
+58551,165,"bad, evil",ĕndod,,,,
+58908,166,"correct, true",bār,,,,?
+59265,167,night,raobi,,,,
+59622,168,day,odu,,,"1,54",1
+59979,169,year,toudn,,,1,1
+61050,172,"to climb",sĕmblahi,,,,
+61407,173,at,ki,,,42,?
+61764,174,"in, inside",kisoid,,,,
+62121,175,above,kilibuat,,,54,
+62478,176,below,kisiduŋ,,,"35,78",
+62835,177,this,ĕntī,,,36,
+63192,178,that,ino,,,1,1?
+63549,179,near,miŋat,,,,
+63906,180,far,moduk,,,,1?
+64263,181,where?,mĕnihan,,,,
+64620,182,I,ou,,,"1,5",1
+64977,183,thou,uhu,,,,
+65334,184,he/she,kui,,,,
+81977,185,we,sĕsia,,,,
+81978,185,we,ihi,,,,
+66762,188,what?,onuh,,,"2,65",
+67119,189,who?,asi,,,,1?
+67476,190,other,leidn,,,2,
+68190,192,and,mak,,,2,1?
+68904,194,how?,fuŋgama,,,,
+69261,195,"no, not",ĕndak,,,109,
+69618,196,"to count",niap,,,2,
+69975,197,One,isa,,,1,1
+70332,198,Two,dua,,,1,1
+70689,199,Three,taolu,,,"1,10",1
+71046,200,Four,afad,,,"1,16",1

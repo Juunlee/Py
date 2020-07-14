@@ -1,0 +1,200 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+222,Ubir,"Malcolm Ross",ubr,ubir1237,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Papuan Tip, Nuclear, North Papuan Mainland-D'Entrecasteaux, Are-Taupota, Are","Penny Keenan","Simon Greenhill","@misc{Ross-222-2005,  author = \"Malcolm Ross\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-8.62273552315167890470,149.82701954896279517016
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+222,1,hand,ima|n,,,1,1
+579,2,left,asugaf,,,,
+936,3,right,asumaiau,,,,
+1293,4,leg/foot,a|n,,,1,1?
+1650,5,"to walk",e|bibib,,,,
+2007,6,road/path,eta,,,12,
+2364,7,"to come",e|nat,,,,
+2721,8,"to turn",i|sobibir,,,66,
+3078,9,"to swim",e|yeib,,,16,
+3435,10,dirty,duma,,,141,
+3792,11,dust,foufou,,,18,
+4149,12,skin,usi|n,,,50,?
+4506,13,back,kou|n,,,40,
+4863,14,belly,ja|n,,,45,
+5220,15,bone,anrarik,,,,
+5577,16,intestines,amo|n,,,30,
+5934,17,liver,ate|n,,,1,1
+6291,18,breast,susu|n,,,1,1
+6648,19,shoulder,abara|n,,,1,1
+7005,20,"to know, be knowledgeable",i|sagob,,,82,
+7362,21,"to think",i|nos,,,94,
+7719,22,"to fear",e|beber,,,,
+8076,23,blood,antara,,,1,1?
+8433,24,head,uni|n,,,1,1?
+8790,25,neck,anjo|n,,,,
+9147,26,hair,tefa|n,,,57,
+9504,27,nose,aburu|n,,,17,
+9861,28,"to breathe",|yaraten,,,,
+10218,29,"to sniff, smell",i|aŋan,,,,
+10575,30,mouth,awa|n,,,36,
+10932,31,tooth,wa|n,,,65,
+11289,32,tongue,fafe|n,,,32,
+11646,33,"to laugh",e|seseser,,,,
+12003,34,"to cry",e|toutou,,,8,
+12360,35,"to vomit",i|mout,,,1,?
+12717,36,"to spit",er,,,,
+13074,37,"to eat",i|ani|n,,,1,1
+13431,38,"to chew",e|gififi|n,,,,
+13788,39,"to cook",i|tab,,,116,
+14145,40,"to drink",e|toma|n,,,,
+14502,41,"to bite",i|gi,,,,
+14859,42,"to suck",e|toma|n,"irregular *u > o, *u > a",,"81, 86",
+15216,43,ear,taina|n,,,1,1
+15573,44,"to hear",e|tatain,,,,
+15930,45,eye,mata|n,,,1,1
+16287,46,"to see",e|ite|n,,,1,1
+16644,47,"to yawn",e|momowab,,,19,1
+17001,48,"to sleep",i|enbubur,,,"8,65",
+17358,49,"to lie down",i|en|rir,,,"1,67",1
+17715,50,"to dream",i|bomomot,,,,
+18072,51,"to sit",i|mair,,,,
+18429,52,"to stand",e|tawar,,,2,
+18786,53,"person/human being",sabu,,,,
+19143,54,man/male,orot,,,21,
+19500,55,woman/female,jever,,,,
+19857,56,child,natu|n,,,5,
+20214,57,husband,awa|n,,,2,1
+20571,58,wife,awa|n,,,1,
+20928,59,mother,ayo|n,,,30,
+21285,60,father,tama|n,,,1,1
+21642,61,house,goa,,,,
+21999,62,thatch/roof,fafar,,,,
+22356,63,name,wabi|n,,,9,
+22713,64,"to say",e|bikafon,,,20,
+23070,65,rope,uram,,,19,
+23427,66,"to tie up, fasten",i|yos,,,,
+23784,67,"to sew",e|sasagir,,,"2,53",
+75163,68,needle,sainuk,,,,
+75164,68,needle,aisik,,,,
+24498,69,"to hunt",i|o,,,,
+24855,70,"to shoot",i|oren,,,,
+25212,71,"to stab, pierce",i|tab,,,47,
+25569,72,"to hit",i|rab,,,60,
+25926,73,"to steal",i|bainau,,,"1,32",1
+26283,74,"to kill",i|as|bun,,,1,1?
+26640,75,"to die, be dead",i|rabob,,,10,
+26997,76,"to live, be alive",yawasi|n,,,10,
+27354,77,"to scratch",i|gamsisir,,,,
+27711,78,"to cut, hack",i|sese,,,,
+28068,79,stick/wood,siwa,,,"1,33",
+28425,80,"to split",i|kuseb,,,,
+28782,81,sharp,mamata|n,,,36,
+29496,83,"to work",e|bobo,,,,
+29853,84,"to plant",e|tataniu,,,2,
+30210,85,"to choose",|rurubi|n,,,,
+30567,86,"to grow",e|rarat,,,58,
+30924,87,"to swell",i|dau,,,,
+31281,88,"to squeeze",e|fifisi|n,,,29,1?
+31638,89,"to hold",e|bota|n,,,37,
+31995,90,"to dig",e|sasarai,,,10,
+32709,92,"to open, uncover",i|rubo|n,,,,
+33066,93,"to pound, beat",e|wabir,,,,
+33423,94,"to throw",i|rebe|n,,,,
+33780,95,"to fall",e|fefeu,,,25,
+34137,96,dog,kuke,,,17,
+34494,97,bird,kiwiu,,,16,
+34851,98,egg,foufou|n,,,15,
+35208,99,feather,bubuni|n,,,25,1
+35565,100,wing,fafe|n,,,21,
+35922,101,"to fly",e|robob,,,1,1
+36279,102,rat,gorobu,,,19,
+36636,103,meat/flesh,bio|n,,,10,
+36993,104,fat/grease,mona|n,,,"1,65",1
+37350,105,tail,gi|n,metathesis,,1,
+37707,106,snake,mota,,,12,
+38064,107,"worm (earthworm)",momot,,,10,
+38421,108,louse,kuta,,,1,1?
+38778,109,mosquito,nanam,,,1,1
+39135,110,spider,afanana|n,"[spiders web]",,,
+39492,111,fish,ian,,,1,1
+77690,112,rotten,fumi|n,,,,
+77691,112,rotten,furima|n,,,,
+40563,114,leaf,roro|n,,,1,1?
+40920,115,root,averoro|n,,,,
+41277,116,flower,bera|n,,,17,
+41634,117,fruit,ua,,,1,1
+41991,118,grass,wayo,,,,
+42348,119,earth/soil,motob,,,,
+42705,120,stone,agim,,,13,
+43062,121,sand,gasa,,,,
+43419,122,water,sareo,,,,
+43776,123,"to flow",|tiririn,,,52,
+44133,124,sea,kamit,,,,
+44490,125,salt,kamit,,,7,
+44847,126,lake,una,,,16,
+45204,127,woods/forest,rega,,,,
+45561,128,sky,"kasa kasau",,,,
+45918,129,moon,roke,,,,
+46275,130,star,siribod,,,,
+46632,131,cloud,"kasa kasa",,,42,
+47346,133,rain,usan,,,1,1
+47703,134,thunder,raurau,,,103,
+48417,136,wind,yabat,,,74,
+48774,137,"to blow",e|sisin,,,60,
+49131,138,warm,forabi|n,,,,
+49488,139,cold,yagur,,,,
+49845,140,dry,rarani|n,,,,
+50202,141,wet,sorofi|n,,,,
+79390,143,fire,wakig,,,,?
+79391,143,fire,wairaf,,,,?
+51273,144,"to burn",e|jojor,,,,
+51630,145,smoke,bakur,,,,
+51987,146,ash,itum,,,,
+52344,147,black,guguri|n,,,37,
+52701,148,white,kakai|n,,,72,
+53058,149,red,murori|n,,,,
+53415,150,yellow,janoioi|n,,,9,
+53772,151,green,guguri|n,,,,
+54129,152,small,kafakakai|n,,,67,
+54486,153,big,gagami|n,,,119,
+54843,154,short,dibo|n,,,,
+55200,155,long,weromi|n,,,,
+55557,156,thin,sisiru|n,(sic),,,
+56271,158,narrow,sisiru|n,(sic),,15,
+56628,159,wide,fefeta|n,,,,
+56985,160,"painful, sick",sawau,,,,
+57342,161,"shy, ashamed",mamai,,,1,1
+57699,162,old,iorotokwa,,,,
+58056,163,new,boubou|n,,,"1,26",1?
+58413,164,good,obi|n,,,,
+58770,165,"bad, evil",komasi|n,,,,
+59127,166,"correct, true",obi|n,,,,
+59484,167,night,fom,,,"1,78",
+59841,168,day,ra,,,,1?
+60198,169,year,kwanda,,,,
+60555,170,when?,mean,,,8,
+60912,171,"to hide",bai|bubuni|n,[hidden],,1,1
+61269,172,"to climb",e|geg,,,,
+61626,173,at,-[y]ai,,,"12,31",
+61983,174,"in, inside",amo|nai,,,11,
+62340,175,above,tefa|nai,,,14,
+62697,176,below,baba|nai,,,1,1
+63054,177,this,nin,,,1,1
+81514,178,that,nan,,,1,1
+81515,178,that,ato,,,,1
+63768,179,near,bisi|nai,,,66,
+64482,181,where?,menan,,,13,
+64839,182,I,yau,,,"1,21",1
+65196,183,thou,oni,,,1,
+65553,184,he/she,oni,,,"1,55",
+82019,185,we,ot,,,,
+82020,185,we,ivei,,,1,
+66267,186,you,omi,,,"1,13",1
+66624,187,they,osi,,,25,
+66981,188,what?,aifan,,,,
+67338,189,who?,iyafan,,,,
+68052,191,all,eŋgon,,,,
+68409,192,and,ato,,,,
+69123,194,how?,fan,,,,
+69480,195,"no, not",ambin,,,,
+69837,196,"to count",e|biyab,,,67,
+70194,197,One,kaitamon,"-mon 'only'",,83,
+70551,198,Two,rua|m,,,1,1
+70908,199,Three,ton,,,1,1
+71265,200,Four,bat,,,1,1

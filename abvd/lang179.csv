@@ -1,0 +1,260 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+179,Ponapean,"Blust, from: Rehg & Sohl (1979)",pon,pohn1238,"Rehg, K.L. & Sohl, D.G. (1979). Ponapean-English Dictionary. Pali Language Texts. University of Hawaii Press, Honolulu.",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Micronesian, Micronesian Proper, Ponapeic-Trukic, Ponapeic","Simon Greenhill","Simon Greenhill","@book{158369,  address    = {Honolulu},  publisher  = {University of Hawaii Press},  title      = {Ponapean-English Dictionary. PALI Language Texts: Micronesia},  year       = {1979},  asjp_name  = {Pohnpeian},  bibtexkey  = {rehg-sohl_ponapean-micronesia1979},  hhtype     = {dictionary},  inlg       = {English [eng]},  macro_area = {Papua},  src        = {asjp2010},  srctrickle = {asjp2010#3203},  author     = {Rehg, K.L. and Sohl, D. G.}}"
+latitude,longitude
+5.63347995011737268101,159.00838451822301067295
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+179,1,hand,lime,,,1,1
+536,2,left,palimeiŋ,,,13,
+893,3,right,palimaun,,,"5, 36",
+1250,4,leg/foot,neh,,,63,
+1607,5,"to walk",alu,loan?,L,34,
+1964,6,road/path,ahl,,,1,1
+2321,7,"to come",koh-,,,,
+2678,8,"to turn",wikidek,,,12,
+3035,9,"to swim",pap,,,,
+3392,10,dirty,pwelipwel,,,74,
+3749,11,dust,pwelipar,,,101,
+4106,12,skin,kihl,,,1,1
+4463,13,back,tihnsowe,back,,,
+4820,14,belly,kapehd,,,89,
+5177,15,bone,tih,,,2,
+72147,16,intestines,kepwe,things(stuff)?,,,
+72148,16,intestines,pwise,"manure?; 'faeces' < PCMic *pwuta[ei] - see Bender et al. (2003)",,,
+209488,16,intestines,mwasahl,intestines,,"1,13",
+5891,17,liver,eh,,,1,1
+6248,18,breast,dihdi,,,1,1
+6605,19,shoulder,pwopwe,,,,
+6962,20,"to know, be knowledgeable",ese,,,35,
+7319,21,"to think",madamadau,,,,
+7676,22,"to fear",masak,,,1,1
+8033,23,blood,nta,,,1,1
+8390,24,head,moahŋ,,,64,
+209487,24,head,"mong nge",,,64,
+8747,25,neck,[tepin]were,,,,
+9104,26,hair,pitenmoaŋ,,,,
+9461,27,nose,tumwe,,,,
+9818,28,"to breathe",esiŋek,,,,
+10175,29,"to sniff, smell",ned,,,87,
+10532,30,mouth,ahu,,,36,
+10889,31,tooth,ŋih,,,30,
+72984,32,tongue,lahu,,,18,
+72985,32,tongue,loh,,,18,
+11603,33,"to laugh",kouruhr,,,,
+11960,34,"to cry",seŋ,,,1,1
+12317,35,"to vomit",mmwus,,,1,1
+12674,36,"to spit",kendip,,,"19, 55",
+13031,37,"to eat",kaŋ,,,1,1
+13388,38,"to chew",rukoa,,,,
+13745,39,"to cook",inim,,,96,
+14102,40,"to drink",nim,"reflex of PMic *nima 'drinkable object, with possessive classifier'",,"1, 59",?
+73565,41,"to bite",ke,,,"38, 73",1?
+73566,41,"to bite",ŋalis,,,,1?
+14816,42,"to suck",kuhl,,,,
+179374,42,"to suck",mihk,"to suck",,,
+15173,43,ear,saleŋ,,,1,1
+15530,44,"to hear",roŋ,,,1,1
+15887,45,eye,pwoaren|mas,,,1,1
+16244,46,"to see",kilaŋ,,,18,
+16601,47,"to yawn",maudel,"mau- segment is cognate",,19,
+16958,48,"to sleep",meir,,,1,1?
+17315,49,"to lie down",wohnohn,,,1,
+17672,50,"to dream",oure|men,,,,?
+18029,51,"to sit",mwohd,,,"18,101",
+74110,52,"to stand",uh,,,2,1
+74111,52,"to stand",kesihnen,,,,1
+18743,53,"person/human being",aramas,,,"67,70",1?
+19100,54,man/male,ohl,,,13,
+19457,55,woman/female,lih,,,6,
+19814,56,child,seri,,,7,
+20171,57,husband,pwoud,,,16,
+20528,58,wife,pwoud,,,10,
+91267,59,mother,ihn,,,1,1
+91268,59,mother,nohno,,,"1, 83",
+91327,60,father,sahm,,,1,1
+91328,60,father,pahpa,,,48,
+21599,61,house,ihmw,,,"1, 48",1
+21956,62,thatch/roof,oahs,"cp loahN 'fly'",,1,1
+22313,63,name,ahd,,,"1,18",1
+74819,64,"to say",dene,,,,
+74820,64,"to say",nda,,,,
+23027,65,rope,sahl,,,1,1
+75017,66,"to tie up, fasten",pire,,,,
+75018,66,"to tie up, fasten",salih,,,,
+75091,67,"to sew",dehk,,,,1
+75092,67,"to sew",deidei,,,2,1
+24098,68,needle,dikek,,,11,
+209490,69,"to hunt","kesik tihe","to hunt deer",,90,
+209491,69,"to hunt","kesik pwihk","to hunt pigs",,90,
+24812,70,"to shoot",kasikih,,,,
+91609,71,"to stab, pierce",katuk,,,,?
+91610,71,"to stab, pierce",doakoa,,,67,
+25526,72,"to hit",keme,,,,
+179373,72,"to hit","en lel","to hit",,,
+75471,73,"to steal",pirapa,,,8,
+26240,74,"to kill",kemehla,,,91,
+26597,75,"to die, be dead",meh|la,,,1,1
+26954,76,"to live, be alive",mour,,,"1, 76",1
+27311,77,"to scratch",karipwude,,,12,
+27668,78,"to cut, hack",sepe,"(into pieces)",,19,
+28025,79,stick/wood,tuh|ke,,,1,?
+28382,80,"to split",pwaik,"pwal is the cognate - JCM",,"1, 76",
+28739,81,sharp,keŋ,,,"14,68",
+29096,82,"dull, blunt",kons,,,,
+29453,83,"to work",doadoahk,,,35,
+29810,84,"to plant",poadok,,,6,
+30167,85,"to choose",pil,,,1,1
+30524,86,"to grow",os,,,,
+30881,87,"to swell",mpwosada,,,9,
+76376,88,"to squeeze",iŋidpene,,,,
+76377,88,"to squeeze",weŋid,,,,
+31595,89,"to hold",kol,,,,
+31952,90,"to dig",weir,,,56,
+32309,91,"to buy",natihada,,,,
+32666,92,"to open, uncover",ritiŋ,"(anything hinged)",,,
+33023,93,"to pound, beat",suk,,,"20, 2",1
+33380,94,"to throw",kese,,,14,
+76858,95,"to fall",lempehdi,,,,
+76859,95,"to fall",pwupw,,,,
+34094,96,dog,kidi,,,7,
+34451,97,bird,men|pihr,,,1,1
+76999,98,egg,damaŋo,,,,?
+77000,98,egg,kutohr,,,,?
+35165,99,feather,wine,,,30,
+35522,100,wing,peh,,,7,?
+35879,101,"to fly",pihr,,,,
+36236,102,rat,kitik,"'mouse; < 'rat' + 'little'",,"16, 66",
+36593,103,meat/flesh,uduk,,,10,
+36950,104,fat/grease,wih,,,34,
+77344,105,tail,pwaidai,,,,1
+77345,105,tail,iki,,,1,1
+37664,106,snake,sinek,,L,,L
+38021,107,"worm (earthworm)",kamwetel,,,10,
+38378,108,louse,likarak,,,,
+38735,109,mosquito,amwise,,,1,?
+39092,110,spider,likan,"[spider sp.]",,,
+39449,111,fish,mwahmw,,,89,
+77677,112,rotten,mat,,,50,
+77678,112,rotten,mwokuhr,,,,
+40163,113,branch,rah,,,1,1
+40520,114,leaf,teh,,,1,1?
+77839,115,root,kaleu,,,51,
+77840,115,root,kalo,,,51,
+41234,116,flower,kapwat,,,,
+41591,117,fruit,wah,,,1,1
+77982,118,grass,dihpw,,,,
+77983,118,grass,reh,,,14,
+42305,119,earth/soil,pwehl,,,13,
+42662,120,stone,takai,,,47,
+43019,121,sand,pihk,,,13,
+43376,122,water,pihl,,,4,
+43733,123,"to flow",pwil,,,,
+44090,124,sea,sehd,,,1,1
+172350,124,sea,seed,,,1,
+44447,125,salt,soahl,,L,,
+44804,126,lake,leh,,,,
+78475,127,woods/forest,namwel,,,17,
+78476,127,woods/forest,wahl,,,17,
+45518,128,sky,lahŋ,,,1,1
+78552,129,moon,maram,,,7,
+78553,129,moon,sounpwoŋ,month,,61,
+46232,130,star,usu,,,1,1
+46589,131,cloud,depwek,,,,
+46946,132,fog,toahkoi,,,,
+47303,133,rain,keteu,,,24,
+47660,134,thunder,nahnsapwe,,,,
+78865,135,lightning,ipihp,,,,
+78866,135,lightning,lioal,,,,
+48374,136,wind,ahŋ,,,1,1
+48731,137,"to blow",ipihp,,,,?
+49088,138,warm,karakar,,,76,
+49445,139,cold,kopou,,,11,
+49802,140,dry,mad,,,11,
+50159,141,wet,wisekesek,,,,
+50516,142,heavy,toutou,,,9,
+50873,143,fire,ahi,,,1,1
+172561,143,fire,kisiniei,,,,
+51230,144,"to burn",isik,,,93,
+51587,145,smoke,adi,,,2,1
+51944,146,ash,pehs,,,7,
+52301,147,black,toantoal,,,8,
+52658,148,white,pwetepwet,,,11,
+53015,149,red,weitahta,,,,
+53372,150,yellow,oaŋoahŋ,,,9,
+53729,151,green,pohndipw,,,,
+54086,152,small,pwidikidik,,,81,1?
+54443,153,big,laud,,,,
+172359,153,big,lap,,,10,
+54800,154,short,mwotomwot,,,12,
+80154,155,long,aŋed,,,,
+80155,155,long,reirei,,,,
+55514,156,thin,menipinip,,,1,1
+55871,157,thick,mosul,,,3,
+56228,158,narrow,teh|tik,,,13,
+56585,159,wide,teh|lap,,,"9, 48",1
+56942,160,"painful, sick",medek,,,1,1
+57299,161,"shy, ashamed",mwomwitik,,,,
+57656,162,old,mah,,,25,
+58013,163,new,kapw,,,12,
+58370,164,good,mwahu,,,38,
+80683,165,"bad, evil",sakanakan,,,,
+80684,165,"bad, evil",suwed,,,,
+59084,166,"correct, true",pwuŋ,,,12,
+59441,167,night,pwohŋ,,,1,1
+59798,168,day,rahn,,,6,1
+60155,169,year,[soun]pahr,,,"1, 69",1
+60512,170,when?,iahd,,,"1,24",?
+60869,171,"to hide",ruk,,,,
+81057,172,"to climb",daur,,,8,
+81058,172,"to climb",dou,,,8,
+61583,173,at,ni[n],,,1,
+61940,174,"in, inside",loale,,,1,1?
+62297,175,above,powe,,,2,?
+62654,176,below,pah,,,1,1?
+63011,177,this,e[t],,,"1, 18",
+123470,178,that,en,"en (near hearer)",,1,
+123471,178,that,-o,"-o (far)",,,
+63725,179,near,keren,"irregular *ŋ > n",,"1, 98",
+64082,180,far,doh,,,1,1?
+64439,181,where?,iawasa,,,3,
+64796,182,I,ŋehi,,,12,1
+81887,183,thou,kow,,,1,?
+81888,183,thou,kowe,,,1,?
+65510,184,he/she,ih,,,1,1
+65867,185,we,kiht,,,"1, 42",1
+66224,186,you,kumwail,,,1,
+66581,187,they,ihr,,,"1, 70",1
+66938,188,what?,dah,,,"1, 52",1
+67295,189,who?,ihs,,,9,1
+67652,190,other,tei,,,,
+68009,191,all,koaros,,,73,
+68366,192,and,oh,,,,
+68723,193,if,ma,,,3,1
+69080,194,how?,dahduwe,,,,
+69437,195,"no, not",soh,,,,
+69794,196,"to count",wadek,,,10,
+70151,197,One,ehd,,,1,1?
+70508,198,Two,ria-u,,,1,1
+70865,199,Three,siluh,,,1,1
+71222,200,Four,palu,,,"1, 71",1
+172147,201,Five,limɛ-ysɛk,,,1,
+172146,201,Five,lim-mɛn,,,1,
+172145,201,Five,lima-w,,,1,
+172144,201,Five,lima-,,,1,
+172186,202,Six,wɛnɛ-,,,1,
+172185,202,Six,oun,,,1,
+172184,202,Six,aun,,,1,
+172206,203,Seven,isu-u,,,1,
+172205,203,Seven,isi-,,,1,
+172204,203,Seven,(e)-is,,,1,
+172238,204,Eight,walu-u,,,3,
+172237,204,Eight,wali-,,,3,
+172236,204,Eight,wɛli-,,,3,
+172235,204,Eight,wɛlɛ-,,,3,
+172234,204,Eight,(ɛ)-wɛl,,,3,
+172265,205,Nine,duwa-,,,5,
+172276,206,Ten,-ŋowl,,,5,
+172560,207,Twenty,rieisek,,,23,
+172284,208,Fifty,limɛ-ŋowl,,,1,
+172148,208,Fifty,limɛ-ŋowl,,,1,
+172300,209,"One Hundred",(e)-pwiki,,,"20, 36",
+172559,210,"One Thousand",-kid,,,45,

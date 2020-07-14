@@ -1,0 +1,207 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+57,"Kayupulau [Kajupulau]","Blust, from Grace",kzu,kayu1243,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Sarmi-Jayapura Bay, Jayapura Bay","Penny Keenan","Simon Greenhill","@misc{GraceNB,  howpublished = {Ms.},  title        = {1955-1956 Fieldnotes: Notebook Swains Number 2},  year         = {1956},  url          = {http://digicoll.manoa.hawaii.edu/grace/Pages/PDFlist.html},  author       = {Grace, George W.}}"
+latitude,longitude
+-2.54415000000000013358,140.62585000000001400622
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+57,1,hand,ia-,,,,
+414,2,left,keŋgria|ure,,,,?
+771,3,right,banare,,,,
+1128,4,leg/foot,saji,,,,
+1485,5,"to walk",-ɣaɣa,,,70,
+1842,6,road/path,dugu|aɣa,,,,?
+2199,7,"to come",mai,,,1,1
+71704,8,"to turn",dore,,,68,
+71705,8,"to turn",dijore,,,68,
+2913,9,"to swim",-nato,,,,
+3270,10,dirty,priña,,,,
+3627,11,dust,mragu,,,,
+3984,12,skin,wiriji,,,"1,96",?
+4341,13,back,tigbo,,,,
+4698,14,belly,tia-,,,1,1
+5055,15,bone,tukʷe,,,"1,10",
+5412,16,intestines,keviji,,,,
+5769,17,liver,netigi,,,,
+6126,18,breast,tuntu,,,1,?
+6483,19,shoulder,kanabgu,,,,
+6840,20,"to know, be knowledgeable",kericawe,,,,
+7197,21,"to think","kena taɣeto",,,,
+7554,22,"to fear",awato,,,,
+7911,23,blood,nena,,,,?
+8268,24,head,poɣoro,,,,
+8625,25,neck,soho,,,,
+8982,26,hair,-ragu,"(cf 11",,40,
+9339,27,nose,sugu,,,,
+9696,28,"to breathe",kenamarawato,,,,
+10053,29,"to sniff, smell",sento,,,,
+10410,30,mouth,siebo,,,,
+10767,31,tooth,ñoya,,,1,
+11124,32,tongue,meme,,,7,
+11481,33,"to laugh",mamari,,,3,
+73058,34,"to cry",tiña,,,1,1?
+73059,34,"to cry",tãtã,,,1,1?
+12195,35,"to vomit",ugʷa,,,8,
+12552,36,"to spit",kibʷo,,,,
+12909,37,"to eat",ti-anto,,,1,
+13623,39,"to cook","o carato",,,,
+13980,40,"to drink",ti-unto,,,,
+14337,41,"to bite",cakehĩ,,,,
+14694,42,"to suck",ti-unto,,,,
+15051,43,ear,tinã,,,1,1?
+15408,44,"to hear",nono,,,1,1
+15765,45,eye,nuentugu,,,,
+16122,46,"to see",kija,,,1,?
+16836,48,"to sleep",ce-reno,,,,
+17193,49,"to lie down",ti-eno|to,,,1,1
+17550,50,"to dream",pojokəragu,,,,
+17907,51,"to sit",ti-joto,,,,
+18264,52,"to stand",tuɣakuo,,,62,
+18621,53,"person/human being",karu,,,,
+18978,54,man/male,tanta,,,"12,14",
+19335,55,woman/female,moñe,,,"1,51",
+19692,56,child,"karu mouamiñi",,,,
+20049,57,husband,suaɣu,,,2,
+20406,58,wife,suaɣu,,,1,
+20763,59,mother,neñe,,,"1, 83",
+21120,60,father,cece,,,15,
+21477,61,house,numa,,,1,1
+21834,62,thatch/roof,nato,,,1,1
+22191,63,name,"[karu] nahe","(for-e cf.104)",,1,1
+22548,64,"to say",poha,,,63,
+22905,65,rope,baro,,,2,
+74967,66,"to tie up, fasten",doco,,,,
+74968,66,"to tie up, fasten",doi,,,,
+23619,67,"to sew",sijoro,,,,
+24333,69,"to hunt",yari,,,,
+24690,70,"to shoot",eɣua,,,,
+25047,71,"to stab, pierce",eɣua,,,,
+25404,72,"to hit",ranu,,,,
+25761,73,"to steal",suaŋga,,,,
+26118,74,"to kill","eɣua mavu",,,,
+26475,75,"to die, be dead",mavu,,,24,
+26832,76,"to live, be alive",movugu,,,,
+27189,77,"to scratch",soi,,,,
+27546,78,"to cut, hack",tratu,,,1,
+75792,79,stick/wood,toɣo,,,33,1
+75793,79,stick/wood,ai,,,1,1
+28260,80,"to split",duguara,,,,
+28617,81,sharp,misyarji,,,,
+28974,82,"dull, blunt",kombugu,,,24,
+29331,83,"to work",ti-ajo,,,,
+29688,84,"to plant",siaho,,,,
+30045,85,"to choose",rigbieto,,,,
+30759,87,"to swell",rava,,,,
+31116,88,"to squeeze",dendoro,,,,
+31473,89,"to hold",krou,,,,
+31830,90,"to dig",sai,,,,
+32187,91,"to buy",bori|to,,,1,?
+32544,92,"to open, uncover",ti-u,,,,
+32901,93,"to pound, beat",daukʷo,,,,
+33258,94,"to throw",eɣua,,,,
+76816,95,"to fall",dare,,,,
+76817,95,"to fall",jai,,,,
+33972,96,dog,koñe,,,43,
+34329,97,bird,ma,(cf.122),,1,1?
+34686,98,egg,natu,,,17,
+77041,99,feather,marugu,"'bird' + 'hair'",,,
+77042,99,feather,ma-rugu,"'bird' + 'hair'",,,
+35400,100,wing,fagu,,,7,
+35757,101,"to fly",tuɣau,,,,
+36114,102,rat,məsiñco,,,,
+36471,103,meat/flesh,orɣoñe,,,,
+36828,104,fat/grease,mone,"(for-e cf63)",,"1,65",1
+37185,105,tail,kegueji,,,,
+37542,106,snake,bʷaruaro,,,,
+37899,107,"worm (earthworm)",cai,,,,
+38256,108,louse,oti,,,1,?
+38613,109,mosquito,rã,,,1,
+38970,110,spider,xeŋgarawa,,,1,
+39327,111,fish,ji,,,1,
+39684,112,rotten,fogu,,,,
+40398,114,leaf,dagu,(cf.26),,,
+40755,115,root,kambu,,,,
+41112,116,flower,kansrau,,,,
+41469,117,fruit,oɣe,,,,
+41826,118,grass,dei,,,14,
+42183,119,earth/soil,peru,,,,
+42540,120,stone,ata,,,1,1
+42897,121,sand,one,,,1,1
+43254,122,water,na,(=126),,1,1
+43611,123,"to flow",cəruru,,,,
+78311,124,sea,kegu,,,,1
+78312,124,sea,tahi,,,1,1
+44325,125,salt,"tahi rokoñe",,,20,
+44682,126,lake,na,,,,
+45039,127,woods/forest,ucʷa,,,,
+45396,128,sky,ara,,,,
+45753,129,moon,sijara,,,,
+46110,130,star,dave,,,,
+46467,131,cloud,bau,,,,
+46824,132,fog,bau,,,57,
+47181,133,rain,tava,,,,
+47538,134,thunder,xərukəra,,,2,
+47895,135,lightning,metəɣare,,,17,
+48252,136,wind,o,,,,
+48609,137,"to blow",kəmriri,,,,
+48966,138,warm,mane,,,"1, 72",1
+49323,139,cold,məriri,,,1,1
+49680,140,dry,karɣare,,,,
+50037,141,wet,səromo,,,,
+50394,142,heavy,məmaya,,,46,
+50751,143,fire,aijare,,,1,?
+51108,144,"to burn",tirji,,,,
+51465,145,smoke,dijagu,,,,
+51822,146,ash,katiña,,,,
+52179,147,black,kəvoɣe,,,,
+52536,148,white,pisʏoya,,,,
+52893,149,red,maisʏe,,,,
+53250,150,yellow,cano,,,9,
+53607,151,green,nendeneñi,,,,
+53964,152,small,moya,,,,
+54321,153,big,mɣai,,,,
+54678,154,short,təboya,,,,
+55035,155,long,mərawe,,,12,
+55392,156,thin,pegu-fane,,,,
+55749,157,thick,pegu,,,,
+56106,158,narrow,moyaɣava,,,,
+56463,159,wide,-vəre,,,,
+57891,163,new,"o jagu",,,,
+58248,164,good,wane,,,40,
+58605,165,"bad, evil","o sime",,,,
+58962,166,"correct, true",kənɣoñe,,,,
+59319,167,night,poni,,,1,1
+59676,168,day,kona,,,,
+60033,169,year,cəɣama,,,13,
+60390,170,when?,konasa,,,"1,11",
+61104,172,"to climb",kau,,,,
+61461,173,at,-ne,,,,
+61818,174,"in, inside",daro-ne,,,1,1
+62175,175,above,mʷẽ,,,,
+62532,176,below,xerare,,,,
+81343,177,this,ñini,,,1,
+81344,177,this,ñire,,,,
+81453,178,that,bəni,,,,
+81454,178,that,bəre,,,,
+63603,179,near,pətigine,,,,
+63960,180,far,prameure,,,,
+64317,181,where?,kandetane,,,,
+64674,182,I,noɣo,,,"1,21",
+65031,183,thou,ne,,,"1,18",
+65388,184,he/she,nie,,,"1,6",
+123205,185,we,təra,,,,
+123206,185,we,təni,,,1,
+66102,186,you,nenu,,,,
+66459,187,they,die,,,25,?
+66816,188,what?,owaha,,,,
+67173,189,who?,hei,,,1,1
+67530,190,other,te,,,,
+67887,191,all,sivimoñi,,,,
+68244,192,and,-ma,,,2,1
+68601,193,if,rebe,,,,
+68958,194,how?,tanetã,,,,
+82690,195,"no, not",fane,,,,
+82691,195,"no, not",moxa,,,,
+69672,196,"to count",pərna,,,,
+70029,197,One,tai,,,14,
+70386,198,Two,roti,,,13,
+70743,199,Three,toru,,,1,1
+71100,200,Four,awa,,,1,

@@ -1,0 +1,51 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+933,"Tai Mene","James R. Chamberlain",tmp,taim1250,"Chamberlain, James R. 1991. Mène: A Tai dialect originally spoken in Nghe An (Nghe Tinh), Vietnam -- preliminary linguistic observations and historical implications. Journal of the Siam Society 79 (2):103-123.Data was collected from Mrs. Viengthong Thammavong (b. 1945) at the Na Pho refugee camp in Nakhon Phanom Province, Thailand in March 1990. Mrs. Viengthong's family had migrated from Nghệ An province, Vietnam, in 1935 or 1936 to Ban Sop Vieng, Laos, a Tai Moey village where they were the only Tai Mene family.ï = ɯ in Chamberlain (1991).Tones:1 = /213/ low rising, usually with an audible creakiness at the lowest point of the tone2 = /21/ mid-low falling, with whisper on the end tone3 = /545/ mid-high with slight fall of fall-rise4 = /55/ high level5 = /53/ high falling6 = /45/ mid-high rising checked7 = /32/ mid-low falling checked",,"Tai-Kadai, Kam-Tai, Tai, Northern","Andrew C. Hsiu",,"@article{310329,  journal    = {Journal of the Siam Society},  number     = {2},  pages      = {103-123},  title      = {Mène: A Tai Dialect Originally Spoken in Nghê An (Nghê Tinh), Viêtnam – Preliminary Linguistic Observations and Historical Implications},  volume     = {79},  year       = {1991},  bibtexkey  = {chamberlain_mene-nghe1991},  fn         = {eurasia\chamberlain_mene1991.pdf},  hhtype     = {phonology;comparative},  inlg       = {English [eng]},  macro_area = {Eurasia},  src        = {hh},  srctrickle = {hh#phonv:Chamberlain:Mene},  author     = {Chamberlain, James R.}}"
+latitude,longitude
+18.34000000000000000000,104.72900000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+243614,3,right,khwaa4,,,1,
+243615,4,leg/foot,haa1,,,42,
+243616,10,dirty,hëk7,,,,
+243617,15,bone,duuk2,,,,
+243618,23,blood,lïat2,,,,
+243619,25,neck,kɔɔ4,,,,
+243620,31,tooth,hɛw3,,,,
+243621,33,"to laugh",hoo1,,,,
+243622,41,"to bite",khop6,,,,
+243623,43,ear,huu4,,,,
+243653,53,"person/human being",kon4,,,,
+243654,53,"person/human being",pëë4,,,,
+243625,54,man/male,pɔɔ2,,,,
+243664,56,child,lïk7,,,1,
+243665,56,child,lɯk7,,,1,
+243627,68,needle,hem1,,,,
+243628,73,"to steal",lak1,,,,
+243629,74,"to kill",haa3,,,,
+243630,77,"to scratch",khiit2,,,,
+243631,82,"dull, blunt",puu3,,,,
+243632,83,"to work",viak2,,,,
+243633,90,"to dig",kut6,,,36,
+243655,92,"to open, uncover",hoy1,,,,
+243656,92,"to open, uncover",hoy4,,,,
+243657,92,"to open, uncover",khay4,,,,
+243635,96,dog,maa4,,,,
+243636,98,egg,say2,,,,
+243637,99,feather,haw1,,,,
+243658,110,spider,kaaw4,,,,
+243659,110,spider,"kiŋ4 kaaw4",,,,
+243639,114,leaf,bëë4,,,,
+243660,134,thunder,phɛɛ3,,,,
+243661,134,thunder,"faa5 phɛɛ3",,,,
+243662,140,dry,khoo1,,,,
+243663,140,dry,hëë2,,,,
+243642,143,fire,fii4,,,1,
+243643,145,smoke,kwan4,,,,
+243644,148,white,haaw1,,,,
+243645,151,green,hew1,,,,
+243646,158,narrow,kew2,,,,
+243647,160,"painful, sick",kɛɛt2,hurt,,,
+243648,167,night,kïn4,,,,
+243649,168,day,măŋee4,"sun, day",,,
+243650,172,"to climb",hïn3,ascend,,,
+243651,179,near,khëë3,,,,
+243652,191,all,kop7,"complete, entire",,,

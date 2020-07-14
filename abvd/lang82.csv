@@ -1,0 +1,204 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+82,Maleu,"Author Unknown",mgl,male1289,,"Author Unknown","Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Ngero-Vitiaz, Vitiaz, Kilenge-Maleu","Penny Keenan","Simon Greenhill","@misc{Anonymous-82-2005,  author = \"Anonymous\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-5.71999999999999975131,148.41999999999998749445
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+82,1,hand,ḇaǥe,"< wing",,76,
+439,2,left,ŋas,,,19,
+796,3,right,ôtai,"(cf. Dobu)",,14,?
+1153,4,leg/foot,ai,,,1,1
+1510,5,"to walk",lala,,,"1, 69",1?
+1867,6,road/path,roro,,,,
+2224,7,"to come",mai,,,1,1
+2938,9,"to swim",uaǥɛn,,,,
+3295,10,dirty,muru,,,87,
+3652,11,dust,muk,,,,
+4009,12,skin,tini,,,31,
+4366,13,back,ǥunǥuni,,,,
+4723,14,belly,opo,,,2,
+5080,15,bone,ḇolḇoli,,,,
+5437,16,intestines,mugalia,,,19,
+5794,17,liver,atati,,,1,?
+6151,18,breast,su,,,1,1
+6508,19,shoulder,alu,,,,
+6865,20,"to know, be knowledgeable",ôtai,,,35,
+7222,21,"to think",remo,,,,
+7579,22,"to fear",motou,,,1,1
+7936,23,blood,tepo,,,12,
+8293,24,head,kuri,,,,
+8650,25,neck,ǥoli,,,,
+9007,26,hair,"[kuri] louloua",,,40,
+9364,27,nose,ḇani,,,,
+9721,28,"to breathe",alke,"(momoti = breath)",,,
+72798,29,"to sniff, smell",loŋo,"POc *roŋoR 'hear, perceive'",,29,
+72799,29,"to sniff, smell",kunia,,,17,
+10435,30,mouth,ao,,,36,
+10792,31,tooth,roŋa,,,55,
+11149,32,tongue,mai,,,7,
+11506,33,"to laugh",ŋiŋ,,,44,
+11863,34,"to cry",taŋ,,,1,1
+12220,35,"to vomit",malalua,,,8,
+12577,36,"to spit",pula,,,"35,86",
+12934,37,"to eat",kan,,,1,1
+13291,38,"to chew",uouo,,,,
+13648,39,"to cook",saman,,,,
+14005,40,"to drink",in,,,1,1
+14362,41,"to bite",kalak,,,1,?
+14719,42,"to suck",su,,,25,1
+15076,43,ear,tolŋa,,,1,1
+15433,44,"to hear",loŋo,,,"1, 36",1
+15790,45,eye,ero,,,,
+16147,46,"to see",lei,,,13,
+16504,47,"to yawn",palŋaŋŋa,,,"19, 26",
+16861,48,"to sleep",kono,,,8,
+17218,49,"to lie down",kono,,,1,?
+17575,50,"to dream",konoḇiḇita,,,,
+17932,51,"to sit",mate,,,150,
+18289,52,"to stand",mari,,,1,
+18646,53,"person/human being",natamtamaol,,,"1,66",
+19003,54,man/male,natamta,,,"12,14",
+19360,55,woman/female,neiue,ne-iwe,,58,
+19717,56,child,namelamela,,,8,
+20074,57,husband,tamta,,,23,
+20431,58,wife,neiue,,,1,
+20788,59,mother,tna,,,1,1
+21145,60,father,tama,,,1,1
+21502,61,house,nania,,,,
+21859,62,thatch/roof,namomo,,,,
+22216,63,name,napasis,,,,
+22573,64,"to say",ḇul,,,50,
+22930,65,rope,naolo,,,2,
+23287,66,"to tie up, fasten",koukouke,,,23,
+23644,67,"to sew",seiseike,,,2,1
+24001,68,needle,nasiplem,,,,
+24358,69,"to hunt",maŋmaŋe,,,,
+24715,70,"to shoot",panake,,,1,1
+25072,71,"to stab, pierce",ǥale,,,92,
+25429,72,"to hit",kanake,,,,
+25786,73,"to steal",kop,,,15,
+26143,74,"to kill",pamateŋe,,,2,
+26500,75,"to die, be dead",mate,,,1,1
+26857,76,"to live, be alive",mamata,"(cf sulawesi ?)",,,
+27214,77,"to scratch",kamokamoke,,,,
+27571,78,"to cut, hack",nautut,,,61,
+27928,79,stick/wood,nai,,,1,1
+28285,80,"to split",pale,,,88,
+28642,81,sharp,mate,,,36,
+28999,82,"dull, blunt","mate avo","'sharp' + 'not'",,x,
+29356,83,"to work",keḇe,,,,
+29713,84,"to plant",ǥune,,,,
+30070,85,"to choose",matampua,"idiomatic - face good",,,
+30427,86,"to grow",tup,,,1,1
+30784,87,"to swell",uiue,,,78,
+92600,88,"to squeeze",pise,,,"29,34",1
+92601,88,"to squeeze",ḇiḇe,,,21,
+31498,89,"to hold",kisike,,,21,
+31855,90,"to dig",kelke,,,1,1
+32212,91,"to buy",kole,,,15,
+76628,92,"to open, uncover",liḇoke,,,,
+76629,92,"to open, uncover",pakoke,,,,
+32926,93,"to pound, beat",poue,,,3,
+33283,94,"to throw",ǥanaie,,,,
+33640,95,"to fall",pos,0,,,
+33997,96,dog,naǥaone,,,43,
+34354,97,bird,namon,,,1,1
+34711,98,egg,ŋalua,,,,
+35068,99,feather,"[namon] louloua",,,24,
+35425,100,wing,ḇoia,,,,
+35782,101,"to fly",lou,,,1,1?
+36139,102,rat,nakiue,,,3,
+36496,103,meat/flesh,meramera,,,21,
+36853,104,fat/grease,"mo ̂ne",,,"1,65",
+105096,105,tail,ḇoḇua,dog,,,
+105097,105,tail,tewe,bird,,,
+37567,106,snake,namota,,,12,
+37924,107,"worm (earthworm)",naŋurip,,,,
+38281,108,louse,naǥine,,,,
+38638,109,mosquito,namoǥinǥin,,,1,
+38995,110,spider,nakukun,,,15,
+39352,111,fish,naia,,,1,1
+39709,112,rotten,ḇue,,,9,
+40066,113,branch,lake,,,1,?
+40423,114,leaf,louloua,,,1,1
+40780,115,root,oke,,,2,1?
+41137,116,flower,nasisilŋa,,,,
+41494,117,fruit,anua,,,1,
+41851,118,grass,nagu,,,,
+42208,119,earth/soil,natatano,,,1,1
+42565,120,stone,napot,,,1,1
+42922,121,sand,namaǥa,,,14,
+43279,122,water,nako,,,,
+43636,123,"to flow",lele,,,16,
+43993,124,sea,natai,,,1,1
+44707,126,lake,naliu,,,44,
+45064,127,woods/forest,nairogol,,,,
+45421,128,sky,naǥulḇo,,,25,
+45778,129,moon,natop,,,,
+46135,130,star,naputom,,,"1,37",?
+46492,131,cloud,naǥaǥao,,,76,
+47206,133,rain,nasaḇa,,,,
+47563,134,thunder,neilala,,,,
+48277,136,wind,namule,,,44,
+48634,137,"to blow",soue,,,77,
+48991,138,warm,"samamo ̂ŋelia",,,,
+49348,139,cold,rôǥoŋe,,,,
+49705,140,dry,ǥoli,,,,
+50062,141,wet,buse,,,16,
+50419,142,heavy,pataŋa,,,"45,80",
+50776,143,fire,nariŋa,,,,
+51133,144,"to burn",ḇaḇa,,,,
+51490,145,smoke,ḇuŋe,,,40,
+51847,146,ash,nalua,,,,
+52204,147,black,korkorŋe,,,,
+79676,148,white,seseŋe,,,,
+79677,148,white,ḇorḇoria,,,,
+52918,149,red,kilkiluaŋe,,,110,
+53275,150,yellow,naŋoŋe,,,9,
+53632,151,green,ḇilḇiliaŋe,,,21,
+53989,152,small,kaporia,,,15,
+54346,153,big,ambiŋe,,,,
+54703,154,short,mokua,,,,
+55060,155,long,moloŋe,,,12,
+56845,160,"painful, sick",karkar,,,,
+57202,161,"shy, ashamed",mamae,,,1,1
+57559,162,old,eiŋe,,,,
+57916,163,new,paua,,,"1,26",?
+58273,164,good,popue,,,1,
+58630,165,"bad, evil",siaŋe,,,14,
+58987,166,"correct, true",ounouna,,,,
+59344,167,night,boŋ,,,1,1
+59701,168,day,nae,,,"1, 54",
+60058,169,year,nalai,,,79,
+60415,170,when?,ŋia,,,"1,24",1
+60772,171,"to hide",kou,,,66,
+61129,172,"to climb",ḇira,,,63,
+61486,173,at,ŋŋe,,,33,
+61843,174,"in, inside",lu,,,1,1?
+62200,175,above,eilut,,,,
+62557,176,below,runsio,,,,
+62914,177,this,eko,,,,
+63271,178,that,elo,,,,
+63628,179,near,touoi,,,67,
+63985,180,far,aluai,,,21,
+64342,181,where?,siaŋ,,,,
+64699,182,I,iau,,,"1,21",1
+65056,183,thou,iom,,,"1,67",
+65413,184,he/she,ie,,,1,1
+119378,185,we,ita,,,1,1
+119379,185,we,iem,,,2,
+66127,186,you,iami,,,"1,13",1
+66484,187,they,ire,,,25,1
+66841,188,what?,nasae,,,1,?
+67198,189,who?,sei,,,1,1
+67555,190,other,teiapou,,,,
+67912,191,all,neiŋur,,,,
+68269,192,and,me,,,"2, 46",1
+68626,193,if,so,,,75,
+68983,194,how?,eisae,,,,
+82700,195,"no, not",avo,,,,
+82701,195,"no, not",kute,,,,
+69697,196,"to count",nine,,,86,
+70054,197,One,teia,,,14,
+70411,198,Two,lua,,,1,1
+70768,199,Three,tol,,,1,1
+71125,200,Four,paŋe,,,"1,67",?

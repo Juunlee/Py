@@ -1,0 +1,213 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+169,"Marshallese (E. Dialect)",Blust,mah,mars1254,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Micronesian, Micronesian Proper, Marshallese","Penny Keenan","Simon Greenhill","@misc{Blust-169-2005,  author = \"Robert A. Blust\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+7.87763837400781774534,171.59684497119289403599
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+169,1,hand,pā,,,8,
+526,2,left,anbwijban,,,,
+883,3,right,anbwijmaroŋ,,,,
+1240,4,leg/foot,ne,,,63,
+1597,5,"to walk",etetal,,,8,
+1954,6,road/path,iaļ,,,1,1
+2311,7,"to come",atok,,,9,
+2668,8,"to turn",jeor,,,,
+3025,9,"to swim",aō,,,26,
+3382,10,dirty,ttoon,,,62,
+3739,11,dust,būŋal,,,,
+4096,12,skin,kil,,,1,1
+4453,13,back,āliki-,,,,
+4810,14,belly,je,,,1,1
+5167,15,bone,di,,,2,
+5524,16,intestines,ṃajŋal,,,"1,13",
+5881,17,liver,aj,,,1,1
+6238,18,breast,ittūt,,,1,1
+6595,19,shoulder,aerā,,,1,1
+6952,20,"to know, be knowledgeable",jeļā,,,35,
+7309,21,"to think",ļōmņak,,,,
+7666,22,"to fear",mijak,,,1,1
+8023,23,blood,da,,,1,1
+8380,24,head,pet,,,,
+8737,25,neck,kōnwa,,,,
+9094,26,hair,kooļ,,,25,
+9451,27,nose,boti,,,"1,12",
+9808,28,"to breathe",menono,,,1,
+10165,29,"to sniff, smell",kōnāmnām,,,,
+10522,30,mouth,loŋi,,,,
+10879,31,tooth,ŋi,,,30,?
+11236,32,tongue,lo,,,18,
+11593,33,"to laugh",lelejkakkak,,,"9, 11",
+11950,34,"to cry",jaŋ,,,1,1
+12307,35,"to vomit",mōṃōj,,,1,1
+12664,36,"to spit",iadatōltōl,,,,
+13021,37,"to eat",kaikai,,,"1,44",1
+13378,38,"to chew",meme,,,"1, 28",1?
+13735,39,"to cook",kōmat,,,"19, 82",
+125610,40,"to drink",idaak,,,,
+125611,40,"to drink",inim,,,1,1?
+14449,41,"to bite",kkij,,,9,1?
+14806,42,"to suck",ninnin,,,87,
+15163,43,ear,lo|jilŋi,,,1,1?
+15520,44,"to hear",roŋ,,,1,1
+15877,45,eye,māj,,,1,1
+16234,46,"to see",lale,,,,
+16591,47,"to yawn",mebbōļa,,,,
+16948,48,"to sleep",mājur,,,1,1
+17305,49,"to lie down",eļļok,,,,
+17662,50,"to dream",ttōņak,,,9,
+18019,51,"to sit",jijet,,,143,
+18376,52,"to stand",ju|tak,,,2,1
+18733,53,"person/human being",armej,,,"67,70",1
+19090,54,man/male,ṃṃaan,,,1,1
+19447,55,woman/female,kōrā,,,,
+19804,56,child,ajri,,,"7, 84",
+20161,57,husband,pālee-,,,16,
+20518,58,wife,pālee-,,,10,
+20875,59,mother,jine-,,,1,1
+21232,60,father,jema-,,,1,1
+21589,61,house,eṃ,,,"1, 48",1
+21946,62,thatch/roof,āj,,,1,1
+22303,63,name,āt,,,"1,18",1
+22660,64,"to say",ba,,,13,
+23017,65,rope,to,,,,
+23374,66,"to tie up, fasten",kōbobo,,,,
+23731,67,"to sew",keke,,,,
+24088,68,needle,iie,,,,
+24802,70,"to shoot",lippoņ,,,,
+25159,71,"to stab, pierce",bwiār,,,,
+25516,72,"to hit",ṃanṃan,,,,
+25873,73,"to steal",koot,,,24,
+26230,74,"to kill",ṃanṃan,,,90,
+26587,75,"to die, be dead",mej,,,1,1
+26944,76,"to live, be alive",mour,,,"1, 76",1
+27301,77,"to scratch",jukkwe,,,,
+75731,78,"to cut, hack",jepak,,,19,1
+75732,78,"to cut, hack",jekjek,,,,1
+28015,79,stick/wood,aļaļ,,,,
+28372,80,"to split",bōrrā,,,,
+28729,81,sharp,kkaŋ,,,"14,68",
+29086,82,"dull, blunt",bwijil,,,,
+29443,83,"to work",jerbal,,,37,
+29800,84,"to plant",kallib,,,,
+30157,85,"to choose",jedkā,,,,
+30514,86,"to grow",dedek,,,49,
+30871,87,"to swell",bōbok,,,,
+31228,88,"to squeeze",kkeeņ[e],,,,
+31585,89,"to hold",kukuul,,,,
+31942,90,"to dig",kōb,,,,
+32299,91,"to buy",wia,,,55,
+32656,92,"to open, uncover",erļok,,,,
+76695,93,"to pound, beat",nin,,,,
+76696,93,"to pound, beat",jukjuk,,,"20, 2",
+33370,94,"to throw",kadkad,,,14,
+33727,95,"to fall",buŋ,,,15,
+34084,96,dog,kidu,,,7,
+34441,97,bird,bao,,,,
+34798,98,egg,lep,,,82,
+35155,99,feather,kooļ,(=hair),,,
+35512,100,wing,p̄a,(=hand/arm),,7,
+35869,101,"to fly",kā-,,,,
+36226,102,rat,kijdik,"'mouse; < 'rat' + 'little'",,"16, 66",
+36583,103,meat/flesh,kanniōk,,,,
+36940,104,fat/grease,kūriij,,L,,
+37297,105,tail,ļokwa-,,,,
+37654,106,snake,jabōn,,L,,
+38011,107,"worm (earthworm)",ṃajkadāl,,,10,
+38368,108,louse,kij,,,1,1
+38725,109,mosquito,jokwajok,,,,
+39082,110,spider,kadeoeo,,,,
+39439,111,fish,ek,,,1,1
+39796,112,rotten,kōt,,,,
+40153,113,branch,ra,,,1,
+40510,114,leaf,bōlōk,,,,
+40867,115,root,okar,,,2,1
+41224,116,flower,ut,,,63,
+41581,117,fruit,kwōle,,,,
+41938,118,grass,wūjooj,,,93,
+42295,119,earth/soil,bwidej,,,87,
+42652,120,stone,dekā,,,,
+43009,121,sand,bok,,,13,
+43366,122,water,dān,,,1,1
+43723,123,"to flow",eooļ,,,,
+78334,124,sea,lojet,,,1,1
+78335,124,sea,lometo,"\"at sea\"",,,1
+44437,125,salt,jooļ,,L,,
+247023,126,lake,dreba,,,,
+45151,127,woods/forest,"buļōn mar","(=middle of the woods)",,,
+45508,128,sky,laŋ,,,1,1
+45865,129,moon,allōŋ,,,62,
+46222,130,star,iju,,,1,1
+46579,131,cloud,kōdo,,,15,
+46936,132,fog,tab,,,,
+47293,133,rain,wōt,,,1,1
+47650,134,thunder,jourur,,,97,
+48007,135,lightning,jarom,,,23,
+48364,136,wind,aŋ,,,1,1
+48721,137,"to blow",uuk,,,15,
+49078,138,warm,māāņāņ,,,"1, 72",
+49435,139,cold,mōļo/ṃōleo,,,,
+49792,140,dry,jejjat,,,,
+50149,141,wet,ņok,,,,
+50506,142,heavy,ddo,,,9,
+50863,143,fire,kijeek,,,42,
+51220,144,"to burn",ttil,,,,?
+79527,145,smoke,baat,,,,1
+79528,145,smoke,atiti,,,2,1
+51934,146,ash,melkwaarar,,,,
+52291,147,black,ditōb,,,,
+52648,148,white,mouj,,,96,1?
+53005,149,red,būrōrō,,,96,
+53362,150,yellow,ialo,,L,,
+53719,151,green,kūriin,,L,,
+54076,152,small,dik,"irregular *s > d for expected **t",,81,1
+54433,153,big,ļap,,,10,
+54790,154,short,kadu,,,,
+55147,155,long,aetok,,,,
+55504,156,thin,māni,,,1,1
+55861,157,thick,mijel,,,3,
+56218,158,narrow,ainiŋ,,,,
+56575,159,wide,depakpak,,,11,
+56932,160,"painful, sick",metak,,,1,1
+57289,161,"shy, ashamed",abje,,,,
+57646,162,old,rūtto,,,,
+58003,163,new,kāāl,,,52,
+58360,164,good,ṃṃan,,,,
+58717,165,"bad, evil",nana,,,81,
+59074,166,"correct, true",jejjet,,,,
+59431,167,night,boŋ,,,1,1
+59788,168,day,raan,,,6,1
+60145,169,year,iiō,,L,,
+60502,170,when?,ŋe,,,"1,24",
+60859,171,"to hide",kaattilōklōk,,,,
+61216,172,"to climb",wanlōŋ,,,,
+61573,173,at,i,,,1,1
+61930,174,"in, inside",ilo,,,1,1
+81269,175,above,lōŋ,,,,1
+81270,175,above,ioo,,,2,1
+62644,176,below,laļ,,,8,
+63001,177,this,iiō/in,,,,1?
+63358,178,that,eņ/eŋņe,,,1,
+63715,179,near,epaak,,,,
+64072,180,far,leelle,,,,
+64429,181,where?,ewi,,,,
+64786,182,I,ŋa,,,12,1
+65143,183,thou,eok,,,1,
+65500,184,he/she,e,,,1,1
+113965,185,we,kōj,,,1,1?
+113966,185,we,kōm,,,2,
+66214,186,you,koṃ,,,1,1
+66571,187,they,er,,,"1, 70",1
+66928,188,what?,ta,,,"1, 52",1
+133628,189,who?,wōn,,,45,
+67642,190,other,"bar jet",,,,
+67999,191,all,aolep,,,72,
+68356,192,and,im,,,11,
+68713,193,if,eļaŋŋe,,,66,
+69070,194,how?,ia,,,12?,
+69427,195,"no, not",jab,,,,
+69784,196,"to count",bōnbōn,,,28,
+70141,197,One,juon,,,,
+70498,198,Two,ruo,,,1,1
+70855,199,Three,jilu,,,1,1
+71212,200,Four,emān,,,,
+247024,201,Five,lalem,,,1,
+247025,209,"One Hundred",jipuki,,,"20, 36",

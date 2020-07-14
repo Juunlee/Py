@@ -1,0 +1,222 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+241,"Thao B96",Blust,ssf,thao1240,"From Blust, R . (1996), Some remarks on the linguistic position of Thao. Oceanic Linguistics, 35(2):272-294","Andreea: replaced one instance (item #207) of /đ/ with /ð/, following conventions used by Ferrell et. al.","Austronesian, Western Plains, Thao","Simon Greenhill","Simon Greenhill","@article{180926,  journal    = {Oceanic Linguistics},  number     = {2},  pages      = {272-294},  title      = {Some Remarks on the Linguistic Position of Thao},  volume     = {35},  year       = {1996},  bibtexkey  = {blust_position-thao1996},  hhtype     = {overview;wordlist},  inlg       = {English [eng]},  macro_area = {Papua},  src        = {hh, zurich},  srctrickle = {hh#hw:Blust:Thao, zurich#Blust1996-2},  author     = {Blust, Robert}}"
+latitude,longitude
+23.87579191610101858601,120.87707519531250000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+241,1,hand,rima,,,"1,64",1
+598,2,left,tana-wizi,,L,1,
+955,3,right,tana-du,"c.f. Bunun tanaṣkáʼun, this almost certainly is a Bunun loan in Thao",L,,
+1312,4,leg/foot,kuskus,,,29,
+1669,5,"to walk",mun-dadán,"from Bunun set 21, also has pazaw",L,,
+2026,6,road/path,saran,,,1,1
+2383,7,"to come",mu-nay,,,,
+2740,8,"to turn",tau-shuqish,,,,
+3097,9,"to swim",m-rauz,,,,
+3454,10,dirty,ma-risris-in,,,,
+3811,11,dust,bulbul,"a loan according to Sagart",L,14,
+4168,12,skin,shapa,,,,
+4525,13,back,rikus,,,1,1
+4882,14,belly,tiaz,,,1,1
+5239,15,bone,puqu,"cf Kavalan poho 'knee'. (LS)",,,
+5596,16,intestines,rumrum,,,,
+5953,17,liver,rishi,,,,
+6310,18,breast,tutu,,,1,1
+6667,19,shoulder,qalhafa,,,1,1
+7024,20,"to know, be knowledgeable",ma-fazaq,,,2,1
+7381,21,"to think",m-aŋqtu,,,,
+7738,22,"to fear",sh-uŋ-kash,,,,
+8095,23,blood,talhum,,,,
+8452,24,head,punuq,"based on PAN *punuq 'brain'",,34,
+8809,25,neck,buqtur,,,,
+9166,26,hair,fukish,,,1,1
+9523,27,nose,muzin,,,26,
+9880,28,"to breathe",sh-m-inaw,,,1,1
+10237,29,"to sniff, smell",sh-m-azik,,,1,
+10594,30,mouth,ruzic,,,,
+10951,31,tooth,nipin,,,1,1
+11308,32,tongue,zama,,,,
+11665,33,"to laugh",ma-cacawa,,,1,1
+12022,34,"to cry",c-m-anit,,,1,1
+12379,35,"to vomit",m-utaq,,,1,1
+12736,36,"to spit",ma-filhaq,,,,
+13093,37,"to eat",k-m-an,,,1,1
+13450,38,"to chew",qirqir,"Originally listed erroneously as 'ma-papak', check where ma-papak should be. BB/EG",,2?,
+13807,39,"to cook",pit'ia,,L,70,
+14164,40,"to drink",mi-qilha,,,,
+14521,41,"to bite",k-m-irkir,,,,
+14878,42,"to suck",ucuc,"Related to 47?? -EG",,,
+15235,43,ear,lharina,,,1,1
+15592,44,"to hear",t-un-maza,,,2,
+15949,45,eye,maca,,,1,1
+16306,46,"to see",m-rikaz,,,,
+16663,47,"to yawn",ma-shushuaw,,,1,1
+17020,48,"to sleep",malhus,,,,
+17377,49,"to lie down",pan-taqnar,,,,
+17734,50,"to dream",matiashaq,,L,44,
+18091,51,"to sit",mi-lhuŋqu,"Bunun loan",L,,
+18448,52,"to stand",i-lhilhi,,,1,1
+18805,53,"person/human being",caw,,,1,
+19162,54,man/male,ayuzi,,,,
+19519,55,woman/female,binanauʔaz,"loan from Bunun",L,,
+19876,56,child,azazak,,,1,1
+20233,57,husband,ayuzi,,,,
+20590,58,wife,binanauʔaz,,L,,
+20947,59,mother,ina,,,1,1
+21304,60,father,ama,,,1,1
+21661,61,house,taun,,,21,
+22018,62,thatch/roof,tafuq,"Connection to Pazeh [tapuk]? L? -EG",,,
+22375,63,name,lhanaz,,,,
+22732,64,"to say",k-m-uza,,,,
+23089,65,rope,qlhiw,"Connection to C. Amis [keliw]? -EG",,,
+23446,66,"to tie up, fasten",q-m-ucquc,"L < Bunun? -EG",,,
+23803,67,"to sew",sh-m-aqish,SaqiS,,"1,52",1
+24160,68,needle,lhalhum,,,1,1
+24517,69,"to hunt",mu-ribush,,,,
+24874,70,"to shoot",palatatnur,,,,
+25231,71,"to stab, pierce",lh-m-irik,,,,
+25588,72,"to hit",k-m-ay,,,,
+25945,73,"to steal",k-un-riu,,,,
+26302,74,"to kill","k-m-ay p-acay",,,2,1
+26659,75,"to die, be dead",m-acay,,,1,1
+27016,76,"to live, be alive",ma-qalhtash,,,,
+27373,77,"to scratch",k-m-ulhaw,,,1,
+27730,78,"to cut, hack",k-un-tun,,,,1
+28087,79,stick/wood,kawi,,,1,1
+28444,80,"to split",t-m-alhtalh,,,,
+28801,81,sharp,ma-lamlam,,,,
+29158,82,"dull, blunt",ma-tarictic,,,,
+29515,83,"to work",mu-buhat,,,,
+29872,84,"to plant",malhuiza,,,,
+30229,85,"to choose",kadaduk,,,,
+30586,86,"to grow",lh-uŋ-quz,,,,
+30943,87,"to swell",lh-um-fawa,,,26,
+31300,88,"to squeeze",damriz,,,,
+31657,89,"to hold",h-m-adu,,,,
+32014,90,"to dig",k-m-ari,,,1,1
+32371,91,"to buy",fariw,,,1,1
+32728,92,"to open, uncover",t-m-ana,,,22,
+33085,93,"to pound, beat",maka-runu,,,,
+33442,94,"to throw",panaq,"cf *panaq",,3,
+33799,95,"to fall",ma-lhacak,,,,
+34156,96,dog,atu,,,1,1
+34513,97,bird,rumfaz,,,,
+34870,98,egg,qaricuy,,,1,1?
+35227,99,feather,kupur,,,,
+35584,100,wing,pali,*pali,L,2,
+35941,101,"to fly",marfaz,,,,
+36298,102,rat,mashmash,,,,
+36655,103,meat/flesh,bunlhaz,,,,
+37012,104,fat/grease,lhimash,"metathesis: < *RimaS. MR,",,"2,85",1
+37369,105,tail,wawishwish,,,,
+37726,106,snake,qlhuran,,,,
+38083,107,"worm (earthworm)",qatidauluk,,L,,
+38440,108,louse,kucu,,,1,1
+38797,109,mosquito,rikish,,,2,
+39154,110,spider,kakatu,,L,,
+39511,111,fish,rusaw,,,,
+39868,112,rotten,mu-bluc,,,89?,
+40225,113,branch,pana,,,22,1
+40582,114,leaf,filhaq,,,2,
+40939,115,root,lhamic,,,3,1
+41296,116,flower,bukay,,,,
+247026,117,fruit,"pinalhalhuyza wa kakanin",,,,
+42010,118,grass,lhmir,,,,1
+42367,119,earth/soil,pruq,,,,
+42724,120,stone,fatu,,,1,1
+43081,121,sand,bunaz,*bunaj,,2,
+43438,122,water,sazum,,,1,1
+43795,123,"to flow",maŋ-qaruz,,,21?,
+44152,124,sea,wazakan,,,,
+44509,125,salt,qtilha,,,1,1
+44866,126,lake,wazakan,,,,
+45223,127,woods/forest,ribush,"< Bunun",L,,
+45580,128,sky,qali,,,,
+45937,129,moon,furaz,,,1,1
+46294,130,star,kilhpuz,,,,
+46651,131,cloud,urum,,,,
+47008,132,fog,harbuk,,,,
+47365,133,rain,qusaz,,,1,1
+47722,134,thunder,barumbun,,,,
+48079,135,lightning,pilhnac,,,,
+48436,136,wind,fari,,,2,1
+48793,137,"to blow",m-iup,,,1,1
+49150,138,warm,ma-tata,,,,
+49507,139,cold,ma-shimzaw,,,,
+49864,140,dry,ma-qalhiw,,,2,1
+50221,141,wet,ma-tubu,,,,
+50578,142,heavy,ma-bric,,,,
+50935,143,fire,apuy,,,1,1
+51292,144,"to burn",sh-u-nara,,,82,
+51649,145,smoke,qumbu,"L < Bunun -EG",L,,
+52006,146,ash,qafu,,,1,1
+52363,147,black,ma-qusum,,,1,
+52720,148,white,ma-puzi,,,111,1
+53077,149,red,ma-qulha,,,,
+53434,150,yellow,shadunan,,,,
+53791,151,green,ma-dishlum,,,,
+54148,152,small,laŋqisusay,,,,
+54505,153,big,ma-raʔin,"< Bunun",L,,
+54862,154,short,luish,,,,
+55219,155,long,ma-kuliush,,,,
+55576,156,thin,ma-bazay,,,,
+55933,157,thick,ma-kushtur,,,,
+56290,158,narrow,ma-qtit,,,,
+56647,159,wide,ma-haran,,,,
+57004,160,"painful, sick","ma-karman a but",,,,
+57361,161,"shy, ashamed",m-ayaw,,,46,
+57718,162,old,sasaz,,,109,1
+58075,163,new,faqlhu,,,1,1
+58432,164,good,ma-qitan,,,,
+58789,165,"bad, evil",ma-karman,,,,
+59146,166,"correct, true",dadu,,,,
+59503,167,night,tanlhuan,,,,
+59860,168,day,qali,"L? Expect [qare(zaw)]. -EG",L?,2,
+60217,169,year,kawash,,,2,1
+60574,170,when?,kaiza,,,"1,44",
+60931,171,"to hide",kuruz,,,,
+61288,172,"to climb",makurada,,L,,
+61645,173,at,i,,,1,1
+62002,174,"in, inside",i,,,,
+62359,175,above,i-fafaw,,,2,1
+62716,176,below,i-pruq,,,,
+63073,177,this,i-nay,,,34,
+81522,178,that,haya,,,,
+81523,178,that,huya,,,3,
+63787,179,near,i-qualh,,,,
+64144,180,far,i-hazish,,,,
+64501,181,where?,i-ntua,"*i-[n ]sua",,23,
+64858,182,I,yaku,,,1,1
+65215,183,thou,ihu,,,1,
+65572,184,he/she,cicu,,,28,
+119266,185,we,ita,,,1,1
+119267,185,we,yamin,,,2,
+66286,186,you,maniun,,,,
+66643,187,they,caycuy,,,,
+67000,188,what?,numa,,,30,
+67357,189,who?,tima,,,2,1
+67714,190,other,suma,,,1,1
+68071,191,all,ʔazʔaz,,,,
+68428,192,and,masa,,L,,
+68785,193,if,ya,,,59,
+69142,194,how?,apia-kuzan,,,1,
+82748,195,"no, not",ani,,,3,1
+82749,195,"no, not",antu,,,,1
+69856,196,"to count",shupilh,,,3,1
+70213,197,One,tata,,,14,1
+70570,198,Two,tusha,,,1,1
+70927,199,Three,turu,,,1,1
+71284,200,Four,[sh]pat,,,1,1
+83801,201,Five,ri:maʔ,,,1,
+83828,201,Five,hrima,,,1,
+83709,202,Six,sturu,,,2,
+83741,202,Six,katú:ruʔ,,,2,
+83623,203,Seven,pi:tuʔ,,,1,
+83645,203,Seven,pitu,,,1,
+83574,204,Eight,kaŝpat,,,1,
+83596,204,Eight,kaspat,,,1,
+83499,205,Nine,taná:ɵuʔ,,,6,
+83521,205,Nine,tamaso,,,6,
+83463,206,Ten,má:kɵin,"Probable Bunun loan.",L,2?,
+83464,206,Ten,maksin,,,,
+83396,207,Twenty,mapù:sað,,,1,
+83982,209,"One Hundred",mamavaŋatə,,,,

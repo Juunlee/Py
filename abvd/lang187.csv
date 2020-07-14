@@ -1,0 +1,272 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+187,Teop,"Ruth Saovana Spriggs",tio,teop1238,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, South New Ireland-Northwest Solomonic, Nehan-North Bougainville, Saposa-Tinputz","Debasish Roy","Simon Greenhill","@misc{Spriggs-187-2005,  author = \"Ruth Saovana Spriggs\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-5.72705323593055570797,155.03010011090731268268
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+187,1,hand,kurina,,,,
+544,2,left,keruka,,,17,
+901,3,right,matau,,,"5,13",1
+71504,4,leg/foot,moona,,,61,
+71505,4,leg/foot,mona,,,61,
+1615,5,"to walk",pita,,,,
+1972,6,road/path,hanana,,,1,1
+2329,7,"to come",noma,,,"11,85",?
+2686,8,"to turn","ja taviri",,,45,1?
+3043,9,"to swim",ruvu,,,,
+3400,10,dirty,paru,,,7,
+3757,11,dust,avu,,,1,1
+4114,12,skin,kapa,,,12,
+72023,13,back,tobnuna,,,12,
+72024,13,back,tonuna,,,12,
+4828,14,belly,koma,,,44,
+5185,15,bone,sino,,,9,
+5542,16,intestines,hiapa,,,36,
+5899,17,liver,ate,,,1,1
+72196,18,breast,huhu,,,1,1
+72197,18,breast,koko,,,13,1
+72198,18,breast,kookoo,,,13,1
+6613,19,shoulder,"[gogoona] varavara",gogoona?,,1,1
+72312,20,"to know, be knowledgeable",kona,,,33,
+72313,20,"to know, be knowledgeable",konakona,,,33,
+72314,20,"to know, be knowledgeable",hata,,,35,
+72315,20,"to know, be knowledgeable",hatanata,,,"35, 55",
+7327,21,"to think",opehe,,,,
+72414,22,"to fear",naabu,,,64,
+72415,22,"to fear",nabu,,,64,
+8041,23,blood,revasin,,,8,
+72499,24,head,kahoo,,,74,
+72500,24,head,kaho,,,74,
+72549,25,neck,gogona,,,27,
+72550,25,neck,gogoona,,,27,
+72621,26,hair,vunuu,,,31,1
+72622,26,hair,vunu,,,31,1
+9469,27,nose,ihuna,,,1,1
+9826,28,"to breathe","va  vuriha",,,,1
+88691,29,"to sniff, smell",hirupa,sniff,,,
+88692,29,"to sniff, smell",avuhu,smell,,,
+10540,30,mouth,rivona,"< POc *lipon 'tooth'",,54,
+10897,31,tooth,nihi,,,24,1
+11254,32,tongue,meana,,,7,
+11611,33,"to laugh",haesi,,,,
+11968,34,"to cry",oga,,,65,
+73135,35,"to vomit",buraa,,,36,
+73136,35,"to vomit",bura,,,36,
+12682,36,"to spit",dovi,,,118,
+13039,37,"to eat",ani,,,1,1
+73326,38,"to chew",tam,,,,1
+73327,38,"to chew",naha,,,12,1
+73417,39,"to cook",nahu,,,3,
+73418,39,"to cook","wa gonono",,,53,
+73419,39,"to cook","taba ani",,,,
+14110,40,"to drink",gaga,,,29,
+14467,41,"to bite",koto,,,12,?
+14824,42,"to suck",hirupaʔ,,,,?
+15181,43,ear,tainana,,,1,1
+15538,44,"to hear",baitono,,,,?
+15895,45,eye,matana,,,1,1
+16252,46,"to see",tara,,,15,
+16609,47,"to yawn",momoava,,,19,1
+16966,48,"to sleep",goroho,,,14,
+17323,49,"to lie down",butoto,,,,
+17680,50,"to dream",tatariopo,,,10,
+18037,51,"to sit",hio,,,,
+18394,52,"to stand",sun,,,"2,69",
+18751,53,"person/human being",aba,,,,
+74227,54,man/male,otei,,,,
+74228,54,man/male,abana,,,,
+74296,55,woman/female,moon,,,11,
+74297,55,woman/female,mon,,,11,
+19822,56,child,baiko,,,11,
+20179,57,husband,"mutana moon",,,,
+20536,58,wife,"mutana otei",,,,
+74491,59,mother,sinana,,,1,1
+74492,59,mother,ia,,,1,1
+74560,60,father,tamana,,,1,1
+74561,60,father,tetee,,,15,1
+74562,60,father,teetee,,,15,1
+21607,61,house,inu,,,11,
+74675,62,thatch/roof,"ino  atovo",,,1,1
+74676,62,thatch/roof,piha,,,,1
+74677,62,thatch/roof,nei,,,,1
+22321,63,name,hena,"<metathesis of 1?",,"1,15",
+22678,64,"to say",sue,,,96,
+74908,65,rope,kanono,,,47,
+74909,65,rope,kara,,,,
+74910,65,rope,urisi,,,,
+23392,66,"to tie up, fasten",vakisi,,,20,
+23749,67,"to sew",kunakuna,,,,
+24106,68,needle,niri,"[Pidgin] loan?",L?,,
+75206,69,"to hunt","va hipi",,,18,
+75207,69,"to hunt",hiipi,,,18,
+24820,70,"to shoot","va vanavana",,,1,1
+25177,71,"to stab, pierce",tahi,,,,
+25534,72,"to hit",navuhu,,,,
+25891,73,"to steal",kaveru,,,,
+26248,74,"to kill",asun,,,18,
+26605,75,"to die, be dead",mate,,,1,1
+75580,76,"to live, be alive",tootoo,,,8,
+75581,76,"to live, be alive",toto,,,8,
+27319,77,"to scratch",kare,,,12,?
+27676,78,"to cut, hack",mosi,,,78,
+75806,79,stick/wood,poa,,,,
+75807,79,stick/wood,naono,,,,
+28390,80,"to split",siri,,,,
+28747,81,sharp,kakaniva,,,14,
+76004,82,"dull, blunt",kekesum,,,,
+76005,82,"dull, blunt",kekebusu,,,,
+29461,83,"to work",kiu,,,60,
+29818,84,"to plant",neba,,,13,
+30175,85,"to choose",viana,,,,
+30532,86,"to grow",neba,,,,
+30889,87,"to swell",subu,,,12,
+31246,88,"to squeeze",posi,,,18,1?
+31603,89,"to hold",ato,,,,
+31960,90,"to dig",kasi,,,1?,
+32317,91,"to buy",voni,,,1,1
+32674,92,"to open, uncover",kapa,,,16?,
+33031,93,"to pound, beat",tasu,,,,
+76770,94,"to throw",tasu,,,68,
+76771,94,"to throw",busu,,,,
+76860,95,"to fall",kuu,,,,
+76861,95,"to fall",ku,,,,
+34102,96,dog,kahi,,,31,
+34459,97,bird,naovana,,,,
+34816,98,egg,rupi,,,,
+35173,99,feather,paka,,,,
+35530,100,wing,pakapaka,,,33,
+35887,101,"to fly",naovo,,,1,
+77172,102,rat,kuho,,,"3,88",
+77173,102,rat,kuhoo,,,"3,88",
+77174,102,rat,keusu,,,"3,88",
+36601,103,meat/flesh,beno,"can't think of any general term ....",,19,
+77304,104,fat/grease,monaa,,,"1,65",1
+77305,104,fat/grease,mona,,,"1,65",1
+37315,105,tail,vihi,,,44,
+77392,106,snake,kuruu,,,18,
+77393,106,snake,kuru,,,18,
+77435,107,"worm (earthworm)",kaakani,,,,
+77436,107,"worm (earthworm)",kakani,,,,
+38386,108,louse,usu,,,1,1
+77525,109,mosquito,kuhii,,,15,
+77526,109,mosquito,kuhi,,,15,
+39100,110,spider,vavaaviru,,,,
+39457,111,fish,iana,,,1,1
+39814,112,rotten,koava,,,76,
+40171,113,branch,"va karapi",,,18,
+40528,114,leaf,"paka naono",,,12,
+40885,115,root,ana,,,39,?
+41242,116,flower,purupuru,,,13,
+41599,117,fruit,vua,,,1,1
+77984,118,grass,garas,"Tok Pisin loan",L,,
+77985,118,grass,rasu,,,,
+77986,118,grass,gigiruva,,,,
+42313,119,earth/soil,kasuana,,,,
+42670,120,stone,vasu,,,1,1
+78138,121,sand,kasuana,"kakamuru (beach sand)",,,
+78139,121,sand,kakamuru,"kakamuru (beach sand)",,,
+43384,122,water,ruene,,,,
+43741,123,"to flow",oro,,,32,?
+78336,124,sea,tahii,,,1,1
+78337,124,sea,tahi,,,1,1
+44455,125,salt,tahii,,,20,
+78435,126,lake,namana,,,8,
+78436,126,lake,kopua,,,27,
+78477,127,woods/forest,rasuu,,,24,
+78478,127,woods/forest,rasu,,,24,
+45526,128,sky,suviri,,,,
+45883,129,moon,sivao,,,33,
+46240,130,star,pitopito,,,"1,81",1
+78654,131,cloud,ununuu,,,,
+78655,131,cloud,ununu,,,,
+78725,132,fog,ununuu,,,41,
+78726,132,fog,ununu,,,41,
+47311,133,rain,huan,,,"1,19",1
+78806,134,thunder,piraa,,,23,
+78807,134,thunder,pira,,,23,
+48025,135,lightning,"vaa kasi",,,13?,
+48382,136,wind,iravata,,,,
+79020,137,"to blow",kuu,,,43,
+79021,137,"to blow",piuvu,,,17,
+79022,137,"to blow",naovo,,,,
+49096,138,warm,"hihiva va sihun",,,,
+49453,139,cold,tovuhu,,,,
+79255,140,dry,paran,,,17?,
+79256,140,dry,rakaraka,,,17?,
+50167,141,wet,purihi,,,72,
+50524,142,heavy,ponisi,,,,
+79382,143,fire,suraa,,,27,
+79383,143,fire,sura,,,27,
+51238,144,"to burn",asi,,,49,
+51595,145,smoke,aho,,,2,1?
+51952,146,ash,kavoto,,,,
+52309,147,black,paru,,,,
+79688,148,white,kakavoo,,,38,
+79689,148,white,kakavo,,,38,
+53023,149,red,goguravi,,,,
+53380,150,yellow,"kasi kasire",,,,
+53737,151,green,perepere,,,18,
+79896,152,small,rutaa,,,,
+79897,152,small,ruta,,,,
+80020,153,big,beera,,,,
+80021,153,big,bero,,,,
+54808,154,short,kakato,,,16,
+55165,155,long,bebeahu,,,16,
+55522,156,thin,"apa apa",,,14,
+55879,157,thick,ponoto,,,,
+56236,158,narrow,kopisi,,,,
+80323,159,wide,banata,,,,1?
+80324,159,wide,tatabonata,,,37,1?
+56950,160,"painful, sick",kamisi,banata??,,18,
+57307,161,"shy, ashamed",pote,,,,
+80497,162,old,subuava,,,,
+80498,162,old,sumeke,,,,
+80538,163,new,voon,,,"1,26",
+80539,163,new,von,,,"1,26",
+80607,164,good,mataa,,,,?
+80608,164,good,mata,,,,?
+80685,165,"bad, evil",oraa,,,,
+80686,165,"bad, evil",ora,,,,
+59092,166,"correct, true",omana,,,14,
+59449,167,night,boni,,,1,
+59806,168,day,roava,,,,1
+60163,169,year,vinu,,,,
+60520,170,when?,"tobo nihi",,,1,
+60877,171,"to hide",varavihi,,,,?
+81059,172,"to climb",peha,,,,
+81060,172,"to climb","peha hiava",,,,
+81129,173,at,tea,,,7,
+81130,173,at,teo,,,7,
+61948,174,"in, inside",komana,,,7,
+62305,175,above,gina,,,,
+81300,176,below,putaa,,,,
+81301,176,below,puta,,,,
+81379,177,this,eie,,,,
+81380,177,this,ei,,,"1,18",
+81381,177,this,evei,,,,
+81501,178,that,oioi,,,,
+81502,178,that,oi,,,,
+81503,178,that,eovoi,,,,
+63733,179,near,vahusu,,,16,
+64090,180,far,"vavura [bebeahn]",,,,
+64447,181,where?,have,,,3,
+64804,182,I,eana,,,"1,22",
+65161,183,thou,ena,,,7,
+65518,184,he/she,eove,,,1?,
+113985,185,we,eara,,,,
+113986,185,we,eam,,,,
+66232,186,you,ean,,,1,
+66589,187,they,eori,,,25,
+66946,188,what?,taba|e,,,1,
+67303,189,who?,tei|e,,,1,1?
+67660,190,other,meho,,,44,1?
+68017,191,all,kavara-rara,,,,
+68374,192,and,bara,,,24,
+68731,193,if,evehe,,,,
+82641,194,how?,have,,,15,
+82642,194,how?,eisau,,,,
+69445,195,"no, not",ahiki,,,"1,16",
+69802,196,"to count",ahe,,,10,
+70159,197,One,peha,,,,
+70516,198,Two,buaku,"or 11?",,,
+70873,199,Three,kukan,,,,
+71230,200,Four,dorana,,,,

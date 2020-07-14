@@ -1,0 +1,184 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+180,"Pulau (Arguni)","Blust, from Grace Notebooks",agf,argu1237,"\"In conclusion, then, the language of Arguni Island may be a divergent member of the North Bomberai group, or its similarity to these languages may be a product of borrowing as a result of prolonged contact between small language communities.\" (Blust, 1993, p.274)",,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, North Bomberai","Penny Keenan","Simon Greenhill","@misc{GraceNB,  howpublished = {Ms.},  title        = {1955-1956 Fieldnotes: Notebook Swains Number 2},  year         = {1956},  url          = {http://digicoll.manoa.hawaii.edu/grace/Pages/PDFlist.html},  author       = {Grace, George W.}}"
+latitude,longitude
+-2.66787000000000018574,132.54182000000000130058
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+180,1,hand,ruma-,(+OC),,"1,64",
+537,2,left,parambimbe,,,,
+894,3,right,pararare,,,,
+1251,4,leg/foot,[e]va-,,,7?,1?
+1608,5,"to walk",-ra,,,1,1
+1965,6,road/path,rarin,,,1,1
+2322,7,"to come",-ma,,,1,1
+2679,8,"to turn",suvuren,,,,
+3036,9,"to swim",-rur,,,59,
+3393,10,dirty,koturo,,L,31?,
+3750,11,dust,avuvune,,,1?,
+4107,12,skin,urut,,,1?,1?
+4464,13,back,[i]umbasi,,,,
+4821,14,belly,sige-,,,,
+5178,15,bone,tor,,,1?,
+5535,16,intestines,"sige-g umbum",,,,
+5892,17,liver,atane,,,1,?
+6249,18,breast,sus,,,1,1
+6606,19,shoulder,aru,,,,
+6963,20,"to know, be knowledgeable",garuʔu,,,,
+7320,21,"to think",gamaŋgati,,,,
+7677,22,"to fear",gamberad,,,,
+8034,23,blood,rare,,,1,1
+8391,24,head,aru-,,,1?,
+8748,25,neck,one-,,,,
+9105,26,hair,aru-g...,,,,
+9462,27,nose,asigo-,,,,
+9819,28,"to breathe",binapes,,L,29?,
+10176,29,"to sniff, smell",-sigir,,,"12, 7",
+10533,30,mouth,efe-,,,1,
+10890,31,tooth,"efe-g tutu",,,,
+11247,32,tongue,ater,,,35?,
+11604,33,"to laugh",-marif,,,3,
+11961,34,"to cry",-tagis,,,1,1
+12318,35,"to vomit",-preʔe,,,,
+12675,36,"to spit",-fures,,,9?,
+13032,37,"to eat",-madenan,,,,
+13746,39,"to cook",-fo...,"Photocopy cutoff",,,
+14103,40,"to drink",-umun,,,1,?
+14460,41,"to bite",-ret,,,,
+14817,42,"to suck",sus,,,1,1
+15174,43,ear,etiga-,,,1?,1?
+15531,44,"to hear",-tanem,,,2,
+15888,45,eye,taputu-,,,,
+16245,46,"to see",-rewer,,,,
+16959,48,"to sleep",-reʔenef,,,8?,
+17316,49,"to lie down","ga-soso ga-daderembi...",,,,
+17673,50,"to dream","[ga-vaʔanev] sinin...",,,,
+18030,51,"to sit",-mdagen,,,148,
+18387,52,"to stand",-ser,,,,
+18744,53,"person/human being",misier,,,,
+19101,54,man/male,mañañane,,,1?,?
+19458,55,woman/female,bimbine,,,"1,106",1
+19815,56,child,gamimi,,,,
+20172,57,husband,[i]maran,,,47,
+20529,58,wife,popin,,,"5,68",
+20886,59,mother,yai,,,,
+21243,60,father,baba,,,43,
+21600,61,house,rume,,,1,1
+21957,62,thatch/roof,erar,,,,
+22314,63,name,gadin,,,1?,1
+22671,64,"to say",-ga,,,,
+23028,65,rope,warir,,,2,
+23385,66,"to tie up, fasten",-sir,,,119?,
+23742,67,"to sew",-ture,,,1,
+24456,69,"to hunt",-mbam,,,,
+24813,70,"to shoot",-mbaref,,,,
+25170,71,"to stab, pierce",-sambe,,,,
+25527,72,"to hit",-pʷaper,,,4,
+25884,73,"to steal",-menena,,,"1,59,60",
+26241,74,"to kill",-demi,,,,
+26598,75,"to die, be dead",-mat,,,1,1
+26955,76,"to live, be alive",-rarewer,,,,
+27312,77,"to scratch",gaʔor,,,1?,
+27669,78,"to cut, hack",orar,,,,
+28026,79,stick/wood,a,,,1,1
+28383,80,"to split",-pʷaʔus,,,,
+28740,81,sharp,mijarum,,,1,
+29097,82,"dull, blunt",tumbie,,,3,
+29454,83,"to work",-voʔit,,,,
+29811,84,"to plant",-tanem,,,2,1
+30168,85,"to choose",-pili,,L,1,
+30882,87,"to swell",fofor,,,59,
+31239,88,"to squeeze",-wame,,,,
+31596,89,"to hold",-wagit,,,,
+31953,90,"to dig",-ʔe,,,,
+32310,91,"to buy",-taʔun,,,,
+32667,92,"to open, uncover",-peg,,,,
+33024,93,"to pound, beat",-so,,,,
+33381,94,"to throw",-so,,,35,
+34095,96,dog,afun,,,1,
+34452,97,bird,mani,,,1,1
+34809,98,egg,ude,,,,
+35166,99,feather,pupure,,,1?,?
+35523,100,wing,aven,,,2,
+35880,101,"to fly",i-tiʔir,,,6,
+36237,102,rat,adombar,,,,
+36594,103,meat/flesh,dagim,,L,26,
+37308,105,tail,raʔur,,,,
+37665,106,snake,gor,,,,
+38022,107,"worm (earthworm)",wata-gor,,,6,
+38379,108,louse,ut,,,1,1
+38736,109,mosquito,asev,,,,
+39093,110,spider,orier,,,,
+39450,111,fish,sair,,,6,
+39807,112,rotten,miaʔo,,,,
+40521,114,leaf,nane,(cf.26),,,
+40878,115,root,dare,,,,?
+41235,116,flower,rarare,,,,
+41592,117,fruit,tutu,,,,
+41949,118,grass,ricot,,,45,
+42306,119,earth/soil,mbose,,,,
+42663,120,stone,puat,,,1?,?
+43020,121,sand,ain,,,1,?
+43377,122,water,wir,,,2,1
+44091,124,sea,fayoret,,,,
+44448,125,salt,sire|r,,,1,1?
+45162,127,woods/forest,waririr,,,,
+45519,128,sky,ragit,,,1,1
+45876,129,moon,purin,,,1,1
+46233,130,star,atere,,,,
+46590,131,cloud,ta...,,,,
+47304,133,rain,umun,,,1?,
+47661,134,thunder,dudum,,,8,
+48018,135,lightning,riripipit,,,,
+48375,136,wind,rembember,,,,
+48732,137,"to blow",sera...,,,,
+49089,138,warm,bamba...,,,1,1
+49446,139,cold,popʷat...,,,,
+49803,140,dry,mer...,,,1,1
+50160,141,wet,pʷages,,,34,
+50517,142,heavy,manaser,,,,
+50874,143,fire,yaf,,,1,1
+51588,145,smoke,evas,,,,
+51945,146,ash,avu|ne,,,1,1?
+52302,147,black,udude,,,4,
+52659,148,white,rigigit,,,,
+53016,149,red,kasumbe,,,10,
+53373,150,yellow,kuniŋ,,L,1,
+53730,151,green,sasioror,,,,
+54087,152,small,natu,,,,
+54444,153,big,matuʔen,,,41,
+54801,154,short,tam...,,,,
+55158,155,long,mbara...,,,,
+56943,160,"painful, sick",tari-ga-movi,,,,
+58014,163,new,popʷaro,,,,
+58371,164,good,miñan,,,,
+58728,165,"bad, evil",ofi,,,,
+59085,166,"correct, true",marore,,,4?,
+59442,167,night,magagev,,,,
+59799,168,day,damere,,,,
+60156,169,year,gare,,,6,
+61227,172,"to climb",u-sua,,,,
+61941,174,"in, inside",ramo,,,,
+62298,175,above,apo,,,2,?
+62655,176,below,pepene,,,,
+63012,177,this,tieti,,,,
+63369,178,that,tuoto,,,,
+63726,179,near,tanaten,,,,
+64083,180,far,dawan,,,,?
+64440,181,where?,menaye,,,,
+64797,182,I,embie,,,,
+65154,183,thou,umbua,,,,
+65511,184,he/she,i,,,1,1
+113975,185,we,ite,,,1,1
+113976,185,we,ambami,,,2,
+66225,186,you,mbu|amu,,,1,1
+66582,187,they,sire,,,1,1
+66939,188,what?,sanane,,,1?,
+67296,189,who?,itia,,,,
+67653,190,other,firisia,,,50,
+68010,191,all,fasigerig,,,,
+69081,194,how?,surie,,,,
+69438,195,"no, not",afe,,,,
+69795,196,"to count",uferam,,,,
+70152,197,One,sia,(<M),,1?,1?
+70509,198,Two,ru,,,1,1
+70866,199,Three,taor,,,1,1
+71223,200,Four,fat,,,1,1

@@ -1,0 +1,254 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+145,"Windesi Wandamen","Blust, from Van Balen, & Anceaux",wad,wand1267,"v is [β]. Van Balen's materials may be reliable (collected in the first half of the 20th century), but Anceaux relies on second-hand sources and transcriptions, so while general word shapes are accurate details may be off (ie b for β, etc).",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, South Halmahera-West New Guinea, West New Guinea, Cenderawasih Bay, Yapen, Central-Western","Peng Du","Simon Greenhill","@book{121185,  address               = {'s-Gravenhage},  note                  = {35},  pages                 = {166},  publisher             = {Martinus Nijhoff},  series                = {Verhandelingen van het Koninglijk instituut voor taal-, land- en volkenkunde},  title                 = {The Linguistic Situation in the Islands of Yapen, Kurudu, Nau and Miosnum, New Guinea},  url                   = {http://www.papuaweb.org/dlib/bk1/kitlv/},  volume                = {35},  year                  = {1961},  bibtexkey             = {anceaux_kurudu-miosnum1961},  class_loc             = {PL6265},  document_type         = {B},  fn                    = {papua\anceaux_yapen1961.pdf, papua\anceaux_yapen1961_o.pdf, papua\anceaux_yapen1961v2_o.pdf, papua\anceaux_miosnumxxxv1961.pdf, papua\anceaux_yapen1961_o.pdf},  hhtype                = {overview;comparative;wordlist},  inlg                  = {English [eng]},  inlg_code             = {eng},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 6265 ANC 1961},  mpifn                 = {yapen_anceaux1961_o.pdf},  src                   = {hh, mpieva},  srctrickle            = {hh#hvw:Anceaux:Yapen, mpieva#Anceaux1961Thelingu},  subject_headings      = {Islands–Geelvink Bay–Languages, Islands–Geelvink Bay–Languages},  author                = {Anceaux, Johannes Cornelis}}@article{van1915a,  date     = {1915},  title    = {Windesische verhalen met vertaling en woordenlijst},  journal  = {Bijdragen tot de Taal-, Land- en Volkenkunde},  volume   = {70},  pages    = {441–554},  language = {nl},  author   = {van Balen, J.A.}}"
+latitude,longitude
+-2.22341053473621119707,134.26524147116339236163
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+145,1,hand,vara,,,16,
+502,2,left,sara,,,55,
+859,3,right,watan,,,,
+71500,4,leg/foot,ae,,,1,1
+71501,4,leg/foot,ai,,,1,1
+1573,5,"to walk",ra,"also 'to go'",,40?,1
+1930,6,road/path,ran,,,13,?
+2287,7,"to come",ra|ma,,,30,1?
+71732,8,"to turn",ara,,,18,
+71733,8,"to turn",sobera,,,18,
+3001,9,"to swim",as(e),,,19,
+3358,10,dirty,rariai,,,23,
+3715,11,dust,wabu,cf.146,,1,
+4072,12,skin,rawa,,,17,
+4429,13,back,karu,,,23,
+246655,13,back,"karo sina","from EAG field notes",,23,
+4786,14,belly,sane,,,58,
+5143,15,bone,sina,,,15,
+5500,16,intestines,sanèwai,,,1?,
+5857,17,liver,ate|ni,,,1,1
+246656,17,liver,vuvusa,"from EAG field notes",,,
+6214,18,breast,susu,,,1,1
+6571,19,shoulder,varabo,metathesis?,,1?,
+6928,20,"to know, be knowledgeable",rina,,,,
+7285,21,"to think",sanepai[a],,,,
+7642,22,"to fear",matai(t),,,1,1
+7999,23,blood,ria[t],,,14?,?
+8356,24,head,ru,,,1,1?
+8713,25,neck,rau,,,,
+9070,26,hair,runandau,,,40,
+9427,27,nose,suo,,,,
+72768,28,"to breathe",saie,,,,
+72769,28,"to breathe",surap,,,,
+10141,29,"to sniff, smell",anasa,,,19,
+10498,30,mouth,sore,,,,
+10855,31,tooth,dire,,,,
+11212,32,tongue,tapara,,,23,
+11569,33,"to laugh",mari,,,3?,
+11926,34,"to cry",sai[se],,,1?,1?
+12283,35,"to vomit",mamuta,,,1,1
+12640,36,"to spit",kanisu,,,14,
+12997,37,"to eat",ane,tr.,,1,1
+246657,37,"to eat",api,intr.,,1,
+13354,38,"to chew",mam,,,1,1
+73405,39,"to cook",nunu[m],"to bake, roast, grill",,3?,
+73406,39,"to cook",kundur,,,3?,
+14068,40,"to drink",unu[m],,,1,1
+14425,41,"to bite",karip(e),,,,
+14782,42,"to suck",sum,,,1?,1
+15139,43,ear,taradir,,,9,
+15496,44,"to hear",diawa,,,,
+15853,45,eye,re,,,8,
+73882,46,"to see",ser[a],,,,
+73883,46,"to see",sayor,,,,
+16567,47,"to yawn",mavav,,,19,1
+16924,48,"to sleep",ena,,,8,
+17281,49,"to lie down",bata,,,16,
+17638,50,"to dream",ena-mia,,,20,?
+17995,51,"to sit",masoi,,,,
+18352,52,"to stand",osa[r],,,16,
+18709,53,"person/human being",siniotu,,,,
+19066,54,man/male,mua[n],,,1,1
+74286,55,woman/female,babi,,,"1,105",1
+74287,55,woman/female,vavi[n],,,"1,106",1
+19780,56,child,a[n]tu,"cf 'small'",,5?,
+246658,56,child,marareia,"from EAG field notes",,,
+20137,57,husband,sawa(n),,,2,1
+20494,58,wife,vinie,,,5,
+74483,59,mother,sinia,,,5,1
+74484,59,mother,mai,,,5,1
+246659,59,mother,awini,"from EAG field notes",,,
+91319,60,father,tama-,,,1,1
+91320,60,father,[a]yai,,,11?,
+21565,61,house,anio,,,,
+74669,62,thatch/roof,babua,,,,
+74670,62,thatch/roof,nandau,,,,
+22279,63,name,sano,,,1?,?
+74806,64,"to say",oyo,,,,
+74807,64,"to say",topan,,,,
+22993,65,rope,vavi,,,2?,
+23350,66,"to tie up, fasten",kasies,,,,
+24064,68,needle,ret,,,12,
+75197,69,"to hunt",aduat,,,,
+75198,69,"to hunt",atar,,,,
+24778,70,"to shoot",ana,,,1,1
+25135,71,"to stab, pierce",isan,,,21,
+25492,72,"to hit",rora,,,,
+25849,73,"to steal",manana,,,1?,1?
+26206,74,"to kill",mun,,,1,1
+26563,75,"to die, be dead",voru,,,,
+26920,76,"to live, be alive",tenam,,,,
+75637,77,"to scratch",kara,,,,?
+75638,77,"to scratch",arar,,,,?
+27634,78,"to cut, hack",tara,,,1,1
+27991,79,stick/wood,ai,,,1,1
+28348,80,"to split",sabu,,,,
+75959,81,sharp,masai,,,,
+75960,81,sharp,rebuo,,,,
+29062,82,"dull, blunt",kabur,,,,
+29419,83,"to work",nanari,,,,
+29776,84,"to plant",tanam,,,2,1
+30133,85,"to choose",iri,,,1,1
+30490,86,"to grow",siwara,,,,
+30847,87,"to swell",barbara,,,1,1
+31204,88,"to squeeze",kusar,,,,
+31561,89,"to hold",kamut,,,,
+31918,90,"to dig",sarai,,,10,
+32275,91,"to buy",vori,,,1,1
+32632,92,"to open, uncover",seban,,,,
+32989,93,"to pound, beat",tara,,,,
+33346,94,"to throw",so,,,18,
+76848,95,"to fall",marosu,,,,
+76849,95,"to fall",maruran,"to drop, fall",,,
+246660,95,"to fall",tawa,"from EAG field notes",,,
+34060,96,dog,wona,,,,
+246661,96,dog,aŋgamau,"Wondama dialect. From EAG field notes.",,,
+34417,97,bird,aya,,,2,?
+34774,98,egg,ponor[i],,,,
+35131,99,feather,tu[m],,,,
+35488,100,wing,vara|rau,"hand + leaf",,,
+35845,101,"to fly",sapop,,,2?,
+36202,102,rat,waŋgar,,,,
+36559,103,meat/flesh,tarai,,,25,
+77298,104,fat/grease,mai[n],,,1?,?
+77299,104,fat/grease,vionoria,,,,?
+37273,105,tail,kapupui,,,,
+89861,106,snake,tawai,,,24,
+89862,106,snake,korow,,,22,
+37987,107,"worm (earthworm)",kasibui,,,,
+38344,108,louse,[r]utu,,,1,1
+38701,109,mosquito,kamumi[s],,,18,
+77569,110,spider,kerakerai,,,,
+77570,110,spider,apopa,,,,
+39415,111,fish,dia[n],,,13,
+39772,112,rotten,pasua,,,,
+40129,113,branch,rawan(e),,,1?,
+40486,114,leaf,rau,,,1,1
+40843,115,root,war,,,2,1
+41200,116,flower,ariau,,,,
+41557,117,fruit,buo,,,1,1
+41914,118,grass,samuen,,,48,
+42271,119,earth/soil,kakopa,,,22,
+42628,120,stone,rovuki,,,,
+246662,120,stone,rebuki,"from EAG field notes",,,
+42985,121,sand,rubua[n],,,,
+43342,122,water,maria,,,11,
+246663,122,water,karu,"from EAG field notes",,,
+246664,122,water,kambu,"from EAG field notes",,,
+43699,123,"to flow",dira,,,,
+107774,124,sea,rawanam,,,22,
+107775,124,sea,rau,,,6,
+44413,125,salt,sasi-tarai,,,20,
+44770,126,lake,ruru,,,12,
+78471,127,woods/forest,uta[n],"< Malay",L,,1
+78472,127,woods/forest,rei,,,,1
+246665,127,woods/forest,dereu,"from EAG field notes",,,
+45484,128,sky,rora,,,19,
+45841,129,moon,sembai,,,17,
+46198,130,star,siverere,,,17,
+46555,131,cloud,arepa,,,25,
+78717,132,fog,kamayow,,,,
+78718,132,fog,woyow,,,,
+47269,133,rain,rama,,,,
+47626,134,thunder,kuru|ya,,,2,?
+47983,135,lightning,kabiebar,,,,
+48340,136,wind,wana,,,22,
+48697,137,"to blow",bub[u],,,,
+79093,138,warm,mas,,,,
+79094,138,warm,omar[a],,,,
+79156,139,cold,riesa,,,,
+79157,139,cold,rewas,,,,
+79158,139,cold,anuanum,,,,
+79246,140,dry,parar,,,,1
+79247,140,dry,sinaya,,,,1
+79248,140,dry,masa,,,11,1
+50125,141,wet,va|vasa,,,1,1
+50482,142,heavy,marabat,(<M),,1,1?
+50839,143,fire,adia,,,1,
+51196,144,"to burn",kair,,,,
+79525,145,smoke,woyow,,,,
+79526,145,smoke,tup,,,,
+51910,146,ash,w|abu,,,1,1?
+52267,147,black,meta[n],,,1,1
+52624,148,white,busa[r],,,24,
+79741,149,red,mirai,,,1?,
+79742,149,red,urar,,,,
+53338,150,yellow,niŋgua[i],,,,
+53695,151,green,kake,"cp. Leipon Kaki",,24,
+54052,152,small,katu,,,18,
+54409,153,big,baba,,,50,
+54766,154,short,tanam,,,22,
+55123,155,long,aroi,,,23,
+55480,156,thin,minis,,,1,
+55837,157,thick,batoyar,,,3,
+56194,158,narrow,kotar,,,,
+56551,159,wide,savaveri,,,,
+56908,160,"painful, sick",pota,,,,
+57265,161,"shy, ashamed",mamaya,,,1,1
+57622,162,old,masa,,,,
+57979,163,new,vavoru,,,1,1
+80596,164,good,aten,,,,
+80597,164,good,besyen,,,,
+58693,165,"bad, evil",kariria,,,19,
+80768,166,"correct, true",watan,,,,
+80769,166,"correct, true",tindia,,,,
+59407,167,night,diru,,,19,
+59764,168,day,raria,,,,
+246294,169,year,taune,,L,,
+60478,170,when?,tane,,,,
+60835,171,"to hide",aniwar(i),,,,
+81051,172,"to climb",sa,,,2,
+81052,172,"to climb",katar,,,1?,
+61549,173,at,na,"or 20?",,13,
+61906,174,"in, inside",raro,,,1,1
+62263,175,above,vavo,,,2,1
+62620,176,below,vav[a],,,1,1
+81363,177,this,yani,,,1,1
+81364,177,this,nini,,,1,1
+81486,178,that,yana,,,1,1
+81487,178,that,nina,,,1,1
+63691,179,near,ariasi,,,,
+64048,180,far,woroi,,,24,
+81711,181,where?,napa,,,,
+81712,181,where?,tapa,,,,
+64762,182,I,yau,,,1,1
+65119,183,thou,au,,,1,1
+65476,184,he/she,i,,,1,1
+246667,184,he/she,andi,"subject only. from EAG field notes",,,
+113945,185,we,ta|ta,,,1,1?
+113946,185,we,am|at,,,2,
+66190,186,you,mi|at,,,,1?
+66547,187,they,si|[at],,,1,1?
+66904,188,what?,vitoi,,,,
+67261,189,who?,tei,,,1,?
+82360,190,other,esa,,,,
+82361,190,other,esi[a],,,,
+82417,191,all,sipar,,,,
+82418,191,all,wura,,,,
+82513,192,and,ma,,,2,1
+82514,192,and,e,,,1?,1
+69046,194,how?,tane,,,,
+82727,195,"no, not",va,,,25,
+82728,195,"no, not",moyar,,,,
+82826,197,One,siri,,,1,1
+82827,197,One,esa,,,1,1
+70474,198,Two,muandu,,,,
+70831,199,Three,toru,,,1,1
+71188,200,Four,at[e],,,1,1
+246668,201,Five,rime,"from EAG field notes",,1,

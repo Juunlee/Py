@@ -1,0 +1,208 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+181,"Punan Kelai","Antonio Guerreiro",sge,sega1243,,,"Austronesian, Malayo-Polynesian, North Borneo, North Sarawakan, Kayan-Kenyah, Kayanic, Modang","Simon Greenhill","Simon Greenhill","@misc{Guerreiro-181-2005,  author = \"Antonio Guerreiro\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+2.43822999999999989740,116.71875000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+181,1,hand,eguy,,,25,
+538,2,left,menlik,,,,
+895,3,right,men'aw,,,"5, 36",
+1252,4,leg/foot,kul,,,,
+1609,5,"to walk",naw,,,2,1
+1966,6,road/path,gulan,,,1,1
+2323,7,"to come",tawo',,,,
+2680,8,"to turn",rat,,,,
+3037,9,"to swim",jo',,,20,
+3394,10,dirty,mesap,,,25,
+3751,11,dust,awow,,,1?,?
+4108,12,skin,laés,,,20,
+4465,13,back,"maè 'èng",,,,
+4822,14,belly,soh,,,25,
+5179,15,bone,talang,,,1,1
+5536,16,intestines,"tè'èn bu'",,,,
+5893,17,liver,hataè,,,1,1
+6250,18,breast,gi',,,24,
+6607,19,shoulder,le'ip,,,18,
+6964,20,"to know, be knowledgeable",ptèng,,,24,
+7321,21,"to think",ngeusang,,,,
+7678,22,"to fear",kut,,,1,1
+8035,23,blood,le'a,,,1?,1?
+8392,24,head,tekhung,,,27,
+8749,25,neck,ngeléang,,,,
+9106,26,hair,wok,,,1,1
+9463,27,nose,yung,,,1,1
+9820,28,"to breathe",nelèsngèn,,,23,
+10177,29,"to sniff, smell",nebu',,,"25, 21",
+10534,30,mouth,msung,,,,
+10891,31,tooth,kiu,,,70,
+11248,32,tongue,kelah,,,4,1?
+11605,33,"to laugh",lo',,,24,
+11962,34,"to cry",ngès,,,1,1
+12319,35,"to vomit",tu',,,1,1
+12676,36,"to spit",menyu',,,,
+13033,37,"to eat",mun,,,17,
+13390,38,"to chew",na'aw,,,,
+13747,39,"to cook",negu'ngan,,,,
+14104,40,"to drink",yo',,,,
+14461,41,"to bite",kap,,,,
+14818,42,"to suck",jieuk,,,,
+15175,43,ear,bal,,,,
+15532,44,"to hear",ngahajing,,,13,
+15889,45,eye,mtan,,,1,1
+16246,46,"to see",ngang,,,,
+16603,47,"to yawn",nyu,,,7,
+16960,48,"to sleep",du',,,1,1
+17317,49,"to lie down",neklè',,,,
+17674,50,"to dream",ngempi:n,,,1?,?
+18031,51,"to sit",ngo,,,30,
+18388,52,"to stand",nekjiang,,,18,
+18745,53,"person/human being",lun,,,17,
+19102,54,man/male,menkaè,,,,?
+19459,55,woman/female,madoh,,,15,
+19816,56,child,ana:k,,,1,1
+20173,57,husband,segun,,,2?,1
+20530,58,wife,segun,,,1,
+20887,59,mother,nè,,,1,?
+21244,60,father,mam,,,"1,10",
+21601,61,house,lemin,,,13,
+21958,62,thatch/roof,sepaw,,,15,
+22315,63,name,ngelan,,,1,1
+22672,64,"to say",pesiu,,,,
+23029,65,rope,tlaè,,,1,1
+23386,66,"to tie up, fasten",wal,,,,
+23743,67,"to sew",mehot,,,24,?
+24100,68,needle,los,,,14,
+24457,69,"to hunt","lèng saw",,,24,
+24814,70,"to shoot",nembak,,,49,
+25171,71,"to stab, pierce",nenglow,,,,
+25528,72,"to hit",bup,,,,
+25885,73,"to steal",inkaw,,,1,1
+26242,74,"to kill",ngejap,,,,
+26599,75,"to die, be dead",lewas,,,13,
+26956,76,"to live, be alive",blom,,,11,
+27313,77,"to scratch",enjiu,,,,
+27670,78,"to cut, hack",tole,,,,
+28027,79,stick/wood,jaw,,,1,1
+28384,80,"to split",èntah,,,19,
+28741,81,sharp,meli:n,,,,
+29098,82,"dull, blunt",kohot,,,,
+29455,83,"to work",na'hii',,,,
+29812,84,"to plant",wos,,,,
+30169,85,"to choose",enlik,,,1?,1
+30526,86,"to grow",bu',,,1,1
+30883,87,"to swell",sebuk,,,,
+31240,88,"to squeeze",msit,,,27,
+31597,89,"to hold",kam,,,1,1
+31954,90,"to dig",kat,,,19,
+32311,91,"to buy",enlèu,,,20,
+32668,92,"to open, uncover",bo'ahaè,,,1,
+33025,93,"to pound, beat",poh,,,,
+33382,94,"to throw",encil,,,21,
+33739,95,"to fall",pe'ak,,,27,
+34096,96,dog,asaw,,,1,1
+34453,97,bird,mnuk,,,1,1
+34810,98,egg,klo,,,1,1
+35167,99,feather,blun,,,1,1
+35524,100,wing,pit,,,46,?
+35881,101,"to fly",myang,,,19,
+36238,102,rat,ewaw,,,,1
+36595,103,meat/flesh,sè:n,,,1,1
+36952,104,fat/grease,mak,,,1?,
+37309,105,tail,cik,,,1?,?
+37666,106,snake,pè',,,1?,
+38023,107,"worm (earthworm)",beslang,,,18,
+38380,108,louse,taw,,,1?,1
+38737,109,mosquito,pkat,,,,
+39094,110,spider,agah,,,1,1
+39451,111,fish,atuk,,,15,
+39808,112,rotten,nyam,,,25?,
+40165,113,branch,le'an,,,,1
+40522,114,leaf,cong,,,19,
+40879,115,root,ukah,,,1,1
+41236,116,flower,pong,,,1?,
+41593,117,fruit,gu',,,1,1
+41950,118,grass,law,,,,
+42307,119,earth/soil,na',,,1,1
+42664,120,stone,wutaw,,,1,1
+43021,121,sand,belngin,,,20,
+43378,122,water,nguy,,,12,
+43735,123,"to flow",mnyul,,,20,
+44092,124,sea,kem'oh,,,,
+44449,125,salt,si'ja',,,1,
+44806,126,lake,tuaw,,,,?
+45163,127,woods/forest,mit'na',,,,
+45520,128,sky,langèt,,,1,1
+45877,129,moon,wulun,,,1,1
+46234,130,star,tel'an,,,,
+46591,131,cloud,awun,,,1,
+46948,132,fog,ta'ti',,,,
+47305,133,rain,ci:n,,,1,1
+47662,134,thunder,dlaè,,,31,
+48019,135,lightning,kelap,,,"1,88",
+48376,136,wind,kel'aw,,,,
+48733,137,"to blow",sijup,,,1,1?
+49090,138,warm,elsuk,,,,
+79159,139,cold,sengam,,,21,
+79160,139,cold,menugè,,,,
+49804,140,dry,kuhung,,,22?,
+50161,141,wet,wusah,,,1,1
+50518,142,heavy,bahat,,,1,1
+50875,143,fire,epoè,,,1,1
+51232,144,"to burn",tong,,,19?,
+51589,145,smoke,son,,,19,
+51946,146,ash,awow,,,1,1
+52303,147,black,maèdang,,,19,
+52660,148,white,meslet,,,,
+53017,149,red,masa:k,,,,
+53374,150,yellow,masè:u,,,35,
+53731,151,green,melhom,,,27,
+54088,152,small,so',,,20,
+54445,153,big,pohong,,,,
+54802,154,short,guwi',,,,
+55159,155,long,keja',,,25,
+55516,156,thin,pis,,,1,1
+55873,157,thick,mang,,,20,
+56230,158,narrow,dat,,,,
+56587,159,wide,blia:ng,,,13,
+56944,160,"painful, sick",plaés,,,22,
+57301,161,"shy, ashamed",sè'è,,,14,
+80495,162,old,maja',,,,
+80496,162,old,no',,,,
+58015,163,new,melkiang,,,,
+58372,164,good,kas,,,28,
+58729,165,"bad, evil",ak,,,28,?
+59086,166,"correct, true",tahang,,,,
+59443,167,night,dam,,,20?,?
+59800,168,day,daw,,,1,1
+60157,169,year,te'on,,,1,1
+60514,170,when?,nemow,,,9,
+60871,171,"to hide",suek,,,,
+61228,172,"to climb",baw,,,,
+61585,173,at,a,,,,
+61942,174,"in, inside",maè,,,,
+62299,175,above,kembaw,,,2,?
+62656,176,below,edi',,,,
+63013,177,this,nèk,,,1,1
+63370,178,that,tuy,,,16,1
+63727,179,near,dala',,,,
+64084,180,far,ja',,,1?,?
+64441,181,where?,emaw,,,14,
+64798,182,I,kuy,,,1,1
+65155,183,thou,ki',,,1,
+65512,184,he/she,sih,,,10,
+113977,185,we,tam,,,71,1
+113978,185,we,ma:è,,,2,
+66226,186,you,"uma:è bobè",,,,
+66583,187,they,cun,,,,
+66940,188,what?,non,,,2,
+67297,189,who?,hè'cu',,,,
+67654,190,other,alap,,,11,
+68011,191,all,bèbè',,,,
+68368,192,and,un,,,15?,
+68725,193,if,dasi'[encuk],,,,
+69082,194,how?,dasi'enmaw,,,,
+69439,195,"no, not",anong,,,,
+69796,196,"to count",melèkin,,L?,,
+70153,197,One,ci',,,1?,
+70510,198,Two,ago',,,,1
+70867,199,Three,atlaw,,,1,1
+71224,200,Four,pat,,,1,1

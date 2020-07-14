@@ -1,0 +1,240 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+114,"Rejang Rejang",Endarwati,rej,reja1240,,,"Austronesian, Malayo-Polynesian, Rejang","Penny Keenan","Simon Greenhill","@misc{Endarwati-114-2005,  author = \"Endarwati\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-3.41999999999999992895,102.50000000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+114,1,hand,taŋən,,,18,
+471,2,left,kiduəw,,,"56,28",
+828,3,right,kanən,,,"1,73",1
+1185,4,leg/foot,kekea,,,1,
+1542,5,"to walk",bəpanəw,,,2,1
+1899,6,road/path,dalən,,,1,1
+2256,7,"to come",təko,,,17?,
+89754,8,"to turn",beloʔ,,,24,
+89755,8,"to turn",biloʔ,,,24,
+2970,9,"to swim",bər̃naŋ,,,23,
+3327,10,dirty,kotor,"Malay loan",L,31,
+3684,11,dust,dəbʡw,+,,58,
+87990,12,skin,kaʔ,"fruit, etc",,,
+87991,12,skin,kaʔku,k.saya,,,
+4398,13,back,kədoŋ,,,,
+4755,14,belly,tənĩyɛ̃,,,,
+5112,15,bone,təlan,,,1,1
+5469,16,intestines,usus,"Malay loan",L,24,
+5826,17,liver,atiɛ,,,1,1
+6183,18,breast,susəw,,,1,1
+6540,19,shoulder,baəw,,,17,
+6897,20,"to know, be knowledgeable",nam,,,,
+172449,20,"to know, be knowledgeable",kicu,,,,
+7254,21,"to think",mɛkɛr,"Malay loan from Arabic initially",L,22,
+7611,22,"to fear",sabən,,,,
+7968,23,blood,dalɨaʔ,,,1,1
+8325,24,head,uləw,,,1,1
+8682,25,neck,kagən,,,,
+9039,26,hair,buʔ,,,1,1
+9396,27,nose,ñuŋ,"<+ injuN, cp. Ikan kan",,1?,1?
+72763,28,"to breathe","si bənapas","Malay loan",L,29,1
+72764,28,"to breathe","si bəñabəy","dia bernapas",,29,1
+72765,28,"to breathe","dia bernapas","Malay loan",L,29,1
+10110,29,"to sniff, smell",səmiyum,,,20,
+10467,30,mouth,bebea[ʔ],(<+bibiR),,32,
+10824,31,tooth,epen,,,1,1
+11181,32,tongue,dilɨaʔ,,,4,1
+11538,33,"to laugh",kətawəy,,,1,1
+11895,34,"to cry",məŋinoy,,,,
+12252,35,"to vomit",mũtɨaʔ,,,1,1
+12609,36,"to spit",bətəkɛʔ,,,,
+73233,37,"to eat","mũ mĩẽ",,,,
+73234,37,"to eat","makan nasi",,,1,
+73235,37,"to eat",ŋəmũʔ,,,,
+13323,38,"to chew",bətinaʔ,,,,
+13680,39,"to cook",məŋəsaʔ,,,19?,
+73468,40,"to drink",minum,,,1,1
+73469,40,"to drink",mɛnɛm,,,1,1
+73470,40,"to drink","makanan kecil",,,1,1
+73471,40,"to drink","muʔ biyoa",,,1,1
+14394,41,"to bite",bətəŋə̃t,,,,
+14751,42,"to suck",məŋɛsɛp,,,1,1
+15108,43,ear,tiʔuʔ,,,4,
+73745,44,"to hear",təməŋoa,,,,
+73746,44,"to hear",təmŋoa,,,,
+15822,45,eye,maṱəy,,,1,1
+16179,46,"to see","kəməleaʔ [kəmleaʔ]",,,23,
+16536,47,"to yawn",sətiyam,,,,
+16893,48,"to sleep",tidoa,,,"1,70",1
+17250,49,"to lie down",məŋguleʔ-gulɛʔ,,,54,
+17607,50,"to dream",bəmipəy,,,1,1
+17964,51,"to sit",təmõt,,,,
+18321,52,"to stand",təgaʔ,,,26,
+18678,53,"person/human being",tun,,,,
+74221,54,man/male,səmanĩɛ̃,,,1,1
+74222,54,man/male,səboŋ,,,,1
+74282,55,woman/female,səlawiɛ,,,33,
+74283,55,woman/female,biɛ,,,1?,
+19749,56,child,anaʔ,,,1,1
+20106,57,husband,aduʔ,,,,
+20463,58,wife,prəpuan,"Malay loan",L,,
+91252,59,mother,inoʔ,,,1,
+91253,59,mother,maʔ,,,35,
+21177,60,father,baʔ,,,13,
+21534,61,house,umɨaʔ,,,1,1
+21891,62,thatch/roof,atəp,,,1,1
+22248,63,name,gɛn,,,10,
+22605,64,"to say",məŋɛ̃cɛʔ,,,26,
+22962,65,rope,tiləy,,,1,1
+23319,66,"to tie up, fasten",məŋɛ̃kɛt,,,1,1
+23676,67,"to sew",mə̃nɛ̃t,,,2,1
+24033,68,needle,dolom,,,1,1
+24390,69,"to hunt",bər̃burəw,,,23,
+24747,70,"to shoot",mənimbaʔ,"Malay loan",L,49,
+25104,71,"to stab, pierce",təmikəm,,,31,
+91691,72,"to hit",məlopoaʔ,"as in punishing a child",,,
+91692,72,"to hit",məŋomə̃t,"as in crushing a mosquito",,,
+25818,73,"to steal",maliŋ,,,16,
+26175,74,"to kill",monoaʔ,,,1?,1
+26532,75,"to die, be dead",matiɛ,,,1,1
+26889,76,"to live, be alive",idup,,,"1,82",1
+91969,77,"to scratch",kəməkut,"a. as when itchy",,1?,1?
+91970,77,"to scratch",gəmãũt,"b. as when itchy",,,
+91971,77,"to scratch",gəmʔew,"c. as a cat, tiger, etc",,,
+27603,78,"to cut, hack",təm[ə]toʔ,,,3,1
+27960,79,stick/wood,kiyuəw,,,1,1
+28317,80,"to split",mlay,,,,
+28674,81,sharp,tajəm,,,1,1
+29031,82,"dull, blunt",topoa,,,3,1
+29388,83,"to work",bəkər̃jo,"Malay loan",L,23,
+29745,84,"to plant",təmanəm,,,2,1
+30102,85,"to choose",məmeliaʔ,,,1,1
+30459,86,"to grow",idup,"metathesis of vowels shows that this is < Malay (SA)",L,13,
+30816,87,"to swell",məmbəkoʔ,,,19,
+31173,88,"to squeeze",mĩyõaʔ,"< +peReq",,38,?
+31530,89,"to hold",məməgoŋ,,,32,
+31887,90,"to dig",məmikoa,,,,
+32244,91,"to buy",mənokoa,,,,
+32601,92,"to open, uncover",məmukaʔ,,,1,1
+76687,93,"to pound, beat","mənutuʔ pae",pae(=m.padi),,2,1
+76688,93,"to pound, beat","təmutuʔ pae",pae(=m.padi),,2,1
+33315,94,"to throw",məlũʔ,,,,
+33672,95,"to fall",us,,,,
+34029,96,dog,kuyuʔ,,,26,
+34386,97,bird,buruŋ,"Malay loan",L,17,
+34743,98,egg,tənõã,,,1?,1?
+35100,99,feather,buləw,,,1,1
+35457,100,wing,sayəp,,,26,
+35814,101,"to fly",tər̃baŋ,,,18,
+36171,102,rat,tikus,,,22,
+36528,103,meat/flesh,dagiŋ,"Malay loan",L,26,
+36885,104,fat/grease,gəmũʔ,,,26,
+37242,105,tail,ikoa,,,1,1
+37599,106,snake,duŋ,,,,
+37956,107,"worm (earthworm)",gəloŋ,,,15,
+38313,108,louse,gutəw,,,1,1
+38670,109,mosquito,ñomoʔ,,,1,1
+39027,110,spider,"lawɨaʔ lawɨaʔ",,,1,1
+39384,111,fish,kan,,,1,1
+77658,112,rotten,usuʔ,,,56,1
+77659,112,rotten,buʔuʔ,,,1,1
+40098,113,branch,pələpɨaʔ,a,,,1
+77772,114,leaf,dan,,,1,1
+77773,114,leaf,dawən,,,1,1
+40812,115,root,balət,"(also = vein, tendon",,,?
+41169,116,flower,buŋə̃y,,,1,1
+41526,117,fruit,boaʔ,,,1,1
+41883,118,grass,dukut,,,2,
+78024,119,earth/soil,pitaʔ,,,1,
+78025,119,earth/soil,tanɨaʔ,,,1,
+42597,120,stone,butəw,,,1,1
+105438,121,sand,pasir,"Malay loan",L,18,1
+105439,121,sand,bəniɛ,,,1,
+43311,122,water,biyoa,,,,1
+43668,123,"to flow",məŋaloa,,,1,1
+44025,124,sea,lautʔ,"Malay loan",L,6,
+44382,125,salt,siləy,,,1,1
+44739,126,lake,danuəw,,,1,1
+45096,127,woods/forest,imo,,,37,
+45453,128,sky,lɛŋɛt,,,1,1
+45810,129,moon,bulən,,,1,1
+46167,130,star,bitaŋ,,,1,
+46524,131,cloud,awan,,,1,
+46881,132,fog,kabut,,,1,1
+47238,133,rain,ujən,,,1,1
+47595,134,thunder,səmitoa,,,,
+47952,135,lightning,kilat,,,1,1
+48309,136,wind,aŋin,,,1,1
+78998,137,"to blow","bətiup [bertiup]",,,"1,19",1
+78999,137,"to blow","təmĩũp [meniup]",,,"1,19",1
+49023,138,warm,panəs,,,1,1
+49380,139,cold,səŋãʔ,,,,
+49737,140,dry,kəʔiŋ,,,22,
+50094,141,wet,lacɨaʔ,,,,
+50451,142,heavy,bəʔət,,,1,1
+50808,143,fire,opoy,,,1,1
+79471,144,"to burn",məŋəmbəm,,,,
+79472,144,"to burn",saʔəp,,,,
+51522,145,smoke,asəp,,,49,
+51879,146,ash,abəw,,,1,1
+52236,147,black,məluəw,,,,
+52593,148,white,puteaʔ,,,1,1
+52950,149,red,milɨaʔ,,,1,1
+53307,150,yellow,kuniŋ,"Malay loan",L,1,
+53664,151,green,ijo,,,25,
+54021,152,small,titiʔ,,,,
+54378,153,big,loy,,,,
+54735,154,short,pɛndɛʔ,,,68,1
+55092,155,long,pañjaŋ,,,24,
+80192,156,thin,mipis,,,"1,65",1
+80193,156,thin,tipis,,,"1,44",1
+55806,157,thick,kəboa,,,1,
+56163,158,narrow,səpit,,,68,1
+56520,159,wide,libɨa,"Malay loan",L,,
+80365,160,"painful, sick",gis,,L,,
+80366,160,"painful, sick",sakit,,L,1,
+57234,161,"shy, ashamed",sɛlɛkʔ,,,,
+57591,162,old,tuəy,,,1,1
+57948,163,new,bələw,,,1,1
+58305,164,good,"baiʔ ɑsəynə [rasanya]","Malay loan",L,33,
+58662,165,"bad, evil",kidɛʔ,,,1,
+59019,166,"correct, true",bənɨã,,,1,1
+113867,167,night,kəlmən,,,20?,
+113868,167,night,kələmən,,,20?,
+59733,168,day,biləy,,,,1
+60090,169,year,taun,,,1,1
+60447,170,when?,təŋɛ̃n,,,,
+60804,171,"to hide",məñũʔũk,,,,
+61161,172,"to climb",kənɛʔ,,,1,1
+81109,173,at,"naʔ pənan",,,,
+81110,173,at,"di tempat",,,20,
+61875,174,"in, inside","naʔ ləm",,,1,1
+62232,175,above,"naʔ das",,,1?,
+62589,176,below,"naʔ bɨaʔ",,,1,1
+62946,177,this,dio,,,,
+63303,178,that,doʔo,,,,
+63660,179,near,paʔaʔ,,,27,
+64017,180,far,oaʔ,,,1?,?
+64374,181,where?,"naʔ ipə",,,,
+64731,182,I,uku,,,1,1
+65088,183,thou,ko,,,1,1
+65445,184,he/she,si,,,1?,
+113869,185,we,itə,,,1,1
+113870,185,we,kɛmɛ,,,2,
+82046,186,you,"udi kətə",,,,1
+82047,186,you,"kumu kətə",,,1,1
+66516,187,they,toboʔo,,,,
+66873,188,what?,jano,,,17,
+67230,189,who?,api,,,,
+67587,190,other,leyen,,,2,
+67944,191,all,kətə,,,,
+113871,192,and,"ŋen [dan]","borrowed from Malay",L,64,
+113872,192,and,"ŋen [dengan]",,,64,
+68658,193,if,kaləw,"< Malay < SKT + AR",L,14,
+69015,194,how?,"awe ipə",,,,
+82716,195,"no, not",iso,,,,
+82717,195,"no, not",[bukan],,,,
+82718,195,"no, not","coa [tidak]",,,,
+69729,196,"to count",mərɛkɛn,"Dutch loan",L,,
+70086,197,One,do,,,,
+70443,198,Two,duəy,,,1,1
+70800,199,Three,tələw,,,1,1
+71157,200,Four,pat,,,1,1
+131493,201,Five,lemo,,,1,
+131494,202,Six,enum,,,1,

@@ -1,0 +1,246 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+50,"Buru [Namrole Bay]",Collins,mhs,buru1303,,,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Central Maluku, Buru","Penny Keenan","Simon Greenhill","@misc{Collins-50-2005,  author = \"Jim Collins\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-3.50000000000000000000,126.50000000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+50,1,hand,fahan,,,5,
+407,2,left,eʔbali,,,7,
+764,3,right,eʔwana,,,"1,62",1
+1121,4,leg/foot,kadan,,,,
+1478,5,"to walk",iko,[go],,5,?
+1835,6,road/path,tohon,,,,
+71632,7,"to come",suba,,,,
+71633,7,"to come",kadak,,,,
+2549,8,"to turn",pulik,"[twist / stir]",,,
+87886,9,"to swim",uka,,,,
+87887,9,"to swim",hiwi,wade,,,
+87888,9,"to swim",naŋo,"walk in deep water",,"1,45",
+71812,10,dirty,daraki,,,1,?
+71813,10,dirty,eʔmitek,,,2,?
+3620,11,dust,lafu,[=146],,29,
+71947,12,skin,okon,,,1,1
+71948,12,skin,kolin,,,1,1
+87998,13,back,kakon,,,8?,
+4691,14,belly,fukan,,,5,
+5048,15,bone,rohin,,,2?,
+5405,16,intestines,"fukan wahen",,,"6,7",
+5762,17,liver,lalen,"cp Elat, ILK",,15,
+6119,18,breast,soso,,,1,1
+6476,19,shoulder,malan,,,5,
+6833,20,"to know, be knowledgeable",tewa,,,39,
+72347,21,"to think",odo,,,,
+72348,21,"to think",eʔhanuk,,,,
+72397,22,"to fear","em tako",,,1,1
+72398,22,"to fear",bate,,,,1
+72399,22,"to fear",posboti,,,,1
+72439,23,blood,bahagen,"bahagen (Coagulated)",,,1
+72440,23,blood,rahan,"bahagen (Coagulated)",,1,1
+8261,24,head,olon,,,1,1
+8618,25,neck,wadon,,,80,
+8975,26,hair,"olon folon",,,3?,
+9332,27,nose,ŋe:n,,,,
+72755,28,"to breathe","hesa ahen",,,,
+72756,28,"to breathe",mahek,,,,
+72794,29,"to sniff, smell",mumuk,,,1?,1?
+72795,29,"to sniff, smell",m|aek,,,1?,1?
+10403,30,mouth,fifin,,,1,
+10760,31,tooth,ŋisin,,,24,1
+11117,32,tongue,ma:n,,,7,1
+11474,33,"to laugh",mali,,,3,
+11831,34,"to cry",taŋi,,,1,1
+12188,35,"to vomit",muta,,,1,1
+73162,36,"to spit",stuha,,,9,
+73163,36,"to spit",ethufa,,,9,
+12902,37,"to eat",ka,,,1,1
+13259,38,"to chew",tal|mamak,,,1,1?
+13616,39,"to cook",eʔmasa,,L,,
+13973,40,"to drink",inu,,,1,1
+14330,41,"to bite",hada,,,,
+73618,42,"to suck",opi,,,,1?
+73619,42,"to suck",doso,,,,1?
+73620,42,"to suck",mupuk,,,68,1?
+73621,42,"to suck",soso,,,1,1?
+73622,42,"to suck",napu,,,,1?
+73623,42,"to suck",mupu,,,68,1?
+73624,42,"to suck",hisak,,,,1?
+15044,43,ear,eʔliŋan,,,1,1
+73741,44,"to hear",čan,,,,1?
+73742,44,"to hear",p|reŋe,,,1,1?
+15758,45,eye,raman,,,,
+73854,46,"to see",touk,,,,1
+73855,46,"to see",aŋak,,,,1
+73856,46,"to see",bafak,,,,1
+73857,46,"to see",kita,,,1,1
+16472,47,"to yawn",mawa,,,19,1
+16829,48,"to sleep",bage,,,,
+17186,49,"to lie down","bage boana",,,,
+17543,50,"to dream",m|nipi,,,"1,37",1
+17900,51,"to sit",ptea,,,,
+18257,52,"to stand",kerek,,,"1,32",1
+18614,53,"person/human being",geba,,,,
+18971,54,man/male,"ana mhana",,,1,1
+19328,55,woman/female,"ana fina",,,"1,41",1
+19685,56,child,anat,,,1,1
+20042,57,husband,"geb ha:",,,2?,
+20399,58,wife,"fin ha:",,,"1,5",
+20756,59,mother,ina,,,1,1
+21113,60,father,ama,,,1,1
+21470,61,house,huma,,,1,1
+21827,62,thatch/roof,atet,,,1,1
+22184,63,name,ŋa:n,,,1,1
+22541,64,"to say",eprepa,,,152?,
+22898,65,rope,wihit,,,2,
+23255,66,"to tie up, fasten",hapu,,,,
+23612,67,"to sew",sau,,,10,
+23969,68,needle,weta,,,,
+75179,69,"to hunt",pahagaʔ,,,,
+75180,69,"to hunt",irohi,,,,
+24683,70,"to shoot",pana,,,1,1
+25040,71,"to stab, pierce",seka,,,8,
+75368,72,"to hit",paha,,,,
+75369,72,"to hit",luba,,,1?,
+25754,73,"to steal",ʔmaka,,,"1,59,60",1
+26111,74,"to kill",eʔmata,,,2,
+26468,75,"to die, be dead",mata,,,1,1
+26825,76,"to live, be alive",mewe,,,,
+27182,77,"to scratch",fgogi,,,,
+75682,78,"to cut, hack",lata,,,7,
+75683,78,"to cut, hack",tete,,,7,
+27896,79,stick/wood,kau,,,1,1
+75849,80,"to split",faka,,,,1
+75850,80,"to split",fola,,,1,1
+28610,81,sharp,da-mtae,,,1,1?
+28967,82,"dull, blunt",da-modok,,,,
+29324,83,"to work",puma,,,1,
+29681,84,"to plant",seka,,,,
+30038,85,"to choose",pili,,,1,1
+30395,86,"to grow",suri,,,,
+30752,87,"to swell",dobo,,,,
+31109,88,"to squeeze",skapi,,,,
+76426,89,"to hold",pese,,,,
+76427,89,"to hold",gau,,,,
+31823,90,"to dig",kali,,,1,1
+32180,91,"to buy",safe,,,3?,
+32537,92,"to open, uncover",fuka,,,1,1
+32894,93,"to pound, beat",toto,,,20,1
+33251,94,"to throw",fage,,,,
+33608,95,"to fall",moho,,,"1,106",
+33965,96,dog,asu,,,1,1
+34322,97,bird,manut,,,1,1
+34679,98,egg,telun,,,1,1
+35036,99,feather,folon,,,1,1
+35393,100,wing,panin,,,2,1
+77133,101,"to fly",loi,,,2,
+77134,101,"to fly",labak,,,1,
+77135,101,"to fly",sobak,,,1,
+36107,102,rat,"emtit asit",,,,
+36464,103,meat/flesh,isin,,,31,1
+36821,104,fat/grease,mima,,,1,1
+37178,105,tail,ikun,,,1,1
+37535,106,snake,inewen,,,,
+37892,107,"worm (earthworm)",labi,,,1,
+38249,108,louse,koto,,,1,1
+38606,109,mosquito,seŋet,,,40,
+38963,110,spider,hakat,,,,
+39320,111,fish,ikau,,,1,1
+39677,112,rotten,bonon,,,,
+40034,113,branch,lawan,,,,
+40391,114,leaf,omon,,,,
+40748,115,root,"lahin semun",,,,?
+41105,116,flower,tutun,,,,
+41462,117,fruit,fuan,,,1,1
+41819,118,grass,mehet,,,,
+42176,119,earth/soil,rahe,,,4?,
+42533,120,stone,fatu,,,1,1
+42890,121,sand,ena,,,1,1
+43247,122,water,wae,,,2,1
+43604,123,"to flow",-mano,,,,
+43961,124,sea,masi,,,8,
+44318,125,salt,sasi,,,20,
+78421,126,lake,duleʔ,,,1,1
+78422,126,lake,rana,,,1,1
+45032,127,woods/forest,mua,,,,
+45389,128,sky,laŋit,,,1,1
+45746,129,moon,fulan,,,1,1
+46103,130,star,tolot,,,,
+46460,131,cloud,lokon,,,,
+46817,132,fog,dimu,,,,
+47174,133,rain,dekat,,,60?,
+47531,134,thunder,gogo,,,1,
+47888,135,lightning,filat,,,1,1?
+78894,136,wind,aŋin,,,1,1
+78895,136,wind,kahut,,,,1
+48602,137,"to blow",opi,,,4,?
+48959,138,warm,poton,,,,
+49316,139,cold,b|ridi,,,1,1
+49673,140,dry,maŋi,,,1?,
+50030,141,wet,mrot,,,,
+50387,142,heavy,beha,,,1,1
+79374,143,fire,gemat,,,,
+79375,143,fire,bana,,,,
+51101,144,"to burn",pefa,,,,
+51458,145,smoke,"gema fenen",,,,
+51815,146,ash,l|afu,,,67,1
+79626,147,black,mede,,,1,1
+79627,147,black,mite,,,1,1
+52529,148,white,boti,,,1,1
+52886,149,red,mena,,,1?,1
+53243,150,yellow,komi,,,1,1
+53600,151,green,biro,,,5?,
+53957,152,small,noi,,,,
+54314,153,big,ha:t,,,1?,1
+54671,154,short,turen,,,,
+55028,155,long,remat,,,,
+55385,156,thin,-mnipi,,,1,1
+55742,157,thick,-ftelo,,,3,
+56099,158,narrow,samehe,,,,
+56456,159,wide,belen,,,2?,
+56813,160,"painful, sick",mpei,,,,
+57170,161,"shy, ashamed",mgea,,,1,?
+57527,162,old,mkeda,,,5,
+57884,163,new,fehu,,,1,1
+58241,164,good,gosa,,,,
+58598,165,"bad, evil",boho,,,3?,
+58955,166,"correct, true",betah,,,1?,
+59312,167,night,beto,,,,
+59669,168,day,beto,,,,
+89897,169,year,musun,,,5,
+89898,169,year,ŋahet,,,3?,
+60383,170,when?,beton|pila,,,"1,65",1
+60740,171,"to hide",pifroni,,,,
+61097,172,"to climb",keha,,,,
+61454,173,at,di,,,20,1
+61811,174,"in, inside",da-lale,,,1,1
+62168,175,above,sakak,,,,
+62525,176,below,paok,,,,
+62882,177,this,hana,,,,
+63239,178,that,hadi,,,,
+63596,179,near,braŋin,,,1?,
+63953,180,far,breman,,,,
+64310,181,where?,fidó,,,,
+64667,182,I,yako,,,1,1
+65024,183,thou,kae,,,1,
+65381,184,he/she,rime,,,,
+119228,185,we,kita,,,1,1
+119229,185,we,kami,,,2,
+66095,186,you,kimi,,,"1,13",1
+66452,187,they,sira,,,1,1
+66809,188,what?,sapan,,,1,1
+67166,189,who?,sane,,,1?,
+67523,190,other,megek,,,,
+67880,191,all,sepu,,,,
+68237,192,and,tu,,,,
+68594,193,if,bam,,,,
+68951,194,how?,gamdó,,,,
+69308,195,"no, not",mo,,,7,
+69665,196,"to count",hack,,,,
+70022,197,One,sa,,,1,1
+70379,198,Two,rua,,,1,1
+70736,199,Three,telo,,,1,1
+71093,200,Four,pa:,,,1,1
+153156,201,Five,lima,,,1,
+153157,202,Six,nee,,,1,
+153158,203,Seven,pito,,,1,
+153159,204,Eight,trua,,,3,
+153160,205,Nine,cia,,,5,
+153161,206,Ten,polo,,,5,

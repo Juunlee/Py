@@ -1,0 +1,205 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+53,"Hitu (Ambon)","Jim Collins",htu,hitu1239,,,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Central Maluku, East, Seram, Nunusaku, Piru Bay, East, Seram Straits, Ambon","Peng Du","Simon Greenhill","@misc{Collins-53-2005,  author = \"Jim Collins\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-3.63834191649497507015,128.26870243432179563570
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+53,1,hand,lima,,,"1,64",1
+410,2,left,pahuʷeʔe,,,,
+767,3,right,pahuʷana,,,1,1
+1124,4,leg/foot,ai,,,1,1
+1481,5,"to walk",oi,,,26,
+1838,6,road/path,lalan,,,1,1
+2195,7,"to come",lai,,,54,?
+2552,8,"to turn",ikeʔ,,,,
+2909,9,"to swim",nanu,,,"1,45",1
+3266,10,dirty,paʔatone,,,,
+3623,11,dust,"tona tain",,,,
+3980,12,skin,uli,,,1,1
+4337,13,back,muli,"Probably a spatial relation and not a body part",,3,
+4694,14,belly,tia,,,1,1
+5051,15,bone,luli,,,2,
+5408,16,intestines,"hatua walit",,,8,
+5765,17,liver,hatua,,,14,
+6122,18,breast,susu,,,1,1
+6479,19,shoulder,hala,,,1,1
+6836,20,"to know, be knowledgeable",tewa,,,39,
+7193,21,"to think",pikir,"loan of 22?",L,22,
+7550,22,"to fear",kele-,,,24,
+7907,23,blood,lala,,,1,1
+8264,24,head,"ulu hatu",,,1,1
+8621,25,neck,enu,,,79,
+8978,26,hair,keul,,,30,
+9335,27,nose,ilu-,,,1,1
+9692,28,"to breathe","lihi napas",,,29,
+10049,29,"to sniff, smell",pahanisu,,,,
+10406,30,mouth,hihi,,,1,
+10763,31,tooth,niki,,,1,1?
+11120,32,tongue,mei,,,7,?
+11477,33,"to laugh",malaʔa,,,3,
+11834,34,"to cry",tatani,,,1,1
+12191,35,"to vomit",mamuta,,,1,1
+12548,36,"to spit",tahula,"or 1?",,9,?
+12905,37,"to eat",a,,,1,1
+13262,38,"to chew",mama,,,1,1
+13619,39,"to cook",punau,,,3,
+13976,40,"to drink",inu,,,1,1
+14333,41,"to bite",oro,,,,?
+14690,42,"to suck",momo,,,,?
+15047,43,ear,tarina,,,1,1
+15404,44,"to hear",pahanene,,,"1,30",1
+15761,45,eye,mata,,,1,1
+16118,46,"to see",palahe,,,,
+16475,47,"to yawn",mahawa,,,19,?
+16832,48,"to sleep",tele,,,,?
+17189,49,"to lie down",loli,,,4?,
+17546,50,"to dream",mani,,,"1,60,3",?
+17903,51,"to sit",tolo,,,,
+18260,52,"to stand",ele,,,"1,32",1
+18617,53,"person/human being",manusia,"< SKT (SA)",L,,
+18974,54,man/male,malono,,,1,1
+19331,55,woman/female,mahina,,,"1,51",1
+19688,56,child,ana,,,1,1
+20045,57,husband,malono,,,47,
+20402,58,wife,mahina,,,5,
+20759,59,mother,ina-,,,1,1
+21116,60,father,papa-,,,48,
+21473,61,house,luma,,,1,1
+21830,62,thatch/roof,ateʔ,,,1,1
+22187,63,name,nala,,,1,1
+22544,64,"to say",patahia,,,,
+22901,65,rope,walit,,,2,
+23258,66,"to tie up, fasten",heʔe,,,117,?
+23615,67,"to sew",pasanai,,,,
+23972,68,needle,lausu,,,,
+24329,69,"to hunt",leʔe,,,,
+24686,70,"to shoot",tunu,,,20,
+25043,71,"to stab, pierce",sipa,,,5,
+25400,72,"to hit",hia,,,39,
+25757,73,"to steal",palole,,,30,
+26114,74,"to kill",pamate,,,2,
+26471,75,"to die, be dead",mata,,,1,1
+26828,76,"to live, be alive",mahai,,,3,
+27185,77,"to scratch",aʔi,,,1?,?
+27542,78,"to cut, hack",heta,,,7,
+27899,79,stick/wood,ai,,,1,1
+28256,80,"to split",haʔe,(+bakaq?),,37,1?
+28613,81,sharp,kapa,,,45,
+28970,82,"dull, blunt",paʔatoi,,,,
+29327,83,"to work",taʔi,,,77,
+29684,84,"to plant",tani,,,2,1
+30041,85,"to choose",pili,,,1,1
+30398,86,"to grow",horoʔe,,,,
+30755,87,"to swell",baŋka,,,19,
+31112,88,"to squeeze",lati,,,,
+31469,89,"to hold",taʔi,,,,
+31826,90,"to dig",haʔi,,,25,
+32183,91,"to buy",sahi,,,3,
+32540,92,"to open, uncover",siha,,,4,
+32897,93,"to pound, beat",tutu,,,20,1
+33254,94,"to throw",teri,,,49,
+33611,95,"to fall",manahu,,,"1,106",1
+33968,96,dog,asu,,,1,1
+34325,97,bird,manu,,,1,1
+34682,98,egg,teru,,,1,1
+35039,99,feather,hulu,,,1,1
+35396,100,wing,ihat,,,23,
+35753,101,"to fly",tihu,,,6,
+36110,102,rat,malahaʔe,,,"1,82",?
+36467,103,meat/flesh,isi,,,31,1
+36824,104,fat/grease,mina,,,1,1
+37181,105,tail,aru-,,,6,
+37538,106,snake,nia,,,1,1?
+37895,107,"worm (earthworm)",ladi,,,1,1
+38252,108,louse,utu,,,1,1
+38609,109,mosquito,umute,,,7?,
+38966,110,spider,lawalawa,,,1,1
+39323,111,fish,ian,,,1,1
+39680,112,rotten,ahia,,,,
+40037,113,branch,sana-,,,2,
+40394,114,leaf,lau-,,,1,1
+40751,115,root,waʔat,,,2,1
+41108,116,flower,paʔut,,,,
+41465,117,fruit,hua-,,,1,1
+41822,118,grass,huta,,,38,
+42179,119,earth/soil,ume,,,46,
+42536,120,stone,hatu,,,1,1
+42893,121,sand,ume,,,9,
+43250,122,water,wael,,,2,1
+43607,123,"to flow",kala,,,8,
+43964,124,sea,meite,,,9,
+44321,125,salt,uasi,,,3,
+44678,126,lake,talaga,,L,,
+45035,127,woods/forest,wasi,,,9,
+45392,128,sky,lanit,,,1,1
+45749,129,moon,nulanitai,,,1,1
+46106,130,star,nalin,,,,
+46463,131,cloud,sahut,,,55,
+46820,132,fog,sahut,,,1?,1?
+47177,133,rain,ulan,,,1,1
+47534,134,thunder,uʔul,,,11,
+47891,135,lightning,itite,,,32,
+48248,136,wind,anin,,,1,1
+48605,137,"to blow",huseʔ,,,38,
+48962,138,warm,loto,,,,
+49319,139,cold,pariki,,,38,?
+49676,140,dry,aroto,,,,
+50033,141,wet,pata,,,33,
+50747,143,fire,au,,,1,1
+51104,144,"to burn",tunu,,,1,1
+51461,145,smoke,"au hoat",,,"2?,9",?
+51818,146,ash,hatai,,,4,
+52175,147,black,mete,,,1,1
+52532,148,white,puti,,,1,1
+52889,149,red,kau,,,8,
+53246,150,yellow,polo,,,5?,
+53603,151,green,male,,,6,
+53960,152,small,tuʔi,,,,
+54317,153,big,nela,,,8?,
+54674,154,short,poro,,,45,?
+55031,155,long,sta,,,,
+55388,156,thin,maniʔi,,,1,1
+55745,157,thick,hatelu,,,3,
+56102,158,narrow,asepeʔe,,,,
+56459,159,wide,"sisiŋ ela",,,,
+56816,160,"painful, sick",kusu,,,,
+57173,161,"shy, ashamed",pasomi,,,2,
+57530,162,old,matua,,,1,1
+57887,163,new,helu,,,1,1
+58244,164,good,moso,,,,
+58601,165,"bad, evil",jahat,,L,1,
+58958,166,"correct, true",iŋanesa,,,27,
+59315,167,night,atolu,,,,
+59672,168,day,petu,,,4,
+60029,169,year,nala,,,3,
+60386,170,when?,"petu ila",,,1,1
+60743,171,"to hide",pahuni,,,1,1
+61100,172,"to climb",saʔa,,,2,1
+61457,173,at,le,,,20,
+61814,174,"in, inside",le|lale-li,,,1,
+62171,175,above,"lete haha",,,"6,24",1
+62528,176,below,"hehe lehu",,,6,
+62885,177,this,nde,,,,
+63242,178,that,ɲa,,,1,1?
+63599,179,near,masu,,,6,
+63956,180,far,lau,,,1,1
+64313,181,where?,"iŋ waʔo",,,,
+64670,182,I,yau,,,1,1
+65027,183,thou,ale,,,4,
+65384,184,he/she,ile,,,3,
+119370,185,we,ite,,,1,1
+119371,185,we,yami,,,2,
+66098,186,you,imi,,,"1,13",1?
+66455,187,they,sile,,,1,1
+66812,188,what?,sale,,,,
+67169,189,who?,sia,,,1,1?
+67526,190,other,sahane,,,,
+67883,191,all,usi,,,,
+68240,192,and,kula,,,5,
+68597,193,if,kalo,,L,14,
+68954,194,how?,"iŋ haʔo",,,,
+69311,195,"no, not",teʔen,,,,
+69668,196,"to count",rekeŋ,,L,39,
+70025,197,One,esaʔ,,,1,1
+70382,198,Two,lua,,,1,1
+70739,199,Three,telu,,,1,1
+71096,200,Four,hata,,,1,1

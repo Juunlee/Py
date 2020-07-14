@@ -1,0 +1,219 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+115,"Roti (Termanu Dialect)","Blust, from: Jonker (1908)",twu,term1237,"Jonker, J. C. G. (1908). Rotineesch-Hollandsch Woordenboek. Leiden",,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Timor, Extra-Ramelaic, West","Penny Keenan","Simon Greenhill","@book{50012,  address               = {Leiden},  pages                 = {826},  publisher             = {Brill},  title                 = {Rottineesch-Hollandsch Woordenboek},  year                  = {1908},  bibtexkey             = {jonker_rottineesch-hollandsch1908},  class_loc             = {PL5435.Z5},  document_type         = {B},  fn                    = {papua\jonker_rottineesch1908v2.pdf, papua\jonker_rottineesch1908.pdf, papua\jonker_rottineesch1908.pdf},  hhtype                = {dictionary},  inlg                  = {Dutch [nld]},  inlg_code             = {nld},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 5435 .Z5 JON 1908},  src                   = {hh, mpieva},  srctrickle            = {hh#d:Jonker:Rottineesch, mpieva#Jonker1908Rottinee},  subject_headings      = {Roti language–Dictionaries–Dutch, Roti language–Dictionaries–Dutch},  author                = {Jonker, J. C. G.}}"
+latitude,longitude
+-10.77934847254702610542,123.17321777343750000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+115,1,hand,lima,,,"1,64",1
+472,2,left,ki,,,1?,1
+829,3,right,kona,,,"1,62",1
+1186,4,leg/foot,ei[k],,,1,1
+1543,5,"to walk",laʔo,,,1,1
+1900,6,road/path,eno[k],,,,
+2257,7,"to come",mai,,,1,1
+2614,8,"to turn",lepos,,,,
+2971,9,"to swim",aŋe,,,"1,45",?
+3328,10,dirty,ŋgeŋgèo,,,,
+3685,11,dust,afu,,,1,
+4042,12,skin,louk,,,36,
+4399,13,back,dea,,,,
+4756,14,belly,tei,,,1,
+5113,15,bone,dui[k],,,2?,
+5470,16,intestines,tei,,,1,
+5827,17,liver,ate,,,1,1
+6184,18,breast,suʔu,,,1,1
+6541,19,shoulder,alu[k],,,,
+72298,20,"to know, be knowledgeable",lelak,,,,
+72299,20,"to know, be knowledgeable",buluk,,,,
+72367,21,"to think",afi,,,,?
+72368,21,"to think",do,,,,?
+72406,22,"to fear",bi,,,,1
+72407,22,"to fear",taʔu,,,1,1
+7969,23,blood,da[k],,,1,1
+8326,24,head,laŋa,,,66?,
+8683,25,neck,lesu[k],,,,
+9040,26,hair,"laŋa do[k]","head leaf (ASch)",,40,
+9397,27,nose,pana,,,7,
+9754,28,"to breathe",hae,,,,
+10468,30,mouth,bafa[k],,,1,1
+10825,31,tooth,nisi[k],,,1,1
+11182,32,tongue,ma[k],,,7,1
+11539,33,"to laugh",hika,,,6?,
+11896,34,"to cry",kikik,,,,
+12253,35,"to vomit",muta,,,1,1
+12610,36,"to spit",tidi,,,,
+12967,37,"to eat",na|ʔa,,,24,1?
+13324,38,"to chew",mama,,,1,1
+13681,39,"to cook",nasu,,,3,1
+14038,40,"to drink",n|inu,,,1,1
+14395,41,"to bite",ka,,,1,1
+14752,42,"to suck",musi,,,6,
+15109,43,ear,"diʔi do[k]",,,,
+15466,44,"to hear",nene,,,1,1
+15823,45,eye,mata,,,1,1
+16180,46,"to see",n|ita,,,1,1
+16894,48,"to sleep",suŋu,,,,
+17251,49,"to lie down",loli-loli,,,4,
+17965,51,"to sit",naŋatutu,,,15,
+18322,52,"to stand",dei,,,1,
+18679,53,"person/human being",hataholi,,,"1, 79",
+19036,54,man/male,mane,,,1,1
+19393,55,woman/female,ina,,,38,
+19750,56,child,ana,,,1,1
+20107,57,husband,saok,,,2?,1
+20464,58,wife,saok,,,1,
+20821,59,mother,ina,,,1,1
+21178,60,father,ama,,,1,1
+21535,61,house,uma,,,1,1
+22249,63,name,nade[k],,,1?,1?
+22606,64,"to say",nae,,,,
+22963,65,rope,tali,,,1,1
+23320,66,"to tie up, fasten",tuti,,,,
+23677,67,"to sew",seu,,,10,
+91578,69,"to hunt",daŋa,"w.o. dogs",,,
+91579,69,"to hunt",sopa,"with dogs",,,
+24748,70,"to shoot",kou,,,,
+25105,71,"to stab, pierce",pau,,,7,
+25462,72,"to hit",tutu,,,8,
+25819,73,"to steal",manako,,,"1,59,60",1
+26176,74,"to kill",dodo,,,,
+26533,75,"to die, be dead",mate,,,1,1
+26890,76,"to live, be alive",moli,,,"1,76",1
+27247,77,"to scratch",kakalu,,,44,1
+75705,78,"to cut, hack",tata,,,3,1
+75706,78,"to cut, hack",tete,,,3,1
+27961,79,stick/wood,ai,,,1,1
+28318,80,"to split",tata,,,,
+28675,81,sharp,tane,,,,1
+29032,82,"dull, blunt",paʔa,,,,
+29389,83,"to work",tao,,,,
+29746,84,"to plant",tane,,,2,1
+30103,85,"to choose",hèle,,,1?,?
+30460,86,"to grow",moli,,,2,
+30817,87,"to swell",peta[k],,,1?,
+31174,88,"to squeeze",he,,,1,1
+31531,89,"to hold",tai,,,,
+31888,90,"to dig",kali,,,1,1
+32245,91,"to buy",asa,,,31?,
+32602,92,"to open, uncover",huka,,,1?,1?
+32959,93,"to pound, beat",tutu,,,20,1
+76740,94,"to throw",pia,,,,
+76741,94,"to throw",tapa,,,109,
+33673,95,"to fall",tuda,,,,
+34030,96,dog,busa,,,,
+34387,97,bird,manu-pui,,,1,1
+34744,98,egg,tolo,,,1,1?
+35101,99,feather,bulu,,,1,1
+35458,100,wing,lida[k],,,6,
+35815,101,"to fly",la,,,2,
+36172,102,rat,lafo,,,1,1
+77213,103,meat/flesh,pa,,,,1
+77214,103,meat/flesh,isi,,,31,1
+36886,104,fat/grease,minak,,,1,1
+37243,105,tail,iko,,,1,1
+37600,106,snake,meŋe,,,,
+37957,107,"worm (earthworm)",kalati|k,,,1,1
+38314,108,louse,utu,,,1,1
+38671,109,mosquito,ninik,,,17,
+39028,110,spider,bolau,,,,?
+39385,111,fish,iʔa|k,,,1,1
+39742,112,rotten,maŋalau,,,,
+77732,113,branch,baʔe[k],,,,
+77733,113,branch,ndana,,,,
+40456,114,leaf,do[k],,,1?,1
+105325,115,root,oka,,,2?,1
+105326,115,root,samu,,,3,
+41170,116,flower,buna,,,1,1
+41527,117,fruit,boa,,,1,1
+41884,118,grass,naʔu,,,11,
+42241,119,earth/soil,dae[k],,,4?,
+42598,120,stone,batu,,,1,1
+42955,121,sand,solokae[k],,,,
+43312,122,water,oe,,,2?,1
+43669,123,"to flow",fa,,,9?,
+44026,124,sea,tasi,,,1,1
+44383,125,salt,masi,,,"3,45",
+44740,126,lake,dano,,,1,1
+45097,127,woods/forest,lasi,,,1?,
+45454,128,sky,lai,,,1?,1
+45811,129,moon,bula,,,1,1
+46168,130,star,nduk,,,,
+46525,131,cloud,koʔa,,,,
+47239,133,rain,uda,,,1,1
+47596,134,thunder,tatas,,,,
+47953,135,lightning,ndelas,,,,
+48310,136,wind,ani,,,1,1
+48667,137,"to blow",fu,,,5,
+49024,138,warm,hanas,,,1,1
+49381,139,cold,makalini,,,1,1
+49738,140,dry,tuk,,,,
+50095,141,wet,dòe,,,,
+50452,142,heavy,bela,,,1?,?
+50809,143,fire,h|aʔi,,,1,1?
+51166,144,"to burn",tunu,,,1,1
+51523,145,smoke,m|asu,,,2,1
+51880,146,ash,afu,,,1,1
+52237,147,black,ngèo,,,,
+52594,148,white,fula[k],,,3?,1
+52951,149,red,pila[s],,,,
+53308,150,yellow,modo,,,34,
+53665,151,green,modo,,,4?,
+54022,152,small,ana[k],,,8,
+54379,153,big,matua,,,41,
+54736,154,short,keʔu,,,,
+55093,155,long,manalu,,,1,1
+55450,156,thin,niʔi,,,1,1
+55807,157,thick,makate[k],,,,
+56164,158,narrow,biʔa[k],,,,
+56521,159,wide,loa[k],,,1,1
+56878,160,"painful, sick",hedis,,,,
+57235,161,"shy, ashamed",mae,,,1,1
+57592,162,old,lasi[k],,,,
+57949,163,new,beu[k],,,1,1
+58306,164,good,malole,,,11?,
+58663,165,"bad, evil",maŋalau,,,,
+59020,166,"correct, true",teteʔek,,,,
+59377,167,night,leʔodaek,,,,
+80869,168,day,ledo[k],,,24,1?
+80870,168,day,fai,,,,1?
+60091,169,year,teu|k,,,1,1
+60448,170,when?,"fai hida",,,1,1?
+80990,171,"to hide",keke,,,,1
+80991,171,"to hide",funi,,,1,1
+61162,172,"to climb",laba,,,,
+81111,173,at,lai,,,,
+81112,173,at,nai,,,,
+61876,174,"in, inside",dale[k],,,1,1
+62233,175,above,lai,,,,
+62590,176,below,dae[k],,,,
+62947,177,this,ia,,,11,
+63304,178,that,ndia,,,,
+63661,179,near,"nai mata ia",,,,
+64018,180,far,do[k],,,,1
+64375,181,where?,bè,,,2,
+64732,182,I,au,,,1,1
+65089,183,thou,o,,,1,1
+65446,184,he/she,ndia,,,1?,
+113873,185,we,ita,,,1,1
+113874,185,we,ami,,,2,
+66160,186,you,emi,,,"1,13",1
+66517,187,they,sila,,,1,1
+82243,188,what?,lèo-bè,,,,
+82244,188,what?,hata,,,,
+67231,189,who?,se,,,1,1
+67588,190,other,feʔek,,,,
+67945,191,all,basa,,,,
+68302,192,and,ma,,,2,1
+68659,193,if,lèo,,,,
+69016,194,how?,leʔe,,,,
+69373,195,"no, not",ta[k],,,4,
+69730,196,"to count",lèke,,L,,
+70087,197,One,esa,,,1,1
+70444,198,Two,dua,,,1,1
+70801,199,Three,telu,,,1,1
+71158,200,Four,ha,,,1,1
+135523,201,Five,lima,,,1,
+135516,202,Six,ne,,,1,
+135515,203,Seven,hitu,,,1,
+135514,204,Eight,falu,,,3,
+135513,205,Nine,sio,,,5,
+135522,206,Ten,sanhulu,,,"5,42",

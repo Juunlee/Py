@@ -1,0 +1,194 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+135,Tigak,"Blust, from: Beaumont (1979)",tgc,tiga1245,"Beaumont, Clive H. (1979). The Tigak language of New Ireland. Canberra: Dept. of Linguistics, Research School of Pacific Studies, Australian National University.",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, Lavongai-Nalik","Penny Keenan","Simon Greenhill","@book{301176,  address               = {Canberra},  note                  = {A revision of the authors thesis, Australian National University Bibliography: p. 159-163},  pages                 = {xi+163},  publisher             = {Research School of Pacific and Asian Studies, Australian National University},  series                = {Pacific Linguistics: Series B},  title                 = {The Tigak Language of New Ireland},  volume                = {58},  year                  = {1979},  added                 = {2013-09-01 12:19:49 +0000},  bibtexkey             = {beaumont_tigak-ireland1979},  class_loc             = {PL6317.T53},  document_type         = {CF},  fn                    = {papua\beaumont_tigak1979_o.pdf, papua/beaumont_tigak1979_o.pdf},  fnnote                = {pdf, 4,52 MB},  hhtype                = {grammar},  inlg                  = {English [eng]},  isbn                  = {9780858831872},  keywords              = {Tigak},  macro_area            = {Papua},  modified              = {2013-09-01 12:19:49 +0000},  mpi_eva_library_shelf = {please ask library staff for CD-ROM \"Pacific linguistics A + B\"},  mpifn                 = {tigak_beaumont1979_o.pdf},  src                   = {hh, mpieva, phoible, wals},  srctrickle            = {hh#g:Beaumont:Tigak, mpieva#Beaumont1979TheTigak, phoible#Beaumont1979, wals#445},  subject_headings      = {Tigak language, Tigak language},  author                = {Beaumont, Clive H.}}"
+latitude,longitude
+-2.64676323074096009336,150.61157226562500000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+135,1,hand,mit,,,24,
+492,2,left,pal-kais,"borrowing? TP kais",,15,
+849,3,right,"palmit muan",,,26,
+71498,4,leg/foot,kak,,,1,1?
+71499,4,leg/foot,keke-,,,1,1?
+1563,5,"to walk",pasal,,,8,
+1920,6,road/path,salan,,,1,1
+71650,7,"to come",ima,,,1,?
+71651,7,"to come",saŋ,,,,?
+2634,8,"to turn",ulpuki,,,80,
+2991,9,"to swim",kakas,,,9,
+71834,10,dirty,vusit,,,111,
+71835,10,dirty,galit,,,,
+3705,11,dust,kaup,,,17,
+4062,12,skin,pinpin,,,28,
+4419,13,back,mugi-,,,3,
+4776,14,belly,ne-,,,,
+5133,15,bone,tuan,,,"1,10",
+5490,16,intestines,vulau,,,26,
+5847,17,liver,i|at,,,1,1?
+6204,18,breast,sut,,,1,1
+6561,19,shoulder,pakpakal,,,,
+72306,20,"to know, be knowledgeable",kakapaŋ,,,,
+72307,20,"to know, be knowledgeable",kila[i],,,18,
+7275,21,"to think",nol,,,,
+7632,22,"to fear",viakon,,,,
+7989,23,blood,tiliŋ,,,,
+8346,24,head,patu,,,9,
+8703,25,neck,goko,,,18,
+9060,26,hair,ugui,,,41,
+9417,27,nose,isu,,,1,1
+9774,28,"to breathe",luak,,,,
+10131,29,"to sniff, smell",musaŋ-i,,,96,
+10488,30,mouth,ŋur,,,2,
+10845,31,tooth,ŋisa,,,24,?
+11202,32,tongue,kalama,,,"7, 14",?
+11559,33,"to laugh",los,,,,
+11916,34,"to cry",ŋeak,,,5,
+12630,36,"to spit",ivisi,,,25,
+12987,37,"to eat",ŋan,,,"1,53",1?
+13701,39,"to cook",tun,,,9,
+14058,40,"to drink",inum,,,1,1
+14415,41,"to bite",kagat,,,1,1
+14772,42,"to suck",mis,,,,
+15129,43,ear,talaŋa,,,1,1
+90091,44,"to hear",pa|loŋ-an-i,hear,,"1, 36",
+90092,44,"to hear",loŋok,listen,,"1, 36",1?
+15843,45,eye,mata,,,1,1
+73873,46,"to see",tarai,,,15,
+73874,46,"to see",kalum,,,93,
+16914,48,"to sleep",matai,,,46,
+17271,49,"to lie down",matuk,,,37,
+74063,51,"to sit",sinuk,,,73,
+74064,51,"to sit",irim,,,,
+18342,52,"to stand",tuk,,,2,1?
+74157,53,"person/human being",vap,,,33,
+74158,53,"person/human being",tena,,,,
+19056,54,man/male,anu,,,33,
+19413,55,woman/female,kapul,,,,
+19770,56,child,natu-,,,5,
+20127,57,husband,natlava-,,,50,
+20484,58,wife,natlava-,,,,
+20841,59,mother,na-,,,"1,42",1?
+21198,60,father,tama-,,,1,1
+21555,61,house,lui,,,26,
+74705,63,name,asan,,,"1,18",1
+74706,63,name,isan,,,66,1
+22626,64,"to say",pisiŋ,,,,
+74898,65,rope,gaus,"metathesis: *Rawos",,2,
+74899,65,rope,aik,,,,
+75004,66,"to tie up, fasten",kat,,,,
+75005,66,"to tie up, fasten",pipis,,,32,
+24768,70,"to shoot",mumug-i,,,,
+25125,71,"to stab, pierce",rot-i,,,,
+25482,72,"to hit",vis,,,,
+26196,74,"to kill",punuk,,,1,1
+26553,75,"to die, be dead",mat,,,1,1
+26910,76,"to live, be alive",taŋintol,,,,
+75718,78,"to cut, hack",putuk,,,55,
+75719,78,"to cut, hack",koto,,,75,
+27981,79,stick/wood,iai,,,1,1
+28338,80,"to split",potok-i,,,41,?
+28695,81,sharp,ŋaŋan,,,"14,20",
+29052,82,"dull, blunt",ŋui,,,19,
+29409,83,"to work",aisok,,,20,
+29766,84,"to plant",kapis,,,49,
+30480,86,"to grow",polok,,,18,
+76447,89,"to hold",ton,,,19,
+76448,89,"to hold",koŋ,,,,
+32265,91,"to buy",pul,,,1,1?
+76842,95,"to fall",poko,,,19,
+76843,95,"to fall",puka,,,19,
+34050,96,dog,piu,,,66,
+34407,97,bird,manui,,,1,1
+34764,98,egg,katiluk,,,1,1
+35121,99,feather,ugui,"< *puRu, not *pulu",,75,
+35835,101,"to fly",tat,,,48,
+36192,102,rat,kusia,"irreg reflex",,"3,64",
+36549,103,meat/flesh,sin,,,18,?
+36906,104,fat/grease,uŋan,,,36,
+37263,105,tail,sum,,,36,
+37620,106,snake,muata,,,12,
+37977,107,"worm (earthworm)",kulkuliŋuak,,,32,
+38334,108,louse,ŋut,,,1,1?
+38691,109,mosquito,kankanak,,,,
+39048,110,spider,kavelo,,,"12,1",
+39405,111,fish,ien,,,1,1
+40476,114,leaf,pak,,,12,
+40833,115,root,korok,,,37,
+41190,116,flower,milmilut,,,,
+41547,117,fruit,ua|i,,,1,1?
+41904,118,grass,puaŋ,,,,
+78028,119,earth/soil,kavala,,,14,
+78029,119,earth/soil,kavale,,,14,
+42618,120,stone,liaŋ,,,,
+42975,121,sand,kono,,,1,1?
+43332,122,water,rurum,,,1,
+43689,123,"to flow",salik,,,24,1
+44046,124,sea,laman,,,14,
+44403,125,salt,kasui,,,,
+44760,126,lake,"rurum ulit",,,43,
+45117,127,woods/forest,masut,,,21,
+45474,128,sky,kuŋkuŋ,,,,
+45831,129,moon,ulan,,,1,1
+46188,130,star,kalto,,,31,
+46545,131,cloud,bata,,,63,
+47259,133,rain,laŋit,,,7,
+48330,136,wind,rei,,,70,
+48687,137,"to blow",mali,,,,
+49044,138,warm,manas,,,"1, 72",1
+49401,139,cold,malmalakup,,,,
+49758,140,dry,sagaŋ,,,,
+50115,141,wet,mirip,,,,
+50472,142,heavy,tiptip,,,,
+50829,143,fire,ata,,,30,
+51186,144,"to burn",alaklagai,,,71,
+51543,145,smoke,buan,,,40,
+51900,146,ash,vuta,,,19,
+52257,147,black,koi,,,33,
+52614,148,white,posok,,,39,
+52971,149,red,vuŋ,,,69,
+53328,150,yellow,keis,,,39,
+53685,151,green,makago,,,"13, 51",
+54042,152,small,lakliak,,,,
+54399,153,big,lavu,,,10,
+54756,154,short,poto,,,9,
+55113,155,long,vukvuga,,,49,
+56184,158,narrow,sisigulut,,,15,
+56898,160,"painful, sick",malapen,,,,
+57612,162,old,kavai,,,32,
+57969,163,new,pakik,"(for+>1 cp.#98)",,1,1
+58326,164,good,ro,,,54,
+58683,165,"bad, evil",palavien,,,107,
+59040,166,"correct, true",nanos,,,,
+59397,167,night,vuŋ,"(for +e>u cp#91)",,1,1
+59754,168,day,gan,,,6,
+60111,169,year,masat,,,56,
+60468,170,when?,lo-so,,,,
+61539,173,at,e,,,1,
+61896,174,"in, inside",lo,,,1,1
+62253,175,above,e|lai,,,57,
+62610,176,below,e|pakal,,,1,?
+81361,177,this,gara,,,,
+81362,177,this,gura,,,,
+63324,178,that,tara,,,,
+63681,179,near,losiliak,,,,
+64038,180,far,lovait,,,,
+64395,181,where?,eve,"< *be",,41,
+64752,182,I,nak,,,"1,23",?
+65109,183,thou,nuk,,,"1,18",
+65466,184,he/she,gi,,,1,
+113918,185,we,kara,,,,
+113919,185,we,mem,,,2,
+66180,186,you,mik,,,26,?
+66537,187,they,rik,,,25,
+66894,188,what?,a-so,,,1,
+67251,189,who?,nasi,,,"1,28",
+82351,190,other,kenkenu,,,,
+82352,190,other,patakai,,,,
+67965,191,all,akamus,,,44,
+68322,192,and,ve,,,24,
+68679,193,if,vouneŋ,,,,
+69036,194,how?,a-so-so,"< 'what?'",,,
+69393,195,"no, not",veak,,,67,
+69750,196,"to count",akaliman,,,,
+70107,197,One,sakai,,,8,
+70464,198,Two,pa|uak,,,1,?
+70821,199,Three,po|tul,,,1,1
+71178,200,Four,po|iat,,,"1,65",1

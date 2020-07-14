@@ -1,0 +1,211 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+31,"Kakiduge:n Ilongot","Reid (1971)",ilk,ilon1239,"Reid, Lawrence A. (ed.) (1971). Philippine Minor Languages: word lists and phonologies. (Oceanic Linguistics special publication, 8). Honolulu: University of Hawai'i Press.",,"Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Meso-Cordilleran, South-Central Cordilleran, Southern Cordilleran, Ilongot","Peng Du","Simon Greenhill","@book{136553,  address               = {[Honolulu]},  note                  = {Bibliography: p. [241]},  pages                 = {xii+239},  publisher             = {Univ. of Hawaii Press},  series                = {Oceanic linguistics special publication},  title                 = {Philippine minor languages: word lists and phonologies},  volume                = {8},  year                  = {1971},  bibtexkey             = {reid_minor-phonologies1971},  class_loc             = {PL5525},  document_type         = {B},  fn                    = {papua\reid_philippine-minor1971.pdf},  hhtype                = {overview;comparative;wordlist},  inlg                  = {English [eng]},  inlg_code             = {eng},  internetarchive_id    = {rosettaproject_syb_phon-1},  isbn                  = {9780870226915},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 5525 PHI 1971},  src                   = {hh, mpieva, wals},  srctrickle            = {hh#hvw:Reid:Philippine-Minor, mpieva#1971Philippi, wals#4987},  subject_headings      = {Philippine languages–Glossaries, vocabularies, etc., Philippine languages–Phonology, Philippine languages–Glossaries, vocabularies, etc. – Philippine languages–Phonology},  author                = {Reid, Lawrence Andrew},  editor                = {Reid, Lawrence Andrew}}"
+latitude,longitude
+17.02152818033670911291,121.11418595001559594948
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+31,1,hand,ǥima,,,,1
+388,2,left,wili,,,1,1
+745,3,right,wanan,,,1,1
+1102,4,leg/foot,tɨǥi,,,72,
+1459,5,"to walk",kuwa,,,56,
+1816,6,road/path,bɨ:nua,,,,
+71630,7,"to come",ai,,,,1?
+71631,7,"to come",ari,,,1,1?
+2530,8,"to turn",likɨd,,,,
+2887,9,"to swim",naŋuy,,,,1
+3244,10,dirty,napadiǥan,,,,
+71892,11,dust,bunubun,,,70,1
+71893,11,dust,ʔalikabuk,,,"1,48",1
+3958,12,skin,kalɨb,,,1,
+4315,13,back,gɨtud,,,46,
+4672,14,belly,tabu,,,28,
+5029,15,bone,tuʔlaŋ,,,1,1
+5386,16,intestines,silɨt,,,71,
+5743,17,liver,ʔaǥsi,,L,,1
+6100,18,breast,tutu,,,1,1
+6457,19,shoulder,tapuŋ,,,33,
+6814,20,"to know, be knowledgeable",bɨ:ya,,,,
+7171,21,"to think",nɨmnɨm,,,28,1
+7528,22,"to fear",kayub,,,38,
+7885,23,blood,matǥɨm,,,23,
+8242,24,head,kidɨp,,,38,
+8599,25,neck,bukǥu,,,75,
+8956,26,hair,ʔuu,,,"1,65",
+9313,27,nose,ʔɨǥɨŋ,,,85,
+9670,28,"to breathe",niɨk,,,,
+10027,29,"to sniff, smell",ʔamuy,,,31,
+10384,30,mouth,tayap,,,35,
+10741,31,tooth,bɨʔbɨ,"Semantic shift from \"mouth\" [LAR]",,72,
+11098,32,tongue,limut,,,34,
+11455,33,"to laugh",ʔɨŋit,,,34,
+11812,34,"to cry",ʔibiǥ,,,22,
+12169,35,"to vomit",ʔugkak,,,,
+12526,36,"to spit",ʔutap,,,46,
+12883,37,"to eat",kan,,,"1,14",
+13240,38,"to chew",biʔɨn,,,23,
+13597,39,"to cook",ǥutu,,,20,
+13954,40,"to drink",ʔinum,,,1,1
+14311,41,"to bite",kaǥat,,,1,1
+14668,42,"to suck",tuptup,,,"1,73",1
+15025,43,ear,taliŋa,,,1,1
+15382,44,"to hear",dɨŋɨg,,,1,1
+15739,45,eye,mata,,,1,1
+16096,46,"to see",buya,,,34,
+16810,48,"to sleep",nuʔŋu,,,,
+17167,49,"to lie down",pilag,,,,
+17524,50,"to dream",kugip,,,28,
+17881,51,"to sit",tuŋɨd,,,54,
+18238,52,"to stand",sikin,,,,
+18595,53,"person/human being",tuʔu,,,"1,76",1
+18952,54,man/male,ǥaki,,,2,1
+19309,55,woman/female,bɨ:kuǥ,,,26,
+19666,56,child,ʔanak,,,1,1
+20023,57,husband,bɨʔyɨk,spouse,,43,
+20380,58,wife,bɨ:ʔyɨk,,,,
+20737,59,mother,ʔina,,,1,1
+21094,60,father,ʔama,,,1,1
+21451,61,house,ʔabuŋ,,,16,
+21808,62,thatch/roof,ʔatɨp,,,1,1
+22165,63,name,ŋadɨ:n,,,"1,47",1
+22522,64,"to say",ʔupu,,,42,
+22879,65,rope,ǥinubid,,,21,
+23236,66,"to tie up, fasten",pɨdɨŋ,,,48,
+23593,67,"to sew",ti:ʔuk,,,38,
+23950,68,needle,dɨum,,,,1
+24307,69,"to hunt",laʔub,,,32,
+24664,70,"to shoot",pana,,,1,
+25021,71,"to stab, pierce",ʔutab,,,39,
+25378,72,"to hit",bɨkbɨk,,,24,
+25735,73,"to steal",ǥimit,,,26,
+26092,74,"to kill",pasi,,,2,
+26449,75,"to die, be dead",napasi,,,"1,35",1
+75571,76,"to live, be alive",biay,,,,
+75572,76,"to live, be alive",biray,,,,
+27163,77,"to scratch",guʔgu,,,22,
+27520,78,"to cut, hack",bukbuk,,,46,
+27877,79,stick/wood,kiyu,,,1,1
+28234,80,"to split",biɨk,,,1,
+28591,81,sharp,ʔutadɨm,,,1,
+28948,82,"dull, blunt",ŋilud,,,"40,43",
+29305,83,"to work",talabaku,,,,
+29662,84,"to plant",tanɨm,,,2,1
+30019,85,"to choose",pii,,,1,1
+30376,86,"to grow",sikɨn,,,,
+30733,87,"to swell",ʔugut,,,,
+31090,88,"to squeeze",pɨgsit,,,77,
+31447,89,"to hold",ʔɨdɨn,,,43,
+31804,90,"to dig",kuʔku,,,52,
+32161,91,"to buy",taiw,,,20,
+32518,92,"to open, uncover",pawa,,,,
+32875,93,"to pound, beat",bɨ:yu,,,1,
+33232,94,"to throw",kɨǥat,,,,
+33589,95,"to fall",ʔɨlag,,,52,
+33946,96,dog,ʔatu,,,1,1
+34303,97,bird,manuk,,,1,1
+34660,98,egg,lubun,,,25,
+35017,99,feather,lawi,,,14,1
+35374,100,wing,payak,,,"33,40",
+35731,101,"to fly",payaduŋ,,,39,
+36088,102,rat,bɨ:ki,,,42,
+36445,103,meat/flesh,raman,,,46,
+36802,104,fat/grease,tabɨ,,,23,
+37159,105,tail,ʔikul,,,1,1
+37516,106,snake,ʔulɨg,,,"2,33",1
+37873,107,"worm (earthworm)",ʔulaǥ,check,,36,
+38230,108,louse,kutu,,,1,1
+38587,109,mosquito,tɨnnɨk,,,25,
+38944,110,spider,ʔaŋgɨlawa,,,1,1
+39301,111,fish,ǥuduŋ,,,38,
+39658,112,rotten,buyuk,,,"1,102",1?
+40015,113,branch,paʔŋa,,,22,
+40372,114,leaf,buŋ,,,18,
+40729,115,root,ǥamut,,L,,
+41086,116,flower,bɨ:dɨk,,,28,
+41443,117,fruit,buŋa,,,9,
+41800,118,grass,raʔɨk,,,,
+42157,119,earth/soil,dɨ:ǥin,,,"24,82",
+42514,120,stone,dɨpǥat,,,16,
+42871,121,sand,buwɨd,,,40,
+43228,122,water,dɨ:num,,,1,1
+43585,123,"to flow",kurut,,,,
+43942,124,sea,dagat,"from Tagalog",L,,
+44299,125,salt,sigɨm,,,29,
+44656,126,lake,ǥɨbɨŋ,,,19,
+45013,127,woods/forest,ǥuŋut,,,59,
+45370,128,sky,tawɨn,,,23,
+45727,129,moon,buan,,,1,1
+46084,130,star,pandɨk,,,26,
+46441,131,cloud,ʔaup,,,54,
+46798,132,fog,nabunab,,,,
+47155,133,rain,ʔudɨn,,,1,1
+47512,134,thunder,kiduǥ,,,"2,92",1
+47869,135,lightning,kiat,,,1,1
+48226,136,wind,ʔɨgnay,,,39,
+48583,137,"to blow",sibuk,,,34,
+48940,138,warm,ʔuʔinit,,,23,
+49297,139,cold,ǥɨmna,,,33,
+49654,140,dry,magɨ,,,26,1
+50011,141,wet,bɨ:ta,,,27,1
+50368,142,heavy,ʔuǥɨni,,,27,
+50725,143,fire,gapuy,,,1,1
+51082,144,"to burn",ǥuŋuy,,,34,
+51439,145,smoke,ʔabuk,,,"30,58",
+51796,146,ash,dɨ:pug,,,17,
+52153,147,black,bɨ:lɨŋ,,,30,
+52510,148,white,budɨ:k,,,,1
+52867,149,red,tɨǥat,,,,
+53224,150,yellow,duyaw,,,24,
+53581,151,green,ǥuput,,,37,
+53938,152,small,ʔuliki,,,,?
+54295,153,big,ʔusikɨn,,,37,
+54652,154,short,ʔagubɨ,,,,
+55009,155,long,ʔuduki,,,,
+55366,156,thin,yapit,,,"1,2",1
+55723,157,thick,ʔukɨnɨg,,,33,
+56080,158,narrow,ʔuʔupug,,,31,
+56437,159,wide,biag,,,,
+56794,160,"painful, sick",takit,,,1,1
+57151,161,"shy, ashamed",nabɨ:taŋan,,,,
+57508,162,old,bɨǥaŋɨt,,,38,
+57865,163,new,bɨ:ǥu,,,"1,54",1
+58222,164,good,ʔupiya,,,1,1
+58579,165,"bad, evil",naʔugi,,,,
+58936,166,"correct, true",anuɨd,,,,
+59293,167,night,masi,,,35,
+59650,168,day,magu,,,"1,54",
+60007,169,year,taʔun,,,1,1
+60364,170,when?,pigi,,,"1,26",
+60721,171,"to hide",ʔɨmut,,,20,
+61078,172,"to climb",kayab,,,"17,53",1
+61435,173,at,sa,,,14,?
+61792,174,"in, inside",runɨk,,,,
+62149,175,above,taʔgi,,,22,
+81283,176,below,tadu,,,32,
+81284,176,below,pɨknaǥ,,,,
+62863,177,this,ʔitu,,,10,
+63220,178,that,ʔita,,,58,
+81571,179,near,dɨag,,,,
+81572,179,near,diǥag,,,,
+63934,180,far,bɨaʔɨŋ,,,37,
+64291,181,where?,tuŋuy,,,29,
+64648,182,I,siʔak,,,"1,31",1
+65005,183,thou,sika,,,"1,30",1?
+65362,184,he/she,siya,,,"1,31",1
+121144,185,we,sikisi,,,1,
+121145,185,we,sikami,,,"2,52",
+66076,186,you,siki,,,"1,43",
+66433,187,they,"siyay dɨ",,,,
+66790,188,what?,"ŋadɨ:n nima",,,24,1
+67147,189,who?,katuʔu,,,,
+67504,190,other,ǥiwa,,,28,
+67861,191,all,ʔɨmin,,,1,1
+68218,192,and,saydɨn,,,,
+68575,193,if,nu,,,"2,70",1
+68932,194,how?,ŋadɨ,,,72,
+69289,195,"no, not",ʔawan,,,"36,52",
+82769,196,"to count",ŋɨtu,,,,1
+82770,196,"to count",bilaŋ,,,1,1
+70003,197,One,sit,,,,
+70360,198,Two,duwa,,,1,1
+70717,199,Three,tiǥu,,,1,1
+71074,200,Four,ʔɨpat,,,1,1

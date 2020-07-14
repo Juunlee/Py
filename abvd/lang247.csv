@@ -1,0 +1,287 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+247,Niue,"POLLEX 2000 (Bruce Biggs & Ross Clark)",niu,niue1239,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Tongic","Simon Greenhill","Simon Greenhill","@article{POLLEX,  journal = {Oceanic Linguistics},  number  = {2},  pages   = {551--559},  title   = {{POLLEX-Online: The Polynesian Lexicon Project Online}},  volume  = {50},  year    = {2011},  author  = {Greenhill, Simon J. and Clark, Ross}}"
+latitude,longitude
+-17.65641657323556046322,-169.59220091230389471093
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+247,1,hand,lima,"Five, hand",,1,1
+604,2,left,hema,"The left (side or hand) (Tgr)",,11,1
+961,3,right,matau,"Right (not left)",,"5,13",1
+1318,4,leg/foot,vee,"Leg (respectful term) (McE)",,"1, 100",1
+1675,5,"to walk",haele,"Go (formal usage)",,6,1
+85199,6,road/path,kauhala,Roadside,,1,
+85200,6,road/path,hala,Road,,1,
+2389,7,"to come",aua/a,"Arrive opportunely, to happen upon (McE)",,44,1
+2746,8,"to turn",fuli,"(ACD) turn over, turn away",,15,
+87904,9,"to swim",kakau,"Swim (I)",,5,1
+87905,9,"to swim",kau/kau,"Swim (McE)",,5,
+87906,9,"to swim",kou/kou,"Swim (McE)",,5,
+87953,10,dirty,palapala,"Dampness (McE)",,7,
+87954,10,dirty,pilo,Dirty,,,
+87981,11,dust,efu,Dust,,1,1
+87982,11,dust,puefu,"Dust crumbled(I)",,x,1
+4174,12,skin,kili,Skin,,1,1
+242245,13,back,tu'a,,,11,
+88047,14,belly,manava,Belly,,9,
+88048,14,belly,alo/alo,"Belly, bowels (i)",,10,
+88082,15,bone,hui,,,52,
+88083,15,bone,ivi,"Fishbone B. [<]",,x,
+5602,16,intestines,ŋaakau,Intestines,,12,1
+5959,17,liver,ate,Liver,,1,1
+6316,18,breast,huhu,"Breast, breast milk (i)",,1,1
+6673,19,shoulder,tuke/ua,Shoulder,,78?,1
+88408,20,"to know, be knowledgeable",ilo,"Report, inform (Tgr)",,13,1
+88409,20,"to know, be knowledgeable",iloa,"Know (Tgr)",,13,1
+88464,21,"to think",mahala,"L from EP",L,8,1
+88465,21,"to think",manatu,"Think, consider, remember, wonder, try to understand; the mind, opinion (McE)",,9,
+7744,22,"to fear",mataku/taku,"To fear, be afraid",,1,1
+8101,23,blood,toto,"Blood, sap, juice (McE)",,4,1
+8458,24,head,ulu,Head,,1,1
+88595,25,neck,kakia,"Throat, neck [<]",,20,1
+88596,25,neck,ua,Neck,,18,
+88597,25,neck,ka(a)/kia/,"Neck (McE)",,20,
+88598,25,neck,faka/kia/,"To stretch out the neck (McE)",,20,
+88626,26,hair,fulu,"Hair, feathers",,31,
+88627,26,hair,"lau ulu","Hair of the head (Mce)",,40,
+9529,27,nose,ihu,Nose,,1,1
+9886,28,"to breathe",faka/manava/,Breath,,1,1
+10243,29,"to sniff, smell",hoŋi,"Touch noses, smell (i), smell (Mce)",,9,1
+10600,30,mouth,ŋutu,"Mouth, beak, orifice (I) (McE)",,2,1
+10957,31,tooth,nifo,Tooth,,1,1
+11314,32,tongue,alelo,Tongue,,15,1
+11671,33,"to laugh",kata,Laugh,,7,1
+12028,34,"to cry",tagi,"To weep, cry (Mce)",,1,1
+88865,35,"to vomit",lua,Vomit,,8,1
+88866,35,"to vomit",puhaki,"A sigh (McE) [<]",,x,
+12742,36,"to spit",anu,"To spit (McE)",,"14,84, 121",1
+13099,37,"to eat",kai,"Food, eat (mc), eat (i)",,"1,47",1
+13456,38,"to chew",gau,"Chew, as sugar cane",,8,1
+13813,39,"to cook",tao,"Bake (Mce)",,10,1
+14170,40,"to drink",inu,Drink,,1,1
+89824,41,"to bite",ka/kati/,"Hold in mouth (Mce)",,"1,55",
+89825,41,"to bite",eti,"To bite off (as rind of sugarcane, etc)(Mce)",,"9, 84",
+14884,42,"to suck",miti,"Suck; absorb (McE)",,8,1
+15241,43,ear,teliŋa,"Ear (Mce)",,1,1
+15598,44,"to hear",faanoŋo/noŋo,"Hear, listen, obey (MCE)",,"1, 59",1
+15955,45,eye,mata,"Eye, face",,1,1
+16312,46,"to see",mata,"Look at (Mce)",,8,1
+90164,47,"to yawn",faka/mama/nga,"To open the mouth (Mce)",,"19,5",1
+90165,47,"to yawn",mamao,Yawn,,"19,28",
+90166,47,"to yawn",mamao,DUP,,x,
+17026,48,"to sleep",mohe,Sleep,,"10, 109",1
+90483,49,"to lie down",takoto,"Pollex 06: Takoto. :Lie down.",,7,
+17740,50,"to dream",miti,Dream,,36,1
+18097,51,"to sit",nofo,"Sit, dwell",,16,1
+18454,52,"to stand",tuu,"Stand, be upright",,2,1
+18811,53,"person/human being",taŋata,"Man, person, mankind (Mce)",,"1,66, 97",1
+19168,54,man/male,taane,"Male, husband (Mce)",,"1,11",1
+91084,55,woman/female,fifine,"Woman (Wtr)",,"1,106",
+91085,55,woman/female,-fine,Female,,"1,41",
+19882,56,child,tamaikiiki,"Children (McE)",,"6,64",1
+20239,57,husband,taane,"Male, husband (Mce)",,14,1
+20596,58,wife,hama,"Wife (fig.) (McE)",,8?,1
+287675,58,wife,hoana,,,8?,
+111871,59,mother,"matua fifina","parent female",,4,
+111872,60,father,"matua taane","parent male",,9,
+91374,61,house,kaina,"Home, land, homeland (Sph)",,6,
+91375,61,house,fale,,,14,
+22024,62,thatch/roof,ato,"To cover (mainly refers to covering a shelter with leaves, or to cover an area of land with leaves (Sph)",,1,1
+22381,63,name,hinga,Name,,6,1
+134083,63,name,higoa,,,6,
+155019,64,"to say","ke pehe",,,59,
+23095,65,rope,toua,"Rope, cord (McE) (Tgr)",,9,1
+91497,66,"to tie up, fasten",fa(fa)u,"Construct by tying",,11,1
+91498,66,"to tie up, fasten",fa/fau/,"bind together (McE)",,11,
+91499,66,"to tie up, fasten",liilii,"Arrange a raft (I)",,14,
+91500,66,"to tie up, fasten",lilii,Bind,,14,
+23809,67,"to sew",tui,"Thread pierced objects, sew (I)(McE)",,"13, 16",1
+24166,68,needle,hika,"Net needle (i)",,9,1
+24880,70,"to shoot",fana/fiti,"Shoot with bow (I)",,1,1
+91627,71,"to stab, pierce",hoka,"Pierce, poke (Mce)",,67,
+91628,71,"to stab, pierce",huki,"Pierce, stab",,"1, 8",
+91746,72,"to hit",paa,"Slap, strike, touch (I), clap (McE)",,13,
+91747,72,"to hit",poki,"Slap (McE) [<]",,6,
+91748,72,"to hit",haha,"Beat down",,12,
+91749,72,"to hit",taa,"Strike, kill, adze (Mce)",,10,
+91750,72,"to hit",tuki,"Knock, pound, mash (McE)",,8,
+25951,73,"to steal",kaihaa,Steal,,7,1
+26308,74,"to kill",taa,"Strike, kill, adze (McE)",,8,1
+26665,75,"to die, be dead",mate,"To die",,1,1
+91928,76,"to live, be alive",ola,"Life, health (Mce)",,6,
+91929,76,"to live, be alive",ola/ola,"Health, recover from illness (I)",,6,
+91978,77,"to scratch",alati,"To scratch",,10,1
+91979,77,"to scratch",v/aku/aku,"Scribble, scratch (Mce)",,9,
+91980,77,"to scratch",laku,"Mix with hands [<]",,x,
+92255,78,"to cut, hack",iihi,"Split, divide, rip open (McE)",,10,1
+92256,78,"to cut, hack",koti,"Pinch, snip",,9,
+92257,78,"to cut, hack",kokoti,Pinch,,9,
+92258,78,"to cut, hack",hele,"Knife, cut (I), cut up (McE)",,16,
+92259,78,"to cut, hack",talai,"Hew, carve, chop, adze",,1,
+92309,79,stick/wood,akau,"Wood, tree",,1,
+92310,79,stick/wood,laakau,"Shrub, plant (McE) [this is likely a borrowed form, however the semantic value is different to the one needed here.",,x,
+28450,80,"to split",matofi/ua,"Split in two (McE)",,7,1
+90484,81,sharp,matila,"Pollex 06: Matila. :Sharp.",,2,
+92469,83,"to work",gahua,"To work; job, occupation (Sph)",,,1
+92470,83,"to work",galue,"A feast (Sph) [<]",,x,
+92471,83,"to work",gahua,DUP,,x,
+29878,84,"to plant",too,"To plant; to conceive (of a woman) (McE)",,4,1
+30235,85,"to choose",fifili,"Choose, select (MCE)",,1,1
+30592,86,"to grow",tupu,"Grow, spring up, be descended from (McE)",,1,1
+30949,87,"to swell",fu/fula/,"To swell",,7,1
+92629,88,"to squeeze",fo/fota/,"Squeeze, throttle, press (McE)",,"8, 2, 93",1
+92630,88,"to squeeze",lomi,Press,,10,
+92631,88,"to squeeze",tatau,"Wring, strain, press out (Mce)",,13,
+93388,89,"to hold",kuku,"Draw together, embrace, grasp, hold",,12,
+93389,89,"to hold",hapo,"Take in the hand",,15,
+32020,90,"to dig",keli,"To dig",,1,1
+32377,91,"to buy",taui,"To pay, reward, revenge (McE)",,9,1
+32734,92,"to open, uncover",afangi,"To open (McE)",,9,1
+33091,93,"to pound, beat",tuki,"Knock, pound, mash (McE)",,2,1
+90485,94,"to throw",velo,"Pollex 06: Velo. :Throw (Mce).",,38,
+33805,95,"to fall",mokulu,"Fall (as ripe fruit) (McE)",,11,1
+34162,96,dog,kulii,Dog,,7,1
+89870,97,bird,manu,Animal,,1,1
+89871,97,bird,manu/lele,Bird,,1,
+89872,97,bird,"manu lele","Bird (not animal)",,1,
+35233,99,feather,palaa,"Long tail-feathers of a bird (McE)",,5,1
+104654,100,wing,tapakau,"Wing of a bird, fin of a fish (McE)",,"1,59",1
+104655,100,wing,pekau,"Wing of a bird, fin of a fish (McE)",,"1,59",
+104656,100,wing,peehau,"Wing of a bird or other flying creature (McE)",,"1,81",
+35947,101,"to fly",lele,"Fly (McE)",,11,1
+36304,102,rat,kumaa,Rat,,13,1
+104728,103,meat/flesh,kakano,"Flesh, meaning (Mce)",,14,
+104729,103,meat/flesh,kiko,"Flesh; female genitalia",,10,
+104759,104,fat/grease,gako,"Dripping, cooking-oil (Sph)",,14,1
+104760,104,fat/grease,huni,Greasy,,12,
+37375,105,tail,hiku,"End, tail",,13,1
+37732,106,snake,gata,Snake,,12,1
+90486,107,"worm (earthworm)",kelemutu,"Pollex 06: Kelemutu. :Earthworm.",,9,
+105135,108,louse,kutu,Louse,,1,
+105136,108,louse,tuma,"Louse (McE)",,3,
+38803,109,mosquito,namu,Mosquito,,1,1
+254022,110,spider,kufani,,,,
+39517,111,fish,ika,Fish,,1,1
+105227,112,rotten,pala,"Ripe, rotten (I), wet, clammy (McE)",,13,1
+105228,112,rotten,pala/popo,"Rotting on ground (McE)",,"13,14",
+105229,112,rotten,popo,Rotten,,14,
+105283,113,branch,laa,(sg),,1,
+105284,113,branch,laalaa,"(pl). Small branch (McE) B. [<]",,1,
+105309,114,leaf,lau,Leaf,,1,
+105310,114,leaf,au,"Thatch (McE)",,1,
+40945,115,root,aka,"Creeper, Kudzu Bean (Pueraria thunbergiana) (McE)",,2,1
+41302,116,flower,fiti,Flower,,8,1
+41659,117,fruit,fua,"Fruit, bear fruit",,1,1
+42373,119,earth/soil,kele/kele,"Earth, soil",,10,1
+105420,120,stone,fatu/kalaa,"Rough volcanic stone",,1,1
+105421,120,stone,patu,Rock,,1,
+105422,120,stone,maka,"Stone, pebble, rock",,4,
+78144,121,sand,one,Sand,,1,1
+78145,121,sand,/one/one,Sand,,1,1
+43444,122,water,vai,Water,,2,1
+43801,123,"to flow",tafe,"To flow (I)",,10,1
+107800,124,sea,moana,"Sea beyond the reef, ocean",,10,1
+107801,124,sea,tahi,Sea,,1,
+107802,124,sea,vaha,"Open sea (McE)",,12,
+155018,125,salt,matima,,,3,
+107835,126,lake,loto,"Pool, lakelet (McE)",,6,
+107836,126,lake,namo,"Lake, pond",,7,
+107862,127,woods/forest,ulu,"Grove, clump (i), plantation, group (Mce)",,15,
+107863,127,woods/forest,vao,Forest,,14,
+45943,129,moon,mahina,"Moon (Bgs)",,"37, 5",1
+46300,130,star,fetuu,Star,,1,1
+46657,131,cloud,ao/lagi,Cloud,,12,1
+47371,133,rain,uha,Rain,,1,1
+90487,134,thunder,halulu,"Pollex 06: Halulu. :Thunder; to thunder, reverberate.",,,
+170133,134,thunder,pakūlagi,"lit: roar, sky",,,
+48085,135,lightning,uhila,Lightning,,2,1
+108069,136,wind,mataŋi,Wind,,"1,66",
+108070,136,wind,havili,"Blow softly, gentle breeze",,11,
+108138,137,"to blow",angi,"Light breeze (I), blow generally gentle breeze (McE)",,8,1
+108139,137,"to blow",a/angi/,"Blow gently (of wind) (Ndc)",,8,
+108140,137,"to blow",ifi,Blow,,5,
+108141,137,"to blow",puhi,"Blow (I), spurt out, blow out (McE)",,6,
+108142,137,"to blow",havili,"Blow softly, gentle breeze",,11,
+49156,138,warm,mafana,Warm,,"1, 72",1
+49513,139,cold,makalili,"Cold, chilly",,"1,52",1
+120790,140,dry,maha,"Empty, dry",,11,1
+120791,140,dry,pakaka,"Scorched (i) [<]",,x,
+50584,142,heavy,mamafa,Heavy,,46,1
+50941,143,fire,afi,Fire,,1,1
+122781,144,"to burn",tafu,"Make fire, light fire, tend fire, cook (I)",,8,
+122782,144,"to burn",tungi,"To kindle, to light a fire",,"1,7",
+51655,145,smoke,ahu,Smoke,,2,1
+52012,146,ash,efu/efu,"Ashes (I)",,1,1
+52369,147,black,uli,"Black, dark coloured (i), black (Mce)",,7,1
+52726,148,white,tea,"White, light-coloured, fair skinned (McE)",,8,1
+53083,149,red,kula,Red,,13,1
+254024,150,yellow,ago,,,9,
+254023,151,green,"lanu laukou",,,12,
+123740,152,small,iki/iki,Small,,1,1
+123741,152,small,liki/liki,"Small (Motu dialect) (McE)",,66,
+123742,152,small,puku/puku,"Small, medium-sized (McE)",,12,
+54511,153,big,lahi,Large,,12,1
+54868,154,short,puku/puku,"Small, medium-sized (McE)",,3,1
+55225,155,long,loa,Long,,"12,105",1
+90488,156,thin,aleale,"Pollex 06: Aleale. :Thin, transparent (Sph).",,,
+55939,157,thick,matolu,Thick,,3,1
+90489,158,narrow,lau/tote,"Pollex 06: Lau/tote. :Narrow.",,,
+56653,159,wide,laulahi,"Wide, broad",,"73, 9",1
+90490,160,"painful, sick",maki,"Pollex 06: Maki. :Sickness, illness, sore.",,1,
+57367,161,"shy, ashamed",maa,Ashamed,,1,1
+57724,162,old,tuai,"Old, ancient; marks perfect aspect (McE)",,48,1
+58081,163,new,foou,New,,1,1
+58438,164,good,-melie,"Pleasing, good",,16,1
+123522,166,"correct, true",hako/tika/,hako,,107,
+123523,166,"correct, true",tika,"L from EP lgs",L,9,
+123524,166,"correct, true",tonu,"Proper, right (McE)",,8,
+123219,167,night,poo,Night,,1,
+123220,167,night,pouli-,,,"1,10",
+119471,168,day,aho,"Day (not night)",,"1, 54",
+119472,168,day,aho,DUP,,x,
+60223,169,year,tau,"Year, season (Mce)",,1,1
+60580,170,when?,fe_,"(ACD)which?, where?, when?",,5,
+61651,173,at,i,"At (preposed particle)",,1,1
+62008,174,"in, inside",loto,"Inside, pool",,5,1
+62365,175,above,lunga,Above,,9,1
+62722,176,below,lalo,"Below, under",,8,1
+63436,178,that,ia,"demonstrative: that, those",,1,
+63793,179,near,tata,"Near (Mce)",,9,1
+64150,180,far,mamao,Distant,,13,1
+121457,181,where?,fee,"Where? which? when? (MCE) [<]",,"3,35",1
+121458,181,where?,fee,Where?,,"3,35",
+123682,182,I,au,"First person singular pronoun (Focus)",,"1,21",1
+123683,182,I,kau,"First person singular pronoun",,"1,21",
+123684,182,I,-ku,"First person singular (Possessive)",,x,
+65221,183,thou,koe,"Second person singular, thou",,1,1
+66292,183,thou,koe,"Second person singular, thou",,1,1
+65578,184,he/she,ia,"He, she, it (McE)",,1,1
+135245,185,we,taua,,,"1, 29",
+135246,185,we,tautolu,,,"1, 39",
+135247,185,we,maua,,,"2, 29",
+135248,185,we,mautolu,,,"2, 39",
+135239,187,they,laua,,,x,
+135240,187,they,maua,,,x,
+67006,188,what?,haa,"what?, why?",,1,1
+67363,189,who?,hai,Who,,1,1
+90491,190,other,falu,"Pollex 06: Falu. :Some, other (Mce).",,,
+123118,191,all,katoa,"All, total",,13,
+123119,191,all,gotoa,"All, everyone, whole. Archaic, used in church (Sph)",,13,
+122968,192,and,ma,"And (not confined to numerals)",,2,
+122969,192,and,mo,"And, with, for, nor, as, in, from (McE)",,9,
+119432,194,how?,feefee,How?,,11,
+119433,194,how?,pehe,Thus,,11,
+69505,195,"no, not",tee,"Negative (McE)",,111,1
+69862,196,"to count",totou,"Read, count (McE)",,"8,80",1
+70219,197,One,taha,"One [<]",,41,
+70576,198,Two,ua,Two,,1,1
+70933,199,Three,tolu,"Three (McE)",,1,1
+71290,200,Four,faa,four,,"1,66",1
+83784,201,Five,lima,"Five, hand.(Source: Pollex)",,1,
+90492,202,Six,ono,"Pollex 06: Ono. :Six (Sph)",,1,
+83687,203,Seven,fitu,"Seven.(Source: Pollex)",,1,
+90493,204,Eight,valu,"Pollex 06: Valu. :Eight.",,3,
+83558,205,Nine,hiva,"Nine.(Source: Pollex)",,"5,44",
+83447,206,Ten,hongofulu,"Ten.(Source: Pollex)",,5,
+83392,207,Twenty,tekau,"Twenty (only used in counting fish).(Source: Pollex)",,4,
+116394,208,Fifty,"lima fiha",,,,
+83370,209,"One Hundred","te au","Hundred (McE).(Source: Pollex)",,2,
+83337,210,"One Thousand",afe,"Thousand (Sph).(Source: Pollex)",,3,

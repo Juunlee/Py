@@ -1,0 +1,202 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+148,Wuvulu,Blust,wuv,wuvu1239,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Admiralty Islands, Western","Simon Greenhill","Simon Greenhill","@misc{Blust-148-2005,  author = \"Robert A. Blust\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-1.60379443005897259766,142.97607421875000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+148,1,hand,pani,,,14,
+505,2,left,mawi,,,"1,59",1
+862,3,right,maʔau,,,"5,13",1
+1219,4,leg/foot,pine-,,,,
+71556,5,"to walk",oʔali,,,63,
+71557,5,"to walk",oʔatatalai,,,,
+1933,6,road/path,tala,,,1,1
+2290,7,"to come",mai,,,1,1
+2647,8,"to turn",fanunumai,,,,
+3004,9,"to swim",tiki,,,,
+3361,10,dirty,ļoļoa,,,6,
+3718,11,dust,lu|afu,,,1,1?
+89756,12,skin,inu-,,,1,1
+71965,12,skin,uli-,,,1,1
+89757,12,skin,unu-,,,1,1
+4432,13,back,uku-,,,,
+4789,14,belly,ali-,,,,
+5146,15,bone,kui-,,,2,
+5503,16,intestines,pepea-,,,25,
+5860,17,liver,patio-,,,,
+6217,18,breast,tutu-,,,1,1
+6574,19,shoulder,foka-,,,,
+6931,20,"to know, be knowledgeable",apaʔ-ia,,,,
+7288,21,"to think",nakanaka-ia,,,,
+7645,22,"to fear",maʔau,,,1,1
+8002,23,blood,xaxa-,,,1,1
+8359,24,head,taba-,,,68,
+8716,25,neck,ua,,,18,
+9073,26,hair,uko,,,23,
+9430,27,nose,nuke-,,,27,
+9787,28,"to breathe","ona fawenau",,,1?,1?
+10144,29,"to sniff, smell",ato,,,1,1
+10501,30,mouth,umu-,,,,
+10858,31,tooth,lifo,,,"1,35",1
+11215,32,tongue,kawe-,,,,?
+11572,33,"to laugh",fali,,,"3, 54",
+11929,34,"to cry",ai,,,1,1
+12286,35,"to vomit",mumuʔa,,,1,1
+12643,36,"to spit",ui,,,,
+13000,37,"to eat",anana,,,1,1
+13357,38,"to chew",xaweʔ-ia,,,,
+13714,39,"to cook",unu,,,9,
+14071,40,"to drink",inu,,,1,1
+14428,41,"to bite",talu,,,,
+15142,43,ear,ali[a],,,1,1
+15499,44,"to hear",kuai,,,1,
+15856,45,eye,pula-,,,3,
+73884,46,"to see",maʔa-ia,"word for eye with suffix",,8,
+73885,46,"to see",fanunu,"word for eye with suffix",,,
+16570,47,"to yawn",mamawa,,,19,1
+16927,48,"to sleep",maʔiku,,,"1,70",1
+17641,50,"to dream",mefi,,,"1, 37",1
+17998,51,"to sit",kuta,,,,
+90832,52,"to stand",ofalakai,,,92,
+90833,52,"to stand",ufalakai,,,92,
+18712,53,"person/human being",kamaʔa,,,"1,66",1
+19069,54,man/male,mamane,,,1,1
+19426,55,woman/female,pifine,,,"1, 106",1
+19783,56,child,naʔu,,,5,
+20140,57,husband,ako,,,2,1
+20497,58,wife,ako,,,1,
+20854,59,mother,ina,,,1,1
+21211,60,father,ama,,,1,1
+21568,61,house,umu,,,1,?
+21925,62,thatch/roof,boboʔai,,,,
+22282,63,name,aka-,"1 or 1,18: can't tell",,1,1
+22639,64,"to say",wake-ia,,,,
+22996,65,rope,wau,,,2,
+23353,66,"to tie up, fasten",kokoʔin-ia,,,,
+24067,68,needle,tawi,,,20,
+24781,70,"to shoot",nafaʔ-ia,"with metathesis of initial and medial consonant",,1,1
+25138,71,"to stab, pierce",otome-ia,,,55,
+25495,72,"to hit",afuk-ia,,,,
+25852,73,"to steal",topaʔai,,,,
+26209,74,"to kill",foʔa-ia,,,,1
+26566,75,"to die, be dead",maʔe,,,1,
+26923,76,"to live, be alive",mamaʔa,,,21,
+27280,77,"to scratch",nefi-a,,,,
+27637,78,"to cut, hack",waʔa-ia,,,,
+27994,79,stick/wood,manumanu,,,,
+28351,80,"to split",falak-ia,,,1,
+28708,81,sharp,talu,,,,
+29065,82,"dull, blunt","ļoʔe talu",,,X,
+29422,83,"to work",biki,,,,
+29779,84,"to plant",faxo-ia,,,6,
+30136,85,"to choose",maʔi,,,6,
+30493,86,"to grow",amapu,,,,
+30850,87,"to swell",popola,,,7,
+31207,88,"to squeeze",apiʔ-ia,,,,
+31564,89,"to hold",paloko,,,,
+31921,90,"to dig",aki,,,,
+32278,91,"to buy",ponoʔ-ia,,,,
+32635,92,"to open, uncover",[onolao],,,,
+33349,94,"to throw",tumin-ia,,,,
+33706,95,"to fall",pati,,,,
+34063,96,dog,pono,,,,
+34420,97,bird,fifilau,,,,1
+34777,98,egg,aʔolu,"pukuto (one), pukuo (plenty)",,1,
+77057,99,feather,pukuto,,,72,
+77058,99,feather,pukuo,,,72,
+35491,100,wing,pau-na,,,7,
+35848,101,"to fly",filau,,,,
+36205,102,rat,balafai,,,,
+36562,103,meat/flesh,pikio-,,,10,
+36919,104,fat/grease,pau-,,,,
+37276,105,tail,wawa,,,73,
+37633,106,snake,waʔa,,,12,
+37990,107,"worm (earthworm)","waʔa maunu",,,10,
+38347,108,louse,fouʔu,,,1,1
+38704,109,mosquito,baibai,,,,
+39061,110,spider,ulo,,,,
+39418,111,fish,nia,,,1,1?
+39775,112,rotten,waxaku,,,,
+40132,113,branch,xaxa-na,,,1,1
+40489,114,leaf,xau-na,,,1,1
+40846,115,root,waxa,,,2,?
+41203,116,flower,ape,,,,
+41560,117,fruit,fua,,,1,1
+41917,118,grass,lilimoka,,,,
+42274,119,earth/soil,pie,,,44,
+42631,120,stone,muko,,,48,
+42988,121,sand,pie,,,12,
+43345,122,water,xanu,,,1,1
+44059,124,sea,aki,,,1,1
+44416,125,salt,aki,,,20,
+45130,127,woods/forest,polu,,,112,
+45487,128,sky,pafea,,,,
+45844,129,moon,pula,,,1,1
+46201,130,star,piʔu,,,1,1
+46558,131,cloud,uʔukafu,,,,
+46915,132,fog,hau,,,1,
+78747,133,rain,maunu,,,55,
+78748,133,rain,kopa,,,,
+47629,134,thunder,wikuku,,,2?,
+47986,135,lightning,ukuku,,,93,
+48343,136,wind,apisilo,,,,
+48700,137,"to blow",ukuf-ia,"< *urupi",,71,
+49057,138,warm,babai,,,,
+49414,139,cold,waiwa,,,,
+49771,140,dry,mamaka,,,11,
+50128,141,wet,kokofa,,,,
+50485,142,heavy,kakapa,,,,
+50842,143,fire,afi,,,1,1
+51199,144,"to burn",alu-ia,,,5,
+51556,145,smoke,aku,,,2,1
+51913,146,ash,walu,,,,
+52270,147,black,axaxana,,,61,
+52627,148,white,poʔi,,,,
+52984,149,red,xoa,,,12,
+53698,151,green,maliana,,,,
+79886,152,small,pusiko,,,14,
+79887,152,small,kiki,"W. k < lenis *s",,"81,83",
+54412,153,big,bawana,,,50,
+54769,154,short,weloku,,,,
+55126,155,long,mala,,,12,
+55483,156,thin,apapa,,,14,
+55840,157,thick,akaʔaka,,,,
+56197,158,narrow,litatana,,,,
+56554,159,wide,litatanaa,,,,
+56911,160,"painful, sick",uki,,,,
+57268,161,"shy, ashamed",mafa,,,79,?
+57625,162,old,lapunú,"< Tok Pisin?",L,42,
+58339,164,good,nakawani,,,,
+58696,165,"bad, evil",afelo,,,108,
+59053,166,"correct, true",faʔua,,,92,
+59410,167,night,poi,,,1,1
+59767,168,day,akewa,,,,
+60481,170,when?,aika,,,1,1
+60838,171,"to hide",opaʔai,,,50,
+61195,172,"to climb",fane,,,1,1?
+61909,174,"in, inside",ļaļo,,,1,1
+62980,177,this,fe|ni,,,1,1
+81488,178,that,fe|na,,,1,1
+81489,178,that,fei,,,,1
+63694,179,near,kafiʔi,,,,
+64051,180,far,kaoa,,,1,?
+64408,181,where?,ia,,,3?,
+64765,182,I,au,,,"1,21",1
+65122,183,thou,o,,,1,?
+65479,184,he/she,ina,,,"1,66",
+65836,185,we,aia,,,,1?
+66193,186,you,[ama],,,1,
+66550,187,they,[lao],,,,
+66907,188,what?,tamanu,,,1,
+82291,189,who?,ini,,,24,
+82292,189,who?,[aveta],,,,
+67978,191,all,koʔou,,,,
+82515,192,and,ma,,,2,1
+82516,192,and,[me],,,2,1
+82637,194,how?,"[bata nai",,,,
+82638,194,how?,aveta],,,,
+69406,195,"no, not",ļoʔe,,,,
+69763,196,"to count",wakei,,,10,
+70120,197,One,xia,,,56,
+70477,198,Two,-kua,,,1,1
+70834,199,Three,olu,,,1,1
+71191,200,Four,fa,,,1,1

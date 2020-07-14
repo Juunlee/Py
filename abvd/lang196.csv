@@ -1,0 +1,274 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+196,Dehu,"Blust, from Tryon & Hackman (1983)",dhv,dehu1237,"Tryon, D.T. & Hackman, B. (1983) Solomon Islands languages: an internal classification.",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Loyalty Islands","Simon Greenhill","Simon Greenhill","@book{85830,  address               = {Canberra},  note                  = {Bibliography: p. 483-490.},  pages                 = {viii+490},  publisher             = {Research School of Pacific and Asian Studies, Australian National University},  series                = {Pacific Linguistics: Series C},  title                 = {Solomon Islands Languages: An Internal Classification},  volume                = {72},  year                  = {1983},  bibtexkey             = {hackman-tryon_solomon-islands1983},  class_loc             = {PL6211.S6},  document_type         = {B},  fn                    = {papua\tryon-hackman_solomon-islands1983.pdf, papua\tryon-hackman_solomon-islands1983pages.pdf, papua\tryon-hackman_solomon-islands1983pages_o.pdf},  hhtype                = {overview;comparative;wordlist},  inlg                  = {English [eng]},  inlg_code             = {eng},  isbn                  = {9780858832923},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 6211 .S6 TRY 1983},  src                   = {hh, mpieva},  srctrickle            = {hh#hvw:TryonHackman:Solomon, mpieva#Tryon1983SolomonI},  subject_headings      = {Melanesian languages–Solomon Islands–Classification, Solomon Islands–Languages–Classification, Melanesian languages–Solomon Islands–Classification – Solomon Islands–Languages–Classification},  author                = {Tryon, Darrell T. and Hackman, B. D.}}"
+latitude,longitude
+-20.98195674283231682011,167.21191406250000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+196,1,hand,wanakoim,,,1,
+553,2,left,wami,,,"1,59",
+910,3,right,maca,,,"5,13",
+1267,4,leg/foot,waca,,,13,
+1624,5,"to walk",aehnatro,,,,
+71611,6,road/path,sane,,,1?,1?
+71612,6,road/path,go|jeñ,,,1,1?
+2338,7,"to come",traqa,,,,
+2695,8,"to turn",xei,,,,
+3052,9,"to swim",aj,,,30,
+3409,10,dirty,taidro,,,,
+71914,11,dust,thotho,,,65?,
+71915,11,dust,xaxau,,,78,
+4123,12,skin,kupein,"cf 103",,1?,
+72027,13,back,ju,,,82,
+72028,13,back,hutrö,,,,
+4837,14,belly,akawaneinaea,,,,
+5194,15,bone,jun,,,2,
+5551,16,intestines,ixel,,,92,
+5908,17,liver,idre,,,1,
+72201,18,breast,thi,,,1,?
+72202,18,breast,xeñë,,,,?
+6622,19,shoulder,hnaiap,,,,
+72318,20,"to know, be knowledgeable",waŋatemekuñin,,,,
+72319,20,"to know, be knowledgeable",ate,,,,
+7336,21,"to think",mekun,,,,
+72416,22,"to fear",pulitötëtin,,,,
+72417,22,"to fear",xou[ën],,,1?,
+8050,23,blood,madra,"cf 149",,1,1?
+8407,24,head,he,,,,
+8764,25,neck,ñinawa,,,18,
+72623,26,hair,ipene|he,,,,
+72624,26,hair,ihe,,,,
+9478,27,nose,hnafij,,,,
+9835,28,"to breathe",mano,"0r 17?",,1,1
+10192,29,"to sniff, smell",punepunën,,,42,
+72859,30,mouth,që,,,,
+72860,30,mouth,ula,,,,
+72861,30,mouth,ineqë,,,,
+10906,31,tooth,ñö,,,1,?
+11263,32,tongue,thinem,,,26,
+73024,33,"to laugh",qenehñima,,,48?,
+73025,33,"to laugh",saxaja,,,,
+73080,34,"to cry",sheitrë,,,,
+73081,34,"to cry",teij,,,1,
+73137,35,"to vomit",nanatin,,,,
+73138,35,"to vomit",nuan,,,8,
+12691,36,"to spit",hñijuën,,,14,
+13048,37,"to eat",xen,,,1,1
+73331,38,"to chew",muñamuña,,,,
+73332,38,"to chew",huce,,,,
+73333,38,"to chew",atra,,,22?,
+13762,39,"to cook",atron,,,9,
+14119,40,"to drink",ij,,,69,
+73570,41,"to bite",tratra,,,,
+73571,41,"to bite",hej,,,,
+73572,41,"to bite",geth,,,1,
+73663,42,"to suck",guman,,,"17, 88",
+73664,42,"to suck",fuluth,,,,
+73705,43,ear,ineŋeñë,,,1?,?
+73706,43,ear,ñaŋeñyë,,,1?,?
+15547,44,"to hear",deŋ,,,1,1
+15904,45,eye,ala|mek,,,1,1
+73896,46,"to see",öhn,,,,
+73897,46,"to see",waŋ,,,123,
+73898,46,"to see",goeën,,,123,
+73935,47,"to yawn",thotesi,,,,
+73936,47,"to yawn",hoae,,,"19,30",
+16975,48,"to sleep",meköl,,,1,1
+17689,50,"to dream",puj,,,75,
+18046,51,"to sit",lapa,,,61,
+18403,52,"to stand",cil,,,2,
+74168,53,"person/human being",nöj,,,,
+74169,53,"person/human being",at,,,4,
+19117,54,man/male,trah|mañ,,,"1,14",?
+19474,55,woman/female,xeze,,,,
+74381,56,child,nekön[at],,,5,
+74382,56,child,kuku,,,,
+20188,57,husband,tefën,,,15,
+20545,58,wife,föe,,,,
+20902,59,mother,thin,,,1,1?
+74563,60,father,kaka,,,19,1
+74564,60,father,kem,,,1,1
+21616,61,house,uma,,,1,1
+21973,62,thatch/roof,jez,,,,
+22330,63,name,ejen,,,"1,18",
+74827,64,"to say",qaja,,,,
+74828,64,"to say",ulatin,,,,
+74829,64,"to say",hape,,,,
+23044,65,rope,ho,,,,
+75023,66,"to tie up, fasten",oth,,,,
+75024,66,"to tie up, fasten",wejecan,,,,
+75093,67,"to sew",cai,,,1?,?
+75094,67,"to sew",can,,,,?
+75155,68,needle,nilan,"nilan (L?)",L,,?
+75156,68,needle,jöm,,L,40,?
+24472,69,"to hunt",köjë,,,,
+24829,70,"to shoot",kuqan,,,23,
+75335,71,"to stab, pierce",thin,,,12,
+75336,71,"to stab, pierce",us,,,,
+75413,72,"to hit",popoth,,,,
+75414,72,"to hit",satimon,,,,
+75415,72,"to hit",tha,,,10?,
+75473,73,"to steal","xom apaten",,,,
+75474,73,"to steal",ënön,,,"1,58",
+75515,74,"to kill",jahwa,,,,
+75516,74,"to kill",humuth,,,,
+26614,75,"to die, be dead",mec[in],,,1,1?
+26971,76,"to live, be alive",sheweŋönie,,,,
+27328,77,"to scratch",xoxo,,,,
+27685,78,"to cut, hack",sha,,,,
+28042,79,stick/wood,jia,,,,
+75893,80,"to split",weketh,,,34?,
+75894,80,"to split",aŋaŋan,,,,
+28756,81,sharp,inenë,,,,
+29113,82,"dull, blunt",eon,,,1,
+29470,83,"to work",huliwan,,,42,
+29827,84,"to plant",tran,,,2,?
+30184,85,"to choose",iën,,,,
+30541,86,"to grow",cipa,,,1?,
+30898,87,"to swell",cipa,,,12,
+31255,88,"to squeeze",hutra,,,,
+31612,89,"to hold",göleti,,,35?,
+76524,90,"to dig",sin,,,1?,?
+76525,90,"to dig",kuj,,,33?,?
+32326,91,"to buy",itön,,,,
+76653,92,"to open, uncover",shath,,,,
+76654,92,"to open, uncover",thethë,,,,
+33040,93,"to pound, beat",thagöligölin,,,"20, 2?",
+76776,94,"to throw",tij,,,,
+76777,94,"to throw",kuiën,,,,
+76778,94,"to throw",hloth,,,,
+76865,95,"to fall",malaxan,,,,
+76866,95,"to fall",kei,,,132,
+34111,96,dog,kuli,,L,L,
+76963,97,bird,"sine miñ",,,1?,?
+76964,97,bird,waco,,,,?
+34825,98,egg,wakuja,,,1,
+35182,99,feather,pen,,,1,
+35539,100,wing,iapen,"cf 19",,2?,
+77148,101,"to fly",sesë,,,93,
+77149,101,"to fly",wehñitrë,,,,
+36253,102,rat,aji,,,,
+77232,103,meat/flesh,kupein,"cf 12",,,
+77233,103,meat/flesh,ijön,"cf 12",,,
+36967,104,fat/grease,gilis,"[E] Loan",L,,
+37324,105,tail,punepunën,,,,
+37681,106,snake,un,,,43,
+77439,107,"worm (earthworm)",trutrulu,,,,
+77440,107,"worm (earthworm)",lali,,,,
+38395,108,louse,ötë,,,1,?
+38752,109,mosquito,truala,,,,
+39109,110,spider,noña,,,,
+39466,111,fish,i,,,1,1?
+39823,112,rotten,hñeqet,,,,
+40180,113,branch,umen,,,,
+40537,114,leaf,drön,,,1,1?
+40894,115,root,wan,,,2,?
+41608,117,fruit,we|n,,,1,1?
+41965,118,grass,haõ,,,,
+78040,119,earth/soil,tepadro,,,1,
+78041,119,earth/soil,helep,,,,
+78042,119,earth/soil,dro,,,1,
+78102,120,stone,"sine git",,,,?
+78103,120,stone,etë,,,1,?
+43036,121,sand,ŋöni,,,1,?
+43393,122,water,medrixadra,,,,
+43750,123,"to flow",neni,,,,
+44107,124,sea,hna|gejë,,,1?,
+44464,125,salt,soot,(E),L,,
+44821,126,lake,husapa,,,,
+45178,127,woods/forest,hnaxulu,,,15?,
+45535,128,sky,hneŋö|drai,,,1,
+78554,129,moon,melem,,,7?,
+78555,129,moon,teu,,,,
+78556,129,moon,trexöjie,,,,
+46249,130,star,wëtesij,,,,
+78658,131,cloud,iaeŋ,,,37?,
+78659,131,cloud,iaw,,,12,
+47320,133,rain,"mani [ën]",,,,
+47677,134,thunder,hedeŋ,,,,
+48034,135,lightning,samek,,,15?,
+48391,136,wind,eñ,"cp Nengone",,1,?
+79023,137,"to blow",siej,,,,
+79024,137,"to blow",uf,,,4,
+79025,137,"to blow",hnahna,,,13,
+49105,138,warm,keu,,,45,
+79161,139,cold,nanazij,,,,
+79162,139,cold,lepañ,,,,
+79259,140,dry,qaqacil,,,,
+79260,140,dry,weliwel,,,11,
+50176,141,wet,hmuhmu,,,,
+50533,142,heavy,"hace pena",,,,
+79384,143,fire,eë,,,1,?
+79385,143,fire,anijë,,,46,?
+79489,144,"to burn",manith,,,,
+79490,144,"to burn",deuth,,,,
+79529,145,smoke,"so ne eë",,,2,
+79530,145,smoke,haj,,,2?,
+52318,147,black,wetewet,,,90,
+52675,148,white,wië,,,22,
+53032,149,red,madra,"cf 23",,1?,
+53389,150,yellow,hmed,,,45,
+53746,151,green,hatr,,,,
+79902,152,small,jifini,,,,
+79903,152,small,co,,,,
+54460,153,big,tru,,,,
+54817,154,short,hopat,,,34?,
+55174,155,long,hoea,,,,
+55531,156,thin,hmelele,,,22,
+55888,157,thick,hme|kön,,,3,
+56245,158,narrow,ilit,,,20?,
+56602,159,wide,ishaisha,,,,
+80391,160,"painful, sick",wezipo,,,,
+80392,160,"painful, sick",iñi,,,,
+80459,161,"shy, ashamed",leleëmek,,,1,?
+80460,161,"shy, ashamed",hmahmaen,,,1,?
+57673,162,old,qat,,,,
+58030,163,new,hñipixe,,,,
+58387,164,good,loi,,,18,
+58744,165,"bad, evil",ŋazo,,,,
+80780,166,"correct, true",meköt,,,,
+80781,166,"correct, true",ñipi,,,,
+59458,167,night,jid,,,11,
+59815,168,day,drai,,,6,?
+60172,169,year,macate,,,,
+60529,170,when?,eu,,,,
+60886,171,"to hide",thuŋ,,,,
+61243,172,"to climb",elë,,,23?,
+81220,174,"in, inside",ŋöne,,,15?,
+81221,174,"in, inside","e kuhu",,,,
+81222,174,"in, inside",hnin,,,15?,
+62314,175,above,të,,,,
+62671,176,below,"[kulu] fen",,,,
+63028,177,this,celë,,,,
+81607,179,near,easheñ,,,56,
+81608,179,near,alemi,,,,
+64099,180,far,simesim,,,31,
+81721,181,where?,"tro ië",,,88,
+81722,181,where?,"e ka",,,,
+81801,182,I,ŋö,,,1,
+81802,182,I,eni,,,"1,22",
+65170,183,thou,hmunë,,,3,
+65527,184,he/she,xapo,,,,
+123779,185,we,eëshë,,,,
+123780,185,we,ñihunie,,,,
+123781,185,we,eahun,,,,
+66241,186,you,epun,,,23,
+66598,187,they,aŋat,,,,
+66955,188,what?,nemen,,,,
+67312,189,who?,dei,,,1?,?
+67669,190,other,xapo,,,,
+68026,191,all,nöjei,,,,
+122962,192,and,me,,,2,1
+122963,192,and,ŋe,,,2,
+68740,193,if,ma|ine,,,"3,12",?
+69097,194,how?,nemen,,,,
+69454,195,"no, not",ohea,,,45,
+69811,196,"to count","e numeran",,L,,
+70168,197,One,ca[s],,,1,1
+70525,198,Two,lue|te,,,1,1
+70882,199,Three,köni|te,,,1,1
+71239,200,Four,eke|te,,,1,1
+129281,201,Five,tripi,,,1?,
+129282,202,Six,cangömen,,,1,
+129283,203,Seven,luengömen,,,,
+129284,204,Eight,köningömen,,,19,
+129286,205,Nine,ekengömen,,,16,
+129285,206,Ten,luepi,,,,

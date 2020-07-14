@@ -1,0 +1,242 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+92,"Merina (Malagasy)","Blust / Adelaar from Abinal & Malzac (1921), Richardson (1885)",plt,plat1254,"Abinal, A. & Malzac, V. (1921) Dictionnaire Malgache-Français. Tananarive: Imprimerie de la mission Catholique. Richardson, J. (1885) A new Malagasy-English dictionary. Antananarivo: London Missionary Society.",,"Austronesian, Malayo-Polynesian, Greater Barito, East, Malagasy","Penny Keenan","Simon Greenhill + Sander Adelaar","@book{110341,  address            = {Tananarive},  pages              = {876},  publisher          = {Mission Catholique},  title              = {Dictionnaire malgache-français},  year               = {1899},  bibtexkey          = {abinal-malzac_dictionnaire-malgache1899},  fn                 = {africa\abinal-malzac_dictionnaire-malgache-francais1899_o.pdf, africa\abinal-malzac_dictionnaire-malgache1899.pdf},  hhtype             = {dictionary},  inlg               = {French [fra]},  internetarchive_id = {dictionnairemal00malzgoog},  keywords           = {;eaf;mdg;lng;dct;y.661;},  macro_area         = {Africa},  src                = {hh},  srctrickle         = {hh#d:AbinalMalzac:Malgache},  author             = {Abinal, F.G.P. and Malzac, V.}}@book{81814,  address    = {Antananarivo},  pages      = {899},  publisher  = {London Missionary Society},  title      = {A New Malagasy-English Dictionary},  year       = {1885},  bibtexkey  = {richardson_new-malagasy1885},  fn         = {africa\richardson_malagasy1885.pdf},  hhtype     = {dictionary},  inlg       = {English [eng]},  keywords   = {;eaf;mdg;lng;dct;y.661;},  macro_area = {Africa},  src        = {eballiso2009, hh, wals},  srctrickle = {eballiso2009#4286, hh#d:Richardson:Malagasy, wals#5048},  author     = {Richardson, J.}}"
+latitude,longitude
+-19.39406789539661346566,46.84570312500000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+92,1,hand,tánana,,,18,
+449,2,left,havía,,,"1,42",?
+806,3,right,havánana,,,"1,62",1
+1163,4,leg/foot,ránjo,,L,79,
+133460,4,leg/foot,tongotra,,,,
+1520,5,"to walk",man-déha,,,61,
+1877,6,road/path,lálana,,,1,1
+71642,7,"to come",ávy,,,70,
+71643,7,"to come",tónga,,,,
+2591,8,"to turn",víly,x,,,1?
+344967,8,"to turn",mi-hòdina,intrans.,,96,
+2948,9,"to swim",l-om-áno,,,1,1
+133458,9,"to swim",milomano,,,,
+3305,10,dirty,ma-lóto,"< S. Sulawesi (Adelaar 1995)",L,108,
+3662,11,dust,vóvoka,,,56,
+4019,12,skin,hóditra,,,1,1
+4376,13,back,lamósina,"lǝmbusir, lǝmusir ( Malay )",L,47,
+4733,14,belly,kíbo,,,,
+5090,15,bone,táolana,,,1,1
+5447,16,intestines,tsináy,,,1,1
+5804,17,liver,áty,,,1,1
+6161,18,breast,nóno,,,3,1
+6518,19,shoulder,sóroka,,L,50,
+6875,20,"to know, be knowledgeable",maha-lála,,,18,
+7232,21,"to think",mi-hévitra,,,88,
+7589,22,"to fear",táhotra,,,1,1
+7946,23,blood,rá,,,1,1
+8303,24,head,lóha,,,84,
+8660,25,neck,vózona,,,131,
+9017,26,hair,vólo,,,31,
+9374,27,nose,órona,,,1,1
+9731,28,"to breathe",mi-fóka,,,,
+344959,28,"to breathe",mi-àina,,,23,
+10088,29,"to sniff, smell",mi-tróka,,,,
+344960,29,"to sniff, smell",mi-òroka,X,,,
+10445,30,mouth,váva,,,1,1
+10802,31,tooth,nífy,,,1,1
+11159,32,tongue,léla,<Zelaq,,4,
+11516,33,"to laugh",héhy,,,107,
+11873,34,"to cry",mi-t-om-ány,,,1,1
+12230,35,"to vomit",man-dóa,,,8,
+12587,36,"to spit",man-dróra,,,1,1
+12944,37,"to eat",h-óm-ana,,,1,1
+13301,38,"to chew",mi-hóta,,,69,
+13658,39,"to cook",ma-hándro,,,102,
+14015,40,"to drink",mi-sótro,,,70,
+14372,41,"to bite",man-aikitra,"irregular sound correspondences",,20,?
+14729,42,"to suck",mi-tséntsitra,,,1,
+15086,43,ear,tadíny,,,1,1
+15443,44,"to hear",man-dré[ni],,,1,?
+15800,45,eye,máso,"< Bantu",L,36,
+16157,46,"to see",ma-híta,"-a is irregular",L,1,1
+16514,47,"to yawn",manóaka,"root is hòaka",,19,1
+16871,48,"to sleep",ma-tóry,,,1,1
+17228,49,"to lie down",m-ándry,,,110,
+17585,50,"to dream",ma-nófy,,,1,1
+17942,51,"to sit",ma-metraka,x,,,
+131195,51,"to sit",mipetraka,"to sit",,163,
+18299,52,"to stand",mi-tsángana,,,101,
+18656,53,"person/human being",ólona,,,17,
+19013,54,man/male,láhy,,,2,1
+19370,55,woman/female,vávy,,,"1,105",1
+19727,56,child,ánaka,,,1,1
+20084,57,husband,vády,"< S. Sulawesi",L,88,
+20441,58,wife,vády,"< S. Sulawesi",L,107,
+20798,59,mother,rény,,,"1,93",1
+21155,60,father,ráy,,,"22,50",
+21512,61,house,tráno,"< Borneo Malay daŋau",L,18,
+21869,62,thatch/roof,"táfo bózaka",,,"15,76",
+22226,63,name,anárana,,,1,1
+22583,64,"to say",mi-tény,,,52,
+22940,65,rope,tády,,,1,1
+23297,66,"to tie up, fasten",mi-féhy,,,139,
+23654,67,"to sew",man-jáitra,,,2,1
+24011,68,needle,fan-jáitra,,,45,
+24368,69,"to hunt",mi-háza,"probably < (Old) Malay",L,87,
+24725,70,"to shoot",mi-tífitra,,,51,
+344962,70,"to shoot",mana-pòaka,,,,
+25082,71,"to stab, pierce",man-dóaka,"root lòaka",,99,
+25439,72,"to hit",ma-mély,,,,
+25796,73,"to steal",mangálatra,"root = hàlatra",,57,
+26153,74,"to kill",ma-móno,,,1,1
+26510,75,"to die, be dead",máty,,,1,1
+26867,76,"to live, be alive",mi-áina,"breathe, be alive",,83,
+344961,76,"to live, be alive",mi-vèlona,"live, be alive",,11,
+27224,77,"to scratch",mi-háotra,,,44,1?
+27581,78,"to cut, hack",ma-nápaka,,,25,
+27938,79,stick/wood,házo,"< Malay kayu",L,1,1
+28295,80,"to split",ma-máky,,,95,?
+28652,81,sharp,ma-rànitra,,,"43,35",
+29009,82,"dull, blunt",dómbo,,,"3, 29",1
+29366,83,"to work",mi-ása,"< Malay jasa < Sanskrit āyāsa-",L,94,
+29723,84,"to plant",mam-bóly,,,1,
+30080,85,"to choose",mi-fídy,,,1,1
+30437,86,"to grow",mi-tómbo,,,1,1
+30794,87,"to swell",mi-bóntsina,"< Malay bunting",L,49,
+31151,88,"to squeeze",ma-mía,(<fia),,76,1?
+76434,89,"to hold",mi-tána,,,55,
+76435,89,"to hold",mi-házona,,,115,
+31865,90,"to dig",mi-hády,,,1,1
+32222,91,"to buy",mi-vídy,,,1,1
+32579,92,"to open, uncover",ma-móha,"final -a suspect: borrowed from Malay?",,1,1
+344963,92,"to open, uncover",manòkatra,"root is sokaf-",,26,
+32936,93,"to pound, beat",mi-tóto,,,20,1
+33293,94,"to throw",mi-tóraka,,,"1, 118",
+33650,95,"to fall",lávo,,,1,1
+76912,96,dog,alíka,"< bantu",L,,
+76913,96,dog,ambóa,"< Bantu mbwa",L,104,
+34364,97,bird,vórona,"< Malay buruŋ",L,17,
+34721,98,egg,atódy,,,1,1
+35078,99,feather,vólo,,,1,1
+35435,100,wing,élatra,,,23,
+35792,101,"to fly",manídina,"root is tsìdina",,97,
+36149,102,rat,voalávo,,,1,1
+36506,103,meat/flesh,héna,"related to Ma'anyan kenah 'fish' 111",,55,
+36863,104,fat/grease,ma-távy,,,23,
+37220,105,tail,rámbo,,,,
+37577,106,snake,bibiláva,"lit. 'long animal'; bibi < Bantu",L,70,
+37934,107,"worm (earthworm)",kánkana,"< Bantu",L,91,
+38291,108,louse,háo,"< Bantu",L,33,
+38648,109,mosquito,móka,,,"1,111",
+39005,110,spider,hála,"kala ( Malay ) < kala ( Sanskrit )",L,,
+39362,111,fish,haza-n-dráno,,,,
+131250,111,fish,trondro,"(not Austronesian)",,,
+131251,111,fish,laoka,"X = any side-dish",,,
+39719,112,rotten,dródroka,,,,
+40076,113,branch,rántsana,"< Malay rancang",L,63,
+40433,114,leaf,rávina,,,1,1
+40790,115,root,fáka,,,,?
+41147,116,flower,vóny,,,1,1
+41504,117,fruit,vóa,,,1,1
+41861,118,grass,áhitra,,,34,
+42218,119,earth/soil,tány,,,1,1
+42575,120,stone,váto,,,1,1
+42932,121,sand,fásika,"pasir (Malay)",L,18,
+43289,122,water,ráno,,,10,1
+43646,123,"to flow",mi-válana,,,,
+44003,124,sea,ranomásina,,,,
+44360,125,salt,síra,"(garam) sira (Malay)",L,1,1
+44717,126,lake,faríhy,"perigi (Malay)",L,,
+45074,127,woods/forest,ála,,,1,1
+45431,128,sky,lánitra,,,1,1
+45788,129,moon,vólana,,,1,1
+46145,130,star,kíntana,,,,
+46502,131,cloud,ráhona,,,1,?
+46859,132,fog,závona,,,27,?
+47216,133,rain,orana,,,1,1
+47573,134,thunder,kótroka,,,2,1?
+47930,135,lightning,hélatra,,,1,1
+131196,135,lightning,tselatra,,,1,
+48287,136,wind,rívotra,"ribut (Malay)",L,,
+48644,137,"to blow",mi-tsóka,"tiup (Malay)",L,"1,19",1?
+49001,138,warm,ma-fána,,,1,1
+49358,139,cold,mangatsíaka,"< South Sulawesi, maN- + ha-tsiaka",L,130,
+135225,139,cold,hatsìaka,x,L,,
+135226,139,cold,nàra,,,,
+49715,140,dry,máina,,,113,
+50072,141,wet,kótsa,,,119,
+50429,142,heavy,ma-vésatra,"< Malay",L,1,1
+50786,143,fire,áfo,,,1,1
+51143,144,"to burn",man-dóro,,,98,
+51500,145,smoke,sétroka,,,90,
+51857,146,ash,lavénona,,,95,
+52214,147,black,má-inty,,,1,1
+52571,148,white,fótsy,"not SE Barito",L,1,1
+52928,149,red,ména,"regular tendency: *NVyVC > *NVNVC",,"1,39",1?
+53285,150,yellow,vóny,,,98,
+133459,150,yellow,mavo,,,99,
+53642,151,green,ma-itso,,L,25,
+53999,152,small,kély,,,126,?
+54356,153,big,lehibé,"root = be",,46,
+54713,154,short,fóhy,"< Bantu",L,47,
+55070,155,long,láva,,,"27, 101",
+55427,156,thin,ma-nífy,,,1,1
+55784,157,thick,ma-tévina,,,26,1
+56141,158,narrow,éty,,,88,
+56498,159,wide,ma-lálaka,,,27,
+56855,160,"painful, sick",ma-ráry,,,118,
+57212,161,"shy, ashamed",hénatra,,,80,
+57569,162,old,ántitra,,,72,
+57926,163,new,váo,,,1,1
+58283,164,good,tsára,"acara (Malay) < ācāra- (Sanskrit)",L,,
+58640,165,"bad, evil",rátsy,,,116,
+58997,166,"correct, true",márina,,,20,
+344966,166,"correct, true",tò,,,6,
+59354,167,night,álina,"< *alem",,20,
+59711,168,day,ándro,,,1,1
+60068,169,year,táona,,,1,1
+60425,170,when?,ovíana,,,86,
+60782,171,"to hide",ma-nítrika,X,,,
+344964,171,"to hide",mi-èry,intrans.,,,
+344965,171,"to hide",mi-àfina,intrans.,,3,
+61139,172,"to climb",mi-ákatra,,,33,
+61496,173,at,aN-,,,22,
+61853,174,"in, inside",anáty,,,74,
+62210,175,above,ambóny,,,"2, 27",
+62567,176,below,ambány,,,1,
+62924,177,this,ity,,,10,
+81470,178,that,áo,,,61,1?
+81471,178,that,ány,,,,1?
+63638,179,near,akéky,,,117,
+63995,180,far,lávitra,,,100,
+64352,181,where?,áiza,,,89,
+64709,182,I,iz[áho],,,1,1
+65066,183,thou,hianáo,"< *iha + nao",,"36, 37",
+65423,184,he/she,ízy,,,1,1
+121471,185,we,isíka,"(incl.); *hi + *tika(N)  (+ metath.) +*kam",,"2, 75",
+121472,185,we,izaháy,"izahay (excl)",,76,
+66137,186,you,hianaréo,"< *iha + *nau(n) + (i)re + u",,9,
+66494,187,they,ízy,"< *iye < *hi + *ie",,1,
+66851,188,what?,ínona,,,61,
+67208,189,who?,izáy,,,59?,?
+67565,190,other,háfa,,,70,
+67922,191,all,rehétra,,,,
+82499,192,and,sy,,,66,1?
+82500,192,and,ary,,,67,1?
+82501,192,and,ka,,,1,1?
+68636,193,if,ráha,,,88,
+68993,194,how?,ahóana,,,70,
+82704,195,"no, not",tsy,"< (Old) Malay *tey, *ti",L,68,
+82705,195,"no, not",tsia,"< (Old) Malay *tey, *ti",L,68,
+69707,196,"to count",man-ísa,,,87,
+70064,197,One,ísa,,,1,1
+70421,198,Two,róa,,,1,1
+70778,199,Three,télo,,,1,1
+71135,200,Four,éfatra,,,1,1
+89940,201,Five,dimy,,,1,
+89941,202,Six,enina,,,1,
+89942,203,Seven,fito,,,1,
+89943,204,Eight,valo,,,3,
+89944,205,Nine,sivy,,,5,
+89945,206,Ten,folo,,,5,
+89948,207,Twenty,roapolo,,,"3,6",
+89949,208,Fifty,dimampolo,,,"1,2",
+89946,209,"One Hundred",jato,,,"4,15",
+121448,209,"One Hundred",zato,,,"4,15",
+89947,210,"One Thousand",arivo,"ribu (Malay)",L,"5,4",

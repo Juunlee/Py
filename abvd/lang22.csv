@@ -1,0 +1,241 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+22,"Timugon (Murut)","Jack Prentice",tih,timu1262,,,"Austronesian, Malayo-Polynesian, North Borneo, North Sarawakan, Dayic, Murutic, Murut","Penny Keenan","Simon Greenhill","@misc{Prentice-22-2005,  author = \"Jack Prentice\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+5.00000000000000000000,116.00000000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+83876,1,hand,kalinduq,fingers,,,
+83877,1,hand,loŋon,arm,,37,
+83878,1,hand,palad,palm,,x,
+379,2,left,kait,,,,
+736,3,right,pamiris,,,,
+1093,4,leg/foot,kalayam,,,,
+83970,5,"to walk",ugad,"ugad = mly (ber)jalan",,,
+83971,5,"to walk",oŋoy,"oŋoy = (mly) pergi",,,
+1807,6,road/path,dalan,,,1,1
+2164,7,"to come",-datoŋ,,,14,
+2521,8,"to turn",-lisaŋ,,,,
+2878,9,"to swim",-saduy,,,1?,?
+3235,10,dirty,-jamol,,,26,
+87970,11,dust,jamol,dirt,,,
+3949,12,skin,kuŋkuŋ,,,,
+4306,13,back,bakuluŋ,,,27,
+4663,14,belly,tinaiq,,,"19, 34",
+5020,15,bone,tulaŋ,,,1,1
+5377,16,intestines,tinaiq,,,1,1
+5734,17,liver,aŋkayaw,,,,
+6091,18,breast,titiq,,,6,
+6448,19,shoulder,limbawo,,,1?,?
+6805,20,"to know, be knowledgeable",-panday,,,23,
+7162,21,"to think",-kadaq,,,,
+7519,22,"to fear",-laaq,,,,
+7876,23,blood,dadaaq,,,1,1
+8233,24,head,ulu,,,1,1
+8590,25,neck,liog,,,1,1
+8947,26,hair,abuk,,,"1,53",1
+9304,27,nose,aduŋ,,,1,1
+9661,28,"to breathe",-painawo,,,1,1
+10018,29,"to sniff, smell",-alok,,,1,1
+10375,30,mouth,kabaŋ,,,,
+10732,31,tooth,dipon,,,1,1
+11089,32,tongue,dilaq,,,4,1
+11446,33,"to laugh",-kudit,,,,
+11803,34,"to cry",-taŋiq,,,1,1
+12160,35,"to vomit",-luaq,,,8,
+12517,36,"to spit",-tiwog,,,,
+12874,37,"to eat",-akan,,,1,1
+73297,38,"to chew",-sapaq,,,17,
+73298,38,"to chew",-intat,,,,
+89653,39,"to cook",-ansak,,,19,1
+89654,39,"to cook",-tanok,,,1,
+13945,40,"to drink",-inum,,,1,1
+89742,41,"to bite",kokot,animals,,1,1
+89743,41,"to bite",tinduk,"reptiles & birds",,,
+89744,41,"to bite",iit,insects,,,
+14659,42,"to suck",-tiop,,,,?
+15016,43,ear,taliŋo,,,1,1
+15373,44,"to hear",-doŋog,,,1,1
+15730,45,eye,mato,,,1,1
+16087,46,"to see",-kito,,,1,1
+16444,47,"to yawn",-uab,,,19,1
+16801,48,"to sleep",-boloŋ,,,,
+17158,49,"to lie down",-luyaq,,,,
+17515,50,"to dream",-inuqi,,,1,1
+17872,51,"to sit",-tuduŋ,,,98,
+18229,52,"to stand",-bigod,,,,
+18586,53,"person/human being",ulun,,,17,
+18943,54,man/male,uŋkuyon,,,,
+19300,55,woman/female,duandoq,,,,
+91115,56,child,anak,"son & daughter",,1,1
+91116,56,child,lalaiŋ,"boy & girl",,,
+20014,57,husband,dalaki,,,28,
+20371,58,wife,anduq,,,36,
+20728,59,mother,inaq,,,1,1
+21085,60,father,amaq,,,1,1
+21442,61,house,baloy,,,14,
+21799,62,thatch/roof,taap,(<M),,1?,1?
+22156,63,name,iŋg|galan,,,1,1
+91400,64,"to say",-indagu,speak,,,
+91401,64,"to say","koon nu","past - it is said + N",,,
+22870,65,rope,tali,,,1,1
+23227,66,"to tie up, fasten",-dukug,,,,
+23584,67,"to sew",-pikit,,,,
+23941,68,needle,jadum,,L,,
+24298,69,"to hunt",-lulaq,,,,
+24655,70,"to shoot",-sapuk,"[w. blowpipe]",,,
+25012,71,"to stab, pierce",-tobok,,,24,
+25369,72,"to hit",-lambaq,,,,
+25726,73,"to steal",-takow,,,1,1
+26083,74,"to kill",-patoy,,,22,
+26440,75,"to die, be dead",-patoy,,,1,1
+26797,76,"to live, be alive",-biag,,,13,
+27154,77,"to scratch",-kukut,,,21,
+27511,78,"to cut, hack",-putul,,,,
+27868,79,stick/wood,tataun,,,5,
+28225,80,"to split",-lapaq,,,,
+28582,81,sharp,-ladom,,,1?,1?
+28939,82,"dull, blunt",-ŋaŋol,,,,
+29296,83,"to work",-kandoy,,,,
+29653,84,"to plant",-tanom,,,2,1
+30010,85,"to choose",-piliq,,,1,1
+30367,86,"to grow",-tuuq,,,"1,25",1
+30724,87,"to swell",-lanit,,,,
+31081,88,"to squeeze",-pagaq,,,1,1
+31438,89,"to hold",-oŋgom,,,1,1
+31795,90,"to dig",-kali,,,1,1
+32152,91,"to buy",-bali,,,1,1
+32509,92,"to open, uncover",-ukab,,,28,
+32866,93,"to pound, beat",-tutu,,,20,1
+33223,94,"to throw",-bobol,,,28,
+33580,95,"to fall",-datuq,,,28,
+33937,96,dog,ukuq,,,20,
+34294,97,bird,susuit,,,18,
+34651,98,egg,taluq,,,1,1
+35008,99,feather,bulu,,,1,1
+35365,100,wing,kawo,,,,
+35722,101,"to fly",-siab,,,,
+36079,102,rat,tikus,,,22,
+36436,103,meat/flesh,umas,,,,
+36793,104,fat/grease,lomok,,,24,
+37150,105,tail,ikuq,,,1,1
+37507,106,snake,kukuo,,,,
+37864,107,"worm (earthworm)",liŋguaŋ,,,19,
+38221,108,louse,kutu,,,1,1
+38578,109,mosquito,namuk,,,1,1
+38935,110,spider,lawaq,,,1,1
+39292,111,fish,papait,,,17,
+39649,112,rotten,-[b]otoŋ,,,,
+40006,113,branch,daan,,,1,1
+40363,114,leaf,daun,,,1,1
+40720,115,root,bakat,,,2,1?
+41077,116,flower,busak,,,23,
+41434,117,fruit,kawaq,,,,
+41791,118,grass,sakot,,,23,
+42148,119,earth/soil,tanaq,,,1,1
+42505,120,stone,batu,,,1,1
+42862,121,sand,agis,,,,
+43219,122,water,timug,,,,
+43576,123,"to flow",-taas,,,,
+43933,124,sea,daat,,,25,
+107815,125,salt,usiq,[N],,,
+107816,125,salt,-[b]asin,[Adj.],,,
+44647,126,lake,luogon,,,,
+45004,127,woods/forest,kataunan,,,2?,
+45361,128,sky,dasawat,,,,
+45718,129,moon,bulan,,,1,1
+46075,130,star,butitin,,,1,?
+46432,131,cloud,gaun,,,1,1
+46789,132,fog,gaun,,,,
+47146,133,rain,dasam,,,,
+47503,134,thunder,tiŋkalud,,,,
+47860,135,lightning,ganit,,,,
+48217,136,wind,aŋin,,,1,1
+48574,137,"to blow",-sampuy,,,,
+48931,138,warm,-lasuq,,,22,
+49288,139,cold,-simuq,,,,
+49645,140,dry,-puaq,,,,
+50002,141,wet,-[b]asaq,,,1,1
+50359,142,heavy,-[b]agat,,,1,1
+50716,143,fire,apuy,,,1,1
+51073,144,"to burn",-solob,,,"22,14",
+51430,145,smoke,lisun,,,19,
+79571,146,ash,k|au,,,68,1
+79572,146,ash,kaaw,,,1,1
+52144,147,black,-itom,,,1,1
+52501,148,white,-pulak,,,3,
+52858,149,red,-liaq,,,,
+53215,150,yellow,-silow,,,,
+53572,151,green,-sansam,,,,
+53929,152,small,bobodok,,,,
+54286,153,big,-[g]ayo,,,39,1
+80085,154,short,-ganaq,,,22?,
+80086,154,short,diwaq,,,,
+55000,155,long,-[g]awad,,,,
+55357,156,thin,-nipis,,,1,1
+55714,157,thick,-kapal,,,1,1
+56071,158,narrow,-pisok,,,,
+56428,159,wide,-pilaq,,,,
+56785,160,"painful, sick",-duol,,,,
+57142,161,"shy, ashamed",-uyuq,,,,
+57499,162,old,-tuo,,,1,1
+57856,163,new,-[b]agu,,,1,1
+58213,164,good,-[b]ansoy,,,,
+58570,165,"bad, evil",-laat,,,1,1
+58927,166,"correct, true",-topot,,,,
+59284,167,night,dondom,,,11,
+59641,168,day,odow,,,12,1
+59998,169,year,bilod,,,,
+60355,170,when?,saŋg|ilan,,,1,1
+60712,171,"to hide",-isisibuni,,,1,1
+81018,172,"to climb",-aloy,,,,
+81019,172,"to climb",kiwaq,,,,
+61426,173,at,da,,,24?,
+61783,174,"in, inside","da [lalom]",,,1,1
+62140,175,above,"da sawat",,,,
+62497,176,below,"da ganaq",,,,
+62854,177,this,gitio,,,10,
+81437,178,that,ginio,,,,
+81438,178,that,gili,,,,
+63568,179,near,-maad,,,,
+63925,180,far,-[g]alud,,,,
+64282,181,where?,ati,,,,
+81766,182,I,aku,,,1,1
+81767,182,I,ku,,,1,1
+81768,182,I,daklq,,,1,1
+81850,183,thou,[o]kow,,,1,1
+81851,183,thou,mu,,,1,1
+81852,183,thou,didun,,,1,1
+81926,184,he/she,io,,1,,1
+81927,184,he/she,no,,,,1
+81928,184,he/she,diso,,,,1
+123754,185,we,"[i] to",,,1,1
+123755,185,we,to,,,,
+123756,185,we,dito,,,1,
+123757,185,we,[i]takaw,,,1,
+123758,185,we,takaw,,,,
+123759,185,we,ditakaw,,,,
+123760,185,we,akay,,,,
+123761,185,we,may,,,2,
+123762,185,we,damon,,,,
+82025,186,you,[a]kaw,,,21,1?
+82026,186,you,min,,,,1?
+82027,186,you,da|muyu|n,,,"1,13",1?
+82114,187,they,ilo,,,1,1
+82115,187,they,nilo,,,1,1
+82116,187,they,disilo,,,1,1
+66781,188,what?,atan,,,,
+67138,189,who?,osoy,,,1,1
+67495,190,other,bokon,,,10,
+67852,191,all,ŋqiq-ŋaiq,,,,
+68209,192,and,om,,,,
+123164,193,if,nu,"[pro] nu [hypo]",,2,1
+123165,193,if,amun,"amun [hypo] [pro]",,10,
+82624,194,how?,"ati kulaan",,,1?,1
+82625,194,how?,"ati kuson",,,1?,1
+123511,195,"no, not",kalo,"kalo + [VERB]",,,
+123512,195,"no, not",salaq,"salaq + [NOUN]",,,
+69637,196,"to count",-untob,,,,
+123393,197,One,saa[q],"in series",,1,1
+123394,197,One,dondoq,"in isolation",,,
+70351,198,Two,duo,,,1,1
+70708,199,Three,talu,,,1,1
+71065,200,Four,apat,,,1,1

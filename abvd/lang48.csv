@@ -1,0 +1,247 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+48,"Buginese (Soppeng Dialect)","Zainuddin Taha",bug,bugi1244,"Recopied from Taha, with additional from Fachruddin Ambo Enre and Mills (1975)","Andreea: replaced two instances of capital [S] with small [s], entries: 206 'ten' and 210 'one thousand'.","Austronesian, Malayo-Polynesian, South Sulawesi, Bugis","Debasish Roy","Simon Greenhill","@misc{Taha-48-2005,  author = \"Zainuddin Taha\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-4.71946556590760568639,119.76286300820129326894
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+48,1,hand,lima,,,"1,64",1
+71449,2,left,abeo,,,58,
+71450,2,left,abio,,,58,
+762,3,right,atau,,,"5, 40",1
+1119,4,leg/foot,aje,,,1?,?
+1476,5,"to walk",joppa,,,,
+173599,5,"to walk",jokka,,,,
+1833,6,road/path,laləŋ,,,1,1
+2190,7,"to come","lao komai",,,1,1
+2547,8,"to turn",ləsu,,,21?,
+2904,9,"to swim",naŋe,,,1,1
+3261,10,dirty,ma-rotaʔ,,,24,
+3618,11,dust,awu,"cf. 146",,1,
+71945,12,skin,oli,,,1,1
+71946,12,skin,uli,,,1,1
+4332,13,back,aləkkəʔ,,,1?,
+133488,13,back,monri,,,,
+4689,14,belly,baua,,,,
+5046,15,bone,buku,,,16,
+72129,16,intestines,paruu,,,23,
+72130,16,intestines,pəruu,,,23,
+5760,17,liver,ate,,,1,1
+6117,18,breast,susu,,,1,1
+93330,19,shoulder,salaŋkaŋ,,,1,
+6831,20,"to know, be knowledgeable",issəŋ,,,31,
+7188,21,"to think","man-nawa nawa",,,81,
+7545,22,"to fear",metauu,,,1,1
+7902,23,blood,dara,,,1,1
+8259,24,head,ulu,,,1,1
+8616,25,neck,əlloŋ,,,76,
+8973,26,hair,gəmməʔ,,,,
+9330,27,nose,iŋəʔ,,,76,
+9687,28,"to breathe",mañ-ñawa,,,1,1
+10044,29,"to sniff, smell",maŋ-əmmau,,,25?,
+10401,30,mouth,bawa,,,1,1
+10758,31,tooth,isi,,,"24,75",1
+11115,32,tongue,lila,,,4,1
+11472,33,"to laugh",macawa,,,1,1
+73056,34,"to cry",tarii,,,1,
+73057,34,"to cry",tərii,,,1,
+12186,35,"to vomit",tal-lua,,,8,
+73160,36,"to spit",mam-meccu,,,51,
+73161,36,"to spit",mam-miccu,,,51,
+12900,37,"to eat",manre,,,,
+13257,38,"to chew",ota,,,20?,
+13614,39,"to cook",man-nasu,,,3,1
+73462,40,"to drink",menuŋ,,,1,1
+73463,40,"to drink",minuŋ,,,1,1
+14328,41,"to bite",mak-kokko,,,"1,32",
+14685,42,"to suck",maŋ-iso,,,1,1
+15042,43,ear,doccili,,,,
+15399,44,"to hear",mar-eŋkaliŋa,,,"1,81",
+15756,45,eye,mata,,,1,1
+16113,46,"to see",mak-kita,,,1,1
+16470,47,"to yawn",maŋ-aleale,,,,
+16827,48,"to sleep",ma-tinro,,,25,?
+74002,49,"to lie down",lewuu,,,,
+74003,49,"to lie down",liwuu,,,,
+17541,50,"to dream",nipi,,,1,1
+17898,51,"to sit",tudaŋ,,,1,?
+18255,52,"to stand",təttoŋ,,,,
+18612,53,"person/human being",tau,,,1,1
+74215,54,man/male,orane,,,1,1
+74216,54,man/male,burane,,,1,1
+19326,55,woman/female,makunrai,,,,
+19683,56,child,anaʔ,,,1,1
+20040,57,husband,lakkai,,,28,
+20397,58,wife,baine,,,5,
+20754,59,mother,indoʔ,,,10,
+21111,60,father,amboʔ,,,13,
+21468,61,house,bola,,,14?,
+21825,62,thatch/roof,pabbiŋəŋ,,,,
+22182,63,name,asəŋ,,,"1, 54",1
+74766,64,"to say",mak-kədaa,,,,
+74767,64,"to say",pau,,,,
+22896,65,rope,tulu,,,,
+23253,66,"to tie up, fasten",mas-sio,,,,
+23610,67,"to sew",maʔ-jai,,,2,1
+23967,68,needle,jaruŋ,,,1,1
+24324,69,"to hunt",rəŋŋəŋ,,,,
+24681,70,"to shoot",maʔ-balliliʔ,,,12,
+75286,71,"to stab, pierce",maʔ-gajaŋ,,,,
+75287,71,"to stab, pierce",soppaʔ,,,,
+25395,72,"to hit",tətteʔ,,,,
+133487,73,"to steal",mennau,,,,
+26109,74,"to kill",maʔ-buno,,,1,1
+26466,75,"to die, be dead",mate,,,1,1
+26823,76,"to live, be alive",tuo,,,20,
+27180,77,"to scratch",mak-kakkaŋ,,,26,
+27537,78,"to cut, hack",təttaʔ,,,3,1
+27894,79,stick/wood,aju,,,1,1
+75847,80,"to split",pueʔ,,,,
+75848,80,"to split",pue,,,,
+28608,81,sharp,ma-tarəŋ,,,1,1
+28965,82,"dull, blunt",ma-kunru,,,,?
+29322,83,"to work",maʔ-jama,,,24,
+29679,84,"to plant",tanəŋ,,,2,1
+30036,85,"to choose",mile,,,1,1
+30393,86,"to grow",tuo,,,1,1
+30750,87,"to swell",bəkkaʔ,,,19,
+31107,88,"to squeeze",tassipi,,,,
+76423,89,"to hold",mak-katənni,,,,1
+76424,89,"to hold",warəkkəŋ,,,,1
+76425,89,"to hold",gəŋkəŋ,,,1,1
+31821,90,"to dig",mak-kae,,,1,
+32178,91,"to buy",əlli,,,1,1
+76619,92,"to open, uncover",timpaʔ,,,,1
+76620,92,"to open, uncover",buka,,,1,1
+102908,93,"to pound, beat",man-nampuʔ,,,6,1?
+102909,93,"to pound, beat",təttuʔ,,,2,
+33249,94,"to throw",maʔ-dempəʔ,,,,
+33606,95,"to fall",mabuəŋ,,,,
+33963,96,dog,asu,,,1,1
+34320,97,bird,"manuʔ manuʔ",,,1,1
+34677,98,egg,[it]təllo,,,1,1
+35034,99,feather,bulu,,,1,1
+35391,100,wing,panni,,,2,1
+35748,101,"to fly",luttu,,,,
+36105,102,rat,balawo,,,1,1
+36462,103,meat/flesh,juku,,,,
+36819,104,fat/grease,lunraʔ,,,,
+37176,105,tail,ikkoʔ,,,1,1
+37533,106,snake,ula,,,2,1
+37890,107,"worm (earthworm)",[a]lati,,,1,1
+38247,108,louse,utu,,,1,1
+93336,109,mosquito,namoʔ,,,1,
+38961,110,spider,garaŋkaŋ,"a \"big spider\" - a type of spider",,20,
+93337,110,spider,lawa-lawa,"general term",,1,
+39318,111,fish,bale,,,23,
+39675,112,rotten,ma-kəbboŋ,,,,
+40032,113,branch,takke,,,10,
+40389,114,leaf,dauŋ,,,1,1
+40746,115,root,urəʔ,,,1,1
+41103,116,flower,buŋa,,,1,1
+41460,117,fruit,bua,,,1,1
+77969,118,grass,sarii,,,,
+77970,118,grass,sərii,,,,
+42174,119,earth/soil,tana,,,1,1
+42531,120,stone,batu,,,1,1
+42888,121,sand,kəssiʔ,,,24,
+43245,122,water,uae,,,2?,1
+43602,123,"to flow",mas-soloʔ,,,23,
+43959,124,sea,tasiʔ,,,1,1
+44316,125,salt,pəjje,,,,
+44673,126,lake,tappárəŋ,,,14,
+45030,127,woods/forest,aləʔ,,,1,1
+45387,128,sky,laŋi,,,1,1
+78546,129,moon,wuləŋ,,,1,1
+78547,129,moon,uləŋ,,,1,1
+78583,130,star,wittaiŋ,,,1,1
+78584,130,star,wittuiŋ,,,1,1
+46458,131,cloud,əlluŋ,,,,
+78699,132,fog,salewu,,,25,
+78700,132,fog,saliwu,,,25,
+47172,133,rain,bosi,,,15,
+78790,134,thunder,guttu,,,30,?
+78791,134,thunder,lətte,,,49,?
+47886,135,lightning,billəʔ,,,1?,
+48243,136,wind,aŋiŋ,,,1,1
+48600,137,"to blow",mat-tappoʔ,,,,
+48957,138,warm,ma-pəlla,,,,
+49314,139,cold,ma-kəcceʔ,,,130,
+49671,140,dry,ma-rakko,,,1,
+50028,141,wet,ma-ricaʔ,,,,
+50385,142,heavy,ma-tanəʔ,,,,
+50742,143,fire,api,,,1,1
+51099,144,"to burn",mat-tunu,,,1,1
+51456,145,smoke,rumpu,,,25,
+51813,146,ash,awu,,,1,1
+52170,147,black,ma-lotoŋ,,,35,
+52527,148,white,ma-pute,,,1,1
+52884,149,red,ma-cəllaʔ,,,,
+53241,150,yellow,ma-ridi,,,29,
+53598,151,green,ma-kudaraʔ,,,,
+79854,152,small,ma-biccuʔ,,,,
+79855,152,small,ma-rənniʔ,,,,
+54312,153,big,ma-raja,,,1,1
+54669,154,short,ma-poncoʔ,,,,
+55026,155,long,ma-lampe,,,30,
+55383,156,thin,ma-nipi,,,1,1
+55740,157,thick,ma-umpəʔ,,,,
+80238,158,narrow,ma-cikkəʔ,,,1?,
+80239,158,narrow,ma-cipi,,,,
+56454,159,wide,ma-sakka,,,20,
+56811,160,"painful, sick",pəddi,,,23,
+57168,161,"shy, ashamed",siriʔ,,,19,
+80476,162,old,ma-toa,,,1,1
+80477,162,old,ma-tua,,,1,1
+57882,163,new,ma-baru,,,1,1
+58239,164,good,ma-deceŋ,,,,
+58596,165,"bad, evil",ma-jaa,,,1,1
+58953,166,"correct, true",toŋəŋ,,,22,
+59310,167,night,wənni,,,1,1
+59667,168,day,əsso,,,"1,59",1
+60024,169,year,tauŋ,,,1,1
+60381,170,when?,uppanna,,,1?,
+133465,171,"to hide",maʔkasubbu,,,,
+61095,172,"to climb",tukaʔ,,,20,
+61452,173,at,ri,,,20,1
+61809,174,"in, inside","ri laləŋ",,,1,1
+93329,175,above,"ri aseʔ",,,62,
+93335,175,above,yaséʔ,,,62,
+93328,176,below,"ri awa",,,1,
+93334,176,below,yawa,,,1,
+62880,177,this,ia-e,,,11?,
+81451,178,that,ia-tu,,,16,1
+81452,178,that,ia-ro,,,1,1
+63594,179,near,ma-caweʔ,,,,
+63951,180,far,ma-bela,,,29,
+64308,181,where?,kegi,,,,
+64665,182,I,iaʔ,,,"1,32",?
+65022,183,thou,iko,,,1,1
+65379,184,he/she,ia,,,1,1
+81985,185,we,idiʔ,,,1,
+81986,185,we,ikkəŋ,,,"2, 69",
+66093,186,you,"iko manəŋ",,,21,
+66450,187,they,ia-manəŋ,,,,
+66807,188,what?,aga,,,1,
+67164,189,who?,niga,"Bob - is this really cognate?",,,1
+67521,190,other,laiŋ,,L,,
+67878,191,all,manəŋ,,,,
+82485,192,and,sibawa,,,,1
+82486,192,and,na,,,2,1
+82574,193,if,nakko,,,,
+82575,193,if,rekko,,,,
+68949,194,how?,pekua,,,1,1
+69306,195,"no, not",de,,,2,
+69663,196,"to count",bilaŋ,,,1,1
+70020,197,One,seʔdi,,,1,
+70377,198,Two,dua,,,1,1
+70734,199,Three,təllu,,,1,1
+71091,200,Four,əppa,,,1,
+83795,201,Five,lima,,,1,
+89619,202,Six,ənnəŋ,,,1,
+89620,203,Seven,fitu,,,1,
+89621,204,Eight,arua,"SA: this is lit. 'minus two'",,,
+89622,205,Nine,asera,"SA: lit. 'minus one': see Maloh sera 'one'",,14,
+89623,206,Ten,səppulo,,,5,
+93333,207,Twenty,duappulo,,,"3,6",
+93332,208,Fifty,limappulo,,,"1,2",
+93331,209,"One Hundred",səratuu,,,4,
+89624,210,"One Thousand",sisəbbu,,,5,

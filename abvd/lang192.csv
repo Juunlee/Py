@@ -1,0 +1,256 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+192,Wolio,"J.C. Anceaux",wlo,woli1241,,,"Austronesian, Malayo-Polynesian, Celebic, Wotu-Wolio, Wolio-Kamaru","Penny Keenan","Simon Greenhill","@book{309688,  address    = {Dordrecht},  publisher  = {Foris Publications Holland},  title      = {Wolio dictionary = Kamus bahasa Wolio: Wolio, Inggris, Indonesia},  year       = {1987},  bibtexkey  = {anceaux_wolio-kamus1987},  hhtype     = {dictionary},  inlg       = {Indonesian [ind]},  src        = {bahasa},  srctrickle = {bahasa#atmajaya3919},  author     = {Anceaux, J. C.}}"
+latitude,longitude
+-5.76494403414825740128,123.89892715744389306565
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+192,1,hand,lima,,,"1,64",1
+549,2,left,kuai,(<A?),,"1,42",1(
+906,3,right,kaana,,,"1,73",1
+1263,4,leg/foot,ae,,,1,1
+1620,5,"to walk",liŋka,,,20,
+1977,6,road/path,dala,,,1,1
+71660,7,"to come",mai,,,1,1
+71661,7,"to come",kawa,,,,1
+71662,7,"to come",umba,,,,1
+71746,8,"to turn",lari,,,,?
+71747,8,"to turn",gili,,,70,?
+71748,8,"to turn",beŋku,,,,?
+3048,9,"to swim",poŋano,(<M),,1,1
+71842,10,dirty,marombu,,,32,
+71843,10,dirty,marewu,,,32,
+3762,11,dust,ŋawu,,,1,1
+4119,12,skin,kuli,,,1,1
+72025,13,back,taliku,,,1,1
+72026,13,back,toruku,,,1,1
+4833,14,belly,kompo,,,2,
+5190,15,bone,buku,,,16,
+5547,16,intestines,ŋkaluŋkalu,,,,
+5904,17,liver,ate,,,1,1
+72199,18,breast,dudu,,,15,1
+72200,18,breast,susu,,,1,1
+72235,19,shoulder,awaa,,,1,1
+72236,19,shoulder,salaŋga,,,1,1
+6975,20,"to know, be knowledgeable",matau,,,1,1
+7332,21,"to think",fikiri,"loan of 22?",L,22?,
+7689,22,"to fear",maeka,,,33,
+8046,23,blood,raa,,,1,1
+8403,24,head,baa,,,,
+8760,25,neck,boroko,,,77,
+9117,26,hair,bulua,,,31,
+9474,27,nose,aŋo,,,20,
+9831,28,"to breathe",poinuñca,,,,
+10188,29,"to sniff, smell",bou,,,,
+10545,30,mouth,muñcu,,,27,
+10902,31,tooth,ŋiñci,,,24,1
+11259,32,tongue,dela,(<Zelaq?),,4,1
+11616,33,"to laugh",potawa,,,1,1
+11973,34,"to cry",taŋi,,,1,1
+12330,35,"to vomit",tolua,,,8,
+12687,36,"to spit",pewilu,,,6,
+13044,37,"to eat",kande,,,"1?,20",?
+73328,38,"to chew",mama,,,1,1
+73329,38,"to chew",naŋku,,,,1
+73330,38,"to chew",paŋa,,,,1
+13758,39,"to cook",nasu,,,3,1
+14115,40,"to drink",sumpu,,,,
+73567,41,"to bite",bembaru,,,,
+73568,41,"to bite",papaki,,,,
+73569,41,"to bite",tompa,,,,
+14829,42,"to suck",gomi,,,17,
+15186,43,ear,taliŋa,,,1,1
+15543,44,"to hear",raŋo,,,1,1
+15900,45,eye,mata,,,1,1
+16257,46,"to see",kamata,,,,
+16614,47,"to yawn",pomea,,,,1(
+16971,48,"to sleep",kole,,,,
+17328,49,"to lie down",dole,,,23,
+17685,50,"to dream",poŋipi,,,1,1
+74069,51,"to sit",uncura,,,,?
+74070,51,"to sit",tootooro,,,1?,?
+18399,52,"to stand",kabalebale,,,,
+18756,53,"person/human being",mia,,,19,
+19113,54,man/male,umane,,,1,1
+19470,55,woman/female,bawine,,,"1,106",1
+19827,56,child,ana,,,1,1
+20184,57,husband,"mañcuana [umane]","cp 162",,1?,
+20541,58,wife,"mañcuana [bawine]","cp 162",,,
+20898,59,mother,ina,,,1,1
+21255,60,father,ama,,,1,1
+21612,61,house,baaua,,,7,
+21969,62,thatch/roof,pada,,,,
+22326,63,name,saro,,,,
+74821,64,"to say",pogau,,,24,
+74822,64,"to say",kooni,,,,
+74911,65,rope,rabuta,,,24,
+74912,65,rope,puloli,,,,
+23397,66,"to tie up, fasten",boke,,,29,
+23754,67,"to sew",posorumba,,,,
+24111,68,needle,sorumba,,,,
+24825,70,"to shoot",temba,,,49,
+75331,71,"to stab, pierce",toboki,,,24,
+75332,71,"to stab, pierce",sula,,,24,
+75411,72,"to hit",bebe,,,,
+75412,72,"to hit",rambi,,,,
+25896,73,"to steal",manako,,,1,1
+91855,74,"to kill",pekamate,,,2,
+91856,74,"to kill",poŋko,,,27,
+26610,75,"to die, be dead",mate,,,1,1
+26967,76,"to live, be alive",dadi,,,18,
+75639,77,"to scratch","[kalau gatal] kau",,,1,1
+75640,77,"to scratch",kaŋkaru,,,,1
+75641,77,"to scratch",karusi,,,44,1
+75735,78,"to cut, hack","[kayu] ndamu",,,,
+75736,78,"to cut, hack",laelae,,,,
+28038,79,stick/wood,kau,,,1,1
+28395,80,"to split",weta,,,,?
+28752,81,sharp,matada,,,36,1
+29109,82,"dull, blunt",makundu,,,,1(
+29466,83,"to work",karajaa,"[di sawah, dsb.]",,23,
+29823,84,"to plant",pombula,,,1,1?
+30180,85,"to choose",pili,,,1,1
+30537,86,"to grow",tuwu,,,1,1
+92571,87,"to swell",tente,,,,
+92572,87,"to swell",gende,,,,
+92573,87,"to swell",kamba,,,20,
+76380,88,"to squeeze",pisi,,,29,?
+76381,88,"to squeeze",pisiki,,,29,?
+31608,89,"to hold",keni,,,,
+31965,90,"to dig",seli,,,1,
+32322,91,"to buy",ali,,,1,1
+32679,92,"to open, uncover",buŋkale,,,1?,
+76697,93,"to pound, beat",purokoti,,,,
+76698,93,"to pound, beat",pasaki,,,,
+76772,94,"to throw",tuda,,,1,1
+76773,94,"to throw",banaka,,,,1
+76862,95,"to fall",ndawu,,,1,1
+76863,95,"to fall",kutibu,,,,1
+76864,95,"to fall",manduli,,,1,1
+34107,96,dog,mantoa,,,,
+34464,97,bird,manumanu,,,1,1
+34821,98,egg,ontolu,,,1,1
+35178,99,feather,bulu,,,1,1
+35535,100,wing,pani,,,2,1
+35892,101,"to fly",polaka,,,,
+36249,102,rat,bokoti,,,,
+36606,103,meat/flesh,dagi,,,26,
+36963,104,fat/grease,taba,,,23,
+37320,105,tail,lenci,,,,
+37677,106,snake,ulo,,,2,1
+77437,107,"worm (earthworm)",loloulo,,,1,1
+77438,107,"worm (earthworm)",lolati,,,1,1
+38391,108,louse,kutu,,,1,1
+77527,109,mosquito,buroto,"(kind of big spider)",,23,
+77528,109,mosquito,kawaowaode,,,,
+39105,110,spider,lawalawa,,,1,1
+77591,111,fish,ikane,,,1,1
+77592,111,fish,isa,,,1,1
+39819,112,rotten,mabuto,,,36,
+77740,113,branch,raha,,,1,?
+77741,113,branch,lae,,,,?
+40533,114,leaf,tawa,,,,
+40890,115,root,kulese,,,,
+105343,116,flower,kamba,,,21,1
+105344,116,flower,buŋa,,,1,
+41604,117,fruit,bake,,,11,
+41961,118,grass,rumpurumpu,,,27,
+42318,119,earth/soil,tana,,,1,1
+42675,120,stone,batu,,,1,1
+43032,121,sand,bone,,,2,1
+43389,122,water,uwe,,,2?,1
+43746,123,"to flow",siwulu,,,,
+78338,124,sea,tawo,,,27,
+78339,124,sea,andala,,,,
+44460,125,salt,gara,,L?,18,
+44817,126,lake,rano,,,1,1
+45174,127,woods/forest,koo,,,,
+78520,128,sky,laiana,,,1?,
+78521,128,sky,bula,,,,
+45888,129,moon,bula,,,1,1
+46245,130,star,kali[m]popo,,,20,
+46602,131,cloud,"ta'ina ŋalu",,,,
+46959,132,fog,gawu,,,1,1
+47316,133,rain,wao,,,,
+47673,134,thunder,guntu,,,30,
+78867,135,lightning,berese,,,,1
+78868,135,lightning,kila,,,1,1
+48387,136,wind,ŋalu,,,,
+48744,137,"to blow",towii,,,,
+79103,138,warm,mapane,,,"1, 72",1
+79104,138,warm,masodo,,,,1
+49458,139,cold,magari,,,1?,
+49815,140,dry,matuu,,,,?
+50172,141,wet,mabaho,,,1,1
+50529,142,heavy,matamo,,,,
+50886,143,fire,waa,,,,
+51243,144,"to burn",maŋau,,,,
+51600,145,smoke,ombu,,,13,
+79591,146,ash,walo,,,,
+79592,146,ash,rapu,,,1,
+52314,147,black,maeta,,,1,1
+52671,148,white,maputi,"(bulu - shade of something? That should not be white)",,1,1
+53028,149,red,male'i,,,1,
+53385,150,yellow,makuni,,,1,1
+53742,151,green,maijo,,,25,
+79900,152,small,maiidiidi,(<M),,1,1
+79901,152,small,makidikidi,(<M),,1,1
+80022,153,big,maoge,,,,
+80023,153,big,lewa,,,,
+54813,154,short,mampodo,,,1,1
+119436,155,long,malaŋa,,,31,
+119437,155,long,maarate,,,29,
+119438,155,long,marambe,,,30,
+55527,156,thin,manipi,,,1,1
+55884,157,thick,makapa,,,1,1
+56241,158,narrow,maseke,,,21,
+56598,159,wide,maewa,,,,?
+56955,160,"painful, sick",mapii,,,,
+57312,161,"shy, ashamed",maea,,,1,1
+119439,162,old,mañucuana,(human),,,
+119440,162,old,masae,(things),,x,
+58026,163,new,bau,,,1,1
+58383,164,good,malápe,,,,
+58740,165,"bad, evil",madaki,,,1?,
+59097,166,"correct, true",totuu,,,6,?
+59454,167,night,malo,,,25,1
+59811,168,day,eo,,,20,1
+60168,169,year,tao,,,1,1
+132646,170,when?,naipiaʔ,"[in future]",,,
+132647,170,when?,piamo,"[in past]",,1,1
+80998,171,"to hide",opo,,,,1
+80999,171,"to hide",buniaka,,,1,1
+61239,172,"to climb",pene,,,1,1
+61596,173,at,i,,,1,1
+61953,174,"in, inside","[i] nuñca",,,,
+62310,175,above,"[i] bawo",,,2,1
+62667,176,below,"i tambe",,,,
+63024,177,this,sii,,,,
+63381,178,that,humai,,,,
+81605,179,near,makasu,,,,?
+81606,179,near,marampi,,,25,?
+64095,180,far,marido,,,,
+64452,181,where?,"i apai",?,,,
+64809,182,I,"i aku",,,1,1
+65166,183,thou,iŋkoo,,,1,1
+65523,184,he/she,iñcia,,,1,1
+119441,185,we,iŋkita,,,1,1
+119442,185,we,iŋkami,,,2,
+66237,186,you,iŋkomiu,,,"1,13",1
+66594,187,they,"[maŋa] incia",,,,
+66951,188,what?,opeaʔ,,,"12?,1?",
+67308,189,who?,incemaʔ,"(Cp. Mori)",,16,?
+67665,190,other,mosagaanana,,,,
+82427,191,all,baribaria,,,28,
+82428,191,all,maliŋu,,,,
+82525,192,and,tee,,,1?,1
+82526,192,and,ko,,,1,1
+82602,193,if,ne,,,2?,
+82603,193,if,ande,,,,
+69093,194,how?,"tua apaʔ",,,1,?
+69450,195,"no, not",indaa,,,27,
+69807,196,"to count",lentu,,,23,?
+70164,197,One,ʔise,,,1,1
+82912,198,Two,jua,,,1,1
+82913,198,Two,-rua,,,1,1
+70878,199,Three,talu,,,1,1
+83044,200,Four,apa,,,1,1
+83045,200,Four,pata,,,1,1

@@ -1,0 +1,232 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+116,Rotuman,"Hans Schmidt",rtm,rotu1241,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, West Fijian-Rotuman, Rotuman","Peng Du","Simon Greenhill","@misc{Schmidt-116-2005,  author = \"Hans Schmidt\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-12.78636338583119069767,177.13808727704139300840
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+71411,1,hand,"'ū hapa",,,,
+71412,1,hand,"si' hapa",,,,
+473,2,left,sema,,,11,
+830,3,right,'atmại,,,7,
+1187,4,leg/foot,lā,,,30,
+1544,5,"to walk",la'o,,,1,1
+1901,6,road/path,sala,,,1,1
+2258,7,"to come",teu,,,,
+2615,8,"to turn",furi,,,15,
+2972,9,"to swim",rạpi,,,,
+3329,10,dirty,perapera,,,7,
+3686,11,dust,kefkefu,"\"f\"< Pn; POc *p > Rot h (L from PN)",L,1,
+4043,12,skin,'uli,,,1,1
+4400,13,back,fomafua,"*t >f",,11,
+4757,14,belly,'efe,,,7,
+5114,15,bone,sui,,,52,
+5471,16,intestines,finäe,,,1,1
+5828,17,liver,äfe,,,1,1
+6185,18,breast,susu,,,1,1
+6542,19,shoulder,uma,"regularly cognate but impossible to distinguish from loan",,10,
+6899,20,"to know, be knowledgeable",'inea,,,,
+7256,21,"to think",a'häe,,,,
+7613,22,"to fear",feā,,,92,
+7970,23,blood,toto,"L from PN",L,4,
+8327,24,head,filo'u,,,,
+8684,25,neck,kia,"L from Tongan, Niuean, or East Uvean",L,20,
+9041,26,hair,leva,,,,
+9398,27,nose,isu,,,1,1
+9755,28,"to breathe",huga,,,,
+10112,29,"to sniff, smell",huga,,,9,
+10469,30,mouth,nuju,,,2,
+10826,31,tooth,ala,,,,
+11183,32,tongue,alele,,,15,
+11540,33,"to laugh",kahā,,,7,
+11897,34,"to cry",ou,,,,
+12254,35,"to vomit",mumufa,,,1,1
+12611,36,"to spit",ạnusi,,,"14,84",
+12968,37,"to eat",'ā,"L from PN",L,"1,47",1
+13325,38,"to chew",mama,,,1,1
+13682,39,"to cook",funu,,,9,
+14039,40,"to drink",'imo,,,,
+14396,41,"to bite",'ạfi,,,1,1
+14753,42,"to suck",kuji,,,,
+15110,43,ear,faliga,,,1,1
+15467,44,"to hear",a'fại,,,,
+15824,45,eye,mafa,,,1,1
+16181,46,"to see",räe,,,,
+16538,47,"to yawn",muaväe,,,19,
+16895,48,"to sleep",mose,,,10,
+17252,49,"to lie down",taktaka,,,,
+17609,50,"to dream","räe mose",,,,
+17966,51,"to sit",päe,,,,
+18323,52,"to stand",fū,,,2,1
+18680,53,"person/human being",famori,"cp. Nguna",,"4, 7",
+19037,54,man/male,fā,,,,
+19394,55,woman/female,hạni,,,,
+19751,56,child,le'e,,,,
+20108,57,husband,väväne,,,13,
+20465,58,wife,hạina,,,2?,
+20822,59,mother,o'honi,,,,
+21179,60,father,ö'fā,,,,
+21536,61,house,rī,,,,
+21893,62,thatch/roof,hata,,,1,
+22250,63,name,asa,,,"1,18",1
+22607,64,"to say",'ea,,,88,
+22964,65,rope,lū'äpe,,,,
+23321,66,"to tie up, fasten",'o'oro,,,,
+75085,67,"to sew",susu,,,17,
+75086,67,"to sew",tui,"L from PN",L,"13, 16",
+24035,68,needle,si'a,"net needle",,9,
+24392,69,"to hunt",jau,,,,
+24749,70,"to shoot",fana,"*p > h (L from PN)",,1,1
+25106,71,"to stab, pierce",kō,,,100,
+25463,72,"to hit",jav'ạki,,,,
+25820,73,"to steal",hana'o,,,"1,58",1
+26177,74,"to kill",al'ạki,,,,
+26534,75,"to die, be dead",ala,,,,
+26891,76,"to live, be alive",mauri,"Schmidt 2003 claims this is a loan from Samoan or E. Uvean; PCP *q > ∅, so I think this is impossible to detect indirect inheritance in this case.",,"1, 76",1
+27248,77,"to scratch",sạhi,,,,
+27605,78,"to cut, hack",fại,,,1,
+27962,79,stick/wood,'ại,,,1,1
+28319,80,"to split",fa'a,"L from Tongan",L,"5, 96",
+28676,81,sharp,'ā,"L from E Futunan, Tokelau, or N Outliers",L,"14,15",
+29033,82,"dull, blunt",marari,,,,
+76048,83,"to work",garue,"L from PN",L,11,
+76049,83,"to work",veko,,,,
+29747,84,"to plant",hao,,,,
+30104,85,"to choose",hili,,,1,1
+30461,86,"to grow",fupu,,,1,1
+30818,87,"to swell",hula,,,7,
+31175,88,"to squeeze",hō,,,"8,2, 93",1
+31532,89,"to hold",sapo,,,15,
+31889,90,"to dig",ạ'u,,,,
+32246,91,"to buy",togi,"L from E Futunan, E Uvean, Tongan, Samoan, or Niue",L,10?,
+32603,92,"to open, uncover",säe,,,,
+32960,93,"to pound, beat",tuki,"POc *k >ʔ (L from PN)",L,2,1
+33317,94,"to throw",kir'ạki,,,79?,
+33674,95,"to fall",vili,,,86,
+34031,96,dog,kạmia,,,,
+34388,97,bird,"mạnmạn ferfere",,,1,1?
+34745,98,egg,kalofi,,,,
+35102,99,feather,lalạvi,,,,
+35459,100,wing,papạ'u,"POc *p > h, so likely L from PN that has since undergone internal change.",L,"1,59",
+35816,101,"to fly",fere,,,11,
+36173,102,rat,pija,,,,
+77215,103,meat/flesh,tiko,,,10,
+77216,103,meat/flesh,'i'ini,,,,
+36887,104,fat/grease,lolo,,,,
+37244,105,tail,reu,,,,
+37601,106,snake,'alete,,,,
+37958,107,"worm (earthworm)",kermutu,"L from E Futunan, E Uvean, Niuean, Toongan, Tookelauan, or Tuvaluan",L,9,
+38315,108,louse,ʔufu,,,1,1
+38672,109,mosquito,rạmu,,,1,1?
+77564,110,spider,amamu,,,,
+77565,110,spider,fu'fu'u,,,,
+77566,110,spider,mat'ao'ao,,,,
+39386,111,fish,i'a,,,1,1
+39743,112,rotten,para,"L from PN",L,13,
+40100,113,branch,rā,,,1,1
+40457,114,leaf,rau,,,1,1
+40814,115,root,va'a,,,2,1
+41171,116,flower,hosa,,,,
+41528,117,fruit,hua,,,1,1
+41885,118,grass,mạ'usu,,,58,
+42242,119,earth/soil,pera,,,32,
+42599,120,stone,hạfu,,,1,1
+42956,121,sand,fanfana,,,,
+43313,122,water,tạnu,,,1,1
+43670,123,"to flow",sạfu,river,,,
+44027,124,sea,sạsi,"phonologically irregular",,1,1?
+44384,125,salt,sạsi,"irreg. but not Pn",,20,
+44741,126,lake,rano,swamp,,1,1
+45098,127,woods/forest,vao,,,14,
+45455,128,sky,lạgi,,,1,1
+45812,129,moon,hula,,,1,1
+46169,130,star,hefu,,,1,1
+46526,131,cloud,aoga,,,12,
+46883,132,fog,kakạpu,"L from Tongan",L,1,
+47240,133,rain,usa,,,1,1
+3229405,133,rain,timu,"L from Samoan",L,,
+47597,134,thunder,fu'i,,,,
+170068,134,thunder,mana,"Supernatural force; thunder.",,37,
+47954,135,lightning,mere,,,,
+48311,136,wind,lạgi,sky,,1,?
+108109,137,"to blow",iri,"L from Tongan",L,11,
+108110,137,"to blow",ui,,,4,
+49025,138,warm,sunu,,,,
+49382,139,cold,mạtiti,,,1,1
+49739,140,dry,mamasa,,,11,
+50096,141,wet,mata,"L from Tuvaluan",L,,
+50453,142,heavy,maha,,,46,
+50810,143,fire,rạhi,,,1,1?
+51167,144,"to burn",susunu,"L from Samoan or E Futunan",L,106,1
+51524,145,smoke,ạsu,,,2,1
+51881,146,ash,rạhu,,,67,1?
+52238,147,black,kele,,,5,
+52595,148,white,fisi,,,,
+52952,149,red,mi'a,,,1,1?
+53309,150,yellow,perpero,,,11,
+53666,151,green,jarava,,,,
+54023,152,small,me'ame'a,,,35,
+54380,153,big,ti'u,,,,
+113875,154,short,'el'ele,a.,,,
+113876,154,short,luka,b.,,8,
+55094,155,long,roā,"L from PN",L,"12,105",
+55451,156,thin,mạhini,(<m),,1,1
+55808,157,thick,mafolu,,,3,
+56165,158,narrow,fo'e,,,,
+56522,159,wide,ofrau,"L from Samoan or EUvean",L,73,
+56879,160,"painful, sick",'af'afa,,,,
+80449,161,"shy, ashamed",mäe,,,1,1?
+80450,161,"shy, ashamed",masraga,,,,1?
+57593,162,old,mafua,,,1,1
+57950,163,new,fo'ou,"L from Tongan or E Uvean",L,1,1
+58307,164,good,lelei,"L from WPn lgs",L,17,
+58664,165,"bad, evil",raksa'a,,,1,
+59021,166,"correct, true",aire,,,,
+59378,167,night,pogi,,,1,1
+59735,168,day,[te]rạni,,,6,1
+60092,169,year,fau,,,1,1
+60449,170,when?,"'e kis",,,,
+60806,171,"to hide",mo'o,,,,
+113877,172,"to climb",hako,"L from Tongan",L,,
+113878,172,"to climb",hapo,a.,,,
+113879,172,"to climb",joro,b.,,,
+61520,173,at,'e,,,1,
+81202,174,"in, inside",'e,,,,
+81203,174,"in, inside",lag,,,,
+62234,175,above,"'e rer ne",,,,
+62591,176,below,"'e lopo",,,,
+62948,177,this,te'isi,,,,
+63305,178,that,ta'a,,,1,
+63662,179,near,'ele,,,,
+64019,180,far,sousou,,,,1
+64376,181,where?,"'e tei",,,3,
+64733,182,I,gou,,,"1,21",1
+65090,183,thou,'äe[a],,,,
+65447,184,he/she,ia,,,1,1
+113880,185,we,'isa,,,1,1
+113881,185,we,'ạmisa,,,,
+66161,186,you,'ausa,,,,1?
+66518,187,they,irisa,,,,1?
+66875,188,what?,tese,,,,
+67232,189,who?,sei,,,1,1
+67589,190,other,tū,,,,
+67946,191,all,'atakoa,,,13,
+68303,192,and,ma,,,2,1
+68660,193,if,"kepoi ka",,,"1, 18",1
+69017,194,how?,tapene,,,,
+82719,195,"no, not",ingke,no,,,
+82720,195,"no, not",katxra,?,,,
+175983,195,"no, not",eagke,not,,,
+69731,196,"to count",hata,,,,
+70088,197,One,tā,,,14,
+70445,198,Two,rua,,,1,1
+70802,199,Three,folu,,,1,1
+71159,200,Four,häke,,,"1,66",?
+83765,201,Five,lima,,,1,
+170135,202,Six,onó,,,1,
+83666,203,Seven,hifu,,,1,
+170134,204,Eight,valu,,,3,
+83540,205,Nine,siva,,,5,
+83432,206,Ten,saghulu,,,5,
+175980,207,Twenty,ruaghulu,,,"3,6",
+175979,208,Fifty,limaghulu,,,"1,2",
+173015,209,"One Hundred",tarau,"L from Samoan",L,2,
+83321,210,"One Thousand",afe,,,3,

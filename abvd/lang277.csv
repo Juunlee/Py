@@ -1,0 +1,235 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+277,Tagalog,"Ted Llamzon",tgl,taga1270,,,"Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Tagalog","Penny Keenan","Simon Greenhill","@misc{Llamzon-277-2005,  author = \"Ted Llamzon\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+14.56231770191485530574,121.06933593750000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+277,1,hand,kamáy,,,13,1
+634,2,left,kaliwáq,,,67,
+991,3,right,kánan,,,"1,73",1
+1348,4,leg/foot,paqá,,,20,
+1705,5,"to walk",lumákad,,,40,1
+2062,6,road/path,daqán,,,"1,57",1
+2419,7,"to come",datíŋ,,,14,
+2776,8,"to turn",lumikóq,,,21,
+3133,9,"to swim",lumangóy,,,1,
+3490,10,dirty,marumi,,,51,
+3847,11,dust,alikabok,,,"1,48",
+4204,12,skin,balát,,,21,
+4561,13,back,likód,,,1,1
+4918,14,belly,tiyán,,,1,1
+5275,15,bone,butó,,,39,
+5632,16,intestines,bitúka,,,21,1
+5989,17,liver,atáy,,,1,1
+6346,18,breast,súsu,,,1,1
+6703,19,shoulder,amóy,,,,
+165243,19,shoulder,balíkat,,,31,
+7060,20,"to know, be knowledgeable",alám,"Norvin Richards:  Arabic Loan",L,58,
+7417,21,"to think",magísip,,,23,
+7774,22,"to fear",tákut,,,1,1
+8131,23,blood,dugóq,,,16,
+8488,24,head,úlo,,,1,1
+8845,25,neck,liqíg,,,1,1
+9202,26,hair,buhók,,,"1,65",1
+9559,27,nose,ilóŋ,,,1,1
+9916,28,"to breathe",humiŋá,,,"1,30",
+10273,29,"to sniff, smell",amuyín,,,31,
+10630,30,mouth,bibíg,,,32,
+10987,31,tooth,ŋípin,,,"1,48",1
+11344,32,tongue,dílaq,,,4,1
+11701,33,"to laugh",tumáwa,,,1,1
+12058,34,"to cry",umiyák,,,20,
+12415,35,"to vomit",sumúka,,,9,
+12772,36,"to spit",lumuráq,,,"1,30",1
+165228,36,"to spit",dumuráq,,,"1,30",
+13129,37,"to eat",kumáin,,,1,1
+13486,38,"to chew",ŋuyaqín,,,25,
+13843,39,"to cook",maglútoq,"Correction: Norvin Richards",,20,
+14200,40,"to drink",uminóm,,,1,1
+14557,41,"to bite",kagatín,,,1,1
+14914,42,"to suck",humígop,"to sip",,,
+154414,42,"to suck",sumipsip,,,1,
+15271,43,ear,taqiŋa,,,1,1
+15628,44,"to hear",makiníg,,,14,
+15985,45,eye,matá,,,1,1
+73917,46,"to see",makíta,,,1,
+73918,46,"to see",tumiŋín,,,42,
+16699,47,"to yawn",humigáb,,,8,
+17056,48,"to sleep",túlug,,,1,1
+17413,49,"to lie down",humigáq,,,19,
+17770,50,"to dream",managínip,,,30,
+74080,51,"to sit",umupóq,,,46,
+74081,51,"to sit",tumirá,"to stay, reside",,,
+18484,52,"to stand",tumindíg,,,20,?
+18841,53,"person/human being",ta:o,,,1,1
+19198,54,man/male,laláki,,,"2,99",1
+19555,55,woman/female,babáqi,,,"1,105",1
+19912,56,child,anák,,,1,1
+20269,57,husband,"asáwaŋ laláki",,,2,1
+20626,58,wife,"asáwaŋ babáqi",,,1,1
+20983,59,mother,iná,,,1,1
+21340,60,father,amá,,,1,1
+21697,61,house,báhay,,,14,
+22054,62,thatch/roof,atíp,,,1,1
+22411,63,name,paŋálan,,,1,1
+74859,64,"to say",magsalitáq,,,34,
+74860,64,"to say",sabíhin,,,33,
+23125,65,rope,táliq,,,1,1
+23482,66,"to tie up, fasten",talíqan,,,26,
+23839,67,"to sew",magtahiq,,,1,1
+24196,68,needle,karáyom,,L,,
+24553,69,"to hunt",mamaríl,,,,
+24910,70,"to shoot",barilín,,,,
+25267,71,"to stab, pierce",saksakín,,,68,1?
+25624,72,"to hit",itápun,,,,
+165246,72,"to hit",tamáan,,,,
+25981,73,"to steal",magnákaw,,,1,1
+26338,74,"to kill",magpatáy,,,2,
+26695,75,"to die, be dead",patáy,,,"1,35",1
+27052,76,"to live, be alive",búhay,,,14,
+27409,77,"to scratch",kamútin,,,"34,82",
+27766,78,"to cut, hack",putúlin,,,37,?
+28123,79,stick/wood,káhoy,,,1,1
+28480,80,"to split",biyakín,,,1,?
+28837,81,sharp,talím,,,1,1
+29194,82,"dull, blunt",mapuról,,,"1,33",1
+29551,83,"to work",magtrabáho,Spanish,L,,
+29908,84,"to plant",mágtanim,,,2,1
+30265,85,"to choose",mamíliq,,,1,1
+30622,86,"to grow","tumú boq",,,1,1
+30979,87,"to swell",mamagaq,,,1,1
+31336,88,"to squeeze",pigaqín,,,"1,37",1
+31693,89,"to hold",hawákan,,,39,
+76550,90,"to dig",paramíhin,,,,1
+76551,90,"to dig",maghúkay,,,23,1
+32407,91,"to buy",mamilí,,,1,
+32764,92,"to open, uncover",magbukás,,,"1,63",?
+104324,93,"to pound, beat",tukaqín,,,,1
+104325,93,"to pound, beat",bayuhín,,,1,
+33478,94,"to throw",itápon,,,98,
+33835,95,"to fall",mahúlog,,,29,
+34192,96,dog,áso,,,1,1
+34549,97,bird,ībon,"Correction: Norvin Richards",,73,
+34906,98,egg,itlóg,,,1,1
+35263,99,feather,búhoq,,L?,,
+172442,99,feather,balahibo,,,21,
+35620,100,wing,pakpák,,,33,
+35977,101,"to fly",lumipád,,,21,
+36334,102,rat,dagáq,,,39,
+36691,103,meat/flesh,lamán,,,46,
+37048,104,fat/grease,tabáq,,,23,
+37405,105,tail,buntót,,,16,
+37762,106,snake,áhas,,,31,
+38119,107,"worm (earthworm)",uqód,,,21,1
+38476,108,louse,kútu,,,1,1
+38833,109,mosquito,lamók,,,"1,33",1?
+39190,110,spider,gagambá,,,23,
+39547,111,fish,isdáq,,,18,
+39904,112,rotten,mabáhoq,smelly,,,
+40261,113,branch,saŋá,,,2,
+40618,114,leaf,dáhon,,,1,1
+40975,115,root,ugát,,,1,
+41332,116,flower,bulaklák,,,22,
+41689,117,fruit,buŋá,,,9,
+42046,118,grass,damó,,,36,
+42403,119,earth/soil,lúpaq,,,25,
+42760,120,stone,batú,,,1,1
+43117,121,sand,pásig,,,18,
+165244,121,sand,buháŋin,,,34,
+43474,122,water,túbig,,,14,
+43831,123,"to flow",umágos,,,2,1?
+107807,124,sea,láud,,,6,
+107808,124,sea,dagat,,,25,
+44545,125,salt,asín,,,3,
+44902,126,lake,láwaʔ,,,1,
+45259,127,woods/forest,gúbat,,,32,
+45616,128,sky,láŋit,,,1,1
+45973,129,moon,buwán,,,1,1
+46330,130,star,bituqín,,,1,1
+46687,131,cloud,úlap,,,57,
+47044,132,fog,hamóg,dew',,26,
+47401,133,rain,ulán,,,1,1
+47758,134,thunder,kulóg,,,"2,95",1
+48115,135,lightning,kidlát,,,"1,82",1
+48472,136,wind,háŋiŋ,,,1,1
+48829,137,"to blow",umíhip,,,"1,68",1?
+49186,138,warm,maqínit,,,23,
+49543,139,cold,malamíg,,,22,
+49900,140,dry,tuyóq,,,43,
+50257,141,wet,basáq,,,1,1
+50614,142,heavy,bigát,,,1,1
+50971,143,fire,apóy,,,1,1
+51328,144,"to burn",masúnog,,,21,
+51685,145,smoke,humithít,,,,
+165245,145,smoke,úsok,,,"2,79",
+52042,146,ash,abú,,,1,1
+52399,147,black,itím,,,1,1
+52756,148,white,putiq,,,1,1
+53113,149,red,pulá,,,28,
+53470,150,yellow,diláw,,,"24,74",
+53827,151,green,bérde,Spanish,L,,
+172440,151,green,luntian,,,,
+54184,152,small,maliqít,,,"66,125",?
+54541,153,big,malakí,,,35,
+54898,154,short,pandák,,,1,1
+55255,155,long,mahábaq,,,27,
+55612,156,thin,manipís,,,1,1
+55969,157,thick,makapál,,,1,1
+56326,158,narrow,makítid,,,19,
+80340,159,wide,malúwág,,,62,1
+80341,159,wide,malápad,,,48,1
+57040,160,"painful, sick",sakít,,,1,1
+57397,161,"shy, ashamed",hiyáq,,,"1,28",1
+57754,162,old,matandáq,,,31,
+58111,163,new,bágo,,,"1,54",1
+58468,164,good,mabúti,,,44,
+58825,165,"bad, evil",masamáq,,,30,
+59182,166,"correct, true",tutoqó,,,6,?
+59539,167,night,gabí,,,21,
+59896,168,day,áraw,,,"1,54",1
+60253,169,year,taqón,,,1,1
+60610,170,when?,kaqilán,,,"1,25",1
+60967,171,"to hide",magtágoq,,,13,
+61324,172,"to climb",pumanhík,,,"1,61",1
+172441,172,"to climb",umakyat,,,30,
+61681,173,at,sa,,,14,
+62038,174,"in, inside","[sa] loqób",,,23,
+62395,175,above,itaqás,,,1,1
+62752,176,below,ibabáq,,,1,1
+63109,177,this,itó,,,10,
+63466,178,that,iyón,,,49,
+63823,179,near,malápit,,,36,
+64180,180,far,maláyoq,,,1,
+64537,181,where?,saqán,,,"1,62",
+64894,182,I,akó,,,"1,5",1
+65251,183,thou,kayó,,,1,
+65608,184,he/she,siŋá,,,,
+165225,184,he/she,siyá,,,"1,31",
+119420,185,we,táyo,,,"1,62",1
+119421,185,we,kamí,,,2,
+66322,186,you,"kayoŋ lahát",,,"1,20",
+66679,187,they,silá,,,1,1
+67036,188,what?,anó,,,"2,18",
+67393,189,who?,síno,,,"14,47",
+67750,190,other,ibá,,,12,
+68107,191,all,lahát,,,37,
+68464,192,and,at,,,26,
+68821,193,if,kuŋ,,,"1,11",
+69178,194,how?,papaqáno,,,"29,77",
+69535,195,"no, not",hindiq,,,"1,44",
+69892,196,"to count",magbílaŋ,,,1,1
+70249,197,One,isá,,,1,1
+70606,198,Two,dalawá,,,"1,23",1
+70963,199,Three,tatló,,,"1,10",1
+71320,200,Four,ápat,,,"1,14",1
+83859,201,Five,líma,,,1,
+83855,202,Six,ánim,,,"1,38",
+83999,202,Six,anem,,,"1,38",
+83856,203,Seven,pitó,,,1,
+83848,204,Eight,waló,,,3,
+83857,205,Nine,siyám,,,9,
+83858,206,Ten,sampú',,,5,
+89254,206,Ten,sampúq,,,5,
+89255,207,Twenty,dalawampúq,,,"3,6",
+89258,208,Fifty,limampúq,,,"1,2",
+89256,209,"One Hundred","isáng daqán",,,49,
+89257,210,"One Thousand","isáng líbo",,,5,

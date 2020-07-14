@@ -1,0 +1,277 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+68,Lau,"Blust from: Fox (1974)",llu,lauu1247,"Fox, C. E. (1974). Lau Dictionary with English Index. Australian National University Press: Canberra.",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Southeast Solomonic, Malaita-San Cristobal, Malaita, Northern","Simon Greenhill","Simon Greenhill","@book{82675,  address    = {Canberra},  pages      = {260},  publisher  = {Research School of Pacific and Asian Studies, Australian National University},  series     = {Pacific Linguistics: Series C},  title      = {Lau dictionary},  volume     = {25},  year       = {1974},  bibtexkey  = {fox_lau-dictionary1974},  fn         = {papua\fox_lau1974.pdf},  hhtype     = {dictionary},  inlg       = {English [eng]},  macro_area = {Papua},  src        = {hh, wals},  srctrickle = {hh#d:Fox:Lau, wals#1924},  author     = {Fox, Charles E.}}"
+latitude,longitude
+-7.89602959327310394144,160.62011718750000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+68,1,hand,ʔaba,,,2,
+425,2,left,mouli,"irregular reflex of *w",,"1,59",1
+782,3,right,aolo,,,10,
+1139,4,leg/foot,ʔae,"irregular *q > ʔ",,1,1
+1496,5,"to walk",fali,,,10,
+1853,6,road/path,tala,,,1,1
+2210,7,"to come","lae mai",,,"1,87",1?
+2567,8,"to turn",abulo,,,32,
+2924,9,"to swim","garu ʔaraŋa",,,48,
+71816,10,dirty,bili,,,13,
+71817,10,dirty,fafulu,,,,
+3638,11,dust,"afuafu-na gano",,,1,1
+3995,12,skin,ʔuya,,,,
+4352,13,back,suli-,,,78,
+88014,14,belly,kelo-,,,,
+88015,14,belly,kutu-,,,14,
+88016,14,belly,rake-,,,16,
+5066,15,bone,suli-,,,52,
+88086,16,intestines,"kakade ŋali",large,,,
+88087,16,intestines,oga,small,,16,
+5780,17,liver,sae|fou-,,,1,1
+6137,18,breast,susu-,,,1,1
+6494,19,shoulder,fote,(?),,,
+72292,20,"to know, be knowledgeable",saitoma,"irregular *a > i",,"35, 88",
+72293,20,"to know, be knowledgeable",tomatafa,,,88,
+72353,21,"to think",manata,,,15,
+72354,21,"to think",tago,,,38,
+7565,22,"to fear",mou,,,1,1
+7922,23,blood,ʔabu,,,5,
+72487,24,head,kawu,,,,
+72488,24,head,kwou,,,9,
+8636,25,neck,lua,,,18,
+8993,26,hair,ifu,,,13,
+9350,27,nose,gwalusu,,,"1,12",?
+9707,28,"to breathe",maŋo,,,47,
+10064,29,"to sniff, smell",nonomoko,,,13,
+10421,30,mouth,faka-,"irregular *o > a",,43,
+10778,31,tooth,lifo,,,"1,35",1
+11135,32,tongue,mea-,,,7,
+11492,33,"to laugh",gā,,,15,
+11849,34,"to cry",āŋi,,,1,1
+12206,35,"to vomit",moa,"cf 92; irregular *u > o",,1,1?
+12563,36,"to spit",ŋisu,,,"14, 58",
+12920,37,"to eat",ʔani,,,1,1
+13277,38,"to chew",meme,"irregular *a > e",,1,1?
+13634,39,"to cook",ʔofu,,,,
+13991,40,"to drink",ʔiŋo,"irregular *n > ŋ; irregular addition of initial ʔ",,1,
+14348,41,"to bite",ʔala,,,1,1
+14705,42,"to suck",ʔomi,,,"17, 84",?
+15062,43,ear,ʔaliŋa,"irregular initial ʔ",,1,1
+15419,44,"to hear",roŋo,,,1,1
+15776,45,eye,mā,,,1,1
+73862,46,"to see",ada,,,15,
+73863,46,"to see",riki,"irregular *e > i",,13,
+16490,47,"to yawn",mamao|fi,,,19,1
+73950,48,"to sleep",teo,,,61,
+73951,48,"to sleep",eno,,,8,
+17204,49,"to lie down",teo,,,9,
+17561,50,"to dream",bole,,,10,
+17918,51,"to sit",gwouru,,,24,
+18275,52,"to stand",take,,,9,
+74142,53,"person/human being",tōa,,,,
+74143,53,"person/human being",imola,,,7,
+18989,54,man/male,wane,,,1,1
+19346,55,woman/female,geni,,,8,
+19703,56,child,wela,,,8,
+91211,57,husband,kwai,,,19,
+91210,57,husband,ārai,,,20,
+74457,58,wife,ʔafe,,,13,
+74458,58,wife,kwai,,,,
+20774,59,mother,tē,,,8,
+21131,60,father,ama,,,1,1
+21488,61,house,luma,,,1,1
+21845,62,thatch/roof,raraofa,,,,
+22202,63,name,sata-,,,"1,18",1
+22559,64,"to say",bae,,,13,
+22916,65,rope,ʔoko,,,12,
+91468,66,"to tie up, fasten",āri,,,33,
+91469,66,"to tie up, fasten",firi,,,18,
+91470,66,"to tie up, fasten",kani,,,19,
+23630,67,"to sew",tai-a,,,2,1
+24344,69,"to hunt",fafana,,,53,
+24701,70,"to shoot",fana,,,1,1
+25058,71,"to stab, pierce",sugi,"irregular *k > g",,"1, 8",1
+75370,72,"to hit",tō,,,,
+75371,72,"to hit",kwae,,,16,
+75372,72,"to hit",naŋa,,,,
+25772,73,"to steal",beli,,,12,
+75505,74,"to kill",kwae,"irregular *i > e",,14,
+75506,74,"to kill",lima,,,,
+26486,75,"to die, be dead",mae,,,1,1
+26843,76,"to live, be alive",mouri,,,"1, 76",1
+91967,77,"to scratch",garu,,,44,?
+91968,77,"to scratch",gama,,,14,
+92037,78,"to cut, hack",tofu,,,22,?
+92038,78,"to cut, hack",toto,,,,
+92039,78,"to cut, hack",ʔiri,,,70,
+27914,79,stick/wood,ʔai,,,1,1
+92349,80,"to split",afita,,,10,1
+92350,80,"to split",fola,,,1,
+92351,80,"to split",ala,,,52,
+28628,81,sharp,"ʔala. au",,,69,
+92431,82,"dull, blunt",ūru,,,,
+92432,82,"dull, blunt",lomu,,,,
+92433,82,"dull, blunt",fō,,,35,
+92434,82,"dull, blunt",dada,,,,
+29342,83,"to work",rao,,,14,
+29699,84,"to plant",fasi,,,12,
+30056,85,"to choose",fili,,,1,1
+30413,86,"to grow",masubu,,,,?
+76281,87,"to swell",ria,,,,
+76282,87,"to swell",oga,,,,
+76283,87,"to swell",fufu,,,,
+92598,88,"to squeeze",losi,,,19,
+92599,88,"to squeeze",fele,,,20,
+31484,89,"to hold","dau ʔana",,,17,
+31841,90,"to dig",ʔeli,,,1,1
+93482,91,"to buy",foli,,,1,1
+93483,91,"to buy",ūsi,,,14,
+76626,92,"to open, uncover",foe,"cf 35",,,1?
+76627,92,"to open, uncover",ʔifi,"cf 35",,15,1?
+76681,93,"to pound, beat",lomu,,,,
+76682,93,"to pound, beat",sau,,,4,
+76683,93,"to pound, beat",gata,,,,
+33269,94,"to throw",ʔui,,,15,
+33626,95,"to fall",[ʔa]ʔaru,,,,
+33983,96,dog,[ku]kui,,,7,
+34340,97,bird,manu,,,1,1
+34697,98,egg,saolu,,,1,1
+35054,99,feather,ʔefo,,,,
+35411,100,wing,ʔaba,,,"1,12",
+35768,101,"to fly",lofo,,,1,1
+36125,102,rat,fōitau,,,,
+77207,103,meat/flesh,fasio,,,"10, 65",
+77208,103,meat/flesh,mariko,,,52,
+77280,104,fat/grease,raga,,,,
+77281,104,fat/grease,ragufa,,,17,
+37196,105,tail,kukui,,,"1, 57",
+37553,106,snake,wā,,,12,
+37910,107,"worm (earthworm)",wā,,,10,
+38267,108,louse,ʔū,,,1,1
+77508,109,mosquito,arununu,,,,1
+77509,109,mosquito,furunamu,,,1,1
+77510,109,mosquito,nanamu,,,1,1
+105169,110,spider,garo,,,11,
+105170,110,spider,lagwa,"irregular *w > gw, expect **kw",,1,
+105168,110,spider,fūfū,,,10,1
+105171,110,spider,lakwa,,,1,
+39338,111,fish,īʔa,,,1,1
+77642,112,rotten,fura,,,18,
+77643,112,rotten,mumū,,,51,
+40052,113,branch,sara,,,"1,17",
+40409,114,leaf,elo,,,11,
+105315,115,root,lali,"(fine roots)",,16,
+105316,115,root,kobe,"(buttress root)",,,
+105317,115,root,gwalu,(taproot),,,
+41123,116,flower,taka,"irregular *g > k",,12,
+41480,117,fruit,fufua,,,1,1
+41837,118,grass,murua,,,,
+42194,119,earth/soil,ano,,,1,1
+42551,120,stone,fou,"irregular *a > o",,1,1
+42908,121,sand,one,,,1,1
+43265,122,water,kafo,,,5,
+78257,123,"to flow",toŋo,,,,
+78258,123,"to flow",igwa,,,34,
+43979,124,sea,asi,,,1,1
+44336,125,salt,asila,,,1,1
+44693,126,lake,namo,"Deep water in a lagoon (Ivs)",,7,
+45050,127,woods/forest,kwaena,,,68,
+45407,128,sky,salo,,,13,
+45764,129,moon,madama,,,7,
+46121,130,star,bubulu,,,14,
+46478,131,cloud,barobaro,,,17,
+46835,132,fog,dasa,,,44,
+47192,133,rain,uta,,,1,1
+107993,134,thunder,kilia,,,21,
+107994,134,thunder,loufia,,,20,
+78853,135,lightning,sinamāru,,,49,
+78854,135,lightning,kwaŋa,,,12,
+48263,136,wind,ōru,,,13,
+108105,137,"to blow",sau,(a),,12,
+108106,137,"to blow",ōru,(a),,58,
+108107,137,"to blow",ufi,(b),,4,
+108108,137,"to blow",ʔufu,(b),,"4,57",
+48977,138,warm,ʔago,,,13,
+49334,139,cold,gwagwalila,"irregular *r > l",,13,
+49691,140,dry,lalaŋa,,,49,
+50048,141,wet,gwini,,,46,
+50405,142,heavy,gulu,,,11,
+50762,143,fire,ere,,,7,
+79456,144,"to burn",sū,,,,
+79457,144,"to burn",sasu,,,,
+51476,145,smoke,sasu,,,2,1
+51833,146,ash,"fua-na ere",,,11,
+52190,147,black,kokoradoa,,,,
+52547,148,white,kwao,,,16,
+79729,149,red,ʔaʔabua,,,47,
+79730,149,red,kekero,,,57,
+53261,150,yellow,gogoa,,,15,
+119443,151,green,akasa,,,54,
+119444,151,green,maʔa,,,,
+79860,152,small,marabibi,,,,
+79861,152,small,toʔou,,,60,
+54332,153,big,bao,,,,
+54689,154,short,kukuru,,,13,
+80150,155,long,tekwa,,,15,
+80151,155,long,tikwa,"irregular *e > i",,15,
+55403,156,thin,refe,,,,
+89903,158,narrow,logo,,,,?
+89904,158,narrow,susu|kofi,,,"15, 1",
+56474,159,wide,rereba,"irregular *a > e",,1,
+56831,160,"painful, sick",matai,,,1,1
+57188,161,"shy, ashamed",ʔida,,,8,
+119445,162,old,ʔua,,,1,1?
+119446,162,old,waro,,,12,
+57902,163,new,fālu,,,1,1
+58259,164,good,diana,,,66,?
+58616,165,"bad, evil",tā,,,1,1
+58973,166,"correct, true",tofuŋa,,,,
+119447,167,night,boŋi,,,1,1
+119448,167,night,rodo,,,11,
+59687,168,day,dani,,,6,1
+60044,169,year,falisi,,,8,
+60401,170,when?,aŋita,,,"1,41",1
+119186,171,"to hide",ago,,,8,1
+119187,171,"to hide",agwa,,,8,
+119188,171,"to hide",muni,,,"1, 67",
+61115,172,"to climb",rā,,,10,
+61472,173,at,i,,,1,1
+61829,174,"in, inside","i lalo",,,1,1
+62186,175,above,"i fafo",,,2,1
+62543,176,below,"i fara",,,58,
+62900,177,this,na,,,1,
+81458,178,that,nae,,,1,
+81459,178,that,ne,,,1,
+81582,179,near,ʔae,,,,
+81583,179,near,"i fafo",,,,
+81641,180,far,tau,,,1,1
+81642,180,far,tou,,,1,1
+64328,181,where?,ifai,,,3,
+64685,182,I,nau,,,"1, 22",1
+65042,183,thou,iʔoe,,,1,?
+65399,184,he/she,nia,,,"1, 6",1
+119449,185,we,gia,,,1,1
+119450,185,we,gami,,,2,
+66113,186,you,gamu,,,1,1
+66470,187,they,ida|ro,,,30,1
+82233,188,what?,tā,,,"1, 52",1
+82234,188,what?,tafa,,,1,1
+67184,189,who?,atei,,,"1, 68",1
+67541,190,other,madiu,,,,
+82387,191,all,ʔae,,,,
+82388,191,all,ʔafuta,,,16,
+82389,191,all,kwalu,,,,
+82390,191,all,sui,,,,
+68255,192,and,ma,,,2,1
+82580,193,if,lea,,,35,
+82581,193,if,ʔa|na,,,6,
+68969,194,how?,ʔutā,,,33,1?
+69326,195,"no, not",laŋi,,,72,
+69683,196,"to count",idu,,,46,1
+119451,197,One,tāi,,,14,1
+119452,197,One,eta,,,32,
+70397,198,Two,rua,,,1,1
+70754,199,Three,olu,,,1,1
+71111,200,Four,fai,,,"1,65",1
+167747,201,Five,lima,,,1,
+167746,202,Six,ono,,,1,
+167745,203,Seven,fiu,,,1,
+167744,204,Eight,kwalu,,,3,
+167743,205,Nine,sikwa,,,5,
+167742,206,Ten,tangafulu,,,5,

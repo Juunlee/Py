@@ -1,0 +1,225 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+172,Minangkabau,"Agusli hana",min,mina1268,,,"Austronesian, Malayo-Polynesian, Malayo-Chamic, Malayic, Malay","Debasish Roy","Simon Greenhill","@misc{Hana-172-2005,  author = \"Agusli Hana\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-0.65916514628945044318,100.92041015625000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+172,1,hand,taŋan,,,18,
+529,2,left,kida,,,56,
+886,3,right,suoʔ,,,,
+1243,4,leg/foot,tuŋkai,,,,
+1600,5,"to walk",bajalan,,,21,
+1957,6,road/path,labuah,,,,
+2314,7,"to come",tibo,"X  = 'to arrive'",,,
+345010,7,"to come",dataŋ,,,14,
+2671,8,"to turn",keloʔ,,,25,
+3028,9,"to swim",baranaŋ,,,23,
+3385,10,dirty,kumuah,,,35,
+3742,11,dust,abu,"from ash",,1,
+4099,12,skin,kulik,"X (= orthographic) (SA)",,1,1
+251318,12,skin,kuliʔ,"(= phonological) (SA)",,1,
+4456,13,back,puŋguaŋ,,,24,
+4813,14,belly,paruit,"? should be paruyʔ (SA)",,32,
+5170,15,bone,tulang,,,1,1
+5527,16,intestines,tambonsu,,,,
+5884,17,liver,atĭ,,,1,1
+6241,18,breast,susu,,,1,1
+6598,19,shoulder,bāu,"< Sanskrit",L,17,
+6955,20,"to know, be knowledgeable",tau,,,1,1
+7312,21,"to think",bapikie,"loan of 22?",L,22,
+7669,22,"to fear",takuiʔ,"SA: takuyʔ",,1,1
+8026,23,blood,darah,,,1,1
+8383,24,head,kapalo,"Skt kapala 'skull'",L,45,
+8740,25,neck,lihie,,,1,1
+9097,26,hair,abuaʔ,,,"1,53",
+9454,27,nose,iduaŋ,,,1,
+9811,28,"to breathe",baaŋoʔ,"aŋoʔ < *həŋap (SA)",,37,
+10168,29,"to sniff, smell",maidu,,,,
+10525,30,mouth,muncuaŋ,,,47,
+10882,31,tooth,gigi,,,17,
+11239,32,tongue,lidah,metathesis,,"4,31",
+11596,33,"to laugh",galaʔ,,,108,
+11953,34,"to cry",manaŋih,,,1,
+12310,35,"to vomit",mutah,,,1,
+12667,36,"to spit",maliue,"< liuə 'saliva' (SA)",,54,
+13024,37,"to eat",makan,,,1,
+13381,38,"to chew",maŋuñah,,,16,
+13738,39,"to cook",mamasaʔ,,,19,
+14095,40,"to drink",minun,,,1,
+14452,41,"to bite",maŋgigiʔ,,,21,
+14809,42,"to suck",maisoʔ,,,1,
+15166,43,ear,taliŋo,,,1,
+15523,44,"to hear",mandaŋa,,,1,
+15880,45,eye,mato,,,1,
+16237,46,"to see",malieʔ,,,23,
+16594,47,"to yawn",kuoʔ,,,,
+16951,48,"to sleep",laloʔ,"< *ləl(aə)p",,,
+17308,49,"to lie down",bagoleʔ,,,54,
+17665,50,"to dream",ba-rasian,,,,
+18022,51,"to sit",duduaʔ,,,35,
+18379,52,"to stand",tagaʔ,,,26,
+18736,53,"person/human being",uraŋ,,,20,
+19093,54,man/male,laki-laki,,,2,1
+19450,55,woman/female,padusi,,,,
+74371,56,child,anaʔ,[=boy],,1,
+74372,56,child,buyuaŋ,[=boy],,,
+20164,57,husband,laki,,,28,
+20521,58,wife,bini,,,5,
+20878,59,mother,amaʔ,,,35,
+21235,60,father,apaʔ,"ultimately < Dravidian",L,12,1
+21592,61,house,rumah,,,1,1
+21949,62,thatch/roof,atok,X,,1,1
+251317,62,thatch/roof,atoʔ,,,1,
+22306,63,name,namo,"< Sanskrit",L,12,
+22663,64,"to say",maŋeceʔ,,,26,
+23020,65,rope,tali,,,1,1
+23377,66,"to tie up, fasten",mangabeʔ,,,,
+23734,67,"to sew",manjaiʔ,,,2,1
+24091,68,needle,pinjaiʔ,,,5,
+24448,69,"to hunt",baburu,,,23,
+24805,70,"to shoot",manembaʔ,,,49,
+25162,71,"to stab, pierce",manikam,,,31,
+25519,72,"to hit",manokoʔ,,,25,
+25876,73,"to steal",manciloʔ,,,18,
+26233,74,"to kill",mambunuah,,,1,1
+26590,75,"to die, be dead",mati,,,1,1
+26947,76,"to live, be alive",iduiʔ,,,"1,82",1
+27304,77,"to scratch",maŋgauiʔ,,,44,1
+27661,78,"to cut, hack",maŋareʔ,"SA: < *kərat",,139,
+28018,79,stick/wood,kayu,,,1,
+28375,80,"to split",mambalah,,,1,
+28732,81,sharp,tajam,,,1,
+29089,82,"dull, blunt",buntu,,,,
+29446,83,"to work",bakarajo,"karajo < Sanskrit",L,23,
+29803,84,"to plant",mananam,,,2,
+30160,85,"to choose",mamilieh,,,1,
+30517,86,"to grow",iduiʔ,"X SA: (ma-iduyʔ 'to light'; if used at all as 'to grow' it would have a transitive meaning'",,13,
+345011,86,"to grow",tumbuah,,,1,
+30874,87,"to swell",mambaŋka,,,19,
+31231,88,"to squeeze",maramoh,,,1,
+31588,89,"to hold",mamaeiʔ,"X contains typo: e -> c",,,
+345012,89,"to hold",mamaciʔ,"< paciʔ",,,
+31945,90,"to dig",maŋali,,,1,
+32302,91,"to buy",mambali,,,1,
+32659,92,"to open, uncover",mambuka,,,1,
+33016,93,"to pound, beat",manumbuəʔ,,,9,
+33373,94,"to throw",mam-bae,,,119,
+33730,95,"to fall",jatuah,,,38,
+34087,96,dog,anjiaŋ,,,27,
+34444,97,bird,buruaŋ,,,17,
+34801,98,egg,talua,,,1,
+35158,99,feather,bulu,,,1,
+35515,100,wing,sayoʔ,,,26,
+35872,101,"to fly",tabaŋ,,,18,
+36229,102,rat,manciʔ,,,28,
+36586,103,meat/flesh,dagiaŋ,,,26,
+36943,104,fat/grease,gomoʔ,,,26,
+37300,105,tail,ikua,,,1,1
+37657,106,snake,ula,,,2,1
+38014,107,"worm (earthworm)",caciaŋ,,,23,
+38371,108,louse,kutu,,,1,1
+38728,109,mosquito,raŋiʔ,,,21,
+39085,110,spider,lawah-lawah,,,1,1
+39442,111,fish,ikan,,,1,1
+39799,112,rotten,busuaʔ,,,56,
+40156,113,branch,dahan,,,1,1
+40513,114,leaf,daun,,,1,
+40870,115,root,ureʔ,,,1,
+41227,116,flower,buŋo,,,1,1
+41584,117,fruit,buah-buahan,,,1,1
+41941,118,grass,rumpuiʔ,,,27,
+42298,119,earth/soil,tanah,,,1,1
+42655,120,stone,batu,,,1,1
+43012,121,sand,kasiaʔ,,,24,
+43369,122,water,aie,,,2,1
+43726,123,"to flow",mailie,,,56,1
+44083,124,sea,lauiʔ,,,6,
+44440,125,salt,garam,,L,18,
+44797,126,lake,danau,,,1,1
+45154,127,woods/forest,rimbo,,,37,
+45511,128,sky,laŋiʔ,,,1,1
+45868,129,moon,bulan,,,1,1
+46225,130,star,bintang,,,1,
+46582,131,cloud,awan,,,1,
+46939,132,fog,kabuiʔ,,,1,
+47296,133,rain,ujan,,,1,
+47653,134,thunder,guruah,,,1,
+48010,135,lightning,kileʔ,,,1,
+48367,136,wind,angin,,,1,
+48724,137,"to blow",burambuih,,,30,
+49081,138,warm,paneh,,,1,
+49438,139,cold,diŋin,,,1,
+49795,140,dry,kariaŋ,,,22,
+50152,141,wet,basah,"orig. busah: had a typo",,1,
+50509,142,heavy,bareʔ,,,1,
+50866,143,fire,api,,,1,
+51223,144,"to burn",mambaka,,,25,
+51580,145,smoke,asoʔ,,,49,
+51937,146,ash,abu,,,1,
+52294,147,black,itam,,,1,
+52651,148,white,putiah,,,1,
+53008,149,red,sirah,,,"1,35",
+53365,150,yellow,kuniaŋ,,,1,
+53722,151,green,ijau,,,25,
+54079,152,small,keteʔ,,,28,
+54436,153,big,gadaŋ,,,27,
+54793,154,short,pendeʔ,"SA: typo cleaned up",,68,
+55150,155,long,panjaŋ,"SA: typo cleaned up",,24,
+55507,156,thin,tipih,,,"1,44",
+55864,157,thick,taba,,,26,
+56221,158,narrow,sampi,,,68,
+56578,159,wide,laweh,,,1?,1?
+56935,160,"painful, sick",sakiʔ,,,1,1
+57292,161,"shy, ashamed",malu,,,20,
+57649,162,old,tuo,,,1,1
+58006,163,new,baru,,,1,1
+58363,164,good,eloʔ,,,68,
+58720,165,"bad, evil",jaeʔ,,,1,1
+113969,166,"correct, true",batua,,,23,
+113970,166,"correct, true",bana,,,1,
+59434,167,night,malam,,,20,
+59791,168,day,hari,,,17,1
+60148,169,year,taun,,,1,1
+60505,170,when?,bilo,,,13,
+60862,171,"to hide",mandoʔ,,,,
+61219,172,"to climb",naiaʔ,,,1,1
+61576,173,at,di,,,20,
+61933,174,"in, inside","di dalam",,,1,1
+62290,175,above,"di ateh",,,1,1
+62647,176,below,"di bawah",,,1,1
+81374,177,this,ko,,,,1
+81375,177,this,iko,,,,1
+63361,178,that,tu,,,16,
+63718,179,near,dakeʔ,,,28,1
+64075,180,far,juuah,"X (typo)",,1,
+251319,180,far,jauah,,,1,
+64432,181,where?,dima,,,,1
+64789,182,I,ambo,,,9,
+81884,183,thou,wauŋ,,,,
+81885,183,thou,aŋ,,,,
+81886,183,thou,kāu,,,1,
+65503,184,he/she,ño,,,2,1
+65860,185,we,kito,,,1,
+66574,187,they,"raŋ tu","lit. 'those people' (SA)",,,
+66931,188,what?,apo,,,1,
+67288,189,who?,sia,"< *si-aha",,58,
+67645,190,other,lain,,,2,
+68002,191,all,sadoño,"(SA) < *se-ada-ña 'all there is, the lot of it'",,,
+68359,192,and,dan,,,18,
+68716,193,if,kalau,"SA: < Sanskrit jaka + Arabic law",L,14,
+69073,194,how?,baʔa,"< baʔ + *aha",,,
+69430,195,"no, not",indaʔ,,,109,
+69787,196,"to count",maetoŋ,,,31,
+70144,197,One,cieʔ,,,,
+70501,198,Two,duo,,,1,
+70858,199,Three,tigo,,,8,
+71215,200,Four,ampeʔ,,,1,
+90676,201,Five,limo,,,1,
+90677,202,Six,anam,,,1,
+90678,203,Seven,tujuah,,,4,
+90679,204,Eight,salapan,,,34,
+90680,205,Nine,sambilan,,,10,
+90681,206,Ten,sapuluah,,,5,
+90682,207,Twenty,"duo puluah",,,"3,6",
+90683,208,Fifty,"limo puluah",,,"1,2",
+90684,209,"One Hundred",saratuih,,,4,
+90685,210,"One Thousand",saribu,,,5,

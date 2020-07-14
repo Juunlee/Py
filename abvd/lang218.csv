@@ -1,0 +1,234 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+218,Dobuan,"Blust, from: Bromilow (1904)",dob,dobu1241,"Bromilow, W. E. (1904). Vocabulary of English Words, with Equivalents in Dobuan (British New Guinea), Fijian, and Samoan, with a Short Dobuan Grammar. Geelong: H. Thacker",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Papuan Tip, Nuclear, North Papuan Mainland-D'Entrecasteaux, Dobu-Duau","Simon Greenhill","Simon Greenhill","@book{39971,  address    = {Geelong},  publisher  = {H. Thacker},  title      = {Vocabulary of English Words with Equivalents in Dobu (British New Guinea), Fijian and Samoan, with a Short Dobuan Grammar},  year       = {1904},  bibtexkey  = {bromilow_dobu-dobuan1904},  hhtype     = {grammar_sketch},  inlg       = {English [eng]},  inlg_code  = {eng},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#s:Bromilow:Dobu},  superseded = {s:Lithgow:Dobu},  author     = {Bromilow, W. E.}}"
+latitude,longitude
+-9.78485125075059158917,150.79833984375000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+218,1,hand,nima-na,,,1,1
+575,2,left,gegeumi-na,,,76,
+932,3,right,atai-na,,,14,1?
+1289,4,leg/foot,'ae-na,,,1,1
+1646,5,"to walk",lopilidadana,,,35,
+2003,6,road/path,'eda,,,12,
+2360,7,"to come","'u da ma",,,1,?
+2717,8,"to turn",asi'i,,,,
+3074,9,"to swim",tube,,,17,
+3431,10,dirty,baila,(dirt),,75,
+3788,11,dust,kau,"(cf 146)",,17,
+4145,12,skin,bwara-na,,,51,
+4502,13,back,guau-na,,,40,
+72071,14,belly,gamwa-na,,,45,
+72072,14,belly,gamwada-na,,,45,
+5216,15,bone,lulu-na,,,32,
+5573,16,intestines,dia-na,,,88,?
+5930,17,liver,'ate-na,,,1,1
+6287,18,breast,susu-na,,,1,1
+6644,19,shoulder,'ara-na,"cf ata< *pata",,1,1
+72322,20,"to know, be knowledgeable",panaita,,,,
+72323,20,"to know, be knowledgeable",sinapuna,,,83,
+7358,21,"to think",nuena,"insides (noun)",,30,
+7715,22,"to fear",matauta,,,1,1
+8072,23,blood,rara,,,1,1
+8429,24,head,deba-na,,,"43,72",
+8786,25,neck,'oto-na,,,89,
+9143,26,hair,'uia'uia-na,,,,
+9500,27,nose,'ubusu-na,,,"1,17",
+9857,28,"to breathe",iawasi-na,(breath),,22,
+10214,29,"to sniff, smell",mui,,,106,
+10571,30,mouth,'awa,,,36,
+10928,31,tooth,sara-na,,,11,
+11285,32,tongue,meia-na,,,7,
+11642,33,"to laugh",edagi,,,104,
+11999,34,"to cry",dedo,,,8,
+172446,34,"to cry",dedoi,,,8,
+12356,35,"to vomit",maiwa,,,4,
+12713,36,"to spit",giwara,,,40,
+13070,37,"to eat",e'ai,,,"1,44",1
+13427,38,"to chew",'uta'uta,,,14,
+13784,39,"to cook",e'ure,,,117,
+14141,40,"to drink",numa,,,"1,34",1
+14498,41,"to bite",'enina,,,79,
+14855,42,"to suck",sususu,,,25,1
+15212,43,ear,tena-na,,,1,?
+15569,44,"to hear",nono,,,"1, 36",?
+15926,45,eye,mata-na,,,1,1
+16283,46,"to see",'ita,,,1,1
+16640,47,"to yawn",mwawa,,,19,1
+16997,48,"to sleep",'eno,,,8,
+17354,49,"to lie down",'eno'eno,,,1,1
+17711,50,"to dream",madawara,,,18,
+18068,51,"to sit",miatoa,,,"26,80",
+18425,52,"to stand",toro,,,2,
+18782,53,"person/human being",tomota,,,"1,66",1
+19139,54,man/male,me'oloto-na,,,"21, 103",
+19496,55,woman/female,mewaine-na,,,"1,110",1
+19853,56,child,goama,,,14,
+20210,57,husband,mwane-na,,,26,
+20567,58,wife,mwane-na,,,18,
+20924,59,mother,sina-na,,,1,1
+21281,60,father,tama-na,,,1,1
+21638,61,house,anua,,,7,
+21995,62,thatch/roof,'atoa,,,1,1
+22352,63,name,esa-na,,,"1,18",1?
+74836,64,"to say",ona,,,20,
+74837,64,"to say",gwae,,,156,
+23066,65,rope,barae,,,84,
+23423,66,"to tie up, fasten",losipwa,,,136,
+23780,67,"to sew",saisaila,,,"2,53",?
+24137,68,needle,sairuma,,,"1,65",?
+24494,69,"to hunt",tore,,,49,
+24851,70,"to shoot",tupu,,,10,
+25208,71,"to stab, pierce",badi,,,,
+25565,72,"to hit",'unu,,,23,
+75480,73,"to steal",'anaw|ara,,,"1,58",1?
+75481,73,"to steal",'ipwara,,,,1?
+26279,74,"to kill",'unu,,,1,1
+26636,75,"to die, be dead",mwawasa,,,24,
+75586,76,"to live, be alive",bobo'a-na,,,,
+75587,76,"to live, be alive",maiawasi-na,,,10,
+27350,77,"to scratch",waro,,,1,
+27707,78,"to cut, hack",tara,,,1,1
+28064,79,stick/wood,kai|we,,,"1,33",1?
+28421,80,"to split","tara si'aa",,,92,
+28778,81,sharp,mamata-na,,,36,
+92439,82,"dull, blunt",kuwa-na,blunt,,79,
+92440,82,"dull, blunt",gugura,"dull. Check Fijian Samoan for 'Seuse'?",,,
+29492,83,"to work",guinua,,,99,
+29849,84,"to plant",aso,,,28,
+30206,85,"to choose",'ita'i'isi-'esinua,,,8,
+30563,86,"to grow",tabwa,"(of plants)",,11,
+76308,87,"to swell",pulu,,,83,
+76309,87,"to swell",sesea,,,,
+31277,88,"to squeeze",bibi,,,21,
+31634,89,"to hold",giai,,,118,
+31991,90,"to dig",sala,,,10,
+76586,91,"to buy",lagwa,,,70,
+76587,91,"to buy",gimwani,,,17,
+32705,92,"to open, uncover",gigege,"(a door)",,18,
+33062,93,"to pound, beat",dai,,,,
+33419,94,"to throw",'ule,,,17,
+33776,95,"to fall",sagu,,,,
+34133,96,dog,kedewa,,,18,
+34490,97,bird,manua,,,1,1
+34847,98,egg,pou,,,15,
+35204,99,feather,dagura,,,13,
+35561,100,wing,pape-na,,,21,
+35918,101,"to fly",taea,,,48,
+36275,102,rat,kokolaka,,,33,
+36632,103,meat/flesh,'esio-na,,,10,
+36989,104,fat/grease,iapa,,,40,
+37346,105,tail,iuiu-na,,,"1,25",1
+37703,106,snake,moata,,,12,
+38060,107,"worm (earthworm)",didimwana,,,48,
+38417,108,louse,'utu,,,1,1
+38774,109,mosquito,nemwa,,,1,
+39131,110,spider,mwanamwanaikwa,,,,
+39488,111,fish,iana,,,1,1
+39845,112,rotten,daula,,,78,
+40202,113,branch,nari-na,,,,
+40559,114,leaf,iawa-na,,,17,
+40916,115,root,ramu-na,,,3,1
+41273,116,flower,seni-na,,,"9,14",
+41630,117,fruit,'ua-na,,,1,1
+77989,118,grass,nedu,,,,
+77990,118,grass,pwatura,,,,
+78050,119,earth/soil,bare'u,,,20,
+78051,119,earth/soil,bwa'a,,,,
+42701,120,stone,gurewa,,,31,
+78142,121,sand,nedila,,,67,
+78143,121,sand,kaukau,,,17,
+43415,122,water,boasi,,,"6,64",
+43772,123,"to flow",daudau,,,18,
+44129,124,sea,ora,,,70,
+44486,125,salt,kalita,,,12,
+44843,126,lake,sewasewa,,,47,
+45200,127,woods/forest,mitawa,,,27,
+45557,128,sky,garewa,,,16,
+45914,129,moon,nawarae,,,13,
+46271,130,star,kwadima,,,86,
+46628,131,cloud,poana,,,,
+46985,132,fog,umauma,,,17,
+47342,133,rain,usana,,,1,1
+47699,134,thunder,weparara,,,"15,45",
+48056,135,lightning,namara,,,18,
+108057,136,wind,mana,,,21,
+108058,136,wind,iagila,,,1,
+48770,137,"to blow",toa,,,20,
+49127,138,warm,iaiiai,,,75,
+49484,139,cold,gogai,,,49,
+49841,140,dry,iadaiada,,,108,
+50198,141,wet,pwasa,,,107,
+50555,142,heavy,mwau,,,20,
+50912,143,fire,'awe,,,35,
+51269,144,"to burn",'arasi,,,17,
+51626,145,smoke,'asu,,,2,1
+51983,146,ash,karikau,,,"1,90",?
+52340,147,black,gaigai-na,,,60,
+52697,148,white,burabura-na,,,3,1
+53054,149,red,bweabweari-na,,,26,
+53411,150,yellow,raurau-na,,,,
+53768,151,green,karakarawi-na,,,"13, 52",
+54125,152,small,gidari-na,,,,
+54482,153,big,sinabwa-na,,,,
+80116,154,short,kukupa-na,,,20,
+80117,154,short,tuna-na,,,,
+55196,155,long,dudura-na,,,21,
+55553,156,thin,dedea-na,,,10,
+55910,157,thick,bado-na,,,18,
+80270,158,narrow,gilele-na,,,,
+80271,158,narrow,gibwagibwa,,,,
+56624,159,wide,bababa-na,,,,
+56981,160,"painful, sick",elo'uia,,,,
+57338,161,"shy, ashamed",omaiamaia,,,1,1
+57695,162,old,kadekaderi-na,,,,
+58052,163,new,auau-na,,,"1,26",1?
+58409,164,good,bobo'a-na,,,,
+58766,165,"bad, evil",to'umali-na,,,,
+59123,166,"correct, true",paruparu-na,,,19,
+59480,167,night,boiboi,,,1,1
+59837,168,day,'asiata,,,72,
+80914,169,year,sesoi,,,,
+80915,169,year,borimana,,,15,
+60551,170,when?,maisa,,,"1,83",1?
+60908,171,"to hide","e kwaia",,,,
+61265,172,"to climb",tu'e,,,,
+61622,173,at,'ena,,,29,
+61979,174,"in, inside",gamwanaia,,,11,
+62336,175,above,tabwanaia,,,59,
+62693,176,below,'agarauna,,,18,
+63050,177,this,gete,,,,
+63407,178,that,nina,,,1,1
+81609,179,near,serabenaia,,,,
+81610,179,near,deinaia,,,66,
+64121,180,far,'edidigura,,,,
+81727,181,where?,mane,,,13,
+81728,181,where?,mwa'o,,,,
+64835,182,I,'abo'agu,,,,1?
+65192,183,thou,'oiu,,,1,
+65549,184,he/she,tauna,,,9,
+118944,185,we,'abo'ada,,,,
+118945,185,we,'abo'ama,,,,
+66263,186,you,'omi,,,"1,13",1
+66620,187,they,taudi,,,21,
+66977,188,what?,toase,,,77,
+67334,189,who?,iaita,,,55,
+67691,190,other,wate,,,,
+68048,191,all,iauiau-na,,,53,
+82533,192,and,ta,,,30,
+82534,192,and,be,,,24,
+68762,193,if,'abo,,,9,
+69119,194,how?,mwa'adega,,,,
+118940,195,"no, not",nigea,,,"23,24",
+118941,195,"no, not",gea'abo,,,"23,105",
+118942,196,"to count",sawa,,,19,
+118943,196,"to count",iapu,,,,
+70190,197,One,"'e bweu",,,74,
+70547,198,Two,"'e rua",,,1,1
+70904,199,Three,"'e to",,,1,1?
+71261,200,Four,"'e ata",,,1,1
+89625,201,Five,nima,,,1,
+89626,202,Six,"nima 'e bweu",,,,
+89627,203,Seven,"nima 'e rua","5 + 2",,"5,2",
+89628,204,Eight,"nima 'e to",,,,
+89629,205,Nine,"nima 'e ata",,,11,
+172448,206,Ten,sanau,,,5,
+172447,207,Twenty,tai,'person',,33,

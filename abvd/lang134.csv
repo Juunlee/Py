@@ -1,0 +1,239 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+134,Tetum,"Blust, from Mathijsen",tdt,tetu1246,"This list appears to be a mixture of Tetun Dili (creole-like Portuguese-influenced lingua franca Tetun) and Tetun Terik (traditional vernacular), as well as some unusual words. Modern Tetun Dili would have far more Portuguese influence than this list suggests - Catharina Williams-van Klinken",,"Creole, Tetun based","Penny Keenan","Simon Greenhill","@book{9036,  address    = {'s Gravenhage},  booktitle  = {Verhandelingen van het Bataviaasch Genootschap van Kunsten en Wetenschappen},  pages      = {138},  publisher  = {M. Nijhoff},  title      = {Tettum-hollandsche woordenlijst, met beknopte spraakkunst},  volume     = {LVI:2},  year       = {1906},  bibtexkey  = {mathijsen_tettum-hollandsche1906},  fn         = {papua\mathijsen_tettum1906.pdf},  hhtype     = {grammar_sketch},  inlg       = {Dutch [nld]},  inlg_code  = {nld},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#s:Mathijsen:Tettum},  author     = {Mathijsen, A.}}"
+latitude,longitude
+-8.58102000000000053603,125.60669000000000039563
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+134,1,hand,liman,,,1,1
+491,2,left,karuk,,,,
+848,3,right,kwana,,,1,1
+1205,4,leg/foot,ain,,,1,1
+1562,5,"to walk",laʔo,,,1,1
+1919,6,road/path,dalan,,,1,1
+2276,7,"to come",mai,,,1,1
+71725,8,"to turn",filas,,,4?,
+71726,8,"to turn",fila,,,4?,
+71727,8,"to turn",faur,,,4?,
+2990,9,"to swim",nani,,,1,1
+71832,10,dirty,kfur,,,,
+71833,10,dirty,karebo,,,,
+3704,11,dust,"rai ahun",,,1?,1?
+4061,12,skin,kulit,,,1,1
+4418,13,back,kottuk,,,37,
+4775,14,belly,kabun,,,2?,
+5132,15,bone,ruʔin,,,2,
+5489,16,intestines,"te oan",,,,
+5846,17,liver,aten,,,1,1
+6203,18,breast,susun,,,1,1
+6560,19,shoulder,baas,,,6?,
+6917,20,"to know, be knowledgeable",hatana,,,35,
+7274,21,"to think",hanoʔin,,,5,
+7631,22,"to fear",hatauk,,,1,1
+7988,23,blood,raan,,,1,1
+8345,24,head,ulun,,,1,1
+8702,25,neck,kakorok,,,12?,
+9059,26,hair,fuuk,,,1,1
+9416,27,nose,inur,,,1,
+9773,28,"to breathe","hasaè nawan",,,1,1
+10130,29,"to sniff, smell",horan,,,,
+72853,30,mouth,ibun,,,39,
+72854,30,mouth,nunun,,,2,
+10844,31,tooth,nean,,,1?,?
+11201,32,tongue,nanaan,,,12,
+11558,33,"to laugh",hanassa,,,,
+11915,34,"to cry",tanis,,,1,1
+73127,35,"to vomit",kalea,,,,1
+73128,35,"to vomit",muta,,,1,1
+12629,36,"to spit",teniru,,,,
+12986,37,"to eat",ha,,,1?,?
+13343,38,"to chew",mamma,,,1,1
+89664,39,"to cook",teʔin,,,,1
+89665,39,"to cook",nasu,,,3,
+89666,39,"to cook",daʔan,,,2,
+14057,40,"to drink",hemu,,,,
+73556,41,"to bite",makkit,,,1,1
+73557,41,"to bite",hanisi,,,,1
+14771,42,"to suck",susu,,,1,1
+15128,43,ear,tilun,,,4,
+15485,44,"to hear",rona,,,1,1
+15842,45,eye,matan,,,1,1
+16199,46,"to see",hare,,,30,
+16556,47,"to yawn",maas,cf#76,,1?,1?
+16913,48,"to sleep",toba,,,43,
+17270,49,"to lie down",toba,,,36,
+74041,50,"to dream",mihin,,,1,1
+74042,50,"to dream",mehi,,,1,1
+17984,51,"to sit",tur,,,1,1
+18341,52,"to stand",harik,,,33,
+18698,53,"person/human being",emma,,,,
+19055,54,man/male,mane,,,1,1
+19412,55,woman/female,fetto,,,27,
+19769,56,child,oan,,,,
+20126,57,husband,laʔen,,,9?,
+20483,58,wife,fen,,,5,
+20840,59,mother,ina,,,1,1
+21197,60,father,ama,,,1,1
+21554,61,house,uma,,,1,1
+21911,62,thatch/roof,"tali tahan",,,,
+22268,63,name,naran,,,1,1
+22625,64,"to say",haʔak,,,,
+22982,65,rope,talin,,,1,1
+75002,66,"to tie up, fasten",futu,,,9?,
+75003,66,"to tie up, fasten",kmeti,,,,
+23696,67,"to sew",lita,,,44,
+24053,68,needle,daun,,,1,1
+24410,69,"to hunt",maraka,,,,
+24767,70,"to shoot",hana,,,1,1
+25124,71,"to stab, pierce",sona,,,,
+25481,72,"to hit",taè,,,,
+25838,73,"to steal",hanaʔo,,,1,1
+26195,74,"to kill",hŏŏ,,,,
+26552,75,"to die, be dead",mate,,,1,1
+26909,76,"to live, be alive",moris,,,1,1
+27266,77,"to scratch",koi,,,,
+75716,78,"to cut, hack",tetak,,,3,1
+75717,78,"to cut, hack",ta,,,1,1
+27980,79,stick/wood,ai,,,1,1
+75877,80,"to split",fotta,,,,?
+75878,80,"to split",fera,,,22,?
+75955,81,sharp,meek,,,,
+75956,81,sharp,kroat,,,99,
+75996,82,"dull, blunt","la meek",,,,
+75997,82,"dull, blunt",dubus,,,38,
+76054,83,"to work",knawar,,,,
+76055,83,"to work",serewisu,,,,
+29765,84,"to plant",furi,,,40,
+76180,85,"to choose",kakkan,,,,
+76181,85,"to choose",booi,,,22,
+30836,87,"to swell",bubu,,,3,
+31193,88,"to squeeze",kumu,,,5,
+31550,89,"to hold",humur,,,,
+31907,90,"to dig",keʔe,,,,
+32264,91,"to buy",sossa,,,31,
+32621,92,"to open, uncover",lake,,,6?,
+32978,93,"to pound, beat",fai,,,15,1
+33335,94,"to throw",tuda,,,1,1
+33692,95,"to fall",monu,,,1,
+34049,96,dog,asu,,,1,1
+34406,97,bird,"manu fuʔik",,,1,1
+34763,98,egg,tollun,,,1,1
+35120,99,feather,rahun,,,40,
+35477,100,wing,liras,,,6,
+35834,101,"to fly",semo,,,42,
+36191,102,rat,lahŏ,,,1?,?
+77220,103,meat/flesh,isin,,,1,1
+77221,103,meat/flesh,naʔan,,,,1
+77294,104,fat/grease,boran,,,33,1
+77295,104,fat/grease,mina,,,1,1
+37262,105,tail,ikun,,,1,1
+37619,106,snake,samea,,,40,
+37976,107,"worm (earthworm)","lattik rai",,,1,1
+38333,108,louse,utu,,,1,1
+77521,109,mosquito,ninik,,,17,
+77522,109,mosquito,susuk,,,45,
+39047,110,spider,labadain,,,1?,?
+39404,111,fish,naʔan,,,,
+39761,112,rotten,dodok,,,35,
+40118,113,branch,wattan,,,,
+40475,114,leaf,tahan,,,7,
+40832,115,root,abut,,,3,
+41189,116,flower,"ai funan",,,1,1
+41546,117,fruit,"ai fuan",,,1,1
+41903,118,grass,haè,,,42,
+42260,119,earth/soil,rai,,,4,
+42617,120,stone,fatuk,,,1,1
+42974,121,sand,"rai henik",,,48,?
+43331,122,water,we,,,2,1
+43688,123,"to flow",suli,,,28,?
+44045,124,sea,tasi,,,1,1
+44402,125,salt,masin,,,3,
+44759,126,lake,"we lihun",,,,
+45116,127,woods/forest,alas,,,1,1
+45473,128,sky,lalean,,,10?,
+45830,129,moon,fulan,,,1,1
+46187,130,star,fitun,,,1,1
+46544,131,cloud,kaloan,,,,
+46901,132,fog,"ai abu",,,1,1
+47258,133,rain,udan,,,1,1
+47615,134,thunder,kukur,,,1,?
+47972,135,lightning,mameran,,,42,
+48329,136,wind,anin,,,1,1
+48686,137,"to blow",hu,,,5,
+49043,138,warm,manas,,,1,1
+49400,139,cold,malirin,,,1,1
+49757,140,dry,maran,,,1,1
+79328,141,wet,bottes,,,,
+79329,141,wet,bokon,,,,
+50471,142,heavy,todan,,,,
+50828,143,fire,haʔi,(<M),,1,1?
+79481,144,"to burn",sunu,,,1?,
+79482,144,"to burn",namottuk,,,,
+51542,145,smoke,dubun,,,36,
+52256,147,black,metan,,,1,1
+52613,148,white,mutin,,,1?,1
+52970,149,red,mean,,,1,1
+53327,150,yellow,modak,,,,
+53684,151,green,matak,,,1,
+54041,152,small,kiʔik,,,1,
+54398,153,big,bôt,,,9?,
+80107,154,short,bettek,,,54?,1?
+80108,154,short,badak,,,54,1?
+55112,155,long,naruk,,,1,
+55469,156,thin,niʔis,,,1,1
+55826,157,thick,maʔar,,,,
+56183,158,narrow,klot,,,8?,
+56540,159,wide,luwa,,,1?,?
+56897,160,"painful, sick",moras,,,46,
+57254,161,"shy, ashamed",moè,,,33,
+57611,162,old,tuan,,,1,1
+57968,163,new,foon,,,1,1?
+58325,164,good,diak,,,43,1
+58682,165,"bad, evil",aat,,,1?,?
+80762,166,"correct, true",tebes,,,34,
+80763,166,"correct, true",lôs,,,,
+59396,167,night,kalan,,,20?,
+59753,168,day,loron,,,26,1
+60110,169,year,tinan,,,42,
+60467,170,when?,"bai hira",,,1?,
+60824,171,"to hide",funin,,,1,1
+61181,172,"to climb",saʔe,,,2?,
+61538,173,at,iha,,,20?,
+61895,174,"in, inside","iha laran",,,1,1
+62252,175,above,letten,,,,
+62609,176,below,kraik,,,,
+62966,177,this,neʔe,,,1,
+63323,178,that,nia,(<M),,1,1?
+81592,179,near,kreʔis,,,,
+81593,179,near,tukus,,,,
+64037,180,far,kedok,,,,
+64394,181,where?,"iha neʔebè",,,2?,
+64751,182,I,hau,,,1,1
+65108,183,thou,o,,,1,1
+65465,184,he/she,nia,,,1,1
+113916,185,we,ita,,,1,1
+113917,185,we,ami,,,2,
+66179,186,you,emi,,,"1,13",1
+66536,187,they,sia,,,1,1
+66893,188,what?,sa,,,1,1
+67250,189,who?,se,,,1,1
+67607,190,other,seluk,,,6,
+82411,191,all,"hotu hotu",,,11,
+82412,191,all,falu,,,,
+68321,192,and,no,,,7,?
+68678,193,if,kalau,,L,14,
+69035,194,how?,"na nuusa",,,,
+69392,195,"no, not","la [le]",,,,
+69749,196,"to count",sura,,,7,
+70106,197,One,ida,,,1?,
+70463,198,Two,rua,,,1,
+70820,199,Three,tollu,,,1,
+71177,200,Four,haat,,1,1,
+133381,201,Five,lima,,,1,
+133372,202,Six,neen,,,,
+133373,203,Seven,hitu,,,1,
+133380,204,Eight,ualu,,,,
+133379,205,Nine,sia,,,,
+133374,206,Ten,sanulu,,,5,
+133378,207,Twenty,ruanulu,,,,
+133377,208,Fifty,limanulu,,,,
+133376,209,"One Hundred","atus ida",,,,
+133375,210,"One Thousand",rihun,,,,

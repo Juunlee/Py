@@ -1,0 +1,239 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+174,"Pulo Anna",Unknown,sov,sons1242,"WARNING: This does not appear to be Puluwat. Reilly Ridgell suggests this is a Yap dialect.This has been confirmed by Peter Steager as definitely not Puluwatese. Paul Lassettre: The language labeled \"Puluwatese (?)\" that has been determined not to be Puluwatese is Pulo Anna. You can compare it with your own entry for Pulo Anna and see. I've compared it with Odo 1977 as well, and there are some orthographic differences (e.g. ú instead of ɨ) but no really substantial differences. It's also worth noting that \"Pul\" has been used as a code for Pulo Anna in the past; perhaps this was the original code and somebody assumed it signified Puluwates and changed it to \"Puw\".",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Micronesian, Micronesian Proper, Ponapeic-Trukic, Trukic","Simon Greenhill","Simon Greenhill","@misc{Anonymous-174-2005,  author = \"Anonymous\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+4.72352468172096973120,132.09859539770948799742
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+174,1,hand,kumwusʊ,,,9,
+531,2,left,kurusekirɪ,,,,
+888,3,right,kurumaala,,,,
+1245,4,leg/foot,pasa-pasa,,,15,
+1602,5,"to walk",nako,,,1,1
+1959,6,road/path,yana,,,1,1
+2316,7,"to come",pwi-,,,,
+2673,8,"to turn",wekɪ,,,12,
+3030,9,"to swim",yada,"'yáf' not 'yada'",,7,
+3387,10,dirty,pponʊ́,,,74,
+3744,11,dust,kalatú,,,,
+4101,12,skin,kinɪ,,,1,1
+4458,13,back,takúlʊ́,,,12,
+4815,14,belly,upwa,,,11,
+5172,15,bone,ssi,,,2,
+5886,17,liver,yadɛ,,,1,1
+6243,18,breast,tútʊ́,,,1,1
+6600,19,shoulder,yadala,,,1,1
+6957,20,"to know, be knowledgeable",kúna-a,,,18,
+7314,21,"to think",mengi-a,,,11,
+7671,22,"to fear",matakʊ,,,1,1
+8028,23,blood,ssaa,,,1,1
+88557,24,head,simwa,,,11,
+88558,24,head,dadúkʊ́,,,12,
+8742,25,neck,úya,,,18,
+72619,26,hair,yanɪ,,,11,
+72620,26,hair,nanɪ,,,11,
+9456,27,nose,pwaútʊ́,13?,,"1,12",1
+9813,28,"to breathe",ngada,"no \"d\" in PUL - JCM",,10,
+72808,29,"to sniff, smell",tangʊ́,,,11,
+72809,29,"to sniff, smell",itakʊ́,,,,
+10527,30,mouth,yawa,,,36,
+10884,31,tooth,ngii,?,,30,?
+11241,32,tongue,newɛ,,,17,
+11598,33,"to laugh",mmanɪ,,,3,
+11955,34,"to cry",tangɪ,,,1,1
+12312,35,"to vomit",mwmwuta,,,1,1
+12669,36,"to spit",kutudɛ,,,"14, 89",
+89295,37,"to eat",mwangaʊ́,,,8,1?
+89296,37,"to eat",kangia,,,1,
+13383,38,"to chew",ka-memee,,,"1, 28",1?
+13740,39,"to cook",meté,,,"19, 82",
+73478,40,"to drink",únú,,,1,1
+73479,40,"to drink",únúmi-,,,1,1
+14454,41,"to bite",kúdú-,,,9,1
+14811,42,"to suck",do-dolo,,,66,
+15168,43,ear,taninga,,,1,1
+15525,44,"to hear",longo-longo,,,1,1
+15882,45,eye,mata,,,1,1
+16239,46,"to see",weli-,,,10,
+16596,47,"to yawn",maao,,,19,?
+16953,48,"to sleep",madúlʊ́,,,1,1
+17310,49,"to lie down",wono-,,,1,1?
+17667,50,"to dream",ttana,,,9,
+18024,51,"to sit",maato,,,"18,101",
+18381,52,"to stand",dúú-,,,2,1
+18738,53,"person/human being",yalemata,,,"67,70",1?
+19095,54,man/male,mwaanɛ,,,1,1
+74292,55,woman/female,deidinɛ,,,"1,35",1
+74293,55,woman/female,dine-,,,"1,35",1
+74373,56,child,naú,,,5,
+74374,56,child,núweisɪ,,,5,
+20880,59,mother,dina,,,1,1
+21237,60,father,tama,,,1,1
+21594,61,house,imwa,,,"1, 48",1
+21951,62,thatch/roof,yado,,,1,1
+22308,63,name,ita,,,66,?
+74813,64,"to say",kaʊ́,,,144,1
+74814,64,"to say",dolʊ́,,,62,1
+23022,65,rope,tanɪ,,,1,1
+23379,66,"to tie up, fasten",ka-mmwasʊ́,,,,
+23736,67,"to sew",tei-teɪ,,,2,1
+24093,68,needle,sii-tapwʊ,,,,
+24807,70,"to shoot",pweedɪ,,,,
+25164,71,"to stab, pierce",tou-toʊ,,,13,
+25521,72,"to hit",wan-tú,,,,
+91796,73,"to steal",mwasoko,,,9,?
+91797,73,"to steal",piladʊ́,,,8,
+26235,74,"to kill",nii-,,,11,
+26592,75,"to die, be dead",madɛ,,,1,1
+26949,76,"to live, be alive",maúlʊ́,,,"1, 76",1
+27306,77,"to scratch",kelikelɪ,"(cp. Selaru)",,12,
+27663,78,"to cut, hack",tapa-tapa,,,19,
+28020,79,stick/wood,ilaɛ,,,2,
+28377,80,"to split",tina-ngi,,,29,1
+28734,81,sharp,kkangɪ,,,"14,68",1?
+29091,82,"dull, blunt",kuʊ,,,72,
+29448,83,"to work",fitekɪ,,,,
+29805,84,"to plant",datoki,,,6,
+30162,85,"to choose",tiwerɛ,,,,1
+76229,86,"to grow",kokoti,,,,
+76230,86,"to grow",tumuna,,,22,
+30876,87,"to swell",pwoo,,,9,?
+31233,88,"to squeeze",fiya-fiya,,,15,
+31590,89,"to hold",ka-mwasú,,,16,
+31947,90,"to dig",k-kenɪ,,,1,1
+32304,91,"to buy",parú-yerʊ́,,,,
+32661,92,"to open, uncover",duuki,,,11,
+102917,93,"to pound, beat",dúú-dúʊ́,,,"20, 2",1?
+102918,93,"to pound, beat",ppao,,,3,
+33375,94,"to throw",ka-tingi,,,105,
+33732,95,"to fall",púngʊ́,,,15,
+34089,96,dog,pirisɪ,,,,
+34446,97,bird,manʊ́,,,1,1
+34803,98,egg,sakaɪ,,,8,
+35160,99,feather,úna,,,30,
+35517,100,wing,paú,,,7,
+35874,101,"to fly",yanɪ,,,13,
+36231,102,rat,kesɪ,,,16,
+36588,103,meat/flesh,ditiko,,,10,
+36945,104,fat/grease,kinisɪ,Loan,L,,
+37302,105,tail,paasa,,,,
+38016,107,"worm (earthworm)",paa,,,,
+38373,108,louse,kúdʊ́,,,1,1
+38730,109,mosquito,namwʊ,,,1,1
+39087,110,spider,nikatapwolala,,,7,
+39444,111,fish,ika,,,1,1
+39801,112,rotten,pwaa,,,17,
+40158,113,branch,laa,,,1,1
+40515,114,leaf,saʊ́,,,1,1
+40872,115,root,waka,,,2,1
+41229,116,flower,pwungʊ,,,1,
+41586,117,fruit,uwa,,,1,1
+41943,118,grass,datinɪ,,,1,1
+105389,119,earth/soil,i-dano-pa,,,1,1
+105390,119,earth/soil,pwanʊ́,,,13,
+42657,120,stone,dadʊ́,,,1,1
+43014,121,sand,piia,,,12,
+43371,122,water,sanʊ́,,,1,1
+43728,123,"to flow",kilidɪ,,,,
+44085,124,sea,tatɪ,,,1,1
+44442,125,salt,solo,,L,,
+45156,127,woods/forest,wonu-wonʊ,,,17,
+45513,128,sky,nangɪ,,,1,1
+45870,129,moon,malama,,,7,
+46227,130,star,didi,,,1,1
+46584,131,cloud,kosoʊ,,,15,
+46941,132,fog,kalatʊ́,,,78,
+47298,133,rain,úta,,,1,1
+47655,134,thunder,pala,,,"15, 16",
+48012,135,lightning,marupɛ,,,,
+48369,136,wind,yangɪ,,,1,1
+48726,137,"to blow",uku,,,15,
+49083,138,warm,pwesɪ,,,10,
+49440,139,cold,ddééʊ́,,,11,
+79251,140,dry,p-pana,,,67,
+79252,140,dry,pwata-pwata,,,14,
+50154,141,wet,upwopwʊ,,,,
+50511,142,heavy,ssaʊ,,,9,
+50868,143,fire,yadɪ,,,1,1
+51225,144,"to burn",kúú,,,10,
+51582,145,smoke,pwuloko,,,,
+51939,146,ash,dananga,,,8,
+52296,147,black,loso-loso,,,,
+52653,148,white,pwese-pwesɛ,,,11,
+53010,149,red,losasa,,,,
+53367,150,yellow,langa,,,13,
+53724,151,green,ka-lawa-lawa,,,"13, 52",
+79890,152,small,kappa-,,,,1
+79891,152,small,-sikɪ,,,81,1
+80016,153,big,kappanʊ́,,,,
+80017,153,big,napa,,,10,
+54795,154,short,mwoso,,,12,
+55152,155,long,yanaɪ,,,13,
+55509,156,thin,manidɪ,,,1,1
+55866,157,thick,madanʊ́,,,3,
+56223,158,narrow,saú-sikɪ,,,13,
+56580,159,wide,saú-napa,,,"9, 48",
+56937,160,"painful, sick",matakɪ,,,1,1
+57294,161,"shy, ashamed",mma,,,1,1
+57651,162,old,tikodaɪ,,,54,
+58008,163,new,tai-daʊ́,,,"1, 25",1
+58365,164,good,maʊ́,,,38,
+58722,165,"bad, evil",ta-maʊ́,,,,
+59079,166,"correct, true",pwúngʊ́,,,12,
+59436,167,night,pwongɪ,,,1,1
+59793,168,day,lanɪ,,,6,1
+60150,169,year,madinapa,,,,
+80944,170,when?,ingaeta,,,"1,24",1
+80945,170,when?,wangaeta,,,"1,24",1
+60864,171,"to hide",mwano,,,4,
+61221,172,"to climb",táu-,,,8,
+81121,173,at,na-,"irregular initial consonant - *d > l",,30,1
+81122,173,at,lo-,,,38,1
+81123,173,at,i-,,,1,1
+61935,174,"in, inside",nano-,,,1,1
+62292,175,above,o-,,,2,
+62649,176,below,da-,,,1,1?
+63006,177,this,ye,,,"1, 18",
+63363,178,that,na,,,1,1
+63720,179,near,kalepa,,,13,
+64077,180,far,ttao,,,1,?
+64434,181,where?,iiyaa,,,37,
+123656,182,I,ngaanʊ́,foc.pron,,12,
+123657,182,I,i,"subj.pron. obj.pron",,x,
+123658,182,I,-eɪ,poss.pron,,x,
+123659,182,I,-ɪ,,,x,
+123540,183,thou,keena,foc.pron,,6,?
+123541,183,thou,ko,subj.pron.,,1,
+123542,183,thou,-ko,obj.pron,,1,
+123543,183,thou,-mwʊ,poss.pron,,x,
+132617,184,he/she,ia,foc.pron,,1,1
+132618,184,he/she,e,subj.pron,,x,
+132619,184,he/she,-a-,obj.pron,,x,
+132620,184,he/she,-na,poss.pron,,x,
+123795,185,we,kisa,foc.pron,,"1, 42",1
+123796,185,we,di,subj.pron,,9,
+123797,185,we,-kisa,obj.pron,,"1, 42",
+123798,185,we,-sa,poss.pron,,"1, 42",
+123294,186,you,kaamiɪ,foc.pron,,"1,13",1
+123295,186,you,kaú,subj.pron.,,x,
+123296,186,you,-kamiɪ,obj.pron,,x,
+123297,186,you,-miɪ,poss.pron,,x,
+123371,187,they,ila,foc.pron,,"1, 70",1
+123372,187,they,le,subj.pron,,"1, 70",
+123373,187,they,-ila,obj.pron,,"1, 70",
+123374,187,they,-ila,poss.pron,,"1, 70",
+66933,188,what?,metaa,,,"1, 64",1
+67290,189,who?,itéʊ́,,,9,?
+68004,191,all,wunúta-,,,,
+122958,192,and,ma,,,2,1
+122959,192,and,nga,,,10,
+68718,193,if,kaleɛ,,,7,
+82639,194,how?,idaa,,,12,
+82640,194,how?,deita,,,12,
+82731,195,"no, not",nnawenɪ,,,,
+82732,195,"no, not",-taɪ,,,4,
+82790,196,"to count",pako,,,,
+82791,196,"to count",wete-wetɛ,,,10,
+70146,197,One,de-,,,14,
+70503,198,Two,lie-,,,1,1
+82964,199,Three,dénɪ,,,1,1
+82965,199,Three,déni-,,,1,1
+71217,200,Four,daa-,,,68,1

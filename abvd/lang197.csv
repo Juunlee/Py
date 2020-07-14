@@ -1,0 +1,212 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+197,"Elat, Kei Besar","Jim Collins",bnd,band1355,"one of two dialects of \"Old Bandanese\"",,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Central Maluku, East, Banda-Geser","Peng Du","Simon Greenhill","@misc{Collins-197-2005,  author = \"Jim Collins\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-5.64059000000000043684,133.01696999999998638486
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+197,1,hand,liman,,,"1,64",1
+554,2,left,"fano fitar",,,,
+911,3,right,"fano ratu",,,1,
+1268,4,leg/foot,ain,,,1,1
+1625,5,"to walk",mbo,[,,2,
+1982,6,road/path,enen,,,,?
+2339,7,"to come",oma,,,1?,1?
+2696,8,"to turn",mbutor,"stir",,1,
+87895,9,"to swim","mbo lo lu",,,,
+87896,9,"to swim",mamo,"ford river/walk in water",,,
+3410,10,dirty,monǰon,,,,
+3767,11,dust,ofin,,,,?
+4124,12,skin,kilit,,,1,1
+4481,13,back,mirin,"Probably a spatial relation and not a bodypart",,3,
+4838,14,belly,tian,,,1,1
+5195,15,bone,ririn,,,2,
+5552,16,intestines,"tain kambun",,,1?,?
+5909,17,liver,nano-,"cp. ILK",,13,
+6266,18,breast,susum,,,1,1
+6623,19,shoulder,fara-,,,1,1
+6980,20,"to know, be knowledgeable","mbo kaiko",,,,
+7337,21,"to think",mfikir,"loan of 22?",L,,
+7694,22,"to fear",mbotaku,,,1,1
+8051,23,blood,nanan,,,1,1
+8408,24,head,ulun,,,1,1
+8765,25,neck,enun,,,,
+9122,26,hair,fuk,,,1,1
+9479,27,nose,milun,,,1,1
+9836,28,"to breathe","-ilik muwa-",,,,1?
+10193,29,"to sniff, smell",mbokfau,,,,
+10550,30,mouth,suʷom,,,40,
+10907,31,tooth,ni|no,,,1,1?
+11264,32,tongue,me|no,,,"6,12?",
+11621,33,"to laugh",mbo|malik,,,3,
+73082,34,"to cry",ndaut,,,28,
+73083,34,"to cry",akraut,,,28,
+12335,35,"to vomit",luako,,,8,
+12692,36,"to spit",mbifriru,,,,
+13049,37,"to eat",mban,,,,
+13406,38,"to chew",mamo,,,1,1
+13763,39,"to cook",ndatu,,,1,
+14120,40,"to drink",ŋimu,,,1,1
+14477,41,"to bite",-iki,,,1?,?
+73665,42,"to suck",nusbuk,,,67,?
+73666,42,"to suck",ndusu,,,1?,?
+73667,42,"to suck",mtol,,,2?,?
+15191,43,ear,tilum,,,"1,4",?
+15548,44,"to hear",motan,,,,
+15905,45,eye,matan,,,1,1
+16262,46,"to see",-ito,,,1,1
+16619,47,"to yawn",ndususuo,,,,
+16976,48,"to sleep",-turu,,,1,1
+17333,49,"to lie down","-turu mbolon",,,,
+17690,50,"to dream",ndososu,,,,
+18047,51,"to sit",metet,,,,
+18404,52,"to stand",meliru,,,1,
+18761,53,"person/human being",mančia,,L,,
+19118,54,man/male,morana,,,1,1
+19475,55,woman/female,meifino,,,"1,51",1
+19832,56,child,anako,,,1,1
+20189,57,husband,"taun morana",,,47,
+20546,58,wife,"taun meifino",,,"5,35",
+20903,59,mother,ina-,,,1,1
+21260,60,father,ama-,,,1,1
+21617,61,house,rumo,,,1,1
+21974,62,thatch/roof,atop,,,1,1
+22331,63,name,nalan,,,1,1
+22688,64,"to say",lia,,,7,
+23045,65,rope,warot,,,2,
+23402,66,"to tie up, fasten",lakot,,,1?,?
+23759,67,"to sew",mborait,,,2,1
+24116,68,needle,bilin,,,18,
+24473,69,"to hunt",raste,,,,
+24830,70,"to shoot",mbano,,,1,1
+25187,71,"to stab, pierce",ndusuk,,,1,1
+25544,72,"to hit",ndukul,,,40,
+25901,73,"to steal",mbomaka,,,"1,59,60",1
+26258,74,"to kill",mbokota,,,,
+26615,75,"to die, be dead",mata-,,,1,1
+26972,76,"to live, be alive",munuli,,,,?
+27329,77,"to scratch",mboskakir,,,,
+27686,78,"to cut, hack",mbutu,,,,
+28043,79,stick/wood,uno,,,1?,?
+28400,80,"to split",mbofkila,,,,
+28757,81,sharp,mout,,,7?,
+29114,82,"dull, blunt",tutal,,,,
+29471,83,"to work",mbuno,,,,
+29828,84,"to plant",ndano,,,2?,1
+30185,85,"to choose",mbili,,,1,1
+30542,86,"to grow",mbotuk,,,1?,
+30899,87,"to swell",ndo|faro,,,59,1
+31256,88,"to squeeze",ndembet,,,,
+31613,89,"to hold",ndakan,,,7,
+31970,90,"to dig",mbaero,,,,
+32327,91,"to buy",mbaso,,,,
+32684,92,"to open, uncover",mbende,,,,
+33041,93,"to pound, beat",ndutu,,,20,1
+33398,94,"to throw",ndutu,,,,
+33755,95,"to fall",monafu,,,"1,106",1
+34112,96,dog,asu,,,1,1
+34469,97,bird,manuk,,,1,1
+34826,98,egg,tulur,,,1,1
+35183,99,feather,fulun,,,1,1
+35540,100,wing,fono,,,2?,
+35897,101,"to fly",ndifu,,,6?,
+36254,102,rat,folafa,,,"1,9",1
+36611,103,meat/flesh,isin,,,31,1
+36968,104,fat/grease,loloino,,,,
+37325,105,tail,keto,,,1?,
+37682,106,snake,nia,,,1,1
+38039,107,"worm (earthworm)","tambir luano",,,,
+38396,108,louse,kutu,,,1,1
+38753,109,mosquito,lokumut,,,,
+39110,110,spider,lau,,,1,1
+39467,111,fish,ikan,,,1,1
+39824,112,rotten,kombu,,,,
+40181,113,branch,sanano,,,2,
+40538,114,leaf,rano,,,1,1
+40895,115,root,wakato,,,2,1
+41252,116,flower,saur,,,,
+41609,117,fruit,fuan,,,1,1
+41966,118,grass,furun,,,40,
+42323,119,earth/soil,nonain,,,,
+42680,120,stone,fatu,,,1,1
+43037,121,sand,nui,,,,
+43394,122,water,was,"cf 144",,2,1
+43751,123,"to flow",mondon,,,,
+78340,124,sea,nutelu,,,1,1
+78341,124,sea,tasik,,,1,1
+44465,125,salt,masin,,,"3,45",
+44822,126,lake,koʷal,,,,
+45179,127,woods/forest,"mur wasi",,,9,
+45536,128,sky,laŋit,,,1,1
+45893,129,moon,fulan,,,1,1
+46250,130,star,fotuon,,,1,1
+46607,131,cloud,"anim rano",,,"3?,1?",?
+46964,132,fog,fut,,,,?
+47321,133,rain,wien,,,1,1
+47678,134,thunder,"ŋumun ŋamaru",,,,
+48035,135,lightning,ndaraki,,,,
+48392,136,wind,anin,,,1,1
+48749,137,"to blow",mbufruko,,,,
+49106,138,warm,wanato,,,,?
+49463,139,cold,sindin,,,1,1
+49820,140,dry,ŋelekan,,,,?
+50177,141,wet,ǰiŋan,,,,
+50534,142,heavy,firato,,,,1
+50891,143,fire,au,,,1,1
+51248,144,"to burn",ndurin,,,,
+51605,145,smoke,foko,,,,
+51962,146,ash,af|tai,,,"1,4",1?
+52319,147,black,metemeten,,,1,1
+52676,148,white,noinoitiŋo,,,,
+53033,149,red,moro-moro,,,1?,
+53390,150,yellow,kuni|liko,,,1,1?
+53747,151,green,kainanranoko,,,,
+54104,152,small,doŋwro,,,,
+54461,153,big,na,,,,1
+54818,154,short,noitik,,,,
+55175,155,long,naw,,,1,1
+55532,156,thin,munit,"cf 28,179",,1?,1?
+55889,157,thick,karato,,,,
+56246,158,narrow,ndeteko,,,,
+56603,159,wide,lafaro,"MAL L?",L?,,?
+56960,160,"painful, sick",nelet,,,,
+57317,161,"shy, ashamed",momáɪ,cp110,,1?,1
+57674,162,old,mototuano,,,1,1
+58031,163,new,feruno,,,1,1
+80609,164,good,naŋea,,,,
+80610,164,good,naŋeŋiano,,,,
+58745,165,"bad, evil",fisfiso,,,,
+59102,166,"correct, true",mololo,,,4,
+59459,167,night,monǰia,,,,
+59816,168,day,refoko,,,,
+60173,169,year,taun,,L?,1?,
+60530,170,when?,nefilo,,,,1
+60887,171,"to hide",mbomoroko,,,,
+61244,172,"to climb",saka,,,2,
+61601,173,at,wa,,,3,
+61958,174,"in, inside",wararóm,,,1,1
+62315,175,above,tutu|no,,,,
+62672,176,below,fofa|no,,,1,1
+63029,177,this,i:,,,,
+63386,178,that,ikou,"cp 159",,,
+63743,179,near,nunik,,,,1?
+64100,180,far,nau,,,1,1
+64457,181,where?,mbe,,,2,
+64814,182,I,ak,,,1,1
+65171,183,thou,ka,,,1,1
+65528,184,he/she,i,,,1,1
+114001,185,we,kito,,,1,1
+114002,185,we,kam,,,2,
+66242,186,you,kim,,,"1,13",1
+66599,187,they,si,,,1,1
+66956,188,what?,an|sá,,,1?,1?
+67313,189,who?,se,,,1,1
+67670,190,other,fasivi,,,,
+68027,191,all,abisi,,,9,
+68384,192,and,ndofon,,,,
+68741,193,if,naku,,,,?
+69098,194,how?,ŋenbe,,,,
+69455,195,"no, not",ta,,,4,
+69812,196,"to count",neke,,L,,
+70169,197,One,sa,,,1,1
+70526,198,Two,ruo,,,1,1
+70883,199,Three,telu,,,1,1
+71240,200,Four,at,,,1,1

@@ -1,0 +1,276 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+153,Cebuano,"Gemma Losbaños & Hermelito Go",ceb,cebu1242,"Corrections 04/12/2004 By Hermelito Go on multiple items. More corrections 02/04/2006 by Piers Kelly.Note that Spanish forms for numerals are in common use.",,"Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Bisayan, Cebuan","Peng Du","Simon Greenhill","@misc{Go-153-2005,  author = \"Gemma Losbaños & Hermelito Go\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+10.43379324318443224229,123.81591796875000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+153,1,hand,kamút,"The sound correspondence isn't regular, but sporadic g/k interchange is fairly common as a result of what is sometimes called 'the aerodynamic voicing constraint' in the general phonetics literature.",,"21,68",
+510,2,left,walá,,,"25,68",
+867,3,right,tuó,,,"5,25",
+153648,4,leg/foot,paa,,,105,
+1224,4,leg/foot,tíil,,,10,
+71558,5,"to walk",molakáw,,,1,1
+71559,5,"to walk",lakát,,,40,1
+1938,6,road/path,dálan,,,1,1
+129269,6,road/path,agianan,,,56,
+71654,7,"to come",moanhi,,,,1
+71655,7,"to come",ánhi,,,,1
+155021,7,"to come",moari,,,,
+2652,8,"to turn",moliko,,,21,
+3009,9,"to swim",molangóy,,,1,1
+3366,10,dirty,húgaw,,,119,
+3723,11,dust,abúg,,,53,1?
+4080,12,skin,pánit,,,"2,85",
+4437,13,back,likód,,,1,1
+4794,14,belly,tiyán,,,1,1
+5151,15,bone,bukóg,,,16,
+5508,16,intestines,tiná-i,,,1,1
+5865,17,liver,atáy,,,1,1
+6222,18,breast,dúghan,chest,,,
+129279,18,breast,suso,,,1,
+129280,18,breast,tutoy,,,,
+6579,19,shoulder,abága,,,1,1
+72308,20,"to know, be knowledgeable",maalamon,,,58,
+72309,20,"to know, be knowledgeable",ma-antígo,"spanish loan word",L,,
+165247,20,"to know, be knowledgeable",kamaò,,,,
+165248,20,"to know, be knowledgeable",kabalò,,,107,
+7293,21,"to think",maghunahúna,,,24,
+7650,22,"to fear",mahádlok,,,16,
+8007,23,blood,dugố,,,16,
+8364,24,head,úlo,,,1,1
+8721,25,neck,líog,,,1,1
+9078,26,hair,buhók,,,"1,65",1
+9435,27,nose,ilóng,,,1,1
+9792,28,"to breathe",moginháwa,,,"1,70",1
+10149,29,"to sniff, smell",mosímhot,,,"31,82",
+10506,30,mouth,ba'ʔba'ʔ,"Correction: Hermelito Go",,1,1
+10863,31,tooth,ngípon,,,"1,48",1
+11220,32,tongue,díla,,,4,1
+11577,33,"to laugh",mokatáwa,,,1,1
+11934,34,"to cry",mohílak,,,,
+73133,35,"to vomit",mosuka,"Correction: Hermelito Go",,9,
+73134,35,"to vomit",su'ka,"Correction: Hermelito Go",,9,
+12648,36,"to spit",manluwa,"Correction: Hermelito Go, should have final glottal stop",,,
+13005,37,"to eat",mokáon,,,1,1
+73320,38,"to chew",úsapon,,,"17,18",
+73321,38,"to chew",mousap,,,"17,18",
+13719,39,"to cook",magluto,"Correction: Hermelito Go",,20,
+14076,40,"to drink",moinúm,,,1,1
+14433,41,"to bite",mopáak,,,,
+14790,42,"to suck",mosúpsup,,,1,1
+15147,43,ear,dalúnggan,,,11,
+73753,44,"to hear",madungóg,,,1,1
+73754,44,"to hear",maminaw,,,1,1
+15861,45,eye,matá,,,1,1
+16218,46,"to see",motan-aw,,,111,
+16575,47,"to yawn",manghúy-ab,,,"1,38",1?
+16932,48,"to sleep",matúlog,,,1,1
+17289,49,"to lie down",mohigdâ,,,"19,30",
+17646,50,"to dream",magdámgo,,,21,
+18003,51,"to sit",molíngkod,,,45,
+18360,52,"to stand",motíndog,,,20,
+153647,53,"person/human being",tau,,,1,
+18717,53,"person/human being",táwo,,,1,1
+19074,54,man/male,laláki,,,"2,99",1
+19431,55,woman/female,babáye,,,"1,105",1
+153646,56,child,anak,,,1,
+19788,56,child,bátâ,,,16,
+20145,57,husband,bána,,,1,
+20502,58,wife,asáwa,,,1,1
+20859,59,mother,inahán,,,,1
+21216,60,father,amahán,,,1,1
+21573,61,house,baláy,,,14,
+21930,62,thatch/roof,atúp,,,1,1
+22287,63,name,ngálan,,,1,1
+74808,64,"to say",búngat,,,,
+74809,64,"to say",súlti,,,46,
+23001,65,rope,písi,,,22,
+23358,66,"to tie up, fasten",ihukót,,,1,1?
+23715,67,"to sew",magtahí,,,1,1
+24072,68,needle,dágum,,,1,1
+87817,69,"to hunt",mangayam,"mangayam is correct term",,25,
+87818,69,"to hunt",màmaríl,"mamaril is a loan",L,,
+24786,70,"to shoot",mamana,,,1,1
+167966,70,"to shoot",tira,,,,
+167967,70,"to shoot",motira,,,,
+75327,71,"to stab, pierce",lubâ,,,,
+75328,71,"to stab, pierce",túhog,,,,
+155020,71,"to stab, pierce",dunggab,,,,
+153645,72,"to hit",manumbag,,,,
+25500,72,"to hit",mobángag,"Correction: Hermelito Go",,,
+165205,72,"to hit",maigô,,,,
+25857,73,"to steal",káwaton,,,24,
+26214,74,"to kill",mopatáy,,,2,
+26571,75,"to die, be dead",mamatay,,,"1,35",1
+26928,76,"to live, be alive",mabuhi,,,"14,74",
+27285,77,"to scratch",káloton,"cf 90",,"37,78",?
+75727,78,"to cut, hack",moputól,,,37,
+75728,78,"to cut, hack",mobúghâ,,,,
+27999,79,stick/wood,káhoy,,,1,1
+28356,80,"to split",píkason,"Correction: Hermelito Go",,39,
+28713,81,sharp,háit,,,38,
+29070,82,"dull, blunt",hábul,,,68,
+29427,83,"to work",mag-uma,,,1,1
+29784,84,"to plant",magtanúm,,,2,1
+30141,85,"to choose",pílî-on,,,1,1
+30498,86,"to grow",motúbô,,,1,1
+30855,87,"to swell",mohúbag,,,8,
+31212,88,"to squeeze",mopuǵaʔ,,,"1,37",1?
+76451,89,"to hold",mohawid,,,,
+76452,89,"to hold",mokupot,,,"25,97",
+31926,90,"to dig",mokálot,"cf 77",,22,
+32283,91,"to buy",mopalít,,,53,
+76647,92,"to open, uncover",moukab,"(Hermelito Go)",L,28,
+76648,92,"to open, uncover",ukabon,"(Hermelito Go)",L,28,
+32997,93,"to pound, beat",lubókon,,,14,
+33354,94,"to throw",ilábay,,,,
+33711,95,"to fall",mahúlog,,,29,
+34068,96,dog,irô,,,21,
+34425,97,bird,lánggam,,,72,
+34782,98,egg,ítlog,,,1,
+35139,99,feather,balahíbo,,,21,
+35496,100,wing,pakô,,,"33,72",
+35853,101,"to fly",molupád,,,21,
+36210,102,rat,ílagâ,,,39,
+77224,103,meat/flesh,unod,,,27,
+77225,103,meat/flesh,karne,"(Hermelito Go: karne = Spanish Loan)",L,,
+87819,104,fat/grease,lana,,,81,
+87820,104,fat/grease,mantíka,"(Hermelito Go: mantika = Spanish loan)",L,,
+111870,104,fat/grease,tambók,,,82,
+37281,105,tail,íkug,,,1,1
+37638,106,snake,hálas,,,26,
+159855,106,snake,bitin,,L?,,
+37995,107,"worm (earthworm)",watí,,,1,1
+38352,108,louse,kúto,,,1,1
+38709,109,mosquito,lamók,,,"1,33",1
+39066,110,spider,lawa-lawa,,,1,1
+165202,110,spider,damáng,,,70,
+39423,111,fish,ísda,,,18,
+39780,112,rotten,latâ,,,"26,104",
+40137,113,branch,sangá,,,2,
+40494,114,leaf,dáhon,,,1,1
+40851,115,root,gamút,,,3,1
+41208,116,flower,búlak,,,22,
+41565,117,fruit,búnga,,,9,
+41922,118,grass,ságbut,,,23,
+42279,119,earth/soil,yúta,,,"25,85",
+42636,120,stone,bató,,,1,1
+42993,121,sand,balás,,,19,?
+43350,122,water,túbig,"Correction: Hermelito Go",,14,
+78269,123,"to flow",ágas,,,"2,73",
+78270,123,"to flow",áwas,,,21,
+44064,124,sea,dágat,,,25,
+44421,125,salt,asín,,,3,
+78433,126,lake,lín-aw,"Correction: Hermelito Go",,,
+78434,126,lake,lanaw,"Correction: Hermelito Go",,1,
+45135,127,woods/forest,lasáng,,,,
+165201,127,woods/forest,kakahuyán,,,2,
+45492,128,sky,lángit,,,1,1
+45849,129,moon,búlan,,,1,1
+46206,130,star,bitóon,,,1,1
+46563,131,cloud,pangánud,,,27,
+46920,132,fog,gábon,,,3,
+47277,133,rain,ulán,,,1,1
+47634,134,thunder,dalúgdog,,,"2,48",?
+47991,135,lightning,kílat,,,1,1
+48348,136,wind,hángin,,,1,1
+79008,137,"to blow",mohangin,,,,1
+79009,137,"to blow",mohuyóp,,,"1,44",1
+79095,138,warm,init,"Correction: Hermelito Go",,23,
+79096,138,warm,alimú-ot,"Correction: Hermelito Go",,,
+165249,138,warm,inadlaw,(water),,,
+49419,139,cold,túg-naw,,,"26,103",
+87821,140,dry,ugá,"(Hermelito Go)",,23,
+87822,140,dry,mala,,,26,
+50133,141,wet,basâ,,,1,1
+131875,141,wet,umog,,,41,
+50490,142,heavy,búg-at,,,"1,63",1
+50847,143,fire,kalayo,,,10,
+51204,144,"to burn",súnugon,,,21,
+51561,145,smoke,asó,,,2,1
+51918,146,ash,ágiw,,,,
+52275,147,black,itúm,,,1,1
+52632,148,white,putí,,,1,1
+52989,149,red,pulá,,,28,
+53346,150,yellow,dalág,,,38,
+87823,151,green,hilaw,,,25,
+87824,151,green,lunhaw,,,"33,38",
+87825,151,green,bérde,"berde is a Spanish loan",L,,
+54060,152,small,gamáy,,,29,
+54417,153,big,daku',"Correction: Hermelito Go",,22,
+54774,154,short,mubô,,,39,
+55131,155,long,taʔas,"Correction: Hermelito Go",,28,
+55488,156,thin,nipis,,,1,
+55845,157,thick,baga',"Correction: Hermelito Go",,27,
+56202,158,narrow,hagíp-ot,,,,
+56559,159,wide,lapád,,,48,?
+56916,160,"painful, sick",sakít,,,1,1
+57273,161,"shy, ashamed",naulaw,,,,
+57630,162,old,tigúlang,,,21,
+57987,163,new,bág-o,,,1,1
+58344,164,good,maáyo,,,"46,119",
+58701,165,"bad, evil",da-után,,,"1,91",
+59058,166,"correct, true",tinuód,,,"6,38",
+59415,167,night,gabi'i,"Correction: Hermelito Go",,21,
+59772,168,day,adlaw,"Correction: Hermelito Go",,1,1
+60129,169,year,tu'ig,"Correction: Hermelito Go",,25,
+60486,170,when?,kanus-a,"(Hermelito Go)",,"10,20",
+60843,171,"to hide",tagô,,,13,
+61200,172,"to climb",mosáka,,,55,
+61557,173,at,sa,,,14,
+61914,174,"in, inside","sa sulod","(Hermelito Go)",,14,1
+87826,175,above,"sa itaas",,,1,1
+87827,175,above,ibabaw,,,2,
+62628,176,below,"sa ubos",,,40,
+62985,177,this,kini,,,1,1
+63342,178,that,ka'na,"Correction: Hermelito Go",,1,1
+63699,179,near,duol,,,33,
+64056,180,far,layo,"Spanish loan?",L,"1,75",
+81713,181,where?,asa,,,,
+81714,181,where?,hain,,,"1,63",
+64770,182,I,ako,,,"1,5",1
+65127,183,thou,ikáw,,,1,1
+65484,184,he/she,siya,,,"1,31",1
+87829,185,we,kami,"we (excl.)",,"2,52",
+87828,185,we,kita,"we (incl.)",,"1,50",1
+82054,186,you,ikaw,,,s,1
+82055,186,you,kamu,,,"1,38",1
+66555,187,they,sila,,,1,1
+66912,188,what?,únsa,,,2?,
+67269,189,who?,kinsa,,,,
+153641,190,other,lain,,,2,
+67626,190,other,"uban pa","etc",,"12,56",
+67983,191,all,tanán,,,24,
+68340,192,and,ug,,,25,
+68697,193,if,kung,,,"1,11",
+69054,194,how?,unsaon,"(Hermelito Go)",,32,
+69411,195,"no, not","dili di","Correction: Hermelito Go",,"1,38",
+69768,196,"to count",ihap,,,2,
+87831,197,One,one,"probably not in common use",L,,
+87830,197,One,usa,,,1,1
+87832,198,Two,duhá,,,1,1
+87833,198,Two,dos,,L,,
+87834,199,Three,tulo,,,1,1
+87835,199,Three,tres,,L,,
+87837,200,Four,kwatro,,L,,
+87836,200,Four,upát,,,1,1
+83853,201,Five,lima,,,1,
+83854,201,Five,singko,,L,,
+83849,202,Six,onom,,,1,
+87838,202,Six,unu'm,,,1,
+87839,202,Six,says,,L,,
+87842,203,Seven,pito,,,1,
+87843,203,Seven,siete,,L,,
+87840,204,Eight,walo',,,3,
+87841,204,Eight,otso,,L,,
+87844,205,Nine,siam,,,9,
+87845,205,Nine,nuebe,,L,,
+87846,206,Ten,napulo,,,"5,41",
+87847,206,Ten,dies,,L,,
+129270,206,Ten,napulo,,,"5,41",
+129271,206,Ten,dies,,L,,
+129273,207,Twenty,kaluhaan,,,11,
+129274,208,Fifty,kalima-an,,,"1,12",
+129275,208,Fifty,singkwenta,,L,,
+129276,209,"One Hundred","usa ka gatus",,,4,
+129277,209,"One Hundred",sien,,L,,
+129267,210,"One Thousand","usa ka libo",,,5,

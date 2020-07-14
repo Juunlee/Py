@@ -1,0 +1,286 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+18,Chamorro,"Blust, from: Topping (1975)",cha,cham1312,"Topping, D.M. (1975). Chamorro-English Dictionary. University of Hawaii Press: Hawaii",,"Austronesian, Malayo-Polynesian, Chamorro","Simon Greenhill","Simon Greenhill","@book{38174,  address               = {Honolulu},  pages                 = {xxix+336},  publisher             = {The University Press of Hawaii},  series                = {Pali Language Texts : Micronesia},  title                 = {Chamorro-English dictionary},  year                  = {1975},  asjp_name             = {Chamorro},  bibtexkey             = {dungca-ogo-topping_chamorro-dictionary1975},  class_loc             = {PL5295.4.T57 1975},  document_type         = {B},  hhtype                = {dictionary},  inlg                  = {English [eng]},  isbn                  = {9780824803537},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 5295.4 TOP 1975},  src                   = {asjp2010, mpieva, wals},  srctrickle            = {asjp2010#650, mpieva#Topping1975Chamorro, wals#6039},  subject_headings      = {Chamorro language–Dictionaries–English, Chamorro language–Dictionaries–English},  author                = {Topping, Donald M. and Ogo, Pedro M. and Dungca, Bernadita C.}}"
+latitude,longitude
+13.56056174508142220247,144.86572265625000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+18,1,hand,kannai,,,,
+375,2,left,akague,,,,?
+732,3,right,agapa',,,,
+1089,4,leg/foot,addeng,,,,
+1446,5,"to walk",lahu,,,1,1
+1803,6,road/path,chalan,,,1,1
+2160,7,"to come",maila',,,1,1
+2517,8,"to turn",bira,"probably Spanish virar [bi'rar]",L,4?,
+345826,9,"to swim",nangu,,,1,1
+345827,9,"to swim",ñangu,,,1,
+3231,10,dirty,hoplat,,,,
+254395,10,dirty,applacha',,,,
+3588,11,dust,potbos,"Spanish Polvo (Dust)",L,,
+3945,12,skin,lassas,<+laslas?,,,
+345828,12,skin,lasas,"Skin, peel, bark, the covering tissue of the body, epithelium.",,,
+4302,13,back,tátalo',,,,
+72053,14,belly,estomagu,"estomagu (Loan )",L,,1
+72054,14,belly,tuyan,,,1,1
+5016,15,bone,to'lang,,,1,1
+5373,16,intestines,tilipas,Spanish,L,,
+5730,17,liver,hígadu,,L,,
+6087,18,breast,susu,,,1,1
+6444,19,shoulder,apaga,,,1,1
+6801,20,"to know, be knowledgeable",tungo',,,,
+7158,21,"to think",hasso,,,,
+7515,22,"to fear",kinibatde,,,,
+7872,23,blood,haga',,,1,1
+72480,24,head,kabesa,loan,L,,1
+72481,24,head,ulu,,,1,1
+8586,25,neck,aga'ga',,,,
+72613,26,hair,gapotulu,,,3,
+72614,26,hair,pulu,,,31,
+9300,27,nose,gui'eng,,,1,1
+9657,28,"to breathe",hagong,(<-aSeN?),,,
+10014,29,"to sniff, smell",nginge',,,,
+10371,30,mouth,pachot,,,,
+10728,31,tooth,nifen,,,1,1
+72972,32,tongue,hula',,,4,1
+72973,32,tongue,lenggua,"loan from  Spanish",L,,1
+11442,33,"to laugh",chalek,,,,
+11799,34,"to cry",tanges,,,1,1
+12156,35,"to vomit",muta',,,1,1
+12513,36,"to spit",to'la',,,,
+12870,37,"to eat",chochu,intransitive,,,
+128555,37,"to eat",kanno',transitive,,,
+73293,38,"to chew",ñamñam,,,,
+73294,38,"to chew",ngangas,,,12?,
+13584,39,"to cook",chahan,,,2,1
+13941,40,"to drink",gimen,<M,,1?,?
+14298,41,"to bite",akka',,,,?
+73603,42,"to suck",chopchop,,,1?,1?
+73604,42,"to suck",soppla,"maybe Spanish soplar 'to blow', colloquial 'to guzzle'",L?,1?,1?
+15012,43,ear,talanga,,,1,1
+15369,44,"to hear",hungok,,,1,1
+15726,45,eye,mata,,,1,1
+16083,46,"to see",li'e',,,,
+16440,47,"to yawn",magap,,,19,1
+16797,48,"to sleep",maigo',,,,
+17154,49,"to lie down",asson,,,,
+17511,50,"to dream",auifi,,,1?,1?
+17868,51,"to sit",mata'chong,,,,
+74090,52,"to stand",tachu,,,,
+74091,52,"to stand",tohge,,,2?,
+18582,53,"person/human being",taotao,,,1,1
+18939,54,man/male,lahi,,,2,1
+134950,54,man/male,lai,,,2,
+134951,54,man/male,taotao,,,2,
+19296,55,woman/female,palao'an,,,,
+19653,56,child,patgon,,,,
+74427,57,husband,asagua,,,2?,1
+74428,57,husband,esposu,(L),L,,1
+20367,58,wife,asagua,,,1?,
+20724,59,mother,nana,,,5?,1
+21081,60,father,tata,,,1,1
+21438,61,house,guma',,,1,1
+21795,62,thatch/roof,atof,,,1,1
+22152,63,name,na'an,,,1,1
+22509,64,"to say",sangan,,,,
+22866,65,rope,tali,,,1,1
+23223,66,"to tie up, fasten",traba,,L,,
+75077,67,"to sew",lakse,,,,
+75078,67,"to sew",sotse,,,,
+23937,68,needle,haguha,,,,
+24294,69,"to hunt",peska,"Spanish \"pescar\", \"To Fish\"",L,,
+24651,70,"to shoot",paki,,,,
+75276,71,"to stab, pierce",bulokbok,,L,,
+75277,71,"to stab, pierce",si'ok,,,,
+25365,72,"to hit",faggas,,,,
+25722,73,"to steal",sakke,,,,
+26079,74,"to kill",puno',,,1,1
+26436,75,"to die, be dead",matai,,,1,1
+26793,76,"to live, be alive",lála'la',,,,
+27150,77,"to scratch",kassas,"(<+ kaskas? cf 12)",,1?,1?
+75665,78,"to cut, hack",cha'lak,,,,
+75666,78,"to cut, hack",utot,,,,
+27864,79,stick/wood,hayu,,,1,1
+75826,80,"to split",mapga',,,,
+75827,80,"to split",puta',(<+betaq?),,,
+28578,81,sharp,kadidok,,,,
+28935,82,"dull, blunt",ñaño',,,,
+29292,83,"to work",hotnát,,,,
+29649,84,"to plant",tanom,,,2,1
+30006,85,"to choose",ayek,,,,
+76202,86,"to grow",dokko',,,,
+76203,86,"to grow",la'chok,,,,
+30720,87,"to swell",banna,,L,,
+76344,88,"to squeeze",fokse,,,,1
+76345,88,"to squeeze",fugo',,,,1
+76416,89,"to hold",go'he,,,,
+76417,89,"to hold",go'te,,,,
+76418,89,"to hold",gu'ot,,,,
+31791,90,"to dig",guaddok,,,16,
+76560,91,"to buy",bona,,L,,
+76561,91,"to buy",fahan,,,,
+76612,92,"to open, uncover",atbuetto,,L,,
+76613,92,"to open, uncover",pulakes,,,1?,
+76674,93,"to pound, beat",acha,,,,1
+76675,93,"to pound, beat",tutu,"or 20?",,2,1
+33219,94,"to throw",aguet,,,,
+33576,95,"to fall",lotgon,,,,
+33933,96,dog,ga'lagu,,,1,
+34290,97,bird,páharu,,L,,
+34647,98,egg,chada',,,22,
+35004,99,feather,pulu,,,1,1
+35361,100,wing,pappa,(<+pakpak?),,33,
+35718,101,"to fly",gupu,,,1,1
+36075,102,rat,cha'ka,,,,
+77201,103,meat/flesh,katne,"katne (L)",L,,
+77202,103,meat/flesh,sensen,,,,
+77271,104,fat/grease,mantika,"mantika (L)",L,,
+77272,104,fat/grease,sebu,"Spanish sebo 'tallow'",L,,
+37146,105,tail,dádalak,,,,
+37503,106,snake,kolepbla,"Spanish culebra",L,,
+37860,107,"worm (earthworm)",ulo',,,36,1
+38217,108,louse,hutu,,,1,1
+38574,109,mosquito,ñamu,,,1,1
+345824,109,mosquito,ñåmu,,,1,
+345825,109,mosquito,ñamu,,,1,
+38931,110,spider,sanye'ye',,,,
+39288,111,fish,guihan,,,,1
+39645,112,rotten,lamas,,,,
+40002,113,branch,ramas,,L,,
+40359,114,leaf,hagon,,,,1
+40716,115,root,hale',,,,1
+41073,116,flower,flores,,L,,
+165185,116,flower,chinalek,,,,
+41430,117,fruit,inasahan,,,,
+41787,118,grass,cha'guan,,,,
+345821,119,earth/soil,tåno',,,,
+345822,119,earth/soil,odda',,,,
+345823,119,earth/soil,edda',,,,
+42501,120,stone,acho',,,,
+42858,121,sand,unai,,,1,1
+78181,122,water,agua,,L,,1
+78182,122,water,hanom,,,1,1
+43929,124,sea,tasi,,,1,1
+44286,125,salt,asiga,,,1,1
+44643,126,lake,hagoe,,,,
+45000,127,woods/forest,bundak,,,,
+133630,127,woods/forest,"halom tano'",,,,
+45357,128,sky,langet,,,1,1
+45714,129,moon,pulan,,,1,1
+46071,130,star,puti'on,,,1,1
+78627,131,cloud,mapagahes,,,,
+78628,131,cloud,homhom,,,,
+78629,131,cloud,uchan,,,,
+78693,132,fog,afao,,,,
+78694,132,fog,asgon,,,,
+78737,133,rain,ame',,L,1,1
+78738,133,rain,uchan,,L,1,1
+47499,134,thunder,hulu,,,,?
+47856,135,lightning,lamlam,,,19,
+48213,136,wind,manglo',,,,
+48570,137,"to blow",guaife,,,,1?
+48927,138,warm,maipe,,,,
+79129,139,cold,fugu,,,,1
+79130,139,cold,manengheng,,,1?,1
+49641,140,dry,angglo',,,,
+79309,141,wet,fotgon,,,,
+79310,141,wet,masmas,,,,
+50355,142,heavy,makkat,,,1,?
+50712,143,fire,guafi,,,1,1
+79438,144,"to burn",pakko',,,,1
+79439,144,"to burn",potne,,,,1
+79440,144,"to burn",tunu,,,1,1
+51426,145,smoke,asu,,,2,1
+51783,146,ash,apu,,,1,1
+52140,147,black,áttilong,,,1?,?
+52497,148,white,á'paka,,,1?,
+52854,149,red,agaga',,,,?
+53211,150,yellow,amariyu,,L,,
+53568,151,green,betde,,L,,
+79848,152,small,díkike',,,1,
+79849,152,small,hagui,,,,
+54282,153,big,dánkolo,,,22?,
+80083,154,short,ébaba',,,54,?
+80084,154,short,étigu,,,,?
+54996,155,long,laguas,,,1?,?
+134085,155,long,anakko',,,,
+55353,156,thin,kanifes,"maybe Spanish canijo [ka'nixo] 'slight, thin, lean'",L?,1?,1
+55710,157,thick,potpot,,,18,
+80234,158,narrow,anggosto,,,,
+80235,158,narrow,ma'i'ot,,,,
+56424,159,wide,fedda',,,,
+56781,160,"painful, sick",sage',,,1?,
+80430,161,"shy, ashamed",mamahlao,,,13,
+80431,161,"shy, ashamed",manachang,,,,
+57495,162,old,amko',,,,
+57852,163,new,nuebu,,L,,
+134940,163,new,simpeng,"Loan from Japanese (compound of Chinese origin)",L,,
+80573,164,good,buenu,"Spanish bueno",L,,
+80574,164,good,maolek,,,,
+58566,165,"bad, evil",baba,,,26,
+58923,166,"correct, true",magahet,,,,
+59280,167,night,puengi,,,1?,
+80861,168,day,dia,,L,,
+80862,168,day,ha'ani,,,,
+80906,169,year,añu,"Spanish año",L,17?,
+80907,169,year,sakkan,,,,
+60351,170,when?,ngai'an,,,1?,
+80980,171,"to hide",na'atok,,,,
+80981,171,"to hide",na'na',,,,
+61065,172,"to climb",hotde,,,,
+61422,173,at,gi,,,20,
+61779,174,"in, inside",halom,,,1,
+62136,175,above,hulo',,,,
+62493,176,below,papa',,,1,
+62850,177,this,ini,,,1,
+63207,178,that,enao,,,,
+81561,179,near,fi'on,,,,
+81562,179,near,hihot,,,,
+63921,180,far,chago',,,,
+64278,181,where?,amanu,,,,
+64635,182,I,guahu,,,1,
+64992,183,thou,hagu,,,1,
+65349,184,he/she,guiya,,,1,
+111923,185,we,hita,,,1,
+111924,185,we,hami,,,2,
+66063,186,you,hamyo,,,"1,13",
+66420,187,they,siha,,,1,
+66777,188,what?,hafa,,,1,
+67134,189,who?,hai,,,1?,
+134084,189,who?,hayi?,,,,
+67491,190,other,otro,,L,,
+111925,191,all,puru,,L,,
+111926,191,all,todu,,L,,
+82476,192,and,ya,,,,
+82477,192,and,yan,,,,
+68562,193,if,komu,(L?),L?,11?,
+254397,193,if,yanggen,,,,
+68919,194,how?,"[hafa] taimanu",,,,
+69276,195,"no, not",ahe',,,,
+69633,196,"to count",tufong,,,,
+69990,197,One,unu,(Loan),L,,
+134935,197,One,hachiyai,"(count non-living objects)",,,
+134944,197,One,maisa,,,,
+70347,198,Two,dos,(Loan),L,,
+134936,198,Two,huguiyai,"(count non-living objects)",,,
+134943,198,Two,hugua,,,,
+70704,199,Three,tres,(Loan),L,1,
+134937,199,Three,tolgiyai,"(count non-living objects)",,1,
+134942,199,Three,tulo,,,1,
+71061,200,Four,kuatro,(Loan),L,,
+134938,200,Four,farfatai,"(count non-living objects)",,,
+134941,200,Four,fatfat,,,,
+134925,201,Five,lima,,,1,
+134931,202,Six,gunum,,,1?,
+134949,202,Six,gonmiyai,"(count non-living objects)",,,
+134930,203,Seven,fito,,,1,
+134939,203,Seven,fetguiyai,"(count non-living objects)",,1,
+134929,204,Eight,gualo,,,,
+134948,204,Eight,gualguiyai,"(count non-living objects)",,,
+134928,205,Nine,sigua,,,5,
+134947,205,Nine,siguiyai,"(count non-living objects)",,,
+134927,206,Ten,fulu,,,,
+134946,206,Ten,manutai,"(count non-living objects)",,,
+134934,207,Twenty,"huguiyai na fulu",,,,
+134933,208,Fifty,"limiyai na fulu",,,,
+134926,209,"One Hundred",gatos,,,4,
+134945,209,"One Hundred",gatus,,,4,
+134932,210,"One Thousand",chalan,,,,

@@ -1,0 +1,206 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+132,Tarpia,"Blust, from Grace Notebooks",tpf,tarp1240,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Sarmi-Jayapura Bay, Sarmi","Peng Du","Simon Greenhill","@misc{GraceNB,  howpublished = {Ms.},  title        = {1955-1956 Fieldnotes: Notebook Swains Number 2},  year         = {1956},  url          = {http://digicoll.manoa.hawaii.edu/grace/Pages/PDFlist.html},  author       = {Grace, George W.}}"
+latitude,longitude
+-2.38120999999999982677,139.97464999999999690772
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+132,1,hand,mi-,,,,
+489,2,left,teure,,,,
+846,3,right,maom,,,"1,29",
+1203,4,leg/foot,kada-,,,,
+1560,5,"to walk",-auku,,,68,
+1917,6,road/path,dar,,,1,1?
+2274,7,"to come",-mai,,,1,1
+2631,8,"to turn","nasunaʔ de[ə]-k",,,,
+2988,9,"to swim",neʔrur,,,,
+3345,10,dirty,soso,,,104,
+3702,11,dust,bapu,,,,
+4059,12,skin,kuru,,,1,1
+4416,13,back,batar,,,,
+4773,14,belly,makuri-,,,102,
+5130,15,bone,tarme,,,,
+5487,16,intestines,"makok waro",,,20,
+5844,17,liver,yate-,,,1,1
+6201,18,breast,su,,,1,1
+6558,19,shoulder,barke-k-mata,,,,
+6915,20,"to know, be knowledgeable",-arnek,,,,
+7272,21,"to think","-takbaʔ atausiu",,,,?
+7629,22,"to fear",-marke-k,,,1,?
+7986,23,blood,narka,,,,
+8343,24,head,pri-k-op,,,,
+8700,25,neck,"banto-k waro",,,69,
+9057,26,hair,"pri-k dau",,,40,
+9414,27,nose,siwi-k,,,,
+9771,28,"to breathe",-tekmapa,,,,
+10128,29,"to sniff, smell",-wi,,,,
+10485,30,mouth,seʔmo-k,,,,
+10842,31,tooth,nəpo-k,,,1,1
+11199,32,tongue,nama-k,,,12,
+11556,33,"to laugh",-kem,,,,
+11913,34,"to cry",-nsin,,,1?,
+12270,35,"to vomit",pei,,,,
+73176,36,"to spit","mərep dani",,,,
+73177,36,"to spit",-puroʔwa,,,,
+12984,37,"to eat",-aŋkiŋ,,,1,
+13698,39,"to cook",nindaʔem,,,,
+14055,40,"to drink",-ain,,,33,
+14412,41,"to bite","kar -aʔpor",,,1,1?
+14769,42,"to suck",-eʔmuʔ,,,6,
+15126,43,ear,tarni-,,,1,1
+15483,44,"to hear",-rnek,,,1,?
+15840,45,eye,"mapu- kani-",,,,
+16197,46,"to see",-amram,,,21,
+16911,48,"to sleep","mun -aien",,,19,
+17268,49,"to lie down","nari -aiñen",,,,
+17625,50,"to dream",mumpuir,,,,
+17982,51,"to sit",-to,,,80,
+18339,52,"to stand",-duk,,,,
+18696,53,"person/human being",tamuʔ,,,68,1?
+19053,54,man/male,tamuʔ,,,"70,14",
+19410,55,woman/female,mupin,,,"1,51",1
+19767,56,child,karpau,,,45,
+20124,57,husband,tawa,,,2,1
+20481,58,wife,mupin,,,"5, 92",
+20838,59,mother,nani,,,"1, 83",?
+21195,60,father,tama,,,1,1
+21552,61,house,kayap,,,,
+21909,62,thatch/roof,wi,,,,
+22266,63,name,taya-,(<M),,"1,18",1
+22623,64,"to say",-aktak,,,,
+22980,65,rope,war,,,2,
+23337,66,"to tie up, fasten",-iupiu,,,,
+23694,67,"to sew",-tai,,,2,1?
+24408,69,"to hunt",nawa,,,,
+24765,70,"to shoot",-pan,,,1,1
+25122,71,"to stab, pierce",-sok,,,67,?
+25479,72,"to hit",-ke,,,,
+25836,73,"to steal",panuk,cf.109,,"1,58",1?
+26193,74,"to kill",-pun,,,1,1
+26550,75,"to die, be dead",-per,,,9,
+26907,76,"to live, be alive",-toʔ,,,8,
+27264,77,"to scratch",-nur,,,,
+27621,78,"to cut, hack","nobomte -ke",,,,
+27978,79,stick/wood,kay,,,1,1
+28335,80,"to split",yader,,,,
+28692,81,sharp,mata,,,36,
+29049,82,"dull, blunt",buku,,,24,
+29406,83,"to work",-impur,,,,
+29763,84,"to plant",-sok,,,28,
+30120,85,"to choose",-piʔ,,,1,
+30477,86,"to grow",merko,,,,
+30834,87,"to swell",akik,,,,
+31191,88,"to squeeze",y-eʔsu,,,,
+31548,89,"to hold",-tapur,,,22,
+31905,90,"to dig",-tar,,,,
+32262,91,"to buy","nin -isiʔ",,,,
+32619,92,"to open, uncover",-puki,,,1,
+33333,94,"to throw",-sok,,,,
+33690,95,"to fall",-ro,,,,
+34047,96,dog,kareu,,,18,
+34404,97,bird,man,,,1,1
+34761,98,egg,pano,,,33,
+35118,99,feather,puru,,,1,1
+35475,100,wing,pau,,,7,
+35832,101,"to fly",yap|rop,,,"17?,1",1?
+36189,102,rat,wanom,,,,
+36546,103,meat/flesh,kani,,,13,
+36903,104,fat/grease,manu,,,1,1?
+37260,105,tail,ku,,,1,1?
+37617,106,snake,niŋwaro,,,12,
+37974,107,"worm (earthworm)",dareʔ,,,,
+38331,108,louse,kuʔ,,,1,1
+38688,109,mosquito,num,cf.73,,1,1
+39045,110,spider,waxamen,,,,
+39402,111,fish,pano,,,,
+39759,112,rotten,sinipu,,,,
+40473,114,leaf,dau,,,1,1
+40830,115,root,waka,,,2,1
+41187,116,flower,siwipuru,,,,
+41544,117,fruit,pawa,,,1,
+41901,118,grass,tapaŋ,,,,
+78026,119,earth/soil,nar,,,,
+78027,119,earth/soil,rip,,,,
+42615,120,stone,payaʔ,,,,
+42972,121,sand,wen,,,1,?
+43329,122,water,dan,,,1,1
+43686,123,"to flow",arpor,,,,
+44043,124,sea,pip,,,,
+44400,125,salt,kiuri,,,,
+78431,126,lake,boʔda,,,,
+78432,126,lake,kasi,,,,
+45114,127,woods/forest,dakno,,,113,
+45471,128,sky,kawan,,,3,
+45828,129,moon,muʔ,,,,
+46185,130,star,taurap,,,,
+46542,131,cloud,kakdo,,,,
+46899,132,fog,bapu,,,57,
+47256,133,rain,madup,,,42,
+47613,134,thunder,baker,,,,
+47970,135,lightning,tanʔeprip,,,,
+48327,136,wind,mor,,,66,
+48684,137,"to blow",arbaʔ,,,,
+79088,138,warm,rapaiki,,,,
+79089,138,warm,mamro,,,,
+79152,139,cold,taper,,,,
+79153,139,cold,tarpe,,,,
+49755,140,dry,amaʔ,,,,
+50112,141,wet,dani,"water of?",,,
+50469,142,heavy,paʔpisi,,,,
+50826,143,fire,yap,,,1,1
+51183,144,"to burn",arbi,,,,
+51540,145,smoke,"yap kadu",,,2,
+51897,146,ash,da,,,66,
+52254,147,black,baʔta,,,,
+52611,148,white,kerne,,,,
+52968,149,red,mer,,,1,1
+53325,150,yellow,ma.puʔ,,,,
+53682,151,green,"kaijiu kamka",,,,
+54039,152,small,karpou,,,,
+54396,153,big,sambum,,,,
+54753,154,short,didu,,,,
+55110,155,long,marasi,,,5,
+55467,156,thin,tapaʔpu,,,,
+55824,157,thick,aduki,,,,
+56181,158,narrow,kapko,,,,
+56538,159,wide,mampa,,,12,
+56895,160,"painful, sick",maʔma-,,,,
+80534,163,new,nakani,,,,?
+80535,163,new,pipiu,,,"1,26",?
+58323,164,good,pi,,,1,1
+58680,165,"bad, evil",wero,,,,
+59037,166,"correct, true",yaŋkani,,,,
+59394,167,night,miriu,,,16,
+80871,168,day,"nikim tarau",,,,
+80872,168,day,tan,,,6?,
+60108,169,year,tahun,"Indonesian loan?",L,1,
+60465,170,when?,"tane hari",,,,
+61179,172,"to climb",-kik,,,,
+61536,173,at,-taw,,,,
+61893,174,"in, inside",raro|i,postposition,,1,1
+62250,175,above,diʔ,,,,
+62607,176,below,nari,,,,
+62964,177,this,den,,,1,
+63321,178,that,dapen,,,,
+63678,179,near,sini,,,,
+81649,180,far,suk,,,,
+81650,180,far,marasi,,,,
+64392,181,where?,sakrai,,,,
+64749,182,I,d|uk,,,,1
+65106,183,thou,ik,,,1,?
+65463,184,he/she,i,,,1,1
+113914,185,we,dik,,,1,
+113915,185,we,dim,,,2,
+66177,186,you,kam,,,1,1
+66534,187,they,di,,,25,?
+66891,188,what?,tani,,,,
+82289,189,who?,sira,,,"1,28",?
+82290,189,who?,sitaici,,,"1,28",?
+67605,190,other,maʔte,,,,
+67962,191,all,"pol maon",,,,
+68319,192,and,pe,,,24,
+69033,194,how?,sakamen,,,,
+69390,195,"no, not",tap,,,"4,22",
+69747,196,"to count",yakir,,,,
+70104,197,One,suwse,,,,
+70461,198,Two,arko,,,1,?
+70818,199,Three,tor,,,1,1
+71175,200,Four,pau,,,"1,71",?

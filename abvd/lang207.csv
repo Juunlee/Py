@@ -1,0 +1,169 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+207,As,"Blust, from Grace",asz,asss1237,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, South Halmahera-West New Guinea, West New Guinea, Cenderawasih Bay, Raja Ampat","Penny Keenan","Simon Greenhill","@misc{GraceNB,  howpublished = {Ms.},  title        = {1955-1956 Fieldnotes: Notebook Swains Number 2},  year         = {1956},  url          = {http://digicoll.manoa.hawaii.edu/grace/Pages/PDFlist.html},  author       = {Grace, George W.}}"
+latitude,longitude
+-0.79098999999999997090,131.69311999999999329702
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+207,1,hand,-npa,,,,
+564,2,left,pa-lpɛ,,,34,
+921,3,right,pa-lfi,,,15,
+1278,4,leg/foot,-ŋgɛtɛ,,,,
+1635,5,"to walk",-tan,,,15,
+1992,6,road/path,alin,,,1,1
+2349,7,"to come",-ma,,,1,1
+2706,8,"to turn",-balɛk,,L?,,
+3063,9,"to swim",-as,,,19,
+3420,10,dirty,lali,,,,
+3777,11,dust,"gu kapyas",,,12,
+4134,12,skin,-ani,,,16,
+4491,13,back,-uaɛ,,,,
+4848,14,belly,-nipu,,,,
+5205,15,bone,-taɔ,,,,
+5562,16,intestines,"-nipu ali",,,,
+5919,17,liver,-nitɛw,,,,
+6276,18,breast,sus,,,1,1
+6990,20,"to know, be knowledgeable",-nun,,,22?,
+7347,21,"to think",isɔarfɔ,,,,
+7704,22,"to fear",-msi,,,,?
+8061,23,blood,lamɔs,,,26,
+8418,24,head,-watuʔ,,,9,1
+8775,25,neck,-akɔ,,,32,
+9132,26,hair,watupis,,,,
+9489,27,nose,-samu,,,,
+10203,29,"to sniff, smell",-fɛtɛn,,,18,
+10560,30,mouth,-walu,,,,
+10917,31,tooth,-ilis,,,,
+11274,32,tongue,-arɛ,,,,
+11631,33,"to laugh",-melis,,,3,
+11988,34,"to cry",-tanis,,,1,1
+12345,35,"to vomit",-lu,,,1?,
+12702,36,"to spit",kapi,,,,
+13059,37,"to eat",-aʔ,,,,1?
+13773,39,"to cook",-biap,,,18,
+14130,40,"to drink",-nim,,,1,1
+14487,41,"to bite",lis,,,,
+14844,42,"to suck","-nim sus",,,1,?
+15201,43,ear,tana,,,1?,1
+15558,44,"to hear",-fɔ|lɔŋɔ,,,1,1
+15915,45,eye,-kapuʔ,,,13,
+16272,46,"to see",-du,,,,
+16986,48,"to sleep",-nɛ-k,,,8?,
+17343,49,"to lie down",-bɔruɛpu,,,,
+18057,51,"to sit",-ba,,,,
+18414,52,"to stand",-sɔ,,,,
+18771,53,"person/human being",miʔ,,,19?,
+19128,54,man/male,-man,,,1,1
+19485,55,woman/female,-tin,,,,1
+19842,56,child,lɛŋke,,,,
+20199,57,husband,-man,,,27,
+20556,58,wife,-bin,,,5,
+20913,59,mother,-niʔ,,,1?,
+21270,60,father,-man,,,"1,10?",1
+22341,63,name,gasɛn,,,1,1
+22698,64,"to say",-bin,,,,
+23055,65,rope,waliʔ,,,2,
+23412,66,"to tie up, fasten",-batin,,,24,
+23769,67,"to sew",karɛn,,,22,
+24840,70,"to shoot",fantanus,,,1?,?
+25197,71,"to stab, pierce",isabɔ,,,,
+25554,72,"to hit",-təbɛlɛ,,,,
+26268,74,"to kill",-bun,,,1,1
+26625,75,"to die, be dead",ma-ʔ,,,1,1
+26982,76,"to live, be alive",-wanɛʔ,,,,
+27339,77,"to scratch",-kaʔ,,,1?,?
+27696,78,"to cut, hack",-wɛʔ,,,,
+28053,79,stick/wood,a,,,1,1
+28410,80,"to split","-wɛʔ kapaʔ",,,18,
+28767,81,sharp,talim,,,1,1
+29124,82,"dull, blunt",talimga,,,,
+29481,83,"to work",kerja,,L,,
+30909,87,"to swell",malabaʔ,,,,
+31266,88,"to squeeze",-sidɔʔ,,,,
+31623,89,"to hold",-siu,,,,
+31980,90,"to dig",-kail,(<M),,1,1
+33408,94,"to throw",-tiʔ,,,19,
+33765,95,"to fall",-mdɔl,,,,
+34122,96,dog,mɔ,,,,
+34479,97,bird,mani,,,1,1
+34836,98,egg,talɔ,,,1,1
+35193,99,feather,pərun,,,,
+35550,100,wing,mfaɛl,,,,
+35907,101,"to fly",napɔ,,,1?,
+36621,103,meat/flesh,nuana,,,,
+37335,105,tail,ndəkamu,,,,
+37692,106,snake,kɔ-k,,,23,
+38406,108,louse,u,,,1,1
+38763,109,mosquito,gawɛʔ,,,,
+39477,111,fish,dun,,,12,
+39834,112,rotten,makam,,,24,
+40548,114,leaf,a|laun,,,1,
+40905,115,root,kɛtɛ,,,,
+41619,117,fruit,nupu-,,,,
+41976,118,grass,kamayu,,,,
+42333,119,earth/soil,guʔ,,,,
+42690,120,stone,pa,,,1?,?
+43047,121,sand,in,,,1?,1?
+43404,122,water,wɛʔ,,,2,1
+43761,123,"to flow",-apis,,,,
+44118,124,sea,masin,,,17?,
+44475,125,salt,gasi,,,20,
+45189,127,woods/forest,dam,,,,
+45546,128,sky,lanit,,,1,1
+45903,129,moon,paiʔ,,,16,
+46260,130,star,taun,,,1?,1?
+46617,131,cloud,matɛm,,,,
+47331,133,rain,maiʔ,,,,
+47688,134,thunder,alɔʔ,,,29?,
+48045,135,lightning,lɛu,,,,
+48402,136,wind,wɔ,,,,
+48759,137,"to blow",nus,,,,
+49116,138,warm,maris,,,,
+49473,139,cold,pɛrim,,,,
+49830,140,dry,mɛ,,,,
+50187,141,wet,malɔm,,,,
+50544,142,heavy,masɔn,,,21,
+50901,143,fire,yap,,,1,1
+51615,145,smoke,kapyas,,,44,
+51972,146,ash,yap-apin,,,16,
+52329,147,black,matɛm,,,1,1
+52686,148,white,bus,,,24,?
+53043,149,red,təlami,,,,
+53757,151,green,manis,,,,
+54114,152,small,gɛlɔm,,,,
+54471,153,big,kandɔ,,,,
+54828,154,short,kabu,,,21,
+55185,155,long,kai,,,,
+55542,156,thin,dasis,,,,
+55899,157,thick,mtalɔ,,,3,
+56613,159,wide,malapɔ,,,48,
+58041,163,new,gɛlaɔ,,,9,
+58398,164,good,fi,,,1,1
+58755,165,"bad, evil",fi-ga,,,,
+59112,166,"correct, true",malɔʔ,,,,
+59469,167,night,up,,,18,
+59826,168,day,nan,,,6?,
+60183,169,year,tahun,,L,1,
+61968,174,"in, inside",nulum,,,,
+63039,177,this,inɛrɛ,,,1,
+63396,178,that,ifɛrɛ,,,,
+63753,179,near,galis,,,,
+64110,180,far,ilao,,,1,?
+81725,181,where?,nɔntɛ,,,,
+81726,181,where?,yatɛ,,,,
+64824,182,I,anɛ,,,6,
+65181,183,thou,awa,,,9,
+65538,184,he/she,ia,,,1,1
+118932,185,we,ti,,,1,1?
+118933,185,we,am|ne,,,2,
+66252,186,you,mɔu,,,1,
+82156,187,they,sire,,,1,
+82157,187,they,sia,,,1,
+66966,188,what?,lɛmatɔa,,,,
+67323,189,who?,matɔiwa,,,,
+67680,190,other,nsa,,,,
+68037,191,all,faluʔ,,,,
+69465,195,"no, not",-ga,,,25?,
+69822,196,"to count",-wanɔs,,,,
+70179,197,One,sa,,,1,1
+70536,198,Two,lu,,,1,1
+70893,199,Three,tu,,,1,1
+71250,200,Four,fat,,,1,1

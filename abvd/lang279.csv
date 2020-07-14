@@ -1,0 +1,223 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+279,Ibanag,"Telan Family",ibg,iban1267,"AKA Ybanag","Potential problems distinguishing 'c' and 'e'","Austronesian, Malayo-Polynesian, Philippine, Northern Luzon, Northern Cordilleran, Cagayan Valley, Ibanagic","Simon Greenhill","Simon Greenhill","@misc{Family-279-2005,  author = \"Telan Family\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+17.42402863387787803617,121.94824218750000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+279,1,hand,lima,,,"1,64",1
+636,2,left,zimigui,,,35,
+993,3,right,ziwanan,,,"1,75",1
+1350,4,leg/foot,tac-ci,,,70,
+1707,5,"to walk",mal-lacag,"Possibly from PMP *lákaj, irregular *j > /g/  because of  medial /k/",,40,1
+2064,6,road/path,dalan,,,1,1
+2421,7,"to come",umaranni,,,,
+2778,8,"to turn",mal-leccu,,,21,
+3135,9,"to swim",mat-tañao,,,,
+71870,10,dirty,madapíng,,,54,
+71871,10,dirty,marapíng,,,54,
+131099,10,dirty,marit-ta,,,,
+3849,11,dust,gav-vu-e,,,1?,
+4206,12,skin,tab-bi-c,,,40,
+4563,13,back,licug,,,1,1
+4920,14,belly,san,,,50,1?
+5277,15,bone,tu-llang,,,1,1
+5634,16,intestines,sinay,,,1,1
+5991,17,liver,agal,,,16,
+6348,18,breast,susu-,,,1,1
+6705,19,shoulder,abage,,,1,1
+7062,20,"to know, be knowledgeable",macammu-c,,,"25,28",
+7419,21,"to think",mappanono-c,,,70,
+7776,22,"to fear",maganas-sing,,,36,
+8133,23,blood,daga,,,1,1
+8490,24,head,ulu-c,,,1,1
+8847,25,neck,caralong,,,,
+9204,26,hair,vu-c,,,"1,65",1
+9561,27,nose,igung,,,1,1
+9918,28,"to breathe",maginango-c,,,,
+10275,29,"to sniff, smell",magaguc,,,35,
+10632,30,mouth,simu-c,,,33,
+10989,31,tooth,ngipan,,,"1,48",1
+11346,32,tongue,zila,,,4,1
+11703,33,"to laugh",maggalo-c,,,35,
+12060,34,"to cry",mattangi-c,,,"1,74",1
+12417,35,"to vomit",maguta,,,1,1
+12774,36,"to spit",mal-lusak,,,29,?
+13131,37,"to eat",kuman,,,"1,14",1
+13488,38,"to chew",mangngang-ngo-c,,,52,
+13845,39,"to cook",mallutu,,,20,
+14202,40,"to drink",uminum,,,1,1
+14559,41,"to bite",maccaga-c,,,1,1
+14916,42,"to suck",sús-súp-pán,,,"1,73",1
+15273,43,ear,talinga,,,1,
+15630,44,"to hear",magginna,,,14,
+15987,45,eye,mata,,,1,1
+16344,46,"to see",massingan,,,33,
+16701,47,"to yawn",magg-gairawac,PhotocopyWashout,,,
+17058,48,"to sleep",mae-catrug,,,1,1
+17415,49,"to lie down",magidda,,,"19,39",
+17772,50,"to dream",mattatageno-c,,,30,
+18129,51,"to sit",magitubang,,,140,1
+18486,52,"to stand",tumaddag,,,85,
+18843,53,"person/human being",tolay,cf.Ray1913?,,"1,31",?
+19200,54,man/male,lalaki,,,"2,99",1
+19557,55,woman/female,babay,,,"1,105",1
+19914,56,child,abbing,,,21,
+20271,57,husband,atawa,,,2,1
+20628,58,wife,atawa,,,1,1
+20985,59,mother,yena,,,1,1
+21342,60,father,yama,,,1,1
+21699,61,house,balay,,,14,
+22056,62,thatch/roof,ato-c,,,1,1
+22413,63,name,ngagan,,,1,1
+22770,64,"to say",mac-cagui,,,,?
+23127,65,rope,lubig,,,21,
+23484,66,"to tie up, fasten",maggalu-c,,,109,
+23841,67,"to sew",maddague-c,,,"2,36",
+24198,68,needle,dagum,,,,1
+24555,69,"to hunt",manga-nù-c,,,1,1
+24912,70,"to shoot",mappana,,,1,1
+25269,71,"to stab, pierce",madduddug,,,41,
+25626,72,"to hit",mappalu-c,,,1,1
+25983,73,"to steal",maccoco-c,,,25,
+26340,74,"to kill",mappatay,,,2,
+26697,75,"to die, be dead",matay,,,1,1
+27054,76,"to live, be alive",manolay,,,72,
+27411,77,"to scratch",maccabbang,,,26,
+27768,78,"to cut, hack",macattag,,,88,
+28125,79,stick/wood,billa-c,,,,
+28482,80,"to split",paggaddua,,,,
+28839,81,sharp,matarám,,,1,1
+29196,82,"dull, blunt",mangurál,,,"40,27",
+29553,83,"to work",mat-trabaho,,L,,
+29910,84,"to plant",mammula,,,1,1
+30267,85,"to choose",mappili,,,1,1
+30624,86,"to grow",mattuvu,,,1,1
+30981,87,"to swell",mabbago,"Irregular reflex of *g",L,,
+31338,88,"to squeeze",mappazzi,,,,
+31695,89,"to hold",matammi-c,Photocopycutoff,,96,
+32052,90,"to dig",macc-co-cco-c,,,13,
+32409,91,"to buy",maggatang,,,21,
+32766,92,"to open, uncover",mavvuca-c,,,"1,63",1
+33123,93,"to pound, beat",mabbayu,,,1,1
+33480,94,"to throw",mattabo-c,,,,
+33837,95,"to fall",madan-na,,,54,
+34194,96,dog,kitu,,,49,
+34551,97,bird,mamanu-c,,,"1,50",1
+34908,98,egg,illug,,,1,1
+35265,99,feather,duddu-c,,,15,
+35622,100,wing,pa-ya-c,,,"33,40",
+35979,101,"to fly",maccagag,,,,
+36336,102,rat,balakag,,,41,
+36693,103,meat/flesh,carne,,L,,
+37050,104,fat/grease,manteca,,L,,
+37407,105,tail,ifu-c,,,30,?
+37764,106,snake,iraw,,,"2,34",
+131886,107,"worm (earthworm)",caralang,,,,
+77492,108,louse,lita,,,,1
+77493,108,louse,kutu,,,1,1
+38835,109,mosquito,lamu-c,,,"1,33",1
+132839,110,spider,taggalawa,,,1,
+39549,111,fish,sira,,,"18,35",
+39906,112,rotten,nabadyu,,,,
+132867,112,rotten,navanno,,,,
+132868,112,rotten,navonno,,,,
+40263,113,branch,panga,,,22,
+40620,114,leaf,don,,,1,1
+40977,115,root,ga-mu-c,,,3,1
+41334,116,flower,lappaw,,,27,
+41691,117,fruit,vunga,,,9,
+42048,118,grass,kad-do-c,,,"2,84",
+42405,119,earth/soil,davvun,,,36,
+42762,120,stone,batu,,,1,1
+43119,121,sand,daga-c,,,36,
+43476,122,water,danum,,,1,1
+43833,123,"to flow",magagi-c,,,,?
+44190,124,sea,bebay,,,28,
+44547,125,salt,asin,,,3,
+45261,127,woods/forest,kakayuwan,,,2,
+45618,128,sky,langi-c,,,1,1
+45975,129,moon,vulan,,,1,1
+46332,130,star,bitun,,,1,1
+47046,132,fog,fung-ngo-c,,,,
+47403,133,rain,uran,,,1,1
+47760,134,thunder,addug,,,"2,91",?
+48117,135,lightning,kila-kila-c,,,1,1
+48474,136,wind,pad-dag,,,"27,85",
+48831,137,"to blow",mas-su-c,,,,?
+148958,138,warm,napatu,,,26,
+49545,139,cold,malam-min,,,"22,31",
+49902,140,dry,namaga,,,26,
+50259,141,wet,nabasa,,,1,1
+50616,142,heavy,madam-mo-c,,,"22,26",
+50973,143,fire,a-fi,,,1,1
+51330,144,"to burn",mat-tuggi,,,33,
+51687,145,smoke,atu-c,,,"2,53",1
+52044,146,ash,avu,,,1,1
+52401,147,black,ngi-si-c,,,17,
+52758,148,white,fu-raw,,,3,
+53115,149,red,uzzin,,,45,
+53472,150,yellow,ngila,,,36,
+53829,151,green,verde,,L,,
+54186,152,small,baddi-c,,,31,
+54543,153,big,dakal,,,"22,102",
+54900,154,short,alinno-c,,,,
+55257,155,long,apaddu,,,"1,88",?
+55614,156,thin,makabbal,,,,
+55971,157,thick,makannag,,,33,
+56685,159,wide,alawa,,,1,1
+57042,160,"painful, sick",mataki-c,,,1,1
+57399,161,"shy, ashamed",minappasiran,,,24,
+122945,162,old,bako-c,"old woman",L,,
+122946,162,old,lakay,M,,20,
+58113,163,new,bagu,,,"1,54",1
+58470,164,good,mapya,,,1,1
+58827,165,"bad, evil",marake-c,,,"1,38",1?
+59184,166,"correct, true",kurug,,,83,
+59541,167,night,gabi,,,21,
+59898,168,day,aggaw,,,"1,54",1
+60255,169,year,dagun,,,"43,73",
+60612,170,when?,"sonu anni",,,"10,20",
+60969,171,"to hide",mangitagu,,,13,
+61326,172,"to climb",makkalay,,,"17,54",
+61683,173,at,ta,,,14,
+62040,174,"in, inside",unag,,,16,
+62397,175,above,utun,,,13,
+62754,176,below,gukag,,,30,
+81403,177,this,yaw,,,"35,41",
+81404,177,this,yawe,,,"35,41",
+81540,178,that,yari,,,56,
+81541,178,that,yori,,,49,
+63825,179,near,aranni,,,"1,40",1
+64182,180,far,arayyu,,,"1,78",
+64539,181,where?,sitaw,,,27,
+64896,182,I,so-c,,,"1,34",
+166823,182,I,sakan,,,"1,28",
+65253,183,thou,sikaw,,,"1,30",1
+65610,184,he/she,yayya,,,1,1
+123126,185,we,sittam,,,"1,72",1
+123127,185,we,sikami,,,"2,52",
+66324,186,you,sikaw,,,s,
+66681,187,they,ira,,,"1,70",1
+67038,188,what?,anni,,,24,
+67395,189,who?,sinni,,,14,
+82365,190,other,karwan,,,31,
+82366,190,other,tanakwan,,,"34,32",
+68109,191,all,ngamin,,,1,1
+68466,192,and,anna,,,,1?
+68823,193,if,nu,,,"2,70",1
+69180,194,how?,kunasi,,,"1,73",
+69537,195,"no, not",ari,,,1,1
+69894,196,"to count",mabbilang,,,1,1
+70251,197,One,tadday,,,"1,67",
+70608,198,Two,duwa,,,1,1
+70965,199,Three,tallu,,,1,1
+71322,200,Four,appa-c,,,1,1
+131885,201,Five,lima,,,1,
+131884,202,Six,annam,,,1,
+131883,203,Seven,pitu,,,1,
+131882,204,Eight,walu,,,3,
+131881,205,Nine,siyam,,,9,
+131880,206,Ten,mafulo,,,"5,40",
+131879,207,Twenty,duwafulo,,,"3,6",
+131878,208,Fifty,limafulo,,,"1,2",
+131877,209,"One Hundred",magatu,,,"4,52",
+131876,210,"One Thousand",marivu,,,"5,9",

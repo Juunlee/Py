@@ -1,0 +1,204 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+110,Paulohi,"Blust, from: Stresemann (1927)",plh,paul1238,"Stresemann, E. (1927). Die Lauterscheinungen in den ambonischen Sprachen. Zeitschrift fÃ¼r Eingeborenen-Sprachen, Beihaft 10. Berlin: Dietrich Reimer.",,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Central Maluku, East, Seram, Nunusaku, Piru Bay, East, Seram Straits, Solehua","Peng Du","Simon Greenhill","@book{59437,  address               = {Berlin},  pages                 = {xii+224},  publisher             = {Reimer},  series                = {Zeitschrift für Eingeborenen-Sprachen / Beihefte},  title                 = {Die Lauterscheinungen in den ambonischen Sprachen},  volume                = {10},  year                  = {1927},  bibtexkey             = {stresemann_lauterscheinungen-ambonischen1927},  class_loc             = {PL5206},  document_type         = {B},  fn                    = {papua\stresemann_ambonischen1927_o.pdf, papua\stresemann_ambonischen1927.pdf},  hhtype                = {overview;comparative},  inlg                  = {German [deu]},  inlg_code             = {deu},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 5206 STR 1927},  src                   = {hh, mpieva},  srctrickle            = {hh#hv:Stresemann:Ambonischen, mpieva#Stresemann1927DieLaute},  subject_headings      = {Amboinese languages, Amboinese languages},  author                = {Stresemann, Erwin}}"
+latitude,longitude
+-3.25000000000000000000,128.75000000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+110,1,hand,rima,,,"1,64",1
+467,2,left,aupaa,,,30,
+824,3,right,auina,,,"1,29",?
+1181,4,leg/foot,wae,,,"1,100",1
+1538,5,"to walk",toti,,,,
+1895,6,road/path,lakine,,,,?
+2252,7,"to come",umai,,,1,1
+2609,8,"to turn",sapuri,,,,
+2966,9,"to swim",nanu,,,"1,45",1
+3323,10,dirty,tatai,,,38,
+3680,11,dust,lahone,,,5,
+4037,12,skin,urite,,,1,1
+4394,13,back,muri,"Probably a spatial relation and not a bodypart",,3,
+4751,14,belly,tia,,,1,1
+5108,15,bone,riri,,,2,
+5465,16,intestines,hutua,,,8,
+6179,18,breast,susu,,,1,1
+6536,19,shoulder,sihiri,,,,
+6893,20,"to know, be knowledgeable",titiwa,,,39,
+7607,22,"to fear",sikae,,,,
+7964,23,blood,lala,,,1,1?
+8321,24,head,uru,,,1,1
+8678,25,neck,totolo,,,8,
+9035,26,hair,hua,,,1,
+9392,27,nose,iri,(<A),,1,1?
+9749,28,"to breathe",aseh,,,,
+10106,29,"to sniff, smell",suma,,,15,
+10463,30,mouth,nuku,,,2,
+10820,31,tooth,nife,,,1,1
+11177,32,tongue,mei,,,7,?
+11534,33,"to laugh",memei-e,,,3?,
+11891,34,"to cry",tatani,,,1,1
+12248,35,"to vomit",momʔá,,,1?,?
+12605,36,"to spit",tuhula,"or 1?",,9,
+12962,37,"to eat",ane,,,1,
+13319,38,"to chew",samika,,,,
+13676,39,"to cook",nahue,,,3,1
+14033,40,"to drink",unu,,,1,1
+14390,41,"to bite",keri,,,1?,?
+14747,42,"to suck",susu,,,1,1
+15104,43,ear,terina,,,1,1
+15461,44,"to hear",fe|nene,,,"1,30",1?
+15818,45,eye,mata,,,1,1
+16175,46,"to see",seru,,,5,
+16532,47,"to yawn",a|ma|mua|e,,,19,1?
+16889,48,"to sleep",mu|turu,,,1,1
+17246,49,"to lie down",muturu,,,37,
+17603,50,"to dream",mi-ninifi,,,"1,60,3",1
+17960,51,"to sit",tue,,,11?,
+18317,52,"to stand",ele,,,"1,32",?
+18674,53,"person/human being",tamata,,,"1,66",1
+19031,54,man/male,manawa,(<M),,1,1
+19388,55,woman/female,pipina,,,"1,106",1
+19745,56,child,ana,,,1,1
+20102,57,husband,manawa,,,47,
+20459,58,wife,pipina,,,"5,68",
+20816,59,mother,ina,,,1,1
+21173,60,father,ama,,,1,1
+21530,61,house,ruma,,,1,1
+21887,62,thatch/roof,ate,,,1,1
+22244,63,name,nala,,,1,1
+22601,64,"to say",lepa,,,152,
+23315,66,"to tie up, fasten",hoo,,,118,
+23672,67,"to sew",sawe,,,10,
+24743,70,"to shoot",fana,,,1,1
+25100,71,"to stab, pierce",tiha,,,5,
+75380,72,"to hit",hita,,,39?,
+75381,72,"to hit",lata,,,,
+25814,73,"to steal",a|ma|naa,,,"11,59,60",1?
+26171,74,"to kill",fa-mata,,,2,
+26528,75,"to die, be dead",matae,,,1,1
+26885,76,"to live, be alive",mahaiti,,,3,
+27242,77,"to scratch",ala,,,46,?
+75699,78,"to cut, hack",hita,,,7,
+75700,78,"to cut, hack",lata,,,7,
+27956,79,stick/wood,ai,,,1,1
+28313,80,"to split",haa,,,37,1
+28670,81,sharp,moi,,,7,
+29741,84,"to plant",tahue,,,36,
+30455,86,"to grow",kihu,,,3,
+76291,87,"to swell",poa,,,75,
+76292,87,"to swell",pota,,,75,
+76364,88,"to squeeze",lepe,,,4,
+76365,88,"to squeeze",sepee,,,,
+31526,89,"to hold",famese,,,,
+31883,90,"to dig",ari,,,1,1
+32240,91,"to buy",sahe,,,3,
+32597,92,"to open, uncover",hēka,,,29,
+32954,93,"to pound, beat",tutu,,,20,1
+33311,94,"to throw",tahae,,,,
+33668,95,"to fall",manahu,,,"1,106",1
+34025,96,dog,asu,,,1,1
+34382,97,bird,manue,,,1,1
+34739,98,egg,terur,,,1,1
+35096,99,feather,huru,,,1,1
+35453,100,wing,ehori,,,36,
+35810,101,"to fly",kihu,,,6,
+36167,102,rat,ma|laha,,,"1,82",1
+36524,103,meat/flesh,isi,,,31,1
+36881,104,fat/grease,mina,,,1,1
+37238,105,tail,aru,,,6,
+37595,106,snake,nifa,,,1,1
+38309,108,louse,utu,,,1,1
+38666,109,mosquito,sonote,,,40,
+39380,111,fish,iane,,,1,1
+39737,112,rotten,peperi,,,44,
+40094,113,branch,sana,,,2,
+40451,114,leaf,lau,,,1,1
+40808,115,root,lamut,,,3,1
+41165,116,flower,kupane,,,,
+41522,117,fruit,hua,,,1,1
+41879,118,grass,eri,,,,
+78022,119,earth/soil,tapule,,,7,
+78023,119,earth/soil,uhue,,,7,
+42593,120,stone,hatu,,,1,1
+42950,121,sand,ai-lahai,,,,
+43307,122,water,waele,,,2,1
+43664,123,"to flow",kala,,,8,
+44021,124,sea,tawaēni,,,,
+44378,125,salt,tasie,,,20,
+44735,126,lake,tihu,,,5,
+45092,127,woods/forest,wesie,,,9,
+45449,128,sky,lanite,,,1,1
+45806,129,moon,hulane,,,1,1
+46163,130,star,umari,,,7,
+46520,131,cloud,unine,,,,
+46877,132,fog,moone,,,,
+47234,133,rain,kia,,,,
+47591,134,thunder,uule,,,11,
+47948,135,lightning,talai,,,,
+48305,136,wind,anine,,,1,1
+48662,137,"to blow",hulo,,,39,
+49019,138,warm,pei,,,,
+79146,139,cold,fu|rkin|i,,,1,1?
+79147,139,cold,rikine,"rikine [n.]",,1,1?
+49733,140,dry,mutu,,,,
+50090,141,wet,popota,,,33,
+50447,142,heavy,pila,,,,
+50804,143,fire,afe,,,1,1
+51161,144,"to burn",tunu,,,1,1
+51518,145,smoke,hoot,,,,
+51875,146,ash,"afʔ mata-i",,,4?,?
+52232,147,black,mete,,,1,1
+52589,148,white,puti,,,1,1
+52946,149,red,kau,,,8,
+53303,150,yellow,poku,,,,
+53660,151,green,lala,,,6?,
+54017,152,small,fofori,,,5?,
+54374,153,big,ila,,,8?,
+54731,154,short,kokoru,,,38,
+55088,155,long,ata,,,48,
+55445,156,thin,mulala,,,,
+55802,157,thick,heteru,,,3,
+56159,158,narrow,etee,,,,
+56516,159,wide,hakari,,,,
+56873,160,"painful, sick",masele,,,43,
+80447,161,"shy, ashamed",failae,,,,
+80448,161,"shy, ashamed",akakila,,,,
+57587,162,old,mutua,,,1,1
+57944,163,new,heru|i,,,1,1
+58301,164,good,wolo,,,,
+80672,165,"bad, evil",awahia,,,40,
+80673,165,"bad, evil",auwani,,,,
+59015,166,"correct, true",manisä,,,27,
+59372,167,night,humelee,,,,
+59729,168,day,petu,,,4,
+60086,169,year,nale,,,3,
+60443,170,when?,fi|fila|i,,,1,1?
+60800,171,"to hide",haunie,,,,?
+61871,174,"in, inside",laai,,,,
+62228,175,above,lete,,,6,
+62585,176,below,wehe,,,,
+62942,177,this,"ile nei",,,,
+63299,178,that,"ile mei",,,,
+63656,179,near,masu,,,6,
+64013,180,far,lama,,,,
+64370,181,where?,pae,,,3,
+64727,182,I,au,,,1,1
+65084,183,thou,ale,,,4,
+65441,184,he/she,ile,,,3,
+113859,185,we,ike,,,1,1
+113860,185,we,ami,,,2,
+66155,186,you,imi,,,"1,13",1
+66512,187,they,sile,,,1,1
+66869,188,what?,afa|i,,,1,1
+67226,189,who?,sei|na,,,1,1
+67583,190,other,lahani,,,,
+67940,191,all,lopisie,,,34,
+68297,192,and,tula,,,5,
+68654,193,if,ke,,,1?,1?
+69011,194,how?,hau-faini,,,,
+82714,195,"no, not",tama,,,4,
+82715,195,"no, not",ta,,,4,
+82779,196,"to count",halee,,,,
+82780,196,"to count",iri,,,,
+70082,197,One,sae,,,1?,1?
+70439,198,Two,rua,,,1,1
+70796,199,Three,toru,,,1,1
+71153,200,Four,fale,,,1,?

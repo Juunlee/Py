@@ -1,0 +1,196 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+51,Bwaidoga,"Blust, from: Jenness and Ballantyne (1926)",bwd,bwai1242,"Jenness, D., Ballantyne, A. (1926). Language, Mythology, and Songs of Bwaidoga, Goodenough Island, S.E. Papua. Journal of the Polynesian Society.",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Papuan Tip, Nuclear, North Papuan Mainland-D'Entrecasteaux, Bwaidoga","Simon Greenhill","Simon Greenhill","@book{38225,  address    = {New Plymouth, New Zealand},  pages      = {viii+270},  publisher  = {Polynesian Society},  series     = {Polynesian Society Memoir},  title      = {Language, Mythology, and Songs of Bwaidoga, Goodenough Island, S. E. Papua},  volume     = {8},  year       = {1928},  bibtexkey  = {ballantyne-jenness_bwaidoga-goodenough1928},  hhtype     = {grammar_sketch},  inlg       = {English [eng]},  inlg_code  = {eng},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#s:JennessBallantyne:Bwaidoga},  author     = {Jenness, D. and Ballantyne, A.}}"
+latitude,longitude
+-9.47073567413093186929,150.30395507812500000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+51,1,hand,nima-,,,1,1
+408,2,left,ai-mauli,,,"1,59",1
+765,3,right,ai-atagi,,,14,1?
+1122,4,leg/foot,age-,,,1,1
+71540,5,"to walk",tauya,,,137,
+71541,5,"to walk",naudadana,,,"1, 35",
+1836,6,road/path,wai,,,25,
+2193,7,"to come",elai,,,87,
+2550,8,"to turn",vila,,,66,
+2907,9,"to swim",kaio,,,32,
+3978,12,skin,ubu-,,,55,
+4335,13,back,domo-,,,61,
+4692,14,belly,kamo-,,,45,
+5049,15,bone,lulu-,,,32,
+5406,16,intestines,kamo-foa,,,30,
+6120,18,breast,agu-,,,1,
+6477,19,shoulder,avala,,,1,1
+6834,20,"to know, be knowledgeable",alamanena,,,43,
+7548,22,"to fear",matauta,,,1,
+7905,23,blood,daiaga,,,32,
+8262,24,head,debai-,,,"43,72",
+8619,25,neck,ago-,,,88,
+8976,26,hair,kulua-,,,3,
+9333,27,nose,kabu-,,,17,
+9690,28,"to breathe",yawa(i),,,22,1?
+10047,29,"to sniff, smell",auna,,,1,
+10404,30,mouth,awa-,,,36,
+10761,31,tooth,nigo-,,,"1,",1
+11118,32,tongue,mea-,,,7,
+11475,33,"to laugh",vele,,,82,
+11832,34,"to cry",tagia,,,1,1
+12189,35,"to vomit",yovala,,,11,
+12546,36,"to spit",giwala,,,40,
+12903,37,"to eat",kani,,,1,1
+73304,38,"to chew",kuda,,,14,
+73305,38,"to chew",kava,,,67,
+13617,39,"to cook",vetagova,,,27,
+13974,40,"to drink",yuga,,,36,
+14331,41,"to bite",yovana,,,44,
+14688,42,"to suck",tauma,"irregular *u > au, irregular *u > a",,"81, 86",1?
+15045,43,ear,taya,,,1,
+15402,44,"to hear",nogalina,,,"1, 36",
+15759,45,eye,mata-,,,1,1
+16116,46,"to see",ita,,,1,
+16830,48,"to sleep",daudau,,,64,
+17187,49,"to lie down",eno-bala,,,1,1
+17544,50,"to dream",avaita,,,66,
+17901,51,"to sit",(ve)toga,,,80,
+18258,52,"to stand",mididi,,,1,
+18615,53,"person/human being",kaliva,,,41,
+18972,54,man/male,mogane,,,1,1
+74274,55,woman/female,vavine,,,"1,106",1
+74275,55,woman/female,vevine,,,"1,106",1
+19686,56,child,natu-,,,5,
+20043,57,husband,mogane-,,,26?,
+20400,58,wife,vevine-,,,"5, 68",
+20757,59,mother,ina-,,,1,1
+21114,60,father,tama-,,,1,1
+21471,61,house,manua,,,"7,44",
+22185,63,name,iegana,,,"1,18",?
+22542,64,"to say",vona,,,20,
+22899,65,rope,bulava,,,84,
+23256,66,"to tie up, fasten",utagona,,,134,
+23970,68,needle,gaima,,,1,?
+75290,71,"to stab, pierce",esabakalina,,,,
+75291,71,"to stab, pierce",etofolena,,,96,
+25398,72,"to hit",tafina,,,31,
+25755,73,"to steal",ki-,,,,
+26112,74,"to kill",munu|na,,,1,1?
+26469,75,"to die, be dead",alika,,,11,
+75617,77,"to scratch",koi,,,95,
+75618,77,"to scratch",kwoina,,,,
+27540,78,"to cut, hack",tala|na,,,1,1?
+27897,79,stick/wood,ai,,,1,1
+28254,80,"to split",talakekei,"tala < *taRaq 'adze'",,90,
+28611,81,sharp,manimanina,,,29,
+28968,82,"dull, blunt",baitutuna,,,25,
+29325,83,"to work",bakula,,,19,
+29682,84,"to plant",fa,,,64,
+76166,85,"to choose",venuvenuana,,,44,
+76167,85,"to choose",nuadadana,,,43,
+30753,87,"to swell",fugana,,,,
+31110,88,"to squeeze",voilina,,,63,
+31467,89,"to hold",abina,,,23,
+31824,90,"to dig",bwalu,,,68,
+32538,92,"to open, uncover",yavuna,,,76,
+76719,94,"to throw",nata,,,,
+76720,94,"to throw",atu,,,31,
+76721,94,"to throw",bwaiabwaiana,,,,
+76814,95,"to fall",taulina,,,,
+76815,95,"to fall",mavuna,,,80,
+76904,96,dog,koko,,,17,
+76905,96,dog,galu(k)eta,,,99,
+34323,97,bird,manuga,,,1,1
+34680,98,egg,fou,,,15,
+35037,99,feather,dakula,,,13,
+35394,100,wing,ofana,,,30,
+35751,101,"to fly",yavega,,,44,
+36108,102,rat,kwaisalu,,,32,
+36465,103,meat/flesh,vido-,,,10,
+37536,106,snake,mota,,,12,
+37893,107,"worm (earthworm)",mota-mota,,,10,
+38250,108,louse,utu,,,1,1
+38607,109,mosquito,nimoga,,,1,?
+39321,111,fish,igana,,,1,1
+39678,112,rotten,bwaketa,,,,
+40392,114,leaf,luku-,,,16,
+40749,115,root,walamina,,,62,
+41463,117,fruit,guana,,,1,1
+41820,118,grass,umiumi,,,,
+42177,119,earth/soil,babi,,,19,
+42534,120,stone,kabala,,,15,
+42891,121,sand,makama,,,29,
+43248,122,water,dauda,,,62,
+78308,124,sea,gawana,,,"13,66",
+78309,124,sea,oko,,,,
+78310,124,sea,leaga,,,71,
+45033,127,woods/forest,gudana,,,"7,20",1?
+45390,128,sky,gabama,,,18,
+45747,129,moon,vaikoi,,,23,
+46104,130,star,ailabama,,,,
+78635,131,cloud,samona,,,,
+78636,131,cloud,buibui,,,44,
+46818,132,fog,owa,,,33,
+47175,133,rain,wei,,,27,
+47532,134,thunder,atala,,,26,
+47889,135,lightning,atunama,,,38,
+48246,136,wind,mala,,,21,
+48603,137,"to blow",yuve,,,77,
+49317,139,cold,tulutuluna,,,126,
+49674,140,dry,yayana,,,69,
+50031,141,wet,butana,,,20,
+50745,143,fire,ai,,,35,1?
+51102,144,"to burn",tuina,,,1,
+51459,145,smoke,sio,,,50,
+51816,146,ash,au|fafa,,,"1,89",1?
+52173,147,black,likenakena,,,,
+52887,149,red,abela,,,99,
+53244,150,yellow,yagoyagona,,,9,
+53601,151,green,matamatagina,,,1,
+79856,152,small,kabikona,,,67,
+79857,152,small,kabisona,,,67,
+54315,153,big,lakaina,,,43,
+80097,154,short,kasikina,,,,
+80098,154,short,kasiona,,,,
+55029,155,long,manamanaue,,,12,
+80182,156,thin,yalayalana,,,66,
+80183,156,thin,bikana,,,,
+55743,157,thick,badobadona,,,18,
+56100,158,narrow,madiala,,,,
+56457,159,wide,talafava,,,48,
+80350,160,"painful, sick",veoga,,,,
+80351,160,"painful, sick",ulolo,,,,
+57171,161,"shy, ashamed",(vovo)mumu,,,82,
+57885,163,new,vagu,,,"1,26",1?
+58242,164,good,wakana,,,,
+58599,165,"bad, evil",koiona,,,66,
+59313,167,night,bogi,,,1,1
+59670,168,day,yadayada,,,66,
+60741,171,"to hide",velusowavuyena,,,56,
+61098,172,"to climb",tafikwaioia,,,,
+61812,174,"in, inside",negeni,,,60,
+62169,175,above,getane,,,60,
+62526,176,below,dibuni,,,82,
+62883,177,this,taidei,,,,
+63240,178,that,taiwa,,,,
+63597,179,near,lilivane,,,"60,105",
+81639,180,far,lauva,,,23,
+81640,180,far,atuada,,,,
+64311,181,where?,gadedeku,,,,
+64668,182,I,g|a,,,"1,21",1?
+65025,183,thou,oie,,,1,
+65382,184,he/she,g|i,,,1,1?
+121469,185,we,ideavo,"ideavo (incl.)",,1,1
+121470,185,we,imeavo,"imeavo (excl.)",,2,
+66096,186,you,imiavo,,,"1,13",1
+66453,187,they,idiavo,"*-avo PL",,"25,64",
+66810,188,what?,gava,,,1,1
+67167,189,who?,gai|to,,,55,1
+67524,190,other,velugane,,,66,
+82385,191,all,dawanidi,,,,
+82386,191,all,matatabuna,,,45,
+68238,192,and,ke,,,1,1
+68595,193,if,kai,,,80,?
+68952,194,how?,gavaiamu,,,,
+69309,195,"no, not",keke,,,23,
+82808,197,One,tamo,"-mo 'only'",,14,
+82809,197,One,sedana,,,,
+70380,198,Two,lue,,,1,1
+70737,199,Three,toi,,,1,1
+71094,200,Four,laufuli,,,70,

@@ -1,0 +1,198 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+147,Wuna,"Blust from Drs. Nurdin Yatim, Penelitian",mnb,muna1247,,,"Austronesian, Malayo-Polynesian, Celebic, Eastern, Southeastern, Muna-Buton, Nuclear Muna-Buton, Munan, Munic, Western","Penny Keenan","Simon Greenhill","@misc{Penelitian-147-2005,  author = \"Nurdin Yatim and Penelitian\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-5.00000000000000000000,122.50000000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+147,1,hand,lima,,,"1,64",1
+504,2,left,kema,,,33,
+861,3,right,s|wana,,,"1,74",1
+1218,4,leg/foot,ghaghe,,,1,1
+1575,5,"to walk",no|kala,(<M),,58,?
+1932,6,road/path,sala,,,1,1
+2289,7,"to come",mai,,,1,1
+2646,8,"to turn",nobelo,,,,
+3003,9,"to swim",leni,,,1,1
+3360,10,dirty,noraku,,,33,
+4074,12,skin,kuli,,,1,1
+4788,14,belly,taghi,,,19,
+5145,15,bone,buku,,,16,
+5502,16,intestines,"ihi no taghi",,,,
+5859,17,liver,ghete,,,1,1
+6216,18,breast,titi,,,6,
+6573,19,shoulder,ghofea,"(+b>f, cp.87)",,1?,1
+6930,20,"to know, be knowledgeable",pandehao,,,23,
+7287,21,"to think",fekiri,"loan of 22?",L,,
+7644,22,"to fear",no|tehi,"(+k >s / usi / ase?,cf 56)",,20,?
+8001,23,blood,rea,,,1,1
+8358,24,head,fotu,,,14,
+8715,25,neck,wughu,,,37,
+9072,26,hair,"vulu no fotu",,,3,
+9429,27,nose,nē,,,21,
+9786,28,"to breathe",nofenei,,,25,
+10143,29,"to sniff, smell",nofowono,,,24,
+10500,30,mouth,woba,,,1,1?
+10857,31,tooth,waŋka,,,15,
+11214,32,tongue,lela,,,4,
+11571,33,"to laugh",fo|ta,,,1,1
+11928,34,"to cry",noghae,,,13,
+12285,35,"to vomit",toŋka,,,8,
+73180,36,"to spit",foghoniu,,,31,
+73181,36,"to spit",feughi,,,31,
+12999,37,"to eat",fo|mā,,,10,?
+13356,38,"to chew",kamama,,,1,1
+14070,40,"to drink",foraghu,,,14,
+14427,41,"to bite",fonā,,,,
+14784,42,"to suck",komi,,,17,
+15141,43,ear,poŋke,,,14,
+15498,44,"to hear",feteŋke,,,18,
+15855,45,eye,mata,,,1,1
+16212,46,"to see",nofoara,,,,
+16926,48,"to sleep",nolodo,,,23,
+17640,50,"to dream",mo|nifi,,,"25,1",1
+17997,51,"to sit",neŋkora,,,36,
+74106,52,"to stand",noere,,,35,
+74107,52,"to stand",nontade,,,"22,24",
+18711,53,"person/human being",omie,,,19,
+19068,54,man/male,moghane,,,1,1
+19425,55,woman/female,ro|bine,,,"1,41",1
+19782,56,child,anahi,"(cf #27)",,1,1?
+20139,57,husband,moghane,,,26,
+20496,58,wife,robine,,,5,
+20853,59,mother,ina,,,1,1
+21210,60,father,ama,,,1,1
+21567,61,house,lambu,,,19,
+21924,62,thatch/roof,ghato,,,"1,26",1
+22281,63,name,neya,,,1,1
+22638,64,"to say",bisara,,L,19,
+22995,65,rope,rabuta,,,24,
+23352,66,"to tie up, fasten",netapu,,,,
+23709,67,"to sew",netampoli,,,27,
+24066,68,needle,deu,,,1,1
+75199,69,"to hunt",nofula,,,,
+75200,69,"to hunt",nokulo,,,,
+24780,70,"to shoot",netemba,,,49,
+25137,71,"to stab, pierce",fotobo,,,24,
+75396,72,"to hit",nesuwu,,,,
+75397,72,"to hit",nesoda,,,,
+75398,72,"to hit",fopepe,,,,
+25851,73,"to steal",nombulaku,,,17,
+26208,74,"to kill",fopoŋko,,,27,
+26565,75,"to die, be dead",mate,,,1,1
+26922,76,"to live, be alive",dadi,,,18,
+27279,77,"to scratch",nekurumasi,,,25,?
+27636,78,"to cut, hack",nedodo,,,,
+27993,79,stick/wood,sau,,,1,1
+28350,80,"to split",nebogha,,,35,?
+28707,81,sharp,noroko,,,32,
+29064,82,"dull, blunt",noduko,,,28,
+29421,83,"to work",karada,,,23,
+29778,84,"to plant",netisa,,,21,
+30135,85,"to choose",nepili,,,1,1
+30492,86,"to grow",tumbu,,,1,1
+124921,87,"to swell",no|feo,"(+b>f, cf19)",,,
+124922,87,"to swell",noyeo,"(+b>f, cf19)",,,
+31206,88,"to squeeze",ne|feo,"(+p>f, cp.143)",,1,1?
+31563,89,"to hold",neutara,,,28,
+31920,90,"to dig",ne|seli,,,1,1
+32277,91,"to buy",ne|gholi,,,1,1?
+32634,92,"to open, uncover",neleŋka,,,21,
+76756,94,"to throw",ghompa,,,26,
+76757,94,"to throw",bandu,,,,
+33705,95,"to fall",nondafu,,,1,1?
+34062,96,dog,d|ahu,,,1,1
+34419,97,bird,manumanu,,,1,1
+34776,98,egg,ghunteli,,,1,1
+35133,99,feather,vulu,,,1,1
+35490,100,wing,pani,,,2,1
+35847,101,"to fly",horo,,,24,
+36204,102,rat,wolavo,,,1,
+36561,103,meat/flesh,dagi,,L,26,1
+37275,105,tail,punda,,,17,
+37632,106,snake,ghule,,,2,?
+38346,108,louse,ōtu,,,1,?
+38703,109,mosquito,konunu,,,,
+39060,110,spider,kabamba,,,19,
+39417,111,fish,kenta,,,22,
+39774,112,rotten,no|buru,,,1,1
+40131,113,branch,ragha,,,1,1
+40488,114,leaf,rō,,,1,1
+40845,115,root,par|aka,,,2,1?
+41202,116,flower,vuna,,,1,1
+41559,117,fruit,bake,,,11,
+41916,118,grass,karopu,,,,
+42273,119,earth/soil,wito,?,,26,
+42630,120,stone,kontu,,,1,1
+42987,121,sand,bone,,,1,1
+43344,122,water,oē,,,2?,
+44058,124,sea,tehi,,,1,1
+44415,125,salt,gohia,,,1,1
+45129,127,woods/forest,katua,,,2,
+45486,128,sky,lani,,,1,1
+45843,129,moon,wula,,,1,1
+46200,130,star,kalipopo,,,20,
+46557,131,cloud,olu,,,29,
+46914,132,fog,gawu,,,1,1?
+47271,133,rain,ghusa,,,1,1
+47628,134,thunder,tondu,,,34,
+78861,135,lightning,"lela no ifi",,,,
+78862,135,lightning,bibito,,,20,
+48342,136,wind,kavea,,,30,
+48699,137,"to blow",nebuso,,,,
+49056,138,warm,no|pana,,,1,1
+49413,139,cold,norindi,,,1,1
+49770,140,dry,nokele,,,28,
+50127,141,wet,nomoghu,,,,
+50484,142,heavy,no|bie,,,24,?
+50841,143,fire,ifi,"(+p>f, cp.88)",,1,1
+51198,144,"to burn",ne|tunu,,,1,1
+51555,145,smoke,ghumbo,,,13,
+51912,146,ash,ghabu,,,1,1
+52269,147,black,noghighito,,,1,1
+52626,148,white,nopute,,,1,1
+52983,149,red,nodedia,,,,
+53340,150,yellow,nokukuni,,,1,1
+53697,151,green,nofeido,,,25?,
+54054,152,small,norubu,,,22,
+54411,153,big,nobala,,,25,
+54768,154,short,nokubu,,,25,
+55125,155,long,newanta,,,32,
+55482,156,thin,nonifi,"(+p>f cp88, 198)",,1,1
+55839,157,thick,nokapa,,,1,1
+56196,158,narrow,noseke,,,21,
+56553,159,wide,neware,,,18,
+56910,160,"painful, sick",nolea,,,27,
+57267,161,"shy, ashamed",noambano,,,17,
+57624,162,old,kamokula,,,24,
+57981,163,new,nobughou,,,1,1
+58338,164,good,netā,,,30,
+58695,165,"bad, evil",habarubaru,,,,
+59052,166,"correct, true",nokotuhu,,,6,?
+59409,167,night,korondoha,,,26,
+59766,168,day,gholeo,,,22,1
+60123,169,year,taghu,,,1,1
+60480,170,when?,inde|fie,,,"1,65",1
+60837,171,"to hide",nefebuni,,,1,1
+61194,172,"to climb",nofoni,,,1,1?
+62979,177,this,a-ini,,,1,1
+63336,178,that,a-itu,,,16,1
+63693,179,near,nomaho,,,26,
+125618,180,far,nokodohu,,,27,
+125619,180,far,kodoko,,,27,
+64407,181,where?,nehamae,,,18,
+64764,182,I,inodi,,,8,
+65121,183,thou,ihitu,,,11,
+65478,184,he/she,anoa,,,12,
+124749,185,we,insaidi,,,3,
+124750,185,we,insaidīmu,,,3,
+66192,186,you,ihintumu,,,4,
+66549,187,they,andoa,,,12,
+66906,188,what?,ohae,,,12,
+67263,189,who?,lahae,,,1?,
+67620,190,other,sigahano,,,15,
+67977,191,all,baribarie,,,28,
+69405,195,"no, not",mīna,,,29,
+69762,196,"to count",nelentu,,,23,
+70119,197,One,iseʔ,,,1,
+70476,198,Two,dua,,,1,1
+70833,199,Three,tolu,,,1,1
+71190,200,Four,paʔ,,,1,1

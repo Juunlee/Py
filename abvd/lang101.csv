@@ -1,0 +1,204 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+101,"Ngaibor (S.Aru)","Jim Collins",txn,west2538,"Village in South Aru. Not identified by SIL, so classification is on geographical basis.",,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Aru","Peng Du","Simon Greenhill","@misc{Collins-101-2005,  author = \"Jim Collins\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+2.30925000000000002487,128.15277000000000384716
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+101,1,hand,lema-,,,"1,64",1
+458,2,left,aŋapŋapa,,,3,
+815,3,right,alemlema,,,2,
+1172,4,leg/foot,abay,,,38,
+1529,5,"to walk",ortér,,,73,
+2243,7,"to come",maʔ,,,1,1
+2600,8,"to turn",labuar,,,1,
+2957,9,"to swim",neŋ,,,"1,45",1?
+3314,10,dirty,muŋir,,,,
+3671,11,dust,koraw,,,,
+4028,12,skin,kaley,,,"1,93",
+4385,13,back,tilkey,,,4,
+4742,14,belly,tubir,,,3,
+5099,15,bone,tul,,,"1,25",
+5456,16,intestines,"tubir letlesar",,,3,
+5813,17,liver,ota,,,1,?
+6170,18,breast,mim,,,,
+6527,19,shoulder,pera,,,1,1
+6884,20,"to know, be knowledgeable",raka,,,47,
+7241,21,"to think","-naŋan sera-",,,,
+7598,22,"to fear",bebar,,,3,
+7955,23,blood,sopir,,,,
+8312,24,head,ǰikala,,,1,
+8669,25,neck,akal-,,,119,
+9026,26,hair,gul,,,3?,
+9383,27,nose,ǰuri-,,,1,
+9740,28,"to breathe","nal pet",,,,
+10097,29,"to sniff, smell",korpow,,,71,
+10454,30,mouth,papa-,,,1,1
+10811,31,tooth,nin,"set 1?",,1,?
+11168,32,tongue,kabelir,,,8,
+11525,33,"to laugh",mel,,,3,
+11882,34,"to cry",ten,,,1,1
+12239,35,"to vomit",mota,,,1,1
+12596,36,"to spit",nər,,,14,
+12953,37,"to eat",manám,,,49,
+13310,38,"to chew",karaŋur,,,,
+13667,39,"to cook",nai,,,3,1
+14024,40,"to drink",nun,,,1,1?
+14381,41,"to bite",kara,,,1,1
+14738,42,"to suck",guk,,,35,
+15095,43,ear,takir,,,2,
+15452,44,"to hear",luŋur,,,1,1?
+15809,45,eye,mata-,,,1,1
+16166,46,"to see",ǰolaw,,,113,
+16523,47,"to yawn","ma aw",,,19,1?
+16880,48,"to sleep",nin,,,4,
+17237,49,"to lie down",-bailar-,,,,
+17594,50,"to dream",iboka,,,56,
+17951,51,"to sit",talar,,,4,
+18308,52,"to stand",tamarer,,,3,
+18665,53,"person/human being",tamata,,,"1,66",1
+19022,54,man/male,let,laki,,3,
+19379,55,woman/female,konar,,,46,
+19736,56,child,ana,,,1,1
+20093,57,husband,let,,,3,
+20450,58,wife,aéy,,,1,
+20807,59,mother,ǰena-,,,"1,48",1
+21164,60,father,ama-,,,1,1
+21521,61,house,bot,,,64,
+21878,62,thatch/roof,ow,,,24,
+22235,63,name,ŋarin,,,1,1
+22592,64,"to say",naka,,,148,
+22949,65,rope,sel,,,"1,36",
+23306,66,"to tie up, fasten",sel,,,114,
+23663,67,"to sew",tarǰey,,,"2,9",
+24020,68,needle,lalean,,,10,?
+24377,69,"to hunt",goyar,,,,
+24734,70,"to shoot",pit,,,,
+25091,71,"to stab, pierce",et,,,85,
+25448,72,"to hit",nar,,,26,
+25805,73,"to steal",noŋow,,,"1,59",
+26162,74,"to kill",pun,,,1,1
+26519,75,"to die, be dead",goy,,,38,
+26876,76,"to live, be alive",na,,,,
+27233,77,"to scratch",kaser,,,83,?
+27590,78,"to cut, hack",ur,,,108,
+27947,79,stick/wood,key,,,1,1
+28304,80,"to split",laba,,,"1,78",?
+28661,81,sharp,olir,,,91,
+29018,82,"dull, blunt",tubik,,,4,
+29375,83,"to work",karǰá,,L,,
+29732,84,"to plant","oku rua",,,34,
+30089,85,"to choose",ǰo,,,,
+30446,86,"to grow",tip,,,1,1?
+30803,87,"to swell",bugin,,,,
+31160,88,"to squeeze",rem,,,43,
+31517,89,"to hold",saru,,,100,
+31874,90,"to dig",kel,,,1,1
+32231,91,"to buy",kel,,,58,
+32588,92,"to open, uncover",mpey,,,68,
+32945,93,"to pound, beat",tut,,,2,1
+33302,94,"to throw",ǰaya,,,,
+33659,95,"to fall",pan,,,6,
+34016,96,dog,tarow,,,89,
+34373,97,bird,areran,,,60,
+34730,98,egg,tulir,,,1,1?
+35087,99,feather,lober,,,70,
+35444,100,wing,olar,,,23?,?
+35801,101,"to fly",nu,,,72,
+36158,102,rat,kartow,,,79,
+36515,103,meat/flesh,tama,,,2,
+36872,104,fat/grease,mela,,,1?,
+37229,105,tail,gadar,,,,
+37586,106,snake,ǰela,,,,
+37943,107,"worm (earthworm)",nala,,,,
+38300,108,louse,kut,,,1,1
+38657,109,mosquito,ǰerjer,,,,
+39014,110,spider,lowlowʔ,,,1?,1?
+39371,111,fish,sema,,,,
+39728,112,rotten,ŋur,,,,
+40085,113,branch,laŋay,,,,
+40442,114,leaf,roin,,,1,
+40799,115,root,gakir,,,2,1?
+41156,116,flower,goin,,,,
+41513,117,fruit,puin,,,1,1
+41870,118,grass,gur,,,6,
+42227,119,earth/soil,kula,,,,
+42584,120,stone,pot,,,1,1
+42941,121,sand,kula,,,4,?
+43298,122,water,gar,,,"2,52",1
+43655,123,"to flow",tar,,,,
+44012,124,sea,tai,,,1,1
+44369,125,salt,masin,,,"3,45",
+44726,126,lake,sol,,,,
+45083,127,woods/forest,ra:,+doya,,3,
+45440,128,sky,maŋar,,,59,
+45797,129,moon,ɸolan,,,1,1?
+46154,130,star,ton,,,1?,?
+46511,131,cloud,efar,,,,
+47225,133,rain,goyan,,,"1,54",1?
+47582,134,thunder,itopaʔ,,,,
+47939,135,lightning,ikalaw,,,1,
+48296,136,wind,enen,,,1,1
+48653,137,"to blow",ǰow,,,37,
+49010,138,warm,ǰoar,,,,
+49367,139,cold,raray,,,,
+49724,140,dry,kor,,,,
+50081,141,wet,ǰəmil,,,,
+50438,142,heavy,nien,,,,
+50795,143,fire,ow,,,,1?
+51152,144,"to burn",para,,,,
+51509,145,smoke,koban,,,4,
+51866,146,ash,koraw,,,,
+52223,147,black,paray,,,,
+52580,148,white,elaǰir,,,,
+52937,149,red,beir,,,,
+53294,150,yellow,konal,,,1?,
+54008,152,small,kardakil,,,,
+54365,153,big,gaybun,,,,
+54722,154,short,top,,,,
+55079,155,long,otay,,,,
+55436,156,thin,menuway,,,,
+55793,157,thick,punik,,,4,
+56150,158,narrow,etakokow,,,3,
+56507,159,wide,lapir,,,49,
+56864,160,"painful, sick",ǰaray,,,,
+57221,161,"shy, ashamed",kamarey,,,,
+57578,162,old,karoin,,,,
+57935,163,new,tuboy,,,2,
+58292,164,good,epir,,,,
+58649,165,"bad, evil",kaut,,,1?,
+59006,166,"correct, true",ǰawsin,,,,
+59363,167,night,pit,,,3,
+59720,168,day,maera,,,,
+60077,169,year,narak,,,3,
+60434,170,when?,"mera ba",,,3,
+60791,171,"to hide",korkaleka,,,,
+81039,172,"to climb",makai,,,2?,
+81040,172,"to climb",m-akai,,,2,
+61505,173,at,e,,,1,?
+61862,174,"in, inside",eyabil,,,2,
+62219,175,above,"e tit",,,,
+62576,176,below,"e papa",,,1,1
+62933,177,this,on,,,,
+63290,178,that,oné,,,,
+63647,179,near,den,,,,
+64004,180,far,ǰow,,L?,1,1
+64361,181,where?,onabá,,,19,
+64718,182,I,ok,,,1,1
+65075,183,thou,ken,,,,
+65432,184,he/she,ney,,,2,
+111937,185,we,seta,,,1,1
+111938,185,we,kama,,,2,
+66146,186,you,kem,,,1,1
+66503,187,they,era,,,1,1
+66860,188,what?,ba,,,,
+67217,189,who?,nata,,,,
+67574,190,other,apukay,,,,
+67931,191,all,paroŋ,,,,
+68288,192,and,tora,,,,
+68645,193,if,menak,,,,
+69002,194,how?,namba,,,3,
+69359,195,"no, not",sakali,,,5,
+69716,196,"to count",ǰoeʔ,,,,
+70073,197,One,ot,,,"1,34",
+70430,198,Two,rua,,,1,1
+70787,199,Three,lat,"[could be 1-metathesized]",,3,
+71144,200,Four,ka,"[could be 1?]",,2,

@@ -1,0 +1,49 @@
+<root>1.99
+<left>Chuanqiandian, Northeast Yunnan</left>
+<right>1.96
+	<left>1.13
+		<left>Luobuohe, Eastern</left>
+		<right>Luobuohe, Western</right></left>
+	<right>1.76
+		<left>1.71
+			<left>She</left>
+			<right>1.65
+				<left>1.4
+					<left>Biao Min</left>
+					<right>1.38
+						<left>Zao Min</left>
+						<right>1.18
+							<left>Mien</left>
+							<right>Kim Mun</right></right></right></left>
+				<right>1.62
+					<left>Jiongnai</left>
+					<right>1.59
+						<left>1.36
+							<left>Baheng, West</left>
+							<right>Baheng, East</right></left>
+						<right>1.49
+							<left>Bana</left>
+							<right>Younuo</right></right></right></right></right></left>
+		<right>1.74
+			<left>1.47
+				<left>Xiangxi, West</left>
+				<right>Xiangxi, East</right></left>
+			<right>1.67
+				<left>1.61
+					<left>Numao</left>
+					<right>1.46
+						<left>Dongnu</left>
+						<right>Nunu</right></right></left>
+				<right>1.65
+					<left>1.48
+						<left>Chuanqiandian</left>
+						<right>1.38
+							<left>Chuanqiandian, Central Guizhou</left>
+							<right>Chuanqiandian, Southern Guizhou</right></right></left>
+					<right>1.54
+						<left>Qiandong, South</left>
+						<right>1.37
+							<left>Qiandong, East</left>
+							<right>1.23
+								<left>Qiandong, North</left>
+								<right>Qiandong, West</right></right></right></right></right></right></right></right></right></root>

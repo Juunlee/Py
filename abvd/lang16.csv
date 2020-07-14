@@ -1,0 +1,200 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+16,Bobot,"Jim Collins",bty,bobo1254,,,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Central Maluku, East, Seram, Bobot","Peng Du","Simon Greenhill","@misc{Collins-16-2005,  author = \"Jim Collins\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-3.49871005693759196120,130.62421020774300473022
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+16,1,hand,hasan,,,5,
+373,2,left,kabalit,,,7,
+730,3,right,lalait,,,3,
+1087,4,leg/foot,wai,,,"1,100",1
+1444,5,"to walk",uha,,,,
+1801,6,road/path,lolon,,,1,1
+2158,7,"to come",boti,,,32,
+2515,8,"to turn",hutan,,,1?,
+2872,9,"to swim",ahás,,,,
+3229,10,dirty,baʔoboʔ,,,,
+3586,11,dust,ubas,,,3,
+3943,12,skin,uhit,,,1?,?
+4300,13,back,karan,,,8,
+4657,14,belly,tuah,,,1,?
+5014,15,bone,lusin,,,2,
+5371,16,intestines,"tuan walan",,,"6,7",
+5728,17,liver,yatan,,,1,1
+6085,18,breast,susin,,,1,1
+6442,19,shoulder,malat,,,5,
+6799,20,"to know, be knowledgeable",kalelan,,,,
+7156,21,"to think",ita,,,,
+7513,22,"to fear",katoit,,,1?,?
+7870,23,blood,lasa,,,1,1
+8227,24,head,ulin,,,1,1
+8584,25,neck,wosan,,,80,
+8941,26,hair,"ulin lan",,,3?,
+9298,27,nose,ninin,,,6,
+9655,28,"to breathe",manowa,,,1,1
+10012,29,"to sniff, smell",mulit,,,5,
+10369,30,mouth,uban,,,9,
+10726,31,tooth,nihan,,,1,1
+11083,32,tongue,lehaʔ,,,10,
+11440,33,"to laugh",balíʔ,,,"3, 54",
+11797,34,"to cry",rakit,,,1,1
+12154,35,"to vomit",luaʔ,,,8,
+12511,36,"to spit",batof,,,7,
+12868,37,"to eat",kan,,,1,1
+13582,39,"to cook",hakatuin,,,,
+13939,40,"to drink",nimin,,,1?,1?
+14296,41,"to bite",kasat,,,1,1
+14653,42,"to suck",komoan,,,,
+15010,43,ear,talikan,,,1,1
+15367,44,"to hear",loka,,,6,1
+15724,45,eye,mata,,,1,1
+16081,46,"to see",ita,,,1,1
+16438,47,"to yawn",mu|máh,,,19,1?
+16795,48,"to sleep",nima,,,4,
+17152,49,"to lie down","nima kanowa",,,3,
+17509,50,"to dream",mánih,,,"1,60,3",1
+17866,51,"to sit",tuat,,,10,
+18223,52,"to stand",kolan,,,8,1
+18580,53,"person/human being",mansia,,L,,
+18937,54,man/male,masanan,,,1,1
+19294,55,woman/female,baroha,,,,
+19651,56,child,oʔon,,,,
+20008,57,husband,masanan,,,,
+20365,58,wife,baroha,,,,
+20722,59,mother,ina,,,1,1
+21079,60,father,baba,,,43,
+21436,61,house,suma,,,1,1
+21793,62,thatch/roof,ilan,,,28,
+22150,63,name,nalan,,,1,1
+22507,64,"to say",lian,,,7,
+22864,65,rope,"han wasat",,,2,1
+23221,66,"to tie up, fasten",tes,,,6,
+23578,67,"to sew",tula,,,30,
+23935,68,needle,lalain,,,1,
+24292,69,"to hunt",ukikia,,,,
+24649,70,"to shoot",hana,,,1,1
+25006,71,"to stab, pierce",toiʔ,,,78,
+25363,72,"to hit",lait,,,70,
+25720,73,"to steal",kahléit,,,29,
+26077,74,"to kill",huin,(<M),,1?,1?
+26434,75,"to die, be dead",mata,,,1,1
+26791,76,"to live, be alive",lihilihan,,,2,
+27148,77,"to scratch",kasa,,,5,1
+27505,78,"to cut, hack",tasa,,,1,1
+27862,79,stick/wood,ai,,,1,1
+28219,80,"to split","bola haʔas",,,1,1
+28576,81,sharp,moit,,,7,
+28933,82,"dull, blunt",babukit,,,76,
+29647,84,"to plant",toiʔ,,,,
+30004,85,"to choose",pili,,,1,1
+30718,87,"to swell",boka,,,19,
+31432,89,"to hold",sit,,,8,
+31789,90,"to dig",kais,,,58,?
+32146,91,"to buy",has,,,4,
+32503,92,"to open, uncover",siaʔ,,,4,
+32860,93,"to pound, beat",tuti,"or 20?",,20,1
+33217,94,"to throw",toiʔ,,,6,
+33574,95,"to fall",reiʔ,,,,
+33931,96,dog,yai,,,32,
+34288,97,bird,ohas,,,6,
+34645,98,egg,tolin,,,1,1
+35002,99,feather,hulhulin,,,1,1
+35359,100,wing,hian,,,,
+35716,101,"to fly",rihi,,,6,
+36073,102,rat,ilaha,,,1,1
+36430,103,meat/flesh,samaʔ,,,7,
+36787,104,fat/grease,minaʔ,,,1,1
+37144,105,tail,lekan,,,4,
+37501,106,snake,ula,,,2,1
+37858,107,"worm (earthworm)","bat kutin",,,,
+38215,108,louse,taniman,,,5,
+39286,111,fish,ian,,,1,1
+39643,112,rotten,maʔobon,,,6?,
+40000,113,branch,saksakan,,,2,
+40357,114,leaf,"han lan",,,1,1
+40714,115,root,tamit,,,3?,
+41071,116,flower,"dulan husin",,,5,
+41428,117,fruit,huan,,,1,1
+41785,118,grass,hanulin,,,8,
+42142,119,earth/soil,bata,,,6,
+42499,120,stone,hati,,,1,1
+42856,121,sand,bes,,,8,
+43213,122,water,way,,,2,1
+43570,123,"to flow",roiʔ,,,,
+43927,124,sea,tasiʔ,,,1,1
+44641,126,lake,balabalan,,,25,
+44998,127,woods/forest,latan,,,10?,
+45355,128,sky,lakit,,,1,1
+45712,129,moon,hulan,,,1,1
+46069,130,star,ilyówəs,,,,
+46426,131,cloud,"lak tain",,,36,
+46783,132,fog,suhan,,,4,
+47140,133,rain,roti,,,4,
+47497,134,thunder,lolas,,,9,
+47854,135,lightning,yamyanat,,,31,
+48211,136,wind,yakin,,,1,1
+48568,137,"to blow",hosúf,,,,
+48925,138,warm,bobit,,,6,
+49282,139,cold,sirin,,,1,1?
+49639,140,dry,momala,,,1,
+49996,141,wet,mareman,,,5,
+50353,142,heavy,tonit,,,5,
+50710,143,fire,yah,,,1,1
+51067,144,"to burn",tuin,(<M),,1,1
+51424,145,smoke,"yah kubaʔ",,,4,
+51781,146,ash,"bala huaʔtáin",,,4,
+52138,147,black,metan,,,43,1
+52495,148,white,buti,,,1,1
+52852,149,red,kasahan,,,,
+53209,150,yellow,siʔinit,,,,
+53566,151,green,"biri biri",,,5,
+53923,152,small,koŋgon,,,4,
+54280,153,big,isa,,,6,
+54637,154,short,karokat,,,,
+54994,155,long,wotat,,,8,
+55351,156,thin,manihit,,,1,1
+55708,157,thick,kutaʔ,,,3?,
+56065,158,narrow,koru-korup,,,17,
+56422,159,wide,tihaʔ,,,3?,
+56779,160,"painful, sick",kaliʔ,,,5,
+57136,161,"shy, ashamed",malih,,,20,
+57493,162,old,ronaman,,,,
+57850,163,new,hosihosin,,,6,1
+58207,164,good,hia,,,1,1
+58564,165,"bad, evil","lalan sa",,,,?
+58921,166,"correct, true",ka|toti,,,6,1?
+59278,167,night,mesat,,,8,
+59635,168,day,roman,,,,
+59992,169,year,nalaʔ,,,3,
+60349,170,when?,"rom hila",,,"1,65",1
+60706,171,"to hide",taihunin,,,1,1
+61063,172,"to climb",sa:,,,2,
+61420,173,at,ra,,,20,?
+61777,174,"in, inside","ramuli lalan",,,1,1
+62134,175,above,leta,,,6,
+62491,176,below,laho,,,"1?,6?",
+62848,177,this,mehéi,,,,
+111919,178,that,mahó,,,,
+111920,178,that,masó,,,,
+63562,179,near,kebkebat,,,,
+63919,180,far,wotat,,,7,
+64276,181,where?,yataúa,,,,
+64633,182,I,yaʔaho,,,1,
+64990,183,thou,aisɔ́,,,1,
+65347,184,he/she,isɔ,,,1?,
+65704,185,we,msoa,,,,
+66061,186,you,imahoa,,,,
+82110,187,they,lelsoa,,,,
+82111,187,they,lelsɔ,,,,
+66775,188,what?,nahain,,,,
+67132,189,who?,isi,,,1,1
+67489,190,other,hosin,,,,
+67846,191,all,ohi,,,,
+68203,192,and,tama,,,2,
+68560,193,if,kalu,,L,14,
+68917,194,how?,haʔáɪ,,,,
+69274,195,"no, not",eéyi,,,,
+69631,196,"to count",reʔin,,L?,39,
+69988,197,One,aina,,,"1,65",
+70345,198,Two,ainlua,,,1,1
+70702,199,Three,aintoli,,,1,1
+71059,200,Four,ainfat,,,1,1

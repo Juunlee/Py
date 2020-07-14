@@ -1,0 +1,217 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+133,"Tboli (Tagabili)","Lawrence A. Reid",tbl,tbol1240,"Some forms modified by reference to Tboli-English Dictionary, Awed, Underwood, van Wynen. SIL. 2004",,"Austronesian, Malayo-Polynesian, Philippine, Bilic, Tboli","Debasish Roy","Simon Greenhill","@book{136553,  address               = {[Honolulu]},  note                  = {Bibliography: p. [241]},  pages                 = {xii+239},  publisher             = {Univ. of Hawaii Press},  series                = {Oceanic linguistics special publication},  title                 = {Philippine minor languages: word lists and phonologies},  volume                = {8},  year                  = {1971},  bibtexkey             = {reid_minor-phonologies1971},  class_loc             = {PL5525},  document_type         = {B},  fn                    = {papua\reid_philippine-minor1971.pdf},  hhtype                = {overview;comparative;wordlist},  inlg                  = {English [eng]},  inlg_code             = {eng},  internetarchive_id    = {rosettaproject_syb_phon-1},  isbn                  = {9780870226915},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 5525 PHI 1971},  src                   = {hh, mpieva, wals},  srctrickle            = {hh#hvw:Reid:Philippine-Minor, mpieva#1971Philippi, wals#4987},  subject_headings      = {Philippine languages–Glossaries, vocabularies, etc., Philippine languages–Phonology, Philippine languages–Glossaries, vocabularies, etc. – Philippine languages–Phonology},  author                = {Reid, Lawrence Andrew},  editor                = {Reid, Lawrence Andrew}}"
+latitude,longitude
+6.22793393026867203588,124.35424804687500000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+133,1,hand,sigɨl,,,23,
+490,2,left,ʔiwoŋ,,,"24,64",
+847,3,right,kwanan,,,"1,62",1
+1204,4,leg/foot,tih,,,10,
+85136,5,"to walk",tmɔnɔk,,,19,1?
+85137,5,"to walk",mogow,,,18,
+1918,6,road/path,lan,,,1,1
+2275,7,"to come",mógów,,,,
+2632,8,"to turn",bɨklil,,,,
+71773,9,"to swim",kmɔhuŋ,,,22,
+71774,9,"to swim",smulif,,,,
+3346,10,dirty,nusiŋ,,,,
+3703,11,dust,kfuŋ,,,13,1?
+4060,12,skin,kulit,,,1,1
+4417,13,back,kwaŋ,,,,
+4774,14,belly,blutut,,,,
+5131,15,bone,tiʔɔl,,,,
+5488,16,intestines,tnahih,,,1,1
+5845,17,liver,katay,,,1,1
+6202,18,breast,tutuʔ,,,"1,53",1?
+6559,19,shoulder,ʔabal,,,"1,82",
+6916,20,"to know, be knowledgeable",tŋón,knowledge,,26,
+7273,21,"to think",hʌndʌm,,,13,1?
+7630,22,"to fear",likɔʔ,,,77,
+7987,23,blood,litoʔ,,,17,
+8344,24,head,kuluh,,,1,1
+8701,25,neck,lihɔl,,,1,1
+9058,26,hair,wɨk,,,"1,12",1
+9415,27,nose,ʔiluŋ,,,1,1
+9772,28,"to breathe",mʌnawa,,,1,1
+10129,29,"to sniff, smell",muŋɨf,,,23,
+10486,30,mouth,subak,"combination of (ŋu)su + baq",,1,
+72917,31,tooth,nihih,,,24,1
+72918,31,tooth,ŋihih,,,24,1
+11200,32,tongue,dilak,,,4,1
+11557,33,"to laugh",kulih,,,42,
+11914,34,"to cry",mkik,,,,
+12271,35,"to vomit",lɨwol,,,,
+73178,36,"to spit",dmulak,"dmulak (<M)",,"1,30",1
+73179,36,"to spit",dɨmfut,,,,1
+12985,37,"to eat",mkɨn,,,"1,14",1
+13342,38,"to chew",mʌŋos,,,,
+13699,39,"to cook",tmogo,,,24,
+14056,40,"to drink",minum,,,1,1
+14413,41,"to bite",meket,,,20,1
+14770,42,"to suck",msɨf,,,"1,27",1
+15127,43,ear,kliŋuh,,,"1,39",1
+15484,44,"to hear",muŋɔl,,,,1?
+15841,45,eye,matah,,,1,1
+16198,46,"to see",mtɔn,,,"1,24",
+16555,47,"to yawn",tʌluyab,,,,1?
+16912,48,"to sleep",tuŋoʔ,,,,
+17269,49,"to lie down",hʌlilil,,,,
+17626,50,"to dream",knah,,,23,
+17983,51,"to sit",myon,,,,
+18340,52,"to stand",mdaʔ,,,22,
+18697,53,"person/human being",taʔuh,,,1,1
+19054,54,man/male,lɔgih,,,"2,81",1
+19411,55,woman/female,libun,,,17,
+19768,56,child,ŋaʔ,,,"22,23",
+20125,57,husband,yɨhɨn,,,32,
+20482,58,wife,yɨhɨn,,,23,
+20839,59,mother,yeʔ,,,11,
+21196,60,father,maʔ,,,"1,17",1?
+21553,61,house,gunuʔ,,,17,
+21910,62,thatch/roof,ktɨf,,,"1,25",1
+22267,63,name,bɔluy,,,16,
+74798,64,"to say",mɔn,,,23,
+74799,64,"to say",mon,,,23,
+22981,65,rope,tebed,,,34,
+23338,66,"to tie up, fasten",mfet,,,45,
+23695,67,"to sew",tɨmbe,,,26,
+24052,68,needle,dalum,,,1,1
+24409,69,"to hunt",dmulok,,,27,
+24766,70,"to shoot",gʌtì,,,,
+25123,71,"to stab, pierce",tmibo,,,29,
+25837,73,"to steal",mnagaw,,,1,1
+26194,74,"to kill",matay,,,2,
+26551,75,"to die, be dead","dɨŋ matay",,,1,
+27265,77,"to scratch",kmalus,,,24,1?
+27622,78,"to cut, hack",hʌlnʌk,,,,
+27979,79,stick/wood,kɔyuh,,,1,1
+28336,80,"to split",mʌsô,,,,
+28693,81,sharp,tɨlɨm,,,1,1
+29050,82,"dull, blunt","laʔ tɨlɨm","not sharp",,,
+76052,83,"to work","mɔʔ nmɔʔ",,L,44,
+76053,83,"to work",tbahuh,"tbahuh (L)",L,,
+29764,84,"to plant",huluh,,,30,
+30121,85,"to choose",melek,,,"1,17",1?
+30478,86,"to grow",tʌmowok,,,1,1
+30835,87,"to swell",bolok,,,1,1
+31192,88,"to squeeze",kɨmmɨs,,,30,1?
+76445,89,"to hold",mɔgɔt,,,40,
+76446,89,"to hold",kuloŋ,,,,
+31906,90,"to dig",mɔkɔl,,,14,
+32263,91,"to buy",bɨmlih,,,1,1
+32620,92,"to open, uncover",hʌnnas,,,,
+32977,93,"to pound, beat",mdɨk,,,8,
+33334,94,"to throw",tudaʔ,,,1,1
+33691,95,"to fall",btaŋ,,,47,
+34048,96,dog,ʔɔhuh,,,1,1
+34405,97,bird,"ʔɔnuk kɔyuh",,,"1,29",1
+34762,98,egg,"naʔ ʔɔnuk",,,26,
+35119,99,feather,lakay,,,16,
+35476,100,wing,hafak,,,"33,73",1?
+35833,101,"to fly",moyoŋ,,,22,
+36190,102,rat,ʔuŋe,,,26,
+36904,104,fat/grease,abù,,,32,
+37261,105,tail,ʔikɔŋ,,,1,1?
+37618,106,snake,ʔulal,,,"2,72",1
+37975,107,"worm (earthworm)",kulɨd,,,21,1
+38332,108,louse,kutuh,,,1,1
+38689,109,mosquito,blawaŋ,,,20,
+39046,110,spider,woŋ,,,24,
+39403,111,fish,"ʔuton ʔel",,,41,
+39760,112,rotten,bɔlɔk,,,"1,101",1
+40117,113,branch,haŋa,,,2,
+40474,114,leaf,dɔʔun,,,1,1
+40831,115,root,dɔlil,,,9,1
+41188,116,flower,bulok,,,22,
+41545,117,fruit,buŋuh,,,"9,42",
+41902,118,grass,bʌnʌs,,,,
+42259,119,earth/soil,tɔnɔk,,,1,1
+42616,120,stone,botuh,,,1,1
+42973,121,sand,hɨlɨk,,,21,
+43330,122,water,ʔel,,,"2,15",1?
+43687,123,"to flow",mʌlʌl,,,,1
+44044,124,sea,mɔhin,,,29,
+44401,125,salt,kahiʔ,,,"3,22",
+44758,126,lake,lanaw,,,1,1
+78469,127,woods/forest,numah,,,56,
+78470,127,woods/forest,dlaʔ,,,"33,105",
+45472,128,sky,lɔŋit,,,1,1
+45829,129,moon,bulon,,,1,1
+46186,130,star,blɔtik,,,19,
+78646,131,cloud,lɔbun,,,1,1
+78647,131,cloud,lobun,,,1,1
+46900,132,fog,lobun,,,3,
+47257,133,rain,kulon,,,1,1
+78798,134,thunder,lɨtek,,,40,
+78799,134,thunder,luguŋ,,,33,
+47971,135,lightning,silaʔ,,,2,1
+48328,136,wind,lɨnos,,,28,
+48685,137,"to blow",myuf,,,1,1
+49042,138,warm,kiniʔ,,,23,
+49399,139,cold,tnaw,,,26,
+49756,140,dry,mekeŋ,,,,
+50113,141,wet,hefeʔ,,,21,
+50470,142,heavy,blat,,,"1,61",1
+50827,143,fire,ʔɔhuʔ,,,1,1
+51184,144,"to burn",mtɨm,,,24,
+51541,145,smoke,kɨbɨl,,,1,
+51898,146,ash,kɔhuʔ,,,21,1?
+52255,147,black,hitɨm,,,1,1
+52612,148,white,bukay,,,30,
+52969,149,red,huloʔ,,,"28,31",
+53326,150,yellow,melel,,,28,
+53683,151,green,lɨmnaw,,,"33,31",
+54040,152,small,ʔudiʔ,,,2,
+54397,153,big,bɔŋ,,,24,
+54754,154,short,"laʔ tahaʔ",,,,
+55111,155,long,mwarau,,,1,
+55468,156,thin,lufih,,,"1,16",1?
+55825,157,thick,mfol,,,30,1?
+56182,158,narrow,sikɨb,,,"47,70",
+56539,159,wide,lamaŋ,,,28,
+80376,160,"painful, sick",dɨs,,,"36,48",
+80377,160,"painful, sick",tɨmduk,,,25,
+57253,161,"shy, ashamed",myak,,,"1,22",1
+57610,162,old,tuhah,"(cf taquh - #53)",,1,1
+57967,163,new,lɔmih,,,15,
+58324,164,good,hyuh,,,"1,50",
+58681,165,"bad, evil",sidɨk,,,37,
+59038,166,"correct, true",tahu,,,,
+59395,167,night,kifuh,,,24,
+59752,168,day,kdaw,,,"1,54",1
+60109,169,year,halay,,,32,
+60466,170,when?,kilon,,,"1,25",1
+60823,171,"to hide",bɨmnɔs,,,22,
+61180,172,"to climb",mkaf,,,18,
+61894,173,at,di,,,20,
+62251,174,"in, inside",lʌm,,,1,1
+62608,175,above,ta,,,1,
+62965,176,below,laʔan,,,,
+63322,177,this,nih,,,1,1
+81590,178,that,yɔh,,,3,
+81591,178,that,yuh,,,49,
+81651,179,near,mɔnih,,,,
+81652,179,near,lɨmɔnih,,,,
+64393,180,far,mayuk,,,,
+81793,181,where?,"nuʔ sɨh",,,"1,17",
+81794,181,where?,"gunun sɨblaʔ",,,"1,17",
+65107,182,I,ʔɔʔuh,,,"1,5",1
+65464,183,thou,ʔuʔuh,,,,
+65821,184,he/she,duh,,,,
+82050,185,we,tɨkuy,,,"1,61",1
+82051,185,we,mih,,,"2,60",1
+66535,186,you,yuh,,,"1,40",
+66892,187,they,luh,,,,
+67249,188,what?,tɨduh,,,,
+67606,189,who?,"taʔu duh",,,,
+67963,190,other,toloŋ,,,,
+82506,191,all,kdeʔ,,,27,
+82507,191,all,gɔtuh,,,,
+68677,192,and,nʌ,,,,1
+69034,193,if,kɨ,,,"1,71",1
+69748,195,"no, not",laʔ,,,27,
+70105,196,"to count",msoʔ,,,22,
+70462,197,One,sɔtuh,,,"1,16",
+70819,198,Two,lɨwuh,,,"1,25",1
+71176,199,Three,tluh,,,1,1
+291469,200,Four,fat,,,1,

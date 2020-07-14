@@ -1,0 +1,408 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+65,Kusaie,"Blust from: Lee (1976)",kos,kosr1238,"Lee, Kee-dong. 1976. Kusaiean-English Dictionary. University of Hawaii Press, Honolulu.",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Micronesian, Micronesian Proper, Kusaiean","Debasish Roy","Simon Greenhill","@book{61642,  address               = {Honolulu},  pages                 = {xiii+317},  publisher             = {The University Press of Hawaii},  series                = {Pali language texts : Micronesia},  title                 = {Kusaiean-English dictionary},  year                  = {1976},  asjp_name             = {Kosraean},  bibtexkey             = {lee_kusaiean-dictionary1976},  class_loc             = {PL6252.K864},  document_type         = {B},  hhtype                = {dictionary},  inlg                  = {English [eng]},  inlg_code             = {eng},  isbn                  = {9780824804138},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 6252 LEE 1976},  src                   = {asjp2010, hh, mpieva, wals},  srctrickle            = {asjp2010#1816, hh#d:Lee:Kusaiean, mpieva#Lee1976Kusaiean, wals#3514},  subject_headings      = {Kusaie language–Dictionaries–English, English language–Dictionaries–Kusaie, Kusaie language–Dictionaries–English – English language–Dictionaries–Kusaie},  author                = {Lee, Kee-Dong}}"
+latitude,longitude
+5.29999999999999982236,163.00000000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+65,1,hand,paho,,,,
+92203,1,hand,po,,,8,
+92204,1,hand,pæo-(l),,,8,
+422,2,left,lacsac,,,,
+779,3,right,lacyot,,,,
+1136,4,leg/foot,niyac,,,63,1?
+92205,4,leg/foot,niyɛ-(l),"his leg",,63,
+92206,4,leg/foot,niye-(n),"leg of.",,63,
+1493,5,"to walk",som,,,,
+92095,5,"to walk",ɛl,"march, parade.",,,
+1850,6,road/path,innek,,,,
+2207,7,"to come",tuhkuh,,,9,
+92096,7,"to come",fær,"pass/go/come (a loan?)",,,
+71711,8,"to turn",el,,,,
+71712,8,"to turn",tahpuhl,,,,
+2921,9,"to swim",kofkof,,,,
+3278,10,dirty,fohkfohk,,,,
+71951,12,skin,kolo,"[='skin of']",,1,1
+71952,12,skin,kulu-n,"[='skin of']",,1,1
+92207,12,skin,kulu-(k),"my skin",,1,
+92208,12,skin,kolo-(l),"his/her s.",,1,
+72017,13,back,"fin tohkoh","[='back of']",,12,
+72018,13,back,"fin tuku-n","[='back of']",,12,
+92209,13,back,tok,back,,12,
+92210,13,back,tɔkɔ(l),"his back",,12,
+92211,13,back,tuku(n),"back of",,12,
+4706,14,belly,in-siyac,,,,1
+5063,15,bone,sri,,,2,
+92099,15,bone,sri,,,2,
+5420,16,intestines,fohk,,,,
+5777,17,liver,acs,"ɛs, esyɛ-(l) 'liver, his liver' - see Bender et al. (2003)",,1,1
+92212,17,liver,ɛs,liver,,1,
+92213,17,liver,esyɛ-(l),"his liver",,1,
+6134,18,breast,titi,,,1,1?
+92214,18,breast,twetwe-(l),"her breast",,1,
+92215,18,breast,titi-(n),"breast of",,1,
+6491,19,shoulder,"fin pihsac",,,,
+6848,20,"to know, be knowledgeable",etuh,"orthographic form; etʌ in Bender et al. (2003)",,35,
+92216,20,"to know, be knowledgeable",etʌ,"know, understand (something)",,35,
+92217,20,"to know, be knowledgeable",(a)-kɨle-(n),"notice (tr.)",,18,
+72351,21,"to think",muh,,,66,
+92103,21,"to think",mʌ,"see, think",,66,
+72352,21,"to think",motko,,,,
+7562,22,"to fear",sahŋweŋ,,,,
+92104,22,"to fear",mo-tok,"feel unwelcome, ill at ease, awkward",,1,
+7919,23,blood,srah,,,1,1
+92105,23,blood,sræ,,,1,
+8276,24,head,in-sifac,,,,
+92218,24,head,olo-(l),"its top",,1,
+92219,24,head,ulu-(n),,,1,
+8633,25,neck,in-kwacwac,,,,
+8990,26,hair,in-sifac,,,,
+92107,26,hair,une-(n),"feather, hair, scale, fur of",,10,
+9347,27,nose,fwac,,,73,
+92108,27,nose,fwɛ,,,73,
+9704,28,"to breathe",ŋosr,,,10,
+10061,29,"to sniff, smell",ŋok,,,,
+92109,29,"to sniff, smell",(mɨ)sʌŋsʌŋ,"smelly, stinking of urine",,11,
+10418,30,mouth,oal,,,36,
+92110,30,mouth,oali-(k),"my mouth",,36,
+10775,31,tooth,wihs,,,54,1
+11132,32,tongue,loh[oh],,,18,1
+92220,32,tongue,lɔ,tongue,,18,
+92221,32,tongue,lɔɔ-(l),"his tongue",,18,
+11489,33,"to laugh",isracsr,,,,
+92222,33,"to laugh",ŋis,laugh,,17,
+92223,33,"to laugh",ŋisŋis,guffaw,,17,
+11846,34,"to cry",tuhŋ,,,1,1
+92113,34,"to cry",tʌŋ,cry,,1,
+73120,35,"to vomit",kolai,,,,1?
+73121,35,"to vomit",woht,,,1,1?
+92114,35,"to vomit",wɔt,"to vomit",,1,
+12560,36,"to spit",acni,,,,
+73214,37,"to eat",kihmihs,,,,1
+73215,37,"to eat",moŋo,,,8,1
+73216,37,"to eat",kaŋ,,,1,1
+92115,37,"to eat",moŋo,"eat food",,8,
+13274,38,"to chew",wi[wi],,,,
+13631,39,"to cook",pohel[i],,,,
+13988,40,"to drink",nihm,"reflex of PMic *nima 'drinkable object, with possessive classifier'",,"1, 59",1?
+92224,40,"to drink",nɨmnɨm,"to drink",,1,
+92225,40,"to drink",nɨ-m,"to drink (s.t.)",,1,
+14345,41,"to bite",ŋalŋuhl,,,,
+73629,42,"to suck",kaŋ,,,,
+73630,42,"to suck",moŋo,,,,
+15059,43,ear,[in]srwac,,,,1?
+15416,44,"to hear",lohŋ,,,1,1
+92117,44,"to hear",lɔŋ,"hear/listen to (someone)",,1,
+15773,45,eye,muhta,,,1,1
+92118,45,eye,mʌta-,,,1,
+16130,46,"to see",muh,,,,
+16487,47,"to yawn",muh,,,19,
+92119,47,"to yawn",mʌ,,,19,
+16844,48,"to sleep",mutul,,,1,1
+92120,48,"to sleep",mutul,,,1,
+17201,49,"to lie down",ona,,,1,
+92226,49,"to lie down",ona,"to lie down",,1,
+92227,49,"to lie down",on-(kiyʌki),"be prone",,1,
+17558,50,"to dream",mwemwe,,7,,
+17915,51,"to sit",pihtuhk,,,,
+92228,51,"to sit","mʌta (in aset)","non-native sitting posture",,"18,101",
+92229,51,"to sit","mʌta (lɨplɨp)","a sitting posture",,"18,101",
+18272,52,"to stand",tu,,,2,1
+92123,52,"to stand",tu,"stand up",,2,
+18629,53,"person/human being",mwet,,,70,1?
+92124,53,"person/human being",mʷet,,,70,
+18986,54,man/male,mukul,,,,
+92125,54,man/male,wen,,,1,
+74280,55,woman/female,muhtwacn,,,,1
+74281,55,woman/female,acn,,,"1,47",1
+92126,55,woman/female,ɛn,,,"1,47",
+19700,56,child,tuhlihk,,,7,
+92230,56,child,nætʌ-(l),"his child",,5,
+92231,56,child,tʌlik,,,7,
+20057,57,husband,tuhmwac,,,,
+20414,58,wife,kaŋkuh,"[='wife of']",,,
+20771,59,mother,ninac,,,"1, 78",1?
+92232,59,mother,ninɛ,"ones mother.",,"1, 78",
+92233,59,mother,nnæ,,,"1, 83",
+91308,60,father,pahpah,,,48,1
+91309,60,father,tuhma,,,1,
+92129,60,father,tʌmʷɛ-(l),"his father",,1,
+74603,61,house,lohm,,,1,1
+74604,61,house,yuwac,,,1,1
+92234,61,house,yuwɛ-,,,1,
+92235,61,house,iwɛ-,,,"1, 48",
+21842,62,thatch/roof,fahsuc,,,,
+22199,63,name,e,,,66,1?
+92131,63,name,e,,,66,
+74774,64,"to say",aŋwe,,,,
+74775,64,"to say",fahk,,,13,
+92132,64,"to say",fæ-k,say/tell/announce,,13,
+22913,65,rope,sucl,,,,1
+92133,65,rope,səl,,,1,
+74969,66,"to tie up, fasten",awi,,,11,
+74970,66,"to tie up, fasten",kapihr,,,,
+92236,66,"to tie up, fasten",ayʌ,tie/bind,,11,
+92237,66,"to tie up, fasten",awi,"tie it",,11,
+92238,66,"to tie up, fasten",pip,,L,,
+23627,67,"to sew",tuh[ta],,,17,
+92239,67,"to sew",tʌta,,,"17, 48",
+92240,67,"to sew",tʌ,,,17,
+23984,68,needle,ninuhl,,,,1?
+24698,70,"to shoot",lihkacski,,,,
+25055,71,"to stab, pierce",fakfuhk,,,,
+25412,72,"to hit",suhsahk,,,"8,63",
+92241,72,"to hit",tukutuk,"to pound",,"8,63",
+92242,72,"to hit",tuk,"to pound on something",,"8,63",
+75453,73,"to steal",kahl,,,,
+75454,73,"to steal",puhsr,,,51,
+92243,73,"to steal",pisrapasr,"to steal",,51,
+92244,73,"to steal",pʌsr,"to steal",,51,
+92245,73,"to steal",pɨsre,"to steal something",,51,
+26126,74,"to kill",uni,,,1,1
+92138,74,"to kill",uni,"hit or kill (someone)",,1,
+26483,75,"to die, be dead",misac,,,1,1
+92246,75,"to die, be dead",mʷet,"to die",,1,
+92247,75,"to die, be dead",misɛ,"death/to die",,1,
+26840,76,"to live, be alive",moul,,,"1, 76",1
+92140,76,"to live, be alive",moul,"alive, live",,"1, 76",
+75623,77,"to scratch",kawi,,,11,
+75624,77,"to scratch",rahfuhs[i],,L?,,
+92248,77,"to scratch",kakʌ,"to scratch",,,
+92249,77,"to scratch",kawi,"to scratch something",,11,
+75686,78,"to cut, hack",twe,,,,
+75687,78,"to cut, hack",paki,,,,
+75688,78,"to cut, hack",uti,,,54,
+92142,78,"to cut, hack",tæt,chop,,,
+27911,79,stick/wood,sahk,,,,
+92341,79,stick/wood,læ,branch/twig/limb,,2,
+92342,79,stick/wood,lwe,,,2,
+28268,80,"to split",fihlihk,,,,
+92399,80,"to split",falfal,"to split/saw lengthwise",,"1, 76",
+92400,80,"to split",fʌlʌ-ŋ,"to split something",,"1, 76",
+28625,81,sharp,kohsroh,,,,
+28982,82,"dull, blunt",sahfiht,,,,
+29696,84,"to plant",yuki,,,,
+92505,84,"to plant",yok,"to plant",,,
+92506,84,"to plant",ikwi,"to plant something",,,
+92507,84,"to plant",yuki,,,6,
+30053,85,"to choose",sule,,,,
+30410,86,"to grow",kap,,,,
+30767,87,"to swell",faht,,,28,
+92146,87,"to swell",fiti,"bud, swelling",,28,
+31124,88,"to squeeze",isacs,,,,
+76430,89,"to hold",sruh,,,16,
+76431,89,"to hold",fahrfahr,,,,
+76494,90,"to dig",puhk,,,,1
+76495,90,"to dig",kuhlkuhl,,,1,1
+93475,90,"to dig",kʌlkʌl,"dig / turn up",,1,
+93476,90,"to dig",kilʌ-ŋ,"to dig s.t.",,1,
+76567,91,"to buy",eis,,,,
+76568,91,"to buy",moli,,,1,
+32552,92,"to open, uncover",ikuhs,,,,
+32909,93,"to pound, beat",tuk[tuk],,,"20, 2",1
+104355,93,"to pound, beat",tuk,"to pound",,"20, 2",
+104356,93,"to pound, beat",tuk-tuk,,,"20, 2",
+76728,94,"to throw",kalti,,,,
+76729,94,"to throw",kuhluhk,,,,
+104561,94,"to throw",osrwosr,,,104,
+104562,94,"to throw",osrak,,,104,
+76818,95,"to fall",ikor,,,,
+76819,95,"to fall",top,,,,
+76959,97,bird,tuhram,,,,1
+76960,97,bird,won,"is this 1 really?  RG. No, I think KSR mæn is the cognate. See Bender et al. (2003)",,,1
+34694,98,egg,ahtro,,,,1?
+35051,99,feather,unac,(<qunap-i),,30,
+92150,99,feather,une-(n),"feather/hair/scale/fur of",,30,
+35408,100,wing,paho,,,7,
+35765,101,"to fly",sohk,,,,
+36122,102,rat,kihsrihk,"'mouse; < 'rat' + 'little'",,"16, 66",
+92151,102,rat,kisrik,"'mouse; < 'rat' + 'little'",,"16, 66",
+36479,103,meat/flesh,ikoac,,,10,
+92152,103,meat/flesh,ikoɛ-(n),"flesh of (showing metathesis)",,10,
+36836,104,fat/grease,fact,,,,1?
+37193,105,tail,puhla,,,,
+92153,105,tail,ikwik,"rudder, tiller, helm",,1,
+37907,107,"worm (earthworm)",wet,,,10,
+38264,108,louse,kut,,,1,1
+92154,108,louse,kut,,,1,
+38621,109,mosquito,emsyac,,,1,
+92155,109,mosquito,em-(syɛ),,,1,
+38978,110,spider,pwepwenu,,,,
+39335,111,fish,ik,,,1,1
+92156,111,fish,apil,"a kind of fish ( probable loan from Mrs)",,26,
+39692,112,rotten,kohl,,,,
+92157,112,rotten,mwesr,"rotten, mellow, pimple, flake of skin",,50,
+40049,113,branch,lah,,,1,1
+105304,113,branch,læ,,,1,
+105305,113,branch,lwe,,,1,
+40406,114,leaf,sra,,,1,1
+92159,114,leaf,sra,,,1,
+40763,115,root,okah,,,2,1
+105337,115,root,okæ,root,,2,
+105338,115,root,ɒkɒk,"mangrove root",,2,
+41120,116,flower,yosep,,,,
+41834,118,grass,mah,,,,
+42191,119,earth/soil,infohk,,,,
+42548,120,stone,yot,,,46,1
+92161,120,stone,yot,,,46,
+42905,121,sand,puhk,,,13,
+78185,122,water,kof,,,,1
+78186,122,water,sroano,,,1,1
+92162,122,water,srɒno-,,,1,
+43619,123,"to flow",acsracsr,,,,
+43976,124,sea,meoha,,,13,
+92163,124,sea,me-ɔa,ocean,,13,
+172356,124,sea,(kifin)-te,,,,
+44333,125,salt,sohl,,L,,
+45047,127,woods/forest,insack,,,,
+45404,128,sky,lucŋ,,,,1
+92164,128,sky,ləŋ,"sky, heaven",,1,
+45761,129,moon,mahlwem,,,7,
+92165,129,moon,mæ-lwem,"moon, month",,7,
+46118,130,star,itih,,,1,1
+92166,130,star,itɨ,,,1,
+46475,131,cloud,"puhkuhn yeŋ",,,,
+46832,132,fog,ohk,,,,
+47189,133,rain,af,,,,
+47546,134,thunder,puhlahl,,,"15, 16",
+92167,134,thunder,pʌlæl,,,"15, 16",
+47903,135,lightning,sahrom,"Bender et al. (2003:327) suggest this is a loan from Marshallese",L,,
+48260,136,wind,eŋ,,,1,1
+108089,136,wind,eŋ,,,1,
+108090,136,wind,eŋyeŋ,,,1,
+48617,137,"to blow",ukuk,,,15,
+109047,137,"to blow",pæpæ,blow/fan,,14,
+109048,137,"to blow",uk,"to blow (a bugle)/blow (something) away",,15,
+109049,137,"to blow",ukuk,"blow/be blowing",,15,
+48974,138,warm,"fuhsr fuhsr",,,10,
+49331,139,cold,mihsrihsr,,,1,1
+122705,139,cold,mɨsrɨsr,"cold/chilly/cool/goose bumps",,1,
+122706,139,cold,ɔu,cold,,11,
+122707,139,cold,ɔyɔu,chilly,,11,
+49688,140,dry,paho,,,,
+50045,141,wet,"twe kof",,,,
+50402,142,heavy,toasr,,,,
+50759,143,fire,e,,,1,1
+92171,143,fire,e,,,1,
+79454,144,"to burn",fulok,,,,
+79455,144,"to burn",isihk,,,93,
+51473,145,smoke,kuhlahsr,,,,
+51830,146,ash,apact,,,,
+92172,146,ash,(a)-pɛt,,,7,
+52187,147,black,sroalsroal,,,8,
+92173,147,black,srɒlsrɒl,black,,8,
+52544,148,white,fasrfasr,,,11,
+52901,149,red,sruhsrah,,,,
+53258,150,yellow,raŋraŋ,,,13,
+53615,151,green,"folfol sra",,,,
+53972,152,small,srihk,,,66,1
+123697,152,small,srɨk,,,66,
+123698,152,small,srɨsrɨk,,,66,
+54329,153,big,yohk,,,,
+92175,153,big,lʌlæp,big/large/huge,,10,
+92176,154,short,fototo,"short, brief, curt.",,9,
+55043,155,long,loes,,,87,
+92177,155,long,loes,"long, tall",,87,
+80186,156,thin,muhs,,,,1
+80187,156,thin,mihnini,,,1,1
+55757,157,thick,mahtol,,,3,
+92178,157,thick,mæ-tol,thick/dense,,3,
+56114,158,narrow,ohsrihksrihk,,,13,
+56471,159,wide,sralahp,,,"9, 48",1
+92179,159,wide,sra-(læp),wide,,"9, 48",
+80355,160,"painful, sick",mas,,,1,1
+80356,160,"painful, sick",atuck,,,1,1
+92180,160,"painful, sick",atək,,,1,
+80438,161,"shy, ashamed",efef,,,,
+80439,161,"shy, ashamed",fuon,,,,
+80440,161,"shy, ashamed",mwekihn,,,1,
+57542,162,old,mahtuh,,,1,1
+57899,163,new,sasuh,,,,
+58256,164,good,wo,,,38,
+58613,165,"bad, evil",nahsuhk,,,,
+58970,166,"correct, true",pwacye,,,,
+59327,167,night,fohŋ,,,1,1
+92181,167,night,foŋ,,,1,
+59684,168,day,lwen,,,6,1
+92182,168,day,lwen,,,6,
+60041,169,year,yac,,,,
+60398,170,when?,ŋac,,,"1,24",1
+92183,170,when?,ŋɛ,,,"1,24",
+60755,171,"to hide",wihk,,,,
+81033,172,"to climb",fahluhki,,,,
+81034,172,"to climb",fan,,,,
+61469,173,at,ke,,,,
+92184,173,at,i-,,,1,
+61826,174,"in, inside",loac,[time],,,
+123154,174,"in, inside",loɛ,inside,,1,
+123155,174,"in, inside",lu-(n),"inside of",,1,
+62183,175,above,fac-,,,,
+62540,176,below,ye,,,,
+62897,177,this,iŋe,,,,1
+123769,177,this,ʌ,"this near speaker",,"1, 18",
+123770,177,this,(iŋ)-e,this/here/now,,,
+81455,178,that,[s]oh,,,,
+81456,178,that,ŋoh,,,,
+81457,178,that,iŋacn,,,,
+92187,178,that,(iŋ)-ɛn,"that, those.",,,
+92188,179,near,yuru-(n),"vicinity of, near",,97,
+64325,181,where?,piyac,,,3,
+121453,181,where?,o-yɛ,,,"3, 48",
+121454,181,where?,yɛ,,,"3, 48",
+64682,182,I,ŋa,,,12,
+92190,182,I,ŋa,,,12,
+65039,183,thou,kom,,,,1
+65396,184,he/she,el,,,x,
+81987,185,we,kuht,,,1,
+81988,185,we,kitacl,,,1,
+66110,186,you,komtacl,,,1,1
+92191,186,you,kom,,,1,
+66467,187,they,eltahl,,,,1
+92192,187,they,el-(tæl),,,,
+66824,188,what?,meac,,,,1
+119222,188,what?,ɛ,,,,
+119223,188,what?,(me)-ɛ,,,"1, 64",
+67181,189,who?,suc,,,9,
+92194,189,who?,sə,"There are problems here",,9,
+67895,191,all,[nuh]kwewa,,,,
+68252,192,and,ac,,,,
+92195,192,and,ma,"and others",,2,
+82578,193,if,fin,,,65,1
+82579,193,if,fuhnuh,,,65,1
+68966,194,how?,fuhkah,,,,
+69323,195,"no, not",mo[h],,,4,
+123592,195,"no, not",se-,,,4,
+123593,195,"no, not",sʌ-,,,4,
+82775,196,"to count",oacoac,,,77,
+82776,196,"to count",oek,,,77,
+119396,196,"to count",oɛoɛ,count/enumerate,,77,
+119397,196,"to count",oe-k,"count (something)",,77,
+82812,197,One,se,,,14,
+82813,197,One,sie,,,14,
+82814,197,One,soko,,,,
+82815,197,One,sra,,,14,
+123395,197,One,se,,,14,
+123396,197,One,sie,,,14,
+70394,198,Two,luo,,,1,1?
+119173,198,Two,lo-,,,1,
+119174,198,Two,lu-,,,1,
+70751,199,Three,tolu,,,1,1
+119160,199,Three,tol,,,1,
+119161,199,Three,tol-(u),,,1,
+83035,200,Four,ahŋ,,,"1, 67",1
+83036,200,Four,yoko,,,,1
+92201,200,Four,æŋ,"four (prefixed to classifier).",,"1, 67",
+172151,201,Five,lʌm-,,,1,
+172150,201,Five,lime-,,,1,
+172149,201,Five,lʌm,,,1,
+172189,202,Six,on,,,1,
+172212,203,Seven,it,,,1,
+172248,204,Eight,al-,,,3,
+172247,204,Eight,ɒl-,,,3,
+172245,204,Eight,ɒl,,,3,
+172246,204,Eight,al,,,3,
+172269,205,Nine,yʌ,,,,
+172280,206,Ten,-ŋoul,,,5,
+172279,206,Ten,-ŋʌul,,,5,
+173062,207,Twenty,|ongoul,,,,
+172285,208,Fifty,lʌm-ŋaul,,,1,
+172305,209,"One Hundred",-foko,,,20,
+172304,209,"One Hundred",-fok,,,20,

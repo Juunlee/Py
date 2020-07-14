@@ -1,0 +1,234 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+176,"Nakanai (Bileki Dialect)","R. Johnston",nak,naka1262,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, Willaumez","Debasish Roy","Simon Greenhill","@misc{Johnston-176-2005,  author = \"Ray Johnston\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-5.50663967435488554969,150.46875000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+176,1,hand,lima,,,1,1
+533,2,left,meru,,,18,
+890,3,right,gata,,,19,
+1247,4,leg/foot,vaha,,,20,?
+1604,5,"to walk",tuga,,,13,
+1961,6,road/path,gauru,,,9,
+2318,7,"to come",go-mai,,,"1,90",1
+2675,8,"to turn",vulo,,,33,
+3032,9,"to swim",puru,,,13,
+3389,10,dirty,mumugu,,,18,
+3746,11,dust,pusi,,,10,
+4103,12,skin,vovo,"[of human]",,13,
+4460,13,back,poke,"[broad of]",,19,
+4817,14,belly,tia,,,1,1
+5174,15,bone,tuha,,,"1,10",
+5531,16,intestines,tamusi,,,18,
+5888,17,liver,hate,,,1,1
+6245,18,breast,susu,,,1,1
+6602,19,shoulder,beho,,,26,
+72310,20,"to know, be knowledgeable",rovi,,,21,
+72311,20,"to know, be knowledgeable",mari,,,,
+7316,21,"to think",gabu-tatala,,,87,
+7673,22,"to fear",taga,,,12,
+8030,23,blood,kasoso,,,11,
+72497,24,head,gama,,,22,
+72498,24,head,gaho,,,74,
+8744,25,neck,loho,,,28,?
+9101,26,hair,ivu,,,13,
+9458,27,nose,ma|isu,,,"1,75",1
+9815,28,"to breathe",lala,,,21,?
+10172,29,"to sniff, smell",aso,,,1,1
+10529,30,mouth,hare,,,15,
+10886,31,tooth,togo,,,,
+11243,32,tongue,kalamea,,,"7, 14",
+11600,33,"to laugh",lege,,,28,
+11957,34,"to cry",tali,,,1,1
+12314,35,"to vomit",kalalua,,,8,
+12671,36,"to spit",kavurasi,,,26,
+13028,37,"to eat",ali,,,1,1
+13385,38,"to chew",mama,,,1,1
+13742,39,"to cook",gutu,,,15,
+14099,40,"to drink",liu,[<m],,1,1
+89812,41,"to bite",gati,,,"1, 55",1
+89813,41,"to bite",ale,,,1,
+89814,41,"to bite",tolo,,,24,
+73658,42,"to suck",tomu,"irregular *u > o",,81,1
+73659,42,"to suck",susu,,,25,1
+73660,42,"to suck",kamu,"irregular *o > a",,17,1
+15170,43,ear,gavusa,,,7,
+15527,44,"to hear",lolo,,,"1, 36",1
+15884,45,eye,mata,,,1,1
+16241,46,"to see",hilo,,,119,
+16598,47,"to yawn",tolo|maa,,,"19, 25",1?
+16955,48,"to sleep",mavuta,,,15,
+134906,49,"to lie down",totopaha,,,,
+17669,50,"to dream",taga,,,16,
+18026,51,"to sit",pou,,,24,
+18383,52,"to stand",magiri,,,1,?
+18740,53,"person/human being",tau,1,,1,1
+91005,54,man/male,tahalo,,,18,1
+91006,54,man/male,hatamale,,,"1,14",
+74294,55,woman/female,tavile,,,"1,35",1
+74295,55,woman/female,hatavile,,,"1,35",1
+19811,56,child,"e guliliki",,,13,
+20168,57,husband,harua,,,2,1
+20525,58,wife,rutu,,,16,
+20882,59,mother,tila,,,1,1
+21239,60,father,tama,,,1,1
+21596,61,house,luma,,,1,1
+74671,62,thatch/roof,varu,,,14,
+74672,62,thatch/roof,ivu,,,32,
+22310,63,name,isa,,,66,1?
+74815,64,"to say",vai,,,"13, 93",
+74816,64,"to say",mago,,,,
+23024,65,rope,mota,,,13,
+23381,66,"to tie up, fasten",kisi,,,20,
+23738,67,"to sew",sahi,,,2,1
+24095,68,needle,silahi,,,39,
+24452,69,"to hunt",vamusi,,,20,
+24809,70,"to shoot",ubi,,,21,
+25166,71,"to stab, pierce",tagu,,,53,
+25523,72,"to hit",kue,,,20,
+25880,73,"to steal",pakali,,,14,
+26237,74,"to kill",bili,,,19,?
+26594,75,"to die, be dead",peho,,,7,
+26951,76,"to live, be alive",mahuli,,,"1, 76",1
+27308,77,"to scratch",kasi,,,5,?
+27665,78,"to cut, hack",tolo,,,28,
+28022,79,stick/wood,obu,,,9,
+28379,80,"to split",gali,,,,
+28736,81,sharp,kara,[blade],,69,
+29093,82,"dull, blunt",magege,"[of blade]",,,
+76062,83,"to work",igogolu,,,18,
+76063,83,"to work",vulal...,,,,
+29807,84,"to plant",galu,,,14,
+30164,85,"to choose",hilovi,,,,
+30521,86,"to grow",kusi,"[of plants]",,3,
+30878,87,"to swell",sogo,,,15,
+31235,88,"to squeeze",bebe,,,"21,80",
+31592,89,"to hold",sau-...,,,20,
+31949,90,"to dig",oli,,,1,1?
+32306,91,"to buy",loto,,,16,
+32663,92,"to open, uncover",kope,,,16,
+33020,93,"to pound, beat",katu,,,17,?
+33377,94,"to throw",laba,,,16,
+76852,95,"to fall",paru,,,23,
+34091,96,dog,paia,,,14,
+34448,97,bird,malu,,,1,1
+34805,98,egg,hatotolu,,,1,1
+35162,99,feather,kokoma,,,10,
+35519,100,wing,palapalala,,,17,?
+35876,101,"to fly",lovo,,,1,1
+36233,102,rat,kusuke,,,"3,86",
+77226,103,meat/flesh,kalia,,,,
+77227,103,meat/flesh,maili,,,20,
+36947,104,fat/grease,molamolala,,,"1,65",1
+37304,105,tail,kiu,[<M],,1,?
+37661,106,snake,taive,,,37,
+38018,107,"worm (earthworm)",kirere,,,12,
+38375,108,louse,utu,,,1,1
+38732,109,mosquito,lamo,,,1,1
+39089,110,spider,kimisi,,,14,
+39446,111,fish,ia,,,1,1
+39803,112,rotten,mavulu-ti,,,"1, 65",1?
+40160,113,branch,hala,[<M],,1,1
+40517,114,leaf,gala|lau,"[big, single]",,15,1
+40874,115,root,ua,,,39,
+41231,116,flower,sese,[blossom],,16,
+41588,117,fruit,va|vua|la,,,1,1
+41945,118,grass,gaeke,"[kunai grass]",,41,
+42302,119,earth/soil,magasa,,,17,
+42659,120,stone,uati,,,1,1?
+43016,121,sand,magasa,"[beach = parava]",,14,
+43373,122,water,lalu,,,"1,43",1
+43730,123,"to flow",sali,,,24,1
+44087,124,sea,mago,,,16,
+44444,125,salt,mimila,,,9,1?
+44801,126,lake,mago-lilo,,,,
+45158,127,woods/forest,hohoi,,,,
+45515,128,sky,mori,,,40,
+45872,129,moon,taio,,,10,
+46229,130,star,matatabu,,,15,
+46586,131,cloud,tuluvu-l...,,,,
+78723,132,fog,gahuku,,,14,
+78724,132,fog,veto,,,21,
+47300,133,rain,hura,,,1,1
+47657,134,thunder,la-mori-kurarab...,,,25,
+48014,135,lightning,sima,,,15,
+48371,136,wind,lolovi,,,17,
+79016,137,"to blow",vai,,,78,
+79017,137,"to blow",pusu,,,6,
+49085,138,warm,tivura,,,17,
+49442,139,cold,maigi,,,1,1?
+79253,140,dry,masag...,,,11,1?
+79254,140,dry,taga...,,,35,1?
+50156,141,wet,beta,,,18,
+50513,142,heavy,tikumu,,,16,
+50870,143,fire,havi,,,1,1
+51227,144,"to burn",tulu,,,1,1
+51584,145,smoke,sosobu,,,17,
+51941,146,ash,buburo,,,14,
+52298,147,black,parakukuru,,,14,
+52655,148,white,kakea,,,20,
+53012,149,red,magegese,,,23,
+53369,150,yellow,ialalo,,,9,
+53726,151,green,kakesa,,,8,
+54083,152,small,bisi,,,14,
+54440,153,big,uru,,,17,
+54797,154,short,boto,,,9,
+55154,155,long,malau,,,12,
+55511,156,thin,taitavi,,,8,
+55868,157,thick,bitolu,,,3,
+56225,158,narrow,pepepea,,,,
+56582,159,wide,bola,,,2,
+56939,160,"painful, sick",lea,,,20,
+57296,161,"shy, ashamed",mahela,,,42,?
+57653,162,old,uru,,,,
+58010,163,new,halaba,,,9,
+58367,164,good,taritigi,,,24,
+58724,165,"bad, evil",kama-kokora,,,15,
+80774,166,"correct, true",matata,,,28,
+80775,166,"correct, true",sesele,,,16,
+59438,167,night,logo,,,11,
+59795,168,day,haro,,,"1, 54",1
+60152,169,year,leavala,"wet season",,12,
+60509,170,when?,ga|isa,[future],,"1,24",1
+60866,171,"to hide",tari-kokovu,,,"11,10",
+81055,172,"to climb",sae,,,2,
+81056,172,"to climb",tie,,,,
+61580,173,at,o-io,,,10,
+61937,174,"in, inside",i-ilo,,,"1,26",1
+62294,175,above,o-ata,,,1,1?
+62651,176,below,o-talo,,,15,
+63008,177,this,ale,,,9,
+63365,178,that,ele,,,18,
+63722,179,near,hagavi,,,19,
+64079,180,far,malau,"[cf. 155]",,21,?
+64436,181,where?,o-io-ve,,,3,
+64793,182,I,e|au,,,"1,21",1
+65150,183,thou,e|me,,,8,
+65507,184,he/she,e|ia,,,1,1
+113971,185,we,eta|tou,,,1,1
+113972,185,we,ami|teu,,,2,
+66221,186,you,amu|tou,,,"1,32",1
+66578,187,they,egi|teu,,,"25,60",
+66935,188,what?,l|ava,,,1,1?
+67292,189,who?,e|re,,,1,1
+67649,190,other,isa-polo,,,9,
+68006,191,all,tomi,,,18,
+68363,192,and,me,,,2,1?
+68720,193,if,mai,,,3,
+69077,194,how?,mave,,,17,
+82733,195,"no, not",ouka,,,49,
+82734,195,"no, not",kama,,,19,
+69791,196,"to count",gigi,,,17,
+70148,197,One,isasa,,,1,1
+70505,198,Two,ilua,,,1,1
+70862,199,Three,itolu,,,1,1
+71219,200,Four,ivaa,,,1,
+132853,201,Five,ilima,,,1,
+132854,202,Six,ivolo,,,8,
+132855,203,Seven,ivitu,,,1,
+132856,204,Eight,ivalu,,,3,
+132857,205,Nine,ivalasiu,,,18,
+132858,206,Ten,savulusasa,,,5,
+132859,207,Twenty,savululua,,,,
+132860,208,Fifty,savululima,,,"1, 4",
+132861,209,"One Hundred",lasalatuisasa,,,"4,38",
+132862,210,"One Thousand",lasalatusavulusasa,,,,

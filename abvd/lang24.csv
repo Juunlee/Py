@@ -1,0 +1,189 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+24,Mor,"Blust, from Laycock (1965-1966), Anceaux (1961)",mhz,morm1235,"Anceaux, J.C. (1961) The linguistic situation in the islands on Yapen, Kurundu, Nau, and Miosnum, New Guinea. Verhandelingen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde, Vol. 35. The Hague: Nijhoff.Laycock, D.C. (1965-1966) Unpublished field notes on Mor. Manuscript.Tried to add Grace materials, but these appear to represent a distinct dialect",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, South Halmahera-West New Guinea, West New Guinea, Cenderawasih Bay, Mor","Penny Keenan","Simon Greenhill","@book{121185,  address               = {'s-Gravenhage},  note                  = {35},  pages                 = {166},  publisher             = {Martinus Nijhoff},  series                = {Verhandelingen van het Koninglijk instituut voor taal-, land- en volkenkunde},  title                 = {The Linguistic Situation in the Islands of Yapen, Kurudu, Nau and Miosnum, New Guinea},  url                   = {http://www.papuaweb.org/dlib/bk1/kitlv/},  volume                = {35},  year                  = {1961},  bibtexkey             = {anceaux_kurudu-miosnum1961},  class_loc             = {PL6265},  document_type         = {B},  fn                    = {papua\anceaux_yapen1961.pdf, papua\anceaux_yapen1961_o.pdf, papua\anceaux_yapen1961v2_o.pdf, papua\anceaux_miosnumxxxv1961.pdf, papua\anceaux_yapen1961_o.pdf},  hhtype                = {overview;comparative;wordlist},  inlg                  = {English [eng]},  inlg_code             = {eng},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 6265 ANC 1961},  mpifn                 = {yapen_anceaux1961_o.pdf},  src                   = {hh, mpieva},  srctrickle            = {hh#hvw:Anceaux:Yapen, mpieva#Anceaux1961Thelingu},  subject_headings      = {Islands–Geelvink Bay–Languages, Islands–Geelvink Bay–Languages},  author                = {Anceaux, Johannes Cornelis}}@book{Laycock1965,  address = {},  title   = {Unpublished field notes on Mor},  year    = {1965-1966},  author  = {Laycock, D. C.}}"
+latitude,longitude
+-3.00000000000000000000,135.75000000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+24,1,hand,"vére [a]",,,16,
+381,2,left,sa|wiri,,,1,1?
+738,3,right,ja,,,,
+1095,4,leg/foot,ne[a],,,19?,
+1452,5,"to walk",vera,,,,
+1809,6,road/path,rarin[a],(cp.129),,1,1
+2166,7,"to come",rama,,,30,?
+2523,8,"to turn",wariawá,,,,
+2880,9,"to swim",ata,,,,
+3237,10,dirty,weriraʔa,,,22,
+3594,11,dust,ʔahá,,,,
+3951,12,skin,hiʔi,,,,
+4308,13,back,haré,,,23,
+4665,14,belly,reváme,,,,
+5022,15,bone,ʔoro,,,,
+5379,16,intestines,"sine wariʔa",,,1?,
+5736,17,liver,"sine aʔa",,,1,1
+6093,18,breast,tut[a],,,1,1
+6450,19,shoulder,vahu,,,,
+6807,20,"to know, be knowledgeable",anini,,,,
+7164,21,"to think",tarama,,,,
+7521,22,"to fear","vea mukaʔa",,,,
+7878,23,blood,rara,,,1,1
+8235,24,head,varu,,,1?,
+8592,25,neck,toro,,,,
+8949,26,hair,"[u] ranu",,,40,
+9306,27,nose,hóro,,,,
+9663,28,"to breathe",orana,,,1?,
+10020,29,"to sniff, smell",anita,,,,
+10377,30,mouth,vo,,,,
+10734,31,tooth,wóto,,,,
+11091,32,tongue,néma,,,,?
+11448,33,"to laugh",mariʔa,,,3,
+11805,34,"to cry",ʔanita,,,1,1
+12162,35,"to vomit",mamuaʔa,[<M],,1?,1?
+12519,36,"to spit",unukuʔa,,,,
+12876,37,"to eat",ana,,,1,1
+13590,39,"to cook",ʔuni,,,,
+13947,40,"to drink",anumi,[&<inuma?],,1?,1?
+14304,41,"to bite",aʔa,,,,
+14661,42,"to suck",tuama,,,,
+15018,43,ear,ina,,,1,1
+15375,44,"to hear",orani,,,1?,?
+15732,45,eye,masinaʔu,,,1?,
+16089,46,"to see",eraʔuma,,,,
+16803,48,"to sleep",tu-ena,,,8,
+17160,49,"to lie down",ena,,,1,1
+17517,50,"to dream",enami,,,20,
+17874,51,"to sit",tuʔo,,,,
+18231,52,"to stand",eta,,,,
+18588,53,"person/human being",naʔu,,,,
+18945,54,man/male,"naʔu vurana",,,1?,1?
+19302,55,woman/female,vavína,,,"1,106",1
+19659,56,child,naʔú-na,,,5,
+20730,59,mother,iná,,,1,1
+21087,60,father,ate,,,,
+21444,61,house,wia,,,,
+21801,62,thatch/roof,ráʔa,,,,?
+22158,63,name,natá-na,,,1,1
+22515,64,"to say",oʔa,,,,
+22872,65,rope,waríʔa,,,2,
+74949,66,"to tie up, fasten",vuha,,,,
+74950,66,"to tie up, fasten",tuna,,,,
+23586,67,"to sew","ait [i]",,,1,1
+24657,70,"to shoot",ʔun[i],,,,
+25371,72,"to hit",vavo,,,,
+25728,73,"to steal",maráha,,,,
+26085,74,"to kill",muná,,,1,1?
+26442,75,"to die, be dead",maʔa,,1,1,
+27513,78,"to cut, hack",otowa,,,,
+75790,79,stick/wood,kaʔuta,"(ka?uta = 'tree')",,1?,1?
+75791,79,stick/wood,ae,"(ka?uta = 'tree')",,1?,1?
+28227,80,"to split",voha,,,,
+28584,81,sharp,manamini,,,29,
+29298,83,"to work",wondowa,,,,
+31083,88,"to squeeze",amati,,,,?
+31440,89,"to hold",aruwa,,,,
+32511,92,"to open, uncover",wuʔa,,,1,1
+33225,94,"to throw",toʔa,,,,
+33582,95,"to fall",erma,,,,
+33939,96,dog,auna,,,38,
+34296,97,bird,mánu,,,1,1
+34653,98,egg,váʔu,,,,
+35010,99,feather,vuru,,,1,1
+35367,100,wing,aju,,,,
+35724,101,"to fly",utuma,,,,
+36081,102,rat,arúha,,,,
+36438,103,meat/flesh,tu,,,,
+36795,104,fat/grease,mana|na,,,1,1?
+37152,105,tail,ha,,,,
+37509,106,snake,jorova,,,22?,
+37866,107,"worm (earthworm)",korombaʔa,,,,
+38223,108,louse,kuʔa,,,1,1
+38580,109,mosquito,tananína,,,,
+38937,110,spider,raguainejo,,,,
+39294,111,fish,ijana,,,1,1
+40008,113,branch,soraren,,,,
+40365,114,leaf,ranu,,,1,
+40722,115,root,iva,,,,
+41079,116,flower,wohéti,,,,
+41436,117,fruit,vo,,,1,1
+41793,118,grass,munia,,,,
+42150,119,earth/soil,"hánun [a]",,,,
+42507,120,stone,vaʔa,,,1,1
+42864,121,sand,náhaʔa,,,,
+43221,122,water,"rarum [a]",,,1,?
+43578,123,"to flow","utum [a]",,,,
+78302,124,sea,ati,,,1,1
+78303,124,sea,ru,,,,1
+44292,125,salt,"ati waʔu",,,,
+45006,127,woods/forest,maʔuna,,,,
+45363,128,sky,araʔa,,,,
+45720,129,moon,"vurin [a]",(op.L),,1,1
+46077,130,star,"um [a]",,,,
+46434,131,cloud,ahoaʔa,,,,
+47148,133,rain,"unum [a]",,,1,
+47505,134,thunder,ahája,,,,
+47862,135,lightning,araríra,,,,
+48219,136,wind,tivú,,,,
+78968,137,"to blow",uma,,,,
+78969,137,"to blow","utum [a]",,,,
+48933,138,warm,nanáti,,,1?,?
+49290,139,cold,venína,,,,
+49647,140,dry,máruáti,,,,
+50004,141,wet,hararuʔi,,,,
+50361,142,heavy,saríana,,,,
+50718,143,fire,"moʔon [a]",,,,
+51075,144,"to burn",avu,[intr],,,
+51432,145,smoke,savaʔu,,,2,
+51789,146,ash,ʔaho,,,1,
+52146,147,black,vuati,,,,
+52503,148,white,vehúta,,,,
+52860,149,red,marari,,,1,
+53217,150,yellow,veraráu,,,,
+53574,151,green,mamaʔi,,,,?
+53931,152,small,maraʔu,,,3,
+54288,153,big,emáva,,,,
+54645,154,short,kovavaʔi,,,,
+55002,155,long,manaʔi,,,,
+55359,156,thin,ermasu,,,,
+55716,157,thick,woʔorini,,,,
+56787,160,"painful, sick","ariá [ʔa]",,,,
+57144,161,"shy, ashamed",aninómto,,,,
+57501,162,old,emava,,,,
+57858,163,new,ʔahujo,,,,
+58215,164,good,kamusa,,,,
+58572,165,"bad, evil",jáva,,,1,
+58929,166,"correct, true",jitari,,,,
+59286,167,night,varáʔa,,,,
+59643,168,day,marasina,,,,
+60000,169,year,taun,,L,,
+60357,170,when?,"marasina rosé",,,,
+60714,171,"to hide",ámua,(tr.),,,
+61071,172,"to climb",tuʔa,,,20,
+61428,173,at,-na,,,4,
+61785,174,"in, inside",sine-na,,,,
+62142,175,above,ravué-na,,,,
+62499,176,below,riwa,,,,
+62856,177,this,nena,,,1,
+81439,178,that,nona,,,,?
+81440,178,that,nuana,,,1,?
+63570,179,near,direrea,,,,
+63927,180,far,manaʔí,,,,
+64284,181,where?,vi,,,,
+64641,182,I,i[g]wa,,,1?,
+64998,183,thou,awa,,,9,
+65355,184,he/she,i,,,1,1
+123788,185,we,aʔo,,,,
+123789,185,we,iʔo,,,1,1
+123790,185,we,maʔo,,,2,
+66069,186,you,moʔo,,,,
+66426,187,they,tiʔo,,,1?,?
+66783,188,what?,rosere,,,10,
+67140,189,who?,naʔu-sé,,,1,?
+67497,190,other,aʔura,[='different'],,,
+67854,191,all,anuí,,,,
+68925,194,how?,beaburusé,,,,
+82673,195,"no, not",va,,,25,
+82674,195,"no, not",toa,,,,
+69639,196,"to count",ʔivuna,,,,
+69996,197,One,tatá,,,1?,1
+70353,198,Two,ruro,,,1,1
+70710,199,Three,ʔoro,,,1,1
+71067,200,Four,aʔo,,,1,1

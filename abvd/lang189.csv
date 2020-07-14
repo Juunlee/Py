@@ -1,0 +1,201 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+189,Tunjung,"Blust, from Hudson (1967)",tjg,tunj1244,"Hudson, A.B. (1967) The Barito isolects of Borneo: A classification based on comparative reconstruction and lexicostatistics. Data Paper No. 68. New York:Department of Asian Studies, Cornell University.",,"Austronesian, Malayo-Polynesian, Greater Barito, Barito-Mahakam","Peng Du","Simon Greenhill","@book{7677,  address               = {Ithaca},  note                  = {Bibliography: p. 111-112},  pages                 = {124},  publisher             = {Cornell University Press},  series                = {Data paper},  title                 = {The Barito isolects of Borneo: A classification based on comparative reconstruction and lexicostatistics},  volume                = {68},  year                  = {1967},  asjp_name             = {Dusun Malang, Ma'anyan, Paku, Siang, Malayic Dayak (Delang), Tawoyan, Kahayan (Kapuas), Siang (Murung), Tunjung, Dusun Witu, Ngaju (Ba'amang), Lawangan, Dusun Deyah, Ma'anyan (Samihim), Malayic Dayak (Tamuan)},  bibtexkey             = {hudson_barito-isolects1967},  class_loc             = {PL5261},  document_type         = {B},  fn                    = {papua\hudson_barito1967v2.pdf, papua\hudson_barito1967.pdf, papua\hudson_barito1967_o.pdf},  hhtype                = {overview;comparative;wordlist},  inlg                  = {English [eng]},  inlg_code             = {eng},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 5261 HUD 1967},  src                   = {asjp2010, hh, mpieva},  srctrickle            = {asjp2010#1766, asjp2010#1985, asjp2010#2304, asjp2010#2513, asjp2010#2604, asjp2010#265, asjp2010#3344, asjp2010#3353, asjp2010#3471, asjp2010#3485, asjp2010#3568, asjp2010#3889, asjp2010#463, asjp2010#477, asjp2010#4850, hh#hvw:Hudson:Barito, mpieva#Hudson1967TheBarit},  subject_headings      = {Borneo–Languages, Borneo–Languages},  author                = {Hudson, Alfred B.}}"
+latitude,longitude
+-1.20840649727185800444,116.03759765625000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+189,1,hand,aŋaʔ,,,18,
+546,2,left,ulay,,,22,
+903,3,right,tauʔ,,,"5,25",1
+1260,4,leg/foot,uneŋ,,,,
+1617,5,"to walk",calan,,,21,
+1974,6,road/path,loroŋ,,,1,
+2331,7,"to come",moot,,,,
+2688,8,"to turn",nencaŋ,,,,
+3045,9,"to swim",karaŋoy,,,1,1
+3402,10,dirty,marotaʔ,,,24,
+3759,11,dust,dəbu,,L,58,
+4116,12,skin,kulit,,,1,1
+4473,13,back,puŋuŋ,,,24,
+4830,14,belly,naiʔ,,,,
+5187,15,bone,lah,,,,
+5544,16,intestines,"usiʔ ŋaiʔ",,,1?,
+5901,17,liver,limpa,,,,
+173587,18,breast,tosoq,,,,
+175982,19,shoulder,bahuq,,,17,
+6972,20,"to know, be knowledgeable",togaʔ,,,,
+7329,21,"to think",pikir,"loan of 22",L,22,
+7686,22,"to fear",bihin,,,,
+8043,23,blood,rahaʔ,,,1,1
+8400,24,head,kuhuŋ,,,27,
+8757,25,neck,lohoŋ,,,76?,
+9114,26,hair,alaw,,,18,
+9471,27,nose,uruŋ,,,1,1
+9828,28,"to breathe",ŋasaŋ,,,23,
+10185,29,"to sniff, smell",karak,,,1,1
+10542,30,mouth,oncoŋ,,,,
+10899,31,tooth,kəsiŋ,,,12,
+11256,32,tongue,celaʔ,,,4,
+11613,33,"to laugh",tagaʔ,,,1,1
+11970,34,"to cry",naŋi,,,1,1
+12327,35,"to vomit",notaʔ,,,1,1
+12684,36,"to spit",məcuh,,,,
+13041,37,"to eat",kuman,,,1,1
+13755,39,"to cook",əncak,,,,
+14112,40,"to drink",muruʔ,,,,
+14469,41,"to bite",ŋeket,,,20,1
+14826,42,"to suck",mosoʔ,,,,
+15183,43,ear,neneŋ,,,,
+15540,44,"to hear",kəheneŋ,,,,
+15897,45,eye,uee,,,,
+16254,46,"to see",neaw,,,,
+16968,48,"to sleep",tiro,,,"1,70",1
+17325,49,"to lie down",tempoŋ,,,,
+175981,50,"to dream",ñùßí,,,,
+18039,51,"to sit",dacuŋ,,,,
+18396,52,"to stand",tege,,,34,
+18753,53,"person/human being",ulun,,,17,
+19110,54,man/male,lihaʔ,,,36,
+19467,55,woman/female,waweʔ,,,"1,105",1
+19824,56,child,tuhiʔ,,,,
+20181,57,husband,wanaʔ,,,1,
+20538,58,wife,sagan,,,1,1
+20895,59,mother,meʔ,,,,
+21252,60,father,maʔ,,,1,1
+186542,61,house,dapeq,,,,
+241158,62,thatch/roof,"sapaw jemiaq",,,15,
+22323,63,name,nama,,L,12,
+22680,64,"to say",bagahaʔ,,,,
+23037,65,rope,taliʔ,,,1,1
+23394,66,"to tie up, fasten",məcat,,,,
+23751,67,"to sew",ŋabet,,,,
+241157,68,needle,cahumph,,,,
+24465,69,"to hunt",mahaw,,,,
+24822,70,"to shoot",nemak,,,49,
+25179,71,"to stab, pierce",mancak,,,68,
+25536,72,"to hit",bajagur,,,34,
+254389,73,"to steal","noq dadak",,,,
+26250,74,"to kill",pakateʔ,,,22,
+26607,75,"to die, be dead",mateʔ,,,1,1
+26964,76,"to live, be alive",bəlum,,,11,
+27321,77,"to scratch",ŋərogot,,,51,
+27678,78,"to cut, hack",motok,,,,?
+28035,79,stick/wood,leŋan,,,,
+28392,80,"to split",məkaʔ,,,,1
+28749,81,sharp,masuk,,,,
+29106,82,"dull, blunt",kacar,"cf. 189",,,1
+29463,83,"to work",bəkərjai,"possible photocopy cutoff?",L,,
+217964,84,"to plant",molaq,,,,
+186541,85,"to choose",miliiq,,,,
+30891,87,"to swell",bəŋkak,,,19,
+31248,88,"to squeeze",pəras,,,42,1
+31605,89,"to hold",neŋkat,,,,
+31962,90,"to dig",ŋaliʔ,,,1,1
+153216,92,"to open, uncover",mogeq,,,,
+33390,94,"to throw",noak,,,,
+33747,95,"to fall",tatuy,,,,
+34104,96,dog,kokoʔ,,,103,
+34461,97,bird,əmpuluʔ,,,23,
+34818,98,egg,talo,,,1,1
+35175,99,feather,buluʔ,,,1,1
+35532,100,wing,ekap,,,,
+35889,101,"to fly",tərbaŋ,,,18,
+254298,102,rat,lesooq,,,,
+36603,103,meat/flesh,usiʔ,,,31,1?
+36960,104,fat/grease,loaʔ,,,,
+37317,105,tail,iŋkot,,,1,?
+37674,106,snake,nipaʔ,,,1,
+38031,107,"worm (earthworm)",halaŋ,,,"15,90",
+38388,108,louse,kutuʔ,,,1,1
+39459,111,fish,mətuʔ,,,,
+39816,112,rotten,buruk,,,1,1
+209495,113,branch,rāatn,,,,
+40530,114,leaf,roun,,,1,1
+40887,115,root,akar,,,2,1
+41244,116,flower,uŋan,,,1,1
+41601,117,fruit,ugan,,,1,1
+41958,118,grass,uruʔ,,,2,
+42315,119,earth/soil,tanaʔ,,,1,1
+42672,120,stone,batuʔ,,,1,1
+43029,121,sand,pasir,,,18,
+43386,122,water,anum,,,1,1
+44100,124,sea,launt,,L,6,
+44457,125,salt,cehaʔ,,,1,
+44814,126,lake,kənohan,,,,
+45171,127,woods/forest,talun,,,30,
+45528,128,sky,laŋit,,,1,1
+241159,129,moon,ulanth,,,,
+46242,130,star,bintaŋ,,,1,
+46599,131,cloud,awan,,,1,
+46956,132,fog,əmun,,,"27,35",
+47313,133,rain,ucan,,,1,1
+48384,136,wind,waheo,,,,
+48741,137,"to blow",bərtiup,,L,"1,49",1
+49098,138,warm,pəraŋ,,,,
+49455,139,cold,pərəŋin,,,1,
+49812,140,dry,keheŋ,,,22?,
+50169,141,wet,bisaʔ,,,1,1
+50526,142,heavy,bahat,,,1,1
+50883,143,fire,apuy,,,1,1
+51240,144,"to burn",nutuŋ,,,"19,1?",
+51597,145,smoke,əncun,,,,
+51954,146,ash,ahuʔ,,,1,
+52311,147,black,pərəmaʔ,,,,
+52668,148,white,bohoŋ,,,,
+53025,149,red,putiʔ,white?,,,?
+53382,150,yellow,kuniŋ,,L,1,
+53739,151,green,nahum,,,,
+54096,152,small,itit,,,1,
+54453,153,big,hajaʔ,,,1,1
+54810,154,short,idok,,,1,
+55167,155,long,moʔ,,,,
+55524,156,thin,tipi,,L?,"1,44",1
+55881,157,thick,kapar,cf.82,,1,1
+56238,158,narrow,səmpit,,,68,1
+56595,159,wide,lajah,,,1,
+57666,162,old,pəlegaʔ,,,,
+58023,163,new,isay,,,,
+58380,164,good,pajik,,,,
+58737,165,"bad, evil","kaheʔ pajik",,,,
+59094,166,"correct, true",kənay,,,,
+59451,167,night,kalam,,,20,
+59808,168,day,naw,,,,1?
+60165,169,year,taun,,,1,1
+60522,170,when?,pinan,,,1?,1?
+61593,173,at,deʔ,,,20,1
+61950,174,"in, inside","deʔ lam",,,1,1
+186543,176,below,iweeq,,,,
+63021,177,this,itih,,,10,
+63378,178,that,aneh,,,1,
+63735,179,near,totoʔ,,,,
+64092,180,far,əncoʔ,,,,1?
+64449,181,where?,diña,,,,
+241160,181,where?,dinya,,,,
+64806,182,I,ap,,,,
+65163,183,thou,koʔ,,,1,1
+65520,184,he/she,isaʔ,,,1,1
+113989,185,we,tay,,,1,1
+113990,185,we,kamiʔ,,,2,
+66234,186,you,kam,"links to Yakan",,1,1?
+66591,187,they,"araʔ ɑneh",,,,?
+66948,188,what?,ñama,,,16,
+67305,189,who?,uña,,,,
+67662,190,other,lain,,L,2,
+68019,191,all,səmua,,L,,
+68376,192,and,dan,,L,18,
+68733,193,if,kalaw,,L,14,
+69090,194,how?,ŋameña,,,,
+69447,195,"no, not",kaheʔ,,,,
+69804,196,"to count",milaŋ,,,1,1
+70161,197,One,caʔ,,,1,
+179376,197,One,bueq,,,,
+70518,198,Two,rəgaʔ,,,,1
+70875,199,Three,təlu,,,1,1
+71232,200,Four,pat,,,1,1
+159820,201,Five,limaq,,,1,
+168260,202,Six,hagant,,,,
+179368,203,Seven,tucuq,,,4,
+179369,204,Eight,kalungk,,,,
+217965,205,Nine,tiant,,,,
+179375,206,Ten,sawaakng,,,,
+184245,209,"One Hundred",cehatu,,,,
+179377,210,"One Thousand",seribuq,,,,

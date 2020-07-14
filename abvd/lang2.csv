@@ -1,0 +1,213 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+2,"Banggai (W.dialect)","Van den Bergh (1953)",bgz,bang1368,"Van Den Bergh, J. D. (1953). Spraakkunst van het Banggais. The Hague: Nijhoff.",,"Austronesian, Malayo-Polynesian, Celebic, Eastern, Saluan-Banggai, Eastern","Peng Du","Simon Greenhill","@book{157306,  address               = {The Hague},  note                  = {At head of title: Koninklijk Instituut voor Taal-, Land- en Volkenkunde},  pages                 = {170},  publisher             = {Martinus Nijhoff},  title                 = {Spraakkunst van het Banggais},  year                  = {1953},  bibtexkey             = {bergh_spraakkunst-banggais1953},  class_loc             = {PL5228},  document_type         = {B},  fn                    = {papua\vandenbergh_banggais1953.pdf},  hhtype                = {grammar_sketch},  inlg                  = {Dutch [nld]},  inlg_code             = {nld},  lgfamily              = {Austronesian, Malayo-Polynesian, Celebic, Celebic_Eastern, Saluan-Banggai},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 5228 BER 1953},  src                   = {hh, mpieva, wals},  srctrickle            = {hh#s:vandenBergh:Banggais, mpieva#10, wals#6774},  subject_headings      = {Banggai language – Grammar, Banggai (Indonesia) – Languages, Banggai language – Grammar – Banggai (Indonesia) – Languages},  author                = {van den Bergh, J. D.}}"
+latitude,longitude
+-1.60653993431161956629,123.51379394531250000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+2,1,hand,lima,,,"1,64",1
+359,2,left,bobo,,,,
+716,3,right,bakaliŋa,,,,
+1073,4,leg/foot,ai,,,1,1
+1430,5,"to walk",ampakon,,,,
+1787,6,road/path,loloon,,,1?,
+2144,7,"to come",lubat,,,,
+2858,9,"to swim",kayok,,,,
+3215,10,dirty,girit,,,,
+166777,12,skin,kulit,,,1,
+4286,13,back,toŋkuluŋ,,,51,
+4643,14,belly,tia,,,1,1
+5000,15,bone,buku,,,16,
+5714,17,liver,ate,,,1,1
+6071,18,breast,susu,,,1,1
+6428,19,shoulder,beŋe,,,,
+72271,20,"to know, be knowledgeable",suuŋ,,,,
+72272,20,"to know, be knowledgeable",toi,,,,
+7142,21,"to think",pikir,"loan of 22?",L,22,
+7499,22,"to fear",ma-takut,,,1,1
+7856,23,blood,sau,,,,
+8213,24,head,ulu,,,1,1
+8570,25,neck,buŋkut,,,,
+8927,26,hair,buuk,,,1,1
+9641,28,"to breathe",asaaŋ,,,23,
+72788,29,"to sniff, smell",onoki,,,,
+72789,29,"to sniff, smell",oŋoki,,,,
+72832,30,mouth,baba,,,1,1
+72833,30,mouth,suuŋ,,,40,1
+10712,31,tooth,ŋoliŋ,,,,
+11069,32,tongue,alep,,,,
+11426,33,"to laugh",kumbit,,,,
+11783,34,"to cry",kokiil,,,,
+12140,35,"to vomit",tolue,,,8,
+12854,37,"to eat",kaan,,,1,1
+13568,39,"to cook",saaŋ,,,,
+13925,40,"to drink",inum,,,1,1
+14282,41,"to bite",kakat,,,1,1
+14639,42,"to suck",sosop,,,1,1
+14996,43,ear,taliŋa|i,,,1,1
+15353,44,"to hear",loŋol,,,1,1
+15710,45,eye,mata,,,1,1
+16067,46,"to see",kita,,,1,1
+16781,48,"to sleep",moolo,,,,
+17138,49,"to lie down",goloŋ,,,,
+17495,50,"to dream",ulumon,,,,
+17852,51,"to sit",duduk,,,35,
+18209,52,"to stand",kokondoŋ,,,,1
+74132,53,"person/human being",baŋgapi,,,,
+74133,53,"person/human being",mian,,,19,
+18923,54,man/male,malane,,,1,1
+19280,55,woman/female,boʔine,,,"1,107",1
+19637,56,child,pau,,,,
+19994,57,husband,laŋkay,,,34,
+74447,58,wife,boloki,,,,1
+74448,58,wife,soa,,,1,1
+20708,59,mother,tina,,,1,1
+21065,60,father,tama,,,1,1
+21422,61,house,bonua,,,7,
+21779,62,thatch/roof,louŋ,,,,
+22136,63,name,sambu,,,,
+22493,64,"to say",bantil,,,,
+166783,65,rope,alos,,,,
+23207,66,"to tie up, fasten",boboi,,,,
+23564,67,"to sew",kaut,,,,
+166784,68,needle,pakaut,,,,
+24278,69,"to hunt",maŋ-asu,"(with dogs)",,36,
+24635,70,"to shoot",mam-panapi,,,1,1?
+91593,71,"to stab, pierce",suduk,,,30,
+91594,71,"to stab, pierce",tobok,,,24,
+25349,72,"to hit",umbas,,,,
+25706,73,"to steal",bonikuk,,,,
+75496,74,"to kill",tembel,,,,
+75497,74,"to kill",maŋkolot,,,,
+26420,75,"to die, be dead",mate,,,1,1
+26777,76,"to live, be alive",tubo,,,19,
+27491,78,"to cut, hack",tabas,,,,
+27848,79,stick/wood,kau,,,1,1
+28205,80,"to split",bata,,,36?,1?
+166780,81,sharp,mamaŋan,,,,
+29276,83,"to work",balimaŋ,,,,
+29633,84,"to plant",man-sasak-on,,,32,
+29990,85,"to choose",ilei,,,1,
+30347,86,"to grow",tuboy,,,1,
+30704,87,"to swell",baŋkak,,,19,
+31061,88,"to squeeze",piis,,,29,?
+31418,89,"to hold",kaŋgi,,,,
+76484,90,"to dig",gali,,,1,1
+76485,90,"to dig",kali,,,1,1
+32132,91,"to buy",moŋ-oli,,,1,1
+76604,92,"to open, uncover",aŋat,,,,1
+76605,92,"to open, uncover",buka,,,1,1
+32846,93,"to pound, beat",tuda,,,,
+33203,94,"to throw",suuŋ,,,,
+33560,95,"to fall",tuoŋ,,,,
+33917,96,dog,asu,,,1,1
+34274,97,bird,manu-manuk,,,1,1
+34631,98,egg,galau,,,,
+166776,99,feather,bulu,,,1,
+166779,100,wing,papil,,,,
+35702,101,"to fly",leal,,,,
+36059,102,rat,bukoti,,,,
+77197,103,meat/flesh,antok,,,,
+77198,103,meat/flesh,sail,,,,
+104737,104,fat/grease,lanak,,,24,1
+104738,104,fat/grease,minak,,,1,
+37130,105,tail,puus,,,30?,
+37487,106,snake,bindana,,,39,
+37844,107,"worm (earthworm)",uloy,,,36,
+38201,108,louse,kutu|k,,,1,1
+38915,110,spider,loa,,,1,1
+39272,111,fish,susum,,,,
+39629,112,rotten,manas,,,,
+39986,113,branch,paŋa,,,22,
+40343,114,leaf,loon,,,1,1
+40700,115,root,[ɬ]akat,,,2?,?
+41057,116,flower,buŋa,,,1,1
+41414,117,fruit,sao,,,,
+42128,119,earth/soil,tano,,,1,1
+42485,120,stone,batu,,,1,1
+42842,121,sand,bone,,,2,1
+166785,122,water,paisu,,,,
+43556,123,"to flow",tuul,,,,
+43913,124,sea,dalaŋon,,,,
+44270,125,salt,timuson,,,2,
+166778,128,sky,timbu,,,,
+45698,129,moon,bituon,,,1?,
+46055,130,star,"bituon pauna",,,1,1?
+46412,131,cloud,bunoŋ,,,,
+47126,133,rain,udan,,,1,1
+78783,134,thunder,guruk,,,2?,
+78784,134,thunder,selese,,,,
+47840,135,lightning,kilap,,,"1,88",?
+48197,136,wind,bombuul,,,,
+48554,137,"to blow",puul,,,,
+48911,138,warm,onas,,,1,1?
+49268,139,cold,demel,,,,
+79201,140,dry,tiis,,,,
+79202,140,dry,moyon,,,56,
+79302,141,wet,bunus,,,,
+79303,141,wet,tembus,,,,
+79304,141,wet,betak,,,,
+50339,142,heavy,barat,,,1,1?
+50696,143,fire,[po]bilat,,,,
+51053,144,"to burn",kupul,,,,
+51410,145,smoke,tibolun,,,,
+52124,147,black,pook,,,,
+52481,148,white,ute,,,1?,1?
+52838,149,red,[me]mela,,,1,1
+79769,150,yellow,soni,,,,1
+79770,150,yellow,uni[w],,,1,1
+53552,151,green,lampal,,,,
+79840,152,small,didik,,,1,?
+79841,152,small,poʔisik,,,,?
+54266,153,big,babasal,,,,
+80073,154,short,pololoba,,L,,
+80074,154,short,pende,,L,68,
+55337,156,thin,nipi,,,1,1
+55694,157,thick,bondoloŋ,,,,
+56051,158,narrow,boot,,,,
+56408,159,wide,belay,,,13?,
+56765,160,"painful, sick",ma-sakit,,,1,1
+57122,161,"shy, ashamed",mamaa,,,1,1
+57836,163,new,soodo,,,,
+58193,164,good,dondok,,,,
+58550,165,"bad, evil",lokis,,,,
+58907,166,"correct, true",tuu,,,6,1
+59621,168,day,oloyo,,,1?,1
+59978,169,year,taum,,L?,1?,
+60335,170,when?,no|ian,,,"1,65",1
+60692,171,"to hide",sapit,,,,
+61049,172,"to climb",liba,,,,
+81078,173,at,doi,,,20?,1?
+81079,173,at,i,,,1,1?
+61763,174,"in, inside","doi laloŋ",,,1,1
+62834,177,this,nia,,,1,
+81420,178,that,noko,,,,
+81421,178,that,daa,,,,
+63548,179,near,lolani,,,1,1
+63905,180,far,doon,,,,?
+81676,181,where?,doiaa,,,,
+81677,181,where?,iaa,,,,
+64619,182,I,iaku,,,1,1
+64976,183,thou,ikoo,,,1,1
+65333,184,he/she,iana,,,,
+111894,185,we,ikita,,,1,1
+111895,185,we,ikami,,,2,
+66047,186,you,ikomuyu,,,"1,13",1
+66404,187,they,ianila,,,1?,1
+66761,188,what?,oila,,,,
+67118,189,who?,ilee,,,,?
+67475,190,other,meeŋ,,,,
+67832,191,all,saibi,,,,
+68546,193,if,sio,,,,
+68903,194,how?,bulaa,,,,
+69260,195,"no, not",aki,,,,
+69974,197,One,meeŋ,,,,
+70331,198,Two,lua,,,1,1
+70688,199,Three,tolu,,,1,1
+71045,200,Four,saŋkap,,,,
+166791,201,Five,lima,,,1,
+166790,202,Six,noom,,,,
+166789,203,Seven,pitu,,,1,
+166788,204,Eight,alu,,,3,
+166787,205,Nine,sio,,,5,
+166786,206,Ten,soŋulo,,,,
+166782,207,Twenty,"lua korono",,,,
+166781,209,"One Hundred",sakat,,,,

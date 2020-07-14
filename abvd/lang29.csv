@@ -1,0 +1,210 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+29,Kaidipang,"Hunggu Tadjuddin Usup",kzp,kaid1239,"Hunggu Tadjuddin Usup et al (1999). Kamus bahasa Indonesia-Kaidipang. Jakarta : Pusat Pembinaan dan Pengembangan Bahasa, Departemen Pendidikan dan Kebudayaan.",,"Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Gorontalo-Mongondow, Gorontalic","Peng Du","Simon Greenhill","@misc{Usup-29-2005,  author = \"Hunggu Tadjuddin Usup\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+0.88436429661388604728,123.09631347656250000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+29,1,hand,rʔima,"Metathesis of *qalima ??",,1,1
+386,2,left,kiborʔaagi,,,,
+743,3,right,kitau,,,"5,40",1
+1100,4,leg/foot,tiorʔo,,,108,
+1457,5,"to walk",morʔako,,,1,1
+1814,6,road/path,dorʔa,,,1?,1?
+2171,7,"to come",mai,,,1,1
+2528,8,"to turn",sélé,,,,
+2885,9,"to swim",monaŋi,,,"1,45",1
+3242,10,dirty,mohimito,,,,
+3599,11,dust,rʔikavuko,,,"1,48",1
+3956,12,skin,kurʔito,,,,1
+4313,13,back,buŋgiuŋo,,,,
+4670,14,belly,tia,,,1,1
+5027,15,bone,turʔa,,,1,1
+5384,16,intestines,tinai,,,1,1
+5741,17,liver,kobilé,,,,
+6098,18,breast,susu,,,1,1
+6455,19,shoulder,bogo,,,"1, 84",1?
+6812,20,"to know, be knowledgeable",motau,,,1,1
+7169,21,"to think",momikiru,,,31,
+7526,22,"to fear",moonuko,,,32,
+7883,23,blood,dugu,,,16,
+8240,24,head,urʔu,,,1,1
+8597,25,neck,tigugu,,,,
+8954,26,hair,vuoko,,,"1,65",1
+9311,27,nose,uyuŋo,,,"1,84",1
+9668,28,"to breathe",mogi|naa,,,"1,70",1
+10025,29,"to sniff, smell",momuu,,,71,
+10382,30,mouth,ŋaŋa,,,24,
+10739,31,tooth,duŋito,,,14,
+11096,32,tongue,dila,,,4,1
+11453,33,"to laugh",kumosiŋo,"[uj k?siN]",,41,
+11810,34,"to cry",moguoŋo,,,12,
+12167,35,"to vomit",mododurʔu,,,17,
+12524,36,"to spit",momúe,,,,
+12881,37,"to eat",moŋaa,,,1,1
+13238,38,"to chew",mogumjapo,,,19,
+13595,39,"to cook",mokorʔutu,,,,
+13952,40,"to drink",moŋinumo,,,1,1
+14309,41,"to bite",moŋikilo,,,,
+14666,42,"to suck",monosopo,,,"1,27",1
+15023,43,ear,burʔoŋa,,,13,
+15380,44,"to hear",mokiduŋogu,,,1,1
+15737,45,eye,mata,,,1,1
+16094,46,"to see",moŋontoŋo,,,25,
+16451,47,"to yawn",moŋuabu,,,19,1
+16808,48,"to sleep",motiugu,,,1,1
+17165,49,"to lie down",rʔumukuto,,,,
+17522,50,"to dream",motogiimopo,"cf Mayrinax Atayal (womens' speech): ma-qilup < +ma-qiNep",,"1,24",
+17879,51,"to sit",rʔumitu,,,44,
+18236,52,"to stand",tumiguho,,,23,
+18593,53,"person/human being",ota,(<qaRta),,"4,77",
+18950,54,man/male,rʔorʔaki,,,"2,99",1
+19307,55,woman/female,bibo,,,,
+19664,56,child,anako,,,1,1
+20021,57,husband,nika,,,,
+20378,58,wife,nika,,,,
+20735,59,mother,ina,,,1,1
+21092,60,father,ama,,,1,1
+21449,61,house,borʔé,,,14,
+21806,62,thatch/roof,paaru,,,,
+22163,63,name,déito,,,,
+22520,64,"to say",mogoparu,,,,
+22877,65,rope,tali,,,1,1
+23234,66,"to tie up, fasten",momihuto,,,28,
+23591,67,"to sew",motéi,,,1,1
+23948,68,needle,dugumo,,,1,1
+75175,69,"to hunt",morʔutamo,,,,
+75176,69,"to hunt",moguŋgu,,,,
+24662,70,"to shoot",morʔutamo,,,18,
+25019,71,"to stab, pierce",momusuko,,,1,1?
+75364,72,"to hit",monintiŋo,,,,
+75365,72,"to hit",mopokoŋoŋoto,,,,
+25733,73,"to steal",monako,,,1,1
+26090,74,"to kill",momaté,,,2,
+26447,75,"to die, be dead",maaté,,,1,1
+26804,76,"to live, be alive",sumumurʔo,,,17,
+27161,77,"to scratch",moŋékuru,,,,
+27518,78,"to cut, hack",momusu,,,35,
+27875,79,stick/wood,kayu,,,1,1
+28232,80,"to split",momutako,,,25,
+28589,81,sharp,morʔanito,,,43,
+28946,82,"dull, blunt",motumburʔo,,,"3,70",1
+29303,83,"to work",mokarija,,,23,
+29660,84,"to plant",momurʔa,,,"1,7",1
+30017,85,"to choose",momili,,,1,1
+30374,86,"to grow",mosumurʔo,=76,,,
+30731,87,"to swell",momuntaŋo,,,22,
+31088,88,"to squeeze",momuguso,,,,1?
+31445,89,"to hold",motoŋorʔo,,,,
+76490,90,"to dig",moŋarʔi,,,1,1
+76491,90,"to dig",moŋukuto,,,27,1
+32159,91,"to buy",mosarʔi,,,"20,54",
+32516,92,"to open, uncover",momukaso,,,"1,63",?
+32873,93,"to pound, beat",morʔobuko,,,14,
+33230,94,"to throw",mopomahuŋo,,,25,
+33587,95,"to fall",modovu,,,1,1
+33944,96,dog,uŋgu,,,20,
+34301,97,bird,buruŋo,,,17,
+34658,98,egg,natu,"orig. meaning?",,17,
+35015,99,feather,vuvurʔo,,,"1,32",?
+35372,100,wing,porʔipiko,,,25,
+35729,101,"to fly",moŋayu,,,"43,85",
+36086,102,rat,burʔabu,,,"1,30",1
+36443,103,meat/flesh,sapu,,,29,
+36800,104,fat/grease,tabo,,,23,
+37157,105,tail,ipuso,,,30,
+37514,106,snake,doso,,,,
+37871,107,"worm (earthworm)",rʔuati,,,1,1
+38228,108,louse,kutu,,,1,1
+38585,109,mosquito,hoŋito,,,22,
+38942,110,spider,tonto|rʔaa,cp.28,,1,1
+39299,111,fish,séa,,,18,
+39656,112,rotten,movuhuko,,,"1,102",1?
+40013,113,branch,saŋa,,,2,1
+40370,114,leaf,duuŋo,,,"1,55",1
+40727,115,root,wakato,,,"2,54",1?
+41084,116,flower,buŋaŋo,,,"1,61",1
+41441,117,fruit,bua-buahaŋo,,,"1,45",1
+41798,118,grass,hikuto,,,37,
+42155,119,earth/soil,vuta,,,"25,27",
+42512,120,stone,botu,,,1,1
+42869,121,sand,vuŋayo,,,23,
+43226,122,water,sarʔugu,,,33,
+43583,123,"to flow",moiligu,,,27,1?
+43940,124,sea,borʔaŋo,,,,
+44297,125,salt,simuto,,,17,1?
+44654,126,lake,dono,,,1,1
+45011,127,woods/forest,tarʔu,,,,
+45368,128,sky,rʔaŋito,,,1,1
+45725,129,moon,vurʔa,,,1,1
+46082,130,star,matiti,,,75,
+46439,131,cloud,hohopo,,,,
+46796,132,fog,supuoto,,,28,
+47153,133,rain,uha,,,1,1
+47510,134,thunder,gunturʔo,,,30,
+47867,135,lightning,kilato,,,1,1
+48224,136,wind,dupoto,,,29,
+48581,137,"to blow",mogiupo,,,"1,70",1
+48938,138,warm,mopasu,,,26,
+49295,139,cold,motimbiŋo,,,,
+49652,140,dry,moiŋgagu,,,1,
+50009,141,wet,mobosa,,,1,1
+50366,142,heavy,mobugoto,,,1,1
+50723,143,fire,surʔu,,,,
+79441,144,"to burn",monunjurʔo,,,,1
+79442,144,"to burn",motunu,,,1,1
+51437,145,smoke,pohoko,,,22,
+51794,146,ash,avu,,,1,1
+52151,147,black,moitomo,,,1,1
+52508,148,white,moputiho,,,1,1
+52865,149,red,mopuha,,,28,
+53222,150,yellow,modohagu,,,38,
+53579,151,green,morʔumo,,,,
+53936,152,small,moisiko,,,,
+54293,153,big,modokarʔo,,,"22,23",
+54650,154,short,moporʔoko,,,,1
+55007,155,long,mohambé,,,30,
+55364,156,thin,monipiso,,,1,1
+55721,157,thick,modomarʔo,,,,
+56078,158,narrow,mohipito,,,67,1?
+56435,159,wide,motaŋgaho,,,17,
+56792,160,"painful, sick",moŋoŋoto,,,26,
+57149,161,"shy, ashamed",moorʔito,,,16,
+57506,162,old,moguhaŋo,"cp TB",,,
+57863,163,new,mobogu,,,"1,54",1
+58220,164,good,mopia,,,1,1
+58577,165,"bad, evil",moñaato,,,87,?
+58934,166,"correct, true",totuu,,,6,1
+59291,167,night,gubii,,,"21,90",
+59648,168,day,onu,,,,
+60005,169,year,tauŋo,,,"1,76",1
+60362,170,when?,rʔoonu,,,,
+60719,171,"to hide",tumuuko,,,14,
+61076,172,"to climb",moponiko,,,"1,62",1
+61433,173,at,ko,,,15,
+61790,174,"in, inside","[ko] duarʔomo",,,1,1
+62147,175,above,"ko rʔorʔugi",,,,
+62504,176,below,"ko sibubo",,,1,
+62861,177,this,ini,,,1,1
+63218,178,that,ito,,,16,1?
+63575,179,near,mokikiho,,,,
+63932,180,far,mohaaŋo,,,,
+64289,181,where?,ka|anu|ko,,,"1,74",1?
+64646,182,I,aka,,,"1,30",
+65003,183,thou,kiotorʔu,,,,
+65360,184,he/she,kiota,,,,
+118946,185,we,kitantaa,,,1,
+118947,185,we,kinamintaa,,,2,
+66074,186,you,"kiotorʔu soohuoru",,,,
+66431,187,they,kidontorʔu,"we three",,x,
+66788,188,what?,anuko,,,"2,18",
+67145,189,who?,kiiko,,,,
+67502,190,other,ibonia,,,12,
+67859,191,all,soohuoru,,,,
+68216,192,and,agu,,,4,
+68573,193,if,agu,,,,
+68930,194,how?,kodooni,,,,
+69287,195,"no, not",dio,,,2,1?
+69644,196,"to count",morékéŋo,,L?,39,
+70001,197,One,soobotu,,,,
+70358,198,Two,diiya,,,1,
+70715,199,Three,torʔu,,,"1,10",1
+71072,200,Four,opato,,,1,1

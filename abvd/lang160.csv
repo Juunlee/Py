@@ -1,0 +1,208 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+160,Kisar,"Blust, from: Rinnooy (1886), Stresemann (1927)",kje,kisa1266,"Stresemann, E. (1927). Die Lauterscheinungen in den ambonischen Sprachen. Zeitschrift fÃ¼r Eingeborenen-Sprachen, Beihaft 10. Berlin: Dietrich Reimer.Rinnooy, N. (1886). Maleisch-Kissersch woordenlijst. Tijdschrift voor Indische Taal-, Land- en Volkenkunde 31: 149-213.",,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Timor, Extra-Ramelaic, East, Luang-Kisar, Kisar","Peng Du","Simon Greenhill","@book{59437,  address               = {Berlin},  pages                 = {xii+224},  publisher             = {Reimer},  series                = {Zeitschrift für Eingeborenen-Sprachen / Beihefte},  title                 = {Die Lauterscheinungen in den ambonischen Sprachen},  volume                = {10},  year                  = {1927},  bibtexkey             = {stresemann_lauterscheinungen-ambonischen1927},  class_loc             = {PL5206},  document_type         = {B},  fn                    = {papua\stresemann_ambonischen1927_o.pdf, papua\stresemann_ambonischen1927.pdf},  hhtype                = {overview;comparative},  inlg                  = {German [deu]},  inlg_code             = {deu},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 5206 STR 1927},  src                   = {hh, mpieva},  srctrickle            = {hh#hv:Stresemann:Ambonischen, mpieva#Stresemann1927DieLaute},  subject_headings      = {Amboinese languages, Amboinese languages},  author                = {Stresemann, Erwin}}@article{137430,  journal    = {Tijdschrift voor Indische Taal-, Land- en Volkenkunde},  pages      = {149-213},  title      = {Maleisch-Kissersch woordenlijst},  volume     = {31},  year       = {1886},  bibtexkey  = {rinnooy_maleisch-kissersch1886},  fn         = {papua\rinnooy_kissersch1886.pdf},  hhtype     = {wordlist},  inlg       = {Dutch [nld]},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#w:Rinnooy:Kissersch},  author     = {Rinnooy, N.}}"
+latitude,longitude
+-8.02659484248954946395,127.18872070312500000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+160,1,hand,lima-,,,"1,64",1
+517,2,left,mariri,,,"1,82",1
+874,3,right,malanna,,,"1,29",1?
+1231,4,leg/foot,ei-,,,1,1
+1588,5,"to walk",la,,,1,1
+1945,6,road/path,kalla,,,1,1
+2302,7,"to come",mai,,,1,1
+2659,8,"to turn",wali-ye,,,8,
+3016,9,"to swim",nani,,,"1,45",1
+3373,10,dirty,mool,,,,
+4087,12,skin,ulki,,,1,1
+72021,13,back,kiliure,,,,?
+72022,13,back,koor-ne,,,,?
+4801,14,belly,kanoin,,,,
+5158,15,bone,rur-,,,2,
+72145,16,intestines,kohoi,,,,
+72146,16,intestines,romuk,,,,
+5872,17,liver,aki,,,1,1
+6229,18,breast,huhu,,,1,1
+6586,19,shoulder,kawaalle,,,,
+6943,20,"to know, be knowledgeable",ma-waroin,,,40,
+7657,22,"to fear",makaʔuku,,,1,1
+8014,23,blood,rara,,,1,1
+8371,24,head,ulu-,,,1,1
+8728,25,neck,kelen-ne,,,13,
+9085,26,hair,murku,,,5,
+9442,27,nose,irun-,,,1,1
+9799,28,"to breathe",warna,,,31,
+10156,29,"to sniff, smell",masi,,,65,
+10513,30,mouth,wawa-ne,,,1,1
+10870,31,tooth,nihan,,,1,1
+11227,32,tongue,naman-ne,,,"6,12",?
+11584,33,"to laugh",mali,,,3,
+11941,34,"to cry",nahere,,,29,
+12298,35,"to vomit",moko,,,1,1
+12655,36,"to spit",apar,,,"9,13",
+13012,37,"to eat",an,,,25,1
+73322,38,"to chew",mama,,,1,1
+73323,38,"to chew","naake [r]",,,,1
+13726,39,"to cook",huni,,,,
+14083,40,"to drink",romun,,,5,
+14440,41,"to bite",naunihi,,,3,
+14797,42,"to suck",loome,,,,
+15154,43,ear,kiliŋ-,,,1,1
+15511,44,"to hear",derne,,,1,1
+15868,45,eye,maka-,,,1,1
+16225,46,"to see",poonoh,,,,
+16939,48,"to sleep",maturru,,,1,1
+74014,49,"to lie down",heriyal[a],,,,
+74015,49,"to lie down",yawa,,,,
+17653,50,"to dream",namarami,,,"1,37",
+18010,51,"to sit",raikor,,,,
+18367,52,"to stand",nama|riri,,,1,1
+18724,53,"person/human being",rii,,,5,
+19081,54,man/male,mooni,,,1,1
+19438,55,woman/female,liwarn,,,17,
+19795,56,child,ana-,,,1,1
+20152,57,husband,hoo-,,,2?,1
+20509,58,wife,hoo-,,,1,1
+20866,59,mother,in-,,,1,1
+21223,60,father,ama-,,,1,1
+21580,61,house,romo,,,1,1
+21937,62,thatch/roof,kawar,,,,
+22294,63,name,nara-,,,1,1
+22651,64,"to say",naaheni,,,,
+23008,65,rope,kali,,,1,1
+23365,66,"to tie up, fasten",eku,,,,
+23722,67,"to sew",houru,,,10,
+24079,68,needle,wanaka,,,,
+24436,69,"to hunt",rohi,,,,
+24793,70,"to shoot",ilak,,,,
+25150,71,"to stab, pierce",kadi,,,,
+75401,72,"to hit",riuku,,,,
+75402,72,"to hit",rerehe,,,,
+25864,73,"to steal",manaʔa,,,"1,59,60",1
+26221,74,"to kill",nesneh,,,,
+26578,75,"to die, be dead",maki,,,1,1
+26935,76,"to live, be alive",mori,,,"1,76",1
+27292,77,"to scratch",haruke,,,1,1
+27649,78,"to cut, hack",keri,,,3,
+28006,79,stick/wood,au,,,1,1
+28363,80,"to split",weke,,,,1
+28720,81,sharp,namalorno,,,11,
+29077,82,"dull, blunt",pohon,,,,
+76058,83,"to work",rayapi,,,8,
+76059,83,"to work",hopoko,,,,
+29791,84,"to plant",hapa,,,,
+30148,85,"to choose",nili,,,1,1
+31219,88,"to squeeze",daine,,,,
+76453,89,"to hold",nodi,,,101,
+76454,89,"to hold",nasala,,,,
+31933,90,"to dig",rair,,,,
+32290,91,"to buy",weli,,,1,1
+32647,92,"to open, uncover",hariye,,,7,
+33361,94,"to throw",wasla,,,,
+33718,95,"to fall",na-diam,,,,
+34075,96,dog,ahu,,,1,1
+34432,97,bird,manu,,,1,1
+76993,98,egg,kerra,,,1,1
+76994,98,egg,kerun-ne[r],,,1,1
+35146,99,feather,wul-,,,1,1
+35503,100,wing,liwar-ne,,,48,
+35860,101,"to fly",liwar,,,8,
+36217,102,rat,ornohe,,,,
+36574,103,meat/flesh,ihin,,,31,1
+36931,104,fat/grease,mine,,,1,1
+37288,105,tail,iʔur-,,,1,1
+37645,106,snake,nee,,,1?,
+38002,107,"worm (earthworm)","sususu pipi",,,,
+38359,108,louse,uku,,,1,1
+38716,109,mosquito,namu,,,1,1
+77571,110,spider,"pui kakaoʔe",,,,
+77572,110,spider,timirakaraka,,,,
+39430,111,fish,iʔan,,,1,1
+39787,112,rotten,popo,,,8,
+40144,113,branch,hana-,,,2,
+40501,114,leaf,kawini,,,,?
+40858,115,root,aʔar,,,2,1
+41215,116,flower,dipin,,,,
+41572,117,fruit,woini,,,1?,?
+41929,118,grass,peŋke,,,12,
+42286,119,earth/soil,noho,,,,
+42643,120,stone,waku,,,1,1
+43000,121,sand,dodlo,,,,
+43357,122,water,oiri,,,2?,1
+43714,123,"to flow",wau,,,,
+44071,124,sea,louru,,,6,
+44428,125,salt,asir,,,1,1?
+45142,127,woods/forest,alha,,,1,1
+45499,128,sky,aame,,,,
+45856,129,moon,wollo,,,1,1
+46213,130,star,kaliyoro,,,,
+46570,131,cloud,kakkame,,,8,
+47284,133,rain,okon,,,1,1
+47641,134,thunder,"ilak wadlena",,,,
+47998,135,lightning,litalitarmake,,,,
+48355,136,wind,anne,,,1,1
+48712,137,"to blow",rou,,,,
+79097,138,warm,lere,,,,1?
+79098,138,warm,manaha,,,1,1?
+49426,139,cold,rinna,,,1,1
+49783,140,dry,"napa rouku",,,,
+50140,141,wet,pauku,,,,
+50497,142,heavy,werke,,,,1
+50854,143,fire,aʔi,,,1,1
+51211,144,"to burn",kunu,,,1,1
+51568,145,smoke,m|ahu|n,,,2,1?
+51925,146,ash,apu,,,1,?
+52282,147,black,memekem,,,1,1
+52639,148,white,puki,,,1,1
+52996,149,red,mere,,,1,1
+53353,150,yellow,limarra,,,6,
+53710,151,green,mokemoke,,,,?
+54067,152,small,tatane,,,8?,
+54424,153,big,lalape,,,10?,
+54781,154,short,deulu,,,,
+55138,155,long,naru,,,1,1
+55495,156,thin,nama|nisa,,,1,1
+55852,157,thick,kapal,,L,1,
+56209,158,narrow,marak,,L,,
+56566,159,wide,napa|lowa,,,1,1
+56923,160,"painful, sick",apinha,,,,
+57280,161,"shy, ashamed",nawawa,,,,
+57637,162,old,leleh,,,,
+57994,163,new,woru-woru,,,1,1
+58351,164,good,waane,,,,
+58708,165,"bad, evil",name|hiyali,,,,
+59065,166,"correct, true",nama|lolo,,,4,
+59422,167,night,aalam,,L,,?
+59779,168,day,lere,,,24,1
+60136,169,year,anna,Loan?,L?,,
+60493,170,when?,maanana,,,,
+60850,171,"to hide",suware,,,,
+61207,172,"to climb",haʔa,,,2,
+61564,173,at,ail,,,,
+61921,174,"in, inside",[ai]raram,,,1,1
+62278,175,above,ki-wawanne,,,,
+62635,176,below,la-yawa,,,1,1?
+62992,177,this,[y]eni,,,1,1
+63349,178,that,onne,,,,?
+63706,179,near,rani,,,1,1
+64063,180,far,kouw,,,1,1
+64420,181,where?,ewi,,,,
+64777,182,I,yau,,,1,1
+65134,183,thou,o,,,1,1
+65491,184,he/she,ai[n],,,,
+113957,185,we,ika,,,1,1
+113958,185,we,mayai,,,2,
+66205,186,you,mi,,,"1,13",1
+66562,187,they,hi,,,1,1?
+66919,188,what?,in|hawa,,,1,?
+67276,189,who?,ina|hoi,,,1,1?
+67633,190,other,namehin,,,,
+67990,191,all,nakeme,,,,
+68347,192,and,noro,,,7,
+68704,193,if,loo,,,,
+69061,194,how?,hehewi,,,,
+69418,195,"no, not",ka,,,4,
+69775,196,"to count",aki,,,6,
+70132,197,One,ida,,,1,1
+70489,198,Two,wo-roo,,,"1,28",1
+70846,199,Three,wo-kelu,,,"1,40",1
+71203,200,Four,wo-aka,,,"1,17",1

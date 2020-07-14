@@ -1,0 +1,221 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+235,Penrhyn,"POLLEX 2000 (Bruce Biggs & Ross Clark)",pnh,penr1237,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, East, Central, Tahitic","Simon Greenhill","Simon Greenhill","@article{POLLEX,  journal = {Oceanic Linguistics},  number  = {2},  pages   = {551--559},  title   = {{POLLEX-Online: The Polynesian Lexicon Project Online}},  volume  = {50},  year    = {2011},  author  = {Greenhill, Simon J. and Clark, Ross}}"
+latitude,longitude
+-9.00000000000000000000,-158.00000000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+235,1,hand,rima,"Five; hand-arm",,1,1
+90542,2,left,kauii,"Pollex 06: Kauii. :Left.",,"1,42",
+90543,3,right,katau,"Pollex 06: Katau. :Right, dextral side (Sta).",,"5, 40",
+90544,4,leg/foot,vae,"Pollex 06: Vae/vae. :Foot, leg (Sta).",,"1, 100",
+1663,5,"to walk",saere,Walk,,6,1
+2020,6,road/path,ara,"Road, path",,1,1
+90545,8,"to turn",p/ahe,"Pollex 06: P/ahe/ :To deviate, detour, turn (Rmn).",,11,
+90546,8,"to turn",huri,"Pollex 06: Huri. :Turn (Sta).",,15,
+3091,9,"to swim",kau,Swim,,5,1
+87947,10,dirty,para/para,"Dirt, dirty",,7,
+87948,10,dirty,sava,Filthy,,8,
+90547,11,dust,puuehu,"Pollex 06: Puuehu. :Dust; broken in pieces (Sta).",,"1, 74",
+90548,12,skin,kiri,"Pollex 06: Kiri. :Skin, bark (Sta).",,1,
+90549,13,back,sope,"Pollex 06: Sope. :Buttocks; back (Sta).",,,
+88032,14,belly,kona,"Lower abdomen",,8,1
+88033,14,belly,koopuu,Guts,,2,
+88034,14,belly,manava,Belly,,9,
+5233,15,bone,ivi,Bone,,"52,5",1
+90550,16,intestines,ngaakau,"Pollex 06: Ngaakau. :Intestines, guts (Sta).",,12,
+5947,17,liver,ate,Liver,,1,1
+6304,18,breast,uu,"Nipple; milk",,1,1
+90551,20,"to know, be knowledgeable",kite,"Pollex 06: Kite. :See, watch, know, notice, find; clever, bright, knowledgeable (Sta).",,12,
+90552,21,"to think",manako,"Pollex 06: Manako. :Think; idea; mind.",,7,
+7732,22,"to fear",mataku,"Afraid, fear",,1,1
+8089,23,blood,toto,Blood,,4,1
+8446,24,head,upoko,Head,,10,1
+90553,25,neck,kakii,"Pollex 06: Kakii. :Throat, neck (Sta).",,20,
+9160,26,hair,huru/huru,Hair,,31,1
+9517,27,nose,isu,Nose,,1,1
+10231,29,"to sniff, smell",songi,"Touch noses",,9,1
+10588,30,mouth,vaha,Mouth,,"1,8",1
+10945,31,tooth,niho,Tooth,,1,1
+11302,32,tongue,arero,Tongue,,15,1
+11659,33,"to laugh",kata,Laugh,,7,1
+12016,34,"to cry",tangi,Cry,,1,1
+12373,35,"to vomit",rua/ki,Vomit,,"8,31",1
+90554,36,"to spit",suupee,"Pollex 06: Suupee. :Saliva; to spit (Sta)",,,
+13087,37,"to eat",kai,"Food, eat",,"1,47",1
+90555,38,"to chew",ngau,"Eat, chew, masticate (Sta).",,8,
+13801,39,"to cook",too,"Cook in an earth oven",,10,1
+14158,40,"to drink",inu,Drink,,1,1
+90556,41,"to bite",ka/kati,"Pollex 06: Ka/kati. :Bite (Sta).",,"1,55",
+90557,42,"to suck",ngote,"Pollex 06: Ngote. :Suck (Yda).",,9,
+15229,43,ear,taringa,Ear,,1,1
+15586,44,"to hear",rongo,"Hear; fame",,1,1
+15943,45,eye,mata,Face,,1,1
+90558,47,"to yawn",haamama,"Pollex 06: <Haamama. :Open the mouth, yawn (Sta)>.",,"19,28",
+17014,48,"to sleep",moe,Sleep,,"10, 109",1
+90559,49,"to lie down",takoto,"Pollex 06: Takoto. :Lie down (Sta).",,7,
+90560,50,"to dream",moemoeaa,"Pollex 06: Moemoeaa. :Dream, longing (Sta).",,"7,27",
+18085,51,"to sit",noho,Sit,,16,1
+18442,52,"to stand",tuu,Stand,,2,1
+18799,53,"person/human being",tangata,Man,,"1,66, 97",1
+19156,54,man/male,taane,Male,,"1,11",1
+91066,55,woman/female,vahine,Woman,,"1,106,116",
+91067,55,woman/female,-hine,"Female (I don't understand why this is treated as a suffix - MW)",,"1,41",
+19870,56,child,tamariki,Children,,"6,63",1
+90561,57,husband,taane,"Pollex 06: Taane. :Male, man, husband (Sta).",,14,
+20941,59,mother,tinana,"Dam (of animals)",,1,1
+90562,60,father,paa,"L from English",L,,
+91370,61,house,kaaiŋa,Home,,6,
+91371,61,house,hare,House,,14,
+22012,62,thatch/roof,ato,Thatch,,1,1
+22369,63,name,ingoa,Name,,6,1
+23083,65,rope,taura,"Rope (Yda)",,9,1
+91483,66,"to tie up, fasten",hiitiki,Tie,,148,
+91484,66,"to tie up, fasten",nati,"Draw tight",,13,
+23797,67,"to sew",tui,"Sew; needle",,"13, 16",1
+90563,68,needle,tui,"Pollex 06: Tui. :Sew; needle.",,66,
+24868,70,"to shoot",hana,"Bow and arrow",,1,1
+90564,71,"to stab, pierce",paatia,"Pollex 06: Paatia. :Stab, thrust, inject; spear, javelin, lance (Sta).",,9,
+91722,72,"to hit",patu,"Kill pig or chicken (Bse); hit, beat",,7,1
+91723,72,"to hit",sasa,"Beat, thrash (Rmn)",,12,
+91724,72,"to hit",tuki,Beat,,8,
+25939,73,"to steal",kaiaa,Steal,,7,1
+90565,74,"to kill",taa,"Pollex 06: Taa. :Hit, beat, strike, kill (Sta).",,8,
+90566,75,"to die, be dead",mate,"Pollex 06: Mate. :Die, death.",,1,
+27010,76,"to live, be alive",ora,"Well, alive, satisfied (after eating)",,6,1
+27367,77,"to scratch",ra/raku/,"Scratch with fingernails or claws",,9,1
+92081,78,"to cut, hack",va/vasi/,"Break (e.g. a coconut) (Yda)",,13,
+92082,78,"to cut, hack",tarai,"Carve, chip, cut knots",,1,
+28081,79,stick/wood,raakau,"Stick, wood",,1,1
+28438,80,"to split",ŋa/haa,"To be broken, as, for example, a coconut shell (Rsn)",,"5, 97",1
+90567,81,sharp,keo,"Pollex 06: Keo. :Sharp point; sharp.",,83,
+90568,81,sharp,koi,"Pollex 06: Koi. :Sharp, keen; point (Sta).",,"14,66",
+90569,82,"dull, blunt",muu,"Pollex 06: Muu/muu. :Not sharp, blunt (of husking stick, scissors, knives, etc) (Sta).",,10,
+90570,83,"to work",anga,"Pollex 06: <Anga/anga. :Work, labour, job>.",,10,
+90571,84,"to plant",tanu,"Pollex 06: Tanu. :Plant; bury.",,2,
+30223,85,"to choose",hiri,"Select, choose",,1,1
+30580,86,"to grow",tupu,Grow,,1,1
+90572,87,"to swell",puku,"Pollex 06: Puku. :Swelling, tumour; swell, become swollen (Sta).",,24,
+31294,88,"to squeeze",ro/romi,"Press upon",,10,1
+92673,89,"to hold",kuku,"Squeeze, wring, grasp",,12,
+92674,89,"to hold",tango,"Hold, seize",,14,
+32008,90,"to dig",keri,Dig,,1,1
+32365,91,"to buy",hoko,"L from likely Rarotongan  w/nativisation",L,7,
+131888,92,"to open, uncover",sura,,,,
+33079,93,"to pound, beat",tuki,Beat,,2,1
+90573,94,"to throw",peehua,"Pollex 06: <Peehua. :Throw (Sta)>.",,12?,
+33793,95,"to fall",singa,"Fall, topple",,44,1
+34150,96,dog,kurii,Dog,,7,1
+34507,97,bird,manu,"Bird, animal",,1,1
+90574,98,egg,hua,"Pollex 06: Hua. :Egg, fruit; to bear fruit.",,5,
+90575,99,feather,huru,"Pollex 06: Huru/huru. :Hair, feather.",,1,
+90576,100,wing,pererau,"Pollex 06: Pererau. :Wing (Sta).",,9,
+35935,101,"to fly",rere,"Fly, swing",,11,1
+36292,102,rat,kire,"Polynesian Rat (Rattus exulans) (Cbl)",,12,1
+36649,103,meat/flesh,kiko,Flesh,,10,1
+104756,104,fat/grease,sunu,"Fat, grease",,12,
+3227974,104,fat/grease,ngako,,,14,
+37363,105,tail,siku,Tail,,13,1
+89863,107,"worm (earthworm)",toke,Worm,,7,
+89864,107,"worm (earthworm)",toke,Worm,,7,
+38434,108,louse,kutu,Louse,,1,1
+90577,109,mosquito,namu,"Pollex 06: Namu. :Mosquito.",,1,
+39505,111,fish,ika,"Fish n",,1,1
+105215,112,rotten,para,Ripe,,13,
+105216,112,rotten,popo,Decayed,,14,
+40219,113,branch,raaraa,"Small branch",,1,1
+40576,114,leaf,rau,Leaf,,1,1
+40933,115,root,aka,"Root; sprout",,2,1
+41290,116,flower,pua,"To bloom",,1,1
+41647,117,fruit,hua,"Bear fruit",,1,1
+42004,118,grass,mauku,"Grass, fern",,58,1
+42361,119,earth/soil,repo,Dirt,,11,1
+42718,120,stone,poohatu,"Stone, rock",,"1,19",1
+43075,121,sand,one,Sand,,1,1
+43432,122,water,vai,Water,,2,1
+43789,123,"to flow",tahe,"To flow",,10,1
+44146,124,sea,moana,"Ocean; blue",,10,1
+90578,127,woods/forest,voo,"Pollex 06: Voo. :Bush, forest (Sta).",,14,
+45574,128,sky,rangi,Sky,,1,1
+90579,129,moon,marama,"Pollex 06: Marama. :Moon, month.",,7,
+90580,130,star,hetuu,"Pollex 06: Hetuu. :Star (Sta).",,1,
+90581,131,cloud,oo,"Pollex 06: Oo. :Cloud, white cloud (Sta).",,12,
+47002,132,fog,kohu,"That which envelops",,"1, 47",1
+47359,133,rain,ua,Rain,,1,1
+47716,134,thunder,hatutiri,Thunder,,14,1
+48073,135,lightning,uira,Lightning,,2,1
+108061,136,wind,matangi,Wind,,"1,66",
+108062,136,wind,sau,"Wind (Cbl)",,10,
+48787,137,"to blow",aŋiaŋi,"Blow; light breeze",,8,1
+49144,138,warm,mahana(hana),Warm,,"1, 72",1
+122715,139,cold,makariri,Cold,,"1,52",
+122716,139,cold,anu,Cold,,8,
+49858,140,dry,masa,"Dry, calm",,11,1
+50215,141,wet,rari,Wet,,9,1
+122745,142,heavy,tai/mafa,Heavy,,"46,66",
+122746,142,heavy,taimaha,Heavy,,"46,66",
+50929,143,fire,ahi,Fire,,1,1
+51286,144,"to burn",tahu,"Burn, set on fire, firewood",,8,1
+90582,145,smoke,au,"Pollex 06: Au. :Smoke.",,2,
+90583,145,smoke,auahi,"Pollex 06: Auahi. :Smoke; fire, flare (Sta).",,2,
+90584,146,ash,rehu,"Pollex 06: Rehu. :Ash (Sta).",,67,
+123248,147,black,kere/kere,Black,,5,
+123249,147,black,uri,"Black, deep-blue",,7,
+52714,148,white,tea,White,,8,1
+53071,149,red,kura,Red,,13,1
+53428,150,yellow,rengarenga,Yellow,,10,1
+90585,151,green,matie,"Pollex 06: Matie. :Green (Sta).",,"1,11",
+123720,152,small,iti,"Small, small portion",,1,
+123721,152,small,poto,Short,,10,
+119319,153,big,rahi,Large,,12,
+119320,153,big,nuä,"Big (Lmt)",,11,
+123189,154,short,poto,Short,,9,
+123190,154,short,sakasaka,"Low in status and short in elevation (Rmn)",,10,
+55213,155,long,roa,"Long, tall",,"12,105",1
+90586,158,narrow,kisi,"Pollex 06: Kisi/kisi. :Narrow, skinny, thin (Sta).",,,
+56641,159,wide,raharaha,"Flat, broad, wide",,48,1
+56998,160,"painful, sick",mamae,"Pain in stomach",,10,1
+3227976,160,"painful, sick",maki,,,1,
+57355,161,"shy, ashamed",maa,"Ashamed, shy",,1,1
+57712,162,old,tahito,Old,,10,1
+58069,163,new,hoou,New,,1,1
+122922,164,good,reka,Pleasant,,14,1
+122923,164,good,maitaki,"Good, kind",,15,
+122924,164,good,suumaringa,"Beautiful, good, nice (Hnt)",,"16, 141",
+58783,165,"bad, evil",kino,"Bad (Lmt)",,9,1
+59140,166,"correct, true",tika,"Right; to agree",,9,1
+59497,167,night,poo,Night,,1,1
+59854,168,day,ao,"The world (Cbl)",,"1, 54",1
+90587,169,year,matahiti,"Pollex 06: Matahiti. :Year (Sta).",,7,
+60568,170,when?,aahea,When?,,5,1
+90588,171,"to hide",koopiri,"Pollex 06: <Koopiri. :To hide (Sta)>.",,,
+61282,172,"to climb",kake,"Climb; coitus",,32,1
+61639,173,at,i,At,,1,1
+62353,175,above,runga,Top,,9,1
+90591,177,this,teeia,"Pollex 06: Teeia. :This (this one with me, this one by me) (Sta).",,,
+63424,178,that,taua,"Retrospective article",,x,1
+63781,179,near,vai/tata/,Near,,9,1
+64138,180,far,momoo,"Far off, distant",,13,1
+64495,181,where?,hea,Where,,"3,35",1
+64852,182,I,au,"I, me",,"1,21",1
+65209,183,thou,koe,"You (Sing.)",,1,1
+66280,183,thou,koe,"You (Sing.)",,1,1
+65566,184,he/she,ia,"Third person singular personal pronoun",,1,1
+3227977,185,we,tatou,2PL,,"1,39",
+66994,188,what?,aha,What?,,1,1
+67351,189,who?,v/ai,Who?,,"1,19",1
+68065,191,all,katoa,All,,13,1
+68422,192,and,ma(a),Additive,,2,1
+69136,194,how?,peehea,How?,,11,1
+90589,195,"no, not",kaare,"L from Rarotongan",L,11,
+90590,195,"no, not",caré,"Pollex 06: Caré. :Not (Lmt).",,11,
+90592,196,"to count",ta/tau,"Pollex 06: Ta/tau. :Read, count (Sta).",,"8,80",
+70207,197,One,tahi,"One (Bge)",,41,1
+70564,198,Two,rua,Two,,1,1
+70921,199,Three,toru,Three,,1,1
+71278,200,Four,haa,Four,,"1,66",1
+83777,201,Five,rima,"Five, hand-arm.(Source: Pollex)",,1,
+90593,202,Six,ono,"Pollex 06: Ono. :Six (Sta).",,1,
+83679,203,Seven,hitu,"Seven.(Source: Pollex)",,1,
+90594,204,Eight,varu,"Pollex 06: Varu. :Eight",,3,
+83551,205,Nine,iva,"Nine.(Source: Pollex)",,"5,44,66",
+83442,206,Ten,ngahuru,"Ten.(Source: Pollex)",,"5,32",
+83364,209,"One Hundred",rau,"Hundred.(Source: Pollex)",,2,

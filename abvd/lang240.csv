@@ -1,0 +1,233 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+240,"Bolaang Mongondow","Blust, from: Dunnebier (1765)",mog,mong1342,"Dunnebier, W. (1765/1951). Bolaang Mongodowsch-Nederlandsch woordenboek. Met Nederlandsch-Bolaang Mongodowsch register. Den Haag: Nijhoff, 1951.",,"Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Gorontalo-Mongondow, Mongondowic","Simon Greenhill","Simon Greenhill","@book{163707,  address               = {'s Gravenhage},  pages                 = {635},  publisher             = {M. Nijhoff},  title                 = {Bolaang mongondowsch-nederlandsch woordenboek: met nederlandsch-bolaang mongondowsch register},  year                  = {1951},  bibtexkey             = {dunnebier_bolaang-mongondowsch1951},  class_loc             = {PL5291.Z9},  document_type         = {B},  hhtype                = {dictionary},  inlg                  = {Dutch [nld]},  inlg_code             = {nld},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 5291 .Z9 DUN 1951},  src                   = {hh, mpieva},  srctrickle            = {hh#d:Dunnebier:Bolaang-Mongondowsch, mpieva#Dunnebier1951BolaangM},  subject_headings      = {Bolaang Mongondow language–Dictionaries–Dutch, Dutch language–Dictionaries–Bolaang Mongondow, Bolaang Mongondow language–Dictionaries–Dutch – Dutch language–Dictionaries–Bolaang Mongondow},  author                = {Dunnebier, W.}}"
+latitude,longitude
+0.98180674948267798730,124.76422533253689550747
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+240,1,hand,lima,,,"1,64",1
+597,2,left,koloïgi,,,"1,79",1
+954,3,right,koloanan,,,"1,17",1
+1311,4,leg/foot,siol,,,,
+1668,5,"to walk",bayaʔ,,,,
+2025,6,road/path,dalan,,,1,1
+2382,7,"to come",[m]agiʔ,,,1,1
+2739,8,"to turn",liu,,,2,1
+3096,9,"to swim",laŋui,,,1,1
+71848,10,dirty,mo-yomuʔ,,,32,
+71849,10,dirty,mo-romuʔ,,,32,
+71918,11,dust,ginabui,,,,?
+71919,11,dust,lobud,,,,?
+71977,12,skin,kulit,,,1,1
+71978,12,skin,kuliʔ,,,1,1
+4524,13,back,likud,,,1,1
+4881,14,belly,sian,,,1,1
+72104,15,bone,tulan,,,1,1
+72105,15,bone,tulaŋ,,,1,1
+5595,16,intestines,kompoŋ,,,,
+5952,17,liver,sidalom,"(Cf. ILK)",,,
+6309,18,breast,[t]eteʔ,,,6,
+6666,19,shoulder,obaga,,,1,1
+7023,20,"to know, be knowledgeable",mo-taau,,,1,1
+7380,21,"to think",mog-ontob,,,,
+7737,22,"to fear",mo-ondok,,,32,
+8094,23,blood,duguʔ,,,16,
+8451,24,head,ulu,,,1,1
+8808,25,neck,sindun,,,,
+9165,26,hair,buok,,,"1,65",1
+72703,27,nose,ŋiuŋ,,,"1,27",1
+72704,27,nose,ŋiruŋ,,,"1,27",1
+9879,28,"to breathe",mo-gina,,,"1,70",?
+10236,29,"to sniff, smell",toŋut,,,,
+10593,30,mouth,bibig,,,32,
+72928,31,tooth,bagaŋ,,,53,1
+72929,31,tooth,ŋipon,,,"1,48",1
+11307,32,tongue,dilaʔ,,,4,1
+11664,33,"to laugh",kosiŋ,,,41,
+12021,34,"to cry",moŋ-ombal,,,,
+12378,35,"to vomit",moto-tukaʔ,,,,
+12735,36,"to spit",mon-duyaʔ,,,"1,30",1?
+13092,37,"to eat",kaan,,,1,1
+13449,38,"to chew",topaʔ,,,,
+13806,39,"to cook",mo-duŋuʔ,,,,
+14163,40,"to drink",moŋ-inum,,,1,1
+14520,41,"to bite",baŋit,,,,
+14877,42,"to suck",t-um-otop,,,,1
+15234,43,ear,boŋolan,,,13,
+15591,44,"to hear",moko-doŋog,,,1,1
+15948,45,eye,mata,,,1,1
+16305,46,"to see",moŋ-ontoŋ,,,25,
+16662,47,"to yawn",moŋ-oŋ-uab,,,19,1
+17019,48,"to sleep",mo-siug,,,,1
+17376,49,"to lie down",siug,,,,
+17733,50,"to dream",t-um-ogo-ïnop,,,30,
+18090,51,"to sit",lituʔ,,,44,
+18447,52,"to stand",sindog,,,20,
+18804,53,"person/human being",intau,,,"1,23",1
+19161,54,man/male,lolaki,,,"2,99",1
+19518,55,woman/female,bobai,,,"1,105",1
+19875,56,child,adiʔ,"younger sibling",,,
+20232,57,husband,buloi,,,,
+20589,58,wife,buloi,,,,
+20946,59,mother,inaʔ,,,"1,76",1
+21303,60,father,amaʔ,,,"1,18",1
+21660,61,house,baloi,,,14,
+22017,62,thatch/roof,atop,,,1,1
+22374,63,name,taŋoi,,,13,
+22731,64,"to say",uman,,,58,
+74915,65,rope,alit,,,,
+74916,65,rope,ulaŋ,,,42,
+23445,66,"to tie up, fasten",mog-asaŋ,,,,
+23802,67,"to sew",mog-dagum,,,,
+24159,68,needle,do-dagum,,,1,1
+24516,69,"to hunt",mog-alow,,,1,
+24873,70,"to shoot",mo-miot,,,,
+25230,71,"to stab, pierce",tumbal,,,,
+25587,72,"to hit",paŋkul,,,,
+25944,73,"to steal",mo-nakow,,,1,1
+26301,74,"to kill",patoi,,,2,?
+26658,75,"to die, be dead",matoi,,,1,1
+27015,76,"to live, be alive",mo-biag,,,15,
+27372,77,"to scratch",mo-kukud,,,23,
+27729,78,"to cut, hack",mo-nagaʔ,,,,1
+28086,79,stick/wood,kayu,,,1,1
+28443,80,"to split",botak,,,,
+28800,81,sharp,ma-lanit,,,43,1
+29157,82,"dull, blunt",barotag,,,,
+29514,83,"to work",mo-gamal,,,,
+29871,84,"to plant",mo-mula,,,1,1
+30228,85,"to choose",mo-miliʔ,,,1,1
+30585,86,"to grow",mo-biag,,,,
+30942,87,"to swell",mo-bo-bagaʔ,,,19,1
+31299,88,"to squeeze",mo-gorod,,,,
+31656,89,"to hold",domok,,,,
+32013,90,"to dig",mo-kali,,,1,1
+32370,91,"to buy",mo-talui,,,"20,30",
+76657,92,"to open, uncover",bukaʔ,,,1,1
+76658,92,"to open, uncover",bukat,,,"1,65",1
+33084,93,"to pound, beat",mo-dodok,,,21,
+33441,94,"to throw",arab,,,,
+33798,95,"to fall",duduʔ,,,,
+34155,96,dog,uŋkuʔ,,,20,
+34512,97,bird,lagapan,,,,
+34869,98,egg,natu,,,17,
+35226,99,feather,bubul,,,"1,67",
+35583,100,wing,kolikip,,,,
+35940,101,"to fly",l-um-ayug,,,43,
+36297,102,rat,boyod,,,,
+36654,103,meat/flesh,tapuʔ,,,29,
+37011,104,fat/grease,loŋoʔ,,,,
+37368,105,tail,iput,,,30,
+37725,106,snake,ulag,,,2,1
+38082,107,"worm (earthworm)",oluasi,,,1,1
+38439,108,louse,kutu,,,1,1
+38796,109,mosquito,yoŋit,,,22,
+39153,110,spider,tontolawaʔ,,,1,1
+39510,111,fish,toyaʔ,,,,
+77692,112,rotten,mo-buyuk,,,"1,102",1?
+77693,112,rotten,mo-buruk,,,"1,102",1?
+40224,113,branch,taŋa,,,2,
+40581,114,leaf,daun,,,1,1
+40938,115,root,uakat,,,"2,54",1
+41295,116,flower,buŋan,"[-N cp Aceh]",,"1,61",1
+41652,117,fruit,buŋai,,,9,
+42009,118,grass,bonok,,,,
+42366,119,earth/soil,butaʔ,,,"25,27",
+42723,120,stone,batu,,,1,1
+43080,121,sand,buŋaion,,,23?,
+43437,122,water,tubig,,,14,
+43794,123,"to flow",mo-ïlig,,,27,1
+44151,124,sea,dagat,,,25,
+44508,125,salt,simuton,,,17,
+44865,126,lake,danow,,,1,1
+45222,127,woods/forest,kayuon,,,2,
+45579,128,sky,laŋit,,,1,1
+45936,129,moon,bulan,,,1,1
+46293,130,star,tundi,,,"75,76",
+46650,131,cloud,lokutoi,,,,
+47007,132,fog,tapuot,,,28,
+47364,133,rain,uyan,,,1,1
+47721,134,thunder,gotup,,,,
+48078,135,lightning,kilat,,,1,1
+48435,136,wind,tompot,,,,
+48792,137,"to blow",mog-irup,"(<+iyup by back-formation)",,1,1
+49149,138,warm,mo-patuʔ,,,"26,106",
+49506,139,cold,mo-belek,,,,
+49863,140,dry,mo-bokag,"possibly related to root *kaR?",,,
+50220,141,wet,mo-bobat,,,"1,87",
+50577,142,heavy,mo-bogat,,,1,1
+50934,143,fire,tuluʔ,,,12,
+51291,144,"to burn",dapuŋ,,,,
+51648,145,smoke,oyok,,,,
+52005,146,ash,abu,,,1,1
+79636,147,black,mo-yondiʔ,,,36,
+79637,147,black,mo-rondiʔ,,,36,
+52719,148,white,mo-pusiʔ,,,1,1
+79743,149,red,mo-puya,,,28,
+79744,149,red,mo-pura,,,28,
+79789,150,yellow,mo-dayag,,,38,
+79790,150,yellow,mo-darag,,,38,
+53790,151,green,mo-lunow,,,33,
+54147,152,small,mo-ïntok,,,49,
+54504,153,big,mo-loben,,,,
+54861,154,short,mo-kogoŋ,,,,
+55218,155,long,mo-laŋgoʔ,,,22,
+55575,156,thin,mo-nipit,,,1,1
+55932,157,thick,mo-bunod,,,,
+56289,158,narrow,mo-rupit,,,,1?
+56646,159,wide,mo-ruŋag,,,,
+57003,160,"painful, sick",mo-takit,,,1,1
+57360,161,"shy, ashamed",mo-baŋkal,,,,
+57717,162,old,mo-guraŋ,,,21,
+58074,163,new,mo-bagu,,,"1,54",1
+80623,164,good,mo-pia,,,1,1
+80624,164,good,mo-pira,,,1,1
+80691,165,"bad, evil",mo-yaat,,,1,1
+80692,165,"bad, evil",mo-raat,,,1,1
+59145,166,"correct, true",to-tuu,,,6,1
+59502,167,night,gobii,,,"21,90",
+59859,168,day,siŋgai,,,,
+60216,169,year,taoŋ,,L,"1,76",
+60573,170,when?,toonu,,,"10,20",
+60930,171,"to hide",mo-muni,,,1,1
+61287,172,"to climb",mo-ponik,,,"1,62",1
+61644,173,at,ko,,,15,
+62001,174,"in, inside",ko,,,,
+62358,175,above,"o monik",,,,
+62715,176,below,"o monag",,,,
+63072,177,this,naa,,,8,
+63429,178,that,tua,,,16,
+63786,179,near,ampil,,,25,
+81657,180,far,mo-yayuʔ,"(Cf. TAG)",,"1,82",
+81658,180,far,mo-raruʔ,"(Cf. TAG)",,,
+64500,181,where?,onda,,,"1,16",
+64857,182,I,akuoi,,,"1,29",
+65214,183,thou,ikow,,,1,1
+65571,184,he/she,sia,,L,"1,31",
+119250,185,we,kita,,,"1,50",1
+119251,185,we,kami,,,"2,52",
+66285,186,you,moïkow,,,21,
+66642,187,they,mosia,,,51,1
+82255,188,what?,onu,,,"2,65",
+82256,188,what?,onda,,,2?,
+67356,189,who?,ine,,,"14,46",
+67713,190,other,ibanya,,,12,
+68070,191,all,komintan,,,,
+82539,192,and,bo,,,27,
+82540,192,and,yo,,,27,
+68784,193,if,a|ka,,,1,1?
+69141,194,how?,naanda,,,"29,80",
+69498,195,"no, not",diaʔ,,,2,1
+69855,196,"to count",moŋ-iap,,,2,
+70212,197,One,intaʔ,,,,
+82919,198,Two,dua,,,1,
+82920,198,Two,deyowa,,,"1,23",
+134957,198,Two,deewa,,,"1,23",
+70926,199,Three,tolu,,,1,1
+71283,200,Four,opat,,,1,1
+135219,201,Five,lima,,,1,
+165238,202,Six,onom,,,1,
+165237,203,Seven,pitu,,,1,
+165236,204,Eight,wolu,,,3,
+173312,205,Nine,šìòū,,,"5,34",
+165235,206,Ten,mopulu,,,"5,40",
+165234,207,Twenty,"dewa mopulu",,,"3,6",
+254246,208,Fifty,"lima nopuluʔ",,,"1,2",

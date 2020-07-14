@@ -1,0 +1,255 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+102,Nggela,"Blust, From Fox",nlg,gela1263,"Fox, C.E. (1955). A dictionary of the Nggela language (Florida, British Solomon Islands). Unity Press, Auckland.some data from Ivens via Pawley",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Southeast Solomonic, Gela-Guadalcanal, Gela","Simon Greenhill","Simon Greenhill","@book{68998,  address    = {Auckland},  pages      = {271},  publisher  = {Unity Press},  title      = {A dictionary of the Nggela language (Florida, British Solomon Islands)},  year       = {1955},  bibtexkey  = {fox_nggela-florida1955},  hhtype     = {dictionary},  inlg       = {English [eng]},  inlg_code  = {eng},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#d:Fox:Nggela},  author     = {Fox, Charles E.}}"
+latitude,longitude
+-9.08000000000000007105,160.25000000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+102,1,hand,lima,,,1,1
+459,2,left,mauli,,,"1,59",1
+816,3,right,mandolo,,,9,
+1173,4,leg/foot,marevo,,,,
+71544,5,"to walk",sakusaku,,,,1
+71545,5,"to walk",vano,,,2,1
+1887,6,road/path,hala[utu],,,1,1
+2244,7,"to come",mai,,,1,1
+2601,8,"to turn",liu,,,2,1
+2958,9,"to swim",olo,,,74,
+3315,10,dirty,meto-[na],,,2,
+3672,11,dust,"pugu ni pari",,,,
+4029,12,skin,guiguli,"irregular *k > g",,1,1
+4386,13,back,muri,,,3,
+4743,14,belly,"mboro ni kutu",,,14,
+5100,15,bone,huli,,,52,
+5457,16,intestines,"logulogu ni kutu",,,,
+5814,17,liver,ate,,,1,1
+6171,18,breast,susu,,,1,1
+6528,19,shoulder,vala,,,1,1
+72296,20,"to know, be knowledgeable",gila,"irregular *k > g",,18,
+72297,20,"to know, be knowledgeable",manaha,,,,
+72363,21,"to think",ahe,,,,
+72364,21,"to think",ganagana,,,14,
+7599,22,"to fear",matagu,,,1,1
+7956,23,blood,gambu,,,5,
+8313,24,head,ulu,,,1,1
+8670,25,neck,lua,,,18,
+9027,26,hair,vuŋa,,,56,
+9384,27,nose,ihu,,,1,1
+9741,28,"to breathe",aheahe,,,16,
+10098,29,"to sniff, smell",urum-i,,,46,
+10455,30,mouth,maŋa,,,13,
+10812,31,tooth,livo,,,"1,35",
+11169,32,tongue,lapi,,,21,
+11526,33,"to laugh",kia,,,14,
+11883,34,"to cry",taŋi,,,1,1
+12240,35,"to vomit",muta,,,1,1
+12597,36,"to spit",aŋusu,,,"14, 83",
+12954,37,"to eat",gani,,,1,1
+13311,38,"to chew",ndami,,,34,
+73377,39,"to cook",mbiti,,,,
+73378,39,"to cook",nduke,,,,
+14025,40,"to drink",inu,,,1,1
+14382,41,"to bite",galat-i,,,1,1
+14739,42,"to suck",sopi,,,"1, 82",1
+15096,43,ear,kuli,,,6,
+15453,44,"to hear",roŋo,,,1,1
+15810,45,eye,mata,,,1,1
+16167,46,"to see",vaevane,,,,
+16524,47,"to yawn",maova,"irregular retention of POc word-final *p with addition of final vowel; possible NWSols loan",,19,1?
+16881,48,"to sleep",maturu,,,1,1
+17238,49,"to lie down",eno,,,1,1
+17595,50,"to dream",maturumbole,,,"11, 10",
+17952,51,"to sit",sopou,,,19,
+18309,52,"to stand",tuguru,"(+q>g cf #130); irregular *q > g",,2,?
+18666,53,"person/human being",tinoni,,,10,
+19023,54,man/male,mane,,,1,1
+19380,55,woman/female,vaivine,,,"1,47",1
+74356,56,child,kama,,,,
+74357,56,child,ndale,,,28,
+20094,57,husband,tau,,,18,
+20451,58,wife,tau,,,12,
+20808,59,mother,tina,,,1,1
+21165,60,father,tama,,,1,1
+21522,61,house,vale,,,14,
+21879,62,thatch/roof,ato,,,1,1
+22236,63,name,aha,,,"1,18",1
+22593,64,"to say",mbosa,,,63,
+22950,65,rope,tali,,,1,1
+74981,66,"to tie up, fasten",toŋ̰o,,,61,
+74982,66,"to tie up, fasten",piti,,,12,
+74983,66,"to tie up, fasten",ori,,,,
+74984,66,"to tie up, fasten",osi,,,,
+74985,66,"to tie up, fasten",viviri,,,18,
+23664,67,"to sew",suki,,,17,
+75191,69,"to hunt",hili,,,12,1
+75192,69,"to hunt",volovolo,,,,1
+24735,70,"to shoot",vana,,,1,
+75307,71,"to stab, pierce",tandaka,,,,
+75308,71,"to stab, pierce",tuku,,,63,
+75377,72,"to hit",kago,,,,
+75378,72,"to hit",panda,,,,
+75379,72,"to hit",pomi,,,,
+25806,73,"to steal",ŋgito,,,46,
+26163,74,"to kill",mate-a,,,2,1
+26520,75,"to die, be dead",mate,,,1,1
+26877,76,"to live, be alive",mauri,,,"1, 76",1
+27234,77,"to scratch",garus-i,,,44,
+27591,78,"to cut, hack",kikini,,,,1
+27948,79,stick/wood,gai,,,1,
+75863,80,"to split",mindi,,,,
+75864,80,"to split",piha,,,,
+75865,80,"to split",tahari,,,,
+75949,81,sharp,maŋgau,,,,1
+75950,81,sharp,vaŋaga,,,"14, 20",1
+75983,82,"dull, blunt",kupikupi,,,,
+75984,82,"dull, blunt",tupu,,,,
+29376,83,"to work",lutu,,,,
+76106,84,"to plant",sumba,,,50,1
+76107,84,"to plant",vande,,,,1
+30090,85,"to choose",vili,,,1,
+76218,86,"to grow",totolo,,,,
+76219,86,"to grow",va-sule,,,,
+76286,87,"to swell",tumbu,,,12,1
+76287,87,"to swell",poupotu,,,9,1
+76288,87,"to swell",sere,,,29,1
+92602,88,"to squeeze",luhi,"irregular *o > u",,19,
+92603,88,"to squeeze",posi,,,18,
+31518,89,"to hold","[tae] tambe",,,,1
+31875,90,"to dig",geli,,,1,1
+32232,91,"to buy",voli,,,1,1
+102870,92,"to open, uncover",haŋa,,,40,1
+102871,92,"to open, uncover",vuke,,,1,
+32946,93,"to pound, beat",tutu,,,20,
+76734,94,"to throw",peta,,,,
+76735,94,"to throw",vuna,,,,
+33660,95,"to fall",kutu,,,17,
+34017,96,dog,kau,,,17,1
+34374,97,bird,manu,,,1,1
+34731,98,egg,tolu,,,1,1
+35088,99,feather,vuvulu,,,1,
+35445,100,wing,gata,,,60,
+35802,101,"to fly",lovo,,,1,1
+36159,102,rat,kuhi,,,"3,64",
+36516,103,meat/flesh,vinahi,,,17,
+36873,104,fat/grease,mbiroso,,,,
+37230,105,tail,igu,,,1,1
+37587,106,snake,umata,,,12,
+37944,107,"worm (earthworm)",kendu,,,31,
+38301,108,louse,gutu,,,1,1
+38658,109,mosquito,namu,,,1,1
+39015,110,spider,kakavere,,,44,
+39372,111,fish,iga,,,1,1
+77656,112,rotten,luku,,,,
+77657,112,rotten,mboto,,,"9, 70",
+40086,113,branch,oto,,,5,
+40443,114,leaf,rau,,,1,1
+105320,115,root,lala,"irregular *i > a",,16,1
+105322,115,root,oga,,,2,
+105321,115,root,lali,,,16,
+77889,116,flower,haŋga,,,12,
+77890,116,flower,vua,,,,
+41514,117,fruit,vua,,,1,1
+41871,118,grass,gaogamboŋa,,,,
+42228,119,earth/soil,pari,,,45,
+42585,120,stone,vatu,,,1,1
+42942,121,sand,sagalea,,,,
+43299,122,water,mbeti,,,6,
+78261,123,"to flow",lua,,,82,
+78262,123,"to flow",tave,,,10,
+44013,124,sea,tahi,,,1,1
+44370,125,salt,tahi,,,20,
+44727,126,lake,kolo,,,11,
+45084,127,woods/forest,ao,,,,
+45441,128,sky,parako,,,34,
+45798,129,moon,vula,,,1,1
+46155,130,star,veitugu,"+q>g cf #52",,"1, 50",?
+46512,131,cloud,parako,,,74,
+46869,132,fog,ulapa,,,,
+47226,133,rain,uha,,,1,1
+47583,134,thunder,viha,,,19,
+47940,135,lightning,viti,,,10,
+48297,136,wind,guri,,,12,
+78991,137,"to blow",lovu,,,,
+78992,137,"to blow",rua,,,,
+79080,138,warm,raraŋa,,,46,
+79081,138,warm,uviuvi,,,,
+49368,139,cold,mbihi,,,46,
+79224,140,dry,mamaha,,,11,
+79225,140,dry,papara,,,,
+50082,141,wet,pondi,,,,
+79350,142,heavy,mava,,,46,
+79351,142,heavy,mbohe,,,70,
+50796,143,fire,lake,,,6,
+51153,144,"to burn",revo,,,,
+51510,145,smoke,ahu,,,2,1
+51867,146,ash,ravu,,,67,
+52224,147,black,mbili,,,,
+52581,148,white,pura,,,3,1
+52938,149,red,sisi,,,19,
+53295,150,yellow,aŋoaŋo,,,9,
+79822,151,green,mauri,,,,
+79823,151,green,mbora,,,,
+54009,152,small,pile,,,,
+54366,153,big,vule,,,54,
+54723,154,short,mborimbori,"short (fat/stout), Correction: Andras Rajki",,,
+80152,155,long,ndaro,,,,
+80153,155,long,rou[lua],,,,
+55437,156,thin,mandeve,,,"1,67",?
+80211,157,thick,humbe,,,,
+80212,157,thick,paku,,,36,
+80213,157,thick,mandolu,"irregular *t > d",,3,
+56151,158,narrow,kapi,"irregular *a > o",,1,1
+56508,159,wide,taha,,,,1
+56865,160,"painful, sick",vahagi,"irregular *m > v",,"1, 67",1
+57222,161,"shy, ashamed",maa,,,1,
+80484,162,old,kama,"Correction: Andras Rajki",,,
+80485,162,old,hau,"Correction: Andras Rajki",,,
+80530,163,new,taŋgiha,,,,
+80531,163,new,vaolu,,,1,
+58293,164,good,uto,,,,1
+58650,165,"bad, evil",ndika,,,14,1
+59007,166,"correct, true",maemane,,,14,1
+59364,167,night,mboŋi,,,1,
+59721,168,day,ndani,,,6,
+60078,169,year,niulu,"Correction: Andras Rajki",,50,1
+60435,170,when?,ŋiha,,,"1,24",
+60792,171,"to hide","tuguru ravi",,,,
+61149,172,"to climb",sei,,,,
+61506,173,at,i,,,1,1
+61863,174,"in, inside",i-loka,,,,
+62220,175,above,vuvuŋa,,,,?
+89905,176,below,rurugu,,,42,1
+89906,176,below,sara,,,10,
+62934,177,this,eni,,,1,
+63291,178,that,keri,,,,1
+63648,179,near,garaŋi,,,"1, 75",
+64005,180,far,hau,,,1,1
+64362,181,where?,vei,,,3,1
+64719,182,I,i-nau,,,"1, 22",1
+65076,183,thou,i-goe,,,1,1
+65433,184,he/she,ga-ia,,,1,1
+111939,185,we,gita,,,1,1
+111940,185,we,gami,,,2,
+66147,186,you,gamu,,,1,
+82139,187,they,aga,,,,
+82140,187,they,ira,,,"1, 70",
+66861,188,what?,hava,,,1,1
+67218,189,who?,hei,,,1,1
+67575,190,other,sakai,,,,
+67932,191,all,undolu,,,15,1?
+68289,192,and,ma,,,2,
+146943,193,if,ŋge...ke,if,,,
+69003,194,how?,gagua,,,,1
+82710,195,"no, not",mua,"irregular *o > u",,73,1
+82711,195,"no, not",taho,,,,1
+69717,196,"to count",indu,,,46,
+70074,197,One,sakai,,,8,
+70431,198,Two,rua,,,1,
+70788,199,Three,tolu,,,1,
+71145,200,Four,vati,,,"1,65",
+83763,201,Five,lima,"Five, hand-arm.(Source: Pollex)",,1,
+146944,202,Six,ɔnɔ,six,,1,
+83665,203,Seven,vitu,"Seven.(Source: Pollex)",,1,
+90481,204,Eight,alu,"Pollex 06: Alu. :Eight.",,3,
+146945,205,Nine,hiua,nine,,5,
+146946,206,Ten,haŋavulu,ten,,5,
+146947,209,"One Hundred",haŋalatu,"one hundred",,"4, 38",
+146948,210,"One Thousand","sakai natɔɣa","one thousand",,27,

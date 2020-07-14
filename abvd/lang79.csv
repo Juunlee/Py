@@ -1,0 +1,209 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+79,Mussau,"Blust (1984)",emi,muss1246,"Blust, R. (1984). A Mussau vocabulary with phonological notes. Papers in New Guinea Linguistics 23, 159-208.",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, St. Matthias","Simon Greenhill","Simon Greenhill","@incollection{92079,  address               = {Canberra},  booktitle             = {Papers in New Guinea Linguistics 23},  pages                 = {159-208},  publisher             = {Research School of Pacific and Asian Studies, Australian National University},  series                = {Pacific Linguistics: Series A},  title                 = {A Mussau Vocabulary, with Phonological Notes},  volume                = {69},  year                  = {1984},  bibtexkey             = {blust_mussau-phonological1984},  document_type         = {CH},  fn                    = {papua\blust_mussau1984pages.pdf},  hhtype                = {wordlist},  inlg                  = {English [eng]},  inlg_code             = {eng},  macro_area            = {Papua},  mpi_eva_library_shelf = {bound with PL 6601 PAP NEW - 23},  src                   = {hh, mpieva},  srctrickle            = {hh#w:Blust:Mussau, mpieva#Blust1984AMussauv},  author                = {Blust, Robert}}"
+latitude,longitude
+-1.43905766080775099347,149.62280273437500000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+79,1,hand,nima-,,,"1,66",1
+436,2,left,oaise,,,15,
+793,3,right,muenna,,,"1,29",?
+1150,4,leg/foot,keke-,,,1,
+1507,5,"to walk",kasukasu,,,,
+1864,6,road/path,salana,,,1,1
+2221,7,"to come","kasu mai",,,1,1
+2578,8,"to turn",kiriola,,,,
+2935,9,"to swim",asaasa,,,19?,
+3292,10,dirty,kulukuluta-na,,,,
+4006,12,skin,biliki,"skin, body",,103,
+4363,13,back,bili,,,52,
+4720,14,belly,koba-[koβa],,,2,
+5077,15,bone,riu,,,2,
+5434,16,intestines,tine,,,1,1
+5791,17,liver,ate|a,,,1,1?
+6148,18,breast,susu,,,1,1
+6505,19,shoulder,pappa,,,,
+6862,20,"to know, be knowledgeable",alomasaaŋa,,,,
+7219,21,"to think",ninanna,,,16,
+7576,22,"to fear",matautu,,,1,1
+7933,23,blood,rae,,,1,1
+8290,24,head,uru,,,1,
+8647,25,neck,alo,,,122,
+9004,26,hair,uŋuru,"= u-ŋ-uru",,41,
+9361,27,nose,ŋusu,,,27,
+9718,28,"to breathe",inoa-na,,,1,1
+10075,29,"to sniff, smell",ŋusu,,,64,
+10432,30,mouth,pa,,,1,?
+10789,31,tooth,ŋaluŋalu,,,10,
+11146,32,tongue,"ramuramuti pa",,,,
+11503,33,"to laugh","agi akaŋkaya",,,11,
+11860,34,"to cry","agi aŋaŋŋala",,,5,?
+12217,35,"to vomit",lueki,,,8,
+12574,36,"to spit",kanusu,,z,"14, 90",
+12931,37,"to eat",anamanama,,,46,
+13288,38,"to chew",rame,,,34,
+13645,39,"to cook",tuutuu,,,7,
+14002,40,"to drink",ropi,,,22,
+14359,41,"to bite",samusamu-a,,,,?
+14716,42,"to suck","e mumumu",,,11,
+15073,43,ear,taliŋa,,,1,1
+15430,44,"to hear",noŋonoŋo,,,"1, 37",1?
+15787,45,eye,mata,,,1,1
+16144,46,"to see",tara,,,15,
+16501,47,"to yawn",mamma,,,19,
+16858,48,"to sleep",asekanue,,,,
+17215,49,"to lie down","aso sio",,,,
+17572,50,"to dream","e asoasopoi",,,,
+17929,51,"to sit",toka,,,80,
+18286,52,"to stand",tiŋina,,,102,
+18643,53,"person/human being",taumata,,,"1,66",1
+19000,54,man/male,taita,,,14,
+19357,55,woman/female,bause,,,,
+19714,56,child,natu,,,5,
+20071,57,husband,taita,(=54),,,
+20428,58,wife,bause,(=55),,,
+20785,59,mother,kina,,,"1,27",1
+21142,60,father,tama,,,1,1
+21499,61,house,ale,,,14,
+21856,62,thatch/roof,"ai pake ŋ...-ale",,,,
+22213,63,name,arari,,,"1,18",
+74780,64,"to say",poa,,,"13, 93",
+74781,64,"to say",auli-a,,,,
+22927,65,rope,oasa,,,27,
+74975,66,"to tie up, fasten",iri-la,,,31,
+74976,66,"to tie up, fasten",nagi-ela,,,,
+23641,67,"to sew",suli-ela,(<+susuR-i?),,15,
+23998,68,needle,raum,"(raumu?), (for +z/Z) r cf #15",,1,1?
+24355,69,"to hunt",ameti-ela,,,,
+75242,70,"to shoot",soai-ela,,,7,
+75243,70,"to shoot",soasoa-la,,,7,
+25069,71,"to stab, pierce",soai-ela,,,67,
+25426,72,"to hit",tumari-ela,,,,
+25783,73,"to steal",ainao,,,"1,32",1?
+26140,74,"to kill","ubi e mate ala",,,"45,2",
+26497,75,"to die, be dead",mate,,,1,1
+26854,76,"to live, be alive",ma|maul|ue,,,"1, 76",?
+27211,77,"to scratch",kalokalo-a,,,1,1
+75693,78,"to cut, hack",isoi-ela,,,,
+75694,78,"to cut, hack",toai-e,,,27,
+27925,79,stick/wood,ai,,,1,1
+28282,80,"to split",sairi-el,,,,
+75947,81,sharp,matakereŋa-na,,,36,
+75948,81,sharp,raramuka-na,,,,
+28996,82,"dull, blunt",tumtumŋa-na,,,,
+29353,83,"to work",uuŋu,,,,
+29710,84,"to plant",pasapasa,,,12,
+30424,86,"to grow",piipinosa,,,,
+30781,87,"to swell",roŋo,,,,
+31138,88,"to squeeze",poposoa,,,18,1
+31495,89,"to hold",posoposo,,,,
+31852,90,"to dig",kaikai,,,1,1
+33280,94,"to throw",belu-e,,,38,
+33637,95,"to fall",katuu,,,17,
+33994,96,dog,paua,,,37,
+34351,97,bird,gila,,,,
+34708,98,egg,otolu,,,1,1
+35065,99,feather,"uu gile",,,"7,55",
+35422,100,wing,"kaikai gila",,,,
+35779,101,"to fly","e looloo","(for +R)",,1,1
+36136,102,rat,rariao,,,,
+36493,103,meat/flesh,malatau,,,,
+36850,104,fat/grease,iina,,,,
+37207,105,tail,wi,(<M),,1,1?
+37564,106,snake,otuana,,,,
+37921,107,"worm (earthworm)",toliti,,,,
+38278,108,louse,lisa,,,x20,
+38635,109,mosquito,noko,,,,
+38992,110,spider,batibati,,,,
+39349,111,fish,koko,,,,
+39706,112,rotten,mauu,"('rotten, stink')",,1,?
+40063,113,branch,"laa ŋ-ai",,,1,1
+40420,114,leaf,"uru n-ai",,,40,
+40777,115,root,"oa ŋ-ai",,,2,1
+41134,116,flower,"pua ŋ-ai",,,1,
+41491,117,fruit,"ue ŋ-ai",,,1,1?
+41848,118,grass,rarrasa,Loan?,,,
+42205,119,earth/soil,kosa,,,,
+42562,120,stone,atu,,,1,1
+42919,121,sand,rira,,,47,
+43276,122,water,ateio,,,,
+78315,124,sea,laman,,,14,
+78316,124,sea,malioŋe,(deep),,,
+44347,125,salt,uela,,,,
+78427,126,lake,ateio,,,,
+78428,126,lake,talia,,,,
+45061,127,woods/forest,tubui,,,,
+45418,128,sky,"e lo marase",,,,
+45775,129,moon,ulana,,,1,1
+46132,130,star,katoto,,,31,
+46489,131,cloud,karaane,,,,
+47203,133,rain,baoo,"cf *ba(p)o cloud",,58,
+47560,134,thunder,palapalaŋa,,,15,
+47917,135,lightning,rabaraba-ia,,,9,
+48274,136,wind,kuukuu,,,47,
+48631,137,"to blow",kuukuu,"(of wind)",,43,
+48988,138,warm,"a anasa",,,1,1
+49345,139,cold,makariŋe,,,"1,53",1?
+49702,140,dry,malaŋo-na,,,1,1
+50059,141,wet,manu,,,,
+50416,142,heavy,mamaata-na,,,"46,35",
+50773,143,fire,kuraa,,,,
+51130,144,"to burn",sulu-ia,,,4,
+51487,145,smoke,asu,,,2,1
+51844,146,ash,au,,,1?,1
+52201,147,black,beroberoŋa-na,,,,
+52558,148,white,usouso-ana,,,34,
+52915,149,red,raerae-ana,,,25,
+53272,150,yellow,talaki-ena,,,,
+53986,152,small,pisike,,,,
+54343,153,big,namuu,,,,
+54700,154,short,tukuna,,,66,
+55057,155,long,aluse,,,,
+55414,156,thin,malallake,,,,
+56128,158,narrow,pisike,,,,
+56485,159,wide,namuu,,,,
+56842,160,"painful, sick",palata,,,,
+57556,162,old,pokane,,,,
+57913,163,new,ou-na,,,1,1?
+58270,164,good,masina,,,,
+58627,165,"bad, evil",sesa,,,,
+58984,166,"correct, true",gulugulu-ena,,,,
+59341,167,night,boŋ|a,,,1,1
+80865,168,day,ella,,,,1
+80866,168,day,laŋ|a,,,6,1
+60055,169,year,ninamanama,,,,
+60412,170,when?,elobisaa,,,1?,
+61126,172,"to climb",sae,,,2,
+81187,174,"in, inside",tale,,,,1
+81188,174,"in, inside",lo,,,"1,72",1
+62911,177,this,"atiulu toko",,,,
+81468,178,that,"atiulu too","ai teke (far)",,,
+81469,178,that,"ai teke","ai teke (far)",,,
+63625,179,near,kalakalaŋi-na,,,"1,75",
+63982,180,far,masau,,,"1,6",1
+64339,181,where?,ea,,,"3,35",
+64696,182,I,agi,,,1,1?
+65053,183,thou,io,,,1,1
+65410,184,he/she,ia,,,1,
+119453,185,we,ita,,,1,1
+119454,185,we,ami,,,2,
+66481,187,they,ila-,,,1,1
+66838,188,what?,saa,,,1,1
+67195,189,who?,se,,,1,1
+67909,191,all,akapa,,,,
+68980,194,how?,talesaa,,,,
+82777,196,"to count",ioi,,,,
+82778,196,"to count",ira,,,,
+70051,197,One,s|esa,,,32,1?
+70408,198,Two,lua,,,1,1
+70765,199,Three,tolu,,,1,1
+71122,200,Four,ata,,,1,1
+173332,201,Five,lima,,,1,
+173331,202,Six,nomo,,,1,
+173330,203,Seven,itu,,,1,
+128560,204,Eight,qaoalu,,,3,
+173329,205,Nine,sio,,,5,
+173328,206,Ten,sangaulu,,,5,
+173327,207,Twenty,luengaulu,,,"3,6",
+173326,208,Fifty,limangaulu,,,1,
+173325,209,"One Hundred",ai,,,4,
+173333,210,"One Thousand",airari,,,,
+173334,210,"One Thousand",airare,,,,

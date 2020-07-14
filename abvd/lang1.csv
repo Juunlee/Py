@@ -1,0 +1,299 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+1,Balinese,"Made Denes",ban,bali1278,"Balinese shows dialect variation for final [a] ~ [E] and list includes both forms.",,"Austronesian, Malayo-Polynesian, Bali-Sasak-Sumbawa","Peng Du","Simon Greenhill","@misc{Denes-1-2005,  author = \"Made Denes\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-8.32021228952294400472,115.09277343750000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+71401,1,hand,lima,,,"1,64",1
+71402,1,hand,limə,,,"1,64",1
+358,2,left,kebot,,,,
+71468,3,right,tengawan,,,"1,83",
+71469,3,right,təŋawan,,,"1,83",
+1072,4,leg/foot,batis,,,23,
+71533,5,"to walk",majalan,,,21,
+71534,5,"to walk",məjalan,,,21,
+1786,6,road/path,rurung,,,,
+124916,7,"to come",təku,,,17,
+124917,7,"to come",təkə,,,17,
+2500,8,"to turn",belok,,,24,
+2857,9,"to swim",nglangi,,,1,1
+3214,10,dirty,daki,,,1,1
+3571,11,dust,buk,,,1,1?
+3928,12,skin,kulit,,,1,1
+4285,13,back,tundun,,,,
+4642,14,belly,basang,,,29?,
+4999,15,bone,tulang,,,1,1
+5356,16,intestines,babetukan,,,21,1
+5713,17,liver,ati,,,1,1
+6070,18,breast,nyonyo,,,3,1?
+72217,19,shoulder,pala,,,12,
+72218,19,shoulder,palə,,,12,
+6784,20,"to know, be knowledgeable",tawang,,,36,
+72337,21,"to think",mekeneh,,,33,
+72338,21,"to think",məkənəh,,,,
+7498,22,"to fear",takut,,,1,1
+72437,23,blood,getih,"taboo replacement from sap",,18,
+72438,23,blood,gətih,,,18,
+72478,24,head,tendas,,,,
+72479,24,head,təndas,,,,
+8569,25,neck,baong,,,70,
+8926,26,hair,bok,,,1,1
+9283,27,nose,cunguh,,,,
+9640,28,"to breathe",mangkihan,,,,
+72786,29,"to sniff, smell",ngadek,,,1,1
+72787,29,"to sniff, smell",ŋadək,,,1,1
+72830,30,mouth,bungut,mouth,,37,
+72831,30,mouth,bibɨh,lips,,32,
+10711,31,tooth,gigi,,,17,
+11068,32,tongue,layah,,,,?
+73008,33,"to laugh",kedek,,,30,
+73009,33,"to laugh",kədɛk,,,30,
+73046,34,"to cry",ngeling,,,,
+73047,34,"to cry",ŋəliŋ,,,1,
+12139,35,"to vomit",ngutah,,,1,1
+73150,36,"to spit",mapees,,,,
+73151,36,"to spit",məpəəs,,,,
+12853,37,"to eat",daar,,L,11,
+13210,38,"to chew",makpak,,,24,
+13567,39,"to cook",nyakan,,,2,1
+73458,40,"to drink",nginem,,,1,1
+73459,40,"to drink",ŋinəm,,,1,1
+73525,41,"to bite",nyegut,,,30,
+73526,41,"to bite",ñəgut,,,30,
+73597,42,"to suck",ngisep,,,1,1
+73598,42,"to suck",ŋisəp,,,1,1
+14995,43,ear,kuping,"from Ind (WOLD)",L,15,
+73735,44,"to hear",ningeh,,,1,1?
+73736,44,"to hear",niŋəh,,,1?,1?
+15709,45,eye,mata,,,1,1
+16066,46,"to see",ningalin,,,,
+16423,47,"to yawn",uab-uab,,,19,1
+16780,48,"to sleep",puləs,,,,
+74000,49,"to lie down",ngebah,,,,
+74001,49,"to lie down",ŋəbah,,,,
+17494,50,"to dream",ngipi,,,1,1
+74057,51,"to sit",negak,,,,
+74058,51,"to sit",nəgak,,,,
+18208,52,"to stand",majujuk,,,,
+18565,53,"person/human being",anak,,,,
+18922,54,man/male,muani,,,1,1
+19279,55,woman/female,luh,,,,
+19636,56,child,panak,,,1,1
+74423,57,husband,kurenan,,,,
+74424,57,husband,kurənan,,,,
+20350,58,wife,kurenan,,,,
+74471,59,mother,meme,,,5?,
+74472,59,mother,meme,,,5?,
+74538,60,father,bapa,,,5,1
+74539,60,father,bapə,,,5,1
+74595,61,house,umah,,,1,1
+74596,61,house,umah,,,1,1
+74653,62,thatch/roof,raab,,,,
+74654,62,thatch/roof,raab,,,,
+74693,63,name,adan,,,1,1
+74694,63,name,adan,,,1,1
+74730,64,"to say",ngomong,"Loan from Ind (WOLD)",L,25,
+74731,64,"to say",nomoŋ,"Loan from Ind (WOLD)",L,25,
+22849,65,rope,tali,,,1,1
+74942,66,"to tie up, fasten",negul,,,,
+74943,66,"to tie up, fasten",nəgul,,,,
+75071,67,"to sew",nyait,,,2,1
+75072,67,"to sew",ñait,,,2,1
+75137,68,needle,jaum,,,1,1
+75138,68,needle,jaum,,,1,1
+75169,69,"to hunt",maboros,,,,
+75170,69,"to hunt",məboros,,,,
+75238,70,"to shoot",medil,"ult. < Dravidian",L,9,
+75239,70,"to shoot",mədil,"ult. < Dravidian",L,9,
+75266,71,"to stab, pierce",nebek,,,25,
+75267,71,"to stab, pierce",nəbək,,,25,
+75351,72,"to hit",nyagur,,,34,
+75352,72,"to hit",ñagur,,,34,
+75449,73,"to steal",maling,,,16,
+75450,73,"to steal",maliŋ,,,16,
+75494,74,"to kill",ngamatiang,,,2,
+75495,74,"to kill",ŋəmatiyang,,,2,
+26419,75,"to die, be dead",mati,,,1,1
+26776,76,"to live, be alive",idup,,,1,1
+75605,77,"to scratch",ngasgas,,,,
+75606,77,"to scratch",ŋasgas,,,,
+75653,78,"to cut, hack",nugel,,,36,
+75654,78,"to cut, hack",nugəl,,,36,
+27847,79,stick/wood,kayu,,,1,1
+75820,80,"to split",nyibak,,,,?
+75821,80,"to split",ñibak,,,,?
+75937,81,sharp,mangan,,,,
+75938,81,sharp,maŋan,,,,
+28918,82,"dull, blunt",puntul,,,1,1?
+76033,83,"to work",magae,,,,
+76034,83,"to work",məgae,,,,
+76091,84,"to plant",nanem,,,2,1
+76092,84,"to plant",nanəm,,,2,1
+29989,85,"to choose",milih,,,1,1
+30346,86,"to grow",tumbuh,,,1,1
+76255,87,"to swell",mesoh,,,,
+76256,87,"to swell",məsəh,,,,
+76338,88,"to squeeze",meseng,,,,
+76339,88,"to squeeze",məsəŋ,,,,
+76412,89,"to hold",ngisi,,,,
+76413,89,"to hold",ŋisi,,,,
+76482,90,"to dig",mlumbang,,,24?,
+76483,90,"to dig",mlumbaŋ,,,24?,
+76558,91,"to buy",meli,,,1,1
+76559,91,"to buy",məli,,,1,1
+76602,92,"to open, uncover",ngehgah,,,27,
+76603,92,"to open, uncover",ŋahgah,,,27,
+76665,93,"to pound, beat",nebuk,,,6,
+76666,93,"to pound, beat",nəbuk,,,6,
+33202,94,"to throw",nylabatang,,,,
+33559,95,"to fall",ulung,,,34,
+76898,96,dog,cicing,,,,
+76899,96,dog,ciciŋ,,,,
+76953,97,bird,kedis,,,,
+76954,97,bird,kədis,,,,
+34630,98,egg,taluh,,,1,1
+34987,99,feather,bulu,,,1,1
+35344,100,wing,kampid,,,,
+77127,101,"to fly",makeber,,,34,
+77128,101,"to fly",məkəbər,,,34,
+36058,102,rat,bikul,,,,
+36415,103,meat/flesh,isi,,,31,1
+36772,104,fat/grease,muluk,,,1?,
+37129,105,tail,ikut,,,1,?
+37486,106,snake,lelipi,,,1?,
+37843,107,"worm (earthworm)",cacing,,,23,
+38200,108,louse,kutu,,,1,1
+77502,109,mosquito,legu,,,44,
+77503,109,mosquito,ləgu,,,44,
+38914,110,spider,kekawa,,,"1,71",
+39271,111,fish,be,,,,
+77621,112,rotten,bengu,,,,
+77622,112,rotten,bəŋu,,,,
+39985,113,branch,carang,,,"9,60",
+40342,114,leaf,don,,,1,1
+40699,115,root,akah,,,2,1
+41056,116,flower,bunga,,,1,1
+41413,117,fruit,woh-wohan,,,1,1
+41770,118,grass,padang,,,,
+42127,119,earth/soil,tanah,,,1,1
+42484,120,stone,batu,,,1,1
+42841,121,sand,bias,,,26,
+43198,122,water,yeh,,,,
+78241,123,"to flow",membah,,,,
+78242,123,"to flow",məmbah,,,,
+43912,124,sea,pasih,,,1?,
+44269,125,salt,uyah,,,15,
+44626,126,lake,danu,,,1,1
+44983,127,woods/forest,alas,,,1,1
+45340,128,sky,langit,,,1,1
+45697,129,moon,bulan,,,1,1
+46054,130,star,bintang,,,1,
+78625,131,cloud,gulem,,,,
+78626,131,cloud,guləm,,,,
+46768,132,fog,limut,,,,
+47125,133,rain,ujan,,,1,1
+78781,134,thunder,kerug,,,2,1?
+78782,134,thunder,kərug,,,2,1?
+47839,135,lightning,tatit,,,,
+48196,136,wind,angin,,,1,1
+48553,137,"to blow",nyirsir,,,,
+48910,138,warm,panes,,,1,1
+49267,139,cold,dingin,,,1,
+49624,140,dry,tuh,,,41?,1
+79300,141,wet,beseg,,,1,
+79301,141,wet,bəsəg,,,1,
+50338,142,heavy,baat,,,1,1
+50695,143,fire,api,,,1,1
+51052,144,"to burn",morbor,,,,
+51409,145,smoke,andus,,,,?
+51766,146,ash,aon,,,1?,?
+79616,147,black,badeng,,,22,
+79617,147,black,badəŋ,,,22,
+52480,148,white,putih,,,1,1
+52837,149,red,barak,,,,
+53194,150,yellow,kuning,,L,1,
+53551,151,green,gadang,,,28,
+53908,152,small,cenik,,,,
+79977,153,big,gede,"< Javanese",L,27,
+79978,153,big,gəde,"< Javanese",L,27,
+54622,154,short,bawak,,,54,
+80148,155,long,dawa,,,33,
+80149,155,long,dawə,,,33,
+55336,156,thin,tipis,,,"1,44",1
+80209,157,thick,tebal,,,26,1
+80210,157,thick,təbəl,,,26,1
+80232,158,narrow,cupek,,,1?,
+80233,158,narrow,cupək,,,1?,
+56407,159,wide,linggah,,,,
+56764,160,"painful, sick",sakit,,,1,1
+57121,161,"shy, ashamed",kimud,,,,
+57478,162,old,tua,,,1,1
+80524,163,new,mara,,,,
+80525,163,new,marə,,,,
+80565,164,good,melah,,,,
+80566,164,good,məlah,,,,
+80660,165,"bad, evil",beler,,,25,
+80661,165,"bad, evil",bələr,,,25,
+80715,166,"correct, true",beneh,,,1,1
+80716,166,"correct, true",bənəh,,,1,1
+80815,167,night,peteng,,,47,
+80816,167,night,pətəŋ,,,47,
+80859,168,day,dina,,,11,
+80860,168,day,dinə,,,11,
+59977,169,year,tiban,,,,
+60334,170,when?,pidan,,,"1,65",1
+80974,171,"to hide",mengkeb,,,30,
+80975,171,"to hide",məŋkəb,,,,
+81014,172,"to climb",menek,,,1,1
+81015,172,"to climb",menɛk,,,1,1
+81076,173,at,di,,,20,1
+81077,173,at,sig,,,20,1
+81164,174,"in, inside","di tengah",,,22,
+81165,174,"in, inside","di təŋah",,,22,
+62119,175,above,baduur,,,,
+81277,176,below,beten,,,,
+81278,176,below,bəten,,,,
+81325,177,this,ene,,,1,1?
+81326,177,this,əne,,,1,1?
+81418,178,that,ento,,,,1?
+81419,178,that,ənto,,,16,1?
+81557,179,near,paek,,,27,
+81558,179,near,paək,,,27,
+63904,180,far,joh,,,1,1
+81674,181,where?,dija,,,,
+81675,181,where?,dijə,,,,
+64618,182,I,icang,,,,
+64975,183,thou,cai,,,,
+65332,184,he/she,ia,,,1,1
+86329,185,we,iraga,,,5,1
+86330,185,we,ajak,,,,
+86331,185,we,mak,,,,
+86332,185,we,jang,,,,
+86333,185,we,iraga,,,5,
+66046,186,you,"cai ajak mekejang",,,,
+66403,187,they,"in ajaka makojang",,,,
+82214,188,what?,apa,,,1,1
+82215,188,what?,apə,,,1,1
+67117,189,who?,nyen,,,,
+67474,190,other,len,,,2,?
+67831,191,all,makejang,,,,
+68188,192,and,muah,,,2,
+68545,193,if,yen,,,,
+68902,194,how?,kenken,,,,
+69259,195,"no, not",tusing,,,,
+82765,196,"to count",ngetek,,,,
+82766,196,"to count",ŋətɛk,,,,
+69973,197,One,sa,,,1,1
+70330,198,Two,dadua,,,1,1
+82960,199,Three,telu,,,1,1
+82961,199,Three,təlu,,,1,1
+71044,200,Four,patpat,,,1,1
+83875,201,Five,limə,,,1,
+83845,202,Six,ənəm,,,1,
+83871,203,Seven,pitu,,,1,
+83872,204,Eight,kutus,,,,
+83873,205,Nine,siə,,,"5,34",
+83874,206,Ten,dəsə,,,,
+181227,207,Twenty,duaŋdasə,,,,
+181226,208,Fifty,sèkət,,,,
+181225,209,"One Hundred",satus,,,4,
+181224,210,"One Thousand",siu,,,,

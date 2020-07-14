@@ -1,0 +1,230 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+262,Ida'an,"David Moody",dbj,idaa1241,,,"Austronesian, Malayo-Polynesian, North Borneo, Sabahan, Ida'an","Peng Du","Simon Greenhill","@misc{Moody-262-2005,  author = \"David Moody\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+5.06906000000000034333,118.25683999999999684860
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+262,1,hand,ʌppiʔ,,,,
+619,2,left,gibang,,,24,
+976,3,right,konan,,,"1,62",1
+1333,4,leg/foot,kasu,,,,
+1690,5,"to walk",gʌrʌbutaʔ,,,,
+71621,6,road/path,dalan,,,1,1
+71622,6,road/path,sikon,,,,1
+2404,7,"to come",mʌssob,,,,
+2761,8,"to turn",gʌsimpang,,,,
+3118,9,"to swim",gʌllunguy,,,1?,1?
+3475,10,dirty,sʌmmor,,,,
+3832,11,dust,abuk,,,1,1
+4189,12,skin,kulit,,,1,1
+4546,13,back,sʌmang,,,,
+4903,14,belly,tʌray,,,,
+5260,15,bone,tullang,,,1,1
+5617,16,intestines,tiritis,,,,
+5974,17,liver,atay,,,1,1
+6331,18,breast,tusu,,,1,1
+6688,19,shoulder,sadtong,,,,
+7045,20,"to know, be knowledgeable",gʌlati,,,,
+7402,21,"to think",gʌdalir,,,,
+7759,22,"to fear",mʌla,,,,
+8116,23,blood,nddaʔ,"is this form correct?",,1,1?
+8473,24,head,ulu,,,1,1
+8830,25,neck,lig,,,1,1
+9187,26,hair,ʌbpuk,,,1,1
+9544,27,nose,irung,,,1,1
+9901,28,"to breathe",bʌgarawo,,,1?,?
+10258,29,"to sniff, smell",mʌngarok,,,1,1
+10615,30,mouth,putuk,,,,
+10972,31,tooth,nipon,,,1,1
+11329,32,tongue,dilaʔ,,,4,1
+11686,33,"to laugh",mʌrim,,,,
+12043,34,"to cry",totaʔ,,,,
+12400,35,"to vomit",gʌmuad,,,1?,
+12757,36,"to spit",bʌgʌbbi,,,,
+13114,37,"to eat",mʌngngan,,,"1,14",1?
+13471,38,"to chew",bʌkussop,,,,
+73430,39,"to cook",bʌgapuy,,,,
+73431,39,"to cook",gʌlagaʔ,,,,
+73490,40,"to drink",mʌnginum,,,1,1
+73491,40,"to drink",minum,,,1,1
+14542,41,"to bite",mʌngabput,,,18?,
+73681,42,"to suck",mʌnippus,,,,
+73682,42,"to suck",tippus,,,,
+15256,43,ear,tʌlingo,,,1,1
+73762,44,"to hear",mʌngingog,,,1?,?
+73763,44,"to hear",kingog,,,1?,?
+15970,45,eye,mato,,,1,1
+16327,46,"to see","mʌngata mata",,,,
+16684,47,"to yawn",gʌmoya,,,1?,
+17041,48,"to sleep",turug,,,1,1
+17755,50,"to dream",gʌnupi,,,1,1
+18112,51,"to sit",badung,,,98,
+18469,52,"to stand",buruy,,,,
+18826,53,"person/human being",ulun,,,17,
+19183,54,man/male,"ulun kusay",,,,
+19540,55,woman/female,"ulun liun",,,,
+74402,56,child,anak,,,1,1
+74403,56,child,ginon,,,,1
+20254,57,husband,bano,,,1,
+20611,58,wife,mʌngʌnnak,,,,
+20968,59,mother,inaʔ,,,1,1
+21325,60,father,amaʔ,,,1,1
+21682,61,house,balay,,,14,
+22039,62,thatch/roof,sapaw,,,15,
+22396,63,name,naran,,,1,1
+74843,64,"to say",mʌngaraʔ,,,,
+74844,64,"to say",baraʔ,,,,
+23110,65,rope,tali,,,1,1
+75038,66,"to tie up, fasten",mʌnunuy,,,,
+75039,66,"to tie up, fasten",tunuy,,,,
+23824,67,"to sew",bʌllit,,,,
+24181,68,needle,derum,,L,,?
+24538,69,"to hunt",bʌkulos,,,,
+24895,70,"to shoot",mʌnganaʔ[panaʔ],,,1,
+75343,71,"to stab, pierce",mʌnʌrog,,,,
+75344,71,"to stab, pierce",tʌrog,,,,
+75486,73,"to steal",mʌnʌkkaw,,,1,1
+75487,73,"to steal",tʌkkaw,,,1,1
+75521,74,"to kill",mʌngunuʔ,,,1,1
+75522,74,"to kill",bunuʔ,,,1,1
+26680,75,"to die, be dead",matay,,,1,1
+27037,76,"to live, be alive",allun,,,12,
+75759,78,"to cut, hack",mʌngukos,,,,
+75760,78,"to cut, hack",mukos,,,,
+28108,79,stick/wood,taun,,,5,
+75912,80,"to split",mʌngilaʔ,,,1,1
+75913,80,"to split",milaʔ,,,1,1
+28822,81,sharp,allop,,,,
+29179,82,"dull, blunt",tumpul,,,3,1
+29536,83,"to work",bʌkabbun,,,,
+29893,84,"to plant",bulo,,,1,1?
+30250,85,"to choose",gʌdiliʔ,,,1,?
+30607,86,"to grow",tubpu,,,1,1?
+30964,87,"to swell",bʌkʌppaw,,,,
+76398,88,"to squeeze",mʌngʌgka,,,,1?
+76399,88,"to squeeze",mʌgka,,,,1?
+76468,89,"to hold",mʌgkot,,,,
+76469,89,"to hold",mʌngʌgkot,,,,
+32035,90,"to dig",bʌkali,,,1,1
+32392,91,"to buy",gʌdagang,,,21,
+32749,92,"to open, uncover",mʌngawang,,,,
+76703,93,"to pound, beat",mʌnuttu,,,20,1
+76704,93,"to pound, beat",tuttu,,,20,1
+76789,94,"to throw",mʌnagad,,,,
+76790,94,"to throw",tagad,,,,
+33820,95,"to fall",tippak,,,,
+34177,96,dog,asu,,,1,1
+34534,97,bird,kʌrok,,,,
+34891,98,egg,lisi,,,,
+35248,99,feather,bulu,,,1,1
+35605,100,wing,panid,,,2,1
+77152,101,"to fly",tʌmulud,,,20,
+77153,101,"to fly",tulud,,,20,
+36319,102,rat,"sikut litun",,,,
+36676,103,meat/flesh,si,,,1,1
+37033,104,fat/grease,innak,,,1,1
+37390,105,tail,ikug,,,1,1
+37747,106,snake,ulang,,,2?,1?
+38104,107,"worm (earthworm)",langati,,,1,?
+38461,108,louse,kutu,,,1,1
+38818,109,mosquito,nammuk,,,1,1
+39175,110,spider,sʌlapukot,,,,
+39532,111,fish,pait,,,17,
+39889,112,rotten,butong,,,,
+40246,113,branch,dan,,,1,1
+40603,114,leaf,daun,,,1,1
+40960,115,root,pakat,,,2,?
+41317,116,flower,tasak,,,,
+41674,117,fruit,buaʔ,,,1,1
+42031,118,grass,dukut,,,2,
+42388,119,earth/soil,butaʔ,,,27,?
+42745,120,stone,batu,,,1,1
+43102,121,sand,bʌris,,,19,
+43459,122,water,sapaʔ,,,30,
+44173,124,sea,pasang,,,,
+44530,125,salt,tagay,,,,
+44887,126,lake,gasap,,,,
+45244,127,woods/forest,ʌbban,,,,
+45601,128,sky,langit,,,1,1
+45958,129,moon,bulan,,,1,1
+46315,130,star,bʌtun,,,1,1
+46672,131,cloud,"kaut putiʔ",,,,
+47029,132,fog,kabur,,,"1?,86",?
+47386,133,rain,uran,,,1,1
+47743,134,thunder,rudtug,,,,
+48100,135,lightning,bʌriot,,,,
+48457,136,wind,laud,,,,
+48814,137,"to blow",gnsʌput,,,22,
+49171,138,warm,panas,,,1,1
+49528,139,cold,tʌmmil,,,,
+79278,140,dry,atug,,,,
+79279,140,dry,gʌlʌmmak,,,,
+50242,141,wet,basaʔ,,,1,1
+50599,142,heavy,bʌgkat,,,1,1
+50956,143,fire,apuy,,,1,1
+51313,144,"to burn",mʌnunu[tunu],,,1,1
+51670,145,smoke,gaun,,,,
+52027,146,ash,au,,,1,1
+52384,147,black,sidom,,,,
+52741,148,white,putiʔ,,,1,1
+53098,149,red,sʌkkot,,,,
+53455,150,yellow,sibbuʔ,,,,
+53812,151,green,gaddung,,,28,
+54169,152,small,tumok,,,,
+54526,153,big,gayo,,,39,1
+80127,154,short,tanaʔ,,,22,
+80128,154,short,kadong,,,,
+55240,155,long,buat,,,,
+55597,156,thin,nipis,,,1,1
+55954,157,thick,asuk,,,,
+56311,158,narrow,pʌssit,,,30,
+56668,159,wide,ngag,,,,
+57025,160,"painful, sick",pedtos,,,23,
+57382,161,"shy, ashamed",siruk,,,,
+57739,162,old,tuo,,,1,1
+58096,163,new,bagku,,,1,1
+58453,164,good,pio,,,1,1
+58810,165,"bad, evil",arat,,,1,1
+59167,166,"correct, true",bʌnor,,,1,1
+59524,167,night,gabpi,,,21,
+59881,168,day,ʌdtaw,,,1,1
+60238,169,year,tahun,,L,1,
+123639,170,when?,"nu kidan",future,,1,1
+123640,170,when?,ʌmbaʔringaʔ,past,,,
+60952,171,"to hide",bapung,,,,
+81065,172,"to climb",mʌnnik,,,1?,1
+81066,172,"to climb",gʌrʌkkod,,,,1
+122916,173,at,nong,near,,,
+122917,173,at,diʔ,far,,20,1?
+62023,174,"in, inside","nong allom",,,1,1
+62380,175,above,"nong tas",,,1,1
+62737,176,below,"nong alag",,,,
+63094,177,this,ano,,,1,
+123474,178,that,ino,near,,1,1
+123475,178,that,adi,far,,,
+63808,179,near,rʌttop,,,,
+64165,180,far,adtu,,,,?
+64522,181,where?,ʌmbaʔ,,,31,
+64879,182,I,aku,,,1,1
+65236,183,thou,ikaw,,,1,1
+81968,184,he/she,rʌmo,,,,
+81969,184,he/she,rumo,,,,
+123507,185,we,kito,,,1,1
+123508,185,we,kʌmmi,,,2,
+66307,186,you,muyu,,,"1,13",1
+66664,187,they,iro,,,1,1
+67021,188,what?,nu,,,2,
+67378,189,who?,nay,,,,1?
+67735,190,other,sillun,,,,
+68092,191,all,sʌgingon,,,,
+68449,192,and,bio,,,27,
+68806,193,if,kʌmo,,,11,
+69163,194,how?,dungod,,,,
+82750,195,"no, not",apon,,,,
+82751,195,"no, not",ʌŋko,,,,
+69877,196,"to count",bʌkiro,,,,
+70234,197,One,saʔ,,,1,1
+70591,198,Two,duo,,,1,1
+70948,199,Three,tʌlluʔ,,,1,1
+71305,200,Four,pat,,,1,1
+172544,201,Five,limo,,,1,
+172077,204,Eight,walu,,,3,

@@ -1,0 +1,36 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+479,"Maori (1773)","Sydney Parkinson (1773)",mri,maor1246,"SYDNEY PARKINSON, Draughtsman to JOSEPH BANKS, Esq. on his late Expedition with Dr. SOLANDER, round the World. (London, 1773)\"Something has already been mentioned respecting the language of the New-Zealanders, and of its affinity to that of the people of Otaheite; the following Vocabulary will more fully shew this agreement, which is a very extraordinary circumstance, and leads us to conclude that one place was originally peopled from the other, though they are at near two thousand miles distance, and nothing but the ocean intervenes, at least to our knowledge; and such a long navigation, we should hardly believe, could be practicable in their small canoes, the only vessels that they appear to have ever possessed; yet what should lead too distinct people, having no communication with each other, to affix the same sounds to the same things, would be hard to account for In any other manner.\"\"This opinion is farther corroborated, by comparing their customs and manners, as also their instruments of war and household utensils, which will be found to agree in many particulars. The migra-tion was probably from New-Zealand to Otaheite; as the inhabitants of the former place were totally unacquainted with the use of bows and arrows till we first taught them; whereas the people of the latter island use them with great dexterity, having doubtless discovered the use of them by some accident after their separation; and it cannot be supposed that the New-Zealanders would have lost so beneficial an acquisition, if they had ever been acquainted with it.\"",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, East, Central, Tahitic","Richard Parker",,"@book{Parkinson1773,  address   = {London},  publisher = {Parkinson},  title     = {A Journal of a Voyage to the South Seas, in his Majesty's Ship, the Endeavour. Faithfully Transcribed from the Papers of the Late Sydney Parkinson, Draughtsman to Joseph Banks, esq. on his Late Expedition. With dr. Solander, Round the World.},  year      = {1773},  author    = {Parkinson, Sydney}}"
+latitude,longitude
+-35.03477998874525667361,172.80845728638809077893
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+127434,24,head,"he aowpohó",,,10,
+127435,27,nose,"he eih",,,1,
+127436,30,mouth,"he gaõwai",,,,
+127437,31,tooth,"he neeho",,,1,
+127438,32,tongue,haiàeeò,,,15,
+127439,37,"to eat",eëi,victuals,,"1,47",
+127440,45,eye,"he matta",,,1,
+127441,56,child,hetamàéh,"boy or son",,,
+127442,60,father,papa,"L from English",L,,
+127443,61,house,hèàwhài,,,14?,
+127444,64,"to say",orero,"to speak or speech",,11,
+127445,79,stick/wood,tracaow,wood,,1,
+127446,94,"to throw",patoopatoo,"to throw stones, to threaten",,,
+127447,96,dog,egoorree,"e kuri-MW",,7,
+127448,111,fish,teyka,,,1,
+127449,114,leaf,heaow,,,1?,
+127450,120,stone,powhattoo,,,"1,19",
+127451,122,water,hewai,,,2,
+127452,164,good,apoorotoo,,,125,
+127464,165,"bad, evil",ekeeno,bad,,9,
+127453,195,"no, not",kaowra,no,,12,
+127454,197,One,katahè,,,41,
+127455,198,Two,karooa,,,1,
+127456,199,Three,katarroo,,,1,
+127457,200,Four,kawha,,,"1,66",
+127458,201,Five,kareema,,,1,
+127459,202,Six,kàònoo,,,1,
+127460,203,Seven,kawheetoo,,,1,
+127461,204,Eight,kawarroo,,,3,
+127462,205,Nine,kàeeva,,,"5,44,66",
+127463,206,Ten,kacahaowroo,,,,

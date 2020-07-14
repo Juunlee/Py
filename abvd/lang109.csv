@@ -1,0 +1,225 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+109,Palauan,"Blust from: McManus (1977)",pau,pala1344,"McManus, E.G. (1977). Palauan-English Dictionary. Honolulu: University Press of Hawaii",,"Austronesian, Malayo-Polynesian, Palauan","Simon Greenhill","Simon Greenhill","@book{134202,  address    = {Honolulu},  publisher  = {The University Press of Hawaii},  title      = {Palauan-English Dictionary},  year       = {1977},  bibtexkey  = {mcmanus_palauan-dictionary1977},  hhtype     = {dictionary},  inlg       = {English [eng]},  macro_area = {Papua},  src        = {wals},  srctrickle = {wals#4046},  author     = {McManus, Edwin G.}}"
+latitude,longitude
+7.45133706377974558421,134.34022079979450836618
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+109,1,hand,chim,BTC,,1,1
+466,2,left,katúr,,,,
+823,3,right,kadíkm,,,,
+1180,4,leg/foot,oách,,,"1,100",1
+1537,5,"to walk",meráel,,,21,
+1894,6,road/path,ráel,,,1,1
+2251,7,"to come",méi,,,1,1
+2608,8,"to turn",mengesóim,,,,
+2965,9,"to swim",mengedúb,,,,
+3322,10,dirty,idókel,,,,
+3679,11,dust,hokorí,,L,,
+4036,12,skin,budél,,,,
+4393,13,back,úulk,,,,
+4750,14,belly,díil,,,1?,1
+5107,15,bone,chiúis,,,,
+5464,16,intestines,delach,,,1?,1
+5821,17,liver,chad,,,1?,1
+6178,18,breast,tut,,,1,1
+6535,19,shoulder,ongelúngel,,,,
+6892,20,"to know, be knowledgeable",medúch,,,,1?
+7249,21,"to think",omdásu,,,,
+7606,22,"to fear",[me]dakt,,,1,1
+7963,23,blood,rásech,,,,
+8320,24,head,klidm,,,,
+8677,25,neck,chikl,,,,
+9034,26,hair,chúi,,,1?,
+9391,27,nose,íis,,,,?
+9748,28,"to breathe",outelíl,,,,
+10105,29,"to sniff, smell",melúng[e]l,,,,
+10462,30,mouth,ngor,,,,
+10819,31,tooth,uíngel,,,,
+11176,32,tongue,chur,,,,
+11533,33,"to laugh",ocherchúr,,,,
+11890,34,"to cry",lmángel,,,,
+12247,35,"to vomit",múdech,,,1,1
+12604,36,"to spit",melúb,,,,
+12961,37,"to eat",mengáng,,,"1,14",?
+13318,38,"to chew",melechedáchem,,,,
+121418,38,"to chew",meringet,,,,
+121419,38,"to chew",melamech,"chew betelnut",,,
+13675,39,"to cook",meliókl,,,,
+14032,40,"to drink",melím,,,1,1
+14389,41,"to bite",bangch,,,,
+14746,42,"to suck",melmótm,,,,
+15103,43,ear,ding,,,1,1
+15460,44,"to hear",orrénges,,,1,1
+15817,45,eye,mad,,,1,1
+16174,46,"to see",omés,,,,
+16531,47,"to yawn",[o]uás,,,,
+16888,48,"to sleep",durs,,,1,1
+17245,49,"to lie down",mechiuáiu,,,,
+17602,50,"to dream",berróus,,,,
+17959,51,"to sit",kiéi,,,,
+18316,52,"to stand",dechór,,,,
+18673,53,"person/human being",chad,,,,
+19030,54,man/male,sechál,,,,1
+19387,55,woman/female,babíl,,,"1,106",1
+19744,56,child,ngálek,,,,1
+20101,57,husband,buch,,,,
+20458,58,wife,buch,,,,
+20815,59,mother,chedíl,,,,1
+21172,60,father,chedám,,,1,1
+21529,61,house,blái,,,14,
+21886,62,thatch/roof,chado,,,1,1
+22243,63,name,ngakl,,,1,1
+22600,64,"to say",dmung,,,,
+22957,65,rope,chekíl,,,,
+23314,66,"to tie up, fasten",mesáur,,,,
+23671,67,"to sew",merásm,,,,
+24028,68,needle,rasm,,,1,1
+24385,69,"to hunt",merrítel,,,,
+24742,70,"to shoot",omóes,,,,
+25099,71,"to stab, pierce",merús,,,,
+25456,72,"to hit",menglébed,,,,
+25813,73,"to steal",mengól,,,,
+26170,74,"to kill",meléb,,,,
+26527,75,"to die, be dead",mad,,,1,1
+26884,76,"to live, be alive",ngar,,,,
+27241,77,"to scratch",mengkás,"[an itch]",,1,1
+27598,78,"to cut, hack",mengímd,"[string, etc]",,,
+27955,79,stick/wood,kerrekár,,,1?,1
+28312,80,"to split",melbótb,,,,
+28669,81,sharp,kedórem,,,1,1
+29026,82,"dull, blunt",ketóm,,,,
+29383,83,"to work",[o]ureór,,,,
+29740,84,"to plant",melálem,,,2,1
+30097,85,"to choose",melílt,,,1?,
+30454,86,"to grow",dúubech,,,1?,1?
+30811,87,"to swell",obtíngel,,,,
+31168,88,"to squeeze",omét,,,,1?
+31525,89,"to hold",obáng,,,,
+31882,90,"to dig",mengíis,,,,
+32239,91,"to buy",omechár,,,,
+32596,92,"to open, uncover",omók,,,,
+32953,93,"to pound, beat",melechótech,,,,
+33310,94,"to throw",uétech,,,,
+33667,95,"to fall",orrébet,,,,
+34024,96,dog,bilís,,,,
+34381,97,bird,"suebek el charm",,,,
+34738,98,egg,ngáis,,,,
+35095,99,feather,búsech,,,,
+35452,100,wing,osébek,,,,
+35809,101,"to fly",suébek,,,1?,1?
+36166,102,rat,beáb,(<+ba-labaw),,1,1
+36523,103,meat/flesh,tech,,,,
+36880,104,fat/grease,láok,,,24?,
+37237,105,tail,kemúr,,,,
+77388,106,snake,bechéi,,,,
+77389,106,snake,bersóech,,,,
+37951,107,"worm (earthworm)",chulád,,,36,?
+38308,108,louse,kud,,,1,1
+77515,109,mosquito,rekás,,,,
+77516,109,mosquito,ilkolk,,,,
+39022,110,spider,bubúu,,,,
+39379,111,fish,ngíkel,,,1,1
+39736,112,rotten,beémech,,,,
+40093,113,branch,ráchel,,,1?,1
+40450,114,leaf,llel,,,,?
+40807,115,root,ráis,(<+dalij),,9?,1
+41164,116,flower,buŋ,,,1,1
+41521,117,fruit,ródech,,,,
+41878,118,grass,chúdel,,,,
+42235,119,earth/soil,chútem,,,,
+42592,120,stone,bad,,,1,1
+42949,121,sand,chelechól,,,,
+105449,122,water,ralm,fresh,,1,1
+105450,122,water,dáob,salt,,,
+43663,123,"to flow",meráel,,,,
+78324,124,sea,chéi,,,,
+78325,124,sea,dáob,,,,
+44377,125,salt,sar,,L,13,
+121420,126,lake,omechuachel,,,,
+45091,127,woods/forest,oreómel,,,,
+45448,128,sky,eánged,,,1?,1
+45805,129,moon,búil,,,1,1
+46162,130,star,btuch,,,1,1?
+46519,131,cloud,eábed,,,,
+46876,132,fog,chetechát,,,,
+47233,133,rain,chull,,,,1
+47590,134,thunder,derúmk,,,3,
+47947,135,lightning,bisebúsech,,,,
+48304,136,wind,eólt,,,,
+48661,137,"to blow",melóko,,,,
+49018,138,warm,mekeáld,,,,
+49375,139,cold,kelekólt,,,,
+49732,140,dry,medírt,,,,
+50089,141,wet,dekímes,,,,
+50446,142,heavy,oberéod,,,1?,?
+50803,143,fire,ngáu,,,1?,1
+51160,144,"to burn",meléseb,,,,
+51517,145,smoke,chat,,,,1
+51874,146,ash,chab,,,,1
+52231,147,black,chedelekélek,,,,
+52588,148,white,becheleléu,,,,
+52945,149,red,bekerkárd,,,,
+53302,150,yellow,mellíl,,,28,
+53659,151,green,"bedengel a biib",,,,
+54016,152,small,kekeréi,,,,
+54373,153,big,klóu,,,,
+54730,154,short,kedéb,,,,
+55087,155,long,kemánget,,,,
+55444,156,thin,melilíut,,,1,1
+55801,157,thick,okrókr,,,,
+56158,158,narrow,obútek,,,,
+56515,159,wide,metéu,,,,
+56872,160,"painful, sick",ourakt,,,1?,1
+57229,161,"shy, ashamed",merúr,,,,
+57586,162,old,mechút,,,,
+57943,163,new,bechés,,,1,1
+58300,164,good,ungíl,,,,
+58657,165,"bad, evil",mekngít,,,,
+59014,166,"correct, true",meráng,,,,
+59371,167,night,klebeséi,,,,
+59728,168,day,sils,,,,
+60085,169,year,rak,,,31,
+60442,170,when?,oingaráng,,,,
+60799,171,"to hide",mengéleb,,,30,
+61156,172,"to climb",melidáb,,,,
+61513,173,at,er,,,,
+61870,174,"in, inside",chelsél,,,,
+62227,175,above,bab,,,2,1
+62584,176,below,eóu,,,,
+62941,177,this,tiéi,,,,
+113855,178,that,tilecháng,"near hearer",,,
+113856,178,that,séi,"far from hearer",,,
+63655,179,near,kméed,,,,
+64012,180,far,cheróid,,,,
+64369,181,where?,ker,,,,
+64726,182,I,ngak,,,1,1
+65083,183,thou,kau,,,1,1
+65440,184,he/she,ngíi,,,1,1
+113857,185,we,kid,,,1,1
+113858,185,we,kemám,,,2,
+66154,186,you,kemíu,,,"1,13",1
+66511,187,they,tir,,,1,1
+66868,188,what?,ngaráng,,,,
+67225,189,who?,techáng,,,,
+67582,190,other,ngódech,,,,
+67939,191,all,"el rokir",,,,
+82502,192,and,e,,,1?,1
+82503,192,and,me,,,2,1
+82588,193,if,a,,,,
+82589,193,if,"a kmu",,,,
+167764,194,how?,uangerang,,,,
+69367,195,"no, not",díak,,,2,?
+69724,196,"to count",omechúr,,,,
+70081,197,One,tang,,,1,1
+70438,198,Two,o-rung,,,1,1
+70795,199,Three,o-déi,,,1?,1
+71152,200,Four,o-ang,,,1?,?
+121421,201,Five,kleim,,,1,
+121422,202,Six,klolem,,,,
+121423,203,Seven,klewid,,,,
+121424,204,Eight,kleiai,,,,
+121425,205,Nine,klteiu,,,,
+121426,206,Ten,truiich,,,,
+121427,207,Twenty,luiich,,,,
+167766,208,Fifty,okeyim,,,,
+121428,209,"One Hundred",dart,,,,
+167765,210,"One Thousand","ta el telael",,,,

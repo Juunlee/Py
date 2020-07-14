@@ -1,0 +1,30 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+976,"Biao (Fengkai)","Fengkai County Almanac",byk,biao1253,"Fengkai County Almanac [封开县志] (1998). Guangzhou: Guangdong People's Publishing House [广东人民出版社].",,"Tai-Kadai, Kam-Tai, Kam-Sui","Andrew C. Hsiu",,"@book{Fengkai1998,  title     = {Fengkai County Almanac [封开县志]},  date      = {1998},  publisher = {Guangzhou: Guangdong People's Publishing House [广东人民出版社].},  address   = {Nanning},  author    = {[封开县志], Fengkai County Almanac}}"
+latitude,longitude
+23.65600000000000000000,113.39100000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+251018,5,"to walk",pui33,"to go",,,
+251019,14,belly,tam33,,,,
+251020,23,blood,lyk33,,,,
+251021,24,head,mɔ42,,,,
+251022,37,"to eat",kun31,,,,
+251023,46,"to see",tiat55,,,,
+251024,51,"to sit",phø42,,,,
+251025,52,"to stand",lyn33,,,,
+251026,61,house,liak11,,,,
+251027,73,"to steal",mø33,,,,
+251028,105,tail,tyŋ33,,,,
+251029,114,leaf,mia33,,,,
+251030,122,water,liem42,,,,
+251031,128,sky,mən33,,,,
+251032,129,moon,pin33,,,,
+251033,133,rain,sən33,,,,
+251034,136,wind,lam13,,,,
+251035,143,fire,pɔi33,,,1,
+251036,144,"to burn",tiau42,,,,
+251037,153,big,tøn42,,,,
+251038,163,new,mai42,,,,
+251039,169,year,phy33,,,,
+251040,182,I,ki33,,,,
+251041,183,thou,nia13,,,,
+251042,184,he/she,mən13,,,,

@@ -1,0 +1,202 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+227,Suau,"Blust, from Cooper (1975)",swp,suau1242,"Cooper, R.E. (1975). Coastal Suau: A Preliminary Study of Internal Relationships. In T.E. Dutton (ed.) Studies in Languages of Central and South-East Papua. Pacific Linguistics Series C No. 29. Canberra: Australian National University.3 pencilled forms from Capell, 1943",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Papuan Tip, Nuclear, Suauic","Debasish Roy","Simon Greenhill","@incollection{162411,  address    = {Canberra},  booktitle  = {Studies in languages of central and south-east Papua},  pages      = {227-278},  publisher  = {Research School of Pacific and Asian Studies, Australian National University},  series     = {Pacific Linguistics: Series C},  title      = {Coastal Suau: A preliminary study of internal relationships},  volume     = {29},  year       = {1975},  bibtexkey  = {cooper_coastal-suau1975},  fn         = {papua\dutton_central-south-east-papua1975_o.pdf, papua\cooper_coastal-suau1975_o.pdf},  hhtype     = {overview;comparative;wordlist},  inlg       = {English [eng]},  inlg_code  = {eng},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#hvw:Cooper:Suau},  author     = {Cooper, Russell E.},  editor     = {Dutton, Tom E.}}"
+latitude,longitude
+-10.76046105534859265163,150.38360595703125000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+227,1,hand,nima-,,,"1,66",1
+584,2,left,seuseuli,,,38,?
+941,3,right,tutu,,,"5,70",
+1298,4,leg/foot,ʔae,,,1,1
+1655,5,"to walk",laulau,,,1,1
+2012,6,road/path,dobila,,,72,
+2369,7,"to come",laoma,,,"1,85",1?
+2726,8,"to turn",tolo-bui,,,,
+71783,9,"to swim",dui,,,93,
+71784,9,"to swim",tuba,,,17,
+3440,10,dirty,biʔi,,,139,
+71916,11,dust,huhua,,,,
+71917,11,dust,muʔamuʔa,,,,
+4154,12,skin,ʔopi,,,15,
+4511,13,back,dagila-,,,22,
+4868,14,belly,boga-,,,21,
+5225,15,bone,siada-,,,26,
+5582,16,intestines,sinae,,,1,1
+5939,17,liver,ʔate,,,1,1
+6296,18,breast,susu-,,,1,1
+254414,19,shoulder,dabaialou,,,"27,105",
+7010,20,"to know, be knowledgeable",ʔata,,,35,
+7367,21,"to think",nuatui,,,30,
+7724,22,"to fear",matausi,,,"1,68",1
+8081,23,blood,ʔosina-,,,21,
+8438,24,head,ʔulu,,,1,1
+8795,25,neck,gado-,,,30,
+9152,26,hair,"ʔulu maiawa-",,,3,
+9509,27,nose,isu,,,1,1
+9866,28,"to breathe",yahua,,,90,
+254413,29,"to sniff, smell",pane,,,107,
+72866,30,mouth,ʔawa,,,36,
+72867,30,mouth,moʔa,,,98,
+10937,31,tooth,ʔawa,,,65,
+11294,32,tongue,memena,,,"7,40",
+11651,33,"to laugh",maluhi,,,66,
+12008,34,"to cry",tani,,,1,1
+12365,35,"to vomit",maliwe,,,4,
+13079,37,"to eat",ʔaiʔai,,,"1,44",1
+254420,39,"to cook",liga,,,28,
+14150,40,"to drink",nom,,,"1,34",1?
+14507,41,"to bite",letai,,,,
+14864,42,"to suck",madoi,,,20?,
+15221,43,ear,bea-,,,66,
+15578,44,"to hear",ataiei,,,75,
+15935,45,eye,mata-,,,1,1
+16292,46,"to see",ʔita,,,1,1
+17006,48,"to sleep",ʔeno,,,8,
+17363,49,"to lie down",ʔeno,,,1,1
+254412,50,"to dream",eno-suai,,,"1,67",
+18077,51,"to sit",bawa,,,158,
+18434,52,"to stand",tolo,,,2,
+18791,53,"person/human being",doga,,,"1,66",1
+19148,54,man/male,tau,,,22,
+19505,55,woman/female,sine,,,71,
+19862,56,child,natu-,,,5,1
+20219,57,husband,"mone tau",,,26,
+20576,58,wife,"mone sine",,,18,
+20933,59,mother,sina-,,,1,1
+21290,60,father,tama-,,,1,1
+21647,61,house,numa,,,"1,49",1
+22361,63,name,[h]esa-,,,"1,18",?
+22718,64,"to say",liba,,,158,
+23432,66,"to tie up, fasten",ʔau,,,138,
+23789,67,"to sew",bodi,,,7,
+24503,69,"to hunt",he-kedewa,"(cf. 96) CAUS-'dog'",,,
+25217,71,"to stab, pierce",goli,,,20,
+25574,72,"to hit",lubi,,,,
+254410,73,"to steal",aieahali,,,45,
+26288,74,"to kill",unu|i,,,1,1
+26645,75,"to die, be dead",mate,,,1,1
+27002,76,"to live, be alive",mauli,,,"1, 76",1
+27359,77,"to scratch",gahili,,,96,
+75751,78,"to cut, hack",ibo,,,51,
+75752,78,"to cut, hack",tom,,,86,
+28073,79,stick/wood,laga-,,,41,
+28430,80,"to split",igali,,,31,
+28787,81,sharp,mata,,,36,
+29144,82,"dull, blunt",bou,,,21,
+29501,83,"to work",umai,,,1,1
+284099,86,"to grow",tubu,,,1,
+30929,87,"to swell","ie pou","irregular *b > p",,81,
+76391,88,"to squeeze",hihi,,,21,
+76392,88,"to squeeze",tam,,,33,
+31643,89,"to hold",ʔabi,,,23,
+32000,90,"to dig",sala,,,10,?
+254422,91,"to buy",une,,,,
+33428,94,"to throw",tu,,,31,
+33785,95,"to fall",beʔu,,,25,
+34142,96,dog,kedewa,"(cf. 69)",,18,
+34499,97,bird,manu,,,1,1
+77005,98,egg,kasino,,,102,
+77006,98,egg,pou,,,15,
+35213,99,feather,goi-,,,,
+35570,100,wing,bala-,,,,
+35927,101,"to fly","ie lo|i",,,1?,1?
+254423,102,rat,ibou,,,93,
+36641,103,meat/flesh,buluma,,,34,
+36998,104,fat/grease,momona-,,,"1,65",1
+37355,105,tail,dele-,,,81,
+37712,106,snake,mota,,,12,
+38069,107,"worm (earthworm)",niʔoi,,,88,
+38426,108,louse,tuma,,,3,
+254419,109,mosquito,ni'ini'ili,,,17,
+39497,111,fish,yama,,,33,
+39854,112,rotten,posa-,,,"9, 74",
+40211,113,branch,laga-,,,"1,34",
+40568,114,leaf,lugu-,,,16,
+40925,115,root,lam-,,,3,1
+41282,116,flower,pasa,,,33,
+41639,117,fruit,ua-ua,,,1,1
+41996,118,grass,lagau,,,33,
+42353,119,earth/soil,tano,,,1,1
+42710,120,stone,weʔu,,,17,
+43067,121,sand,gelegele,"cf PCPacific 'soil'",,"30,74",
+43424,122,water,goila,,,2,?
+43781,123,"to flow","ie didi",,,52,
+44138,124,sea,gabogabo,,,73,
+44495,125,salt,ʔalita,,,12,?
+44852,126,lake,pulu,"< 'pool' ?",L?,,
+45209,127,woods/forest,"nuʔula gunuala",,,"28,39",
+45566,128,sky,galewa,,,16,
+254411,129,moon,nawalai,,,13,
+46280,130,star,ʔipola,,,16,
+78663,131,cloud,yada,,,102,
+78664,131,cloud,yaloi,,,23,
+46994,132,fog,goula,,,"1, 55",
+47351,133,rain,nabu,,,28,
+289077,134,thunder,palepalele,,,15,
+289076,135,lightning,namanamali,,,18,
+48422,136,wind,mana,,,21,
+48779,137,"to blow",yuhi,,,4,
+49136,138,warm,gigiboli,,,49,
+49493,139,cold,"gogoma waʔoʔo",,,49,
+49850,140,dry,pitali,,,74,
+50207,141,wet,buta,,,20,
+50564,142,heavy,polohe,,,69,
+50921,143,fire,"ʔoyagi alasi-",,,,
+51278,144,"to burn",gabu,,,16,
+51635,145,smoke,asu,,,2,1
+51992,146,ash,ʔahu,,,1,1
+52349,147,black,dubaduba,,,21,
+52706,148,white,posiposi,,,67,?
+53063,149,red,buyabuya,,,26,
+53420,150,yellow,yogeyoge,,,86,
+53777,151,green,ʔalaʔalawa,,,"13, 52",
+54134,152,small,gagili-,,,68,
+54491,153,big,laʔilaʔi,,,43,
+54848,154,short,kuʔukuʔu,,,94,
+55205,155,long,lohaloha,,,36,
+55562,156,thin,yaloyalo,,,66,
+55919,157,thick,potopoto,,,67,
+56276,158,narrow,mosisi,,,,
+56633,159,wide,tabataba,,,51,
+254421,160,"painful, sick",asiebo,,,,
+57704,162,old,beabea-,,,50,
+58061,163,new,halihaliu-,,,"1,63",
+58418,164,good,lolo,,,133,
+58775,165,"bad, evil",baʔaya,,,18,
+59132,166,"correct, true",mamohoi,,,59,
+59489,167,night,maiona,,,81,
+59846,168,day,ʔasubena,,,"1,31",
+60203,169,year,bolimai,,,15,?
+60560,170,when?,auyana,,,,
+61631,173,at,yai,,,12,
+61988,174,"in, inside","ʔalo-na yai",,,65,?
+63059,177,this,ina,,,67,
+63416,178,that,neʔi,,,,
+81611,179,near,gegesina,,,,
+81612,179,near,hanahanau,,,,
+64130,180,far,lohaloha,,,23,
+64487,181,where?,"saha yai","'what at?'",,,
+64844,182,I,yau,,,"1,21",
+65201,183,thou,oa,,,1,1
+65558,184,he/she,ia,,,1,
+118963,185,we,ʔita,,,1,1
+118964,185,we,ʔai,,,2,
+66272,186,you,ʔomi,,,"1,13",1
+66629,187,they,isi,,,"25,42",1
+66986,188,what?,saha,,,1,
+67343,189,who?,yai,,,56,1
+67700,190,other,esau,,,68,?
+68057,191,all,gamagali,,,,
+68414,192,and,yo,,,31,
+68771,193,if,taba,,,"28,83",
+69128,194,how?,edoha,,,19,
+69485,195,"no, not",nige,,,"23,24",
+69842,196,"to count",hasili,,,20,
+70199,197,One,ʔesega,,,32,
+70556,198,Two,labuʔi,,,12,
+70913,199,Three,haiona,,,66,
+71270,200,Four,hasi,,,"1,65",
+254418,201,Five,haligigi,,,23,
+254417,202,Six,"haligigi esega",,,,
+254416,203,Seven,"haligigi labui",,,,
+254415,204,Eight,"haligigi haiona",,,,
+254409,207,Twenty,"tau esega ie mate",,,33,

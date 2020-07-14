@@ -1,0 +1,208 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+170,"Melayu Ambon","Ot Kakerissa",abs,ambo1250,,,"Austronesian, Malayo-Polynesian, Malayo-Chamic, Malayic, Malay","Peng Du","Simon Greenhill","@misc{Kakerissa-170-2005,  author = \"Ot Kakerissa\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-4.00000000000000000000,128.00000000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+170,1,hand,taŋaŋ,,,18,
+527,2,left,kiri,,,1,1
+884,3,right,kanaŋ,,,1,1
+1241,4,leg/foot,kaki,,,"1,32",
+1598,5,"to walk",bajalaŋ,,,21,
+1955,6,road/path,jalaŋ,,,1,1
+2312,7,"to come",dataŋ,,,14,
+2669,8,"to turn",meŋo,,,30,
+3026,9,"to swim",barnaŋ,,,23,
+3383,10,dirty,badaki,,,1,1
+3740,11,dust,abu,,,31,
+4097,12,skin,kuli,,,1,1
+4454,13,back,puŋuŋ,,,24,
+4811,14,belly,poro,,,,
+5168,15,bone,tulaŋ,,,1,1
+5525,16,intestines,usus,,,24,
+5882,17,liver,hati,,,1,1
+6239,18,breast,susu,,,1,1
+6596,19,shoulder,bahu,,,17,
+6953,20,"to know, be knowledgeable",tau,,,1,1
+7310,21,"to think",bapikir,"loan of 22?",,22,
+7667,22,"to fear",taku,,,1,1
+8024,23,blood,dara,,,1,1
+8381,24,head,kapala,"Skt kapala 'skull'",L,45,
+8738,25,neck,lɛhɛr,,,1,1
+9095,26,hair,rambut,,,20,
+9452,27,nose,idoŋ,,,1,1
+9809,28,"to breathe",banapas,,,29,
+10166,29,"to sniff, smell",cioŋ,,,20,
+10523,30,mouth,mulu,,,27,
+10880,31,tooth,gigi,,,17,
+11237,32,tongue,lida,metathesis,,"4,31",1
+11594,33,"to laugh",tatawa,,,1,1
+11951,34,"to cry",manaŋis,,,1,1
+12308,35,"to vomit",munta,,,1,1
+12665,36,"to spit",luda,,,1,1
+13022,37,"to eat",makaŋ,,,1,1
+13379,38,"to chew",kuña,,,16,
+13736,39,"to cook",mamasa,,,19,
+14093,40,"to drink",minɔŋ,,,1,1
+14450,41,"to bite",gigi,,,21,1
+14807,42,"to suck",isap,,,1,1
+15164,43,ear,taliŋa,,,1,1
+15521,44,"to hear",deŋar,,,1,1
+15878,45,eye,mata,,,1,1
+16235,46,"to see",lia,"check that this is not mistyped, check final t?  if so 24",,,
+16592,47,"to yawn",maŋuap,,,1,1
+16949,48,"to sleep",sono,,,,
+17306,49,"to lie down",talantaŋ,,,,
+17663,50,"to dream",mimpi,,,1,1
+18020,51,"to sit",duduk,,,35,
+18377,52,"to stand",badiri,,,1,1
+18734,53,"person/human being",oraŋ,,,20,
+19091,54,man/male,laki-laki,,,2,1
+19448,55,woman/female,perempuan,,,29,
+19805,56,child,anak(ana),,,1,
+20162,57,husband,laki,,,28,
+20519,58,wife,bini,,,5,
+74487,59,mother,mama,,,5,
+74488,59,mother,mai,,,5,
+74554,60,father,papa,,,48,
+74555,60,father,pai,,,48,
+21590,61,house,ruma,,,1,1
+21947,62,thatch/roof,atap,,,1,1
+22304,63,name,nama,,,12,
+22661,64,"to say",bilaŋ,,,,
+23018,65,rope,tali,,,1,1
+23375,66,"to tie up, fasten",ika,,,1,1
+23732,67,"to sew",manjai,,,2,1
+24089,68,needle,jarɔŋ,,,1,1
+24446,69,"to hunt",mancari,,,,
+24803,70,"to shoot",pasaŋ,,,,
+25160,71,"to stab, pierce",tikaŋ,,,31?,
+25517,72,"to hit",pukol,,,27,
+25874,73,"to steal",mancuri,,,19,
+26231,74,"to kill",bunu,,,1,1
+26588,75,"to die, be dead",mati,,,1,1
+26945,76,"to live, be alive",hidop,,,1,1
+27302,77,"to scratch",garu,,,55,1
+27659,78,"to cut, hack",potɔŋ,,,,
+28016,79,stick/wood,kaiju,,,1,1
+28373,80,"to split",bála,,,1,1
+28730,81,sharp,tajaŋ,,,1,1
+29087,82,"dull, blunt",tumpul,,,3,1
+29444,83,"to work",kárja,,,23,
+29801,84,"to plant",taŋaŋ,,,2,1
+30158,85,"to choose",pili,,,1,1
+30515,86,"to grow",tumbu,,,1,1
+30872,87,"to swell",baŋka,,,19,
+31586,89,"to hold",loko,,,,
+31943,90,"to dig",gali,,,1,1
+32300,91,"to buy",báli,,,1,1
+32657,92,"to open, uncover",buka,,,1,1
+33014,93,"to pound, beat",giliŋ,,,,
+33371,94,"to throw",buaŋ,,,36,
+33728,95,"to fall",jato,,,38,
+34085,96,dog,anjiŋ,,,27,
+34442,97,bird,buru,,,17,
+34799,98,egg,tálor,,,1,1
+35156,99,feather,bulu,,,1,1
+35513,100,wing,sayap,,,26,
+35870,101,"to fly",tárbaŋ,,,18,
+36227,102,rat,tikus,,,22,
+36584,103,meat/flesh,dagiŋ,,,26,
+36941,104,fat/grease,gámu,,,26,
+37298,105,tail,ɛkor,,,1,1
+37655,106,snake,ular,,,2,1
+38012,107,"worm (earthworm)",caciŋ,,,23,
+38369,108,louse,kutu,,,1,1
+38726,109,mosquito,ñamu,,,1,1
+39083,110,spider,lawa-lawa,,,1,1
+39440,111,fish,ikaŋ,,,1,1
+39797,112,rotten,busu,,,56,
+40154,113,branch,dahan,,,1,1
+40511,114,leaf,daoŋ,,,1,1
+40868,115,root,akar,,,2,1
+41225,116,flower,buŋa,,,1,1
+41582,117,fruit,bua-bua,,,1,1
+41939,118,grass,rumpu,,,27,
+42296,119,earth/soil,tana,,,1,1
+42653,120,stone,batu,,,1,1
+43010,121,sand,pasir,,,18,
+43367,122,water,air,,,2,1
+43724,123,"to flow",maŋalir,,,1,1
+44081,124,sea,lau,,,6,
+44438,125,salt,garaŋ,,,18,
+44795,126,lake,danau,,,1,1
+45152,127,woods/forest,utaŋ,,,7,1
+45509,128,sky,laŋit,,,1,1
+45866,129,moon,bulaŋ,,,1,1
+46223,130,star,bintaŋ,,,1,
+46580,131,cloud,awaŋ,,,1,
+46937,132,fog,kabut,,,1,1
+47294,133,rain,ujaŋ,,,1,1
+47651,134,thunder,guntur,,,30,
+48008,135,lightning,kilat,,,1,1
+48365,136,wind,aŋiŋ,,,1,1
+48722,137,"to blow",tiop,,,1,1
+49079,138,warm,panas,,,1,1
+49436,139,cold,diŋiŋ,,,1,
+49793,140,dry,kariŋ,,,22,
+50150,141,wet,basa,,,1,1
+50507,142,heavy,bar'at,,,1,1
+50864,143,fire,api,,,1,1
+51221,144,"to burn",bakar,,,25,
+51578,145,smoke,asap,,,49,
+51935,146,ash,abu,,,1,1
+52292,147,black,itaŋ,,,1,1
+52649,148,white,puti,,,1,1
+53006,149,red,mera,,,1,1
+53363,150,yellow,buniŋ,,,1?,
+53720,151,green,ijo,,,25,
+54077,152,small,kacupiŋ,,,,
+54434,153,big,garos,,,,
+54791,154,short,pendé,,,68,1
+55148,155,long,panjaŋ,,,24,
+55505,156,thin,tipis,,,1,1
+55862,157,thick,tab'al,,,26,1
+56219,158,narrow,sas'a,,,32,
+56576,159,wide,lebar,,,1?,
+56933,160,"painful, sick",saki,,,1,1
+57290,161,"shy, ashamed",malu,,,20,
+57647,162,old,tua,,,1,1
+58004,163,new,baru,,,1,1
+58361,164,good,hae,,,,
+58718,165,"bad, evil",kajahataŋ,,,1,1
+59075,166,"correct, true",batul,,,23?,
+59432,167,night,malaŋ,,,20,
+59789,168,day,hari,,,17,1
+60146,169,year,tao,,,1,1
+60503,170,when?,"apa tempo",,,,
+60860,171,"to hide",basambuñi,,,1,1
+61217,172,"to climb",nae,,,1,1
+61574,173,at,di,,,20,1
+61931,174,"in, inside","di dalaŋ",,,1,1
+62288,175,above,"di atas",,,1,1
+62645,176,below,"di bawa",,,1,1
+63002,177,this,ini,,,1,1
+63359,178,that,itu,,,16,1
+63716,179,near,dekat,,,28,
+64073,180,far,jao,,,1,
+64430,181,where?,"di mana",,,20,
+64787,182,I,béta,,,10,
+81882,183,thou,osé,,,,
+81883,183,thou,ale,,,4,
+65501,184,he/she,dia,,,18,1
+65858,185,we,katoŋ,,,,
+66215,186,you,doŋ,,,,
+66572,187,they,kamoŋ,,,,
+66929,188,what?,apa,,,1,1
+67286,189,who?,siapa,,,12,
+67643,190,other,laeŋ,,,2,
+68000,191,all,samua,,,33,
+68357,192,and,dan,,,18,
+68714,193,if,kalo,,,14,
+69071,194,how?,bagaimana,,,23,
+82729,195,"no, not",sé,,,,
+82730,195,"no, not",tar,,,,
+69785,196,"to count",itoŋ,,,31,1
+70142,197,One,satu,,,"1,16",
+70499,198,Two,dua,,,1,1
+70856,199,Three,tiga,,,8,
+71213,200,Four,ampa,,,1,1

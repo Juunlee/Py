@@ -1,0 +1,268 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+119,Savu,Blust,hvn,sabu1255,,,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Bima-Sumba","Penny Keenan","Simon Greenhill","@misc{Blust-119-2005,  author = \"Blust\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-10.61983626058684038185,121.88087715906669927790
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+71413,1,hand,"kai ŋaʔa",,,,
+71414,1,hand,ruai,,,,
+476,2,left,kiriu,"metathesis < *kawiRi ?",,"1,42",?
+833,3,right,kedaŋa,,,"1,62?",
+71494,4,leg/foot,kai,,,1,?
+71495,4,leg/foot,ĵela,,,,?
+71546,5,"to walk",ta-kako,,,48,
+71547,5,"to walk",béla,,,,
+1904,6,road/path,"ru| ĵara",,,1,1
+71646,7,"to come",deka,,,,1
+71647,7,"to come",mai,,,1,1
+71719,8,"to turn",ta-pote,,,,
+71720,8,"to turn",ɓeli,,,4?,
+2975,9,"to swim",ta-naŋi,,,"1,45",1
+3332,10,dirty,raʔi,,,1,1
+3689,11,dust,awu,(cf#146),,1,
+4046,12,skin,kuri,,,1,1
+4403,13,back,deni,,,18,
+4760,14,belly,ɗelu,,,90,
+5117,15,bone,rui,,,2,
+5474,16,intestines,tenié,"metathesis of final vowels? (Emily)",,1,1
+5831,17,liver,ade,,,1,1
+6188,18,breast,huhu,,,1,1
+88301,19,shoulder,"kolo gunu",,,,
+72302,20,"to know, be knowledgeable",tohi,,,,
+72303,20,"to know, be knowledgeable",ia,,,,
+72369,21,"to think",peŋé,,,,
+72370,21,"to think",owé,,,,
+7616,22,"to fear",medaʔu,,,1,1
+7973,23,blood,ra,,,1,1
+8330,24,head,katu,,,6,
+8687,25,neck,lakoko,,,78,
+9044,26,hair,ru,,,40,
+9401,27,nose,huwaŋa,,,,
+9758,28,"to breathe",heŋa,,,2,
+72802,29,"to sniff, smell",buru,,,,
+72803,29,"to sniff, smell",teɗé,,,,
+10472,30,mouth,wu|ɓa,"cp other LS forms",,1,1?
+10829,31,tooth,ŋutu,,,5,
+11186,32,tongue,weʔo,,,44,
+73016,33,"to laugh",ta-mari,,,3,
+73017,33,"to laugh",ɗole,,,,
+73066,34,"to cry",keruka,,,,1
+73067,34,"to cry",taŋi,,,1,1
+12257,35,"to vomit",medu,,,1?,1
+73170,36,"to spit",pe-ilu,,,,
+73171,36,"to spit",pupu,,,,
+12971,37,"to eat",ta-ŋaʔa,,,"1,3",1?
+73310,38,"to chew",ñami,"fix n",,3,1
+73311,38,"to chew",mama,"fix n",,1,1
+73385,39,"to cook",hogo,,,,
+73386,39,"to cook",méréa,,,,
+14042,40,"to drink",ta-ŋinu,,,1,1
+14399,41,"to bite",hiɓi,,,,
+73642,42,"to suck",ta-muhi,,,6,
+73643,42,"to suck",hepa,,,1?,
+15113,43,ear,wodilu,,,"1,4",
+73747,44,"to hear",reŋi,,,1,1
+73748,44,"to hear",reŋé,,,1,1
+15827,45,eye,na-mada,,,1,1
+16184,46,"to see",héléo,,,,
+88287,47,"to yawn",megau,,,,
+16898,48,"to sleep",ta-beji,,,,
+17255,49,"to lie down","pahoro eni",(<M),,1,1
+17612,50,"to dream",ni,,,"1,60",1
+17969,51,"to sit",mejeɗi,,,,
+74100,52,"to stand",tidi,,,1,1
+74101,52,"to stand",keɗi,,,"1,5",1
+18683,53,"person/human being",doʔu,,,1,1
+19040,54,man/male,momone,,,1,1
+19397,55,woman/female,mobeni,,,"1,51",1
+19754,56,child,ana,,,1,1
+20111,57,husband,"ihi emu",,,,
+20468,58,wife,"ihi emu",,,2,
+20825,59,mother,ina,,,1,1
+21182,60,father,ama,,,1,1
+21539,61,house,ĕmu,,,1,1
+22253,63,name,ŋara,,,1,1
+74786,64,"to say",li,,,,
+74787,64,"to say",ta-pedai,,,5?,
+74788,64,"to say",ané,,,5?,
+22967,65,rope,dari,,,1,1
+74988,66,"to tie up, fasten",ta-uje,,,,
+74989,66,"to tie up, fasten",ɓoro,,,,
+74990,66,"to tie up, fasten",eki,,,1?,
+23681,67,"to sew",ĵaʔu,,,3,
+24395,69,"to hunt","tape hudi",,,,
+24752,70,"to shoot",ta-wobe,,,,
+75311,71,"to stab, pierce",ta-teɓo,,,6?,
+75312,71,"to stab, pierce",hue,,,,
+25466,72,"to hit",woba,,,,
+25823,73,"to steal",[me]naʔo,,,"1,59,60",1
+26180,74,"to kill","tape made",,,2,
+26537,75,"to die, be dead",made,,,1,1
+26894,76,"to live, be alive",muri,,,"1,76",1
+75633,77,"to scratch",ta-kao,,,1,1
+75634,77,"to scratch",ta-gai,,,,1
+27608,78,"to cut, hack",eta,,,,
+27965,79,stick/wood,aĵu,,,1,1
+28322,80,"to split",ɓeka,,,36,1
+75951,81,sharp,"do naʔa",,,,
+75952,81,sharp,meriu,,,,
+75987,82,"dull, blunt",ketaba,,,38,
+75988,82,"dull, blunt",kewagu,,,,
+75989,82,"dull, blunt",wada,,,,
+76050,83,"to work",tao,,,,
+76051,83,"to work",ta-jega,,,,
+76110,84,"to plant",hela,,,,
+76111,84,"to plant",kuĵa,,,,
+76176,85,"to choose",ɓili,,,1,1
+76177,85,"to choose",pili,,,1,1
+76222,86,"to grow",muri,,,2,
+76223,86,"to grow",ramé,,,,
+30821,87,"to swell",ta-menjela,,,,
+31178,88,"to squeeze",ta-pue,,,1,1?
+31535,89,"to hold",emi,,,,
+31892,90,"to dig",kaʔi,,,1,?
+32249,91,"to buy",weli,,,1,1
+32606,92,"to open, uncover",boke,,,1,1?
+32963,93,"to pound, beat",daba,"Source ACD: beat on with both hands",,,
+76742,94,"to throw",ta-nabe,,,,
+76743,94,"to throw",ta-daba,,,109,
+76744,94,"to throw",hora,,,,
+76833,95,"to fall",ta-bui,,,1,1
+76834,95,"to fall",buni,,,111,1
+76835,95,"to fall",[me]nawu,,,"1,106",1
+34034,96,dog,ŋaka,,,,
+34391,97,bird,dolila,,,,
+34748,98,egg,delu,,,1,1
+77053,99,feather,raʔu,,,24,
+77054,99,feather,ru,,,24,
+35462,100,wing,ruʔela,,,,
+35819,101,"to fly",lila,,,4,
+77164,102,rat,keɓuku,,,,
+77165,102,rat,kéjôe,,,,
+36533,103,meat/flesh,hedai,,,,
+36890,104,fat/grease,meñi,,,1,1
+37247,105,tail,rulahi,,,,
+37604,106,snake,doɓoho,,,,
+37961,107,"worm (earthworm)",kalate,,,1,1
+38318,108,louse,udu,,,1,1
+77517,109,mosquito,nini,,,17,
+77518,109,mosquito,legu,,,44,
+39032,110,spider,morake,,,,
+39389,111,fish,naduʔu,,,,
+77660,112,rotten,dowoʔo,,,,
+77661,112,rotten,wapa,,,,
+40103,113,branch,kélat,,,,
+77774,114,leaf,roʔo,,,1,1
+77775,114,leaf,ru,,,1,1
+40817,115,root,amo,,,3,1?
+41174,116,flower,wila,,,4,
+41531,117,fruit,wue,,,1,1
+41888,118,grass,ruĵuʔu,,,,
+42245,119,earth/soil,rai[wawa],,,4?,
+42602,120,stone,"wo wadu",,,1,1
+42959,121,sand,"laha lae",,,,
+43316,122,water,ei,,,2?,1?
+78263,123,"to flow",mili,,,1,?
+78264,123,"to flow",ri,,,,?
+78326,124,sea,dahi,,,1,1
+78327,124,sea,lou,,,,1
+78392,125,salt,méŋehi,,,"3,48",
+78393,125,salt,hero,,,3,
+45101,127,woods/forest,"roʔa jami",,,8,
+45458,128,sky,liru,,,8,
+45815,129,moon,weru,,,,1
+46172,130,star,moto,,,,
+46529,131,cloud,méremu,,,,
+47243,133,rain,aji,,,,
+47600,134,thunder,ɗoro,,,,?
+48314,136,wind,ŋelo,,,5,
+48671,137,"to blow",ta-tiu,,,,1
+79084,138,warm,pana,,,1,1
+79085,138,warm,kewowo,,,,1
+49385,139,cold,meriŋi,,,1,1?
+79231,140,dry,kemaŋu,,,1?,1?
+79232,140,dry,kelili,,,,1?
+50099,141,wet,ta-boɓo,,,,
+50456,142,heavy,mejiŋi,,,,
+50813,143,fire,ai,,,1,1
+51170,144,"to burn",ta-tunu,,,1,1
+51527,145,smoke,habu,,,7,
+51884,146,ash,awu,,,1,1
+52241,147,black,"do medi",(<M),,1,1
+52598,148,white,"do pudi",,,1,1
+52955,149,red,mea,,,1,1
+53312,150,yellow,kalara,,,,
+53669,151,green,méŋeru,,,4?,
+54026,152,small,iki,,,121,1
+54383,153,big,worena,,,,
+54740,154,short,na-ɓaɓa,,,54,1
+113886,155,long,medera,,,7?,
+113887,155,long,merai,,,5,
+55454,156,thin,meni,,,1,1
+55811,157,thick,meʔaa,,,,1
+80258,158,narrow,kedadu,,,,
+80259,158,narrow,ɓera,,,,
+56525,159,wide,"do ɓela",,,2,
+80367,160,"painful, sick",ahé,,,,
+80368,160,"painful, sick",keboo,,,,
+80369,160,"painful, sick",peɗa,,,23,
+88289,161,"shy, ashamed","mékaé (dhara)",,,1,
+80488,162,old,do|weka,,,5?,
+80489,162,old,duiʔ,,,,
+57953,163,new,do|wiʔu,,,1?,?
+80584,164,good,ié,,,1,1
+80585,164,good,woʔié,,,1,1
+58667,165,"bad, evil",do|woapa,,,,
+59024,166,"correct, true",petu,,,6?,
+80825,167,night,meɗa,,,,
+80826,167,night,remi,,,,
+59738,168,day,loɗo,,,12,1
+60095,169,year,tau,,,1,1
+60452,170,when?,p|eri,,,"1,65",1
+113888,171,"to hide",huni,,,1,1
+113889,171,"to hide",wuni,,,1,1
+88300,172,"to climb",hae,,,4,
+61523,173,at,pa,,,,
+81204,174,"in, inside","me rămă",,,1,
+81205,174,"in, inside",ɗara,,,1,
+62237,175,above,ɗida,,,5,
+62594,176,below,wawa,,,1,1
+81352,177,this,nane,,,1,1
+81353,177,this,pane,,,1,1
+81354,177,this,oni,,,1,1
+63308,178,that,nani,,,1,
+81584,179,near,umu,,,,
+81585,179,near,hédeka,,,,
+64022,180,far,jaʔu,,,1,1
+64379,181,where?,pami,,,,
+64736,182,I,ja,,,,
+65093,183,thou,ao,,,1,1
+65450,184,he/she,no,,,,
+81999,185,we,di,,,9,
+82000,185,we,ĵi,,,1?,
+66164,186,you,mu,,,"1,13",1
+66521,187,they,ro,,,5,?
+66878,188,what?,niŋa,,,,
+67235,189,who?,nado,,,,
+82341,190,other,"do wala",,,,
+82342,190,other,aŋa,,,,
+67949,191,all,hariale,,,,
+68306,192,and,ŋa,,,2,?
+82590,193,if,kiri,,,,
+82591,193,if,we,,,,
+69020,194,how?,"mina mi",,,23,
+69377,195,"no, not",ado,,,,
+69734,196,"to count",ta-reke,,L,39,
+70091,197,One,ehi,(<M),,1,1
+70448,198,Two,ɗue,,,1,1
+70805,199,Three,telu,,,1,1
+71162,200,Four,epa,,,1,1
+88299,201,Five,lemi,,,1,
+88298,202,Six,ena,,,1,
+88297,203,Seven,pidu,,,1,
+88296,204,Eight,eru,,,3,
+88295,205,Nine,héo,,,5,
+88288,206,Ten,hénguru,,,5?,
+88294,207,Twenty,"dhue nguru","\"dh\" = implosive",,,
+88293,208,Fifty,"lemi nguru",,,"1,2",
+88291,209,"One Hundred",héngahu,,,4,
+88292,210,"One Thousand",hétebha,"\"bh\" = implosive",,,

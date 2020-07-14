@@ -1,0 +1,208 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+105,Nissan,"Blust, from Todd (1978), Mayr (1931)",nsn,neha1247,"Mayr, E. (1931) Wörter der Nissan-Sprache. Zeitschrift für Eingeborenen Sprachen, 21:252-256.Todd, E.M. (1978) A sketch of Nissan (Nehan) grammar. In S.A. Wurm & L. Carrington (Eds.), Second International Conference on Austronesian Linguistics: Proceedings (pp. 1181-1239). Canberra: Pacific Linguistics.",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, South New Ireland-Northwest Solomonic, Nehan-North Bougainville, Nehan","Peng Du","Simon Greenhill","@incollection{162270,  address    = {Canberra},  booktitle  = {Proceedings of the 2nd International Conference on Austronesian Linguistics: Fascicle 2},  pages      = {1181-1239},  publisher  = {Research School of Pacific and Asian Studies, Australian National University},  series     = {Pacific Linguistics: Series C},  title      = {A Sketch of Nissan (Nehan) Grammar},  volume     = {61},  year       = {1978},  bibtexkey  = {todd_nissan-nehan1978},  fn         = {papua\wurm-carrington_2-austronesian1978pages.pdf, papua\todd_nissan1978_o.pdf, papua\wurm-carrington_2-austronesian1978pages_o.pdf},  hhtype     = {grammar_sketch},  inlg       = {English [eng]},  inlg_code  = {eng},  macro_area = {Papua},  src        = {hh, wals},  srctrickle = {hh#s:Todd:Nissan, wals#6027},  author     = {Todd, Evelyn M.},  editor     = {Wurm, Stephen and Carrington, Lois}}@article{mayr1931a,  date     = {1931},  title    = {Wörter der Nissan-Sprache},  journal  = {Zeitschrift für Eingeborenen Sprachen},  volume   = {21},  pages    = {252–256},  language = {de},  author   = {Mayr, E.}}"
+latitude,longitude
+-4.59088225038225505870,154.20659763304519174199
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+105,1,hand,lima-,,,1,1
+462,2,left,kais,"borrowing? TP kais",,15,
+71474,3,right,kawiwih,"< *ka-wiRi 'left'",,,
+71475,3,right,makos[o],,,,
+1176,4,leg/foot,keke-,,,1,
+1533,5,"to walk",lala,,,"1, 69",1?
+1890,6,road/path,lel,,,8,
+2247,7,"to come",la|me,,,"1,85",1
+2604,8,"to turn",tapokisi,,,35,
+2961,9,"to swim",huhu,,,12,
+71818,10,dirty,beŋ,,,,
+71819,10,dirty,uh[o],,,,
+3675,11,dust,wau,,,1,
+4032,12,skin,kapoko-,,,12,
+4389,13,back,mudin,,,3,
+4746,14,belly,balan,,,18,
+5103,15,bone,hiro-,,,9,
+5817,17,liver,kodan,,,10,
+6174,18,breast,huhu-,,,1,1
+6531,19,shoulder,huhuata-,,,13,
+6888,20,"to know, be knowledgeable",ate,,,35,
+251313,21,"to think",naman,,,28,
+7602,22,"to fear",sokoro,,,10,
+7959,23,blood,dewacin,,,8,
+8316,24,head,lu-,,,1,1?
+8673,25,neck,wekweko-,,,26,
+9030,26,hair,ulu-,,,31,
+9387,27,nose,ŋusu-,,,27,
+9744,28,"to breathe",uŋa,,,19,
+10101,29,"to sniff, smell",amuh,,,14,
+10458,30,mouth,wawa-,,,36,1
+10815,31,tooth,liwo-,,,"1,35",1
+11172,32,tongue,mia-,,,7,?
+11529,33,"to laugh",wanio-,,,19,
+12243,35,"to vomit",lua,,,8,
+12600,36,"to spit",lou,,,24,
+12957,37,"to eat",an[i],,,1,1
+73381,39,"to cook",moh[o],,,"19,82",
+73382,39,"to cook",wasuluŋ,,,14,
+14028,40,"to drink",inum,,,1,1
+14385,41,"to bite",etir,,,11,
+15099,43,ear,taliŋa,,,1,1
+15456,44,"to hear",loŋor[o],,,"1, 36",1
+15813,45,eye,mata-,,,1,1
+16170,46,"to see",baŋa,,,16,
+16884,48,"to sleep",hohow[o],,,13,
+17241,49,"to lie down",rikin,,,12,
+17598,50,"to dream",borboriana,,,10,
+17955,51,"to sit",tabil[a],,,22,
+18312,52,"to stand",tur,,,"2,69",1
+18669,53,"person/human being",tamata,,,"1,66",1
+19026,54,man/male,bulot,,,16,
+19383,55,woman/female,kuah[a],,,10,
+74358,56,child,keketik,,,10,
+74359,56,child,tu-,,,5,
+20097,57,husband,nabulot,,,16,
+20454,58,wife,kuah[a],,,15,
+20811,59,mother,tina-,,,1,1
+21168,60,father,tama-,,,1,1
+21525,61,house,um[a],,,1,1
+21882,62,thatch/roof,kukuna-rum,,,13,
+22239,63,name,haŋa,"<metathesis of 1?",,"1,15",1?
+22596,64,"to say",kulo,,,,
+74892,65,rope,iawon,,,14,
+74893,65,rope,woh,,,27,
+23310,66,"to tie up, fasten",wenut,,,,
+23667,67,"to sew",susuki,,,"17, 48",
+24381,69,"to hunt",hihip,,,18,
+75244,70,"to shoot",pilan,,,27,1
+75245,70,"to shoot",wan[a],,,1,1
+75309,71,"to stab, pierce",haka,,,,
+75310,71,"to stab, pierce",sop,,,17,
+25452,72,"to hit",haluh,,,1,
+25809,73,"to steal",wenaw[a],,,"1,32",1?
+26166,74,"to kill",pos,,,17,1
+26523,75,"to die, be dead",mat,,,1,
+26880,76,"to live, be alive",waŋol,,,,
+27237,77,"to scratch",keh,,,5,
+27594,78,"to cut, hack",tokot,,,"3,141",
+27951,79,stick/wood,dok,,,4,
+28308,80,"to split",polaka,,,1,?
+28665,81,sharp,man,,,24,
+76046,83,"to work",wok,,L,,
+76047,83,"to work",kalekinale,,,16,
+30807,87,"to swell",isiŋ,,,14,
+31164,88,"to squeeze",tiŋia,,,,
+31878,90,"to dig",tawi,,,59,
+33663,95,"to fall",puŋ[a],,,21,
+34020,96,dog,lo,,,12,
+34377,97,bird,tetiaw[a],,,12,
+34734,98,egg,tagun[a],,,11,
+77049,99,feather,lale,,,38,1
+77050,99,feather,ulu-,,,1,1
+35448,100,wing,tetia|wan,,,14,1?
+35805,101,"to fly",luluh,,,1,
+36162,102,rat,kih,,,"3,88",
+36519,103,meat/flesh,sinsiŋin,,,18,
+36876,104,fat/grease,uleki-,,,,
+37590,106,snake,soi,,,17,
+38304,108,louse,ut,,,1,1
+38661,109,mosquito,kohik,,,15,
+39375,111,fish,ian[a],,,1,1
+39732,112,rotten,beŋ,,,21,
+40089,113,branch,raŋ,,,"1,21",
+40446,114,leaf,kamanan,,,14,
+40803,115,root,wan,,,39,
+77891,116,flower,kalaŋuh[u],,,,
+77892,116,flower,purpur,,L?,13,
+41517,117,fruit,wawan,,,1,1?
+42231,119,earth/soil,kot,,,15,
+42588,120,stone,palaw[a],,,9,
+42945,121,sand,i|on,,,1,1
+78189,122,water,kodom[o],,,7,
+78190,122,water,wonun[a],,,,
+78319,124,sea,laur,,,6,1
+78320,124,sea,lor,,,6,1
+78321,124,sea,teh,,,1,1
+44373,125,salt,teh,,,20,
+44730,126,lake,lobolob,,,,
+45087,127,woods/forest,lolon,,,31,
+45444,128,sky,laŋit,,,1,1
+45801,129,moon,bialok,,,9,
+46158,130,star,pitopit,<(m),,"11,81",1
+46515,131,cloud,laŋit,,,3,
+46872,132,fog,malahoŋ,,,,
+47229,133,rain,huan[a],,,"1,19",1?
+47586,134,thunder,pil,,,23,
+47943,135,lightning,kanau,,,14,
+48300,136,wind,rom,,,15,
+48657,137,"to blow",hag,,,,
+49014,138,warm,welsuk[u],,,15,
+79143,139,cold,malahoŋ,,,15,
+79144,139,cold,mamawa,,,56,
+79145,139,cold,molomol,,,,
+79226,140,dry,kadak,,,17,
+79227,140,dry,papadak,,,17,
+50085,141,wet,bus,,,16,
+50799,143,fire,hue,,,22,
+51156,144,"to burn",wa-luh,,,13,
+51513,145,smoke,diku,,,15,
+79582,146,ash,kumahuan,,,12,
+79583,146,ash,taun,,,28,
+52227,147,black,kurkurum[u],,,13,
+52941,149,red,kubkubar,,,20,
+53298,150,yellow,iawiawel,,,16,
+53655,151,green,pelek,,,18,
+79868,152,small,kit[i],"irregular *q > k",,121,1
+79869,152,small,lik,"irregular l reflex of *r",,"66, 82",1
+54369,153,big,ulek,,,16,
+54726,154,short,puhin[a],,,15,
+55083,155,long,barah,,,16,
+80214,157,thick,bulut[u],,,,
+80215,157,thick,obot,,,14,
+56154,158,narrow,kisoŋ,,,34,
+80313,159,wide,rabian,,,47,
+80314,159,wide,tahaŋ,,,,
+56868,160,"painful, sick",momoh,,,17,
+57225,161,"shy, ashamed",matalo,cp.moken,,10,
+57582,162,old,mahoh,,,,
+57939,163,new,timuh,,,11,
+58296,164,good,wia,,,1,1
+58653,165,"bad, evil",sa,,,1,1
+59010,166,"correct, true",man[a],,,14,
+59367,167,night,boŋ,,,1,1
+80867,168,day,daan,,,6,1
+80868,168,day,maran,,,6,1
+60081,169,year,krismas[i],Loan,L,,
+60438,170,when?,maŋiha,,,"1,48",
+61152,172,"to climb",moto,,,12,
+61509,173,at,i,,,1,1
+61866,174,"in, inside",lolon[a],,,1,1?
+62223,175,above,"i rana",,,12,
+62580,176,below,kukule,,,,
+62937,177,this,gine,,,1,1?
+63294,178,that,gila,,,,
+63651,179,near,wahuhut[u],,,16,
+64008,180,far,irah,,,17,
+64365,181,where?,ia,,,37,
+64722,182,I,iŋo,,,14,
+65079,183,thou,iŋa,,,7,
+81950,184,he/she,iŋn[o],,,7,
+81951,184,he/she,git,,,,
+111943,185,we,iŋeg,,,14,
+111944,185,we,iŋam,,,14,
+66150,186,you,iŋam,,,8,
+82145,187,they,gisin[o],,,6,
+82146,187,they,gisit,,,6,
+82239,188,what?,hapa,,,1,
+82240,188,what?,hawa,,,1,
+67221,189,who?,mae,,,11,
+82335,190,other,gisamehe,,,,
+82336,190,other,giomeher,,,,
+82403,191,all,udel,,,,
+82404,191,all,wakap[a],,,46,
+68292,192,and,doh,,,13,
+68649,193,if,get,,,8,
+69006,194,how?,hapa,,,15,
+69363,195,"no, not",ahik,,,"1,16",
+111945,197,One,kah,,,32,
+111946,197,One,siok[o],,,12,
+70434,198,Two,torik[i],,,5,
+70791,199,Three,towon[o],,,5,
+71148,200,Four,towat[i],,,"1,65",1

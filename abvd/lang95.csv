@@ -1,0 +1,230 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+95,Moken,"Blust, from Chantanakomes (1980)",mwt,moke1242,"Chantanakomes, V. 1980. A description of Moken: A Malayo-Polynesian language, Institute of Language and Culture for Rural Development, Mahidol University: M.A. Thesis.Has term for dugout canoe shared with S. Taiwanese and S. Philippines languages \"qabang\"",,"Austronesian, Malayo-Polynesian, Moklen","Peng Du","Simon Greenhill","@mastersthesis{59047,  pages            = {359},  publisher        = {Nakhon Pathom},  school           = {Mahidol University},  title            = {A description of Moken: a Malayo-Polynesian language},  url              = {http://archives.sealang.net/mahidol},  year             = {1980},  bibtexkey        = {chantanakomes_moken-malayo1980},  class_loc        = {DS485 .B85},  document_type    = {CF},  fn               = {eurasia\chantanakomes_moken1980_o.pdf, papua/veena_moken1980_o.pdf},  fnnote           = {pdf, 7,85 MB},  hhtype           = {grammar},  inlg             = {English [eng]},  inlg_code        = {eng},  macro_area       = {Eurasia},  mpifn            = {moken_veena1980_o.pdf},  src              = {hh, mpieva},  srctrickle       = {hh#g:Chantanakomes:Moken, mpieva#Chantanakomes1980Adescrip},  subject_headings = {Moken (Southeast Asian people), Moken (Southeast Asian people)},  author           = {Chantanakomes, Veena}}"
+latitude,longitude
+9.50737630246525178279,98.84693459772529422480
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+95,1,hand,ŋan,"< PMP *tangan 'thumb', with semantic change in Malay and few close relatives or languages that have borrowed from Mala",L,18?,
+452,2,left,ʔeloy,,,86,1
+809,3,right,n|ana:n,,,1,1
+83944,4,leg/foot,pakaʔ,,,20,1
+83945,4,leg/foot,kakay,,,1,
+1523,5,"to walk",lakaw,,,1,1
+1880,6,road/path,yala:n,"probably a Malay loan from jalan",1,,1
+2237,7,"to come",ŋadin,,,,
+2594,8,"to turn",ñiliək,,,,
+2951,9,"to swim",naŋoy,,,1,1
+3308,10,dirty,caʔiək,,,,
+3665,11,dust,kaboy,MBL,,,
+4022,12,skin,bulaŋ,,,,
+4379,13,back,leko:t,,,1,1
+4736,14,belly,lakeʔ,,,,
+5093,15,bone,kəla:n,,,1,1
+5807,17,liver,katay,,,1,1
+6164,18,breast,dadaʔ,,,12,
+6521,19,shoulder,bahoy,"probable Malay loan",L?,17,
+6878,20,"to know, be knowledgeable",ñədan,,,,
+7235,21,"to think",məkʰit,,,23,
+72404,22,"to fear",gaya:ŋ,,,,1
+72405,22,"to fear",lako:t,,,1?,1
+7949,23,blood,dala:k,,,1,1
+8306,24,head,ʔotak,"Malay loan",L,30,
+72543,25,neck,tukʰo:,,,,
+72544,25,neck,bulo:ŋ,,,70,
+9020,26,hair,buloy,,,,
+72687,27,nose,cahu:ŋ,MBL,,,1
+72688,27,nose,yoŋ,MBL,,1?,1
+9734,28,"to breathe",paho:t,,,,
+10448,30,mouth,ʔoka:ŋ,,,,
+10805,31,tooth,lepan,,,1,1
+11162,32,tongue,kəleʔ,,,,
+11519,33,"to laugh",nawaʔ,,,1,1
+11876,34,"to cry",naŋay,,,1,1?
+12233,35,"to vomit",mota:k,,,1,1
+12590,36,"to spit",ŋañaw,,,,
+73223,37,"to eat",peh,,,,
+73224,37,"to eat",ñam,,,,
+13304,38,"to chew",məña:y,,,,
+13661,39,"to cook",mədo:t,,,,
+14018,40,"to drink",maʔam,,,,
+14375,41,"to bite",loko:t,,,,
+14732,42,"to suck",mujo:t,,,,
+15089,43,ear,"tetoŋ teŋaʔ",,,1,1?
+15446,44,"to hear",ñaʔiəŋ,,,,
+15803,45,eye,mataʔ,,,1,1
+16160,46,"to see",pənaʔ,,,131,
+16874,48,"to sleep",midu:n,,,1?,1?
+74006,49,"to lie down",batiŋ,,,29,
+74007,49,"to lie down",ŋuliəŋ,,,54,
+17588,50,"to dream",lipuy,,,1?,1?
+74059,51,"to sit",təŋok,,,,
+74060,51,"to sit",mədo:k,,,,
+18302,52,"to stand",ñenan,,,,?
+74148,53,"person/human being",kəti:,,,,
+74149,53,"person/human being",mənut,,,,
+19016,54,man/male,kanay,,,1,1
+19373,55,woman/female,binay,,,"1,41",1
+74354,56,child,cana:t,,,1,1
+74355,56,child,ana:t,,,1,1
+20087,57,husband,kanay,MBL,,,
+20444,58,wife,binay,MBL,,5,
+20801,59,mother,ʔenoŋ,,,,1?
+21158,60,father,ʔapoŋ,,,12,?
+21515,61,house,ʔoma:k,,,1,1
+21872,62,thatch/roof,kʰaja:ŋ,"Malay item, but widely borrowed as the name of the type of thatch roof used in houseboats",L?,,
+22229,63,name,ŋañan,,,1,1
+22586,64,"to say",mañak,(<+bajaq),,,
+22943,65,rope,kəway,,,,
+74979,66,"to tie up, fasten",mekat,,,1,1
+74980,66,"to tie up, fasten",lebay,,,,1
+23657,67,"to sew",məñiəŋ,,,,
+24014,68,needle,yalum,,,1,1
+24728,70,"to shoot",məñiŋ,,,,
+75305,71,"to stab, pierce",ləbak,(<+tebek),,,
+75306,71,"to stab, pierce",ləkam,(<+tebek),,,
+25442,72,"to hit",məcʰun,,,,
+75461,73,"to steal",gupe:t,,,,
+75462,73,"to steal",ŋəlat,,,,
+26156,74,"to kill",munu:k,,,1,1
+26513,75,"to die, be dead",matay,,,1,1
+26870,76,"to live, be alive",kudip,,,1,1
+27227,77,"to scratch",ŋalaw,,,1,1
+75695,78,"to cut, hack",mətet,MBL,,3?,1
+75696,78,"to cut, hack",malak,MBL,,,1
+27941,79,stick/wood,kaʔi:,,,1?,?
+28298,80,"to split",mala:k,(<belaq?),,1,1
+28655,81,sharp,lajam,,,1,1
+29012,82,"dull, blunt",topon,,,3?,1?
+29726,84,"to plant",manam,,,2,1
+30083,85,"to choose",miliək,,,1,1
+30440,86,"to grow",lumu:k,,,,1
+30797,87,"to swell",balak,,,1,1
+31154,88,"to squeeze",mənak,,,,1?
+76436,89,"to hold",ŋapi:t,,,,?
+76437,89,"to hold",məgaŋ,,,32,?
+31868,90,"to dig",ŋaloy,,,1,1
+32225,91,"to buy",məloy,,,1,1
+76632,92,"to open, uncover",məkʰat,,,,
+76633,92,"to open, uncover",ŋaŋah,,,27,
+32939,93,"to pound, beat",məño:k,,,,
+33296,94,"to throw",ñəmat,,,,
+76831,95,"to fall",pəloʔ,,,1,1
+76832,95,"to fall",labu:k,,,1,1
+34010,96,dog,ʔoy,"(cp. ma?am 'sour', 160)",,,1?
+34367,97,bird,cicum,"form is Austroasiatic (cicum 'bird' – also shared with Chamic)",,,
+34724,98,egg,kəlu:n,,,1,1
+77109,100,wing,paka:,,,33,
+77110,100,wing,pi:t,,,46,
+35795,101,"to fly",ŋaya:p,,,2,
+36152,102,rat,tiku:,"probable Malay loan",L?,22,
+36509,103,meat/flesh,yukut,,,,
+36866,104,fat/grease,məña:t,,,1,1
+37223,105,tail,ʔiku:n,,,1,1
+37580,106,snake,ʔola:n,,,2,1
+37937,107,"worm (earthworm)",gəlaŋ,,,15,
+38294,108,louse,gutoy,,,1,1
+38651,109,mosquito,ñamok,,,1,1
+39008,110,spider,gato:n,,,,
+39365,111,fish,ʔeka:n,,,1,1
+39722,112,rotten,podo:t,,,,
+40079,113,branch,daka:ŋ,,,1,1
+40436,114,leaf,daʔon,,,1,1
+40793,115,root,y|akan,,,2?,?
+41150,116,flower,buŋaʔ,,,1,1
+41507,117,fruit,buə:k,,,1,1
+41864,118,grass,lopot,,,27?,
+42221,119,earth/soil,tanak,,,1,1
+42578,120,stone,batoy,,,1,1
+42935,121,sand,kənay,,,1,1
+78187,122,water,noʔen,,,,1?
+78188,122,water,wi:n,,,2?,1?
+78259,123,"to flow",ʔaku:n,,,,
+78260,123,"to flow",bəje:,,,,
+44006,124,sea,ʔoki:n,,,,
+44363,125,salt,selaʔ,,,1,1
+45077,127,woods/forest,kota:n,,,7,1
+45434,128,sky,kəniəŋ,,,,
+45791,129,moon,bula:n,,,1,1
+46148,130,star,bituək,,,1,1
+46505,131,cloud,kəniəŋ,,,,
+47219,133,rain,"kʰu ja:n",,,1,1
+47576,134,thunder,təgu:n,,,,?
+47933,135,lightning,kela:t,,,1,1
+48290,136,wind,ʔaŋin,,,1,1
+48647,137,"to blow",məñup,"Malay loan",L,"1,19",1
+79074,138,warm,kola:t,,,,
+79075,138,warm,laʔŭʔ,,,22,
+79139,139,cold,cəŋe:m,,,,
+79140,139,cold,lipi:t,,,30,
+49718,140,dry,səloy,,,,
+50075,141,wet,pʰa:k,,,,1?
+50432,142,heavy,baʔa:t,,,1,1?
+50789,143,fire,ʔapuy,,,1,1
+79464,144,"to burn",pəla:,,,,
+79465,144,"to burn",maʔum,,,,
+51503,145,smoke,kahoy,,,,1
+51860,146,ash,kaboy,,,1,1
+52217,147,black,ketam,,,1,1
+52574,148,white,putiək,,,1,1
+52931,149,red,mela:k,,,1,1
+53288,150,yellow,kuñit,,,1,1
+53645,151,green,ŋomo:ŋ,,,,
+54002,152,small,nek,,,,?
+54359,153,big,ʔadaʔ,,,,
+54716,154,short,baba:k,,,54,1
+55073,155,long,datah,,,38,
+55430,156,thin,ñipih,,,1,1
+55787,157,thick,tʰaw,,,,
+56144,158,narrow,paʔi:t,,,,?
+56858,160,"painful, sick",make:t,,,1,1
+57215,161,"shy, ashamed",talaw,,,,
+57572,162,old,tukaʔ,,,1,1
+57929,163,new,kəloy,,,1,1
+58286,164,good,ʔa|mo:n,,,,
+58643,165,"bad, evil",ʔa|du:t,,,,?
+59000,166,"correct, true",yaw,,,,
+80823,167,night,kəman,,,,
+80824,167,night,dik,,,,
+59714,168,day,ʔaloy,,,17,1
+60071,169,year,takon,,,1,1
+60428,170,when?,ʔu|pʰi:n,,,,?
+60785,171,"to hide",munuy,,,1,1
+61142,172,"to climb",ñaʔek,,,1,1
+61499,173,at,tʰi:,,,20,
+61856,174,"in, inside",dalam,,,1,1
+62213,175,above,d|ata:,"cf 155",,1,1
+62570,176,below,ləbu:k,,,,
+62927,177,this,ni:,,,1,1
+63284,178,that,ñu:,,,,
+63641,179,near,daniʔ,,,1,1
+63998,180,far,naño:t,,,,
+64355,181,where?,bita:,,,,
+64712,182,I,cǔy,,,,?
+81870,183,thou,kah̃e:,,,,
+81871,183,thou,ʔiǐŋ,,,,
+81946,184,he/she,ʔola:ŋ,,,,
+81947,184,he/she,ña:,,,2,
+120888,185,we,ʔetaʔ,,,1,1
+120889,185,we,kamoy,,,2,
+66140,186,you,kañe:,,,,
+66497,187,they,ʔola:ŋ,,,,
+66854,188,what?,ʔano:,,,2,
+67211,189,who?,ʔaca:,,,,
+67568,190,other,ʔasiŋ,"probable Malay loan",L?,18,
+82399,191,all,tapʰu:ŋ,,,,
+82400,191,all,kətoy,,,,
+68282,192,and,toŋ,,,,
+68639,193,if,saʔ,,,,
+68996,194,how?,ciphan,,,,
+82706,195,"no, not",kan,,,26,
+82707,195,"no, not",hah,,,,
+69710,196,"to count",mənap,,,2,
+70067,197,One,saʔ,,,1,1
+70424,198,Two,tʰəwaʔ,,,1,1
+70781,199,Three,təloy,,,1,1
+71138,200,Four,pa:t,,,1,1
+83797,201,Five,lemaʔ,,,1,
+83737,202,Six,nam,,,1,
+83619,203,Seven,luju:k,,,4,
+83570,204,Eight,waloy,,,3,
+83495,205,Nine,sewa:y,,,5,
+83413,206,Ten,cəpoh,,,5,

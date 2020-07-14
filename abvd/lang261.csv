@@ -1,0 +1,4 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+261,"Futuna, West","POLLEX 2000 (Bruce Biggs & Ross Clark)",fut,futu1245,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, Samoic-Outlier, Futunic","Simon Greenhill","Simon Greenhill","@article{POLLEX,  journal = {Oceanic Linguistics},  number  = {2},  pages   = {551--559},  title   = {{POLLEX-Online: The Polynesian Lexicon Project Online}},  volume  = {50},  year    = {2011},  author  = {Greenhill, Simon J. and Clark, Ross}}"
+latitude,longitude
+-19.57764949457189018744,169.81239759784838838641

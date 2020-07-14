@@ -1,0 +1,213 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+130,"Tahitian (18th Century)","Ross Clark",tah,tahi1242,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, East, Central, Tahitic","Peng Du","Simon Greenhill","@misc{Clark-130-2005,  author = \"Ross Clark\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-17.63614135566131935207,-149.41481325104760458089
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+130,1,hand,rima,,,1,1
+71460,2,left,'aio,,,,1
+71461,2,left,aruri,,,,1
+844,3,right,'atau,,,"5, 40",1
+1201,4,leg/foot,'aavae,,,"1, 100",1
+1558,5,"to walk",haere,,,6,
+1915,6,road/path,ara,,,1,1
+2272,7,"to come","haere mai",,,"1,42",1
+2986,9,"to swim",'au,,,5,
+71830,10,dirty,repo,,,9,
+71831,10,dirty,repoa,,,9,
+71908,11,dust,one,,,X,
+71909,11,dust,repo,"eflex of PEP *repo 'dirt' MW",,X,
+4057,12,skin,'iri,,,1,1
+4414,13,back,tue,,,11,
+4771,14,belly,'oopuu,,,2,
+5128,15,bone,ivi,,,"52,5",
+5485,16,intestines,'aa'au,,,12,
+88343,18,breast,'oouma,,,"7,50",1
+88344,18,breast,uu,,,1,
+6556,19,shoulder,tapono,,,,
+6913,20,"to know, be knowledgeable",'ite,,,12,
+7627,22,"to fear",mata'u,,,1,1
+7984,23,blood,toto,,,4,
+8341,24,head,upo'o,,,10,
+8698,25,neck,'a'ii,,,20,
+9055,26,hair,rouru,,,40,
+9412,27,nose,ihu,,,1,1
+9769,28,"to breathe","huti i te aho",,,9,
+10126,29,"to sniff, smell",ho'i,,,9,
+10483,30,mouth,vaha,,,"1,8",1
+10840,31,tooth,niho,,,1,1
+11197,32,tongue,arero,,,15,
+11554,33,"to laugh",'ata,,,7,
+11911,34,"to cry",ta'i,,,1,1
+12268,35,"to vomit",rua'i,,,"8,31",
+12625,36,"to spit",[tu]tuha,,,120,
+12982,37,"to eat",'ai,,,"1,47",1
+13339,38,"to chew",'au'au,,,8,
+13696,39,"to cook",tunu,,,9,
+14053,40,"to drink",inu,,,1,1
+89804,41,"to bite",'a'ahu,,,7,1
+89805,41,"to bite",'a'ati,,,"1,55",
+90022,42,"to suck",'ote,,,9,
+90023,42,"to suck",miti,,,8,
+15124,43,ear,tari'a,,,1,1
+15481,44,"to hear",fa'aro'o,,,1,1
+15838,45,eye,mata,,,1,1
+16195,46,"to see",'ite,,,1,1
+16552,47,"to yawn",hamama,,,"19,28",?
+16909,48,"to sleep",moe,,,"10, 109",
+17266,49,"to lie down",moe,,,6,
+90800,51,"to sit",noho,,,16,
+90801,51,"to sit",paarahi,,,17,
+18337,52,"to stand",tuu,,,2,1
+18694,53,"person/human being",ta'ata,,,"1,66, 97",1
+19051,54,man/male,ta|ane,,,"1,11",1
+19408,55,woman/female,vahine,,,"1,106,116",1
+19765,56,child,tamaiti,,,"6,64",
+20122,57,husband,taane,,,14,
+20479,58,wife,vahine,,,"5,68",
+20836,59,mother,"metua vahine",,,4,
+21193,60,father,"metua taane",,,9,
+21550,61,house,fare,,,14,
+22264,63,name,i'oa,,,6,
+22621,64,"to say",parau,,,12,
+22978,65,rope,taura,,,9,
+75000,66,"to tie up, fasten",ruru'u,,,,
+75001,66,"to tie up, fasten",ta'ai,,,,
+23692,67,"to sew",tui,,,"13, 16",?
+25120,71,"to stab, pierce",paatia[tia],,,9,
+25477,72,"to hit",taparahi,'kill'?-MW,,x,
+25834,73,"to steal",'eiaa,,,"7,65",
+26191,74,"to kill",taparahi,,,10,
+26548,75,"to die, be dead",mate,,,1,1
+26905,76,"to live, be alive",ora,,,6,
+27262,77,"to scratch",ra'ura'u,,,9,
+27619,78,"to cut, hack",tarai,,,1,?
+27976,79,stick/wood,raa'au,,,1,1
+75953,81,sharp,oi,,,"14,66",
+75954,81,sharp,'oe'oe,,,"14,66",
+92437,82,"dull, blunt",mania,,,11,
+92438,82,"dull, blunt",tuumuu,,,10,
+29404,83,"to work",ha'a,,,10,
+30475,86,"to grow",tupu,,,1,1
+30832,87,"to swell",pahu,,,10,
+31189,88,"to squeeze",nene'i,,,11,
+31546,89,"to hold",rave,,,120,
+76575,91,"to buy",tanu,,,,1?
+76576,91,"to buy",ho'o,,,7,1?
+32617,92,"to open, uncover",heheu,,,36,
+76752,94,"to throw",hamu,,,,
+76753,94,"to throw",taaora,,,10,
+33688,95,"to fall",topa,,,124,
+34045,96,dog,'urii,,,7,
+34402,97,bird,manu,,,1,1
+34759,98,egg,huero,,,94,
+35116,99,feather,huruhuru,,,1,1
+35473,100,wing,pererau,,,9,
+35830,101,"to fly",rere,,,11,
+36187,102,rat,'iore,,,12,
+36544,103,meat/flesh,'i'o,,,10,
+36901,104,fat/grease,ma'i,,,13,
+105103,105,tail,'aero,"of animal",,10,
+105104,105,tail,hope,"of bird",,,
+37972,107,"worm (earthworm)",to'e,,,7,
+38329,108,louse,'utu,,,1,1
+38686,109,mosquito,namu,,,1,1
+39043,110,spider,tūtūrahonui,,,"5,39",
+39400,111,fish,i'a,,,1,1
+39757,112,rotten,pee,,,16,
+40114,113,branch,'aama'a,,,"2,35",
+40471,114,leaf,rau,,,1,1
+40828,115,root,a'a,,,2,1
+41185,116,flower,tiare,,,7,
+41542,117,fruit,huero,,,1,
+42256,119,earth/soil,repo,,,11,
+42613,120,stone,'oofa'i,,,"1,39,3",
+42970,121,sand,one,,,1,1
+43327,122,water,vai,,,2,1
+43684,123,"to flow",tahe,,,10,
+107772,124,sea,tai,,,1,1?
+107773,124,sea,miti,,,x,
+107817,125,salt,miri,,,7,
+107818,125,salt,taitai,,,20,
+44755,126,lake,roto,,,6,
+45112,127,woods/forest,'aihere,,,16,
+45469,128,sky,ra'i,,,1,1
+45826,129,moon,marama,,,7,
+78589,130,star,fetuu,,,1,1
+78590,130,star,feti'a,,,,1
+107947,131,cloud,ao,,,12,
+107948,131,cloud,ata,,,118,
+47254,133,rain,ua,,,1,1
+47611,134,thunder,paatiri,,,14,
+47968,135,lightning,uira,,,2,1
+48325,136,wind,mata'i,,,"1,66",1
+48682,137,"to blow",puhuhi,"with mouth",,6,
+49039,138,warm,mahanahana,,,"1, 72",1
+118905,139,cold,ma'ariri,,,"1,52",1
+118906,139,cold,to'eto'e,,,9,
+49753,140,dry,maroo,"general term",,13,
+50110,141,wet,rari,,,9,
+50467,142,heavy,teimaha,,,"46,66",
+50824,143,fire,ahi,,,1,1
+51181,144,"to burn",tutu'i,,,"1,7",
+51538,145,smoke,au|ahi,,,2,1
+51895,146,ash,rehu,,,67,
+52252,147,black,'ere'ere,,,5,
+52609,148,white,[tea]tea,,,8,
+52966,149,red,'ura['ura],,,13,
+53323,150,yellow,re'are'a,,,10,
+53680,151,green,matie,,,"1, 11",
+79880,152,small,iti,,,1,
+79881,152,small,ri'i,,,66,
+118907,153,big,nui,,,11,
+118908,153,big,rahi,,,12,
+54751,154,short,[po]poto,,,9,
+55108,155,long,roa,,,"12,105",
+80216,157,thick,me'ume'u,,,39,
+80217,157,thick,tuetue,,,10,
+56179,158,narrow,piripiri,,,11,
+56536,159,wide,'a'ano,,,7,
+118909,160,"painful, sick",ma'i,sick/painful,,1,1
+118910,160,"painful, sick",mamae,,,10,
+57250,161,"shy, ashamed",ha'a|maa,,,1,1
+57607,162,old,ruhiruhia,,,,
+57964,163,new,hoou,,,1,1
+58321,164,good,maita'i,,,15,
+58678,165,"bad, evil",'ino,,,9,
+118911,166,"correct, true",mau,"true/straight,correct",,10,
+118912,166,"correct, true",ti'a,,,9,
+59392,167,night,poo,,,1,
+118913,168,day,ao,,,"1, 54",1
+118914,168,day,mahana,,,8,
+80936,170,when?,aafea,,,5,
+80937,170,when?,naahea,,,5,
+60820,171,"to hide",pupuni,,,1,1
+61177,172,"to climb",'a'e,,,32,
+61891,174,"in, inside",roto,,,5,
+62248,175,above,ni'a,,,9,
+62605,176,below,raro,,,8,
+63319,178,that,tee|naa,,,1,1
+63676,179,near,faatata,,,9,
+64033,180,far,roa,,,,
+64390,181,where?,hea,,,"3,35",
+64747,182,I,v|au,,,"1, 21, 18",1?
+65104,183,thou,'oe,,,1,?
+65461,184,he/she,'oia,,,"1, 42",1
+65818,185,we,taaua,"1 dual incl.",,"1, 29",1
+66889,188,what?,aha,,,1,1
+67246,189,who?,v|ai,,,"1,19",1?
+69388,195,"no, not",'aima,,,,
+69745,196,"to count",tatau,,,"8,80",
+70102,197,One,tahi,,,41,
+70459,198,Two,rua,,,1,1
+70816,199,Three,toru,,,1,1
+71173,200,Four,haa,,,"1,66",1
+88274,201,Five,rima,,,1,
+88275,202,Six,ono,,,1,
+88276,203,Seven,hitu,,,1,
+88277,204,Eight,va'u,,,3,
+88278,205,Nine,iva,,,"5,44,66",
+88279,206,Ten,'ahuru,,,"5,32",
+88271,207,Twenty,ta'au,,,4,
+88270,209,"One Hundred",nanaihere,"English loan",L,11,
+88272,209,"One Hundred",rau,"Counting by couples, it is 200",,2,
+88273,210,"One Thousand",mano,"Counting by couples, it is 2000",,2,

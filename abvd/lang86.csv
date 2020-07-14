@@ -1,0 +1,229 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+86,Maranao,"McKaughan & Macaraya (1967)",mrw,mara1404,"McKaughan, H.P. & Macaraya, B.A. (1967). A Maranao dictionary. Honolulu: University of Hawaii Press.",,"Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Danao, Maranao-Iranon","Simon Greenhill","Simon Greenhill","@book{142538,  address               = {Honolulu},  note                  = {Bibliography: p. xxxvi-xxxviii},  pages                 = {xxxviii+394},  publisher             = {Univ. of Hawaii Press},  title                 = {A Maranao dictionary},  year                  = {1967},  added                 = {2013-09-01 12:19:49 +0000},  bibtexkey             = {macaraya-mckaughan_maranao-dictionary1967},  class_loc             = {PL5957.Z5},  document_type         = {B},  fn                    = {papua\mckaughan-macaraya_maranao1967pages.pdf},  hhtype                = {grammar_sketch;dictionary},  inlg                  = {English [eng]},  inlg_code             = {eng},  keywords              = {Maranao},  macro_area            = {Papua},  modified              = {2013-09-01 12:19:49 +0000},  mpi_eva_library_shelf = {PL 5957 .Z5 MAC 1967},  src                   = {hh, phoible, wals},  srctrickle            = {hh#sd:MacKaughanMacaraya:Maranao, phoible#McKaughanMacaraya1967, wals#4029},  subject_headings      = {Maranao language–Dictionaries–English, Maranao language–Dictionaries–English},  author                = {McKaughan, Howard and Macaraya, Batua A.}}"
+latitude,longitude
+7.72187849932450198764,124.14550781250000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+86,1,hand,lima,,,"1,64",1
+443,2,left,diwaŋ,,,"24,37",
+800,3,right,kawanan,,,"1,62",1
+1157,4,leg/foot,aqi,,,1,1
+1514,5,"to walk",lalakaw,,,1,1
+1871,6,road/path,lalan,,,1,1
+2228,7,"to come",danon,,,,
+2585,8,"to turn",tiŋer,,,,
+2942,9,"to swim",laŋoy,,,1,1
+3299,10,dirty,marimog,,,,
+3656,11,dust,lopapek,,,,?
+4013,12,skin,anit,,,2,
+4370,13,back,likod,,,1,1
+72061,14,belly,babat,,,,1
+72062,14,belly,tian,,,1,1
+5084,15,bone,tolan,,,1,1
+5441,16,intestines,tinaqi,,,1,1
+5798,17,liver,atay,,,1,1
+6155,18,breast,soso,,,1,1
+6512,19,shoulder,waga,,,"1,84",1
+72294,20,"to know, be knowledgeable",bentaw,,,1,1
+72295,20,"to know, be knowledgeable",katawan,,,1,1
+7226,21,"to think",iram,,,,?
+7583,22,"to fear",kawan,,,,
+7940,23,blood,rogoq,,,16,
+8297,24,head,olo,,,1,1
+8654,25,neck,lig,,,1,1
+9011,26,hair,bok,,,"1,68",1
+9368,27,nose,ŋ|iroŋ,,,"1,27",1
+9725,28,"to breathe",peŋ-gi|nawa,,,"1,70",1
+10082,29,"to sniff, smell",baŋo,,,,
+10439,30,mouth,ŋariq,,,59,
+10796,31,tooth,ŋipen,,,"1,48",1
+11153,32,tongue,dilaq,,,4,1
+11510,33,"to laugh",kalaq,,,43,
+11867,34,"to cry",olaqol,,,,
+12224,35,"to vomit",otaq,"regurgitate, spit, disgorge",,1,
+12581,36,"to spit",otaq,,,,
+73219,37,"to eat",kan,,,"1,14",1
+73220,37,"to eat",koman,,,"1,14",1
+13295,38,"to chew",sepaq,,,17,
+13652,39,"to cook",lotoq,,,20,
+14009,40,"to drink",inom,,L,,1
+14366,41,"to bite",kekeb,,,36,
+14723,42,"to suck",sosop,,,"1,24",1
+15080,43,ear,taŋila,,,1,1
+15437,44,"to hear",makineg,,,"1,14",
+15794,45,eye,mata,,,1,1
+16151,46,"to see",ilay,,,106,
+16865,48,"to sleep",torog,,,1,1
+17222,49,"to lie down",igaq,,,19,
+17579,50,"to dream",taginep,,,30,
+17936,51,"to sit",ontod,,,"1,142",1
+18293,52,"to stand",i|rigi,,,1,1
+18650,53,"person/human being",taw,,,1,1
+19007,54,man/male,mama,,,"39,40",
+19364,55,woman/female,bebay,,,"1,105",1
+19721,56,child,bataq,,,16,
+20078,57,husband,kawiŋ,,,33,
+20435,58,wife,kawiŋ,,,24,
+20792,59,mother,inaq,,,"1,76",1
+21149,60,father,amaq,,,1,1
+21506,61,house,walay,,,14,
+21863,62,thatch/roof,atep,,,1,1
+22220,63,name,ŋaran,,,1,1
+22577,64,"to say",gandiŋ,,,,
+22934,65,rope,tali,,,1,1
+23291,66,"to tie up, fasten",iket,,,1,1
+23648,67,"to sew",pamanaqi,,,"1,38",?
+24005,68,needle,ragom,,,1,1
+24362,69,"to hunt",anop,,,1,1
+89857,70,"to shoot",timbak,,,,1
+89858,70,"to shoot",panaq,,,1,
+25076,71,"to stab, pierce",sandak,,,,
+25433,72,"to hit",totog,,,,
+25790,73,"to steal",panekew,,,1,1
+26147,74,"to kill",bonoq,,,1,1
+26504,75,"to die, be dead",matay,,,1,1
+26861,76,"to live, be alive",oiag,,,16,
+27218,77,"to scratch",kaket,,,60,
+27575,78,"to cut, hack",titig,,,,
+27932,79,stick/wood,kayu,,,1,1
+28289,80,"to split",sipak,,,9,
+28646,81,sharp,tarem,,,1,1
+29003,82,"dull, blunt",tepol,,,"3,37",?
+29360,83,"to work",kogi,,,,
+29717,84,"to plant",pamola,,,"1,31",1
+30074,85,"to choose",piliq,,,1,1
+30431,86,"to grow",toq,,,,1
+30788,87,"to swell",kembaŋ,,,20,
+31145,88,"to squeeze",kemel,,,,
+31502,89,"to hold",kapet,,,25,
+31859,90,"to dig",kali,,,1,1
+32216,91,"to buy",mamasa,,,22,
+32573,92,"to open, uncover",okab,,,28,
+32930,93,"to pound, beat",dakdak,,,"8,70",
+33287,94,"to throw",itog,,,,
+33644,95,"to fall",olog,,,49,
+34001,96,dog,aso,,,1,1
+34358,97,bird,papanok,,,"1,45",1?
+34715,98,egg,orak,,,27,
+77047,99,feather,bolbol,,,"1,68",
+77048,99,feather,bombol,,,"1,67",
+35429,100,wing,papak,,,"33,73",
+35786,101,"to fly",layog,,,43,
+36143,102,rat,ria,,,,
+36500,103,meat/flesh,sapoq,,,95,
+36857,104,fat/grease,siboq,,,,
+37214,105,tail,ikog,,,1,1
+37571,106,snake,nipay,,,1,1
+37928,107,"worm (earthworm)",kalalanoqan,,,,
+38285,108,louse,koto,,,1,1
+38642,109,mosquito,reŋit,,,21,
+38999,110,spider,lalawaq,,,1,1
+39356,111,fish,sedaq,,,18,
+39713,112,rotten,gabok,,,105,
+40070,113,branch,saŋa,,,2,
+40427,114,leaf,raqon,,,1,1
+40784,115,root,dalig,,,,1?
+41141,116,flower,bolak,,,22,
+41498,117,fruit,[b]oŋa,,,"9,44",
+41855,118,grass,otan,,,86,
+42212,119,earth/soil,boteq,,,,
+42569,120,stone,wato,,,1,1
+42926,121,sand,peted,,,22,
+43283,122,water,ig,,,"2,58",1
+43640,123,"to flow",boak,,,,
+43997,124,sea,ragat,,,25,
+44354,125,salt,asin,,,3,
+78429,126,lake,lanaw,,,1,1
+78430,126,lake,ranaw,,,1,1
+45068,127,woods/forest,kalasan,,,1,1
+45425,128,sky,laŋit,,,1,1
+45782,129,moon,olan,,,"1,63",1
+46139,130,star,bitoqon,,,1,1
+46496,131,cloud,gabon,,,1,1
+46853,132,fog,lekep,,,9,
+47210,133,rain,oran,,,1,1
+47567,134,thunder,dagoqoŋ,,,,?
+47924,135,lightning,kilat,,,1,1
+48281,136,wind,aŋin,,,1,1
+48638,137,"to blow",sagosob,,,,
+48995,138,warm,ma-lipoqot,,,,
+49352,139,cold,ma-teŋgaw,,,,
+49709,140,dry,ma-gaŋo,,,1,1
+50066,141,wet,basaq,,,1,1
+50423,142,heavy,beteŋan,,,,
+50780,143,fire,apoi,,,1,1
+51137,144,"to burn",totoŋ,,,"1,94",
+51494,145,smoke,bel,,,"1,82",1
+51851,146,ash,ombi,,,58,
+52208,147,black,ma-item,,,1,1
+52565,148,white,ma-potiq,,,1,1
+52922,149,red,ma-rigaq,,,"1,108",1?
+53279,150,yellow,dolaw,,,24,
+53636,151,green,gadoŋ,,,28,
+53993,152,small,ma-itek,,,,
+54350,153,big,dakolaq,,,"22,23",
+54707,154,short,ma-babaq,,,54,1
+55064,155,long,ma-labaq,,,27,
+55421,156,thin,ma-nipis,,,1,1
+55778,157,thick,ma-kapal,,,1,1
+56135,158,narrow,ma-simpit,,,"67,87",1?
+56492,159,wide,ma-belaŋ,,,13,
+56849,160,"painful, sick",ma-sakit,,,1,1
+57206,161,"shy, ashamed",ma-mala,,,71,?
+57563,162,old,ma-toqa,,,1,1
+57920,163,new,bego,,,"1,54",1
+58277,164,good,ma-pia,,,1,1
+58634,165,"bad, evil",ma-rataq,(<M),,1,1
+58991,166,"correct, true",ontol,,,23,
+59348,167,night,gagaoiqi,,,21,
+59705,168,day,aloŋan,,,,
+60062,169,year,ragon,,,"43,73",
+80932,170,when?,ai,,,,
+80933,170,when?,anda,,,,
+60776,171,"to hide",dales,,,,
+61133,172,"to climb",ma-manik,,,"1,62",1
+61490,173,at,san,,,14,
+81191,174,"in, inside",san,,,x,
+81192,174,"in, inside",romboq,,,,
+62204,175,above,liawaw,,,"2,55",?
+62561,176,below,babaq,,,1,1
+62918,177,this,ini,,,1,1
+63275,178,that,anan,,,1,?
+63632,179,near,ma-rani,,,1,1
+63989,180,far,ma-watan,,,77,
+64346,181,where?,anda,,,"1,16",
+64703,182,I,ako,,,"1,5",1
+81868,183,thou,ka,,,"1,29",1
+81869,183,thou,kaw,,,"1,29",1
+65417,184,he/she,sekanian,,,"1,30",?
+121132,185,we,kita,,,"1,50",1
+121133,185,we,kami,,,"2,52",
+66131,186,you,kano,,,"1,13",
+66488,187,they,siran,,,1,1
+82237,188,what?,ai,,,,
+82238,188,what?,anda,,,24,
+67202,189,who?,antai,,,15,
+67559,190,other,sambidaq,,,"17,57",
+67916,191,all,belos,,,,
+68273,192,and,[a]go,,,,
+68630,193,if,ontol,,,,
+82633,194,how?,ai,,,,
+82634,194,how?,anda,,,"29,80",
+69344,195,"no, not",diq,"cf. 122",,"1,44",1?
+119398,196,"to count",bilaŋ,,,1,1
+119399,196,"to count",iap,,,2,
+70058,197,One,isa,,,1,1
+70415,198,Two,doa,,,1,1
+70772,199,Three,telo,,,1,1
+71129,200,Four,pat,,,1,1
+189047,201,Five,lima,,,1,
+189048,202,Six,nem,,,1,
+189049,203,Seven,pito,,,1,
+189050,204,Eight,walo,,,3,
+189051,205,Nine,siyaw,,,"5,34",
+189052,206,Ten,sapoloq,,,5,
+189053,206,Ten,poloq,,,5,
+189054,206,Ten,watiq,,,,
+189055,207,Twenty,"dowa poloq",,,"3,6",
+189056,208,Fifty,"lima poloq",,,"1,2",
+189057,209,"One Hundred",gatos,,,4,
+189058,210,"One Thousand",nggibo,,,5,

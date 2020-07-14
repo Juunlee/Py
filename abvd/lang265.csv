@@ -1,0 +1,366 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+265,"Palawan Batak","Lawrence A. Reid",plw,broo1239,,,"Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Palawanic","Debasish Roy","Simon Greenhill","@book{136553,  address               = {[Honolulu]},  note                  = {Bibliography: p. [241]},  pages                 = {xii+239},  publisher             = {Univ. of Hawaii Press},  series                = {Oceanic linguistics special publication},  title                 = {Philippine minor languages: word lists and phonologies},  volume                = {8},  year                  = {1971},  bibtexkey             = {reid_minor-phonologies1971},  class_loc             = {PL5525},  document_type         = {B},  fn                    = {papua\reid_philippine-minor1971.pdf},  hhtype                = {overview;comparative;wordlist},  inlg                  = {English [eng]},  inlg_code             = {eng},  internetarchive_id    = {rosettaproject_syb_phon-1},  isbn                  = {9780870226915},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 5525 PHI 1971},  src                   = {hh, mpieva, wals},  srctrickle            = {hh#hvw:Reid:Philippine-Minor, mpieva#1971Philippi, wals#4987},  subject_headings      = {Philippine languages–Glossaries, vocabularies, etc., Philippine languages–Phonology, Philippine languages–Glossaries, vocabularies, etc. – Philippine languages–Phonology},  author                = {Reid, Lawrence Andrew},  editor                = {Reid, Lawrence Andrew}}"
+latitude,longitude
+9.76831962330826364393,119.56954192844089845948
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+71431,1,hand,ʔalima,,,1,1
+71432,1,hand,ʔalíma,,,1,1
+71462,2,left,gibaŋ,,,24,
+71463,2,left,gíbaŋ,,,24,
+71478,3,right,ʔuanan,,,"1,62",1
+71479,3,right,wanán,,,1,1
+71520,4,leg/foot,ʔaʔay,,,1,1
+71521,4,leg/foot,ʔaʔáʔi,,,1,1
+71570,5,"to walk",panaw,,,2,1
+71571,5,"to walk",maglakád,,,40,1
+71572,5,"to walk",mag-panáw,,,2,1
+2050,6,road/path,dalán,,,1,1
+2407,7,"to come",muʔatkakaʔíni,,,,
+2764,8,"to turn",magbíriŋ,,,4,1
+3121,9,"to swim",mag-gáman,,,34,
+71857,10,dirty,ma-buriŋ,,,13,
+71858,10,dirty,damút,,,44,
+71859,10,dirty,ma-ríŋa,,,53,
+71927,11,dust,ʔapuk,,,1,1
+71928,11,dust,ʔapík,,,1,1
+71929,11,dust,ʔapók,,,1,1
+71983,12,skin,kulit,,,1,1
+71984,12,skin,kolít,,,1,1
+72043,13,back,gɨrɨŋ,,,44,
+72044,13,back,gərə́ŋ,,,44,
+4906,14,belly,tináʔi,,,"19, 34",
+5263,15,bone,tuʔláŋ,,,1,1
+5620,16,intestines,tináʔi,,,1,1
+72172,17,liver,ʔatay,,,1,1
+72173,17,liver,ʔatáy,,,1,1
+72207,18,breast,dudu,,,15,
+72208,18,breast,dudúʔ,,,15,
+72245,19,shoulder,ʔabaga,,,1,1
+72246,19,shoulder,ʔabagá,,,1,1
+7048,20,"to know, be knowledgeable",maka-táwan,,,1,1
+7405,21,"to think",mag-ísip,,,23,
+72424,22,"to fear",takut,,,1,1
+72425,22,"to fear",mag-tákot,,,1,1
+72456,23,blood,tagɨk,,,22,
+72457,23,blood,tagúk,,,22,
+72515,24,head,ʔulu,,,1,1
+72516,24,head,ʔóloʔ,,,1,1
+72574,25,neck,liʔɨg,,,1,1
+72575,25,neck,líʔəg,,,1,1
+72645,26,hair,buaʔ,,,"1,65",1?
+72646,26,hair,buwáʔ,,,"1,65",1?
+72718,27,nose,ʔuruŋ,,,"1,84",1
+72719,27,nose,ʔoróŋ,,,"1,84",1
+72818,29,"to sniff, smell",ʔarɨk,,,1,1
+72819,29,"to sniff, smell",ʔarúk,,,1,1
+72820,29,"to sniff, smell",mag-árək,,,1,1
+72876,30,mouth,baʔbaʔ,,,1,1
+72877,30,mouth,baʔbáʔ,,,1,1
+72938,31,tooth,nipɨn,,,1,1
+72939,31,tooth,nipún,,,1,1
+72993,32,tongue,dilaʔ,,,4,1
+72994,32,tongue,dílaʔ,,,4,1
+73032,33,"to laugh",saya,,,,
+73033,33,"to laugh",daŋákŋak,,,,
+73090,34,"to cry",taŋís,,,1,1
+73091,34,"to cry",mag-taŋís,,,1,1
+73141,35,"to vomit",suka,,,9,
+73142,35,"to vomit",mag-sukáʔ,,,9,
+73190,36,"to spit",surpa,,,"44,71",
+73191,36,"to spit",mag-súpraʔ,,,"44,71",
+13117,37,"to eat",káʔən,,,1,1
+13474,38,"to chew",mag-súbo,,,,
+13831,39,"to cook",magiwára,,,,
+73492,40,"to drink",ʔinum,,,1,1
+73493,40,"to drink",mag-inúm,,,1,1
+73584,41,"to bite",baŋkíʔ,,,,
+73585,41,"to bite",mag-baŋkíʔ,,,26,
+73685,42,"to suck",sɨssɨp,,,1,1
+73686,42,"to suck",mag-igup,,,,1
+15259,43,ear,talíŋa,,,1,1
+73764,44,"to hear",batiʔ,,,21,1
+73765,44,"to hear",mag-dəŋə́g,,,1,1
+73804,45,eye,máta,,,1,1
+73805,45,eye,kadawaʔári,,,,1
+73913,46,"to see",lɨʔgan,,,44,
+73914,46,"to see",mag-lə́ʔgan,,,44,
+73977,48,"to sleep",ʔɨdɨp,,,30,
+73978,48,"to sleep",mag-ədə́p,,,30,
+17401,49,"to lie down",mag-líŋən,,,,
+90787,50,"to dream",tagaʔimpen,,,"1,22",
+90788,50,"to dream",tagayímpun,,,"1,22",
+90789,50,"to dream",tagínup,,,30,
+74075,51,"to sit",rɨgɨd,,,71,
+74076,51,"to sit",ʔaduŋ,,,48,
+74077,51,"to sit",mag-adúŋ,,,48,
+74124,52,"to stand",tindɨg,,,20,1
+74125,52,"to stand",mag-tiŋdəg,,,20,1
+74176,53,"person/human being",taw,,,1,1
+74177,53,"person/human being",táʔo,,,1,1
+74245,54,man/male,lalaki,,,"2,99",1
+74246,54,man/male,laláki,,,"2,99",1
+74309,55,woman/female,babay,,,"1,105",1
+74310,55,woman/female,babáʔi,,,"1,105",1
+74404,56,child,ʔanak,,,1,1
+74405,56,child,ʔanák,,,1,1
+74437,57,husband,ʔasawa,,,2,1
+74438,57,husband,ʔasáwa,,,2,1
+74461,58,wife,ʔasawa,,,1,1
+74462,58,wife,ʔasáwa,,,1,1
+74507,59,mother,ʔinaʔ,,,"1,76",1
+74508,59,mother,ʔináʔ,,,"1,76",1
+74575,60,father,ʔama,,,1,1
+74576,60,father,ʔamáʔ,,,"1,18",1
+74620,61,house,balay,,,14,
+74621,61,house,baláy,,,14,
+74680,62,thatch/roof,ʔatɨp,,,1,1
+74681,62,thatch/roof,ʔátəp,,,1,1
+22399,63,name,ŋarán,,,1,1
+74845,64,"to say",sugid,,,45,
+74846,64,"to say",mag-ámpaŋ,,,,
+23113,65,rope,lúbid,,,21,
+75042,66,"to tie up, fasten",ʔɨkɨt,,,1,1
+75043,66,"to tie up, fasten",mag-bakə́d,,,,1
+75044,66,"to tie up, fasten",mag-əkə́t,,,1,1
+75101,67,"to sew",taik,,L,,
+75102,67,"to sew",mag-taʔík,,L,,
+24184,68,needle,dayum,,L,,
+75260,70,"to shoot",mag-pánaʔ,,,1,1
+75261,70,"to shoot",mag-pusít,,,,1
+25612,72,"to hit",balbág,,,,
+75488,73,"to steal",takaw,,,1,1
+75489,73,"to steal",mag-panakáw,,,1,1
+75523,74,"to kill",ʔimatay,,,2,
+75524,74,"to kill",ʔimatáyən,,,2,
+75549,75,"to die, be dead",napatay,,,"1,35",1
+75550,75,"to die, be dead",patáy,,,"1,35",1
+27040,76,"to live, be alive",ʔəgə́n,,,,
+75647,77,"to scratch",taristis,,,38,1?
+75648,77,"to scratch",makárod,,,,1?
+75764,78,"to cut, hack",ratak,,,53,
+75765,78,"to cut, hack",mag-ərə́t,,,,
+75812,79,stick/wood,kayu,,,1,1
+75813,79,stick/wood,kayó,,,1,1
+28468,80,"to split",mag-bəkáʔ,,,,1
+28825,81,sharp,ma-tarə́m,,,1,1
+76018,82,"dull, blunt",ma-ʔabul,,,41,
+76019,82,"dull, blunt",na-tamól,,,,
+76077,83,"to work",ʔubraʔ,"qubraq = Loan",L,,
+76078,83,"to work",mag-obrá,"qubraq = Loan",L,,
+76128,84,"to plant",ʔiluak,,,26,
+76129,84,"to plant",ʔilbə́ŋ,,,,
+76130,84,"to plant",mag-luwák,,,26,
+76190,85,"to choose",piliʔ,,,1,1
+76191,85,"to choose",mag-píliʔ,,,1,1
+76314,87,"to swell",kɨdpɨs,,,,1
+76315,87,"to swell",mamagə́ʔ,,,1,1
+76472,89,"to hold",kuitan,,,41,
+76473,89,"to hold",kumúytan,,,,
+76535,90,"to dig",kali,,,1,1
+76536,90,"to dig",mag-káli,,,1,1
+76592,91,"to buy",ʔalaŋ,,,26,
+76593,91,"to buy",mag-aláŋ,,,26,
+32752,92,"to open, uncover",mag-ʔabrí,,L,,
+76705,93,"to pound, beat",lɨbɨk,,,14,
+76706,93,"to pound, beat",mag-ləbə́k,,,14,
+76791,94,"to throw",tilib,,,46,
+76792,94,"to throw",ʔitlíb,,,46,
+76878,95,"to fall",lambɨg,,,41,
+76879,95,"to fall",láʔob,,,,
+76880,95,"to fall",ma-lambə́g,,,41,
+76935,96,dog,kɨʔdɨŋ,,,30,
+76936,96,dog,kəʔdə́ŋ,,,30,
+34537,97,bird,manmanók,,,"1,48",1
+77014,98,egg,tiʔlug,,,"1,76",1
+77015,98,egg,tíʔlog,,,"1,76",1
+104636,99,feather,lawi,,,14,1?
+104637,99,feather,bulbúl,,,"1,68",
+77121,100,wing,ʔɨlad,,,23,1?
+77122,100,wing,ʔə́lad,,,23,1?
+77154,101,"to fly",layug,,,43,
+77155,101,"to fly",mag-layóg,,,43,
+77187,102,rat,ʔaŋbɨʔ,,,23,
+77188,102,rat,ʔaŋbúʔ,,,23,
+36679,103,meat/flesh,ʔisí,,,31,1
+77320,104,fat/grease,linuk,,,,
+77321,104,fat/grease,linúk,,,,
+77360,105,tail,ʔikug,,,1,1
+77361,105,tail,ʔikóg,,,1,1
+77394,106,snake,dukul,,,32,
+77395,106,snake,dokól,,,32,
+77452,107,"worm (earthworm)",lúʔluy,,,33,
+77453,107,"worm (earthworm)",ʔugdás,,,,
+77477,108,louse,kutu,,,1,1
+77478,108,louse,kotó,,,1,1
+77535,109,mosquito,namuk,,,"1,90",1
+77536,109,mosquito,namók,,,"1,90",1
+77577,110,spider,lawaʔ,,,1,1
+77578,110,spider,láwaʔ,,,1,1
+77601,111,fish,sɨdaʔ,,,18,
+77602,111,fish,ʔisdáʔ,,,18,
+77603,111,fish,sədá,,,18,
+39892,112,rotten,na-rumút,,,,
+40249,113,branch,sáŋa,,,2,1
+77799,114,leaf,daun,,,1,1
+77800,114,leaf,dáʔon,,,1,1
+77855,115,root,gamut,,,3,1
+77856,115,root,gamót,,,3,1
+77914,116,flower,buraburak,,,22,
+77915,116,flower,bulaklák,,,22,
+77945,117,fruit,buŋa,,,9,
+77946,117,fruit,buŋá,,,9,
+42034,118,grass,ʔirbə́s,,,,
+78059,119,earth/soil,lugta,,,"25,83",
+78060,119,earth/soil,logtá,,,"25,83",
+78115,120,stone,batu,,,1,1
+78116,120,stone,bató,,,1,1
+78150,121,sand,nɨknɨk,,,35,1
+78151,121,sand,ʔunáy,,,1,1
+78206,122,water,danum,,,1,1
+78207,122,water,danúm,,,1,1
+43819,123,"to flow",mag-bə́lbəg,,,,
+78357,124,sea,taʔɨb,,,34,
+78358,124,sea,poróʔ,,,,
+78359,124,sea,taʔə́b,,,34,
+78396,125,salt,budbud,,,24,
+78397,125,salt,ʔasín,,,3,
+78398,125,salt,budbúd,,,24,
+78439,126,lake,buuŋ,,,17,1
+78440,126,lake,danáw,,,1,1
+107876,127,woods/forest,tálon,,,30,
+107877,127,woods/forest,kakayúʔan,,,2,
+78536,128,sky,laŋit,,,1,1
+78537,128,sky,laŋít,,,1,1
+78566,129,moon,bulan,,,1,1
+78567,129,moon,bulán,,,1,1
+46318,130,star,panakonún,,,27,
+78667,131,cloud,paŋanúd,,,27,
+78668,131,cloud,ʔodúm,,,,
+47032,132,fog,túgpu,,,,
+78758,133,rain,lɨbɨg,,,21,
+78759,133,rain,ləbə́g,,,21,
+78819,134,thunder,duldug,,,"2,69",
+78820,134,thunder,duldúg,,,"2,69",
+48103,135,lightning,kudláp,,,"1,86",1?
+78926,136,wind,dɨrɨs,,,36,
+78927,136,wind,dəʔaʔə́s,,,,
+78928,136,wind,dərə́s,,,36,
+79046,137,"to blow",ʔuipan,,,,1
+79047,137,"to blow",mag-úypan,,,,1
+79048,137,"to blow",mag-dərə́s,,,48,1
+79115,138,warm,ma-randaŋ,,,46,
+79116,138,warm,ma-rəndáŋ,,,46,
+79117,138,warm,ma-liʔŋət,,,,
+79176,139,cold,ma-ramig,,,22,
+79177,139,cold,ma-rəmíg,,,22,
+79280,140,dry,ma-maraʔ,,,26,1
+79281,140,dry,ma-raŋú,,,1,1
+79338,141,wet,maɨmɨg,,,110,
+79339,141,wet,maʔə́məg,,,40,
+79360,142,heavy,ma-bɨʔgat,,,"1,63",1
+79361,142,heavy,ma-bə́gat,,,1,1
+79403,143,fire,ʔapuy,,,1,1
+79404,143,fire,ʔapóy,,,1,1
+79498,144,"to burn",dɨkɨt,,,32,
+79499,144,"to burn",maʔántəŋ,,,,
+79543,145,smoke,tabuk,,,30,
+79544,145,smoke,tabók,,,30,
+79601,146,ash,ʔabu,,,1,1
+79602,146,ash,ʔábo,,,1,1
+79646,147,black,ma-ʔilɨm,,,"1,59",
+79647,147,black,ma-ʔilúm,,,1,
+79702,148,white,ma-lanti,,,36,
+79703,148,white,ma-korís,,,,
+79751,149,red,ma-skɨt,,,,
+79752,149,red,ʔundimán,,,44,
+79753,149,red,ma-siŋí,,,,
+79795,150,yellow,ma-kaláwag,,,,
+79796,150,yellow,maduláw,,,24,
+79826,151,green,ma-dulaw,,,"33,34",1
+79827,151,green,ma-ʔilúm,,,40,1
+79938,152,small,gɨtiɨk,,,"1,121",
+79939,152,small,gətíʔək,,,"1,121",
+80038,153,big,dakulaʔ,,,"22,23",
+80039,153,big,dakúlaʔ,,,"22,23",
+80129,154,short,diʔput,,,36,
+80130,154,short,didiʔpút,,,36,
+80163,155,long,ʔabuat,,,39,
+80164,155,long,ʔabwat,,,39,
+55600,156,thin,ma-nipís,,,1,1
+80220,157,thick,ma-damɨl,,,21,
+80221,157,thick,ma-duməl,,,21,
+80287,158,narrow,piʔɨl,,,,
+80288,158,narrow,ma-piʔkə́d,,,,
+80336,159,wide,ma-labɨg,,,"1,65",1?
+80337,159,wide,ma-rugár,,,,1?
+80409,160,"painful, sick",ma-ŋalŋal,,,40,1
+80410,160,"painful, sick",ma-ŋə́lŋəl,,,40,1
+57742,162,old,guraguráŋ,,,21,
+80544,163,new,baʔgu,,,1,1
+80545,163,new,baʔgó,,,1,1
+80635,164,good,ma-gayɨn,,,45,
+80636,164,good,ma-gayə́n,,,45,
+80697,165,"bad, evil",ma-kawát,,,31,1
+80698,165,"bad, evil",raʔuráət,,,1,1
+80832,167,night,dɨlɨm,,,20,
+80833,167,night,dələ́m,,,20,
+80884,168,day,ʔaldaw,,,1,1
+80885,168,day,ʔaldáw,,,1,1
+80918,169,year,taʔun,,,1,1
+80919,169,year,taʔón,,,1,1
+80952,170,when?,saʔnu,,,"10,20",
+80953,170,when?,insaʔno,,,"10,20",
+81003,171,"to hide",tagu,,,13,
+81004,171,"to hide",pa-tagóʔ,,,13,
+81067,172,"to climb",sakwal,,,31,
+81068,172,"to climb",suʔakwál,,,31,
+81228,174,"in, inside",ʔadalúm,,,1,
+81229,174,"in, inside",ʔubtáŋ,,,,
+62383,175,above,díbwát,,,54,1
+81313,176,below,sirib,,,27,
+81314,176,below,siruŋ,,,"35,78",
+81315,176,below,logtá,,,,
+81395,177,this,ʔiaʔini,,,1,
+81396,177,this,ʔiaʔitu,,,10,
+81397,177,this,ʔiyaytó,,,10,
+81398,177,this,kaʔini,,,1,
+81527,178,that,ʔiaʔian,,,3,1
+81528,178,that,ʔiaʔiti,,,55,1
+81529,178,that,ʔiyatí,,,55,1
+81530,178,that,dáto,,,16,1
+63811,179,near,sabíʔ,,,,
+81664,180,far,ʔalawid,,,"1,80",
+81665,180,far,ʔaláwid,,,"1,80",
+64525,181,where?,káʔi,,,26,
+81815,182,I,ʔaku,,,"1,5",1
+81816,182,I,ʔakó,,,"1,5",1
+81895,183,thou,ʔikaw,,,1,1
+81896,183,thou,ʔikáw,,,1,1
+65596,184,he/she,kánya,,,"1,33",1
+121152,185,we,kitami,,,"1,49",1
+121153,185,we,kíta,,,"1,50",
+121154,185,we,kámi,,,"2,51",
+82069,186,you,kamu,,,"1,38",1
+82070,186,you,kámo,,,"1,38",1
+82172,187,they,sira,,,1,1
+82173,187,they,kaníra,,,,1
+82260,188,what?,ʔunu,,,"2,65",
+82261,188,what?,ʔóno,,,"2,65",
+82297,189,who?,siʔu,,,"20,49",
+82298,189,who?,siʔó,,,"20,49",
+82453,191,all,tanan,,,24,
+82454,191,all,tanánan,,,24,
+69166,194,how?,móʔno,,,29,
+82752,195,"no, not",daʔgwa,,,"37,102",
+82753,195,"no, not",bəlág,,,41,
+82754,195,"no, not",dágwa,,,"37,102",
+82804,196,"to count",bílaŋ,,,1,1
+82805,196,"to count",mag-bílaŋ,,,1,1
+82848,197,One,ʔɨsa,,,1,1
+82849,197,One,ʔəsa,,,1,1
+82927,198,Two,dua,,,1,1
+82928,198,Two,duwá,,,1,1
+82985,199,Three,tulu,,,1,1
+82986,199,Three,tulóʔ,,,1,1
+83067,200,Four,ʔɨpat,,,1,1
+83068,200,Four,ʔə́pat,,,1,1

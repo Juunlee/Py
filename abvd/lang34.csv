@@ -1,0 +1,223 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+34,"Lamaholot Ile Mandiri (Flores Timur)","Inyo Fernandes",slp,lama1277,,,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Timor, Flores-Lembata","Debasish Roy","Simon Greenhill","@misc{Fernandes-34-2005,  author = \"Inyo Fernandes\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-8.35825787130868569363,122.82165527343750000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+34,1,hand,liman,,,"1,64",1
+391,2,left,nékin,,,,
+748,3,right,wanan,,,1,1
+1105,4,leg/foot,léin,,,8,
+1462,5,"to walk",pana,,,2,1
+1819,6,road/path,laran,,,1,1
+2176,7,"to come",sega,,,,
+2533,8,"to turn",wélok,,,24?,1
+2890,9,"to swim",naŋé,,,"1,45",1
+3247,10,dirty,milan,,,131,
+3604,11,dust,awo,,,1,1
+87985,12,skin,kamak,,,8,1
+87986,12,skin,kulin,,,1,
+4318,13,back,kolan,,,8?,
+4675,14,belly,alén,,,,
+5032,15,bone,riuŋ,,,2?,
+5389,16,intestines,"tain kebotin",,,1,
+5746,17,liver,atén,,,1,1
+6103,18,breast,tuhon,,,1,1
+6460,19,shoulder,hanan,,,,
+6817,20,"to know, be knowledgeable",noi,,,46,
+7174,21,"to think",pétén,,,84,
+7531,22,"to fear",soʔot,,,,
+7888,23,blood,méi,,,3,
+8245,24,head,kotén,,,,
+8602,25,neck,wulin,,,120,
+8959,26,hair,ratan,,,7,
+9316,27,nose,irun,,,1,1
+9673,28,"to breathe",harin[nain],,,7,
+10030,29,"to sniff, smell",sion,,,,
+10387,30,mouth,wewan,,,1,1
+10744,31,tooth,ipén,,,"1,50",1
+11101,32,tongue,wéwén,,,44,
+11458,33,"to laugh",géka,,,6?,
+11815,34,"to cry",tani,,,1,1
+12172,35,"to vomit",mutaʔ,,,1,1
+12529,36,"to spit",perino,,,9?,
+12886,37,"to eat",gan,,,1,1
+13243,38,"to chew",mamaʔ,,,1,1
+13600,39,"to cook",biho,,,,
+13957,40,"to drink",nénum,,,1,1
+14314,41,"to bite",giké,,,21,1
+14671,42,"to suck",isék,,,,1
+15028,43,ear,tilun,,,"1,4",
+15385,44,"to hear",bain,,,,
+15742,45,eye,matan,,,1,1
+16099,46,"to see",tedé,?,,,
+16456,47,"to yawn",hoan,,,,
+16813,48,"to sleep",turu,,,1,1
+17170,49,"to lie down",lédan,,,,
+17527,50,"to dream",turén,,,61,
+17884,51,"to sit",tobo,,,144,
+18241,52,"to stand",déʔi,,,1,1
+18598,53,"person/human being",ata,,,4,
+74207,54,man/male,belakin,,,"2,113",1
+74208,54,man/male,bəlakĩ,,,"2,113",1
+74268,55,woman/female,berwain,,,"1,52",1
+74269,55,woman/female,bərwãĩ,,,"1,52",1
+19669,56,child,ana,,,1,1
+20026,57,husband,laké,,,28,
+20383,58,wife,kewaé,,,"31,88",
+20740,59,mother,ema,,,80,
+21097,60,father,bapa,,,5,1
+21454,61,house,laŋo,,,69,
+21811,62,thatch/roof,un,,,,
+74697,63,name,naran,,,1,1
+74698,63,name,narã,,,1,1
+22525,64,"to say",marin,,,149,
+22882,65,rope,talé,,,1,1
+74957,66,"to tie up, fasten",puin,,,,
+74958,66,"to tie up, fasten",pũĩ,,,,
+23596,67,"to sew",hawu,,,10,
+23953,68,needle,luhi,,,6,
+24310,69,"to hunt",héwan,,,,
+24667,70,"to shoot",pasak,,,2,
+25024,71,"to stab, pierce",tubak,,,6,
+25381,72,"to hit",berin,,,,
+25738,73,"to steal",temaka,,,"1,59,60",1
+26095,74,"to kill",sebelé,,,,
+26452,75,"to die, be dead",mata,,,1,1
+26809,76,"to live, be alive",morit,,,"1,76",1
+27166,77,"to scratch",ga'u,,,44,1?
+27523,78,"to cut, hack",bélo,,,110,
+27880,79,stick/wood,kajo,,,1,1
+28237,80,"to split",wikak,,,,1
+28594,81,sharp,dekét,,,10,1
+28951,82,"dull, blunt",dat,,,,
+76040,83,"to work",keriaŋ,,,7,
+76041,83,"to work",kərĩã,,,7,
+29665,84,"to plant",mula,,,1,1
+30022,85,"to choose",pilé,,,1,1
+30379,86,"to grow",tawa,,,4,
+30736,87,"to swell",baʔa,,,1,1
+31093,88,"to squeeze",piʔuk,,,75,1?
+31450,89,"to hold",péhén,,,105,
+31807,90,"to dig",gelin,,,1?,1?
+32164,91,"to buy",hopé,,,62,
+32521,92,"to open, uncover",buka,,,1,1
+32878,93,"to pound, beat",bajo,,,1,1
+33235,94,"to throw",gébaʔ,,,107,
+33592,95,"to fall",desaʔ,,,,
+33949,96,dog,aho,,,1,1
+34306,97,bird,kolon,,,77,
+34663,98,egg,teluk,,,1,1
+35020,99,feather,rawuk,,,69,
+35377,100,wing,kepin,,,1?,1?
+35734,101,"to fly",beka,,,"1,87",
+36091,102,rat,keromé,,,,
+36448,103,meat/flesh,metan,,,,
+36805,104,fat/grease,woran,,,8,
+37162,105,tail,ikun,,,1,1
+37519,106,snake,ulaʔ,,,2,1
+37876,107,"worm (earthworm)",kebéŋé,,,,
+38233,108,louse,kuto,,,1,1
+38590,109,mosquito,kenamuk,,,1,1
+38947,110,spider,muguraga,,,,
+39304,111,fish,ikan,,,1,1
+39661,112,rotten,dewan,,,,
+40018,113,branch,waŋén,,,,
+40375,114,leaf,lepan,,,,
+40732,115,root,amut,,,3,1
+41089,116,flower,puhun,,,26,
+41446,117,fruit,wuan,,,1,1
+41803,118,grass,lu'o,,,,
+42160,119,earth/soil,tana,,,1,1
+42517,120,stone,wato,,,1,1
+42874,121,sand,wera,,,10,
+43231,122,water,wai,,,2,1
+43588,123,"to flow",baʔ,,,9,
+43945,124,sea,tahik,,,1,1
+44302,125,salt,siʔa,,,1,1
+44659,126,lake,tasik,,,,
+45016,127,woods/forest,penét,,,,
+45373,128,sky,kelén,,,9,
+45730,129,moon,wulan,,,1,1
+46087,130,star,petala,,,4,
+46444,131,cloud,kowa,,,7,
+46801,132,fog,beruhun,,,,
+47158,133,rain,uran,,,1,1
+47515,134,thunder,peledék,,,,
+47872,135,lightning,kehilat,,,1,1
+48229,136,wind,aŋin,,,1,1
+48586,137,"to blow",buʔ,,,,
+48943,138,warm,pelaté,,,,
+49300,139,cold,geleté,,,,
+49657,140,dry,mara,,,1,1
+50014,141,wet,kedemu,,,,
+50371,142,heavy,baʔat,,,1,1
+50728,143,fire,ape,,,1,1
+51085,144,"to burn",tuno,,,1,1
+51442,145,smoke,nuhun,,,11,1?
+51799,146,ash,kawuk,"cf 11",,68,1?
+52156,147,black,mitén,,,43,1
+52513,148,white,buran,,,3,1
+52870,149,red,méʔa,,,1,1
+53227,150,yellow,mwarau,,,6?,
+53584,151,green,menuran,,,,
+53941,152,small,keni,,,2?,
+54298,153,big,bélé,,,,
+54655,154,short,keru,,,,
+55012,155,long,belaha,,,9,
+55369,156,thin,te|nipi|n,,,1,1
+55726,157,thick,baté,,,,
+56083,158,narrow,sepit,,,68,1
+56440,159,wide,belapar,,,48,?
+56797,160,"painful, sick",belara,,,8,?
+57154,161,"shy, ashamed",miaʔ,,,1?,1
+57511,162,old,tuaʔ,,,1,1
+57868,163,new,wuʔun,,,1,1?
+58225,164,good,maé,,,,
+58582,165,"bad, evil",date,,,1?,
+58939,166,"correct, true",murén,,,,
+59296,167,night,nokon,,,,
+59653,168,day,leron,,,24,1
+60010,169,year,sun,,,,
+60367,170,when?,"nuan gaʔén",,,,
+60724,171,"to hide",horon,,,,
+61081,172,"to climb",géré,,,,
+61438,173,at,ta,,,7,
+61795,174,"in, inside","ta oné",,,3,
+81257,175,above,héti,,,,
+81258,175,above,péti,,,,
+62509,176,below,lali,,,,
+62866,177,this,piʔin,,,1,
+63223,178,that,péʔén,,,,
+63580,179,near,dahé,,,8,
+63937,180,far,doan,,,8,
+64294,181,where?,tega,,,,
+64651,182,I,goʔé,,,,
+65008,183,thou,mio,,,,
+65365,184,he/she,naʔé,,,,
+118212,185,we,tité,,,1,
+118213,185,we,kamé,,,2,
+66079,186,you,"mio wakaŋkaé",,,"1,13",1
+66436,187,they,raʔé,,,1?,1
+66793,188,what?,a,,,1,
+67150,189,who?,hégé,,,1?,
+67507,190,other,géhan,,,,
+67864,191,all,wakaŋkaé,,,,
+68221,192,and,noʔon,,,7?,
+68578,193,if,kalu,,L?,14,
+68935,194,how?,neŋga,,,,
+69292,195,"no, not",také,,,,
+69649,196,"to count",gasik,,,,
+70006,197,One,toʔu,,,37,
+70363,198,Two,rua,,,1,
+70720,199,Three,telo,,,1,1
+71077,200,Four,pat,,,1,1
+121429,201,Five,lema,,,1,
+121430,202,Six,nem,,,1,
+121431,203,Seven,pito,,,1,
+121432,204,Eight,buto,,,30,
+121433,205,Nine,hiwa,,,5,
+121434,206,Ten,pulo,,,5,
+121435,207,Twenty,"pulu rua",,,"6,3",
+121436,208,Fifty,"pulu lema",,,"2,1",
+121437,209,"One Hundred","ratu tóu",,,4,
+121438,210,"One Thousand","ribu tóu",,,5,

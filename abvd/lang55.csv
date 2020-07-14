@@ -1,0 +1,203 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+55,"Kasira (Irahutu)","Blust, from Grace",irh,irar1238,"Fakfak area, Bomberai",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, South Halmahera-West New Guinea, South Halmahera","Penny Keenan","Simon Greenhill","@misc{GraceNB,  howpublished = {Ms.},  title        = {1955-1956 Fieldnotes: Notebook Swains Number 2},  year         = {1956},  url          = {http://digicoll.manoa.hawaii.edu/grace/Pages/PDFlist.html},  author       = {Grace, George W.}}"
+latitude,longitude
+-2.71661564894274798476,133.61749470973339271040
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+55,1,hand,fra-,,,16,
+412,2,left,trire,,,87,
+769,3,right,tu,,,"5,70",1?
+1126,4,leg/foot,fa,,,20,
+1483,5,"to walk",-fanə,,,2,1
+1840,6,road/path,radeni,,,,?
+2197,7,"to come",-ma,,,1,1
+2911,9,"to swim",-kaka,,,5?,
+3268,10,dirty,fise,,,,
+3625,11,dust,ɔbə,,,1?,
+3982,12,skin,-rite,,,1?,1?
+4339,13,back,tariro-,,,,
+4696,14,belly,fta-,,,40,
+5053,15,bone,-rure,,,2?,
+5410,16,intestines,"-fta- teni",,,1,
+5767,17,liver,-te,,,1?,1?
+6124,18,breast,-susu,,,1,1
+6481,19,shoulder,fəravo,metathesis?,,1?,
+6838,20,"to know, be knowledgeable",-rarune,,,,
+7195,21,"to think",-vederbono,,,,
+7552,22,"to fear",-mta-t|e,,,1,1
+7909,23,blood,wa-mese,,,,
+8266,24,head,rogwine,,,,
+8623,25,neck,dərbunə,,,,
+8980,26,hair,"rogwin fru",,,,
+9337,27,nose,-wegurə,,,,
+9694,28,"to breathe",-me|sagwe,,,,
+10051,29,"to sniff, smell",-me|səgəfo,,,,
+10408,30,mouth,-rimeta-,,,,
+10765,31,tooth,-refo-,,,1,1
+11122,32,tongue,-mamaye-,,,7?,
+11479,33,"to laugh",-berrife,,,3?,
+11836,34,"to cry",-me|tage,,,1,1
+12193,35,"to vomit",mə|rue,,,1?,
+73164,36,"to spit",-beni,,,,
+73165,36,"to spit",-mə|tefe,,,,
+12907,37,"to eat",-ga,"(cp 90)",,1?,1?
+13621,39,"to cook",-matune,,,,
+13978,40,"to drink",-gin[e],"(cf 49)",,1?,1?
+14335,41,"to bite",-mə|gor,,,,
+14692,42,"to suck",-bəsəbuse,,,,
+15049,43,ear,-tegra-,,,1,11
+15406,44,"to hear",-ba|nogre-,,,,?
+15763,45,eye,-mətie-,,,1,
+16120,46,"to see",-məsi,,,,
+16834,48,"to sleep",-gi-ne,,,,
+17191,49,"to lie down","gin gerevivare-","(cf 49)",,1?,1
+17548,50,"to dream",ginə-mesi,,,,
+17905,51,"to sit",matorə,,,1?,
+18262,52,"to stand",mə|rire,,,1,1
+18619,53,"person/human being",matu,,,87,?
+18976,54,man/male,məra-ne,,,1,1
+19333,55,woman/female,bevine,,,"1,106",1
+19690,56,child,mo,,,,
+20047,57,husband,mərane,,,,
+20404,58,wife,sote,,,,
+20761,59,mother,d|ena,,,1,1
+21118,60,father,die,,,,
+21475,61,house,sa-nə,,,,
+21832,62,thatch/roof,ativrɔ,,,1,
+22189,63,name,nu,,,,
+22546,64,"to say",-biere,,,,
+22903,65,rope,wara,,,2,
+23260,66,"to tie up, fasten",mə|remte,,,,
+23617,67,"to sew",-mutə,,,,
+24331,69,"to hunt",mə|tətanfe,,,,
+24688,70,"to shoot",mə|səbegete,,,,
+25045,71,"to stab, pierce",mə|tarə,,,,
+25402,72,"to hit",metebe,,,,
+25759,73,"to steal",-bəna-ve,,,1?,?
+26116,74,"to kill",-bunə,,,1,1
+26473,75,"to die, be dead",-matə,,,1,1
+26830,76,"to live, be alive",-rega,,,,
+75619,77,"to scratch",-murə,,,,
+75620,77,"to scratch",-mesegigere,,,,
+27544,78,"to cut, hack",-ma|totə,,,3,1
+27901,79,stick/wood,e,,,1?,1?
+28258,80,"to split",-mə|ragete,,,,
+28615,81,sharp,matadane,,,36,?
+28972,82,"dull, blunt",pumə,,,23,
+29329,83,"to work",-mudəve,,,,
+29686,84,"to plant",-mə|ta-nə,,,2,1
+30043,85,"to choose",-bi-rə,,,,?
+30757,87,"to swell",-nəbər|barə,,,1,1
+31114,88,"to squeeze",-muvrə,,,,
+31471,89,"to hold",-muda,,,,
+31828,90,"to dig",mə|garə,"(cp. 37)",,,1?
+32185,91,"to buy",-mə|gu-rə,,,,
+32542,92,"to open, uncover",mə|səga-fone,,,,
+32899,93,"to pound, beat",-mə|tu-tə,"or 20?",,20,1
+76724,94,"to throw",-mə|ti,,,,
+76725,94,"to throw",-mə|tru,,,,
+33613,95,"to fall",-mə|titi,,,26?,
+33970,96,dog,funə,,,19,
+34327,97,bird,ma-nə,,,1,1
+34684,98,egg,təru,,,1,1
+35041,99,feather,fou,,,,
+35398,100,wing,-frivre,,,,
+35755,101,"to fly",-su-re,,,,
+36112,102,rat,səfe,,,,
+36469,103,meat/flesh,fie,,,,
+37183,105,tail,su,,,,
+37540,106,snake,yaka,,,,
+37897,107,"worm (earthworm)",seye,,,,
+38254,108,louse,utə,,,1,1
+38611,109,mosquito,dade-rɛ,,,,
+38968,110,spider,rara,,,1?,
+39325,111,fish,some,,,,
+39682,112,rotten,numi-rə,,,,
+40396,114,leaf,[e]ro,,,,1?
+77831,115,root,kwakare,,,2,?
+77832,115,root,warkrikre,,,2,?
+41110,116,flower,kaka,,,,
+77933,117,fruit,fu,,,1,?
+77934,117,fruit,fo,,,1,?
+77971,118,grass,samwine,,,48,
+77972,118,grass,sisine,,,,
+42181,119,earth/soil,mifre,,,,
+42538,120,stone,kami,,,11,
+42895,121,sand,inneñevo,,,,
+43252,122,water,were,,,2,1
+43609,123,"to flow",-nevovo,,,,
+43966,124,sea,"were fune",,,,
+44323,125,salt,te,,,20,
+44680,126,lake,"sar were",,,,
+45037,127,woods/forest,witu,,,,
+45394,128,sky,ragətə,,,1,1
+45751,129,moon,seba,,,,
+46108,130,star,turə,,,,
+46465,131,cloud,taye,,,,
+46822,132,fog,wenobə,,,,
+47179,133,rain,sie-mə,,,,
+47536,134,thunder,kərəru,,,,
+47893,135,lightning,dene,,,,
+48250,136,wind,nofə,,,,
+48607,137,"to blow",nufə,,,,
+48964,138,warm,wi-nə,,,,
+49321,139,cold,ridənə,,,,1
+49678,140,dry,məma,,,,
+79318,141,wet,kəmusə,,,,
+79319,141,wet,səroere,,,,
+50392,142,heavy,riməne,,,,
+50749,143,fire,fina,,,,
+51463,145,smoke,ɔbə,,,,
+51820,146,ash,tugwane,,,,
+52177,147,black,gr|mutəne,,,1?,?
+52534,148,white,bəvutə,,,,
+52891,149,red,waməse,,,,
+53248,150,yellow,tafə,,,,
+53605,151,green,məmatə,,,1,1
+53962,152,small,kosi,,,,
+54319,153,big,nabade,,,,
+54676,154,short,kəfutə,,,,
+55033,155,long,mərəro,,,1?,
+55390,156,thin,bə|nənifə|ne,,,1,1?
+55747,157,thick,sarfə,,,,
+56104,158,narrow,frifre-te,,,,
+56461,159,wide,frifre,,,,
+56818,160,"painful, sick",dəri-d[ə]nə,,,,
+57889,163,new,bunate,,,,
+58246,164,good,dire,,,,
+58603,165,"bad, evil",kabia,,,,
+80736,166,"correct, true",nəfərorə,,,,
+80737,166,"correct, true",vitue,,,,
+80819,167,night,gisie,,,,
+80820,167,night,gənite,,,,
+59674,168,day,rere,,,,?
+60031,169,year,taun,,L,1,
+60388,170,when?,mese,,,,?
+61102,172,"to climb",mietə,,,,
+61459,173,at,ne-,,,18,
+61816,174,"in, inside",gane,,,,
+62173,175,above,adeitə,,,,
+62530,176,below,e-və,,,1?,1?
+62887,177,this,not|ini,,,1,1
+63244,178,that,mavi,,,,
+63601,179,near,nəbəbabəre,,,,
+63958,180,far,nero,,,,
+64315,181,where?,ne|nino,,,,?
+64672,182,I,ia,,,1,1?
+65029,183,thou,o,,,1,1
+65386,184,he/she,ia,,,1,1
+121159,185,we,it,,,1,1
+121160,185,we,am,,,2,
+66100,186,you,e[ro],,,,
+66457,187,they,ire,,,1,1
+66814,188,what?,fera,,,,
+67171,189,who?,gata,,,,
+67528,190,other,nenote,,,,
+67885,191,all,temebe,,,,
+68242,192,and,ner[e],,,14?,
+68956,194,how?,bənaneno,,,,
+69313,195,"no, not",fərati,,,,
+69670,196,"to count",-efə,,,,
+70027,197,One,eso,,,1,1
+70384,198,Two,rifo,,,,
+70741,199,Three,torə,,,1,1
+71098,200,Four,gegite,,,,

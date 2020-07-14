@@ -1,0 +1,53 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+480,"Guguyimidjir (1773)","Sydney Parkinson (1773)",kky,gugu1255,"AKA Guugu YimidhirrFaithfully transcribed from the Papers of the late SYDNEY PARKINSON, Draughtsman to JOSEPH BANKS, Esq. on his late Expedition with Dr. SOLANDER, round the World. (London, 1773)\"Their language was not harsh, as may be seen by the following vocabulary, and they articulated their words very distinctly, though, in speaking, they made a great motion with their lips, and uttered their words vociferously, especially when they meant to shew their dissent or disapprobation. When they were pleased, and would manifest approbation, they said Hee, with a long flexion of the voice, in a high and shrill tone. They often said Tut, tut, many times together, but we knew not what they meant by it, unless it was intended to express astonishment. At the end of this Tut, they sometimes added Urr, and often whistled when they were surprised. Cabeeleelee, coyelaillo, halle-cutta, yerba, yerbe, yerga, are words they frequently made use of, but the meaning of them we could not find out.As a mark of dissent, they said Aipa, several times, and this was the only word, that we could distinguish, to accord with the Otaheitean language\"",,"Australian, Pama-Nyungan, Guugu-Yimidhirr","Richard Parker",,"@book{Parkinson1773,  address   = {London},  publisher = {Parkinson},  title     = {A Journal of a Voyage to the South Seas, in his Majesty's Ship, the Endeavour. Faithfully Transcribed from the Papers of the Late Sydney Parkinson, Draughtsman to Joseph Banks, esq. on his Late Expedition. With dr. Solander, Round the World.},  year      = {1773},  author    = {Parkinson, Sydney}}"
+latitude,longitude
+-15.00000000000000000000,144.83333300000001031549
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+127465,1,hand,mangal,hands,,,
+127466,4,leg/foot,peegoorga,legs,,,
+127467,4,leg/foot,edamal,feet,,,
+127468,9,"to swim",mailelel,"to swim",,,
+127469,13,back,mocoo,back,,,
+127470,14,belly,gippa,belly,,,
+127471,15,bone,baityebai,bones,,,
+127472,18,breast,coyer,breast,,,
+127473,18,breast,coyoor,nipples,,,
+127474,24,head,wageegee,head,,,
+127475,25,neck,doomboo,neck,,,
+127476,26,hair,tulkoore,hair,,,
+127506,26,hair,morye,"hair of head",,,
+127507,26,hair,moree,"hair of head",,,
+127478,27,nose,bonjoo,nose,,,
+127508,31,tooth,mulere,teeth,,,
+127509,31,tooth,mole,teeth,,,
+127480,32,tongue,unjar,tongue,,,
+127510,37,"to eat",boota,"to eat",,,
+127511,37,"to eat",bootina,"to eat",,,
+127512,37,"to eat",yette,"to eat",,,
+127513,37,"to eat",yatta,"to eat",,,
+127482,39,"to cook",meerya,"to roast or dress victuals",,,
+127483,40,"to drink",chuchala,"to drink",,,
+127484,43,ear,melea,ears,,,
+127485,45,eye,meul,eyes,,,
+127486,47,"to yawn",aibudje,"to yawn",,,
+127514,51,"to sit",tucai,"to sit down",,,
+127515,51,"to sit",tucaiya,"to sit down",,,
+127488,54,man/male,bamma,man,,,
+127489,55,woman/female,mootjel,woman,,,
+127490,60,father,dunjo,father,,,
+127491,65,rope,goorga,"rope or line",,,
+127492,79,stick/wood,zoocoo,wood,,,
+127493,96,dog,cotta,dog,,,
+127494,99,feather,poetyo,feather,,,
+127495,105,tail,maboo,"tail of turtle",,,
+127496,111,fish,poteea,fish,,,
+127497,113,branch,maiye,"branch or stalk",,,
+127498,119,earth/soil,poapoa,earth,,,
+127499,120,stone,walba,stone,,,
+127516,121,sand,toowal,sand,,,
+127517,121,sand,joowal,sand,,,
+127501,122,water,poorai,water,,,
+127502,128,sky,kere,sky,,,
+127503,131,cloud,wulgar,clouds,,,
+127504,143,fire,maianang,fire,,,
+127505,160,"painful, sick",pandal,sore,,,

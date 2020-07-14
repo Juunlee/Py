@@ -1,0 +1,274 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+7,Gedaged,"Blust, From: Mager (1952)",gdd,geda1237,"Mager, J.F. (1952). Gedaged-English Dictionary. Columbus, Ohio: Board of Foreign Missions of the American Lutheran Church.",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Ngero-Vitiaz, Vitiaz, Bel","Simon Greenhill","Simon Greenhill","@book{134622,  address    = {Columbus, Ohio},  pages      = {350},  publisher  = {American Lutheran Church, Board of Foreign Missions},  title      = {Gedaged-English dictionary},  year       = {1952},  bibtexkey  = {mager_gedaged-dictionary1952},  fn         = {papua\mager_gedaged-dictionary1952.pdf},  hhtype     = {dictionary},  inlg       = {English [eng]},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#d:Mager:Gedaged},  author     = {Mager, John F.}}"
+latitude,longitude
+-5.12377229994880245556,145.78857421875000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+7,1,hand,nimán,,,"1,66",1
+364,2,left,ŋas,,,19,
+721,3,right,waŋ,,,1,1
+1078,4,leg/foot,nien,,,63,
+71535,5,"to walk",la,,,"1, 69",1
+71536,5,"to walk",toz,,,37,1
+1792,6,road/path,dal,,,1,1
+2149,7,"to come",so,,,21,
+2506,8,"to turn",bozozoaní,,,,
+2863,9,"to swim",log,,,28,
+71801,10,dirty,ganáin,,,,
+71802,10,dirty,numunám,,,,
+71803,10,dirty,ŋuluŋál,,,,
+71882,11,dust,gufugáf,,,59,1?
+71883,11,dust,sag|áf,,,59,1?
+3934,12,skin,siliŋoń,,,32,
+4291,13,back,mesapén,,,38,
+72051,14,belly,kazói,,,,
+72052,14,belly,zazén,,,,
+5005,15,bone,dog,,,23,
+72125,16,intestines,taen,,,29,
+72126,16,intestines,teŋáen,"-?- for exp -n-",,"1,85",
+5719,17,liver,bubén,,,,
+6076,18,breast,su:,,,1,1
+6433,19,shoulder,yazón,,,27,
+6790,20,"to know, be knowledgeable",loŋ,,,19,
+7147,21,"to think",kánkan,,,,
+72390,22,"to fear",fúfu,,,,
+72391,22,"to fear",zut,,,,
+72392,22,"to fear",zez,,,29,
+7861,23,blood,dazán,,,1,1
+8218,24,head,gatén,,,,
+72534,25,neck,biziwón,,,68,
+72535,25,neck,kelagún,,,67,
+72536,25,neck,gudún,,,66,
+8932,26,hair,zaun,,,40,
+9289,27,nose,win,,,1,
+72753,28,"to breathe",yaeŋ,,,67,
+72754,28,"to breathe",uz,,,45,
+10360,30,mouth,áwan,,,36,
+10717,31,tooth,liwon,,,"1,35",1
+11074,32,tongue,balén,,,33,
+11431,33,"to laugh",di,,,,
+73048,34,"to cry",ta,,,"1,77",1
+73049,34,"to cry",tiŋia,,,1,1
+12145,35,"to vomit",lu,,,8,
+73156,36,"to spit",yasú,,,19,
+73157,36,"to spit",yusuní,,,19,
+12859,37,"to eat",[y]aní,,,1,1
+73287,38,"to chew",mam,,,1,1
+73288,38,"to chew",ziŋiní,,,,1
+89651,39,"to cook",nai,"BLUST: nai <+nasu ' cook by boiling' - possibly cognate, although there is a phonological irregularity",,3,1?
+89652,39,"to cook",nani,,,108,
+13930,40,"to drink",milí,metathesis,,20,
+73527,41,"to bite",yaz|é,,,1,1?
+73528,41,"to bite",zutí,,,,1?
+14644,42,"to suck",musí,,,6,?
+15001,43,ear,tiliŋan,,,1,1
+15358,44,"to hear",loŋ,,,"1, 36",1
+15715,45,eye,malan,,,1,1
+16072,46,"to see",nasí,,,,
+16786,48,"to sleep",doz,,,1,
+17143,49,"to lie down",[y]en,,,1,1
+17857,51,"to sit",matál,,,,
+18214,52,"to stand",tiúz,,,"2,69",
+18571,53,"person/human being",tamol,,,"1,66",1
+18928,54,man/male,tamol,,,"12,14",
+19285,55,woman/female,pain,,,"1,106",1
+74341,56,child,aí,,,,
+74342,56,child,nanún,,,"5, 38",
+19999,57,husband,iwón,,,2,
+74451,58,wife,badám,,,,
+74452,58,wife,iwón,,,1,
+91248,59,mother,nen,,,"1, 83",1
+91249,59,mother,tinán,,,1,
+91299,60,father,mam,,,"1,10",1
+91300,60,father,tamán,"[f sp]",,1,
+21427,61,house,ab,,,23,
+21784,62,thatch/roof,pit,,,,
+22141,63,name,néan,,,"1,18?",?
+74736,64,"to say",bol,,,50,
+74737,64,"to say",pai,,,"13, 93",
+22855,65,rope,mol,,,29,
+74944,66,"to tie up, fasten",pau,,,11,
+74945,66,"to tie up, fasten",puzí,,,18,
+74946,66,"to tie up, fasten",sasé,,,123,
+75073,67,"to sew",zikí,,,,
+75074,67,"to sew",wae,,,,
+75141,68,needle,siwalí,,,39,
+75142,68,needle,udíŋ,,,,
+24283,69,"to hunt",bezaní,,,,
+24640,70,"to shoot",pan|é,,,1,1
+75271,71,"to stab, pierce",belái,,,,
+75272,71,"to stab, pierce",sae,,,,
+75273,71,"to stab, pierce",tizái,,,,
+75356,72,"to hit",tebalí,,,,
+75357,72,"to hit",funí,,,23,
+75501,74,"to kill",[su]fun|í,,,1,1
+75502,74,"to kill",tezepasí,,,,1
+26425,75,"to die, be dead",mat,,,1,1
+26782,76,"to live, be alive",bas,,,,
+27139,77,"to scratch",kekaz|é,,,12,1
+75657,78,"to cut, hack",guguzí,,,,
+75658,78,"to cut, hack",tuzu,,,,
+75659,78,"to cut, hack",lutí,,,,
+75660,78,"to cut, hack",pilití,,,,
+75661,78,"to cut, hack",talé,,,1,
+75662,78,"to cut, hack",tiziŋiní,,,,
+27853,79,stick/wood,ya,,,1,1
+75822,80,"to split",falé,,,88,
+75823,80,"to split",tezepalé,,,88,
+28567,81,sharp,malán,,,36,
+75972,82,"dull, blunt",bok,,,20,
+75973,82,"dull, blunt",boŋkái,,,,
+75974,82,"dull, blunt",kadafén,,,,
+29281,83,"to work",uzát,,,41,
+29638,84,"to plant",pae,,,64,
+29995,85,"to choose",pilianí,,,"1, 29",?
+30352,86,"to grow",tub,,,1,1
+30709,87,"to swell",didí,,,25,
+76340,88,"to squeeze",bule,,,,1?
+76341,88,"to squeeze",pipí,,,21,1?
+31423,89,"to hold",butuní,,,,
+31780,90,"to dig",saze,,,10,
+32137,91,"to buy",poalí,,,1,
+32494,92,"to open, uncover",fué,,,,1
+76669,93,"to pound, beat",funí,,,22,1
+76670,93,"to pound, beat",tití,"or 20?",,12,1
+76671,93,"to pound, beat",tut|é,"or 20?",,20,1
+76808,95,"to fall",bal,,,,
+76809,95,"to fall",du,,,39,
+33922,96,dog,gaun,,,43,
+34279,97,bird,ma,,,1,1
+34636,98,egg,"ma patún",,,32,
+104630,99,feather,fufulún,[downy],,1,1
+104631,99,feather,sazón,[plume],,37,
+35350,100,wing,banín,,,2,1
+35707,101,"to fly",zou,[/zow/],,1,1?
+36064,102,rat,gabeláu,,,,
+36421,103,meat/flesh,mudán,,,23,
+36778,104,fat/grease,numuzán,"< 'flesh'",,,
+37135,105,tail,win,,,44,
+37492,106,snake,mot,,,12,
+37849,107,"worm (earthworm)",gugui,,,85,
+38206,108,louse,ut,,,1,1
+38563,109,mosquito,na,,,"1,66",1
+38920,110,spider,kuk,,,15,
+39277,111,fish,iy[e],,,1,1
+77626,112,rotten,mau,,,"1,65",
+77627,112,rotten,mufumáf,,,,
+77724,113,branch,dagént,,,,
+77725,113,branch,zá:en,,,1,
+40348,114,leaf,zun,,,1,1
+77823,115,root,dabín,,,14,
+77824,115,root,sisiún,,,,
+41062,116,flower,moz,,,31,
+41419,117,fruit,patún,,,8,
+42133,119,earth/soil,tan,,,1,1
+42490,120,stone,pat,,,1,1
+105436,121,sand,abúz,[white],,96,
+105437,121,sand,lul,[black],,47,
+43204,122,water,naz,"(<M) BLUST: Histor. Expected form = /zan/",,"1,43",1
+78245,123,"to flow",yau,,,51,
+78246,123,"to flow",palú,,,,
+78300,124,sea,mas,,,8,
+78301,124,sea,lau,"(open sea)",,6,
+44275,125,salt,sif,,,50,
+44632,126,lake,wililuk,,,,
+78445,127,woods/forest,gazáŋ,,,,
+78446,127,woods/forest,yadám,,,,
+78447,127,woods/forest,pouz,,,,
+45346,128,sky,did,,,53,
+45703,129,moon,fuléi,,,1,?
+46060,130,star,patui,,,"1,37",1?
+46417,131,cloud,tim|taen,,,"36,41",
+46774,132,fog,bug,,,,
+47131,133,rain,ui,,,1,
+47488,134,thunder,wail,,,44,
+47845,135,lightning,leléi,,,41,
+48202,136,wind,tim,,,43,
+78958,137,"to blow",fazé,,,,
+78959,137,"to blow",fu,,,6,
+78960,137,"to blow",pu,,,6,
+78961,137,"to blow",wi,,,6,
+79063,138,warm,wonanán,,,"1,33",
+79064,138,warm,fa,,,1,
+79065,138,warm,wa,,,"1,33",
+79127,139,cold,madíd,,,1,1
+79128,139,cold,malás,,,51,1
+79203,140,dry,dadág,,,46,?
+79204,140,dry,dadúb,,,,?
+79205,140,dry,kazá,,,20,?
+79206,140,dry,makaz,,,20,?
+79307,141,wet,sipín,,,104,
+79308,141,wet,siséz,,,103,
+50344,142,heavy,muzuán,,,47,
+50701,143,fire,ya,,,1,1
+79431,144,"to burn",tun|i,,,1,1
+79432,144,"to burn",memazí,,,76,1
+79433,144,"to burn",nani,,,27,1
+51415,145,smoke,yá|kas,,,2,1
+51772,146,ash,taen,,,37,
+52129,147,black,[mu]mum,,,93,
+52486,148,white,kebazán,,,70,
+52843,149,red,dazán,,,25,
+53200,150,yellow,yaŋ,,,9,
+53557,151,green,bas,,,,
+79844,152,small,kamó,,,,
+79845,152,small,kiték,"irregular *q > k",,121,
+54271,153,big,mutén,,,,
+80079,154,short,titúk,,,66,
+80080,154,short,tukuzán,,,66,
+54985,155,long,meláen,,,12,
+55342,156,thin,zezáun,,,,
+55699,157,thick,metalún,,,66,
+56056,158,narrow,sigisóg,,,,
+56413,159,wide,bebaŋán,,,12,
+56770,160,"painful, sick",yáŋayàŋ,,,,
+57127,161,"shy, ashamed",mamái,,,1,1
+57484,162,old,tibún,,,x,
+57841,163,new,faun,,,"1,26",?
+58198,164,good,gauái,,,,
+58555,165,"bad, evil",alán,,,54,
+80719,166,"correct, true",malík,,,,
+80720,166,"correct, true",talí,,,,
+80817,167,night,bo,,,1,1
+80818,167,night,tidóm,,,11,1
+59626,168,day,ad,,,"1, 54",
+59983,169,year,umáz,,,38,
+111904,170,when?,saŋéptap,[future],,29,
+111905,170,when?,saŋepte,[past],,29,
+80976,171,"to hide",kukúm,,,11,
+80977,171,"to hide","meyaním mumún",,,,
+61054,172,"to climb",dusá,,,2,
+61411,173,at,-lak,,,,
+61768,174,"in, inside",ilo-n,"Source ACD: interior, midst, inside, core, inlet, pith",,1,
+62125,175,above,fon,,,2,
+62482,176,below,paen,,,49,
+62839,177,this,e,,,1,
+111906,178,that,me,"me [near]",,,
+111907,178,that,a,"a [distant]",,,
+63553,179,near,sisíz,,,,
+63910,180,far,makáiu,,,,
+81682,181,where?,dómten,,,,
+81683,181,where?,ŋan,,,,
+64624,182,I,ŋa,,,12,1
+64981,183,thou,o,,,1,1
+65338,184,he/she,i,,,1,1
+111908,185,we,id,,,1,1
+111909,185,we,am,,,2,
+66052,186,you,aŋ,,,"1,55",1
+66409,187,they,i,,,,
+82218,188,what?,abáŋ,,,,
+82219,188,what?,te,,,,
+82220,188,what?,ait,,,53,
+67123,189,who?,ítai,,,21,
+82321,190,other,ibén,,,,
+82322,190,other,ta,,,,
+67837,191,all,daŋán,,,,
+82470,192,and,ma|i,,,"2, 46",1?
+82471,192,and,ta,,,30,1?
+68908,194,how?,dodín,,,,
+82666,195,"no, not",so,,,,
+82667,195,"no, not",tea,,,10,
+69622,196,"to count",sutí,,,51,
+69979,197,One,tai,,,14,?
+70336,198,Two,a|zú,,,1,1
+70693,199,Three,tol,,,1,1
+71050,200,Four,pal,,,"1,65",1

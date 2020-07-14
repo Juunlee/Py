@@ -1,0 +1,361 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+63,Kerinci,"Syahwin Nikelas",kvr,keri1250,,,"Austronesian, Malayo-Polynesian, Malayo-Chamic, Malayic, Malay","Peng Du","Simon Greenhill","@misc{Nikelas-63-2005,  author = \"Syahwin Nikelas\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-2.24063960938272055401,101.60156250000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+71407,1,hand,tana,,,18,
+71408,1,hand,tanan,,,18,
+71454,2,left,kiduə,,,"56,28",
+71455,2,left,kidow,,,"56,28",
+71470,3,right,kana,,,"1,73",1
+71471,3,right,kanan,,,"1,73",1
+71484,4,leg/foot,kakay,,,1,
+71485,4,leg/foot,kakey,,,1,
+71542,5,"to walk",ba-jaluə,,,21,
+71543,5,"to walk",ba-jalon,,,21,
+71594,6,road/path,jaluə,,,1,1
+71595,6,road/path,jalon,,,1,1
+71636,7,"to come",datə,,,14,
+71637,7,"to come",daton,,,14,
+71709,8,"to turn",kilaoʔ,,,25,
+71710,8,"to turn",kilow,,,25,
+71769,9,"to swim",ba-rənuə,,,23,
+71770,9,"to swim",ba-rənon,,,23,
+3276,10,dirty,kumaoh,,,35,
+71898,11,dust,dəbew,,,58,
+71899,11,dust,dəbu,,,58,
+71949,12,skin,kulayʔ,,,1,1
+71950,12,skin,kuleyt,,,1,1
+72015,13,back,puŋgao,,,24,
+72016,13,back,puŋgown,,,24,
+72055,14,belly,pərawʔ,,,32,
+72056,14,belly,pərowt,,,32,
+72097,15,bone,tula,,,1,1
+72098,15,bone,tulan,,,1,1
+72133,16,intestines,kala,,,,
+72134,16,intestines,kalan,,,,
+72162,17,liver,atay,,,1,1
+72163,17,liver,atey,,,1,1
+72182,18,breast,susaw,,,1,1
+72183,18,breast,susow,,,1,1
+72227,19,shoulder,baew,,,17,
+72228,19,shoulder,bau,,,17,
+72290,20,"to know, be knowledgeable",taaw,,,1,1
+72291,20,"to know, be knowledgeable",taow,,,1,1
+72349,21,"to think",pikey,,,22,
+72350,21,"to think",ba-pikaə,"loan of 22?",L?,22,
+7560,22,"to fear",katakowt,,,1,1
+72441,23,blood,dahuwh,,,1,1
+72442,23,blood,dahowh,,,1,1
+72485,24,head,kapalao,"Skt kapala 'skull'",L,45,
+72486,24,head,kapalo,"Skt kapala 'skull'",L,45,
+72539,25,neck,liyaə,,,1,1
+72540,25,neck,liyey,,,1,1
+72615,26,hair,ambawʔ,,,20,
+72616,26,hair,ambowt,,,20,
+72683,27,nose,idew,,,1,1
+72684,27,nose,idun,,,1,1
+72759,28,"to breathe",ba-ŋeəʔ,,,37,
+72760,28,"to breathe",ba-ŋoʔ,,,37,
+88684,29,"to sniff, smell",ciawn,imp.,,30,
+88685,29,"to sniff, smell",ñiawn,int.,,30,
+88686,29,"to sniff, smell",ñiown,tra.,,30,
+72840,30,mouth,mulawʔ,,,27,
+72841,30,mouth,mulowt,,,27,
+72915,31,tooth,gigoy,,,17,
+72916,31,tooth,gigi,,,17,
+72974,32,tongue,liduəh,metathesis,,"4,31",1
+72975,32,tongue,lidowh,metathesis,,"4,31",1
+88781,33,"to laugh",gluəʔ,imp.,,32,
+88782,33,"to laugh",ta-gluəʔ,,,32,
+88827,34,"to cry",taŋeyh,imp.,,1,1
+88828,34,"to cry",naŋayh,int.,,1,1
+88829,34,"to cry",naŋeyh,tra.,,1,1
+73118,35,"to vomit",mutah,,,1,1
+73119,35,"to vomit",mutoh,,,1,1
+88900,36,"to spit",ludowh,imp.,,1,1
+88901,36,"to spit",maluduəh,int.,,1,
+88902,36,"to spit",maludowh,tra.,,1,
+89292,37,"to eat",bakuə,imp.,,,1
+89293,37,"to eat",maka,int.,,1,
+89294,37,"to eat",makan,tra.,,1,
+89358,38,"to chew",kuñah,imp.,,16,
+89359,38,"to chew",ŋuñah,int.,,16,
+89360,38,"to chew",ŋuñoh,tra.,,16,
+73368,39,"to cook",basowʔ,,,,
+73369,39,"to cook",masaʔ,,,19,
+73370,39,"to cook",masoʔ,,,19,
+89726,40,"to drink",binen,imp.,,,1
+89727,40,"to drink",minan,int.,,1,1
+89728,40,"to drink",minun,tra,,1,1
+89768,41,"to bite",gigoyʔ,imp.,,34,1
+89769,41,"to bite",ŋigoyʔ,int.,,34,
+89770,41,"to bite",ŋigit,tra.,,21,
+90017,42,"to suck",isaʔ,imp.,,1,1
+90018,42,"to suck",ŋisaʔ,int.,,1,
+90019,42,"to suck",ŋigit,tra.,,,
+73699,43,ear,taliŋao,,,1,1
+73700,43,ear,taliŋo,,,1,1
+90086,44,"to hear",dŋuə,imp.,,1,
+90087,44,"to hear",nŋa,int.,,,
+90088,44,"to hear",nŋo,tra.,,,1
+73780,45,eye,matao,,,1,1
+73781,45,eye,mato,,,1,1
+90126,46,"to see",kimoʔ,imp.,,,
+90127,46,"to see",ŋimaʔ,int.,,43,
+90128,46,"to see",ŋimoʔ,tra.,,43,
+16485,47,"to yawn",təkuaʔ,,,19,1
+16842,48,"to sleep",tidew,imp.,,1,1
+17199,49,"to lie down",bagulon,,,24?,
+17556,50,"to dream",ba-mimpoy,,,1,1
+17913,51,"to sit",dudewʔ,,,35,
+18270,52,"to stand",tguəʔ,,,26,
+74140,53,"person/human being",uha,,,20,
+74141,53,"person/human being",uhan,,,20,
+74217,54,man/male,jantuə,"SA: < JV jalu + kramaïsation",,26,
+74218,54,man/male,janton,"SA: < JV jalu + kramaïsation",,26,
+74278,55,woman/female,batinao,,,19,
+74279,55,woman/female,batino,,,19,
+74352,56,child,anaʔ,,,1,1
+74353,56,child,anoʔ,,,,1
+74431,57,husband,lakay,,,28,
+74432,57,husband,lakey,,,28,
+74455,58,wife,binoy,,,5,
+74456,58,wife,bini,,,5,
+74475,59,mother,indaoʔ,,,10,
+74476,59,mother,indow,,,10,
+74544,60,father,apuəʔ,,,12,
+74545,60,father,apowʔ,,,12,
+74601,61,house,umah,,,1,1
+74602,61,house,umoh,,,1,1
+74659,62,thatch/roof,ataʔ,,,1,1
+74660,62,thatch/roof,atat,,,1,1
+74701,63,name,gluə,,,10,
+74702,63,name,gloə,,,10,
+22554,64,"to say",ba-kicaəʔ,,,26,
+74880,65,rope,talay,,,1,1
+74881,65,rope,taley,,,1,1
+91463,66,"to tie up, fasten",kbuəʔ,imp.,,44,
+91464,66,"to tie up, fasten",ŋbuəʔ,int.,,,
+91465,66,"to tie up, fasten",ŋbot,tra.,,,
+91531,67,"to sew",joayʔ,imp.,,2,
+91532,67,"to sew",njaoyʔ,int.,,2,
+91533,67,"to sew",naeyt,tra.,,2,1
+75145,68,needle,pəñayʔ,,,5,
+75146,68,needle,pənaeyt,,,5,
+75185,69,"to hunt",baguhew,,,23,
+75186,69,"to hunt",baguhu,,,23?,
+89852,70,"to shoot",timbaʔ,imp.,,49,
+89853,70,"to shoot",nimbaʔ,int.,,49,
+89854,70,"to shoot",nimboʔ,tra,,49,
+91595,71,"to stab, pierce",tika,imp.,,31,
+91596,71,"to stab, pierce",nika,int.,,31,
+91597,71,"to stab, pierce",nikan,tra.,,31,
+91682,72,"to hit",tukao,imp.,,,
+91683,72,"to hit",nukao,int.,,,
+91684,72,"to hit",nukown,tra.,,,
+91791,73,"to steal",ciloʔ,imp.,,18,
+91792,73,"to steal",ñilaoʔ,int.,,,
+91793,73,"to steal",ñiloʔ,tra.,,,
+91848,74,"to kill",buneəh,imp.,,1,1
+91849,74,"to kill",munaoh,int.,,1,
+91850,74,"to kill",munoh,tra.,,1,
+75538,75,"to die, be dead",matay,,,1,1
+75539,75,"to die, be dead",matey,,,1,1
+75573,76,"to live, be alive",idewʔ,,,"1,82",1
+75574,76,"to live, be alive",idut,,,"1,82",1
+91962,77,"to scratch",gaewʔ,imp.,,1,1
+91963,77,"to scratch",ŋaew,int.,,,
+91964,77,"to scratch",ŋaowt,tra.,,,
+92030,78,"to cut, hack",putao,imp.,,,?
+92031,78,"to cut, hack",mutao,int.,,,
+92032,78,"to cut, hack",muton,tra.,,,
+75794,79,stick/wood,kayaw,,,1,1
+75795,79,stick/wood,kayow,,,1,1
+92346,80,"to split",bəluəh,imp.,,1,1
+92347,80,"to split",mlah,int.,,1,
+92348,80,"to split",mloh,tra.,,1,
+28623,81,sharp,tajuə,,,1,1
+28980,82,"dull, blunt",tumpao,,,3,1
+29337,83,"to work",ba-gawoə,,,21,1
+92475,84,"to plant",tana,imp.,,2,1
+92476,84,"to plant",nana,int.,,2,
+92477,84,"to plant",nanan,tra.,,2,
+92508,85,"to choose",pileyh,imp.,,1,1
+92509,85,"to choose",milaəh,int.,,1,
+92510,85,"to choose",mileyh,tra.,,1,
+30408,86,"to grow",tumbaoh,,,1,1
+30765,87,"to swell",mənkuəʔ,,,19,
+92595,88,"to squeeze",praəh,imp.,,1,1
+92596,88,"to squeeze",mraəh,int.,,1,
+92597,88,"to squeeze",mreh,tra.,,1,
+92662,89,"to hold",pguə,imp.,,1?,
+92663,89,"to hold",mguə,int.,,1?,
+92664,89,"to hold",mgon,tra.,,1?,
+93426,90,"to dig",galoy,imp.,,"1,35",1
+93427,90,"to dig",ŋalay,int.,,1,
+93428,90,"to dig",ŋaley,tra.,,1,
+93479,91,"to buy",bloy,imp.,,1,
+93480,91,"to buy",mlay,int.,,1,
+93481,91,"to buy",mley,,,1,
+93508,92,"to open, uncover",bukuəʔ,imp.,,1,1
+93509,92,"to open, uncover",mukaʔ,tra.,,1,
+102910,93,"to pound, beat",tumbaoʔ,imp.,,9,
+102911,93,"to pound, beat",numbaoʔ,int.,,9,
+102912,93,"to pound, beat",numbowʔ,tra.,,9,
+104364,94,"to throw",imbaəh,imp.,,119,
+104365,94,"to throw",nimbaəh,int.,,119,
+104366,94,"to throw",ŋimbeh,tra.,,119,
+33621,95,"to fall",jatewh,,,38,
+76908,96,dog,anjaəʔ,,,27,
+76909,96,dog,anjeʔ,,,27,
+76957,97,bird,burew,,,17,
+76958,97,bird,burun,,,17,
+76983,98,egg,təlao,,,1,1
+76984,98,egg,təlow,,,1,1
+77045,99,feather,bulew,,,1,1
+77046,99,feather,bulu,,,1,1
+35406,100,wing,karpoʔ,,,,
+35763,101,"to fly",tarbuə,,,18,
+77162,102,rat,məncayʔ,,,28,
+77163,102,rat,mənceyt,,,28,
+77205,103,meat/flesh,dagoyn,,,26,
+77206,103,meat/flesh,dagin,,,26,
+77276,104,fat/grease,ləmaʔ,,,24,
+77277,104,fat/grease,ləmoʔ,,,24,
+77338,105,tail,ikow,,,1,1
+77339,105,tail,ikew,,,1,1
+77384,106,snake,ula,,,2,1
+77385,106,snake,ulo,,,2,1
+77423,107,"worm (earthworm)",cacayn,,,23,
+77424,107,"worm (earthworm)",caceyn,,,23,
+77465,108,louse,kutaw,,,1,1
+77466,108,louse,kutow,,,1,1
+77506,109,mosquito,ñamaoʔ,,,1,1
+77507,109,mosquito,ñamowʔ,,,1,1
+77562,110,spider,klawah,,,1,1
+77563,110,spider,klawoh,,,1,1
+77583,111,fish,laoʔ,,,14,
+77584,111,fish,laowʔ,,,14,
+39690,112,rotten,busewʔ,,,56,
+40047,113,branch,dahon,,,1,1
+77770,114,leaf,daen,,,1,1
+77771,114,leaf,daun,,,1,1
+40761,115,root,ako,,,2,1
+77887,116,flower,buŋeə,,,1,1
+77888,116,flower,buŋu,,,1,1
+77973,118,grass,umpawʔ,,,27?,
+77974,118,grass,umpowt,,,27?,
+78014,119,earth/soil,tanah,,,1,1
+78015,119,earth/soil,tanoh,,,1,1
+78090,120,stone,batew,,,1,1
+78091,120,stone,batu,,,1,1
+78127,121,sand,ksaəʔ,,,24,
+78128,121,sand,kseyʔ,,,24,
+78183,122,water,ayaə,,,2,1
+78184,122,water,ayey,,,2,1
+43617,123,"to flow",ŋalaə,,,1?,1
+78313,124,sea,laawʔ,,,6,
+78314,124,sea,laowt,,,6,
+78386,125,salt,gahuə,,L,18,
+78387,125,salt,gahon,,,18,
+78423,126,lake,danuə,,,1,1
+78424,126,lake,danu,,,1,1
+78458,127,woods/forest,imbao,,,37,
+78459,127,woods/forest,imbo,,,37,
+78500,128,sky,laŋayʔ,,,1,1
+78501,128,sky,laŋeyt,,,1,1
+78548,129,moon,buluə,,,1,1
+78549,129,moon,bulon,,,1,1
+78585,130,star,bintuə,,,1,
+78586,130,star,binton,,,1,
+78642,131,cloud,mban,,,1,
+78643,131,cloud,mbown,,,1,
+78701,132,fog,kabeyʔ,"SA: e unexpected",,1?,1
+78702,132,fog,kabut,,,1,1
+78739,133,rain,ujuə,,,1,1
+78740,133,rain,ujon,,,1,1
+78792,134,thunder,pətawh,,,,
+78793,134,thunder,pətowh,,,,
+78849,135,lightning,kilaʔ,,,1,1
+78850,135,lightning,kilat,,,1,1
+78898,136,wind,aŋayn,,,1,1
+78899,136,wind,aŋeyn,,,1,1
+48615,137,"to blow",ba-rəmbewh,,,30,
+48972,138,warm,panaəh,,,1,1
+49329,139,cold,diŋoyn,,,1,
+49686,140,dry,krayn,,,22,
+50043,141,wet,basuəh,,,1,1
+50400,142,heavy,bruəʔ,,,1,1
+79376,143,fire,apay,,,1,1
+79377,143,fire,apey,,,1,1
+122753,144,"to burn",paŋga,imp.,,,
+122754,144,"to burn",maŋga,int.,,,
+122755,144,"to burn",maŋgan,tra.,,,
+79521,145,smoke,asaʔ,,,49,
+79522,145,smoke,asat,,,49,
+79580,146,ash,abew,,,1,1
+79581,146,ash,abu,,,1,1
+52185,147,black,ita,,,1,1
+52542,148,white,putaəh,,,1,1
+52899,149,red,abuə,,,,
+53256,150,yellow,kunayn,,,1,
+53613,151,green,ijuə,,,25,
+53970,152,small,naəʔ,,,,
+54327,153,big,gduə,"< *gedang",,27?,
+54684,154,short,pandaʔ,,,1,1
+55041,155,long,panja,,,24,1
+55398,156,thin,tipayh,,,"1,44",1
+55755,157,thick,təbuə,,,26,1
+56112,158,narrow,səmpayʔ,,,68,1
+56469,159,wide,luwaəh,,,42,1
+56826,160,"painful, sick",sakayʔ,,,1,1
+57183,161,"shy, ashamed",malaw,,,20,
+57540,162,old,tuwao,,,1,1
+57897,163,new,bahew,,,1,1
+58254,164,good,ilaoʔ,,,68,
+58611,165,"bad, evil",jaawʔ,,,1,1
+58968,166,"correct, true",bətew,,,23,
+59325,167,night,mala,,,20?,
+59682,168,day,ahay,,,17,1
+60039,169,year,taan,,,1,1
+60396,170,when?,bileə,,,13,
+60753,171,"to hide",nimba,,,,
+61110,172,"to climb",naaəʔ,,,1,1
+61467,173,at,di,,,20,1
+61824,174,"in, inside",dalon,,,1,1
+62181,175,above,dateh,,,1,1
+62538,176,below,dawowh,,,1,1
+62895,177,this,neh,,,1,1
+63252,178,that,toh,,,16,1
+63609,179,near,dkuəʔ,,,28,
+63966,180,far,jaewh,,,1,1
+64323,181,where?,anao,,,,
+64680,182,I,akaw,,,1,1
+81862,183,thou,ikao,,,1,1
+81863,183,thou,mpao,,,,1
+81864,183,thou,kaaw,,,1,1
+81865,183,thou,kayao,,,,1
+81940,184,he/she,ño,,,1,
+81941,184,he/she,diyuə,,,18,
+122833,185,we,kitao,,,1,1
+122834,185,we,kamay,,,2,
+82037,186,you,"ikao lagalow",,,21,
+82038,186,you,"kayao lagalow",,,,
+66465,187,they,"uha toh",,,,
+66822,188,what?,apo,,,1,1
+67179,189,who?,sapo,,,12,
+67536,190,other,laan,,,2,
+67893,191,all,"[la] galow",,,91,
+68250,192,and,ŋa,,,64,
+68607,193,if,kalow,"< SKT jaka + AR law",L,14,
+68964,194,how?,manan,,,23,
+69321,195,"no, not",iduəʔ,,,2,
+119393,196,"to count",itao,imp.,,31,1
+119394,196,"to count",ŋitao,int.,,31,
+119395,196,"to count",ŋitown,tra.,,31,
+82810,197,One,sao,,,1,
+82811,197,One,sataw,,,"1,16",
+70392,198,Two,dueə,,,1,1
+70749,199,Three,tigeə,,,8,
+71106,200,Four,mpaʔ,,,1,1

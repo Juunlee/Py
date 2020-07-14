@@ -1,0 +1,205 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+71,Levei,Blust,tlx,kheh1237,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Admiralty Islands, Eastern, Manus, West","Debasish Roy","Simon Greenhill","@misc{Blust-71-2005,  author = \"Robert A. Blust\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-2.07595999999999980545,146.65375000000000227374
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+71,1,hand,kue|ŋ,,,40,
+428,2,left,ka|mop,,,"1,81",1
+785,3,right,seliŋ,,,6,
+1142,4,leg/foot,ciʔi-ŋ,,,57,
+1499,5,"to walk",hetek,,,,
+1856,6,road/path,soŋ,,,1,1
+71638,7,"to come",o|me,,,1,1
+71639,7,"to come",kajek,,,,1
+2570,8,"to turn",taʔuŋ,,,,
+2927,9,"to swim",ija,,,6,
+3284,10,dirty,kopʷiŋ,,,,
+3641,11,dust,kapuroh,,,59,1
+3998,12,skin,kaʔasu-ŋ,,,,
+4355,13,back,kono-ŋ,,,10,
+4712,14,belly,pʷi|siʔ-ŋ,,,,1
+5069,15,bone,cui-ŋ,,,2,
+5426,16,intestines,cini-ŋ,,,1,1?
+5783,17,liver,ete-ŋ,,,1,1
+6140,18,breast,tapuh,,,48,
+6497,19,shoulder,pʷese-ŋ,,,102,
+6854,20,"to know, be knowledgeable",tonok,,,63,
+7211,21,"to think",tomʷene,,,,
+7568,22,"to fear",onnoh,,,7,
+7925,23,blood,ca,,,1,1
+8282,24,head,pesu-ŋ,,,9,
+8639,25,neck,pele-ŋ,,,98,
+8996,26,hair,lemi,,,9,
+9353,27,nose,noʔo-ŋ,,,29,
+9710,28,"to breathe","sehe nɔhɔŋ",,,8,
+10067,29,"to sniff, smell",munuhuŋ,,,8,
+10424,30,mouth,poho-ŋ,,,1,1?
+10781,31,tooth,lihi-ŋ,,,"1,35",1
+11138,32,tongue,keleme-ŋ,,,"7, 14",
+11495,33,"to laugh",isolop,,,,
+11852,34,"to cry",e|teŋ,,,1,1
+12209,35,"to vomit",u-muh,"[cp. 108]",,1,1
+12566,36,"to spit",isuruh,,,,
+12923,37,"to eat",waʔ|aŋ,,,1,1
+13280,38,"to chew",isoŋ,,,62,
+13637,39,"to cook",ijoh,,,8,
+13994,40,"to drink",wuʔ|uŋ,,,1,1
+73544,41,"to bite",haʔak,,,6,
+73545,41,"to bite",waʔak,,,6,
+14708,42,"to suck",wuʔuŋ,,,,
+15065,43,ear,cinu-ŋ,,,1,1?
+15422,44,"to hear",huleŋ,,,"1, 54",?
+15779,45,eye,mʷato-ŋ,,,1,1
+16136,46,"to see",immeh,,,,
+16493,47,"to yawn",molohɔp,,,19,
+16850,48,"to sleep",mesiŋ,,,"1,70",1
+17207,49,"to lie down",mesiŋ,,,,
+17564,50,"to dream",im|mih,,,"1, 37",1
+17921,51,"to sit",imiŋ,,,26,
+18278,52,"to stand","i i|ri",,,97,?
+18635,53,"person/human being",camok,,,"1,66",1
+18992,54,man/male,kemeŋ,,,9,
+19349,55,woman/female,pisih,,,56,
+19706,56,child,nesu-ŋ,,,5,
+20063,57,husband,niwɔ-ŋ,,,,
+20420,58,wife,pisih,,,6,
+20777,59,mother,sunu-ŋ,,,1,1
+21134,60,father,tomo-ŋ,,,1,1
+21491,61,house,isop,,,32,
+21848,62,thatch/roof,ak,,,1,1
+22205,63,name,soro-ŋ,,,5,
+22562,64,"to say",tanneh,,,,
+22919,65,rope,rukep,,,83,
+23276,66,"to tie up, fasten",sawep,,,122,
+23633,67,"to sew",isikih,,,,
+23990,68,needle,nuŋ,,,7,
+24347,69,"to hunt",tannuŋ,,,,
+24704,70,"to shoot",ikkih,,,,
+25061,71,"to stab, pierce",rasih,,,,
+25418,72,"to hit",sammuk,,,,
+25775,73,"to steal",ipʷana,,,"1,51",1
+75507,74,"to kill",hoʔopʷiʔip,,,,
+75508,74,"to kill",kumʷek,,,"2,93",
+26489,75,"to die, be dead",u|mʷek,,,1,1
+75575,76,"to live, be alive","i cumʷek",[=he-not-dead-not-yet],,,
+75576,76,"to live, be alive",sopu,[=he-not-dead-not-yet],,,
+75625,77,"to scratch",waʔih,,,90,
+75626,77,"to scratch",yaʔih,,,90,
+27560,78,"to cut, hack",ipʷek,,,,
+27917,79,stick/wood,kep,,,1,1
+75857,80,"to split",ireh,,,30,
+75858,80,"to split",ireŋ,,,30,
+28631,81,sharp,motoŋ,,,36,
+28988,82,"dull, blunt","motoŋ mole","'sharp' + 'not' ?",,X,
+29345,83,"to work",wok,[P],L?,,
+29702,84,"to plant",uheŋ,,,,
+30416,86,"to grow",ittoh,"< *tupu, rather than *tubu",,"1,6",
+30773,87,"to swell",illah,,,4,
+31130,88,"to squeeze",ikkeh,,,6,
+31487,89,"to hold",tolip,,,,
+31844,90,"to dig",waʔih,,,83,
+32201,91,"to buy",[h]isih,,,64,
+33272,94,"to throw",lohote,,,,
+33629,95,"to fall",id̃oŋ,,,,
+33986,96,dog,mʷi,,,6,
+34343,97,bird,sirih,,,8,
+34700,98,egg,losuŋ,,,91,
+35057,99,feather,"lemi sirih",,,4,
+35414,100,wing,"kapini sirih",,,82,
+35771,101,"to fly",illih,,,,
+36128,102,rat,pʷilip,,,11,
+36485,103,meat/flesh,oto-ŋ,,,12,
+36842,104,fat/grease,nomo-ŋ,,,11,
+37199,105,tail,koiʔi,,,9,
+37556,106,snake,mʷok,,,12,
+37913,107,"worm (earthworm)",koromʷiŋ,,,52,
+38270,108,louse,kuh,"[cp. 35]",,1,1
+38627,109,mosquito,napiŋ,,,93,
+38984,110,spider,kakoŋ,,,,
+39341,111,fish,n|i,,,1,1
+39698,112,rotten,pulɔ,,,12,
+40055,113,branch,id̃aŋ,,,1,1?
+40412,114,leaf,luʔu,,,16,
+40769,115,root,mucoŋ,,,13,
+41126,116,flower,plaua,[P],L,,
+41483,117,fruit,pesu,,,,
+41840,118,grass,pʷisep,,,94,
+42197,119,earth/soil,pʷinek,,,9,
+42554,120,stone,pok,,,1,1
+42911,121,sand,oŋ,,,1,1
+43268,122,water,bo,,,45,
+43982,124,sea,ceŋ,,,63,
+44339,125,salt,ceŋ,,,,
+44696,126,lake,"bo repeŋ","=calque of P. 'round water'",L,,
+45053,127,woods/forest,"lo caakep",,,,
+45410,128,sky,potopʷiliŋ,,,56,
+45767,129,moon,pʷiŋ,,,1,1
+46124,130,star,d̃ap,,,11,
+46838,132,fog,koyeh,,,,
+78741,133,rain,neniŋ,,,6,
+78742,133,rain,uiŋ,,,1,
+47552,134,thunder,puloŋ,,,,
+47909,135,lightning,kemek,,,8,
+48266,136,wind,jop,,,9,
+48623,137,"to blow",sopʷe,,,,
+48980,138,warm,ñorohoŋ,,,7,
+49337,139,cold,nalaaʔaŋ,,,7,
+49694,140,dry,huruʔaŋ,,,10,
+50051,141,wet,sopʷiʔiŋ,,,72,
+50408,142,heavy,kenniŋ,,,8,
+50765,143,fire,jih,"[cp. 182]",,1,1?
+51122,144,"to burn",isuŋ,,,4,
+51479,145,smoke,uruyah,,,,
+51836,146,ash,laaʔuk,,,,
+52193,147,black,pʷaʔatoŋ,,,52,
+52550,148,white,pelleŋ,,,7,
+52907,149,red,caayuŋ,,,11,
+53264,150,yellow,muñaanop,,,,
+53621,151,green,yorowoŋ,,,"13, 52",
+53978,152,small,kappeh,,,9,
+79998,153,big,mʷaha,,,1,
+79999,153,big,napʷalaŋ,,,49,
+54692,154,short,kommuk,,,7,
+55049,155,long,loe,,,12,
+55406,156,thin,teleheŋ,,,4,
+55763,157,thick,hesuŋ,,,9,
+56120,158,narrow,kappeh,,,71,
+80309,159,wide,mʷaha,[=152],,,
+80310,159,wide,napʷalaŋ,[=152],,5,
+56834,160,"painful, sick",ipisi,[=153],,95,
+57191,161,"shy, ashamed","pʷili mʷa",,,1,
+57548,162,old,cokeŋ,['face-ashamed'],,8,
+57905,163,new,nekepuŋ,,,,
+58262,164,good,lɔppoŋ,,,126,
+58619,165,"bad, evil",caʔiŋ,,,8,
+58976,166,"correct, true",nicup,,,90,
+59333,167,night,piŋ,,,1,
+59690,168,day,laŋ,,,6,1
+60047,169,year,yia,Loan,L,x,1
+60404,170,when?,noŋ,[E],L,,
+60761,171,"to hide",[h]ittuŋ,,,47,
+61118,172,"to climb",onɔk,,,41,
+61832,174,"in, inside",lo,,,"1,72",
+62546,176,below,pʷahaci,,,57,
+62903,177,this,indah,,,38,?
+63260,178,that,hinih,,,,
+63617,179,near,kolomʷe,,,,
+63974,180,far,tolo,,,12,
+64331,181,where?,"weʔeŋ tepeh",,,8,
+64688,182,I,ji,['which-place?'],,"1,21",
+65045,183,thou,o,"[cp. 143]",,1,1
+65402,184,he/she,i,,,1,?
+81991,185,we,tu,,,66,1
+81992,185,we,esu,,,1,1
+66116,186,you,etu,,,"1,25,32",?
+66473,187,they,su,,,62,
+66830,188,what?,seh,,,1,
+67187,189,who?,areh,,,1,1
+67901,191,all,ceʔeri,,,,
+68972,194,how?,nepele,,,,
+69329,195,"no, not",mole,,,,
+69686,196,"to count",cumʷop,,,84,
+70043,197,One,eri,,,56,
+70400,198,Two,lueh,,,1,
+70757,199,Three,toloh,,,1,1
+71114,200,Four,hahup,"-ha- > *pat",,1,1

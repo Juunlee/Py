@@ -1,0 +1,185 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+167,Mambai,"Blust: from Fox (n.d.)",mgm,mamb1306,"Fox, J.J. (n.d.) 200-item lexicostatistical lists for 29 languages of the Lesser Sunda Islands (eastern Sumbawa to Kisar). Manuscript.",,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Timor, Ramelaic, Central","Peng Du","Simon Greenhill","@misc{fox-a,  date     = {(n.d.)},  title    = {200-item lexicostatistical lists for 29 languages of the Lesser Sunda Islands (eastern Sumbawa to Kisar)},  note     = {Manuscript},  language = {en},  author   = {Fox, J.J.}}"
+latitude,longitude
+-8.57966283377483662775,125.61922665868209492146
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+167,1,hand,m|ima-n,,,"1,64",1?
+524,2,left,toui-n,,,10?,
+881,3,right,hana-n,,,1,1?
+1238,4,leg/foot,oi-n,,,1,1?
+1595,5,"to walk",lolai,,,,
+1952,6,road/path,dan,,,1,1
+2309,7,"to come",ma,,,1,1
+2666,8,"to turn",takali,,,,
+3023,9,"to swim",nain,,,"1,45",?
+3380,10,dirty,rai,,,1,1
+4094,12,skin,lita-n,,,1?,?
+4808,14,belly,bai-n,,,88,
+5165,15,bone,rui-n,,,2,
+5522,16,intestines,tetali-n,,,1,
+5879,17,liver,ate-n,,,1,1
+6236,18,breast,"iru mata",,,,
+6593,19,shoulder,kba:s,,,6,
+6950,20,"to know, be knowledgeable",tad,,,37,
+72375,21,"to think",notar,,,74,
+72376,21,"to think",dinir,,,,
+7664,22,"to fear",tmau,,,1?,1?
+8021,23,blood,lara-n,,,1,1
+8378,24,head,ul,,,1,1
+8735,25,neck,kideu-n,,,61,
+9092,26,hair,ulu-n,,,3,
+9449,27,nose,"inu kai-n",,,"1,25",?
+9806,28,"to breathe",snukan,,,,
+10520,30,mouth,kuku-n,,,,
+10877,31,tooth,nifa-n,,,1,1
+11234,32,tongue,lamalau,,,6,
+11591,33,"to laugh",knin,,,8,
+11948,34,"to cry",seru,,,30,
+12305,35,"to vomit",muta,,,1,1
+12662,36,"to spit",tulaba,,,109,
+13019,37,"to eat",mu,,,6,
+13733,39,"to cook",tlei,,,,
+14090,40,"to drink",eon,,,1,?
+14447,41,"to bite",hwi,,,57,
+14804,42,"to suck",sus,,,1,1?
+15161,43,ear,"kikan noran",,,47?,
+15518,44,"to hear",flik,,,,
+15875,45,eye,mata-n,,,1,1
+16232,46,"to see",eiot,,,1,
+16946,48,"to sleep",boiei,,,43,
+17303,49,"to lie down",boiei,,,,
+18017,51,"to sit",kdei,,,146,
+18374,52,"to stand",mri,,,1,?
+18731,53,"person/human being",ata|uba,,,4,
+19088,54,man/male,mane-n,,,1,1
+19445,55,woman/female,hine-n,,,"1,41",1
+125386,56,child,ana-n,,,1,1
+125387,56,child,ankaua,,,1,1
+20159,57,husband,lai-n,,,9,
+20516,58,wife,hei-n,,,31,
+20873,59,mother,ina-n,,,1,1
+21230,60,father,ama-n,,,1,1
+21587,61,house,um,,,1,1
+21944,62,thatch/roof,"um sulu",,,64,
+22301,63,name,ka,,,1,
+124968,64,"to say",tou,,,147,
+124969,64,"to say",kase,,,,
+23015,65,rope,taila,,,1,1
+23372,66,"to tie up, fasten",hut,,,9,
+23729,67,"to sew",su,,,10,
+24443,69,"to hunt",liu,,,,
+24800,70,"to shoot",tiur,,,37,
+25157,71,"to stab, pierce",salolu,,,,
+25514,72,"to hit",bob,,,4,
+25871,73,"to steal",penaʔo,,,"1,58",1
+26228,74,"to kill",sa,,,,
+26585,75,"to die, be dead",maiet,,,1,1
+26942,76,"to live, be alive",mwir,,,"1,76",1
+27299,77,"to scratch",crui,,,1?,
+27656,78,"to cut, hack",do,,,,
+28013,79,stick/wood,aia,,,1,1
+28727,81,sharp,laun,,,,
+29441,83,"to work",servius,,L,,
+29798,84,"to plant",ta:n,,,2,1
+31226,88,"to squeeze",kum,,,5,
+124972,89,"to hold",fail,,,,
+124973,89,"to hold",kau,,,,
+132604,90,"to dig",ke,,,26,
+132603,90,"to dig",tar,,,,
+32297,91,"to buy",alu,,,61,
+32654,92,"to open, uncover",lae,,,6,
+33368,94,"to throw",te,,,108,
+33725,95,"to fall",blai/mo,,,107,
+34082,96,dog,ausa,,,1,1
+34439,97,bird,mauna,,,1,1
+34796,98,egg,"maun telo-n",,,1,1
+35153,99,feather,"maun hulu-n",,,1,1
+35510,100,wing,lila-n,,,6,
+36581,103,meat/flesh,s|isa,"cf Atoni sisi",,1,1?
+36938,104,fat/grease,hula-n,,,,
+37295,105,tail,lo-n,,,,
+37652,106,snake,soleia,,,,
+38009,107,"worm (earthworm)",matkailaran,,,,
+38366,108,louse,uta,,,1,1
+39437,111,fish,ikan,,,1,1
+39794,112,rotten,broei,,,,
+40151,113,branch,"ai tolo",,,,
+40508,114,leaf,"ai nora-n",,,,
+40865,115,root,ramu-n,,,3,1
+41222,116,flower,"ai hetu-n",,,6,
+41579,117,fruit,"ai hua-n",,,1,1
+41936,118,grass,kura/naika,,,,
+42293,119,earth/soil,rai,,,4,
+42650,120,stone,hauta,,,1,1
+43007,121,sand,eno-n,,,1,1?
+43364,122,water,era,,,2?,?
+43721,123,"to flow","era lol",,,,
+44078,124,sea,taisa,,,1,1
+44435,125,salt,sia,,,1,1
+45149,127,woods/forest,"ai lalan",,,11,
+45506,128,sky,lelaun,,,10?,
+45863,129,moon,hula,,,1,1
+46220,130,star,hiuta,,,1,1
+46577,131,cloud,sabaia,,,,
+47291,133,rain,usa,,,1,1
+47648,134,thunder,"rai boka",,,,
+48362,136,wind,keula,,,,
+48719,137,"to blow",fu,,,5,
+49076,138,warm,bruis/ronu,,,,
+49433,139,cold,mlalan,,,,
+50147,141,wet,tita,,,,
+50504,142,heavy,rihu,,,,
+50861,143,fire,aifa,,,1,1
+51218,144,"to burn",tun,,,1,1
+51575,145,smoke,m|asu|n,,,2,1?
+51932,146,ash,"rai afon/raufa",,,1?,
+52289,147,black,metan,,,1,1
+52646,148,white,buti,,,1,1
+53003,149,red,mera,,,1,1
+53360,150,yellow,mara,,,6,
+53717,151,green,kmoro,,,4?,
+54074,152,small,loban,,,7,
+54431,153,big,tu,,,,
+54788,154,short,bloko,,,"54,93",
+55145,155,long,naru,,,1,1
+55502,156,thin,biko,,,,
+55859,157,thick,hoko,,,,
+56216,158,narrow,lefa,,,,
+56573,159,wide,mlua,,,1?,?
+57644,162,old,tatmai,,,,
+58001,163,new,heu,,,1,1
+80600,164,good,kode,,,,
+80601,164,good,mloi,,,11,
+58715,165,"bad, evil","ba kode/klau",,,,
+59072,166,"correct, true",dlo/tuburu,,,,
+59429,167,night,hodan,,,9?,
+59786,168,day,lelo-n,,,24,1
+60143,169,year,ton,,,1,1
+60500,170,when?,ar|fil,,,1,1?
+61571,173,at,ni,,,20?,
+61928,174,"in, inside",lalan,,,1,1
+62999,177,this,[k]idia,,,5,
+81493,178,that,[k]ida,,,,
+81494,178,that,laida,,,,
+63713,179,near,kabesi,,,,
+64070,180,far,ro,,,,1
+64427,181,where?,idbai,,,2,
+64784,182,I,au,,,1,1
+65141,183,thou,o,,,1,1
+65498,184,he/she,ura,,,4,
+113963,185,we,it,,,1,1
+113964,185,we,aim,,,2,
+66212,186,you,im,,,"1,13",?
+66569,187,they,ro,,,5,?
+66926,188,what?,sabid,,,1,
+67283,189,who?,senid,,,,
+67640,190,other,idloin,,,,
+67997,191,all,mret,,,,
+68354,192,and,nor,,,7,
+69068,194,how?,mansaba,,,,
+69425,195,"no, not",ba,,,25,
+69782,196,"to count",fre/sur,,,7,
+70139,197,One,id,,,1,?
+70496,198,Two,ru,,,1,1
+70853,199,Three,teul,,,1,1
+71210,200,Four,fat,,,1,1

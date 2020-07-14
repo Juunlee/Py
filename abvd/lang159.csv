@@ -1,0 +1,246 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+159,Kilivila,"Eprem T. Moguna",kij,kili1267,"Trobriand Isl.",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Papuan Tip, Peripheral, Kilivila-Louisiades, Kilivila","Debasish Roy","Simon Greenhill","@misc{Moguna-159-2005,  author = \"Eprem T. Moguna\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-8.48323856391351327488,151.06201171875000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+159,1,hand,yami|la,,,1,?
+516,2,left,kikiwama,,,,
+873,3,right,kakata,,,,
+1230,4,leg/foot,keki|la,,,1,1?
+1587,5,"to walk",lola,,,1,
+1944,6,road/path,keda,,,12,
+71656,7,"to come",ma,,,1,1
+71657,7,"to come",wa,,,72,1
+2658,8,"to turn",tovila,,,66,
+3015,9,"to swim",kakaya,,,5,
+3372,10,dirty,pupagatu,,,,
+3729,11,dust,tubumyou,,,,
+4086,12,skin,kanaina,,,53,
+4443,13,back,tapu|la,,,54,
+4800,14,belly,lula,,,105,
+5157,15,bone,totuwana,,,"1,10",
+5514,16,intestines,sileu,,,1,
+5871,17,liver,kata,"[cf. 19,55,57]",,1,1
+6228,18,breast,nunu,,,3,1
+6585,19,shoulder,ilara,,,,
+6942,20,"to know, be knowledgeable",nukwali,,,136,
+7299,21,"to think",nanamsa,,,97,?
+7656,22,"to fear",kokola,,,88,
+8013,23,blood,buyai,,,33,
+8370,24,head,pwaneta,,,80,
+8727,25,neck,keyona,,,90,
+9084,26,hair,kulu,,,3,
+9441,27,nose,kabulu,,,"1,17",
+9798,28,"to breathe",yagisa,,,,
+10155,29,"to sniff, smell",sukwani,,,110,
+72857,30,mouth,wadona,,,60,
+72858,30,mouth,wodlia,,,60,
+10869,31,tooth,kudu,,,61,
+72982,32,tongue,maena,,,7,
+72983,32,tongue,meliya,,,7,
+11583,33,"to laugh",gigila,,,85,
+11940,34,"to cry",valam,,,47,
+12297,35,"to vomit",lagoba,,,20,
+12654,36,"to spit",giu,,,65,
+13011,37,"to eat",kam,"[cf. 168]",,"1,43",1
+13368,38,"to chew",kaui,"(chew betel)",,67,
+13725,39,"to cook",sulu,"(boil food)",,17,
+14082,40,"to drink",mom,,,27,
+14439,41,"to bite",geda,,,46,
+14796,42,"to suck",nunu,,,"25,74",
+15153,43,ear,tegila,"[< m]",,1,1
+15510,44,"to hear",lagi,,,"1, 36",?
+15867,45,eye,mati|la,,,1,1?
+16224,46,"to see",gisi,,,1,?
+16581,47,"to yawn",kayawasi,,,15,
+16938,48,"to sleep",masisi,,,"1,70",?
+17295,49,"to lie down",kenu,,,1,1
+89980,50,"to dream",-mimi-,,,"1, 37",
+18009,51,"to sit",sisu,,,160,
+18366,52,"to stand",tota,,,2,
+18723,53,"person/human being",tomota,,,"1,66",1
+74225,54,man/male,tomwaya,,,"70,14",?
+74226,54,man/male,tau,,,22,?
+74288,55,woman/female,numwaya,,,,1
+74289,55,woman/female,vivila,,,"1,106",1
+19794,56,child,gwadi,,,39,
+20151,57,husband,mwala,,,26,
+20508,58,wife,kwava,,,99,
+20865,59,mother,ina,,,1,1
+21222,60,father,tama,,,1,1
+21579,61,house,bwala,,,43,
+21936,62,thatch/roof,kulumwala,,,70,
+22293,63,name,yegila,,,20,
+22650,64,"to say",livale,,,97,
+23007,65,rope,yuwayoula,,,54,
+23364,66,"to tie up, fasten",yuwali,,,,
+23721,67,"to sew",basi,,,53,
+24078,68,needle,vasiya,,,23,
+24435,69,"to hunt",wega,,,,
+24792,70,"to shoot",lova,,,7,?
+25149,71,"to stab, pierce",ginibabi,,,,
+25506,72,"to hit",weya,,,61,
+25863,73,"to steal",velau,,,21,1
+75513,74,"to kill",kata|mati,,,2,
+75514,74,"to kill",katumati,,,2,
+26577,75,"to die, be dead",kaliga,,,46,
+26934,76,"to live, be alive",mwamova,,,50,
+27291,77,"to scratch",kwari,,,12,?
+27648,78,"to cut, hack",teya,,,1,
+28005,79,stick/wood,kai,,,1,1
+28362,80,"to split",wavi,,,,
+28719,81,sharp,kakata,,,69,
+29076,82,"dull, blunt",nanaka,,,,
+29433,83,"to work",bagula,,,19,
+29790,84,"to plant",vaula,,,17,
+30147,85,"to choose",kila,,,13,
+30504,86,"to grow",kei|tubu,,,1,
+30861,87,"to swell",ulela,,,,
+31218,88,"to squeeze",kipuneni,,,,
+31575,89,"to hold",kipatu,,,75,
+31932,90,"to dig",keri,,,1,1
+32289,91,"to buy",gimwala,,,17,
+32646,92,"to open, uncover",ulemwa,,,,
+33003,93,"to pound, beat",mku,,,,
+76764,94,"to throw",lai,,,,
+76765,94,"to throw",lova,,,73,
+33717,95,"to fall",debwali,,,,
+34074,96,dog,kaukwa,,,17,
+34431,97,bird,mauna,"metathesis of *manu(k)a",,1,1?
+34788,98,egg,pou,,,15,
+35145,99,feather,dagula,,,13,
+77113,100,wing,pini,,,2,1
+77114,100,wing,pane,,,2,1
+77115,100,wing,na,,,,1
+35859,101,"to fly",yowa,,,1,?
+36216,102,rat,kikoni,,,,
+36573,103,meat/flesh,viriyona,,,10,
+36930,104,fat/grease,posa,,,61,
+37287,105,tail,yeyuna,,,"1,25",?
+37644,106,snake,keuna,,,,
+38001,107,"worm (earthworm)",silimwamwata,,,"10,48",
+38358,108,louse,kutu,,,1,1
+38715,109,mosquito,nim,,,1,1?
+39072,110,spider,kapiwa,,,,
+77587,111,fish,inya,,,1,
+77588,111,fish,inia,,,1,
+39786,112,rotten,tomkumwaku,,,,
+40143,113,branch,sisi,,,56,
+77784,114,leaf,yokwesi,,,28,
+77785,114,leaf,yekwesi,,,28,
+77837,115,root,qaina,,,,1?
+77838,115,root,wari,,,2,1?
+41214,116,flower,lala,,,20,
+41571,117,fruit,kawelu,,,,
+77980,118,grass,mnumonu,,,,
+77981,118,grass,munumonu,,,,
+42285,119,earth/soil,pwepwaya,,,92,
+42642,120,stone,dakuna,,,32,
+42999,121,sand,qenakenuva,,,,?
+43356,122,water,sopi-momon,,,66,
+43713,123,"to flow",saqaula,,,26,
+78330,124,sea,bwarilā,,,50,
+78331,124,sea,bwalita,,,50,
+44427,125,salt,yona,,,53,
+45141,127,woods/forest,ɬawodila,,,"7,120",
+78518,128,sky,labuma,,,18,
+78519,128,sky,lowalowa,,,18,
+78550,129,moon,tubukona,,,24,
+78551,129,moon,tubukola,,,24,
+89981,130,star,utuyam,,,1,
+78648,131,cloud,pupwakau,,,,
+78649,131,cloud,lowalowa,,,76,
+46926,132,fog,guugwau,,,"1,57",?
+47283,133,rain,kuna,,,1,?
+47640,134,thunder,pilapala,,,15,
+78863,135,lightning,qaikaila,,,"26, 6",
+78864,135,lightning,qavikavila,,,"26, 6",
+48354,136,wind,yagila,,,1,1
+48711,137,"to blow",yuvi,,,4,
+49068,138,warm,"pikekita yuviya...",,,,
+49425,139,cold,tula,,,126,
+49782,140,dry,lubulabu,,,115,
+50139,141,wet,pwatutu,,,,
+50496,142,heavy,mwau,,,20,
+50853,143,fire,kova,,,9,
+51210,144,"to burn",kata,,,17,
+51567,145,smoke,mseu,,,37,
+51924,146,ash,tubwaga,,,,
+52281,147,black,bwabwau,,,42,
+52638,148,white,pupwakau,,,75,
+52995,149,red,bweyani,,,26,
+53352,150,yellow,degila,,,,
+53709,151,green,siligoyata,,,,
+54066,152,small,kekita,,,38,
+54423,153,big,veka,,,65,
+54780,154,short,kukupi,,,20,
+55137,155,long,wanaku,,,,
+55494,156,thin,pwasisikwa,,,,
+55851,157,thick,popou,,,,
+56208,158,narrow,kaduyakekita,,,,
+56565,159,wide,kaduyaveka,,,,
+80383,160,"painful, sick",mmayuyu,,,,
+80384,160,"painful, sick",katoula,,,74,
+57279,161,"shy, ashamed",mmwasila,,,43,
+80490,162,old,nunumwaya,,,67,
+80491,162,old,tommwaya,,,67,
+80492,162,old,tob-boma,,,,
+57993,163,new,vau,"female, male, general",,"1,26",
+58350,164,good,bwena,,,37,
+58707,165,"bad, evil",gaga,,,60,
+59064,166,"correct, true",mokwita,,,,
+59421,167,night,bogi,,,1,
+59778,168,day,yam,,,6,1
+60135,169,year,tetu,"[d>y of 198, -n>m of 37]",,1,1
+60492,170,when?,avetuta,,,50,
+80996,171,"to hide",sikupweni,,,54,
+80997,171,"to hide",katupwana,,,54,
+61206,172,"to climb",mwena,,,66,
+81119,173,at,o,,,52,
+81120,173,at,wa,,,52,
+61920,174,"in, inside",olumolela,,,,
+62277,175,above,orakewa,,,61,
+62634,176,below,osikwawa,,,55,
+81368,177,this,matona,,,,
+81369,177,this,manana,,,,
+86103,178,that,matona,masculine,,,
+86104,178,that,manana,feminine,,1,
+63705,179,near,otali,"same as 'this' but point to things to differentiate",,,
+64062,180,far,kaduwanaku,,,,
+64419,181,where?,ambesa,,,,
+64776,182,I,yegu,,,"1,26",
+65133,183,thou,yokwa,,,21,
+81956,184,he/she,matona,[sg],,67,
+81957,184,he/she,manana,[sg],,67,
+86342,185,we,yakama,,,2,
+86343,185,we,yakamesa,,,2,
+86344,185,we,yakida,,,1,
+86345,185,we,yakidasi,,,1,
+66204,186,you,yokwami,,,"1,13,18",1?
+82149,187,they,mtosi,[plural],,66,
+82150,187,they,matosina,[plural],,66,
+82151,187,they,matosi,[plural],,66,
+66918,188,what?,avaka,,,1,
+67275,189,who?,avela,,,12,
+89982,190,other,ituali,,,,
+67989,191,all,komwedona,,,,
+82519,192,and,ei,,,8,
+82520,192,and,deli,,,,
+68703,193,if,kidamwa,,,22,
+69060,194,how?,amakala,,,,
+69417,195,"no, not",gala,,,23,
+69774,196,"to count",kalawa,,,67,
+70131,197,One,tala,,,14,
+70488,198,Two,yu,,,1,
+70845,199,Three,tolu,,,1,1
+71202,200,Four,vasi,,,"1,65",1
+134907,201,Five,lima,,,1,
+89983,202,Six,"-lima -tala",,,,
+89984,203,Seven,"-lima -yu",,,"5,2",
+89985,204,Eight,"-lima -tolu",,,,
+89986,205,Nine,"-lima -vasi",,,"11,17",
+89987,206,Ten,-luwatala,,,,
+89988,207,Twenty,-luwayu,,,,
+89989,208,Fifty,-luwalima,,,,
+89990,209,"One Hundred",-lakatutala,,,56,
+89991,210,"One Thousand",-lakatuluwatala,,,,

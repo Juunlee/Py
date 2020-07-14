@@ -1,0 +1,188 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+184,"Santa Ana","Blust, from Tryon & Hackman (1983)",stn,owaa1237,"Tryon, D.T. & Hackman, B. (1983) Solomon Islands languages: an internal classification.",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Southeast Solomonic, Malaita-San Cristobal, San Cristobal","Peng Du","Simon Greenhill","@book{85830,  address               = {Canberra},  note                  = {Bibliography: p. 483-490.},  pages                 = {viii+490},  publisher             = {Research School of Pacific and Asian Studies, Australian National University},  series                = {Pacific Linguistics: Series C},  title                 = {Solomon Islands Languages: An Internal Classification},  volume                = {72},  year                  = {1983},  bibtexkey             = {hackman-tryon_solomon-islands1983},  class_loc             = {PL6211.S6},  document_type         = {B},  fn                    = {papua\tryon-hackman_solomon-islands1983.pdf, papua\tryon-hackman_solomon-islands1983pages.pdf, papua\tryon-hackman_solomon-islands1983pages_o.pdf},  hhtype                = {overview;comparative;wordlist},  inlg                  = {English [eng]},  inlg_code             = {eng},  isbn                  = {9780858832923},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 6211 .S6 TRY 1983},  src                   = {hh, mpieva},  srctrickle            = {hh#hvw:TryonHackman:Solomon, mpieva#Tryon1983SolomonI},  subject_headings      = {Melanesian languages–Solomon Islands–Classification, Solomon Islands–Languages–Classification, Melanesian languages–Solomon Islands–Classification – Solomon Islands–Languages–Classification},  author                = {Tryon, Darrell T. and Hackman, B. D.}}"
+latitude,longitude
+-10.83651000000000053092,162.46754000000001383341
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+184,1,hand,rima-,,,1,1
+541,2,left,mafa,,,57,
+898,3,right,aoto,"irregular initial /a/",,42,
+1255,4,leg/foot,aua-,"irregular diphthongisation of vowel",,101,
+1612,5,"to walk",tawa|raɣo|fa,,,1,1
+1969,6,road/path,tara,,,1,1
+2326,7,"to come","rao mai",,,"1,85",1
+2683,8,"to turn",riri,,,69,
+3040,9,"to swim",arasi,,,63,
+3397,10,dirty,puniɣa,,,84,
+3754,11,dust,rafu,,,29,?
+4111,12,skin,ɣawo-,,,35,
+4468,13,back,ɣairi-,,,39,
+4825,14,belly,aopʷa-,"irregular addition of initial a vowel",,36,
+5182,15,bone,suri-,,,52,
+5539,16,intestines,aŋae-,,,59,
+5896,17,liver,pʷounanuia-na,,,26,
+6253,18,breast,susu-,,,1,1
+6967,20,"to know, be knowledgeable",ɣirara,"irregular addition of reduplicated final syllable",,"18, 102",
+7324,21,"to think",tako,,,38,
+7681,22,"to fear",maɣufa,,,1,
+8038,23,blood,ɣapu-,,,5,
+8395,24,head,pʷaw-,"irregular diphthongisation of final vowel",,9,
+8752,25,neck,rio-,,,1,1
+146338,26,hair,furu,"hair (body)",,31,
+9466,27,nose,bʷarusu-,,,"1,12",
+9823,28,"to breathe",manawa,,,1,1
+10180,29,"to sniff, smell",siɣinia,,,12,
+10537,30,mouth,fara-,,,42,
+10894,31,tooth,riwo-,,,"1,35",1
+11251,32,tongue,mea-,,,7,
+11608,33,"to laugh",mamana,,,51,
+11965,34,"to cry",aŋi,,,1,1
+12322,35,"to vomit",momoa,"irregular *u > o",,1,1?
+12679,36,"to spit",misu,,,"14, 81",
+13036,37,"to eat",ŋau,,,15,
+14107,40,"to drink",tono,,,35,
+14464,41,"to bite",ɣara,,,1,1
+14821,42,"to suck",nuɣu,,,29,
+15178,43,ear,kariŋa-,,,"1, 24",1?
+15535,44,"to hear",roŋo,,,1,1
+15892,45,eye,mā,,,1,1
+16249,46,"to see",reɣia,,,13,
+16963,48,"to sleep",mauru,,,1,1
+17320,49,"to lie down",ta...,"photocopying cutoff",,,
+172416,50,"to dream","mauru tai",,,15,
+18034,51,"to sit",oɣa,,,80,
+18391,52,"to stand",ura,,,40,
+18748,53,"person/human being",ainuni,,,10,
+19105,54,man/male,mʷane,,,1,1
+19462,55,woman/female,fefene,,,"1,47",1
+19819,56,child,kare,,,40,
+20890,59,mother,kanana,,,31,
+21247,60,father,mā,,,"1, 67",
+21604,61,house,rima,"irregular *u > i",,"1, 48",1
+21961,62,thatch/roof,"ɣairi na rima",,,,
+22318,63,name,āta,,,"1,18",1
+22675,64,"to say",woi,,,13,
+23032,65,rope,waro,,,2,
+23389,66,"to tie up, fasten",pʷaroa,,,,
+23746,67,"to sew",taia,,,2,1
+24460,69,"to hunt",faɣawasi,,,15,
+25174,71,"to stab, pierce",rupuɣia,,,59,
+25531,72,"to hit",aofi,,,,
+25888,73,"to steal",fanaɣo,,,"1,58",1
+26245,74,"to kill",nafu,,,50,
+26602,75,"to die, be dead",mae,,,1,1
+26959,76,"to live, be alive",tafi,,,32,
+27316,77,"to scratch",ɣaɣaro,,,1,1
+27673,78,"to cut, hack",tapi,,,66,
+28030,79,stick/wood,apena|ɣa,,,1,1
+28387,80,"to split",afasita,,,55,
+28744,81,sharp,masi,,,72,
+29101,82,"dull, blunt",maŋo,,,57,
+29458,83,"to work",to..,,,,
+30886,87,"to swell",fu...,,,,
+31243,88,"to squeeze",rosi...,,,19,
+31600,89,"to hold",fere...,,,63,
+31957,90,"to dig",tapa,,,78,
+33742,95,"to fall",apur...,,,72,
+34099,96,dog,au,,,58,
+34456,97,bird,manu,,,1,1
+34813,98,egg,aoru,,,1,1
+35170,99,feather,furu-na,,,1,1
+35527,100,wing,ɣapara-,,,"1,12",
+35884,101,"to fly",ɣāfa,,,36,
+36241,102,rat,kīki,,,56,
+36598,103,meat/flesh,fisiɣo-,,,10,
+36955,104,fat/grease,aupʷe-na,,,56,
+37312,105,tail,kere-,,,39,
+37669,106,snake,mʷa,,,12,
+38383,108,louse,ɣū,,,1,1
+38740,109,mosquito,namu,,,1,1
+39097,110,spider,rawa,,,1,1
+39454,111,fish,siare,,,61,
+39811,112,rotten,kakaɣa,,,58,
+40168,113,branch,ara-,,,"1,17",1?
+40525,114,leaf,afa-,,,34,
+40882,115,root,waɣa-,,,2,1
+41239,116,flower,taka-,,,12,
+41596,117,fruit,ɣua-,,,"1, 26",?
+41953,118,grass,raua,,,16,
+42310,119,earth/soil,mʷako,,,51,
+42667,120,stone,fau,,,1,1
+43024,121,sand,āone,"with irregular addition of initial vowel",,"1, 65",1
+43381,122,water,wai,,,2,1
+43738,123,"to flow",mʷaɣanu,,,47,
+44095,124,sea,asi,,,1,1
+45166,127,woods/forest,wapu,,,22,
+45523,128,sky,wawearo,,,49,
+45880,129,moon,faɣaifa,,,39,
+46237,130,star,fēɣu,,,"1, 51",?
+146329,131,cloud,roto,cloud,,65,
+46951,132,fog,rafo,,,3,
+47308,133,rain,raŋi,,,7,
+47665,134,thunder,ɣuɣuru|fia...,,,"2, 63",1?
+48022,135,lightning,maraŋaia...,,,53,
+48379,136,wind,roɣa,,,54,
+48736,137,"to blow",ufi,,,4,
+49093,138,warm,mafan...,,,"1, 72",
+49450,139,cold,mamar...,,,,
+49807,140,dry,mar...,,,,
+50164,141,wet,rufu,,,66,
+50521,142,heavy,fiɣa,,,41,
+50878,143,fire,ɣiu,,,33,
+51235,144,"to burn",rata,,,60,
+51592,145,smoke,asuas...,,,2,1
+51949,146,ash,rafu,,,67,
+52306,147,black,masusuri,,,54,
+52663,148,white,siki,,,58,
+53020,149,red,memera,,,1,1
+53377,150,yellow,raranitora...,,,,
+53734,151,green,marawarawa...,,,13,
+54091,152,small,kere,,,64,
+54448,153,big,rafa,,,10,
+54805,154,short,apʷoupʷo...,,,56,
+55162,155,long,pʷ...,,,,
+55519,156,thin,manifinifi,,,1,1
+55876,157,thick,upupuɣa,,,12,
+56947,160,"painful, sick",matoro,,,11,
+57661,162,old,pʷaninuni,,,80,
+58018,163,new,faoru,,,1,1
+58375,164,good,koro,,,55,
+58732,165,"bad, evil",aera,,,52,
+59089,166,"correct, true",mʷora,,,,
+59446,167,night,pʷoŋi-ana,,,1,1
+59803,168,day,taŋi-ana,,,6,1?
+60160,169,year,farisi,,,8,
+60517,170,when?,kaita,,,"1,41,44",1
+61231,172,"to climb",akau,,,,
+61588,173,at,ia,,,1,
+61945,174,"in, inside",raro-na,,,1,1
+62659,176,below,ruɣufana-na,,,42,
+63016,177,this,eka,,,6,
+63730,179,near,faɣa-raŋi,,,"1, 74",1?
+64087,180,far,faɣa-tau,,,"1, 18",1
+64444,181,where?,ifai,,,3,
+64801,182,I,inau,,,"1, 22",1
+65158,183,thou,iɣo,,,1,1
+65515,184,he/she,ŋaia,,,"1, 68",1
+113981,185,we,iɣia,,,1,1
+113982,185,we,iɣami,,,2,
+66229,186,you,iɣamu,,,1,1
+66586,187,they,ŋaera,,,"1, 71",1
+66943,188,what?,ta,,,"1, 52",?
+67300,189,who?,otai,,,"1, 69",
+68371,192,and,mana,,,"2, 40",1
+68728,193,if,fea,,,,
+69085,194,how?,fea,,,,
+69442,195,"no, not",marefa,,,74,
+69799,196,"to count",toma,,,14,
+70156,197,One,eta,,,32,1
+70513,198,Two,rua,,,1,1
+70870,199,Three,oru,,,1,1
+71227,200,Four,fai,,,"1,65",1
+146330,201,Five,rima,five,,1,
+146331,202,Six,ono,six,,1,
+146332,203,Seven,piu,seven,,1,
+146333,204,Eight,waru,eight,,3,
+146334,205,Nine,siwa,nine,,5,
+146335,206,Ten,taŋafuru,ten,,5,
+146336,209,"One Hundred",taŋarau,"one hundred",,"4, 38",
+146337,210,"One Thousand",pwera,"one thousand",,23,

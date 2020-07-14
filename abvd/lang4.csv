@@ -1,0 +1,259 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+4,Banoni,"Blust, from Lincoln (1975)",bcm,bann1247,"Lincoln, Peter C. (1975) English-Banoni finder list. typescript.",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, South New Ireland-Northwest Solomonic, Piva-Banoni","Peng Du","Simon Greenhill","@misc{lincoln1975a,  date     = {1975},  title    = {English-Banoni finder list},  note     = {typescript},  language = {en},  author   = {Lincoln, Peter C.}}"
+latitude,longitude
+-6.51181470634788794882,155.28076171875000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+4,1,hand,numa-,,,1,1?
+361,2,left,tororona,,,66,
+718,3,right,matoo-,,,"5,13",1
+1075,4,leg/foot,rapinna,,,,
+1432,5,"to walk",vanavido,,,"2, 64",
+1789,6,road/path,sanana,,,1,1
+250228,7,"to come",-ma,"(toward speaker)",,1,
+250229,7,"to come",tai-ma,"('go-to speaker' = 'come')",,1,
+71693,8,"to turn",beruu,,,,
+71694,8,"to turn",vegom,,,,
+2860,9,"to swim",suu,11?,,12,
+71799,10,dirty,dotsi,"dotsi [L?]",L?,,
+71800,10,dirty,kiipi,,,,
+3574,11,dust,ramuta,,,,
+3931,12,skin,kabunu-,,,98,
+4288,13,back,tsughi-,,,12,
+4645,14,belly,kobi-,"irregular final vowel",,2,
+5002,15,bone,sipana-,,,73,
+5359,16,intestines,kore-,,,80,
+5716,17,liver,date-,,,1,1?
+6073,18,breast,su-,,,1,1
+6430,19,shoulder,dzaneko-,,,,
+72273,20,"to know, be knowledgeable",kuki,,,,
+72274,20,"to know, be knowledgeable",vonogu,,,,
+7144,21,"to think",varekana,,,40?,
+7501,22,"to fear",vere,,,,
+7858,23,blood,ŋatsi,,,,
+8215,24,head,tope-,,,,
+8572,25,neck,kokoromo-,,,27,
+8929,26,hair,punu-,,,31,
+72677,27,nose,vivitsi-,,,1,?
+72678,27,nose,visu-,,,1,?
+9643,28,"to breathe",vasa,,,66,
+10000,29,"to sniff, smell",ghau,,,,
+10357,30,mouth,maŋo-,,,13,
+10714,31,tooth,nuki-,,,67,
+11071,32,tongue,mea-,,,7,
+11428,33,"to laugh",vagiri,,,,
+11785,34,"to cry",tanisi,,,1,1
+12142,35,"to vomit",toruu,,,,
+73152,36,"to spit",kamisu,,,"14, 22",
+73153,36,"to spit",[tsi]nomi,,,,
+73204,37,"to eat",tam,,,40,
+73205,37,"to eat",bebau,,,52,
+13570,39,"to cook",keekaru,Cooking,,,
+13927,40,"to drink",kuu,,,30,
+14284,41,"to bite",kanata,,,1,1?
+14641,42,"to suck",mutsi,,,"6, 83",
+14998,43,ear,taŋina-,(<M),,1,1
+15355,44,"to hear",noŋono,,,"1, 36",1
+15712,45,eye,mata-,,,1,1
+16069,46,"to see",reghe,,,13,
+73931,47,"to yawn",moghava,,,19,1?
+73932,47,"to yawn",mogava,,,19,1?
+73948,48,"to sleep",tsereghe,,,,?
+73949,48,"to sleep",matsure,,,1,?
+17497,50,"to dream",tatara,,,16,
+17854,51,"to sit",gonna,,,79,
+74086,52,"to stand",tsighom,,,2,
+74087,52,"to stand",pito,,,13,
+74134,53,"person/human being",na-,,,,
+74135,53,"person/human being",tavana,,,47,
+18925,54,man/male,tamata,,,"12,14",
+19282,55,woman/female,moono,,,11,
+19639,56,child,natsu,,,5,
+19996,57,husband,tamata,,,23,
+20353,58,wife,moono,,,45,
+20710,59,mother,tsina-,,,1,1
+21067,60,father,tama-,,,1,1
+21424,61,house,numa,,,1,1
+21781,62,thatch/roof,teghunu,,,,
+22138,63,name,vasaŋa-,"cp. atuN<+qatun",,"1,18",1?
+74732,64,"to say",dara,,,37,
+74733,64,"to say",va,,,30,
+22852,65,rope,kurum,,,,
+23209,66,"to tie up, fasten",patsuna,,,,
+23566,67,"to sew",keekabe,,,49,
+75139,68,needle,piin,Loan,L,,
+75140,68,needle,sa,,,20,
+24280,69,"to hunt",vakavino,,,,
+24637,70,"to shoot",kum,,,32,
+75268,71,"to stab, pierce",tsu,,,"1, 8",
+75269,71,"to stab, pierce",paraka,,,95,
+75270,71,"to stab, pierce",tapoo,,,,
+75353,72,"to hit",tsunu,,,50,
+75354,72,"to hit",buno,,,,
+75355,72,"to hit",tagunu,,,,
+25708,73,"to steal",dzaŋa,,,,
+75498,74,"to kill",tsuna,,,18,?
+75499,74,"to kill",vamate,,,2,?
+75500,74,"to kill",venua,,,29,?
+26422,75,"to die, be dead",mate,,,1,1
+26779,76,"to live, be alive",sabiri,,,,
+27136,77,"to scratch",ghe|ghano,,,1,1
+75655,78,"to cut, hack",kabaka,,,,
+75656,78,"to cut, hack",vitoo,,,,
+27850,79,stick/wood,tsupi,,,,
+28207,80,"to split",putake,,,41,
+28564,81,sharp,gheeghame,,,14,
+28921,82,"dull, blunt",dzudazumo,,,,
+76035,83,"to work",vaka,,L,,
+76036,83,"to work",vagotsi,,,,
+76037,83,"to work",toghono,,,,
+29635,84,"to plant",reba,,,13,
+76257,87,"to swell",paŋu[ru],,,,
+76258,87,"to swell",boko,,,24,
+31063,88,"to squeeze",togonopisu,,,"91, 31",
+31420,89,"to hold",ragomo,,,,?
+31777,90,"to dig",tsugea,,,,
+32134,91,"to buy",bunava,,,38,
+76606,92,"to open, uncover",ghasi,,,45,1
+76607,92,"to open, uncover",puke,,,1,1
+32848,93,"to pound, beat",tsuu,"or 20?",,20,1?
+33205,94,"to throw",vigi,,,,
+76805,95,"to fall",butsu,,,,
+76806,95,"to fall",dzoŋo,,,78,
+76807,95,"to fall",geku,,,,
+33919,96,dog,bekeu,,,93,
+34276,97,bird,manughu,,,1,1
+34633,98,egg,panusu,,,46,
+34990,99,feather,puata-,,,51,
+77105,100,wing,buburu-,,,"15,57",
+77106,100,wing,bana-,,,42,
+35704,101,"to fly",burunu,,,29,
+36061,102,rat,kiso,,,"3,88",
+77199,103,meat/flesh,koganna,,,,
+77200,103,meat/flesh,vagana,,,,
+36775,104,fat/grease,mariŋi,,,66,
+37132,105,tail,kokoreka,,,27,
+37489,106,snake,koru,,,21,
+77412,107,"worm (earthworm)",koropita,,,51,
+77413,107,"worm (earthworm)",mabo,,,,
+38203,108,louse,ghutsu,,,1,1
+38560,109,mosquito,merikono,,,,
+38917,110,spider,kaadado,,,,
+39274,111,fish,bosi,,,70,
+77623,112,rotten,raapa,,,39,
+77624,112,rotten,kupu,,,,
+77625,112,rotten,biko,,,,
+39988,113,branch,nakona,,,,
+40345,114,leaf,nana,,,,?
+77821,115,root,bagarana,,,19,
+77822,115,root,vapopokana,,,,
+41059,116,flower,baabaana,,,,
+77958,118,grass,gogorini,,,,
+77959,118,grass,garasi,"garasi (L)",L,,
+42130,119,earth/soil,gomono,,,,
+42487,120,stone,paratsi,,,30,
+42844,121,sand,pitsi[ma],,,,
+43201,122,water,koromo,,,7,
+78243,123,"to flow",sanini,,,24,
+78244,123,"to flow",gu,,,,
+78298,124,sea,tagisi,metathesis,,1,
+78299,124,sea,gutsini,,,,
+44272,125,salt,tsigo,,,,
+78419,126,lake,gosoro,,,,
+78420,126,lake,mato,,,,
+78443,127,woods/forest,bubuna,,,,
+78444,127,woods/forest,koŋara,,,,
+45343,128,sky,barekopi,,,,
+45700,129,moon,madava,,,40,
+46057,130,star,pipito,,,"1,81",1?
+46414,131,cloud,kekao,,,,
+78686,132,fog,kabu,,,"1, 54",?
+78687,132,fog,nukuita,,,83,?
+78688,132,fog,vamuko,,,,?
+47128,133,rain,gharau,,,24,
+47485,134,thunder,pina,,,23,
+78842,135,lightning,kanava,,,14,
+78843,135,lightning,takiravana,,,14,
+48199,136,wind,puughuu,,,,
+48556,137,"to blow",puughuu,,,82,
+79061,138,warm,visisiki,,,29,
+79062,138,warm,vaipopore,,,,
+79123,139,cold,togo,,,,
+79124,139,cold,makobu,,,,
+49627,140,dry,vikomakareva,,,,
+79305,141,wet,sabu,,,,
+79306,141,wet,butaŋa,,,20,
+50341,142,heavy,papataŋa,,,"46,80",
+50698,143,fire,dzai,"(p>?in to-atsi 4)",,1,1?
+79429,144,"to burn",[va]bu,,,,
+79430,144,"to burn",vanaŋi,,,39,
+51412,145,smoke,daso,,,2,
+51769,146,ash,pona,,,47,
+86095,147,black,naŋiri,cloth,,,
+86096,147,black,nunumini,skin,,,
+52483,148,white,kekao,,,"53,33",
+79719,149,red,bubu,,,,
+79720,149,red,vivisiki,,,,
+79771,150,yellow,kakarasa,,,,
+79772,150,yellow,temori,,,50,
+53554,151,green,bubune,,,17,
+79842,152,small,kikinaki,,,78,
+79843,152,small,baki,,,,
+79979,153,big,baŋana,,,,
+79980,153,big,gari,,,,
+80075,154,short,kukubuna[ki],,,72,
+80076,154,short,kubunu,,,72,
+54982,155,long,gaarusu,,,,
+55339,156,thin,"to totogo",,,,
+55696,157,thick,tootogo,,,,
+56053,158,narrow,kubunna,,,,
+56410,159,wide,tataabana,,,37,
+56767,160,"painful, sick","[pe] pau",,,,
+57481,162,old,tatsuam,things,,x,
+57838,163,new,ghoom,,,"1,26",
+80567,164,good,daame,,,,
+80568,164,good,komo,,,,
+80662,165,"bad, evil",sara,,,,
+80663,165,"bad, evil",sabau,,,57,
+58909,166,"correct, true",magoto,,,13,
+59266,167,night,boŋi,,,1,1
+59623,168,day,korisa,,,68,
+59980,169,year,namare,,,57,
+60337,170,when?,noisa,"why no -n?",,"1,24",1
+60694,171,"to hide",vape,,,,
+81166,174,"in, inside",mo,,,,
+81167,174,"in, inside",mokorena,,,,
+62479,176,below,kopona,,,45,
+81327,177,this,ie,,,,
+81328,177,this,nabee,,,,
+81422,178,that,nana,,,1,1?
+81423,178,that,nabo,,,1,1?
+63907,180,far,"mo gharusuna",,,,
+81678,181,where?,"[na] vai",,,3,
+81679,181,where?,vaia,,,"3,35",
+64621,182,I,na,,,"1,22",?
+64978,183,thou,no,,,"1,18",?
+65335,184,he/she,nna,,,"1,6",
+86334,185,we,ghata,"ghata (<A)",,1,1
+86335,185,we,ghamam,,,2,
+66049,186,you,gham,,,1,1
+66406,187,they,nari,,,25,
+82216,188,what?,sua,,,"1,9",
+82217,188,what?,hoa,,,,
+82280,189,who?,see,,,1,1
+82281,189,who?,hee,,,1,1
+67834,191,all,kota,,,,
+68905,194,how?,"vaia vasi",,,,
+69262,195,"no, not",ghinava,,,,
+69619,196,"to count",see,,,10,
+69976,197,One,kadaken,,,52,
+70333,198,Two,toom,,,1,
+70690,199,Three,dapisa,,,4,
+71047,200,Four,to|atsi,,,"1,65",1
+250221,201,Five,ghinima,,,1,
+250230,202,Six,bena,"'6' AKA 'cross over' [changing hands when counting on fingers]",,22,
+250231,203,Seven,"bena toom","'7' [cross.over two]",,,
+250232,204,Eight,"bena kapisa","[cross.over ?ligature three]",,,
+250220,205,Nine,visa,,,,
+250219,206,Ten,manogha,,,18,
+250218,209,"One Hundred",rausu,,,4,
+250222,210,"One Thousand",kokoreo,"'1,000' also means 'chicken'",,34,

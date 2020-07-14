@@ -1,0 +1,278 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+230,"Sakao (Port-Olry)","Jacques Guy",sku,saka1289,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, North and Central Vanuatu, East Santo, North","Debasish Roy","Simon Greenhill","@misc{Guy-230-2005,  author = \"Jacques Guy\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-15.07742767484798740441,167.01965332031250000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+71421,1,hand,ɔlklɛ-ɣ,,,55,
+71422,1,hand,ɔlkla-n,,,55,
+71423,1,hand,[ɒ]wɒlk-,,,55,
+587,2,left,jɛnar,,,2,
+944,3,right,jɛr,,,54,
+71511,4,leg/foot,ule-ɣ,,,37,
+71512,4,leg/foot,ule-n,,,37,
+71513,4,leg/foot,ule-,,,37,
+1658,5,"to walk",jaljal,,,10,
+2015,6,road/path,[a]hal,,,1,1
+2372,7,"to come",lam,,,"1,25",1?
+2729,8,"to turn",rjø,,,125,
+3086,9,"to swim",ɣɛr,,,5,
+3443,10,dirty,lœhœr,,,19,
+3800,11,dust,[a]taŋtaŋ,,,45,
+71974,12,skin,[œ]lɨky-ɣ,,,,
+71975,12,skin,[œ]lœkœ-n,,,,
+71976,12,skin,[œ]lyk-,,,,
+72033,13,back,[œ]βly-ɣ,,,76,
+72034,13,back,"[œ]βlœ-n [œ]βyl-",,,76,
+72080,14,belly,[œ]ðɨŋœ-ɣ,,,60,
+72081,14,belly,[ɒ]ðɨŋɒ-n,,,60,
+72082,14,belly,[œ]ðœŋ-,,,60,
+72099,15,bone,akry-ɣ,,,27,
+72100,15,bone,akrœ-n,,,27,
+72101,15,bone,akyr-,,,27,
+5585,16,intestines,[ɔ]kɔðɨŋœ-ɣ,"[cf. belly]",,"1, 57",
+5942,17,liver,[ɛ]pɛkar,"[kar=  'red']",,"7,35",
+6299,18,breast,[ɛ]ssi,,,1,1?
+72237,19,shoulder,[ɒ]ðɒlβarkɛ,,,54,
+72238,19,shoulder,[ɒ]βɒtɔlklɛ-ɣ,,,76,
+7013,20,"to know, be knowledgeable",ɣœðhɛri,,,76,
+88460,21,"to think",rœm,tr.,,13,1
+88461,21,"to think",rɛm,intr.,,13,1
+7727,22,"to fear",kɛðkɛð,,,24,
+72447,23,blood,[ɛ]nɛ-ɣ,,,1,?
+72448,23,blood,[ɛ]nɛ-n,,,1,?
+72449,23,blood,[ɛ]nɛ-,,,1,?
+72503,24,head,[œ]βðy-ɣ,,,9,
+72504,24,head,[œ]βðœ-n,,,9,
+72505,24,head,[œ]βyð-,,,9,
+72558,25,neck,[œ]rlœ-ɣ,,,42,
+72559,25,neck,[ɔ]rlɔ-n,,,42,
+72560,25,neck,[œ]rœl-,,,42,
+72629,26,hair,uly-ɣ,,,31,
+72630,26,hair,ulœ-n,,,31,
+72631,26,hair,[n]øl-,,,31,
+72701,27,nose,[ɛ]ðɛlhy-ɣ,,,"1,49",
+72702,27,nose,[ɛ]ðelhœ-n,,,"1,49",
+9869,28,"to breathe",naryŋ,,,12,
+10226,29,"to sniff, smell",mmɨhy,,,65,
+88720,30,mouth,[œ]sɨŋœ-ɣ,,,55,
+88721,30,mouth,[ɔ]sɨŋɔ-n,,,55,
+88722,30,mouth,[œ]sœŋ-,,,55,
+88723,30,mouth,"ijɛ-ɣ ija-n ijɛ-","this is a singular paradigm",,,
+72925,31,tooth,[œ]ry-ɣ,,,18,
+72926,31,tooth,[œ]rœ-n,,,18,
+72927,31,tooth,[œ]ry-,,,18,
+72986,32,tongue,[œ]nœ-ɣ,,,7,
+72987,32,tongue,"[ɒ]nɒ-n [œ]nœ-",,,7,
+11654,33,"to laugh",wyr,,,13,
+73086,34,"to cry",ŋɒr,,,5,1
+73087,34,"to cry",tɛ,,,32,1
+12368,35,"to vomit",lu,,,8,
+12725,36,"to spit",kɔrsym,"< *kaʀat 'bite' + *musi (metathesized?)",,"14, 82, 97, 99",
+89307,37,"to eat",yœn,tr.,,1?,
+89308,37,"to eat",yɛn,intr.,,1?,
+13439,38,"to chew",sɒm,,,21,
+13796,39,"to cook",kœɛ,,,,
+14153,40,"to drink",sym,,,52,
+14510,41,"to bite",wuryð,,,54,
+14867,42,"to suck",mœk,,,61,
+73711,43,ear,[œ]βrœ-ɣ,,,16,
+73712,43,ear,[ɔ]βrɔ-n,,,16,
+73713,43,ear,[ɒ]βɒr-,,,16,
+15581,44,"to hear",rɔɣ,,,1,1
+73791,45,eye,mðɛ-ɣ,,,1,1
+73792,45,eye,mða-n,,,1,1
+73793,45,eye,[ɒ]nɒð-,,,1,1
+16295,46,"to see",ɣœð,,,1,1?
+16652,47,"to yawn",wijaɣ,,,,
+17009,48,"to sleep",ŋɔr,,,63,
+17366,49,"to lie down",ŋɔrsu,,,61,
+17723,50,"to dream",wɔswɔs,,,,
+18080,51,"to sit",rɔsu,,,123,
+18437,52,"to stand",marjɛ,,,66,
+18794,53,"person/human being",aðœŋœn,,,54,
+19151,54,man/male,[a][w]arl,,,92,
+19508,55,woman/female,[a][w]akœr,,,82,
+74391,56,child,walðy-ɣ,,,49,
+74392,56,child,walðœ-n,,,49,
+74393,56,child,alð-,,,49,
+20222,57,husband,warl,=man,,74,
+20579,58,wife,wakœr,,,61,
+74497,59,mother,ðjœ-ɣ,,,1,?
+74498,59,mother,ðjɒ-n,,,1,?
+74499,59,mother,[œ]ðjœ-,,,1,?
+74567,60,father,ðɛnɛ-ɣ,,,1,1
+74568,60,father,ðana-n,,,1,1
+21650,61,house,[ɔ]lɔm,,,53,
+22007,62,thatch/roof,[ɛ]rɛtalo,"lit. 'atalo leaves'",,,
+74709,63,name,[a][w]ase-ɣ,,,"1,18",?
+74710,63,name,[a][w]ase-n,,,"1,18",?
+74711,63,name,[a][w]as-,,,"1,18",?
+91414,64,"to say",wɒr,tr.,,30,
+91415,64,"to say",war,intr.,,30,
+23078,65,rope,[ɛ]wɛ,,,25,
+23435,66,"to tie up, fasten",li,,,"1,39",
+75210,69,"to hunt","sar [œ]pœs","lit. 'to spread the dogs'",,30,
+75211,69,"to hunt",kœl,"lit. 'to spread the dogs'",,,
+24863,70,"to shoot",sɔn,,,,
+25220,71,"to stab, pierce",sy,,,"1, 8",1
+25577,72,"to hit",rɒs,,,,
+75484,73,"to steal",kysø,,,50,
+75485,73,"to steal",kɛsø,,,50,
+26291,74,"to kill","jil sœβ",,,,
+26648,75,"to die, be dead",nɛð,,,1,1
+27005,76,"to live, be alive",hɛ,,,58,
+27362,77,"to scratch",kœrœð,,,44,1?
+27719,78,"to cut, hack",to,,,1,1
+28076,79,stick/wood,[a]mas,,,24,
+28433,80,"to split",sar,,,,
+28790,81,sharp,ɣen,"to eat",,14,
+76012,82,"dull, blunt",βytβyt,,,16,
+76013,82,"dull, blunt",βylβyl,,,16?,
+29504,83,"to work",jøm,,,1,?
+29861,84,"to plant",te,,,2,
+30218,85,"to choose",ri,,,1?,
+30575,86,"to grow",lu,,,19,
+30932,87,"to swell",sœɣ,,,15,
+31289,88,"to squeeze",jir,,,16,
+31646,89,"to hold",teryr,,,35?,
+93433,90,"to dig",ɣœl,tr.,,1,1
+93434,90,"to dig",ɣel,intr.,,1,
+32360,91,"to buy",wœl,,,1,1
+32717,92,"to open, uncover",wu,,,1,1
+33431,94,"to throw",pɨtjø,,,,
+33788,95,"to fall",ʀer,,,,
+34145,96,dog,[ɛ]rɛwyr,"litt. \"whites man's hermaphrodite pig\"",,,
+34502,97,bird,[ɛ]nɛs,,,24,
+77007,98,egg,atɨly-ɣ,,,1,1
+77008,98,egg,atœlœ-n,,,1,1
+77009,98,egg,atœl-,,,1,1
+77061,99,feather,uly-ɣ,=hair,,1,1
+77062,99,feather,ulœ-n,=hair,,1,1
+77063,99,feather,[n]øl-,=hair,,1,1
+77116,100,wing,aβyljɛ-ɣ,,,38,
+77117,100,wing,aβylja-n,,,38,
+77118,100,wing,aβyl-,,,38,
+35930,101,"to fly",hɔl,,,31,
+36287,102,rat,[n]oɔ,,,18,
+104724,103,meat/flesh,ɔnɛð,"lit. what is dead",,,
+104725,103,meat/flesh,[a]sasky-ɣ,,,,
+104727,103,meat/flesh,[a]sask-,,,,
+104726,103,meat/flesh,[a]saskœ-n,,,,
+77308,104,fat/grease,[œ]rø-ɣ,"My grease",,44,
+77309,104,fat/grease,[œ]rø-n,"His grease",,44,
+77310,104,fat/grease,[œ]rø-,,,44,
+77353,105,tail,ɔlœ-ɣ,,,64,
+77354,105,tail,ɔlɒ-n,,,64,
+77355,105,tail,[ɒ]wɒl-,,,64,
+37715,106,snake,[ɔ]jo,,,,
+38072,107,"worm (earthworm)",[ɛ]sɨlɛt,,,"1,8",
+38429,108,louse,[n]øð,,,1,1
+38786,109,mosquito,[œ]sœk,,,46,
+77573,110,spider,[a]ðal,,,1?,
+77574,110,spider,[a]βar,,,31,
+39500,111,fish,[ɛ]nɛs,"same as 'bird'",,53,
+39857,112,rotten,βœn,[=stink],,"52,109",
+77746,113,branch,[ɒ]βɒŋ-,,,22?,
+77747,113,branch,[a]βɨŋa-n,,,22?,
+77791,114,leaf,[ɛ]rɛ-,,,1,1
+77792,114,leaf,[ɛ]rɛ-n,,,1,1
+77845,115,root,[n]ar-,,,2,
+77846,115,root,arø-n,,,2,
+77909,116,flower,[n]ør-,,,35,
+77910,116,flower,[n]øra-n,,,35,
+77941,117,fruit,[a][w]an-,,,"1, 26",
+77942,117,fruit,[a][w]any-,,,"1, 26",
+41999,118,grass,[œ]mœs,,,51,
+42356,119,earth/soil,[ɒ]lɒð,,,"11, 75",
+42713,120,stone,[ɛ]jɛð,,,1,1
+43070,121,sand,[n]ɔn,,,1,1
+43427,122,water,[ɔ]ro,,,1,1
+43784,123,"to flow",ɣɛl,,,66,?
+44141,124,sea,[ɛ]ðɛ,,,1,1
+44498,125,salt,[ɛ]ðehal,,,,
+44855,126,lake,[ɔ]roðyr,,,,
+45212,127,woods/forest,uwyð,,,7,
+45569,128,sky,[ɒ]βɒraðði,"lit. above the moon",,,1?
+45926,129,moon,[aðði],,,6,
+46283,130,star,[n]eð,,,1,1
+46640,131,cloud,[a]ðalan,,,"36, 3",
+46997,132,fog,[œ]mœɣœɛ,,,"3,32",
+47354,133,rain,[ɔ]tɔɣ,,,49,
+47711,134,thunder,"aðði βar",,,15,
+48068,135,lightning,[œ]pœl,,,"26, 70",
+48425,136,wind,[ɒ]hɒr,,,55?,
+79042,137,"to blow",hɒr,,,26,
+79043,137,"to blow",hy,,,62,
+49139,138,warm,jɛrttɔβ,,,,
+49496,139,cold,kkœrœr,,,107,
+79274,140,dry,ɣœr,,,29,
+79275,140,dry,rak,,,"1, 85",
+50210,141,wet,kala,,,,
+50567,142,heavy,βɨŋœn,,,34,
+50924,143,fire,[a]kar,"lit. the red",,41,
+51281,144,"to burn",hyl,,,4,
+51638,145,smoke,pɨljo,,,"2, 75",
+51995,146,ash,[n]œɛ,,,,
+52352,147,black,wyr,,,29,
+52709,148,white,woɣ,,,13,
+53066,149,red,kar,,,53,
+53423,150,yellow,nɛlja,,,,
+53780,151,green,jɒs,,,42?,
+54137,152,small,kkri,,,2,
+54494,153,big,βriβ,,,,
+54851,154,short,ppe,,,9,?
+55208,155,long,pɛrɛ,,,16,
+55565,156,thin,ððɨŋe,,,,
+55922,157,thick,nyβ,,,,
+56279,158,narrow,kkri,,,22?,
+56636,159,wide,βriβ,big,,,
+80399,160,"painful, sick",wwɛ,,,,
+80400,160,"painful, sick",sɨβɒð,,,,
+57350,161,"shy, ashamed",sɒkɒl,"'don't want'",,,
+57707,162,old,βɒtwari,[=reticent],,,
+58064,163,new,ɣaraβ,"[honourable man, now used for women too]",,9,
+58421,164,good,βcɣβcɣ,,,,
+58778,165,"bad, evil",hɛð,,,1,
+59135,166,"correct, true",nɒttu,,,,
+59492,167,night,[ɔ]por,,,1,
+59849,168,day,[ɛ]rɛn,,,6,
+60206,169,year,ina,,,,1
+118969,170,when?,laŋ,,,,
+118970,170,when?,malaŋ,,,,
+60920,171,"to hide",rottɔɣɔn,"future,  past",,,
+61277,172,"to climb",rɣð,,,,
+81142,173,at,l-,,,20,
+81143,173,at,ly-ɣ,,,20,
+81144,173,at,lœ-n,,,20,
+81223,174,"in, inside",l-,,,1,
+81224,174,"in, inside",ly-ɣ,,,1,
+81225,174,"in, inside",lœ-n,,,1,
+81271,175,above,l-[ɒ]βɒr-,,,2?,?
+81272,175,above,l-[ɒ]βrɒ-n,,,2?,?
+81306,176,below,nnat-,,,9,
+81307,176,below,nnatɛ-ɣ,,,9,
+81308,176,below,nnata-n,,,9,
+63776,179,near,ppe,,,68?,
+64133,180,far,pɛrɛ,,,,
+64490,181,where?,jɛ,,,,
+64847,182,I,jœn,,,"1,21,22",
+65204,183,thou,i,,,1,
+65561,184,he/she,ni,,,"1,6",
+118971,185,we,jœr,,,1,
+118972,185,we,ɣam,,,2,
+66275,186,you,ɣe,,,44,1
+66632,187,they,jør,,,"1, 69",?
+66989,188,what?,[a]ja,,,1,
+67346,189,who?,hi,,,1,
+67703,190,other,pɛl,,,,1
+68060,191,all,ɨre-p,,,,
+68417,192,and,ɣɛ,,,1,
+68774,193,if,we,,,3?,1?
+69131,194,how?,ðeme,,,,
+82746,195,"no, not",œhœn,verb,,,
+82747,195,"no, not",jaβ,verb,,,
+69845,196,"to count",jɛtjɛt,"no / not (verb prefix)",,,
+70202,197,One,"te tɨkyn",,,14,
+70559,198,Two,ru,"[one only]",,1,
+70916,199,Three,ðœl,,,1,1
+71273,200,Four,i|jɛð,,,"1,65",1

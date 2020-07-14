@@ -1,0 +1,221 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+12,"Gorontalo (Hulondalo)","Hamzah Machmoed",gor,goro1259,,,"Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Gorontalo-Mongondow, Gorontalic","Simon Greenhill","Simon Greenhill","@misc{Machmoed-12-2005,  author = \"Hamzah Machmoed\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+0.54930799111251549238,122.67333984375000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+12,1,hand,ʔuluʔu,,,,
+369,2,left,ʔoloyihi,,,"1,79",1
+726,3,right,ʔolowala,,,"1,17",1
+1083,4,leg/foot,ʔoʔato,,,,
+1440,5,"to walk",naʔo-naʔo,(n),,,1
+1797,6,road/path,dalalo,,,1,1
+2154,7,"to come","mee duŋga",,,1,?
+2511,8,"to turn",mo-balé,,,,
+2868,9,"to swim",mo-lolaŋi,,,1,1
+3225,10,dirty,kootoro,,,31,
+3582,11,dust,pe|yahuʔo,,,,1
+3939,12,skin,ʔalipo,,,,
+4296,13,back,wuleya,,,,
+4653,14,belly,ʔomboŋo,,,2,
+5010,15,bone,tulalo,,,1,1
+5367,16,intestines,toniya,,,,
+5724,17,liver,wandohu,,,,
+6081,18,breast,tutu,,,"1,53",1
+6438,19,shoulder,biŋguŋo,,,23,
+6795,20,"to know, be knowledgeable",ʔo-taawa,,,1,1?
+7152,21,"to think",mo-mikiilaŋi,,,31,
+7509,22,"to fear",mo-ohe,,,,
+7866,23,blood,duhu,,,16,
+8223,24,head,luŋgoŋo,,,,
+8580,25,neck,buloʔo,,,70,
+8937,26,hair,huwoʔo,,,"1,65",1
+9294,27,nose,wuliŋo,,,1,1
+9651,28,"to breathe",mo-hilawo,,,1,1
+10008,29,"to sniff, smell",mo-diilo,,,,
+10365,30,mouth,ŋaŋo,,,24,
+10722,31,tooth,duŋito,,,14,
+11079,32,tongue,dila,,,4,1
+11436,33,"to laugh",mo-ʔiʔi,,,,?
+11793,34,"to cry",h-um-oyoŋo,,,12,
+12150,35,"to vomit",mo-tuʔo,,,,
+12507,36,"to spit",mo-nula,,,1,1?
+12864,37,"to eat",moŋa,,,1,1
+13221,38,"to chew",mo-hundapo,,,19,
+13578,39,"to cook",mo-tubu,,,38,
+13935,40,"to drink",mo-ŋilu,,,1,1
+14292,41,"to bite",mo-deŋeto,,,,
+14649,42,"to suck",mo-ŋindopo,,,,1
+15006,43,ear,buloŋa,,,13,
+15363,44,"to hear",mo-duŋuhu,,,"1,28",1
+15720,45,eye,mato,,,1,1
+16077,46,"to see",mo-milohu,,,,
+16434,47,"to yawn",mo-huwabu,,,19,1
+16791,48,"to sleep",mo-tuluhu,,,1,1
+17148,49,"to lie down",mo-ti-balato,,,,
+17505,50,"to dream",mo-tohiilopo,,,"1,24",
+17862,51,"to sit",mo-tihuloʔo,,,,
+18219,52,"to stand",t-im-ihulo,,,23,
+18576,53,"person/human being",tawu,,,1,1
+18933,54,man/male,"taa lolaʔi",,,"2,99",1
+19290,55,woman/female,"taa buwa",,,,
+19647,56,child,walaʔo,,,1,1
+124919,57,husband,hiyalo,,,,
+124920,57,husband,dile,,,,
+124904,58,wife,hiyalo,,,,
+124905,58,wife,dile,,,,
+20718,59,mother,tiilo,,,1,1
+21075,60,father,tiyano,,,,1
+21432,61,house,bele,,,14,
+21789,62,thatch/roof,watopo,,,1,1
+22146,63,name,taŋgulo,,,13,
+22503,64,"to say",mo-loʔiya,,,,
+22860,65,rope,buwatulo,,,,
+23217,66,"to tie up, fasten",mo-lihuto,,,28,
+23574,67,"to sew",mo-detu,,,2,1
+23931,68,needle,dudetu,,,,
+24288,69,"to hunt",mo-ŋalupo,,,1,1
+24645,70,"to shoot",mo-motahu,,,18,
+25002,71,"to stab, pierce",mo-mituʔo,,,,?
+25359,72,"to hit",mo-mubohu,,,,
+25716,73,"to steal",mo-taʔo,,,1,1
+26073,74,"to kill",mo-mate,,,2,
+26430,75,"to die, be dead",mate,,,1,1
+26787,76,"to live, be alive",tumu-tumulo,,,17,
+27144,77,"to scratch",mo-ŋahu,,,44,1
+27501,78,"to cut, hack",mo-mutu,,,35,?
+27858,79,stick/wood,ʔayu,,,1,1
+28215,80,"to split",mo-mutaʔe,,,25,?
+28572,81,sharp,mo-lalite,,,43,
+28929,82,"dull, blunt",mo-hulaŋo,,,,
+29286,83,"to work",mo-kalaja,,,23,
+29643,84,"to plant",mo-mulo,,,1,1
+30000,85,"to choose",mo-lulawoto,,,,
+30357,86,"to grow",t-um-umulo,,,,
+30714,87,"to swell",mo-mo-mataŋo,,,22,
+31071,88,"to squeeze",mo-mitodu,,,,
+31428,89,"to hold",mo-dihu,,,,
+31785,90,"to dig",mo-ŋali,,,1,1
+32142,91,"to buy",mo-tali,,,"20,54",
+32499,92,"to open, uncover",mo-muʔo,,,1,1
+32856,93,"to pound, beat",mo-lobuʔo,,,14,
+33213,94,"to throw",mo-po-mahulo,,,25,
+33570,95,"to fall",mo-dehu,,,1,
+33927,96,dog,ʔapula,,,,
+34284,97,bird,buuruŋi,,,17,
+34641,98,egg,putite,,,,
+217962,98,egg,putito,,,,
+34998,99,feather,layi,,,14,
+35355,100,wing,polipiʔo,,,25,
+35712,101,"to fly",t-um-omboto,,,,
+36069,102,rat,ʔudu,,,,
+36426,103,meat/flesh,tapu,,,29,
+36783,104,fat/grease,tabo,,,23,?
+37140,105,tail,patahu,,,,
+37497,106,snake,tulidu,,,,
+37854,107,"worm (earthworm)",luwandi,,,1,1
+38211,108,louse,ʔutu,,,1,1
+38568,109,mosquito,lamuʔo,,,"1,33",1
+38925,110,spider,lawaŋo,"cf TB",,1,?
+39282,111,fish,ʔuponula,,,,
+39639,112,rotten,mo-hutodu,,,36,
+39996,113,branch,taŋo,,,2,
+40353,114,leaf,duuŋo,,,"1,55",1
+40710,115,root,wuwaʔato,,,"2,54",1?
+41067,116,flower,hulaʔo,,,22,
+41424,117,fruit,huŋo,,,9,
+41781,118,grass,huyoʔoto,,,37,
+42138,119,earth/soil,huta,,,"25,27",
+42495,120,stone,botu,,,1,1
+42852,121,sand,huŋayo,,,23,
+43209,122,water,taluhu,,,33,
+43566,123,"to flow",tolo-tolohu,"<+seler ?",,,1
+43923,124,sea,deheto,,,,1
+44280,125,salt,watiŋo,,,,
+44637,126,lake,bulalo,,,,
+44994,127,woods/forest,ʔo-ʔayuwa,,,2,
+45351,128,sky,huluŋo,,,28,
+45708,129,moon,hulalo,,,1,1
+46065,130,star,poliyama,,,,
+46422,131,cloud,heeŋo,,,,
+46779,132,fog,"wambulo [embun]",,,27,?
+47136,133,rain,didi,,,,
+47493,134,thunder,buloŋgodu,,,,
+47850,135,lightning,ʔilato,,,1,1
+48207,136,wind,dupoto,,,29,
+48564,137,"to blow",hii-hiipo,,,"1,70",1
+48921,138,warm,mo-patu,,,"26,106",
+49278,139,cold,mo-huhulo,,,,
+49635,140,dry,mo-heŋu,,,1,1?
+49992,141,wet,mo-batu,,,1,1
+50349,142,heavy,mo-bu-buheto,,,1,1
+50706,143,fire,tulu,,,12,
+51063,144,"to burn",mo-mobu,,,,
+51420,145,smoke,poloʔo,,,22,
+51777,146,ash,wahu,,,1,1
+52134,147,black,mo-yitomo,,,1,1
+52491,148,white,mo-putiʔo,,,1,1
+52848,149,red,meela,,,48,1
+53205,150,yellow,mo-lalahu,,,,
+53562,151,green,mo-yidu,,,25,
+53919,152,small,kikiʔo,,,78,
+54276,153,big,damaŋo,,,,
+54633,154,short,limbu-limbuʔo,,,,
+54990,155,long,haya-hayaʔo,,,,
+55347,156,thin,mo-lipa,,,,
+55704,157,thick,mo-hulodu,,,,
+56061,158,narrow,meepito,,,67,1
+56418,159,wide,mo-taŋgalo,,,17,
+56775,160,"painful, sick",mo-ŋoŋoto,,,26,
+57132,161,"shy, ashamed",mo-olito,,,16,
+57489,162,old,paŋgola,,,,
+57846,163,new,bohu,,,"1,54",1
+58203,164,good,mo-piyohu,,,"1,50",?
+58560,165,"bad, evil",mo-leeto,,,88,?
+58917,166,"correct, true",qotutu,,,"6,84",
+217961,166,"correct, true",otutu,,,"6,84",
+59274,167,night,huyi,,,,
+59631,168,day,dulahu,,,,
+59988,169,year,taawunu,,,1,1
+60345,170,when?,ʔomoluwa,,,23,
+60702,171,"to hide",mo-ti-tuuʔo,,,14,
+61059,172,"to climb",mo-botulo,,,,
+61416,173,at,to,(&<+sa),,14,
+61773,174,"in, inside","to delomio",,,1,1
+62130,175,above,"to titaato",,,"21,56",1
+81279,176,below,"to tibawa","to tibawa (L)",L,,
+81280,176,below,"to waluŋo","to tibawa (L)",L,,
+62844,177,this,ʔutiye,,,35,
+63201,178,that,ʔuyito,,,16,?
+63558,179,near,meembidu,,,,
+63915,180,far,molamiŋo,,,,
+64272,181,where?,toʔutoonu,,,"1,73",
+64629,182,I,waatiya,,,,
+64986,183,thou,yiʔo,,,1,1
+65343,184,he/she,tiyo,,,1,1
+119209,185,we,ʔito,,,"1,50",
+119210,185,we,ʔami,,,"2,52",
+66057,186,you,timoŋoli,,,,
+66414,187,they,timoŋoliyo,,,,
+66771,188,what?,wolo,,,22,
+67128,189,who?,"taa toonu",,,,
+67485,190,other,"ʔu weewe",,,,
+67842,191,all,ŋoʔaaʔami,,,1,
+68199,192,and,wau,,,,
+68556,193,if,wonu,,,,
+68913,194,how?,woloolo,,,,
+69270,195,"no, not",diila,,,2,
+69627,196,"to count",mo-reekeni,(Dutch),L,,
+69984,197,One,tuwewu,,,,
+70341,198,Two,duluwo,,,"1,24",1
+70698,199,Three,totolu,,,"1,10",1
+71055,200,Four,wopato,,,1,1
+125945,201,Five,limo,,,1,
+217960,202,Six,wolomo,,,1,
+217959,203,Seven,pitu,,,1,
+217958,204,Eight,walu,,,3,
+217957,205,Nine,tiyo,,,"5,34",
+217956,206,Ten,mopulu,,,"5,40",
+217955,207,Twenty,dulopulu,,,"3,6",
+217954,208,Fifty,limopulu,,,"1,2",
+217953,209,"One Hundred",mohetuto,,,"4,53",
+217952,210,"One Thousand",ngolihu,,,5,

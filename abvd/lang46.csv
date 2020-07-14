@@ -1,0 +1,191 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+46,"Biga (Misool)","Blust, from Grace Notebooks",xmt,matb1237,,"Unknown Additions at bottom of original","Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, South Halmahera-West New Guinea, West New Guinea, Cenderawasih Bay, Raja Ampat","Simon Greenhill","Simon Greenhill","@misc{GraceBiga,  howpublished = {Ms.},  title        = {1955-1956 Fieldnotes: Notebook Doris Day 13 (Biga)},  year         = {1956},  url          = {http://digicoll.manoa.hawaii.edu/grace/Pages/PDFlist.html},  author       = {Grace, George W.}}"
+latitude,longitude
+-1.86735000000000006537,130.12207000000000789441
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+46,1,hand,kanano,,,,
+403,2,left,pelimi,,,34,
+760,3,right,palafi,,,15,
+1117,4,leg/foot,k|ae-,,,1,?
+1474,5,"to walk",-tag,,,15,
+1831,6,road/path,tag,,,,
+2188,7,"to come",mata,,,1,?
+2545,8,"to turn",mafu-,,,,
+2902,9,"to swim",-mas,,,19?,
+3259,10,dirty,kotor,,L,31,
+3616,11,dust,kaplas,"cf 145",,12,
+3973,12,skin,kaino,,,16,
+4330,13,back,uta-,,,28,
+4687,14,belly,nia-,,,42?,
+5044,15,bone,kabomo,,,,
+5401,16,intestines,kasaiwono,,,,
+5758,17,liver,aipuo,,,,
+6115,18,breast,sus,,,1,1
+6472,19,shoulder,paŋkadiɔ,,,,
+6829,20,"to know, be knowledgeable",-uno,,,22,
+7186,21,"to think",-fikir,"loan of 22",L,,
+7543,22,"to fear",-mtat,,,1,1
+7900,23,blood,lomos,,,26,
+8257,24,head,wu-,,,1?,
+8614,25,neck,"geli- kabayo",,,,
+8971,26,hair,pa,,,,
+9328,27,nose,senu-,,,,
+9685,28,"to breathe",nafas,,L,29,
+10042,29,"to sniff, smell",-fatam,,,18,
+10399,30,mouth,samo-,,,18,
+10756,31,tooth,lifo-,,,1,1
+11113,32,tongue,telebo-,,,,
+11470,33,"to laugh",-mlef,,,3,
+11827,34,"to cry",-tinis,,,1,1
+12184,35,"to vomit",-ogol,,,6,
+12541,36,"to spit",-ataplebe,,,,
+12898,37,"to eat",-apon,,,,
+13612,39,"to cook",-blap,,,18,
+13969,40,"to drink",-inim,,,1,1
+14326,41,"to bite",-awut,,,,
+14683,42,"to suck",suruf,,,15,
+15040,43,ear,nanɔ,,,,
+15397,44,"to hear",-junu,,,,
+15754,45,eye,taŋkabul,,,13,
+16111,46,"to see",-em,,,22,
+16825,48,"to sleep",-enef,,,8,
+17182,49,"to lie down","-enef -amnayo",,,1,1
+17539,50,"to dream",-mñal,,,19,
+17896,51,"to sit",-abai,,,,
+18253,52,"to stand",-awol,,,,
+18610,53,"person/human being",matumolo,,,,
+18967,54,man/male,wa-man,,,1,1
+19324,55,woman/female,wa-bin,,,"1,52",1
+19681,56,child,wa-ka,,,4,
+20038,57,husband,wa-man,,,27,
+20395,58,wife,wa-bin,,,5,
+20752,59,mother,nei,,,1?,?
+21109,60,father,mai,,,"1,10?",?
+21466,61,house,[w]um,,,1,1
+21823,62,thatch/roof,sane,,,,
+22180,63,name,-nanɔ,,,1?,
+22537,64,"to say",-bitinɔ,,,,
+22894,65,rope,wili,,,2,
+23251,66,"to tie up, fasten",-afal,,,,
+23608,67,"to sew",-fadin,,,22?,
+24322,69,"to hunt",-tada,,,,
+24679,70,"to shoot",-fan,,,1,1
+25036,71,"to stab, pierce",-ete,,,,
+25393,72,"to hit",esbagal,,,,
+25750,73,"to steal",-kamlai,,,,
+26107,74,"to kill",-bun,,,1,1
+26464,75,"to die, be dead",-mat,,,1,1
+26821,76,"to live, be alive",-bi,,,,
+27178,77,"to scratch",-kai,,,1?,?
+27535,78,"to cut, hack",-kut,,,,
+27892,79,stick/wood,ai,,,1,1
+28249,80,"to split",-apa,,,18,
+28606,81,sharp,mañanam,,,29,
+28963,82,"dull, blunt",bakbuk,,,,
+29320,83,"to work",-karəjan,,L,,
+29677,84,"to plant",-ala,,,,
+30034,85,"to choose",-fihi,,,1,
+30748,87,"to swell",saba,,,,
+31105,88,"to squeeze",-fɔgɔl,,,26,
+31462,89,"to hold",-tabu,,,,
+31819,90,"to dig",-kelɛ,,,1,1?
+32176,91,"to buy",-sili,,,,
+32533,92,"to open, uncover",-asa,,,19,
+32890,93,"to pound, beat",-tut,"or 20?",,20,1
+33247,94,"to throw",-ete,,,19,
+33604,95,"to fall",-tak,,,,
+33961,96,dog,ies,,,,
+34318,97,bird,mini,,,1,1
+34675,98,egg,tolo,,,1,1
+35032,99,feather,kanono,,,,
+35389,100,wing,gio,,,,
+35746,101,"to fly",-obo,,,1,1
+36103,102,rat,kalof,,,21?,
+36460,103,meat/flesh,dagim,,L,26,
+37174,105,tail,kaluo,,,,
+37531,106,snake,kok,,,23,
+37888,107,"worm (earthworm)",amato,,,,
+38245,108,louse,wut,,,1,1
+38602,109,mosquito,kamumus,,,18,
+38959,110,spider,kapanɛ,,,,
+39316,111,fish,don,,,12,
+77636,112,rotten,malakamɔ,,,24,
+77637,112,rotten,fase,,,,
+40387,114,leaf,kamɔyɔ,,,,
+40744,115,root,kawatɔ,,,8,
+41101,116,flower,buŋa,,L,1,
+41458,117,fruit,puɔ,,,1,?
+41815,118,grass,kai,,,,
+42172,119,earth/soil,gagoʔ,,,,
+42529,120,stone,ka|pat,,,1,1
+42886,121,sand,lɛn,,,,
+43243,122,water,vɛi,,,2,1?
+43600,123,"to flow",cag,,,,
+43957,124,sea,wulut,,,20,
+44314,125,salt,lesen,,,,
+45028,127,woods/forest,ai|lo,,,11,?
+45385,128,sky,nalowo,,,,
+45742,129,moon,pet,,,16,
+46099,130,star,kalamo,,,,
+46456,131,cloud,nagaŋgamɔ,,,,
+47170,133,rain,dim,,,,
+47527,134,thunder,lɔlɔ,,,29,
+47884,135,lightning,balyaban,,,,
+48241,136,wind,mɔrɔ,,,23,
+48598,137,"to blow",-auf,,,,
+48955,138,warm,benes,,,1,?
+49312,139,cold,kabutu,,,,
+49669,140,dry,metɛn,,,,
+50026,141,wet,kafia,,,,
+50383,142,heavy,mason,,,21,
+50740,143,fire,lap,,,1,
+51454,145,smoke,kaplasɔ,"cf 11",,,
+51811,146,ash,kalap,,,16?,
+52168,147,black,mabis,,,,
+52525,148,white,mabos,,,24,
+52882,149,red,mame,,,,
+53239,150,yellow,kamaninis,,,,
+53596,151,green,bala,,,,
+53953,152,small,kamiaran,,,,
+54310,153,big,naplei,,,,
+54667,154,short,kup,,,21,
+55024,155,long,malas,,,12?,
+55381,156,thin,maglegef,,,,
+55738,157,thick,matɔlɔ,,,3,
+56095,158,narrow,"manapa sapɔ",,,,
+56452,159,wide,manapa,,,1?,?
+56809,160,"painful, sick",bihi,,,,
+57880,163,new,galawaɔ,,,9,
+58237,164,good,fi,,,1,1
+58594,165,"bad, evil","fi sapɔ",,,,
+58951,166,"correct, true",mɔlde,,,,
+59308,167,night,kadbat,,,,
+59665,168,day,mañan,,,,
+60022,169,year,tahun,,L,1,
+61093,172,"to climb",-sa,,,1,1
+61807,174,"in, inside",malaman,,,,
+62164,175,above,pa|pɔwɔ,,,2,
+62521,176,below,pa|pɔ,,,1,
+62878,177,this,t|inɛ,,,1,1?
+63235,178,that,titanɛ,,,,
+63592,179,near,mirin,,,,
+63949,180,far,lila,,,,
+64306,181,where?,tute,,,,
+64663,182,I,ini,,,6?,
+65020,183,thou,awa,,,9,
+65377,184,he/she,num,,,,
+81983,185,we,amon,,,,
+81984,185,we,ambana,,,2,
+66091,186,you,mimbana,,,,
+66448,187,they,abana,,,,
+66805,188,what?,ane,,,,
+67162,189,who?,mapane,,,,
+67519,190,other,matfasayo,,,,
+67876,191,all,tudde,,,,
+68947,194,how?,anapɛnɛ,,,,
+69304,195,"no, not",sapɔ,,,,
+69661,196,"to count",-awuf,,,,
+70018,197,One,katen,,,,
+70375,198,Two,lo,,,1,1
+70732,199,Three,tol,,,1,1
+71089,200,Four,fat,,,1,1

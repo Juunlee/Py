@@ -1,0 +1,193 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+94,Misima,"Malcolm Ross",mpx,misi1243,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Papuan Tip, Peripheral, Kilivila-Louisiades, Misima","Peng Du","Simon Greenhill","@misc{Ross-94-2005,  author = \"Malcolm Ross\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-10.68215000000000003411,152.69631000000001108674
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+94,1,hand,nima|na,,,1,1
+451,2,left,gegeba|na,,,20,
+808,3,right,awo|na,,,"1,62",
+1165,4,leg/foot,ae|na,,,1,1
+1522,5,"to walk",i|nawa,,,1,
+1879,6,road/path,kamwasa,,,29,
+2236,7,"to come",i|nenem,,,"22,1",
+2950,9,"to swim",i|highig,,,95,
+3307,10,dirty,biki,,,139,
+3664,11,dust,papakoa,,,18,
+4021,12,skin,kunisi|na,,,1,1
+4378,13,back,eputete|na,,,,
+4735,14,belly,tine|na,,,"19, 34",
+5092,15,bone,tutua|na,,,"1,10",
+5449,16,intestines,tine|na,,,1,1
+5806,17,liver,ate,,,1,1
+6163,18,breast,huli|na,,,1,
+6520,19,shoulder,vevela|na,,,1,?
+6877,20,"to know, be knowledgeable",i|ate|na,,,35,
+7591,22,"to fear",i|lovakun,,,84,
+7948,23,blood,salia|na,,,64,
+8305,24,head,kokoa|na,,,50,
+8662,25,neck,mwamwali|na,,,,
+9019,26,hair,kaunu|na,,,,
+9376,27,nose,buhu|na,,,"1,17",
+9733,28,"to breathe",i|ana,,,95,
+10090,29,"to sniff, smell",i|hago,,,111,
+10447,30,mouth,awa|na,,,36,
+10804,31,tooth,nini|na,,,30,
+11161,32,tongue,meme|na,,,7,
+11518,33,"to laugh",i|nival,,,105,
+11875,34,"to cry",i|kahikahin,,,16,
+12232,35,"to vomit",i|mamanovi,,,39,
+12589,36,"to spit",kuluvi,(N),,19,
+12946,37,"to eat",i|anan,,,1,1?
+13303,38,"to chew",i|ol,,,,
+13660,39,"to cook",i|liga,,,28,
+14017,40,"to drink",i|min,,,"1,49",?
+14374,41,"to bite",i|tal,,,81,
+14731,42,"to suck",i|mim,,,77,
+15088,43,ear,tana|na,,,1,1?
+15445,44,"to hear",i|hago,,,,
+15802,45,eye,mata|na,,,1,1
+16159,46,"to see",i|gagayawa,,,,
+16516,47,"to yawn",i|mwau,,,19,1?
+16873,48,"to sleep",i|kenukenu,,,8,
+17587,50,"to dream",i|kenonou,,,"1,72",
+17944,51,"to sit",i|misio,,,"26, 126",
+18301,52,"to stand",i|talmil,,,"1, 41",
+18658,53,"person/human being",gamagal,,,42,
+19015,54,man/male,tau,,,22,
+19372,55,woman/female,yova,,,121,
+19729,56,child,natu|na,,,5,
+20086,57,husband,lago|na,,,2,
+20443,58,wife,lago|na,,,,
+20800,59,mother,hina|na,,,1,1
+21157,60,father,tama|na,,,1,1
+21514,61,house,limi,,,1,
+22228,63,name,ala|na,,,"1,18",?
+22585,64,"to say",i|baba,,,13,
+22942,65,rope,hihiu,,,90,
+23299,66,"to tie up, fasten",i|am,,,144,
+23656,67,"to sew",i|helhel,,,"2,53",
+24370,69,"to hunt",i|auka,,,,
+24727,70,"to shoot",i|hoa,,,7,
+25084,71,"to stab, pierce",i|gove,,,,
+25441,72,"to hit",i|lol,,,,
+25798,73,"to steal",i|kaoma,,,,
+26155,74,"to kill",i|lol,,,,
+26512,75,"to die, be dead",i|aliga,,,46,
+26869,76,"to live, be alive",i|molu,,,1?,?
+27226,77,"to scratch",i|kolkol,,,12,
+27583,78,"to cut, hack",i|gela,,,,
+27940,79,stick/wood,suki,,,,
+28297,80,"to split",i|taga|leli,,,,
+28654,81,sharp,imu,,,,
+29368,83,"to work",i|tualali,,,,
+29725,84,"to plant",i|luan,,,,
+30439,86,"to grow",i|siun,,,,
+30796,87,"to swell",i|lolon,,,58,
+31153,88,"to squeeze",i|pi,,,21,?
+31510,89,"to hold",i|pihikan,,,,
+31867,90,"to dig",i|gial,,,65,
+32581,92,"to open, uncover",i|pwela,,,,
+33295,94,"to throw",i|alihin,,,,
+33652,95,"to fall",i|sogu,,,,
+34009,96,dog,wanuka,,,,
+34366,97,bird,bwasumu,,,79,
+34723,98,egg,pou,,,15,
+35080,99,feather,punupunu,,,1,1
+35437,100,wing,ope|na,,,30,
+35794,101,"to fly",i|veva,,,,
+36151,102,rat,sikokoi,,,,
+36508,103,meat/flesh,bunumwi|na,,,34,
+36865,104,fat/grease,momone|na,,,"1,65",1
+37222,105,tail,uli|na,,,82,
+77386,106,snake,mwata,,,12,
+77387,106,snake,weso,,,53,
+37936,107,"worm (earthworm)",mwatamwata,,,10,
+38293,108,louse,gaga,,,,
+38650,109,mosquito,nimu,,,1,1?
+39364,111,fish,moti,,,,
+40078,113,branch,lala,,,"1,33",1
+40435,114,leaf,lamwa|na,,,35,
+40792,115,root,ewahili|na,,,29,
+41149,116,flower,ailala|na,,,20,
+41506,117,fruit,eno|na,,,6,
+41863,118,grass,mwawin,,,,
+42220,119,earth/soil,bilibili,,,,
+78094,120,stone,pat,,,1,1
+78095,120,stone,eku,,,17,1
+42934,121,sand,gilesa,,,16,
+43291,122,water,wewel,,,2,1?
+44005,124,sea,hoga,,,,
+44362,125,salt,hoga,,,34,
+44719,126,lake,ekai,,,,
+45076,127,woods/forest,ula,,,"7,20",
+45433,128,sky,labulabu,,,18,
+45790,129,moon,wekena,,,14,
+46147,130,star,putun,,,1,1?
+46504,131,cloud,"yalu yalu",,,23,
+47218,133,rain,kehe,,,27,
+47575,134,thunder,gulumwawa,,,"2,56",
+47932,135,lightning,pinamal,,,"26,99",
+48289,136,wind,mana,,,21,
+48646,137,"to blow",i|tawa,,,20,
+49003,138,warm,waiwai,,,,
+49360,139,cold,watut,,,,
+49717,140,dry,kevakeva,,,,
+50074,141,wet,huuhuu,,,,
+50788,143,fire,hiwo,,,37,
+51145,144,"to burn",i|ton,,,1,
+51502,145,smoke,kasu,,,2,1
+51859,146,ash,papakova,,,,
+52216,147,black,biki,,,,
+52573,148,white,yanayana,,,,
+52930,149,red,ketket,,,,
+53644,151,green,alalawa|na,,,"13, 52",
+54001,152,small,kekeisi,,,38,
+54358,153,big,bwabwata|na,,,,
+54715,154,short,i|kanbwa,,,,
+55072,155,long,yapu|na,,,,
+56143,158,narrow,aviku,,,,
+56500,159,wide,magaga,,,35,
+56857,160,"painful, sick",i|lomwau,,,,
+57928,163,new,vavalu|na,,,"1,64",1
+58285,164,good,waiwaisa|na,,,,
+58642,165,"bad, evil",nak,,,,
+59356,167,night,bulin,,,,
+59713,168,day,lan,,,6,1
+60070,169,year,baliman,,,15,
+60427,170,when?,"hauna sauga",,,,
+60784,171,"to hide",i|sume,,,,
+61141,172,"to climb",i|ha,,,2,?
+61498,173,at,-[y]a,,,"12,31",
+61855,174,"in, inside",gamwa|na,,,11,
+62212,175,above,pwata|na,,,40,
+62569,176,below,gaburala|na,,,81,
+62926,177,this,te,,,,
+63283,178,that,to,,,,
+63640,179,near,labe|na,,,,
+63997,180,far,"bwaga iapu",,,,
+64354,181,where?,ga,,,49,
+64711,182,I,nau,,,"1,22",1
+65068,183,thou,owa,,,"1,64",
+65425,184,he/she,iya,,,1,1
+121823,185,we,kila,,,1,1
+121824,185,we,ama,,,2,
+66139,186,you,komiu,,,"1,13",
+66496,187,they,helia,,,25,
+66853,188,what?,hauna,,,1,
+67210,189,who?,henala,,,1,
+82397,191,all,gegewe|-na,,,,
+82398,191,all,gegewe|-l,,,,
+68281,192,and,ge,,,63,?
+68638,193,if,ebo,,,9,
+69352,195,"no, not",nige,,,"23,24",
+69709,196,"to count",i|vasili,,,20,
+70066,197,One,etega,,,54,
+70423,198,Two,elua,,,1,1
+70780,199,Three,eton,,,1,1
+71137,200,Four,epat,,,1,1
+216905,201,Five,enima,,,1,
+216909,202,Six,esiwa,"< *siwa '7' !",,,
+216908,203,Seven,ewon,"< *walu '8'",,,
+216907,204,Eight,epit,"< *piyu '7'",,,
+216906,205,Nine,ewata,"< *pat '4'",,,
+210796,206,Ten,elulutega,,,,

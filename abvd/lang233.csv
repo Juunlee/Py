@@ -1,0 +1,242 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+233,"Malay (Bahasa Indonesia)","R. Blust, from Echols & Shadily",ind,indo1316,"Echols, J M. & Shadily, H. (1989). An Indonesian-English Dictionary. Ithaca, NY: Cornell University Press, 3rd edition.SA: \"Sanskrit\" stands for loanwords from any period between Classical Sanskrit and Middle Indian",,"Austronesian, Malayo-Polynesian, Malayo-Chamic, Malayic, Malay","Debasish Roy","Simon Greenhill + Sander Adelaar","@book{67091,  address               = {Ithaca},  edition               = {3},  pages                 = {xix+618},  publisher             = {Cornell Univ. Press},  title                 = {An Indonesian-English dictionary},  year                  = {1989},  bibtexkey             = {echols-shadily_indonesian-dictionary1989},  class_loc             = {PL5076},  document_type         = {B},  hhtype                = {dictionary},  inlg                  = {English [eng]},  inlg_code             = {eng},  isbn                  = {9780801421273},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 5076 ECH 1989 (3)},  src                   = {mpieva},  srctrickle            = {mpieva#Echols1989AnIndone},  subject_headings      = {Indonesian language–Dictionaries–English, Indonesian language–Dictionaries–English},  author                = {Echols, John M. and Shadily, Hassan}}"
+latitude,longitude
+-6.66460999999999970100,106.87500000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+233,1,hand,tangan,,,18,
+590,2,left,kiri,,,"1,42",1
+947,3,right,kanan,,,"1,73",1
+1304,4,leg/foot,kaki,,,1,
+1661,5,"to walk",berjalan,,,21,
+2018,6,road/path,jalan,,,1,1
+153559,6,road/path,jalanan,X,,1,
+2375,7,"to come",datang,,,14,
+2732,8,"to turn",bélok,"to turn (halfway, 90 degrees)",,24,
+153630,8,"to turn",berputar,"X to turn (completely, 180 degrees)",,,
+3089,9,"to swim",berenang,,,23,
+3446,10,dirty,kotor,,,31,
+3803,11,dust,debu,,,58,1
+4160,12,skin,kulit,,,1,1
+4517,13,back,punggung,,,24,
+4874,14,belly,perut,,,32,
+5231,15,bone,tulang,,,1,1
+5588,16,intestines,usus,"< Javanese",L,24,
+5945,17,liver,hati,,,1,1
+6302,18,breast,susu,"1. woman's breasts, 2. milk [more often the latter, although originally it meant the former]",,1,1
+90189,18,breast,dada,"X \"breast, chest\" - not gender-specific",,12,
+6659,19,shoulder,bahu,"< Sanskrit",L,17,
+7016,20,"to know, be knowledgeable",tahu,,,1,1
+7373,21,"to think",berfikir,"< Arabic",L,22,
+7730,22,"to fear",takut,,,1,1
+8087,23,blood,darah,,,1,1
+8444,24,head,kepala,"< Sanskrit",L,45,
+8801,25,neck,léhér,,,1,1
+9158,26,hair,rambut,,,20,
+9515,27,nose,hidung,,,1,1
+9872,28,"to breathe",bernapas,"< Arabic",L,29,
+10229,29,"to sniff, smell",mencium,"\"to kiss; smell\"",,30,
+154672,29,"to sniff, smell",menghidu,"X not common: = Minangkabau?",,,
+10586,30,mouth,mulut,,,27,
+10943,31,tooth,gigi,,,17,
+11300,32,tongue,lidah,metathesis,,"4,31",1
+11657,33,"to laugh",tertawa,,,1,1
+12014,34,"to cry",menangis,,,1,1
+12371,35,"to vomit",muntah,,,1,1
+12728,36,"to spit",meludah,,,1,1
+13085,37,"to eat",makan,,,1,1
+13442,38,"to chew",mengunyah,,,16,
+13799,39,"to cook",memasak,,,19,
+153644,39,"to cook",menanak,"to cook (rice only)",,1,
+14156,40,"to drink",minum,,,1,1
+14513,41,"to bite",gigit,,,21,1
+14870,42,"to suck",mengisap,,,1,1
+15227,43,ear,telinga,,,1,1
+15584,44,"to hear",mendengar,,,1,1
+15941,45,eye,mata,,,1,1
+16298,46,"to see",melihat,,,23,
+16655,47,"to yawn",menguap,[<kuap],,19,1
+17012,48,"to sleep",tidur,,,"1,70",1
+17369,49,"to lie down",berbaring,,,28,
+17726,50,"to dream",bermimpi,,,"1,37",1
+18083,51,"to sit",duduk,,,35,
+18440,52,"to stand",berdiri,,,1,1
+18797,53,"person/human being",orang,,,20,
+19154,54,man/male,laki-laki,,,2,1
+19511,55,woman/female,perempuan,,,29,
+19868,56,child,anak,,,1,1
+20225,57,husband,suami,"< Sanskrit",L,42,
+20582,58,wife,isteri,"Sanskrit strī 'woman; wife; female'",L,33,
+20939,59,mother,ibu,,,12,
+21296,60,father,bapak,"*b-apa-k, ult. < Dravidian",L,5,1
+21653,61,house,rumah,,,1,1
+22010,62,thatch/roof,atap,,,1,1
+22367,63,name,nama,"Sanskrit nāma (nāman)  'name'",L,12,
+22724,64,"to say",berkata,"< Sanskrit",L,,
+23081,65,rope,tali,,,1,1
+23438,66,"to tie up, fasten",mengikat,,,1,1
+23795,67,"to sew",menjahit,,,2,1
+24152,68,needle,jarum,,,1,1
+24509,69,"to hunt",berburu,,,23,
+24866,70,"to shoot",menémbak,,,49,
+153624,70,"to shoot",memanah,"To shoot with bow",,1,
+25223,71,"to stab, pierce",menikam,,,31,
+153617,71,"to stab, pierce",menusuk,,,1,
+25580,72,"to hit",memukul,,,27,
+153643,72,"to hit",memalu,"to hit (with a hammer)",,1,
+25937,73,"to steal",mencuri,"< Indian languages",L,19,
+26294,74,"to kill",membunuh,,,1,1
+26651,75,"to die, be dead",mati,,,1,1
+27008,76,"to live, be alive",hidup,,,"1,82",1
+27365,77,"to scratch",menggaruk,"to scratch (an itch)",,20,1
+153628,77,"to scratch",mencakar,"to scratch (for the purpose of hurting)",,54,
+92079,78,"to cut, hack",memotong,cut,,41,1
+92080,78,"to cut, hack",menetak,hack,,3,
+28079,79,stick/wood,kayu,,,1,1
+28436,80,"to split",membelah,,,1,1
+28793,81,sharp,tajam,,,1,1
+29150,82,"dull, blunt",tumpul,,,3,1?
+29507,83,"to work",bekerja,"< Sanskrit",L,23,
+29864,84,"to plant",menanam,,,2,1
+30221,85,"to choose",memilih,,,1,1
+30578,86,"to grow",tumbuh,,,1,1
+30935,87,"to swell",membengkak,,,19,
+31292,88,"to squeeze",memeras,,,42,1
+31649,89,"to hold",menggenggam,,,1,
+32006,90,"to dig",menggali,,,"1,35",1
+32363,91,"to buy",membeli,,,1,1
+32720,92,"to open, uncover",membuka,,,1,1
+76701,93,"to pound, beat",memukul,"to beat, hit, strike [bell, drum, dog, etc.]",,13,
+76702,93,"to pound, beat",menumbuk,"to pound [e.g. to unhusk rice]",,9,
+33434,94,"to throw",melémparkan,,,44,
+33791,95,"to fall",jatuh,,,38,
+34148,96,dog,anjing,,,27,
+34505,97,bird,burung,,,17,
+34862,98,egg,telur,,,1,1
+35219,99,feather,bulu,,,1,1
+35576,100,wing,sayap,,,26,
+35933,101,"to fly",terbang,,,18,
+36290,102,rat,tikus,,,22,
+36647,103,meat/flesh,daging,,,26,
+37004,104,fat/grease,lemak,,,24,
+37361,105,tail,ékor,,,1,1
+37718,106,snake,ular,,,2,1
+38075,107,"worm (earthworm)",cacing,,,23,
+38432,108,louse,kutu,,,1,1
+38789,109,mosquito,nyamuk,,,1,1
+39146,110,spider,laba-laba,,,1,1?
+39503,111,fish,ikan,,,1,1
+39860,112,rotten,busuk,,,56,1
+40217,113,branch,dahan,,,1,1
+40574,114,leaf,daun,,,1,1
+40931,115,root,akar,,,2,1
+41288,116,flower,bunga,,,1,1
+41645,117,fruit,buah-buahan,"X \"fruits (the category, in general)\"",,1,1
+129294,117,fruit,buah,fruit,,1,
+129295,117,fruit,"sebiji buah","X \"a piece of fruit\"",,1,
+42002,118,grass,rumput,,,27,
+42359,119,earth/soil,tanah,,,1,1
+42716,120,stone,batu,,,1,1
+43073,121,sand,pasir,,,18,
+43430,122,water,air,,,2,1
+43787,123,"to flow",mengalir,,,1,1
+44144,124,sea,laut,,,6,
+44501,125,salt,garam,"orig. \"garam sira\" 'grain of salt'",,18,
+44858,126,lake,danau,,,1,1
+45215,127,woods/forest,hutan,,,7,1
+45572,128,sky,langit,,,1,1
+45929,129,moon,bulan,,,1,1
+46286,130,star,bintang,,,1,
+46643,131,cloud,awan,,,1,
+47000,132,fog,kabut,,,1,1
+47357,133,rain,hujan,,,1,1
+47714,134,thunder,guntur,,,30,
+48071,135,lightning,kilat,,,1,1
+48428,136,wind,angin,,,1,1
+48785,137,"to blow",bertiup,"the wind blows (< *t(V)- + *Seiup)",,"1,19",1
+153572,137,"to blow",meniup,"a person blows (something)",,"1,19",
+49142,138,warm,panas,hot,,1,1
+153563,138,warm,haŋat,warm,,112,
+49499,139,cold,dingin,,,1,
+49856,140,dry,kering,,,22,
+50213,141,wet,basah,,,1,1
+50570,142,heavy,berat,,,1,1
+50927,143,fire,api,,,1,1
+51284,144,"to burn",membakar,,,25,
+51641,145,smoke,asap,,,49,
+51998,146,ash,abu,,,1,1
+52355,147,black,hitam,,,1,1
+52712,148,white,putih,,,1,1
+53069,149,red,mérah,,,1,1
+53426,150,yellow,kuning,,,1,1?
+53783,151,green,hijau,,,25,
+54140,152,small,kecil,,,28,
+54497,153,big,besar,,,28,
+153631,153,big,raya,"big, but limited in use like Indonesia raya, jalan raya (boulevard/big road), hari raya (holiday/big day), jagat raya (universe), etc",,1,
+54854,154,short,péndék,,,68,1
+55211,155,long,panjang,,,24,
+55568,156,thin,tipis,,,"1,44",1
+55925,157,thick,tebal,,,26,
+56282,158,narrow,sempit,,,68,1?
+56639,159,wide,lébar,,,48,
+56996,160,"painful, sick",sakit,,,1,1
+57353,161,"shy, ashamed",malu,,,20,
+57710,162,old,tua,"old (for people)",,1,1
+129296,162,old,lama,"X old (for things)",,x,
+58067,163,new,baru,,,1,1
+58424,164,good,baik,"for people",,33,
+153600,164,good,bagus,"for things",,31,
+58781,165,"bad, evil",jahat,,,1,1
+59138,166,"correct, true",benar,,,1,1
+59495,167,night,malam,,,20,
+59852,168,day,hari,,,17,1
+60209,169,year,tahun,,,1,1
+60566,170,when?,kapan,"Indonesian only, < Javanese",L,12,
+129293,170,when?,bila,,,13,
+60923,171,"to hide",bersembunyi,,,1,1
+61280,172,"to climb",naik,"1. ascend [person on stairs, balloon in air, bubble in water], 2. mount/ride [a horse, carriage, car, train, airplane]",,1,1
+90190,172,"to climb",memanjat,"to climb [up a tree]",,56,
+90191,172,"to climb",mendaki,"to climb [up a slope, a mountain]",,34,
+61637,173,at,di,,,20,1
+61994,174,"in, inside","[di] dalam",,,1,1
+62351,175,above,"[di] atas",,,1,1
+62708,176,below,"di bawah",,,1,1
+63065,177,this,ini,,,1,1
+63422,178,that,itu,,,16,1
+63779,179,near,dekat,,,28,1
+64136,180,far,jauh,,,1,
+64493,181,where?,dimana,,,20,1
+64850,182,I,saya,"(formal) lit. (your) servant, < Sanskrit",L,,
+154037,182,I,aku,(informal),,1,
+81889,183,thou,kamu,,,10,
+81890,183,thou,eŋkau,,,1,
+153627,184,he/she,beliau,"he/she (respectful)",,,
+65564,184,he/she,[d]ia,,,18,1
+118975,185,we,kita,,,1,1
+118976,185,we,kami,,,2,
+66278,186,you,kalian,"Indonesian only (lit. (you) all')",,,1
+129297,186,you,anda,,,,
+66635,187,they,meréka,"< (Old) Javanese marika, a demonstrative pronoun (SA)",L,16,
+66992,188,what?,apa,,,1,
+67349,189,who?,siapa,,,12,1
+67706,190,other,lain,,,2,?
+68063,191,all,semua,"< Sanskrit",L,33,
+68420,192,and,dan,,,18,
+68777,193,if,kalau,"Sanskrit jaka + Arabic law 'if'",L,14,
+69134,194,how?,bagaimana,,,23,
+69491,195,"no, not",tidak,"< *tey 'not' + *ada 'there is) + end glottal stop",,"68,109",
+69848,196,"to count",menghitung,,,31,
+153637,197,One,esa,"'one' (only used to express the oneness of God)",,1,
+70205,197,One,satu,,,"1,16",1
+70562,198,Two,dua,,,1,?
+70919,199,Three,tiga,,,8,1
+71276,200,Four,empat,,,1,
+90192,201,Five,lima,,,1,
+90193,202,Six,enam,,,1,
+90194,203,Seven,tujuh,,,4,
+90195,204,Eight,delapan,,,4,
+90196,205,Nine,sembilan,,,10,
+90197,206,Ten,sepuluh,,,5,
+90198,207,Twenty,"dua puluh",,,"3,6",
+90199,208,Fifty,"lima puluh",,,"1,2",
+90200,209,"One Hundred",seratus,,,4,
+90201,210,"One Thousand",seribu,,,5,

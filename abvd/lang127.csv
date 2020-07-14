@@ -1,0 +1,225 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+127,Soboyo,"Blust, from Holle",tlv,tali1262,,,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Central Maluku, Sula, Taliabo","Peng Du","Simon Greenhill","@book{13534,  address    = {Canberra},  publisher  = {Research School of Pacific and Asian Studies, Australian National University},  series     = {Pacific Linguistics: Series D},  title      = {Holle lists: vocabularies in languages of Indonesia Vol.2: Sula and Bacan islands, North Halmahera, South and East Halmahera},  volume     = {28},  year       = {1980},  bibtexkey  = {saleh-bronkhorst-stokhof_sula-bacan1980},  fn         = {papua\stokhof_2-holle-sula-bacan1980_o.pdf},  hhtype     = {overview;wordlist},  inlg       = {English [eng]},  inlg_code  = {eng},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#hw:StokhofSaleh-Bronkhorst:Holle:2},  author     = {Stokhof, W. A. L. and Saleh-Bronkhorst, Lia}}"
+latitude,longitude
+-1.82342249999999994614,124.62890625000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+83888,1,hand,lima,,,"1,64",1
+83889,1,hand,faha,,,5,
+484,2,left,kalawohi,,,1?,?
+841,3,right,kalawanañ,,,"1,17",1
+71496,4,leg/foot,mfalahoñ,,,,
+71497,4,leg/foot,loc,,,,
+1555,5,"to walk",lau,,,1,?
+71601,6,road/path,leliŋ,,,1?,
+71602,6,road/path,nonu,,,,
+2269,7,"to come",haec,,,,
+2626,8,"to turn",kabela,,,,
+2983,9,"to swim",naŋu,,,"1,45",1
+3340,10,dirty,kohu,,,,
+4054,12,skin,kuli,,,1,1
+4411,13,back,takolo,,,12,
+4768,14,belly,ntuka,,,,
+5125,15,bone,talañ,,,1?,?
+5839,17,liver,n|ate,,,1,1
+6196,18,breast,tete,,,,
+6553,19,shoulder,fooŋ,,,,
+6910,20,"to know, be knowledgeable",kananoʔu,,,,
+7267,21,"to think",fikiŋ,"loan of 22?",L,22,
+7624,22,"to fear",mantaku,,,1,1
+7981,23,blood,poloc,,,,
+72493,24,head,ulu,,,1,1
+72494,24,head,ntalañ,,,1,1
+8695,25,neck,toloiŋkedoñ,,,,
+9052,26,hair,ulu,,,3,
+9409,27,nose,ŋoo,,,,
+9766,28,"to breathe",hamac,,,,
+10123,29,"to sniff, smell",hayoʔ,,,1,1
+10480,30,mouth,suŋ,,,40,
+10837,31,tooth,ŋioñ,,,1,?
+11194,32,tongue,d|amañ,"not 1",,,1?
+11551,33,"to laugh",seŋei,,,,
+11908,34,"to cry",daŋi,,,1,1
+12265,35,"to vomit",luaʔ,,,8,
+73174,36,"to spit",tapii,,,9,
+73175,36,"to spit",takilu,,,,
+12979,37,"to eat",kañ,,,1,1
+13336,38,"to chew",moma,,,1,1?
+13693,39,"to cook",kameseʔ,,,,
+14050,40,"to drink",inuŋ,,,1,1
+73554,41,"to bite",toloñ,,,1?,
+73555,41,"to bite",koki,,,1?,
+73650,42,"to suck",lusuc,"at breast",,,
+73651,42,"to suck",tete,"at breast",,,
+15121,43,ear,taliŋa,,,1,1
+15478,44,"to hear",mine,,,,
+15835,45,eye,beleŋ,,,,
+16192,46,"to see",too,,,1,
+16549,47,"to yawn",bala|moa,,,19,1
+16906,48,"to sleep",lukuc,,,,
+17263,49,"to lie down",lukuc,,,,
+17620,50,"to dream",dodopoñ,,,,
+17977,51,"to sit",touc,,,,
+74102,52,"to stand",dadi,,,1,1
+74103,52,"to stand",kohoñ,,,,1
+18691,53,"person/human being",matatuu,,,87,1?
+19048,54,man/male,mene,,,1,1
+19405,55,woman/female,fine,,,"1,41",1
+19762,56,child,anaʔ,,,1,1
+20119,57,husband,"coa mene",,,1?,1
+20476,58,wife,"coa fine",,,"1?,5",1
+20833,59,mother,ina,,,1,1
+21190,60,father,n|ama,,,1,1
+21547,61,house,lehac,,,,
+21904,62,thatch/roof,ato,,,1,1
+22261,63,name,ŋaañ,,,1,1?
+22618,64,"to say",faya,,,13,
+22975,65,rope,kanawo,,,,
+74998,66,"to tie up, fasten",kofoc,,,,
+74999,66,"to tie up, fasten",tolu,,,,
+23689,67,"to sew",maŋauc,,,,
+24046,68,needle,palauc,,,,
+24760,70,"to shoot",tabu,,,,
+75316,71,"to stab, pierce",hado,,,,1?
+75317,71,"to stab, pierce",tusu,,,33,1?
+75318,71,"to stab, pierce",soso,,,1?,1?
+75386,72,"to hit",baba,,,4,
+75387,72,"to hit",puŋ,,,107,
+25831,73,"to steal",pakanako,,,"1,58",1
+26188,74,"to kill",kamate,,,2,
+26545,75,"to die, be dead",mate,,,1,1
+26902,76,"to live, be alive",dadi,,,18,
+27616,78,"to cut, hack",putaʔ,,,,
+27973,79,stick/wood,kayu,,,1,1
+75875,80,"to split",kapuaʔ,,,,
+75876,80,"to split",karafi,,,,
+28687,81,sharp,ŋgañ,,,9?,
+29401,83,"to work",fei,,,5,
+29758,84,"to plant",tanoŋ,,,2,1
+30115,85,"to choose",pili,,,1,1
+76368,88,"to squeeze",maŋahanoc,,,,
+76369,88,"to squeeze",pisiʔ,,,29,
+31543,89,"to hold",hako,,,,?
+76507,90,"to dig",geke,,,,
+76508,90,"to dig",kayoc,,,,
+32257,91,"to buy",tuka,,,71,
+32614,92,"to open, uncover",fukac,,,1,1?
+32971,93,"to pound, beat",tutuʔ,"with fist",,"20, 2",1
+33328,94,"to throw",tiba,,,109,
+76838,95,"to fall",bukañ,,,,1
+76839,95,"to fall",kanafu,,,"1,105",1
+34042,96,dog,asu,,,1,1
+34399,97,bird,manuʔ,,,1,1
+34756,98,egg,tolu,,,1,1
+35113,99,feather,fuluñ,,,1,1
+35470,100,wing,mpani,,,2,1
+36184,102,rat,kaminde,,,,
+36541,103,meat/flesh,isiŋ,,,31,1
+36898,104,fat/grease,minaʔ,,,1,1
+37255,105,tail,iku,,,1,1
+37612,106,snake,habai,,,,
+37969,107,"worm (earthworm)",ule,,,5,
+38326,108,louse,tuma,,,3,
+77519,109,mosquito,takinok,,,,
+77520,109,mosquito,kamotuñ,,,,
+39040,110,spider,taka|lawac,,,1,1
+39397,111,fish,kena,,,"46,95",
+39754,112,rotten,mapu,,,52,
+40111,113,branch,mpaŋañ,,,,
+40468,114,leaf,ndoñ,,,1,1
+40825,115,root,nuhac,fiberous,,,1?
+41182,116,flower,nasañ,,,,
+41539,117,fruit,mfuañ,,,1,1
+77977,118,grass,jejela,,,,
+77978,118,grass,takii,,,,
+77979,118,grass,fuluŋ,,,40,
+42253,119,earth/soil,petaʔ,,,23,
+42610,120,stone,ndolu,,,,
+42967,121,sand,unac,,,1?,1?
+43324,122,water,wayo,,,2,1
+43681,123,"to flow",aŋin,current,,,
+44038,124,sea,gehe,,,,
+44395,125,salt,gasiŋ,,L,20,?
+45109,127,woods/forest,"kayu liañ",,,2,
+45466,128,sky,laŋi,,,1,1
+45823,129,moon,mapa,,,,
+46180,130,star,fuho,,,,
+46537,131,cloud,"wana etañ",,,,
+46894,132,fog,kufa,(<M),,,1?
+47251,133,rain,uyañ,,,1,1
+47608,134,thunder,ba|ruŋgu,,,,1
+47965,135,lightning,batiʔ,,,,
+48322,136,wind,wohe,,,,
+48679,137,"to blow",fuu,,,5,
+49036,138,warm,mutuŋ,,,,
+49393,139,cold,ŋgomoñ,,,,
+79233,140,dry,pidi,,,,
+79234,140,dry,moyoŋ,,,56,
+50107,141,wet,mete,,,,
+50464,142,heavy,mfahac,,,1?,1
+50821,143,fire,utoñ,,,,
+79479,144,"to burn",sinaŋa,,,,1
+79480,144,"to burn",tunu,,,1,1
+51535,145,smoke,tafoluŋ,,,,
+51892,146,ash,afu,,,1,1
+52249,147,black,barede,,,,
+52606,148,white,kabafufu,,,,
+79735,149,red,bagasaʔ,,,,
+79736,149,red,kabarara,,,,
+53320,150,yellow,kuni,,,1,1
+53677,151,green,mamaula,,,6,
+54034,152,small,mei,,,,
+54391,153,big,haya,,,1,1
+54748,154,short,nitoʔ,,,,
+55105,155,long,nahuŋ,,,,
+55462,156,thin,manipi,,,1,1
+55819,157,thick,moŋoñ,,,,
+80264,158,narrow,roto,,,,
+80265,158,narrow,riki,,,,
+80315,159,wide,mbalalua,,,1?,?
+80316,159,wide,keheleʔ,,,,?
+56890,160,"painful, sick",huuc,,,,
+57247,161,"shy, ashamed",mahi,,,1,?
+57604,162,old,mugu,,,,
+57961,163,new,fohu,,,1,1
+58318,164,good,bia,,,1,1
+59389,167,night,modoŋ,,,,
+59746,168,day,dina,,,11,?
+60103,169,year,musuŋ,,,5,
+60460,170,when?,"botu hila",,,1,1?
+60817,171,"to hide",sapiʔ,,,,
+61174,172,"to climb",hanaʔ,,,1,1
+61531,173,at,hino,,,,?
+61888,174,"in, inside",ndiañ,,,,
+62245,175,above,hete,,,,
+62602,176,below,hofo,,,,
+62959,177,this,mai,,,,
+63316,178,that,moko,,,,
+63673,179,near,dosuñ,,,,
+64030,180,far,jawo,,L,,?
+64387,181,where?,mbie,,,2,
+64744,182,I,aku,,,1,1
+65101,183,thou,kou,,,1,1
+65458,184,he/she,io,,,1,1
+113908,185,we,kito,,,1,1
+113909,185,we,kami,,,2,
+66172,186,you,kemo,,,1,1?
+66529,187,they,sio,,,1,1?
+82247,188,what?,mañ,,,1,1
+82248,188,what?,caa,,,1,1
+67243,189,who?,woi,,,,?
+82349,190,other,boliŋ,,,,
+82350,190,other,kaliai,,,,
+67957,191,all,sou,,,,
+68314,192,and,hali,,,,
+69028,194,how?,bisae,,,,
+69385,195,"no, not",daaŋ,,,,
+70099,197,One,sia,(<M),,1?,1?
+70456,198,Two,howo,,,,1
+70813,199,Three,tolu,,,1,1
+71170,200,Four,ŋhaac,,,1?,
+153201,201,Five,lima,,,1,
+153200,202,Six,noŋ,,,1,
+153199,203,Seven,hitu,,,1,
+153198,204,Eight,walu,,,3,
+153163,205,Nine,tasia,,,5,
+153162,206,Ten,hulu,,,,

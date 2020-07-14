@@ -1,0 +1,37 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+1199,"Gelao, Red","Jerold A. Edmondson",gir,redg1235,"Source: Unpublished manuscript from Jerold A. Edmondson.Red Gelao is spoken in the villages of Na Khê and Bìch Ðich in Yên Minh District, Hà Giang Province, Vietnam. A few speakers were also found in Malipo County, Yunnan, China, and there may also be speakers in Guizhou, China. In Vietna, only around 50 speakers are left.","Data is highly limited, since the consultants were often only semi-speakers of Red Gelao.","Tai-Kadai, Kra, Western Kra","Andrew C. Hsiu",,"@misc{Edmondson-1199-2015,  author = \"Jerold A. Edmondson\",  date = \"2015\",  howpublished = \"personal communication\"}"
+latitude,longitude
+23.18680000000000000000,104.99300000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+288724,6,road/path,xi44,,,,
+288725,14,belly,fouʔ31,,,,
+288726,15,bone,"ma35 ntuaʔ31",,,,
+288727,17,liver,"tua31 tua31",,,,
+288728,19,shoulder,"li44 tsu35",,,,
+288729,23,blood,pai31,,,,
+288730,24,head,"nte35 xɯ31",,,,
+288731,25,neck,ntua13,,,,
+288732,27,nose,"qa35 ȵ.uaʔ31",,,,
+288733,43,ear,"kɯ44 lɯ44",,,,
+288734,48,"to sleep",ŋoŋ31,,,,
+288735,55,woman/female,ma35,,,,
+288736,68,needle,li31,,,,
+288737,96,dog,xaŋ44,,,,
+288738,97,bird,"ma13 la31 ɣai31","Red Gelao innovation ?",,,
+288739,102,rat,"ma13 sa35 kue55","Red Gelao innovation ?",,,
+288740,103,meat/flesh,ʔo13,,,,
+288741,106,snake,ŋɯi44,,,,
+288742,122,water,ʔaŋ13,,,,
+288743,130,star,"ma35 ndu35",,,,
+288744,140,dry,kɯ31,,,,
+288745,143,fire,pi33,"Chinese Red Gelao: a55 pi55",,1,
+288746,197,One,tsə35,,,,
+288747,198,Two,se55,,,,
+288748,199,Three,tua55,,,,
+288749,200,Four,pu55,,,,
+288750,201,Five,maŋ55,,,,
+288751,202,Six,ɬoŋ55,,,,
+288752,203,Seven,te55,,,,
+288753,204,Eight,wu55,,,,
+288754,205,Nine,ʂe31,,,,
+288755,206,Ten,kwe31,,,,

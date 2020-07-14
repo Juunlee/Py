@@ -1,0 +1,252 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+100,Ngadha,"Blust, from Arndt (1961)",nxg,ngad1261,"Arndt, P. (1961). Wörterbuch der Ngadhasprache. Studia Instituti Anthropos, 15. Posieux, Switzerland.",,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Bima-Sumba","Penny Keenan","Simon Greenhill","@book{96970,  address               = {Posieux (Fribourg, Suisse)},  number                = {15},  pages                 = {646},  publisher             = {Anthropos-Institut},  series                = {Studia Instituti Anthropos},  title                 = {Wörterbuch der Ngadhasprache},  volume                = {15},  year                  = {1961},  bibtexkey             = {arndt_worterbuch-ngadhasprache1961},  class_loc             = {PL5432.Z5},  document_type         = {B},  hhtype                = {dictionary},  inlg                  = {German [deu]},  inlg_code             = {deu},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 5432 .Z5 ARN 1961},  src                   = {langsci, mpieva},  srctrickle            = {langsci#Arndt:61, mpieva#Arndt1961Worterbu},  subject_headings      = {Ngada language–Dictionaries–German, Ngada language, Ngada language–Dictionaries–German – Ngada language},  author                = {Arndt, Paul}}"
+latitude,longitude
+-8.87421700905355415046,121.01440429687500000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+100,1,hand,[ɬ]ima,,,"1,64",1
+457,2,left,léu,,,4,
+814,3,right,vana,,,1,1
+1171,4,leg/foot,vai,,,"1,100",1
+1528,5,"to walk",laa,,,1,1
+1885,6,road/path,zala,,,1,1
+2242,7,"to come",mai,,,1,1
+2599,8,"to turn",kili,,,70,?
+2956,9,"to swim",naŋu,,,"1,45",1
+3313,10,dirty,zaki,,,1,1
+3670,11,dust,avu,"(<M, cp.#43)",,1,
+4027,12,skin,suki,,,1,1
+4384,13,back,logo,,,6,
+4741,14,belly,tuka,,,4,
+5098,15,bone,toko,,,3,
+5455,16,intestines,golo,,,,
+5812,17,liver,até,,,1,1
+6169,18,breast,susu,,,1,1
+6526,19,shoulder,kasa,,,,
+88377,20,"to know, be knowledgeable",béo,,,7,
+88378,20,"to know, be knowledgeable",toa,,,114,
+72360,21,"to think",maya,,,85,
+72361,21,"to think",siu,,,,
+72362,21,"to think",vé,,,,
+7597,22,"to fear",mizo,,,4,
+72443,23,blood,ra,,,1,1
+72444,23,blood,raa,,,1,1
+8311,24,head,ulu,,,1,1
+8668,25,neck,teŋu,,,7,
+9025,26,hair,fu,,,1,1
+9382,27,nose,ŋ|izu,"or 1?",,1,1
+9739,28,"to breathe",ŋaci,,,4,
+10096,29,"to sniff, smell",vacu,,,,
+72851,30,mouth,boro,,,6,
+72852,30,mouth,vuca,,,6?,
+10810,31,tooth,ŋii,,,1?,?
+11167,32,tongue,l|ema,,,6,1
+11524,33,"to laugh",tawa,,,1,1
+11881,34,"to cry",naŋi,,,1,1
+12238,35,"to vomit",muta,,,1,1
+12595,36,"to spit",tefa,,,9,
+12952,37,"to eat",ka,,,1,1
+89365,38,"to chew",ŋadzu,,,4,1
+89366,38,"to chew",mama,,,1,
+89659,39,"to cook",pedhé,,,5,1
+89660,39,"to cook",nasu,,,3,
+89661,39,"to cook",zaka,,,2,
+14023,40,"to drink",inu,,,1,1
+73548,41,"to bite",kiki,,,1,1
+73549,41,"to bite",kégé,,,1?,1
+73637,42,"to suck",bheso,,,,1
+73638,42,"to suck",temo,,,,1
+73639,42,"to suck",susu,,,1,1
+15094,43,ear,siŋa,,,1,1
+15451,44,"to hear",zeŋé,,,1,1
+15808,45,eye,mata,,,1,1
+16165,46,"to see",iso,,,1,
+16522,47,"to yawn",moca,,,19,1
+16879,48,"to sleep",nade,,,5,
+17236,49,"to lie down",nade,,,,
+17593,50,"to dream",nipi,,,"1,60",1
+17950,51,"to sit",moku,,,,
+18307,52,"to stand",davi,,,1,
+18664,53,"person/human being",ata,,,4,
+19021,54,man/male,saki,,,7,1
+19378,55,woman/female,faci,,,,1
+19735,56,child,ana,,,1,1
+20092,57,husband,saki,,,7,
+20449,58,wife,faci,,,,
+20806,59,mother,iné,,,1,1
+21163,60,father,amé,,,1,1
+21520,61,house,sao,,,3,
+21877,62,thatch/roof,yubhu,,,4,
+22234,63,name,ŋaza,,,1,1
+22591,64,"to say",punu,,,5?,
+22948,65,rope,azé,,,6,
+23305,66,"to tie up, fasten",rati,,,3,
+91534,67,"to sew",zéi,,,2,1?
+91535,67,"to sew",raku,,,3,
+24019,68,needle,[nadel],loan,L,,
+24376,69,"to hunt",za,,,,
+24733,70,"to shoot",pasa,,,2,
+25090,71,"to stab, pierce",vuta,,,6?,
+75375,72,"to hit",pia,,,,
+75376,72,"to hit",vela,,,,
+25804,73,"to steal",naka,,,"1,59",1
+26161,74,"to kill",maté,,,2,
+26518,75,"to die, be dead",mata,,,1,1
+26875,76,"to live, be alive",muzi,,,"1,76",1
+27232,77,"to scratch",kasi,,,5,
+27589,78,"to cut, hack",pako,,,4,
+27946,79,stick/wood,kadzu,,,1,1
+28303,80,"to split",vela,,,1,1
+28660,81,sharp,teka,,,5,
+75981,82,"dull, blunt",bugu,,,36,1
+75982,82,"dull, blunt",dubu,,,38,1
+76044,83,"to work",ŋo,,,3,
+76045,83,"to work",gaga,,,,
+29731,84,"to plant",mula,,,1,1
+76172,85,"to choose",pili,,,1,1
+76173,85,"to choose",sili,,,1,1
+30445,86,"to grow",mézé,,,2,
+30802,87,"to swell",si,,,,
+76358,88,"to squeeze",kuku,,,,
+76359,88,"to squeeze",oté,,,,
+31516,89,"to hold",davé,,,,
+76498,90,"to dig",kocé,,,5,?
+76499,90,"to dig",kaci,,,58,?
+76500,90,"to dig",kela,,,1,?
+32230,91,"to buy",veli,,,1,1
+32587,92,"to open, uncover",gégé,,,,
+32944,93,"to pound, beat",tébi,,,,
+33301,94,"to throw",vuca,,,,
+33658,95,"to fall",bodu,,,112,
+34015,96,dog,lako,,,5,
+34372,97,bird,[fogel],"< Dutch",L,,
+34729,98,egg,telo,,,1,1
+35086,99,feather,[feder],,L,,
+35443,100,wing,lebé,,,4,
+35800,101,"to fly",beya,,,1?,
+36157,102,rat,téu,,,7,
+36514,103,meat/flesh,suci,,,1?,
+36871,104,fat/grease,luvu,,,,
+37228,105,tail,éko,,,1,1
+37585,106,snake,nipa,,,1,1
+37942,107,"worm (earthworm)",ulé,,,,
+38299,108,louse,kutu,,,1,1
+77511,109,mosquito,emu,,,,?
+77512,109,mosquito,semu,,,,?
+39013,110,spider,[spinne],German?,L?,,
+39370,111,fish,ika,,,1,1
+77654,112,rotten,vacu,,,,
+77655,112,rotten,zéé,,,,
+77730,113,branch,tara,,,1,1
+77731,113,branch,daa,,,1,1
+40441,114,leaf,vunu,,,6,
+40798,115,root,kabu,,,6,
+41155,116,flower,voŋa,,,1,1?
+41512,117,fruit,vuca,,,1,1
+77975,118,grass,pu,,,,
+77976,118,grass,semu,,,,
+78020,119,earth/soil,ota,,,1,1
+78021,119,earth/soil,tana,,,1,1
+42583,120,stone,vatu,,,1,1
+42940,121,sand,ena,,,1,1
+43297,122,water,vacé,,,2,1
+43654,123,"to flow",béré,,,3,
+44011,124,sea,mesi,,,8,
+44368,125,salt,sié,,,1,1
+44725,126,lake,mesi,,,,
+45082,127,woods/forest,k|ala,,,1?,?
+45439,128,sky,lizu,,,8,
+45796,129,moon,vula,,,1,1
+46153,130,star,dala,,,4,
+46510,131,cloud,sa,,,,
+46867,132,fog,[nebel],,,,
+47224,133,rain,uza,,,1,1
+47581,134,thunder,bhéla,,,7,
+47938,135,lightning,bhéla,,,26,
+78902,136,wind,vara,,,7,
+78903,136,wind,koca,,,,
+48652,137,"to blow",zupi,,,4,?
+79078,138,warm,bana,,,1,1
+79079,138,warm,pana,,,1,1
+79141,139,cold,dza,,,,
+79142,139,cold,keta,,,4,
+49723,140,dry,royo,,,,
+50080,141,wet,basa,,,1,1
+50437,142,heavy,daté,,,1?,
+50794,143,fire,api,,,1,1
+79466,144,"to burn",vuca,,,,
+79467,144,"to burn",roca,,,,
+79468,144,"to burn",néi,,,,
+51508,145,smoke,nu,,,2,1?
+51865,146,ash,avu,,,1,1
+52222,147,black,mite,,,1,1
+52579,148,white,bhara,,,3,?
+52936,149,red,toro,,,6,
+79779,150,yellow,sese,,,,1
+79780,150,yellow,kuné,,,1,1
+53650,151,green,ŋura,,,4?,
+54007,152,small,kedhi,,,2,1
+80004,153,big,mézé,,,4,?
+80005,153,big,rica,,,,?
+54721,154,short,bhoko,,,3,
+55078,155,long,léva,,,6,
+55435,156,thin,nipi,,,1,1
+55792,157,thick,kapa,,,1,1
+80256,158,narrow,pipé,,,4,
+80257,158,narrow,piro,,,4,
+56506,159,wide,toza,,,,
+56863,160,"painful, sick",sakit,,,1,1
+57220,161,"shy, ashamed",meca,,,1,
+57577,162,old,bupu,,,6,
+57934,163,new,muzi,,,5,
+58291,164,good,modhé,,,5,
+58648,165,"bad, evil",zéé,,,,
+59005,166,"correct, true",tuu,,,6,1
+59362,167,night,kobé,,,6,
+59719,168,day,leza,,,25,1
+60076,169,year,kiva,,,4,
+60433,170,when?,veŋi,,,4,
+60790,171,"to hide",sono,,,2,
+61147,172,"to climb",naci,,,1,1
+81101,173,at,vi,,,20,1?
+81102,173,at,vé,,,20,1?
+81103,173,at,dé,,,20,1?
+81104,173,at,di,,,20,1?
+81197,174,"in, inside",oné,,,,
+81198,174,"in, inside",dé,,,,
+81199,174,"in, inside",di,,,,
+62218,175,above,vavo,,,2,1
+62575,176,below,vena,,,1?,
+62932,177,this,di,,,,
+63289,178,that,ke|na,,,1,1?
+63646,179,near,véé,,,,
+81647,180,far,dada,,,,
+81648,180,far,ta,,,,
+64360,181,where?,[wo],,,,
+64717,182,I,dz|ao,,,1?,1
+65074,183,thou,kau,,,1,1
+65431,184,he/she,gazi,,,,
+111935,185,we,kita,,,1,1
+111936,185,we,kami,,,2,
+66145,186,you,miu,,,"1,13",1
+66502,187,they,emu,,,,
+66859,188,what?,apa,,,1,1
+67216,189,who?,séci,,,1,1
+67573,190,other,goo,,,,
+67930,191,all,tako,,,,
+68287,192,and,néé,,,2?,?
+68644,193,if,vi,,,,
+69001,194,how?,mocé,,,,
+69358,195,"no, not",bhai,,,6,
+69715,196,"to count",gé,,,4,
+70072,197,One,esa,,,1,1
+70429,198,Two,zua,,,1,1
+70786,199,Three,telu,,,1,1
+71143,200,Four,vutu,,,1,
+131097,201,Five,lima,,,1,
+131098,202,Six,"lima esa",5+1,,,
+133503,203,Seven,"lima rua",5+2,,,
+133504,204,Eight,"rua butu",2x4,,,
+133505,205,Nine,"ter esa",-1,,,
+133506,206,Ten,habulu,,,5,
+133507,207,Twenty,"rua buluh",,,,
+166822,208,Fifty,"lima buluh",,,,

@@ -1,0 +1,197 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+164,"Magori (South East Papua)","Tom Dutton",zgr,mago1248,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Papuan Tip, Peripheral, Central Papuan, Oumic, Magoric","Peng Du","Simon Greenhill","@misc{Dutton-164-2005,  author = \"Tom Dutton\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-10.23924881098121986156,149.30419921875000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+164,1,hand,ima,,,1,1
+521,2,left,ebeu,,,,
+878,3,right,vota,,,,
+1235,4,leg/foot,ake,,,1,?
+71560,5,"to walk",yaw,,,68,1
+71561,5,"to walk",[yao],,,68,1
+71605,6,road/path,rae,,,1,1
+71606,6,road/path,[ray],,,1,1
+2306,7,"to come",yame,,,1,1?
+3020,9,"to swim",roro,,,,
+3734,11,dust,kau,,,17,
+4091,12,skin,opi,,,15,
+4805,14,belly,beni,,,,
+5162,15,bone,tiria,,,40,
+5519,16,intestines,tinea,[<M],,1,1
+5876,17,liver,goigoibo,,,,
+6233,18,breast,kuku,,,1,1
+6590,19,shoulder,daboro,"< Suauic ?",L,,
+6947,20,"to know, be knowledgeable",togoi,understand,,,
+7304,21,"to think","tuna tuna",,,21?,
+7661,22,"to fear",[e]veau,,,,
+8018,23,blood,rara,,,1,1
+8375,24,head,uru,,,1,1
+8732,25,neck,gedu,,,66,
+9089,26,hair,rimu,,,17,
+9446,27,nose,kua,,,1,
+9803,28,"to breathe",nena,,,,
+10160,29,"to sniff, smell",kinoni,,,,
+10517,30,mouth,oa,,,36,?
+10874,31,tooth,moa,,,66,
+11231,32,tongue,goba,,,22,
+11588,33,"to laugh",giriva,,,67,
+11945,34,"to cry",gaema,,,,
+12302,35,"to vomit",gobi,,,,
+12659,36,"to spit",ukua,,,,
+13016,37,"to eat",ani,,,1,1
+13373,38,"to chew",toboi,b.,,,
+13730,39,"to cook",dari,,,114,
+14087,40,"to drink",unu,,,1,1
+14444,41,"to bite",apu,,,16,
+14801,42,"to suck",moti,,,"6, 83",
+15158,43,ear,epe,,,,
+15515,44,"to hear",togoi,,,,
+15872,45,eye,ini,,,7,
+16229,46,"to see",onoi,,,,
+16943,48,"to sleep",bui,,,,
+17300,49,"to lie down",bui,,,101,
+17657,50,"to dream",nivi,,,"1, 60",1
+18014,51,"to sit",tanuyau|o,,,,
+90955,52,"to stand",dori,arise,,1,
+90956,52,"to stand",vaida,"be standing",,15?,
+18728,53,"person/human being",tau,,,1,1
+19085,54,man/male,tau,,,22,
+74290,55,woman/female,vaini,"or vaine?",,"1,106",1
+74291,55,woman/female,[vaine],"or vaine?",,"1,106",1
+19799,56,child,natu,,,5,
+20156,57,husband,mora,,,,
+20513,58,wife,vaine,[=55],,"5, 68",
+20870,59,mother,tina,,,1,1
+21227,60,father,tama,,,1,1
+91364,61,house,ruma,,,1,1
+91365,61,house,numa,,,"1,49",1
+21941,62,thatch/roof,ato,,,1,1
+22298,63,name,aka,,,"1,18",1
+22655,64,"to say",teia,"a prayer",,,
+23012,65,rope,konau,,,20,
+23369,66,"to tie up, fasten",ausi,,,11,
+23726,67,"to sew",turi,,,13,
+24440,69,"to hunt",tagigi,,,,
+24797,70,"to shoot",biti,,,22,
+25154,71,"to stab, pierce",gori,,,20,
+25511,72,"to hit",bati,,,7,
+25868,73,"to steal","bora [bora]",,,,
+91853,74,"to kill",gori,"to spear",,,
+91854,74,"to kill",abi[bao],"to kill (dead)",,,
+26582,75,"to die, be dead",bao,,,12?,
+26939,76,"to live, be alive",mauri,,,"1, 76",1
+27296,77,"to scratch",gagaro,,,1,1
+27653,78,"to cut, hack",reia,,,31?,
+28010,79,stick/wood,arova,,,12,
+28367,80,"to split",oita,,,,
+29438,83,"to work",paisoa,,,20,
+30866,87,"to swell",boboga,,,18,
+31223,88,"to squeeze",maru,,,25,
+31580,89,"to hold",abitari,,,23,
+31937,90,"to dig",ravi,,,12,
+32294,91,"to buy",voi,,,1,1
+32651,92,"to open, uncover",evivara,,,,
+33365,94,"to throw",dogoi,,,,
+33722,95,"to fall",biu,,,25,
+34079,96,dog,o'oi,,,,
+34436,97,bird,adu,,,,
+34793,98,egg,ato'i,,,1,1
+35150,99,feather,rimu,,,,
+35507,100,wing,ima,,,79,
+35864,101,"to fly",revo,,,1,
+36221,102,rat,o'oure,,,20,
+36578,103,meat/flesh,votira,,,,
+36935,104,fat/grease,mona,,,"1,65",1
+37292,105,tail,doru,,,15,
+37649,106,snake,mota,,,12,
+38006,107,"worm (earthworm)",via,,,,
+38363,108,louse,tuma,,,3,?
+38720,109,mosquito,nemu,,,1,1
+39434,111,fish,orebe,?,,10,
+39791,112,rotten,geragera,,,,
+40148,113,branch,iregarega,,,"1,14",
+40505,114,leaf,rugu,,,16,
+40862,115,root,ramuramu,,,3,1
+41219,116,flower,flaualfaua,loan?,Eng,,
+41576,117,fruit,vinuva-na,,,1,
+42290,119,earth/soil,arima,,,21,
+42647,120,stone,doa,,,55,
+43004,121,sand,gagau,,,17,
+43361,122,water,voi,,,2,1?
+44075,124,sea,rova,,,39,
+44432,125,salt,tari,,,20,
+45146,127,woods/forest,[a]gagatuna,"first vowel may be'direction towards' prefix",,,
+45503,128,sky,guba,,,17,
+45860,129,moon,dovere,,,15,
+46217,130,star,vitiriu,,,1,?
+46574,131,cloud,nogara,,,24,
+46931,132,fog,goai,,,,
+47288,133,rain,bairo,,,,
+108051,136,wind,boden,"South East wind",,,
+108052,136,wind,avara,"North West wind",,74,
+79012,137,"to blow",eama,,,,
+79013,137,"to blow",vuvuri,,,21,
+49073,138,warm,vodavoda,hot,,20,
+49430,139,cold,memea,,,19,
+49787,140,dry,vuravura,a.,,102,
+50144,141,wet,nuda,,,,
+50501,142,heavy,duvabu,,,,
+50858,143,fire,evi,,,1,1
+51215,144,"to burn",gabu,,,16,
+51572,145,smoke,bautu,,,18,
+51929,146,ash,kau,[=11?],,68,1?
+52286,147,black,dubaduba,,,21,
+52643,148,white,goagoa,,,,
+53000,149,red,morimori,,,,
+53357,150,yellow,gobugobura,,,21,
+54071,152,small,miti,,,,
+54428,153,big,vere,,,,
+54785,154,short,obo'obo,,,20,
+55142,155,long,baibai,,,,
+118222,160,"painful, sick",kerere,sick,,,
+118223,160,"painful, sick",agara,pain(verb),,,
+57641,162,old,baeau,,,18,
+57998,163,new,gadara,,,,
+58355,164,good,ragi,,,,
+58712,165,"bad, evil",geragerama,,,,
+59069,166,"correct, true",avanui,,,,
+59426,167,night,garu,,,17,
+80875,168,day,dina,,,11,
+80876,168,day,kina,,,11,
+80877,168,day,tauga,,,,
+60140,169,year,"lagani vere",,,16,
+60497,170,when?,avakina,,,,
+61211,172,"to climb",dara,b.,,,
+81212,174,"in, inside",autu,,,12,
+81213,174,"in, inside",guni,,,12,
+81370,177,this,ina,,,67,
+81371,177,this,nenu,,,,
+81372,177,this,neina,,,67,
+81373,177,this,unua,,,,
+81490,178,that,nu,,,,
+81491,178,that,una,,,1,
+81492,178,that,unana,,,1,
+63710,179,near,tebina,,,20,
+64067,180,far,anadaevara,,,,
+64424,181,where?,avae,,,3,
+64781,182,I,nau,,,"1,22",1
+65138,183,thou,oni,,,"1,63",
+65495,184,he/she,ia,,,1,1
+118224,185,we,ita,,,1,1
+118225,185,we,nai,,,,
+66209,186,you,umui,,,"1,13",1
+66566,187,they,idi,,,25,
+66923,188,what?,akara,,,,
+67280,189,who?,a'ara,,,,
+67637,190,other,tibona,,,,
+67994,191,all,"mama idoi",,,15,
+68351,192,and,"verana ... verana",?,,x,
+68708,193,if,boira,,,9,
+69065,194,how?,adara,?,,,
+118226,195,"no, not",avage,no,,23,
+118227,195,"no, not",-ge,"V + -ge = not V",,23,
+69779,196,"to count",vavo,,,57,
+70136,197,One,ana,,,,
+70493,198,Two,buau,,,11,
+70850,199,Three,aiteri,,,1?,1?
+71207,200,Four,vati,,,"1,65",1

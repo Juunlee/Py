@@ -1,0 +1,235 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+221,Sa'a,"Blust from: Ivens (1929)",apb,saaa1240,"Ivens, W. G. (1929). Dictionary and grammar of the language of Sa'a and Ulawa, Solomon Islands. Washington: Carnegie Institution of Washington",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Southeast Solomonic, Malaita-San Cristobal, Malaita, Southern","Debasish Roy","Simon Greenhill","@article{58279,  journal    = {Anthropos},  pages      = {755-773, 926-940},  title      = {Grammar of the Language of Sa'a, Malaita, Solomon Islands},  volume     = {6},  year       = {1911},  bibtexkey  = {ivens_saa-malaita1911},  fn         = {papua\ivens_saa1911pages.pdf},  hhtype     = {grammar_sketch},  inlg       = {English [eng]},  inlg_code  = {eng},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#s:Ivens:Saa},  author     = {Ivens, W. G.}}"
+latitude,longitude
+-9.79567758282973066741,161.98242187500000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+221,1,hand,nime,,,"1,66",1
+578,2,left,mäu|meuli,"irregular reflex of *w",,"1,59",1
+935,3,right,pwalopwalo,,,43,
+1292,4,leg/foot,ʔae,"irregular *q > ʔ",,1,1
+1649,5,"to walk",awe,,,,
+2006,6,road/path,tala,,,1,1
+2363,7,"to come",lae,,,87,
+2720,8,"to turn",äliiu,"irregular addition of initial syllable",,2,?
+3077,9,"to swim",olo,,,74,
+71846,10,dirty,madaʔa,,,77,
+71847,10,dirty,mwakanoʔa,,,78,
+3791,11,dust,wasawasa,75,,,
+4148,12,skin,teʔeteʔe-,,,33,
+72031,13,back,kolu-,,,60,
+72032,13,back,puri-,,,"3,84",
+72078,14,belly,ie,,,,
+72079,14,belly,opwa-,,,36,
+5219,15,bone,suisuli-,,,52,
+5576,16,intestines,opwa,,,16,
+5933,17,liver,sae,,,1,1
+6290,18,breast,susu-,,,1,1
+6647,19,shoulder,ahala-,"irregular addition of initial vowel",,1,
+72324,20,"to know, be knowledgeable",manatai,,,"33,103",
+72325,20,"to know, be knowledgeable",saai,"irregular *e > a",,35,
+7361,21,"to think",neʔisae,,,49,
+7718,22,"to fear",mäʔu,,,1,1
+8075,23,blood,ʔäpu-,,,5,
+8432,24,head,pwäu,,,9,
+8789,25,neck,lue-,,,18,
+9146,26,hair,uhu,,,"13,55",
+9503,27,nose,pwälusu,,,"1,12",?
+9860,28,"to breathe",maŋo,,,47,
+10217,29,"to sniff, smell","nono wäsu",,,"50, 102",
+72864,30,mouth,dawa-,,,,?
+72865,30,mouth,wawa-,,,1,?
+10931,31,tooth,niho-,,,1,1
+11288,32,tongue,mea-,,,7,
+11645,33,"to laugh",mwäsi,,,58,
+12002,34,"to cry",ŋara,,,5,
+12359,35,"to vomit",moa,"irregular *u > o",,1,?
+12716,36,"to spit",ŋisu,,,"14, 58",
+73255,37,"to eat",ŋäu,,,15,
+73256,37,"to eat",ŋaa,"irregular *u > a",,15,
+13430,38,"to chew",ŋäsi,,,12,
+13787,39,"to cook",kooŋi,,,,
+14144,40,"to drink",inu,,,1,1
+14501,41,"to bite",ala,,,1,1
+73672,42,"to suck",susu,,,25,1
+73673,42,"to suck",ome,,,"17, 84",1
+15215,43,ear,äliŋe,"irregular *a > e",,1,1
+15572,44,"to hear",kawai,,,,
+15929,45,eye,maa-,,,1,1
+73905,46,"to see",kerehi,,,,
+73906,46,"to see",leesi,,,"14, 94",
+16643,47,"to yawn",ähi|mawa,,,"19, 33",1
+17000,48,"to sleep",maʔahu,,,"58, 59",
+17357,49,"to lie down",eno,,,1,1
+17714,50,"to dream","maʔahu pole",,,"32, 10",
+18071,51,"to sit",iʔo,,,87,
+74118,52,"to stand",taʔe,,,9,
+74119,52,"to stand",ure,,,40,
+18785,53,"person/human being",inoni,,,10,
+19142,54,man/male,mwane,,,1,1
+19499,55,woman/female,huʔe,,,48,
+19856,56,child,mwela,,,8,
+20213,57,husband,poro,,,22,
+20570,58,wife,huʔe,,,19,
+20927,59,mother,nike-,,,32,
+21284,60,father,ama-,,,1,1
+21641,61,house,nume,"irregular * R > n",,"1, 49",1
+21998,62,thatch/roof,raho,,,43,
+22355,63,name,sata,,,"1,18",1
+22712,64,"to say",unu,,,70,
+23069,65,rope,äli,,,1,1
+23426,66,"to tie up, fasten",pwäsu,,,63,
+23783,67,"to sew",täuri,,,55,
+75161,68,needle,sulitelu,,,19,
+75162,68,needle,raapea,,,,
+24497,69,"to hunt",haʔawasi,,,15,
+24854,70,"to shoot",hana,,,1,1
+25211,71,"to stab, pierce",toromi,,,58,
+25568,72,"to hit",uʔi,,,,
+25925,73,"to steal",peli,,,12,
+26282,74,"to kill",haʔamaesi,,,2,
+26639,75,"to die, be dead",mae,,,1,1
+26996,76,"to live, be alive",mäuri,,,"1, 76",1
+27353,77,"to scratch",käru,,,44,?
+75748,78,"to cut, hack",hile,,,,
+75749,78,"to cut, hack",ihu,,,,
+75750,78,"to cut, hack",rofo,,,,
+28067,79,stick/wood,ʔäi,,,1,1
+28424,80,"to split",waʔa,,,32,?
+28781,81,sharp,wawanuʔe,,,,
+29138,82,"dull, blunt",komu,,,17,
+29495,83,"to work",äsu,,,13,
+29852,84,"to plant",häsi,"[= plant taro]",,12,
+30209,85,"to choose",hili,,,1,1
+30566,86,"to grow",pwito,,,,
+30923,87,"to swell",suu,,,50,
+76389,88,"to squeeze",loosi,,,19,
+76390,88,"to squeeze",momo,,,,
+31637,89,"to hold",hele,,,63,
+31994,90,"to dig",eli,,,1,1
+32351,91,"to buy",holi,,,1,1
+32708,92,"to open, uncover",ihesi,,,15,
+33065,93,"to pound, beat",säu,,,4,
+33422,94,"to throw",ato,,,13,
+33779,95,"to fall",toli,,,69,
+34136,96,dog,ʔusu,,,57,
+34493,97,bird,mänu,,,1,1
+34850,98,egg,"hoi menu",,,,
+35207,99,feather,ihu,,,7,
+35564,100,wing,apaapa,,,"1,12",
+35921,101,"to fly",loho,,,1,1
+36278,102,rat,asuhe,,,3,
+36635,103,meat/flesh,häsiʔo-,,,"10, 65",
+36992,104,fat/grease,räkuhe,,,17,
+37349,105,tail,ʔuʔiʔi,,,"1, 57",?
+37706,106,snake,mwaa,,,12,
+38063,107,"worm (earthworm)",mwaadule,,,10,
+38420,108,louse,pote,,,21,
+38777,109,mosquito,sime,,,13,
+39134,110,spider,lawa,,,1,1
+39491,111,fish,iʔe,,,1,1
+39848,112,rotten,käsu,,,57,
+40205,113,branch,sara,,,"1,17",
+40562,114,leaf,räu,,,1,1
+40919,115,root,imiimi-,,,27,
+41276,116,flower,taka,,,12,
+41633,117,fruit,hue-,"[one, of fruits]",,1,1?
+41990,118,grass,hahalisi,,,1,1
+42347,119,earth/soil,ano,,,1,1
+42704,120,stone,häu,,,1,1
+43061,121,sand,one,,,1,1
+43418,122,water,wäi,,,2,1
+43775,123,"to flow",ahe,,,10,
+44132,124,sea,äsi,,,1,1
+44489,125,salt,äsi,,,20,
+44846,126,lake,lama,,,8,
+107855,127,woods/forest,meʔesu,"irregular *a > e",,"21, 77",
+107856,127,woods/forest,wäpu,,,22,
+107905,128,sky,ileŋi,,,,1
+107906,128,sky,loa,,,37,
+107907,128,sky,salo,,,13,
+45917,129,moon,waarowaaro,,,38,
+46274,130,star,heʔu,,,"1, 51",?
+46631,131,cloud,uru,,,,
+46988,132,fog,waha,,,46,
+47345,133,rain,nemo,,,34,
+47702,134,thunder,loulou,,,20,?
+48059,135,lightning,waʔariʔiriʔi,,,51,
+48416,136,wind,däŋi,,,,1?
+79037,137,"to blow",iru,"irregular *o > i",,"58, 59",
+79038,137,"to blow",ooru,,,58,
+79039,137,"to blow",uhi,,,4,
+49130,138,warm,madoro,,,62,
+49487,139,cold,mamaudi,,,63,
+120787,140,dry,ʔaʔate,,,77,
+120788,140,dry,raŋo,,,"1, 85",1
+120789,140,dry,mamata,,,11,
+50201,141,wet,medo,,,69,
+50558,142,heavy,hie,,,41,
+50915,143,fire,duŋe,,,32,
+51272,144,"to burn",uunu,,,1,1
+51629,145,smoke,pwäʔu,,,,
+51986,146,ash,pwasaora,,,42,
+52343,147,black,pulu,,,10,
+79694,148,white,reʔa,,,54,
+79695,148,white,mero,,,,
+53057,149,red,noro,,,58,
+53414,150,yellow,saosaola,,,52,
+53771,151,green,marawa,,,13,
+79920,152,small,morumoru,,,,
+79921,152,small,riʔi,[rare],,66,
+80026,153,big,loʔa,,,,
+80027,153,big,laha,rare,,10,
+80028,153,big,päine,,,56,
+80118,154,short,koukoule,"irregular *u > e",,18,
+80119,154,short,ʔoʔorue,,,,
+55199,155,long,tewa,,,15,
+55556,156,thin,mwarau,,,"33,35",
+55913,157,thick,piola,,,43,
+56270,158,narrow,koko,,,,
+56627,159,wide,ʔaroka,,,43,
+80397,160,"painful, sick",mae,"May not be #1 - more likely < *mate 'dead'",,58,
+80398,160,"painful, sick",sälu,,,35,
+57341,161,"shy, ashamed",masa,,,39,1
+57698,162,old,läsu,,,,
+58055,163,new,haalu,,,1,1
+58412,164,good,diana,,,66,?
+58769,165,"bad, evil",taʔa,[?],,1,?
+59126,166,"correct, true",odo,,,13,
+59483,167,night,rodo,,,11,
+59840,168,day,däŋi,,,6,1
+60197,169,year,hälisi,,,8,
+60554,170,when?,iŋa|n|ite,,,"1,24",1
+60911,171,"to hide",mumuni,"[cf. Patpatar mum]",,"1, 67",1?
+61268,172,"to climb",hane,,,1,1
+61625,173,at,i,,,1,1
+61982,174,"in, inside",iɬa[ɬ]o,,,1,1
+62339,175,above,"i haho",,,2,1
+62696,176,below,"i haha",,,1,1
+63053,177,this,ienini,,,28,1
+63410,178,that,ine,,,1,1
+63767,179,near,karaini,,,"1, 75",
+64124,180,far,haʔa|tau,,,"1, 18",1
+64481,181,where?,itei,,,36,
+64838,182,I,in|eu,,,"1, 22",1
+65195,183,thou,iʔoe,,,1,?
+65552,184,he/she,iŋeʔ|ie,,,"1, 68",1
+118955,185,we,ikolu,,,22,1
+118956,185,we,i|ʔomu,,,2,
+66266,186,you,i|ʔomu,,,1,1
+66623,187,they,i|k|ire,,,"1, 69",1
+66980,188,what?,taha,,,1,1
+67337,189,who?,atei,,,"1, 68",1
+68051,191,all,älu,,,,
+68408,192,and,na,,,7,1
+68765,193,if,a|na,,,6,
+69122,194,how?,ʔue,,,1,1
+69479,195,"no, not",häike,,,71,
+69836,196,"to count",idu,,,46,1
+70193,197,One,eta,,,32,1
+70550,198,Two,rue,,,1,1
+70907,199,Three,olu,,,1,1
+71264,200,Four,hai,,,"1,65",1
+83775,201,Five,nima,"Hand-arm.(Source: Pollex); irregular *l > n",,"1, 15",
+83677,203,Seven,hiu,"Seven.(Source: Pollex)",,1,
+90597,204,Eight,walu,"Pollex 06: Walu. :Eight.",,3,
+83363,209,"One Hundred",alo,"One hundred taro. (Source: Pollex)",,,

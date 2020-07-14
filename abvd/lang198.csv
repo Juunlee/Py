@@ -1,0 +1,265 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+198,Woleai,Unknown,woe,wole1240,,"Possible Incorrect Language (Identification based on Three letter acronym)","Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Micronesian, Micronesian Proper, Ponapeic-Trukic, Trukic","Simon Greenhill","Simon Greenhill","@misc{Anonymous-198-2005,  author = \"Anonymous\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+7.96218643195329711659,146.25381429924951248722
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+198,1,hand,gumwushu,,,9,
+555,2,left,paiutakofo,,,,
+912,3,right,paiukofo,,,,
+1269,4,leg/foot,pesheɛ,,,15,
+1626,5,"to walk",lago,,,1,1
+1983,6,road/path,yala,,,1,1
+87247,7,"to come",too-,,,9,
+87248,7,"to come",buu-,,,,
+2697,8,"to turn",sossor,,,13,
+3054,9,"to swim",yafa,,,7,
+3411,10,dirty,pwpwelɪʊ,,,74,
+3768,11,dust,geraatiuyetɪʊ,,,,
+4125,12,skin,gilɪ,,,1,1
+4482,13,back,tagiurɪʊ,,,12,
+4839,14,belly,uba,,,11,
+5196,15,bone,shiu,,,2,
+5553,16,intestines,taa,,,14,
+5910,17,liver,yasɛ,,,1,1
+6267,18,breast,tiutɪʊ,,,1,1
+6624,19,shoulder,yarafa,,,1,1
+6981,20,"to know, be knowledgeable",giula-a,,,18,
+88454,21,"to think",yagi-yagi,,,12,
+88455,21,"to think",mangi-a,,,11,
+7695,22,"to fear",metagʊ,,,1,1
+8052,23,blood,chaa,,,1,1
+8409,24,head,shimwa,,,11,
+8766,25,neck,iuwa,,,18,
+9123,26,hair,yan-ni-shimwa,"yan = hair, shimwa = head",,11,
+9480,27,nose,-bootɪ,,,"1,12",1
+9837,28,"to breathe",ng-ngasa,,,10,
+10194,29,"to sniff, smell",ngiuri-a,,,32,
+10551,30,mouth,yawa,,,36,
+10908,31,tooth,ngii,,,30,?
+11265,32,tongue,lewɛ,,,17,
+88783,33,"to laugh",ffasa,,,10,
+88784,33,"to laugh",mmalɪ,,,3,
+11979,34,"to cry",tangɪ,,,1,1
+12336,35,"to vomit",mwmwuta,,,1,1
+12693,36,"to spit",kutʊ,,,"14, 89",
+89299,37,"to eat",mwongoo,,,8,1?
+89300,37,"to eat",gangiɪ,,,1,
+13407,38,"to chew",ngiu-,,,11,
+13764,39,"to cook",ga-metaa,,,"19, 82",
+73482,40,"to drink",iulɪʊ,,,1,1
+73483,40,"to drink",iuliumiɪ,,,1,1
+73573,41,"to bite",giu-wa,,,9,1
+73574,41,"to bite",giu-giu,,,9,1
+14835,42,"to suck",soro-,,,66,
+15192,43,ear,talinga,,,1,1
+15549,44,"to hear",rongo-rongo,,,1,1
+15906,45,eye,mata,,,1,1
+16263,46,"to see",weriɪ,,,10,
+16620,47,"to yawn",moa-li-gatelɪʊ,,,19,1
+16977,48,"to sleep",masiurɪʊ,,,1,1
+17334,49,"to lie down",wolo-,,,1,1?
+17691,50,"to dream",ttala,,,9,
+18048,51,"to sit",matto,,,"18,101",
+18405,52,"to stand",siu-,,,2,1
+18762,53,"person/human being",yaremata,,,"67,70",1?
+19119,54,man/male,mwaalɛ,,,1,1
+91060,55,woman/female,faifilɛ,,,"1,47",1
+91061,55,woman/female,shaobuto,,,7,
+91128,56,child,lalʊ,,,5,
+91129,56,child,sarɪ,,,7,
+133368,57,husband,"fitiyom mwale",,,,
+133369,58,wife,"fitiyom shoabute",,,,
+91269,59,mother,sila,(mother),,1,1
+91270,59,mother,naanaa,(mummy),,"1, 83",
+21261,60,father,tama,,,1,1
+21618,61,house,imwa,,,"1, 48",1
+21975,62,thatch/roof,yaso,,,1,1
+22332,63,name,ita,,,66,?
+74830,64,"to say",gaaɪʊ,,,144,1?
+74831,64,"to say",serɪʊ,,,14,1?
+23046,65,rope,talɪ,,,1,1
+23403,66,"to tie up, fasten",geogeo,,,113,
+23760,67,"to sew",teeteɛ,,,2,1
+24117,68,needle,shiu,,,66?,
+24474,69,"to hunt",shagee-ya,,,9,
+24831,70,"to shoot",pakkɪ,,,4,
+25188,71,"to stab, pierce",tou-toʊ,,,13,
+75416,72,"to hit",wishii-ya,,,15,
+75417,72,"to hit",wau-ti-a,,,,
+91798,73,"to steal",mwashogo,,,9,?
+91799,73,"to steal",pirafa,,,8,
+26259,74,"to kill",lii-ya,,,11,
+26616,75,"to die, be dead",masɛ,,,1,1
+91926,76,"to live, be alive",melawa,,,7,1
+91927,76,"to live, be alive",maiurɪʊ,,,"1, 76",
+27330,77,"to scratch",geri-gerɪ,,,12,
+92053,78,"to cut, hack",gopii-ya,,,20,
+92054,78,"to cut, hack",tepa-giɪ,,,19,
+28044,79,stick/wood,iuraa,,,2,
+92365,80,"to split",pagiu-a,,,8,1
+92366,80,"to split",tile-ngiɪ,,,29,
+28758,81,sharp,kkangɪ,,,"14,68",1?
+29115,82,"dull, blunt",kkabʊ,,,13,
+29472,83,"to work",yengaanga,,,12,
+29829,84,"to plant",fato-giɪ,,,6,
+30186,85,"to choose",filiɪ,,,1,1
+76233,86,"to grow",chi,,,,
+76234,86,"to grow",tumwula,,,22,
+76235,86,"to grow",fasa,,,23,
+30900,87,"to swell",boo,,,9,?
+31257,88,"to squeeze",fiya-a,,,15,
+31614,89,"to hold",ge-mwmwashiu-a,,,16,
+31971,90,"to dig",gelɪ,,,1,1
+32328,91,"to buy",k-ka-meo,,,11,
+32685,92,"to open, uncover",suugiɪ,,,11,
+102921,93,"to pound, beat",siugiu-siugɪʊ,,,"20, 2",1
+102922,93,"to pound, beat",pwpwoo,,,3,
+33399,94,"to throw",te-ttara,,,103,
+33756,95,"to fall",p-piungɪʊ,,,15,
+34113,96,dog,gelaagʊ,,"Loan < Cha",,
+34470,97,bird,malɪʊ,,,1,1
+34827,98,egg,siugiunnɪʊ,,,"1, 66",
+35184,99,feather,iula,,,30,
+35541,100,wing,palʊ,,,7,
+35898,101,"to fly",yalɪ,,,13,
+36255,102,rat,geshɪ,,,16,
+36612,103,meat/flesh,fitigo,,,10,
+36969,104,fat/grease,kiriisɪ,Loan,L,,
+37326,105,tail,iugɪʊ,,,1,1
+133370,106,snake,labute,,,,
+38040,107,"worm (earthworm)",mwata,,,10,
+38397,108,louse,giusɪʊ,,,1,1
+38754,109,mosquito,lamwʊ,,,1,1
+39111,110,spider,ligesuburaaraa,,,7,
+39468,111,fish,iga,,,1,1
+105201,112,rotten,masha,,,50,
+105202,112,rotten,baa,,,17,
+40182,113,branch,raa,,,1,1
+40539,114,leaf,sheo,,,1,1
+40896,115,root,wagara,,,2,1
+41253,116,flower,peo,,,10,
+41610,117,fruit,uwaa,,,1,1
+41967,118,grass,fatilɪ,,,1,1
+78043,119,earth/soil,talo,,,1,1
+78044,119,earth/soil,salo,,,,1
+78045,119,earth/soil,beolɪʊ,,,13,1
+78104,120,stone,fasɪʊ,,,1,1
+78105,120,stone,faɪʊ,,,1,1
+43038,121,sand,ppiya,,,12,
+43395,122,water,shalɪʊ,,,1,1
+43752,123,"to flow",seetɪ,,,,
+78342,124,sea,tatɪ,,,1,1
+78343,124,sea,satɪ,,,1,1
+44466,125,salt,gasiigaa,"apparent loan from Chamorro (see Bender et al. 2003)",L,,
+44823,126,lake,[leoriya],,,,
+45180,127,woods/forest,walɪʊ,,,17,
+45537,128,sky,langɪ,,,1,1
+45894,129,moon,merama,,,7,
+46251,130,star,fiusiu,,,1,1
+46608,131,cloud,goshoʊ,,,15,
+46965,132,fog,geraatiuyet,,,78,
+47322,133,rain,uta,,,1,1
+107998,134,thunder,pacca,,,"15, 16",
+107999,134,thunder,mangiungiu,,,17,
+48036,135,lightning,were-werɛ,,,11,
+48393,136,wind,yangɪ,,,1,1
+48750,137,"to blow",uguu-a,,,15,
+49107,138,warm,beshɪ,,,10,
+49464,139,cold,feoiu,,,11,
+49821,140,dry,palɛ,,,67,
+50178,141,wet,ccogo,,,12,
+50535,142,heavy,ccaʊ,,,9,
+50892,143,fire,yafɪ,,,1,1
+51249,144,"to burn",fisng-egɪ,,,93,
+51606,145,smoke,gera-atɪʊ,,,2,1
+119310,146,ash,felanga,,,8,
+119311,146,ash,peyasa,,,7,
+52320,147,black,shoalo,,,8,
+52677,148,white,beshɛ,,,11,
+53034,149,red,ccaa,,,97,
+119312,150,yellow,yango-yango,,,9,
+119313,150,yellow,range-ranga,,,13,
+53748,151,green,gaa-rawe-rawa,,,"13, 52",
+79904,152,small,giti-giitɪ,,,80,1
+79905,152,small,-shigɪ,,,81,1
+79906,152,small,cciilɪ,,,,1
+54462,153,big,farɨ-gitɪ,,,,
+54819,154,short,mw-mwosho,,,12,
+55176,155,long,yelaɪ,,,13,
+55533,156,thin,malifɪ,,,1,1
+55890,157,thick,maaliualɪʊ,,,3,
+56247,158,narrow,sheo-gitɪ,,,66,
+56604,159,wide,sheo-lapa,,,"9, 48",
+56961,160,"painful, sick",matagɪ,,,1,1
+57318,161,"shy, ashamed",maa,,,1,1
+57675,162,old,tugofaɪ,,,54,
+58032,163,new,ffeo,,,1,1
+80611,164,good,gaccɪʊ,,,63,
+80612,164,good,fishɪ,,,19,
+58746,165,"bad, evil",ngngawa,,,11,
+80782,166,"correct, true",biungɪʊ,,,12,
+80783,166,"correct, true",nnet,,,67,
+59460,167,night,bongɪ,,,1,1
+59817,168,day,rannɪ,,,6,1
+60174,169,year,ragɪ,,,24,
+60531,170,when?,ileeta,,,"1,24",1
+119191,171,"to hide",yopɛ,,,5,
+119192,171,"to hide",mwalo,,,4,
+61245,172,"to climb",téégiɪ,,,8,
+81131,173,at,la-i-,,,2,1
+81132,173,at,lee-,"irregular initial consonant - *d > r",,20,1
+81133,173,at,ree-,,,20,1
+81134,173,at,i-,,,1,1
+61959,174,"in, inside",lalo-,,,1,1
+62316,175,above,woa-,,,2,?
+62673,176,below,faa-,,,1,1?
+63030,177,this,ye,,,"1, 18",
+63387,178,that,la,,,1,1
+63744,179,near,garepa,,,13,
+64101,180,far,ttawa,,,1,
+64458,181,where?,iiya,,,37,
+123664,182,I,gaangɪʊ,foc.pron,,12,
+123665,182,I,i,"subj.pron. obj.pron",,x,
+123666,182,I,-aɪ,poss.pron,,x,
+123667,182,I,-yɪ,,,x,
+123548,183,thou,geela,foc.pron,,6,?
+123549,183,thou,go,subj.pron.,,1,
+123550,183,thou,-go,obj.pron,,1,
+123551,183,thou,-mwʊ,poss.pron,,x,
+132625,184,he/she,iiya,foc.pron,,1,1
+132626,184,he/she,ye,subj.pron,,x,
+132627,184,he/she,-a-,obj.pron,,x,
+132628,184,he/she,-la,poss.pron,,x,
+123803,185,we,giisha,foc.pron,,"1, 42",1
+123804,185,we,si,subj.pron.,,9,
+123805,185,we,-gisha,obj.pron,,"1, 42",
+123806,185,we,-sha,poss.pron,,"1, 42",
+123302,186,you,gaamiɪ,foc.pron,,"1,13",1
+123303,186,you,gai,subj.pron.,,x,
+123304,186,you,-gamiɪ,obj.pron,,x,
+123305,186,you,-miɪ,poss.pron,,x,
+123379,187,they,iira,foc.pron,,"1, 70",
+123380,187,they,re,subj.pron,,"1, 70",1
+123381,187,they,-ira,obj.pron,,"1, 70",
+123382,187,they,-ira,poss.pron,,"1, 70",
+66957,188,what?,mettaa,,,"1, 64",1
+67314,189,who?,iteɪʊ,,,9,
+133404,190,other,"shokela semweou",,,27,
+133405,190,other,shokelale,,,27,
+82429,191,all,ilegi-,,,,
+82430,191,all,paanga,,,,
+122964,192,and,me,,,2,1
+122965,192,and,nge,,,10,
+68742,193,if,gareɛ,,,7,
+69099,194,how?,ifaa,,,12,
+123596,195,"no, not",eeba,,,14,
+123597,195,"no, not",-taɪ,,,4,
+123413,196,"to count",paa-paa,,,11,
+123414,196,"to count",wate-watɛ,,,10,
+82833,197,One,yeta,,,1,1
+82834,197,One,se-,,,14,1
+70527,198,Two,riuwa-,,,1,1
+82968,199,Three,yelɪ,,,1,1
+82969,199,Three,selɪ-,,,1,1
+83046,200,Four,fangɪ,,,"1, 67",1
+83047,200,Four,faa-,,,"1, 66",1

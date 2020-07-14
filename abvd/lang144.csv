@@ -1,0 +1,218 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+144,"Western Bukidnon Manobo","Lawrence A. Reid",mbb,west2555,,,"Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Manobo, Central, West","Peng Du","Simon Greenhill","@book{136553,  address               = {[Honolulu]},  note                  = {Bibliography: p. [241]},  pages                 = {xii+239},  publisher             = {Univ. of Hawaii Press},  series                = {Oceanic linguistics special publication},  title                 = {Philippine minor languages: word lists and phonologies},  volume                = {8},  year                  = {1971},  bibtexkey             = {reid_minor-phonologies1971},  class_loc             = {PL5525},  document_type         = {B},  fn                    = {papua\reid_philippine-minor1971.pdf},  hhtype                = {overview;comparative;wordlist},  inlg                  = {English [eng]},  inlg_code             = {eng},  internetarchive_id    = {rosettaproject_syb_phon-1},  isbn                  = {9780870226915},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 5525 PHI 1971},  src                   = {hh, mpieva, wals},  srctrickle            = {hh#hvw:Reid:Philippine-Minor, mpieva#1971Philippi, wals#4987},  subject_headings      = {Philippine languages–Glossaries, vocabularies, etc., Philippine languages–Phonology, Philippine languages–Glossaries, vocabularies, etc. – Philippine languages–Phonology},  author                = {Reid, Lawrence Andrew},  editor                = {Reid, Lawrence Andrew}}"
+latitude,longitude
+7.66744148272606818040,124.71679687500000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+144,1,hand,bɨlad,,,31,
+501,2,left,givaŋ,,,24,
+858,3,right,kewanen,,,"1,62",1
+1215,4,leg/foot,paʔa,,,20,
+1572,5,"to walk",hipanew,,,2,1
+1929,6,road/path,dalan,,,1,1
+2286,7,"to come",hendini,"come here",,82,
+2643,8,"to turn",biyu,,,24,?
+3000,9,"to swim",laŋuy,,,1,1
+3357,10,dirty,remerik,,,,
+3714,11,dust,eliyavuk,,,"1,48",1
+4071,12,skin,lundis,,,44,
+4428,13,back,peka,,,48,
+4785,14,belly,getek,,,55,
+5142,15,bone,tulan,,,1,1
+5499,16,intestines,bituka,,,21,1
+5856,17,liver,atey,,,1,1
+6213,18,breast,susu,,,1,1
+6570,19,shoulder,pemenayen,,,34,
+6927,20,"to know, be knowledgeable",tendek,,,,
+7284,21,"to think",isip,,,23,
+7641,22,"to fear",handek,,,39,
+7998,23,blood,leŋesa,,,24,
+8355,24,head,ulu,,,1,1
+8712,25,neck,liʔeg,,,1,1
+9069,26,hair,bulvul,,,26,
+9426,27,nose,izuŋ,,,1,1
+9783,28,"to breathe",gehinawa,,,"1,70",1
+10140,29,"to sniff, smell",hazek,,,1,1
+10497,30,mouth,baʔbaʔ,,,1,1
+10854,31,tooth,ŋipen,,,"1,48",1
+11211,32,tongue,dilaʔ,,,4,1
+11568,33,"to laugh",eŋit,,,34,
+73072,34,"to cry",luǥib,,,26,
+73073,34,"to cry",sinegew,,,25,
+12282,35,"to vomit",utaʔ,,,1,1
+12639,36,"to spit",ileb,,,39,
+12996,37,"to eat",kaʔan,,,1,1
+13353,38,"to chew",sepaʔ,,,17,
+13710,39,"to cook",suba,,,31,
+14067,40,"to drink",inum,,,1,1
+14424,41,"to bite",kaǥat,,,1,1
+14781,42,"to suck",supsup,,,"1,73",1
+15138,43,ear,teliŋa,,,1,1
+15495,44,"to hear",dineg,,,"1,15",1?
+15852,45,eye,mata,,,1,1
+16209,46,"to see",ahaʔ,,,39,
+16566,47,"to yawn",heyʔam,,,,
+16923,48,"to sleep",lipezeŋ,,,36,
+17280,49,"to lie down",hizeǥaʔ,,,"19,30",
+17637,50,"to dream",teǥiʔinep,,,30,
+17994,51,"to sit",pinuʔu,,,58,
+18351,52,"to stand",hitindeg,,,20,
+18708,53,"person/human being",etew,,,"1,23",1
+19065,54,man/male,meʔama,,,39,
+19422,55,woman/female,bahi,,,1,1
+19779,56,child,bataʔ,,,16,
+20136,57,husband,esawa,,,2,1
+20493,58,wife,esawa,,,1,1
+74481,59,mother,iney,,,"1,14",1
+74482,59,mother,ineʔ,,,"1,76",1
+74548,60,father,amey,,,"1,36",1
+74549,60,father,amaʔ,,,"1,18",1
+21564,61,house,baley,,,14,
+21921,62,thatch/roof,atep,,,1,
+22278,63,name,ŋazan,,,1,1
+22635,64,"to say",kaǥi,,,1,1
+91428,65,rope,tali,,,1,1
+91429,65,rope,pisiʔ,,,22,
+23349,66,"to tie up, fasten",hiket,,,1,1
+23706,67,"to sew",tahi',,,1,1?
+24063,68,needle,raǥum,,,1,1
+24420,69,"to hunt",anup,,,1,1
+24777,70,"to shoot",panaʔ,,,1,1
+25134,71,"to stab, pierce",sundaŋ,,,,
+25491,72,"to hit",pukpuk,,,24,
+25848,73,"to steal",takew,,,1,1
+26205,74,"to kill",himatey,,,2,
+26562,75,"to die, be dead",minatey,,,1,1
+26919,76,"to live, be alive",uyag,,,16,
+27276,77,"to scratch",kutkut,,,21,?
+27633,78,"to cut, hack",getas,"string, etc.",,,
+27990,79,stick/wood,kayu,,,1,1
+28347,80,"to split",gurey,,,,
+28704,81,sharp,garaŋ,,,41,
+29061,82,"dull, blunt",dumpel,,,3,1
+29418,83,"to work",baʔul,,,,
+29775,84,"to plant",pemula,,,"1,31",1
+30132,85,"to choose",piliʔ,,,1,1
+30489,86,"to grow",tuvuʔ,,,1,1
+30846,87,"to swell",levag,,,,
+76372,88,"to squeeze",kemes,,,30,1?
+76373,88,"to squeeze",kemuʔ,,,,1?
+31560,89,"to hold",kemkem,,,"1,45",1
+76516,90,"to dig",baŋbaŋ,,,24,
+76517,90,"to dig",kalut,,,1,
+32274,91,"to buy",pemasa,,,22,
+32631,92,"to open, uncover",puwas,,,64,
+32988,93,"to pound, beat",bevayu,,,1,1
+33345,94,"to throw",timbag,,,34,
+33702,95,"to fall",ulug,,,49,
+34059,96,dog,asu,,,1,1
+34416,97,bird,tagbis,,,76,
+34773,98,egg,impis,,,28,
+35130,99,feather,bulvul,,,"1,68",
+35487,100,wing,pakpak,,,33,
+35844,101,"to fly",layaŋ,,,81,
+36201,102,rat,rumat,,,44,
+36558,103,meat/flesh,usa,,,,
+36915,104,fat/grease,taveʔ,,,23,
+37272,105,tail,ikug,,,1,1
+37629,106,snake,uled,,,"2,33",
+37986,107,"worm (earthworm)",liwati,,,1,1
+38343,108,louse,kutuʔ,,,1,1
+38700,109,mosquito,reŋit,,,21,
+39057,110,spider,kelelawaʔ,,,1,1
+39414,111,fish,paʔit,,,44,
+39771,112,rotten,redak,,,43,
+40128,113,branch,subpaŋ,,,,
+40485,114,leaf,dahun,,,1,1
+40842,115,root,dalid,,,9,1
+77899,116,flower,kevukad,,,,
+77900,116,flower,bulak,,,22,
+41556,117,fruit,beǥas,,,15,
+41913,118,grass,sagbet,,,23,
+42270,119,earth/soil,tanaʔ,,,1,1
+42627,120,stone,batu,,,1,1
+42984,121,sand,pantad,,,22,
+43341,122,water,wahig,,,2,1
+44055,124,sea,daǥat,,,25,1
+44412,125,salt,timus,,,2,1
+44769,126,lake,ranew,,,1,1
+45126,127,woods/forest,ketelunan,,,30,
+45483,128,sky,laŋit,,,1,1
+45840,129,moon,bulan,,,1,1
+46197,130,star,bituʔen,,,1,1
+46554,131,cloud,gapun,,,1,1?
+47268,133,rain,uzan,,,1,1
+47625,134,thunder,raǥuŋ,,,33,?
+47982,135,lightning,kilat,,,1,1
+48339,136,wind,keramag,,,42,
+48696,137,"to blow",hiyup,,,1,1
+49053,138,warm,init,,,23,
+49410,139,cold,genew,,,37,
+49767,140,dry,maza,,,26,1
+50124,141,wet,hames,,,30,
+50481,142,heavy,beǥat,,,1,1
+50838,143,fire,hapuy,,,1,1
+51195,144,"to burn",binsul,,,38,
+51552,145,smoke,evel,,,1,
+51909,146,ash,ibmuk,,,,
+52266,147,black,item,,,1,1
+52623,148,white,putiʔ,,,1,1
+52980,149,red,riǥeʔ,,,"1,108",1?
+53337,150,yellow,kelawag,,,38,
+53694,151,green,ilem,,,40,1
+54051,152,small,deʔisek,,,"1,121",
+54408,153,big,dekeleʔ,,,"22,23",
+54765,154,short,bavaʔ,,,54,1
+55122,155,long,layat,,,45,
+55479,156,thin,nipis,,,1,1
+55836,157,thick,kepal,,,1,1
+56193,158,narrow,liǥet,,,"1,76",
+56550,159,wide,luʔag,,,62,1
+56907,160,"painful, sick",sakit,,,1,1
+57264,161,"shy, ashamed",eled,,,67,
+57621,162,old,guraŋ,,,21,
+57978,163,new,beǥu,,,"1,54",1
+58335,164,good,upiya,,,1,1
+58692,165,"bad, evil",daʔat,,,1,1
+59049,166,"correct, true",benar,,L,1,
+59406,167,night,dukilem,,,"20,37",
+59763,168,day,andew,,,"1,56",1
+60120,169,year,tuʔig,,,33,
+80940,170,when?,keʔenu,,,"10,19",
+80941,170,when?,heʔin,,,,
+60834,171,"to hide",eles,,,23,
+61191,172,"to climb",pemenahik,,,"1,61",1
+81117,173,at,di,,,20,1
+81118,173,at,duʔen,,,39,1
+61905,174,"in, inside",seled,,,14,
+62262,175,above,divavew,,,2,1
+62619,176,below,dizalem,"cp SAM",,20,
+62976,177,this,heʔini,,,1,1
+81484,178,that,heʔazaʔ,,,53,
+81485,178,that,heʔeyan,,,3,
+81599,179,near,uvey,,,46,1
+81600,179,near,rani,,,1,1
+64047,180,far,diyuʔ,,,"1,39",
+64404,181,where?,hendeʔi,,,"1,32",
+64761,182,I,siʔak,,,"1,31",1
+65118,183,thou,sikew,,,"1,30",1
+65475,184,he/she,sikandin,,,"1,36",
+113943,185,we,sikitew,,,1,1
+113944,185,we,sikami,,,"2,52",
+66189,186,you,sikiyu,,,"1,43",
+66546,187,they,sikandan,,,"1,56",
+66903,188,what?,heŋkey,,,26,
+67260,189,who?,henteʔi,,,15,
+82358,190,other,seveha,,,"17,57",
+82359,190,other,selakew,,,,
+82415,191,all,elin,,,41,
+82416,191,all,laŋun,,,40,
+68331,192,and,wey,,,,
+82596,193,if,emun,,,"3,24",1
+82597,193,if,ke,,,"1,71",1
+69045,194,how?,menu,,,29,
+69402,195,"no, not",keneʔ,,,37,
+69759,196,"to count",bilaŋ,,,1,1
+70116,197,One,seveha,,,"1,62",
+70473,198,Two,dezuwa,,,"1,23",1
+70830,199,Three,tetelu,,,"1,14",1
+71187,200,Four,heʔepat,,,"1,15",1

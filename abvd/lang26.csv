@@ -1,0 +1,225 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+26,Motu,"Blust, from: Lister-Turner & Clark (1930)",meu,motu1246,"Lister-Turner, Rev. R., & Clark, Rev. J.B. (1930). A Grammar of the Motu language of Papua. Government Printer: Sydney",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Papuan Tip, Peripheral, Central Papuan, Sinagoro-Keapara","Simon Greenhill","Simon Greenhill","@book{119011,  address    = {Sydney},  edition    = {2},  pages      = {91},  publisher  = {A. H. Pettifer, Goverment Printer},  title      = {A Grammar of the Motu Language of Papua},  year       = {1931},  bibtexkey  = {clark-lister-turner_motu-papua1931},  fn         = {papua\turner-clark_motu1931.pdf},  hhtype     = {grammar_sketch},  inlg       = {English [eng]},  inlg_code  = {eng},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#s:Lister-TurnerClark:Motu},  author     = {Lister-Turner, R. and Clark, J. B.}}"
+latitude,longitude
+-9.42738661503235064743,147.16186523437500000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+26,1,hand,ima,,,1,1
+383,2,left,lauri,,,"1,73",1
+740,3,right,idiba,,,22,
+1097,4,leg/foot,ae,,,1,1
+1454,5,"to walk",raka,,,,?
+1811,6,road/path,dala,,,1,1
+2168,7,"to come",mai,,,1,1
+2525,8,"to turn",kerehai,,,,
+2882,9,"to swim",nahu,,,51,
+3239,10,dirty,miro,,,142,
+3596,11,dust,k|ahu,,,17,1?
+3953,12,skin,kopi,,,15,
+4310,13,back,doru,,,12,
+4667,14,belly,boga,,,21,
+5024,15,bone,turia,,,40,
+5381,16,intestines,bogarau,,,89,
+5738,17,liver,ase,,,1,1
+6095,18,breast,rata,,,59,
+6452,19,shoulder,pāga,,,17?,1?
+6809,20,"to know, be knowledgeable",diba,,,66,
+7166,21,"to think",lalo-a,insides,,96,
+7523,22,"to fear",gari,,,86,
+7880,23,blood,rara,,,1,1
+8237,24,head,kwara,,,44,
+8594,25,neck,aio,,,31,
+8951,26,hair,hui,,,31,
+9308,27,nose,udu,,,1,1
+9665,28,"to breathe",laḡa,,,46,
+10022,29,"to sniff, smell",bona-ia,,,42,
+10379,30,mouth,udu,,,2,
+10736,31,tooth,ise,,,24,1
+11093,32,tongue,mala,,,7,?
+11450,33,"to laugh",kiri,,,67,
+11807,34,"to cry",tai,,,1,1
+12164,35,"to vomit",mumuta,,,1,1
+12521,36,"to spit",kanudi,,,"14, 84",
+12878,37,"to eat",ani-a,,,1,1
+13235,38,"to chew",ḡaua-ia,,,8,
+13592,39,"to cook",nadu-a,,,3,1
+13949,40,"to drink",inu-a,,,1,1
+14306,41,"to bite",kori-a,,,45,
+14663,42,"to suck",topo-a,,,"1, 32",
+15020,43,ear,taia,,,1,1
+15377,44,"to hear",kamonai,,,41,
+15734,45,eye,mata,,,1,1
+16091,46,"to see",ita-ia,,,1,1
+16448,47,"to yawn",mava,,,19,1
+16805,48,"to sleep",mahuta,,,15,
+17162,49,"to lie down",eno,,,1,1
+17519,50,"to dream",nihi,,,"1, 60",1
+17876,51,"to sit",helai,,,,
+18233,52,"to stand",gini,,,67,
+18590,53,"person/human being",tau,,,1,1
+18947,54,man/male,marurane,,,"1,69",1
+167752,54,man/male,tau,,,22,
+167753,54,man/male,mero,'child',,x,
+19304,55,woman/female,hahine,,,"1,106",1
+19661,56,child,natu-na,,,5,
+20018,57,husband,adava-na,,,2,1
+20375,58,wife,adava-na,,,1,
+20732,59,mother,sina-na,,,1,1
+21089,60,father,tama-na,,,1,1
+21446,61,house,ruma,,,1,1
+21803,62,thatch/roof,biri,,,68,
+22160,63,name,lada,,,"1,18",1
+74742,64,"to say",toma,,,161,
+74743,64,"to say",gwau,,,98,
+22874,65,rope,kwanau,,,20,
+23231,66,"to tie up, fasten",mata-ia,,,147,
+23588,67,"to sew",turi,,,13,
+23945,68,needle,kobi,,,42,
+24302,69,"to hunt",labana,,,50,
+24659,70,"to shoot",pidia,,,22,
+25016,71,"to stab, pierce",gwadaia,,,,
+25373,72,"to hit",bota-ia,,,116,
+25730,73,"to steal",henao,,,"1,32",1
+26087,74,"to kill",ala-ia,,,,
+26444,75,"to die, be dead",mase,,,1,1
+26801,76,"to live, be alive",mauri,,,"1, 76",1
+27158,77,"to scratch",ḡaḡaro-a,,,1,1?
+27515,78,"to cut, hack",tara-ia,,,1,1
+27872,79,stick/wood,au,,,1,1
+28229,80,"to split",pola-ia,,,1,1
+28586,81,sharp,gano,,,51,
+28943,82,"dull, blunt",buru,,,"1,33",
+29300,83,"to work",ḡaukara,,,,
+30014,85,"to choose",hidi-a,,,2,?
+30371,86,"to grow",tubu,,,1,1
+30728,87,"to swell",gudu,,,,
+31085,88,"to squeeze",gigi-a,,,,
+31442,89,"to hold",kahu-a,,,,
+31799,90,"to dig",ḡei-a,,,1,1?
+32156,91,"to buy",hoi-a,,,1,1
+32513,92,"to open, uncover",keho-a,,,47,
+32870,93,"to pound, beat",bidi-a,,,,
+33227,94,"to throw",taho-a,,,98,
+33584,95,"to fall",moru,,,57,
+33941,96,dog,sisia,,,34,
+34298,97,bird,manu,,,1,1
+34655,98,egg,gatoi,,,1,1
+35012,99,feather,hui,,,1,1
+35369,100,wing,hani,,,2,1
+35726,101,"to fly",roho,,,1,1
+36083,102,rat,bita,,,,
+36440,103,meat/flesh,hidio,,,10,
+36797,104,fat/grease,diḡara,,,103,
+37154,105,tail,iu,,,1,1
+37511,106,snake,gaigai,,,30,
+37868,107,"worm (earthworm)",biluga,,,,
+38225,108,louse,utu,,,1,1
+38582,109,mosquito,nāmo,,,1,?
+38939,110,spider,magera,,,,
+39296,111,fish,gwarume,,,,
+39653,112,rotten,pouka,,,,
+40010,113,branch,rigi,,,"1,14",
+40367,114,leaf,rau,,,1,1
+40724,115,root,ramu-na,,,3,1
+41081,116,flower,"au bure-na",,,22,
+41438,117,fruit,"au huahua",,,1,1
+41795,118,grass,kudekude,,,,
+42152,119,earth/soil,tano,,,1,1
+42509,120,stone,nadi,,,,
+42866,121,sand,raria,,,,
+43223,122,water,ranu,,,1,1
+43580,123,"to flow",aru,,,21,
+43937,124,sea,davara,,,39,
+44294,125,salt,damena,,,25,
+44651,126,lake,gohu,,,15,
+45008,127,woods/forest,uda,,,"7,20",1?
+45365,128,sky,guba,,,17,
+45722,129,moon,hua,,,1,1
+46079,130,star,hisiu,,,1,1
+46436,131,cloud,ori,,,52,
+78695,132,fog,ḡahu,,,1,1
+78696,132,fog,ninoa,,,107,1
+47150,133,rain,medu,,,,
+47507,134,thunder,"guba rahua",,,"98, 103",
+47864,135,lightning,kevaru,,,,
+48221,136,wind,lai,"breeze, wind in general",,1,1
+129020,136,wind,lahara,"\"north-west wind, and season\" (Lister-Turner and Clark)",,74,
+129021,136,wind,laurabada,"south-east wind",,20,
+108093,137,"to blow",toa,"toa (b)",,20,
+108094,137,"to blow",hiriria,"hiriria (b)",,79,
+48935,138,warm,siahu,,,21,
+49292,139,cold,keruma,(?),,,
+49649,140,dry,kaukau,,,112,
+50006,141,wet,paripari,,,,
+50363,142,heavy,metau,,,48,
+50720,143,fire,lahi,,,1,1
+51077,144,"to burn",ara-ia,,,17,
+51434,145,smoke,kwalahu,,,16,
+51791,146,ash,rahurahu,,,67,
+52148,147,black,koremakorema,,,,
+52505,148,white,kuro[kuro],,,74,
+52862,149,red,kakakaka,,,26,
+53219,150,yellow,laboralabora,,,41,
+53576,151,green,gadokagadoka,,,,
+53933,152,small,maragi,,,71,
+54290,153,big,bada,,,66,
+54647,154,short,kwadogi,,,,
+55004,155,long,lata,,,,
+55361,156,thin,severasevera,,,,
+55718,157,thick,uduna,,,,
+56075,158,narrow,iora,,,,
+56432,159,wide,lababa,,,48,?
+56789,160,"painful, sick",hisi,,,95,
+57146,161,"shy, ashamed",hemarai,"-r- for expected -l-.",,1,
+57503,162,old,iahu,,,,
+57860,163,new,matamata,,,19,
+58217,164,good,namo,,,27,
+58574,165,"bad, evil",dika,,,14,
+58931,166,"correct, true",maoro,,,97,
+59288,167,night,hanua|boi,,,1,1
+59645,168,day,dina,,,11,
+60002,169,year,laḡani,,,16,
+60359,170,when?,edananegai,,,,
+60716,171,"to hide",huni-a,,,1,1
+61073,172,"to climb",dadadae,,,2,
+61430,173,at,ai,,,12,?
+61787,174,"in, inside",lalo-nai,,,1,1
+62144,175,above,atai,,,1,1?
+62501,176,below,henuai,,,56,
+62858,177,this,ina,,,67,
+81443,178,that,ena,,,1,?
+81444,178,that,una,,,1,?
+63572,179,near,kahirakahira,,,106,
+63929,180,far,daudau,,,1,1
+64286,181,where?,edesini,,,,
+64643,182,I,lau,,,"1,21",1
+65000,183,thou,oi,,,1,?
+65357,184,he/she,ia,,,1,1
+121170,185,we,ita,"ita (incl.)",,1,1
+121171,185,we,ai,"ai (excl.)",,,
+66071,186,you,umui,,,"1,13",
+66428,187,they,idia,,,25,?
+66785,188,what?,daha|ka,,,1,1
+67142,189,who?,dai|ka,,,1,1
+67499,190,other,idau,,,,
+67856,191,all,ibou-,,,93,
+68213,192,and,mai,,,"2, 46",1?
+167751,192,and,bona,,,27,
+68570,193,if,be|ma,"3rd sg.",,"28,3",
+68927,194,how?,edeheto,,,,
+121172,195,"no, not",asi,,,1,1
+121173,195,"no, not",dia,,,2,
+69641,196,"to count",duahi-a,,,19,
+69998,197,One,ta[mona],,,14,
+70355,198,Two,rua,,,1,1
+70712,199,Three,toi,,,1,1
+71069,200,Four,hani,,,"1,69",1
+154808,201,Five,Ima,,,1,
+167750,202,Six,tauratoi,"'double 3'",,44,
+177236,203,Seven,hitu,,,1,
+254408,204,Eight,taurahani,"'double four'",,33,
+254407,205,Nine,"taurahani ta",,,,
+254406,206,Ten,kauta,,,46,
+254405,207,Twenty,"rua ahui",,,"3,6",
+254404,208,Fifty,"ima ahui",,,1,
+254403,209,"One Hundred",sinahu,,,37,
+254402,210,"One Thousand",daha,,,,

@@ -1,0 +1,243 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+117,Roviana,"Blust from: Waterhouse (1949)",rug,rovi1238,"Waterhouse, J.H.L. (1949). A Roviana and English Dictionary, With English-Roviana Index and List of Natural History Objects and Appendix of Old Customs. Revised and enlarged by L. M. Jones. Sydney: Epworth Printing and Publishing House.",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, South New Ireland-Northwest Solomonic, New Georgia, West","Peng Du","Simon Greenhill","@book{319882,  address    = {Sydney},  pages      = {245},  publisher  = {Epworth Publishin House},  title      = {A Roviana and English Dictionary},  year       = {1949},  bibtexkey  = {jones-waterhouse_roviana-dictionary1949},  fn         = {papua\waterhouse-jones_roviana1949.pdf},  hhtype     = {grammar_sketch;dictionary},  inlg       = {English [eng]},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#sd:WaterhouseJones:Roviana},  author     = {Waterhouse, J. H. L. and Jones, L. M.}}"
+latitude,longitude
+-8.25498270487786278693,157.32421875000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+117,1,hand,lima-na,,,1,1
+474,2,left,gede-na,"Correction: Glo Oxenham (Native Speaker)",,16,
+831,3,right,matao-na,,,"5,13",1
+1188,4,leg/foot,nene-na,,,19,
+1545,5,"to walk",ene,,,11,
+1902,6,road/path,siraŋa,,,36,
+2259,7,"to come",mae,,,1,1
+2616,8,"to turn",taliri,,,46,
+2973,9,"to swim",tunuru,,,55,
+3330,10,dirty,boni-na,"cf 'night'",,16,
+3687,11,dust,kavuru,,,72,?
+4044,12,skin,kapu-na,,,50,
+4401,13,back,mudi-na,,,3,
+4758,14,belly,tia-na,,,1,1
+5115,15,bone,susuri-na,,,52,
+5472,16,intestines,lagu-na,,,39,
+5829,17,liver,bero-na,,,22,
+6186,18,breast,susu-na,,,1,1
+6543,19,shoulder,avara-na,,,1,1
+72300,20,"to know, be knowledgeable",gila,,,18,
+72301,20,"to know, be knowledgeable",tuma,,,,
+7257,21,"to think",balabala-ia,,,17,
+7614,22,"to fear",matagutu,,,1,1
+7971,23,blood,ehara-na,,,,
+8328,24,head,batu-na,,,9,
+8685,25,neck,rua-na,,,18,
+9042,26,hair,kalu-na,,,24,
+9399,27,nose,isu-na,,,1,1
+9756,28,"to breathe",siŋo,,,20,
+10113,29,"to sniff, smell",humaŋa,,,15,
+10470,30,mouth,ŋuzu,,,2,
+10827,31,tooth,livo-na,,,"1,35",1
+11184,32,tongue,mea-na,,,7,
+11541,33,"to laugh",hegere,,,69,
+11898,34,"to cry",kabo,,,6,
+12255,35,"to vomit",lua,,,8,
+12612,36,"to spit",loro-a,,,37,
+12969,37,"to eat",gani-a,,,1,1
+133424,37,"to eat",hena,,,,
+13326,38,"to chew",hamu-a,,,21,
+13683,39,"to cook",kina-ia,,,55,
+133425,39,"to cook",laro-a,,,56,
+14040,40,"to drink",napo-a,,,9,
+14397,41,"to bite",garat-ia,,,1,1
+14754,42,"to suck",isuru,,,,
+15111,43,ear,taliŋa-na,,,1,1
+15468,44,"to hear",avos-ia,,,11,
+15825,45,eye,mata-na,,,1,1
+16182,46,"to see",dogor-ia,,,57,
+16539,47,"to yawn",mava,,,19,1
+16896,48,"to sleep",puta,,,15,
+17253,49,"to lie down",eko,,,11,
+17610,50,"to dream",putagita,,,"34, 38",
+17967,51,"to sit",habotu,,,78,
+18324,52,"to stand",turu,,,"2,69",1
+74150,53,"person/human being",tinoni,,,10,
+74151,53,"person/human being",tie,,,,
+19038,54,man/male,"[ko] koreo","young man",,,
+133426,54,man/male,palabatu,"Married Man",,x,
+133427,54,man/male,balogoso,,,,
+19395,55,woman/female,bari-kaleqe,"married woman",,,
+133428,55,woman/female,vineki,"Young woman",,,
+133429,55,woman/female,kaleqe,"elder woman",,,
+19752,56,child,tu-na,"Loss of *na assuming that it is the article",,"5, 36",
+133430,56,child,koburu-na,,,12,
+20109,57,husband,loa-na,,,,
+133431,57,husband,palabatu,,,54,
+20466,58,wife,loa-na,},,,
+133432,58,wife,bari-kaleqe,,,,
+20823,59,mother,tina-na,,,1,1
+21180,60,father,tama-na,,,1,1
+21537,61,house,vetu,,,,
+21894,62,thatch/roof,"batu vetu",,,,
+22251,63,name,poza-na,,,,
+22608,64,"to say",zama,,,77,
+22965,65,rope,iku,,,15,
+23322,66,"to tie up, fasten",pusi-a,,,32,
+23679,67,"to sew",piti-a,,,19,
+24036,68,needle,nila,loan?,L,16,
+24393,69,"to hunt",hukue,,,19,
+24750,70,"to shoot",gona-ia,,,25,
+25107,71,"to stab, pierce",huma-nia,,,94,
+25464,72,"to hit",seke-a,,,19,
+25821,73,"to steal",hiko-a,,,13,
+26178,74,"to kill",vamate,,,2,
+26535,75,"to die, be dead",mate,,,1,1
+26892,76,"to live, be alive",toa-na,,,8,
+133433,76,"to live, be alive",koa-na,,,,
+27249,77,"to scratch",ŋaloso,,,,
+27606,78,"to cut, hack",magu-a,,,,
+27963,79,stick/wood,huda,,,,
+28320,80,"to split",viqal-ia,,,13,
+28677,81,sharp,ŋaru,,,25,
+75985,82,"dull, blunt",tutukolu,,,31,
+75986,82,"dull, blunt",ŋuŋuru,,,19,
+29391,83,"to work",tavet-ia,,,17,
+29748,84,"to plant",lete-a,,,47,
+76174,85,"to choose",vilas-ia,,,,
+76175,85,"to choose",vizat-ia,,,,
+76220,86,"to grow",toqolo,,,27,
+76221,86,"to grow",lovuru,,,14,
+133434,86,"to grow",toa,,,4,
+30819,87,"to swell",moqo,,,"24, 56",
+31176,88,"to squeeze",mono-a,,,23,
+31533,89,"to hold",taŋini-a,,,19,
+31890,90,"to dig",geli-a,,,1,1
+32247,91,"to buy",holu-a,,,1,
+32604,92,"to open, uncover",tukele,,,,
+32961,93,"to pound, beat",kikia,,,18,
+33318,94,"to throw",qiri,,,,
+33675,95,"to fall",hoqa,,,77,
+34032,96,dog,siki,,,11,
+34389,97,bird,"kurukuru tapuru",,,14,
+34746,98,egg,vovoto,,,12,
+35103,99,feather,kalu-na,,,9,
+35460,100,wing,tatapuru-na,,,15,
+35817,101,"to fly",tapuru,,,15,
+36174,102,rat,kurezu,"irreg reflex",,"3,62",
+36531,103,meat/flesh,masa-na,,,43,
+36888,104,fat/grease,deana,,,18,
+37245,105,tail,pikutu-na,,,37,
+37602,106,snake,noki,,,19,
+37959,107,"worm (earthworm)",pilaka,,,,
+133435,107,"worm (earthworm)",nokinoki,,,28,
+38316,108,louse,gutu,,,1,1
+38673,109,mosquito,roqo,,,50,
+39030,110,spider,kaqa,,,1,
+39387,111,fish,igana,,,1,1
+39744,112,rotten,muzi,,,,
+40101,113,branch,lelaŋa-na,,,1,
+40458,114,leaf,elo-na,,,11,
+40815,115,root,karoso-na,,,,
+41172,116,flower,havoro-na,,,15,
+41529,117,fruit,vua-na,,,1,1
+41886,118,grass,duduli,,,18,
+42243,119,earth/soil,pepeso,,,16,
+42600,120,stone,patu,,,1,1
+42957,121,sand,on|one,,,1,1
+43314,122,water,kolo-na,,,7,
+43671,123,"to flow",totolo,+,,15,
+44028,124,sea,lamana,,,14,
+133436,124,sea,"kolo hokala",,,45,
+44385,125,salt,soloti,,L,,
+44742,126,lake,kopi,,,27,
+45099,127,woods/forest,hiqohiqo,,,,
+45456,128,sky,maŋauru,,,,
+45813,129,moon,sidara,,,36,
+46170,130,star,pinopino,,,"1,40",
+46527,131,cloud,lei,,,56,
+78708,132,fog,kovele,,,13,
+78709,132,fog,rovu,,,3,
+47241,133,rain,ruku,,,10,
+47598,134,thunder,"paka maŋauru",,,65,
+47955,135,lightning,kapi,,,13,
+48312,136,wind,givusu,,,65,
+48669,137,"to blow",ivu-a,,,5,
+49026,138,warm,maŋini,,,16,
+49383,139,cold,ibu,,,16,
+49740,140,dry,popa,,,18,
+50097,141,wet,boboso,,,16,
+50454,142,heavy,mamata-na,,,"46,35",
+50811,143,fire,nika,,,28,
+51168,144,"to burn",sulu-a,,,4,?
+51525,145,smoke,tuŋaha-na,,,,
+51882,146,ash,eba-na,,,13,
+52239,147,black,muho,,,,
+52596,148,white,keoro,,,18,
+52953,149,red,ziŋara,,,21,
+53310,150,yellow,meava,,,17,
+53667,151,green,buma,,,19,
+54024,152,small,hiteke-na,,,,
+54381,153,big,noma-na,,,,
+54738,154,short,papaka-na,,,50,
+55095,155,long,gele-na,,,17,
+55452,156,thin,manivisi,,,1,1
+55809,157,thick,moata-na,,,15,
+56166,158,narrow,ŋirisi,,,28,
+56523,159,wide,labe-na,,,47,?
+56880,160,"painful, sick",moho,,,17,
+57237,161,"shy, ashamed",kurekure,,,,
+57594,162,old,koa-na,,,15,
+57951,163,new,vaqura-na,,,"1,14",
+58308,164,good,lea-na,,,22,
+58665,165,"bad, evil",kalea-na,,,13,
+59022,166,"correct, true",hinokara,,,15,
+59379,167,night,boŋi,,,1,1
+59736,168,day,rane,,,6,1
+60093,169,year,vuaheni-na,,,48,
+60450,170,when?,pana-visa,,,35,
+133437,170,when?,totoso-sa,,,,
+60807,171,"to hide",tome-a,,,18,
+81041,172,"to climb",sage,,,2,
+81042,172,"to climb",haele,,,2,
+61521,173,at,pa,,,8,
+61878,174,"in, inside","pa korapa",,,24,
+133438,174,"in, inside","pa kokorapa",,,24,
+62235,175,above,pana-ulu,,,19,
+81291,176,below,kauru-na,,,13,
+81292,176,below,pana-peka,,,43,
+62949,177,this,hie,,,18,
+63306,178,that,hoi,,,,
+63663,179,near,tata,,,9,
+64020,180,far,seu,,,1,1?
+64377,181,where?,avei,,,3,
+64734,182,I,[a]rau,,,"1,24",1?
+65091,183,thou,[a]goi,,,1,?
+65448,184,he/she,[a]sa,,,13,?
+86014,185,we,gita,,,1,1
+86015,185,we,gami,,,2,1
+66162,186,you,gamu,,,1,1
+66519,187,they,[a]rini,,,25,
+66876,188,what?,[na]sa,,,1,?
+67233,189,who?,[e]sei,,,1,1
+67590,190,other,votiki,,,20,
+67947,191,all,doduru-na,,,47,
+68304,192,and,meke,,,2,
+68661,193,if,be,,,28,
+69018,194,how?,"vegu gua",,,14,?
+86024,195,"no, not",lokari,,,17,
+86025,195,"no, not",loke,,,17,
+86026,195,"no, not",lopu,,,,
+86027,195,"no, not",ka,"Cf 165 // ka?",,19,
+69732,196,"to count",nae,,,25,
+86028,197,One,keke,,,"31,14",1
+86029,197,One,tasa,"tasa could be 1 or 11",,41,
+70446,198,Two,karu[a],,,1,1
+70803,199,Three,ŋeta,,,12,
+71160,200,Four,made,,,3,
+123831,201,Five,lima,,,1,
+123832,202,Six,onomo,,,1,
+123833,203,Seven,zuapa,,,12,
+123834,204,Eight,vesu,,,15,
+123835,205,Nine,sia,,,5,
+131197,206,Ten,"maneŋe puta",,,"18,25",
+131198,207,Twenty,hio-kona,,,,
+133439,208,Fifty,"lima ŋavulu",,,1,
+133449,209,"One Hundred","keke ŋoŋoto","irregular velar nasal",,10,
+133440,210,"One Thousand","keke tina",,,20,

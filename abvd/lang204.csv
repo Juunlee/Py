@@ -1,0 +1,216 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+204,"Lio, Flores Tongah","Aron Meko Mbete",ljl,lioo1240,,"the print is generally unclear and hard to read","Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Bima-Sumba, Ende-Lio","Peng Du","Simon Greenhill","@misc{Mbete-204-2005,  author = \"Aron Meko Mbete\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-8.67606354930773271406,121.83563232421875000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+204,1,hand,lima,,,"1,64",1
+561,2,left,ngéu,,,70,
+918,3,right,ŋgana,,,"1,69",1
+1275,4,leg/foot,haʔi,,,"1,100",1
+1632,5,"to walk",mbana,,,2,1
+1989,6,road/path,jala,,,1,1
+2346,7,"to come",mai,,,1,1
+2703,8,"to turn",bélo,,L,24,
+3060,9,"to swim",naŋu,,,"1,45",1
+3417,10,dirty,raki,,,1,1
+3774,11,dust,awu,,,1,
+4131,12,skin,dhula,,,,
+4488,13,back,loŋqo,,,6,
+4845,14,belly,tuka,,,4,
+5202,15,bone,toko,,,3,
+5559,16,intestines,"isi tuka",,,"5,4",
+5916,17,liver,ate,,,1,1
+6273,18,breast,susu,,,1,1
+6630,19,shoulder,wara,,,1,1
+6987,20,"to know, be knowledgeable",mbeʔo,,,7,
+7344,21,"to think",piki,<M,L,4,
+7701,22,"to fear",taʔu,,,1,1
+8058,23,blood,ra,,,1,1
+8415,24,head,holo,,,1,
+8772,25,neck,təŋu,,,7,
+9129,26,hair,fu,,,1,1
+9486,27,nose,iju,,,1,1
+9843,28,"to breathe",ŋai,,,4,
+10200,29,"to sniff, smell",ŋoŋo,,,,
+10557,30,mouth,wiwi,,,1,
+10914,31,tooth,ŋiʔɪ,,,24,
+11271,32,tongue,ləma,,,6,1
+11628,33,"to laugh",tawa,,,1,1
+11985,34,"to cry",ké,,,,
+12342,35,"to vomit",muta,,,1,1
+12699,36,"to spit",nijo,,,14,
+13056,37,"to eat",ka,,,1,1
+13413,38,"to chew",naju,,,4,
+13770,39,"to cook",pédhé,,,5,
+14127,40,"to drink",minu,"L? (< Malay)",L?,1,1
+14484,41,"to bite",toki,,,,
+14841,42,"to suck",m|usu,,,6,1?
+15198,43,ear,hiŋa,,,1,1
+15555,44,"to hear",lēlē,,,68,
+15912,45,eye,mata,,,1,1
+73901,46,"to see",tolo,,,,
+73902,46,"to see",kilé,,,,
+16626,47,"to yawn",moa,,,19,1
+16983,48,"to sleep",roké,,,,
+17340,49,"to lie down",éru,,,96,
+17697,50,"to dream",nipi,,,"1,60",1
+18054,51,"to sit",məra,,,,
+18411,52,"to stand",dari,,,1,
+18768,53,"person/human being",ata,,,4,
+19125,54,man/male,"ata haki",,,7,1
+19482,55,woman/female,"ata fai",,,"1,5",1
+19839,56,child,ana,,,1,1
+20196,57,husband,haki,,,7,
+20553,58,wife,fai,,,31,
+20910,59,mother,iné,,,1,1
+21267,60,father,əma,,,1,1
+74607,61,house,oné,,,,
+74608,61,house,saʔo,,,3,
+21981,62,thatch/roof,até,,,1,1
+22338,63,name,naja,,,1,1
+74834,64,"to say",nosi,+,,69,
+74835,64,"to say",garé,+,,6,
+23052,65,rope,ajé,,,6,
+23409,66,"to tie up, fasten",riké,,,116,?
+23766,67,"to sew",reʔi,,,2,1?
+24123,68,needle,laru,,,1,1
+24480,69,"to hunt",uri,,,4?,
+24837,70,"to shoot",pasa,,,2,
+25194,71,"to stab, pierce",səka,,,8,
+25551,72,"to hit",tébo,,,37,
+25908,73,"to steal",naka,,,"1,59",1
+26265,74,"to kill",roré,,,,
+26622,75,"to die, be dead",mata,,,1,1
+26979,76,"to live, be alive",muri,,,"1,76",1
+27336,77,"to scratch",sasi,,,5,
+27693,78,"to cut, hack",gəté,,,,
+28050,79,stick/wood,kaju,,,1,1
+28407,80,"to split",kəla,,,,
+28764,81,sharp,léʔé,,,92,
+29121,82,"dull, blunt",dubu,,,38,1
+29478,83,"to work",kəma,,,38,
+29835,84,"to plant",mula,,,1,1
+30192,85,"to choose",galé,,,3,
+30549,86,"to grow",təmbu,,,1,1?
+30906,87,"to swell",bhənu,,,1?,
+31263,88,"to squeeze",posi,,,1,
+31620,89,"to hold",déo,,,5,
+31977,90,"to dig",koé,,,5,
+32334,91,"to buy",qəti,,,,
+102878,92,"to open, uncover",buka,,,1,1
+102879,92,"to open, uncover",kai,,,2,
+33048,93,"to pound, beat",waju,,,1,1
+33405,94,"to throw",lēbo,,,4,
+33762,95,"to fall",məsu,,,,
+34119,96,dog,lako,,,5,
+34476,97,bird,ulē,,,70?,
+34833,98,egg,təlo,,,1,1
+35190,99,feather,bua,,,1?,
+35547,100,wing,bəlé,,,76,
+35904,101,"to fly",léla,,,4,
+36261,102,rat,teʔu,,,7,
+36618,103,meat/flesh,naké,,,,
+36975,104,fat/grease,ura,,,,
+37332,105,tail,éko,,,1,1
+37689,106,snake,nipa,,,1,1
+77444,107,"worm (earthworm)",hati,,,1,1
+77445,107,"worm (earthworm)",hisé,,,1,1
+38403,108,louse,kutu,,,1,1
+38760,109,mosquito,əmu,,,1?,?
+39117,110,spider,ŋgaŋgakai,,,3?,
+39474,111,fish,ika,,,1,1
+39831,112,rotten,moso,,,4,
+40188,113,branch,ŋgaʔa,,,2?,
+40545,114,leaf,wunu,,,6,
+40902,115,root,hamu,,,3,1
+41259,116,flower,woŋa,,,1?,1?
+41616,117,fruit,mbokoəsa,,,,
+41973,118,grass,kuru,,,,
+42330,119,earth/soil,tana,,,1,1
+42687,120,stone,watu,,,1,1
+43044,121,sand,əna,,,1,1
+43401,122,water,aē,,,2,1
+43758,123,"to flow",bērē,,,3,
+44115,124,sea,məsi,,,8,
+107819,125,salt,məsi,+,,"3,45",1?
+107820,125,salt,siʔé,,,1,
+44829,126,lake,rana,,,1,1
+45186,127,woods/forest,ŋəbo,,,,
+45543,128,sky,liru,,,8,
+45900,129,moon,wula,,,1,1
+46257,130,star,dara,,,4,
+46614,131,cloud,rubu,,,,
+46971,132,fog,rubu,,,,
+47328,133,rain,uja,,,1,1
+47685,134,thunder,béla,,,7,
+48042,135,lightning,kəla,,,1,1?
+48399,136,wind,aŋi,,,1,1
+49113,138,warm,pətu,,,,
+49470,139,cold,kəta,,,4,
+49827,140,dry,tuʔu,,,41,
+79334,141,wet,modha,,,,
+79335,141,wet,ndəmo,,,,
+50541,142,heavy,ndaté,,,1?,
+50898,143,fire,api,,,1,1
+51255,144,"to burn",jəŋi,,,,
+51612,145,smoke,nu,,,2,1
+51969,146,ash,awu,,,1,1
+52326,147,black,mité,,,1,1
+52683,148,white,bara,,,3,?
+53040,149,red,méra,,,1,1
+53397,150,yellow,kuné,,,1,1
+53754,151,green,məta,,,1,1
+54111,152,small,loʔo,,,,
+54468,153,big,ria,,,1?,1?
+54825,154,short,boko,,,3,
+55182,155,long,béwa,,,6?,
+55539,156,thin,nəpi,,,1,1
+55896,157,thick,kapa,,,1,1
+56253,158,narrow,məre,,,,
+56610,159,wide,iŋga,,,,
+56967,160,"painful, sick",ro,,,,
+57324,161,"shy, ashamed",méa,,,1,1
+57681,162,old,duʔa,,,1,1
+58038,163,new,muri,,,5,
+58395,164,good,bhəri,,,,
+58752,165,"bad, evil",həmu,,,4,
+59109,166,"correct, true",molo,,,4,
+59466,167,night,kobé,,,6,
+59823,168,day,ləja,,,1,1
+60180,169,year,hiwa,,,4,
+60537,170,when?,wəŋi,,,4,
+81000,171,"to hide",nəké,,,,
+81001,171,"to hide",sono,,,2,
+81002,171,"to hide",ickol,,,,
+61251,172,"to climb",nai,,,1,1
+118928,173,at,ghéa,,,,1
+118929,173,at,ləka,,,2,
+61965,174,"in, inside","ghale one",,,,
+62322,175,above,"gheta wawo",,,"5?, 2",1
+62679,176,below,"ghale wəna",,,1,
+63036,177,this,ina,,,1,
+81506,178,that,ghēa,,,,
+81507,178,that,gharu,,,,
+63750,179,near,wēʔē,,,,
+64107,180,far,béu,,,,
+64464,181,where?,"ləka əmba",,,2?,
+64821,182,I,aku,,,1,1
+65178,183,thou,miu,,,,
+65535,184,he/she,kai,,,,
+118930,185,we,kita,,,1,1
+118931,185,we,kami,,,2,
+66249,186,you,"miu lēisawē",,,"1,13",1
+66606,187,they,əbē,,,,
+66963,188,what?,apa,,,1,1
+67320,189,who?,sai,,,1,1
+67677,190,other,rēwo,,,,
+68034,191,all,lēisawē,,,,
+68391,192,and,noʔo,,,3,
+68748,193,if,dəmi,,,,
+69105,194,how?,ŋērēəmba,,,,
+69462,195,"no, not",iwa,,,,
+69819,196,"to count",rēkē,,L,39,
+70176,197,One,sa,,,1,1
+70533,198,Two,rua,,,1,1
+70890,199,Three,təlu,,,1,1
+71247,200,Four,sutu,,,1,

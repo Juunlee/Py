@@ -1,0 +1,208 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+8,Geser,"Jim Collins",ges,gese1240,,,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Central Maluku, East, Banda-Geser, Geser-Gorom","Peng Du","Simon Greenhill","@misc{Collins-8-2005,  author = \"Jim Collins\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-3.49871005693759196120,130.62421020774300473022
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+8,1,hand,ma,,,1,?
+365,2,left,kubalit,,,7,1
+722,3,right,kuanen,,,"1,62",
+1079,4,leg/foot,ke,,,6,
+1436,5,"to walk",taŋgi,,,,1
+1793,6,road/path,lalano,,,1,
+2150,7,"to come",ratan,,,,
+2507,8,"to turn",futar,,,1,1
+2864,9,"to swim",naŋu,,,"1,45",
+3221,10,dirty,galotak,,,,
+3578,11,dust,ubas,,,3,
+3935,12,skin,likit,,,1,
+4292,13,back,kotan,,,8,?
+4649,14,belly,toa,,,1,
+5006,15,bone,ruri,,,2,
+5363,16,intestines,utuk,,,1,1
+5720,17,liver,at,,,1,1
+6077,18,breast,susu,,,1,
+6434,19,shoulder,wakir,,,,
+6791,20,"to know, be knowledgeable",ruk,,,,
+7148,21,"to think",hiʔir,"loan of 22?",L,22,1
+7505,22,"to fear",matakut,,,1,1
+7862,23,blood,rara,,,1,1
+8219,24,head,lu,,,1,
+8576,25,neck,totolan,,,8,
+8933,26,hair,uk,,,1,1
+9290,27,nose,so,,,,
+9647,28,"to breathe","fai ŋak",,,5,
+10004,29,"to sniff, smell",fimusi,,,65,
+10361,30,mouth,lo,,,,1
+10718,31,tooth,ŋisik,,,24,
+11075,32,tongue,kel,,,35,
+11432,33,"to laugh",malif,,,3,1
+11789,34,"to cry",taŋis,,,1,
+12146,35,"to vomit",luak,,,8,
+12503,36,"to spit",ginisuk,,,110,
+12860,37,"to eat","ŋga faŋa",,,,?
+13217,38,"to chew",mama,,,1,1
+13574,39,"to cook",masak,,L?,19,
+13931,40,"to drink",inu,,,1,1
+14288,41,"to bite",karat,,,1,1?
+73599,42,"to suck",bus,,,4,
+73600,42,"to suck",sorat,,,4,
+15002,43,ear,tiliŋa,,,1,1
+15359,44,"to hear",roŋan,,,1,1
+15716,45,eye,mata,,,1,1
+16073,46,"to see",mekan,,,,
+16430,47,"to yawn",maflaba,,,19,
+16787,48,"to sleep",kifit,,,,
+17144,49,"to lie down",bula-bula,,,2,
+17501,50,"to dream",manifi,,,"1,60",1
+17858,51,"to sit",matoran,,,1,1?
+18215,52,"to stand",mariri,,,1,1
+18572,53,"person/human being",mančia,,L,,
+18929,54,man/male,urana,,,1,1
+19286,55,woman/female,wawina,,,"1,106",1
+19643,56,child,anak,,,1,1
+20000,57,husband,rana,,,47,
+20357,58,wife,wawina,,,"5,68",
+20714,59,mother,n|ina,,,1,1
+21071,60,father,baba,,,43,
+21428,61,house,ruma,,,1,1
+21785,62,thatch/roof,barém,,,8?,
+22142,63,name,ŋasan,,,1,1
+22499,64,"to say",kuk,,,,
+22856,65,rope,tali,,,1,
+23213,66,"to tie up, fasten",wokas,,,,
+23570,67,"to sew",fi|rait,,,2,1
+23927,68,needle,lalan,,,1,
+75171,69,"to hunt",leus,,,,
+75172,69,"to hunt",musir,,,4,
+24641,70,"to shoot",fanak,,,1,
+24998,71,"to stab, pierce",tewat,,,,
+25355,72,"to hit",sakur,,,,
+25712,73,"to steal",fakaleus,,,29,
+26069,74,"to kill",tara,,,,
+26426,75,"to die, be dead",mata,,,1,1
+26783,76,"to live, be alive",liu,,,27,?
+27140,77,"to scratch",fikori,,,6,
+27497,78,"to cut, hack",lait,,,6,
+27854,79,stick/wood,kai,,,1,1
+28211,80,"to split",tola,,,,?
+28568,81,sharp,matarih,,,1,?
+28925,82,"dull, blunt",baba,,,76,
+29639,84,"to plant",tauk,,,,
+29996,85,"to choose",filik,,,1,1
+30710,87,"to swell",bulu,,,2,
+31067,88,"to squeeze",siŋgatan,,,,
+31424,89,"to hold",dahan,,,7,
+31781,90,"to dig",kayk,,,,
+32138,91,"to buy",fas,,,4,
+32495,92,"to open, uncover",salik,,,,
+32852,93,"to pound, beat",tutu,,,20,1
+33209,94,"to throw",fola,,,,
+33566,95,"to fall",ŋgek,,,,
+33923,96,dog,kafuna,,,35,
+34280,97,bird,manuk,,,1,1
+34637,98,egg,tolu,,,1,1
+34994,99,feather,wilíu,,,1,
+35351,100,wing,wakị,,,,
+35708,101,"to fly",tiu,,,6?,
+36065,102,rat,kalufa,,,1?,
+36422,103,meat/flesh,sisia,,,1,
+36779,104,fat/grease,wodal,,,,
+37136,105,tail,kaku,,,,
+37493,106,snake,tekis,,,,
+37850,107,"worm (earthworm)","ena kutu",,,,
+38207,108,louse,kutu,,,1,1
+38564,109,mosquito,umis,,,7,
+38921,110,spider,gafas,,,1?,
+39278,111,fish,ikan,,,1,1
+39635,112,rotten,ŋgofak,,,,
+39992,113,branch,saŋ,,,2,
+40349,114,leaf,ru,,,1,
+40706,115,root,akar,,,2,1
+41063,116,flower,fus,,,5?,
+41420,117,fruit,woi,,,1,
+41777,118,grass,imak,,,,
+42134,119,earth/soil,ena,,,5,
+42491,120,stone,watu,,,1,1
+42848,121,sand,ena,,,1,1
+43205,122,water,ar,,,2,1
+43562,123,"to flow",tauk,,,,
+43919,124,sea,tasik,,,1,1
+44633,126,lake,louk,,,,
+78448,127,woods/forest,imak,,,,
+78449,127,woods/forest,liba,,,,
+45347,128,sky,laŋit,,,1,1
+45704,129,moon,ulan,,,1,1
+46061,130,star,fituin,,,1,1
+46418,131,cloud,"aŋin tái",,,36,
+46775,132,fog,sawan,,,4,
+47132,133,rain,uran,,,1,1
+47489,134,thunder,dudun,,,8,
+47846,135,lightning,tinitik,,,7,
+48203,136,wind,aŋin,,,1,1
+48560,137,"to blow",utun,,,,
+48917,138,warm,mfanas,,,1,1
+49274,139,cold,rifi,,,,
+49631,140,dry,kiri|mas,,,,
+49988,141,wet,kiribotan,,,,
+50345,142,heavy,maleman,,,4,
+50702,143,fire,afi,,,1,1
+51059,144,"to burn",tumu,,,1,1
+51416,145,smoke,kubuŋ,,,4,
+51773,146,ash,"au tái",,,"1,4",1?
+52130,147,black,metan,,,43,1
+52487,148,white,futi,,,1,1
+52844,149,red,mera,,,1,1
+53201,150,yellow,kuniŋ,,L,1,
+53558,151,green,biri,,,5,
+53915,152,small,tutuin,,,,
+54272,153,big,bobak,,,,
+54629,154,short,kubut,,,,
+54986,155,long,malás,,,5,
+55343,156,thin,banifis,,,1,1
+55700,157,thick,batolu,,,3,
+56057,158,narrow,korok,,,17,
+56414,159,wide,ga|lawa,,,48,1
+56771,160,"painful, sick",masinat,,,1?,
+80468,162,old,matu:,,,1,1?
+80469,162,old,mal,,,,1?
+57842,163,new,wouwou,,,1,1
+80571,164,good,babán,,,,
+80572,164,good,gafin,,,,
+58556,165,"bad, evil",garata,,,1?,
+58913,166,"correct, true",katotu,,,6,1?
+59270,167,night,garan,,,,
+59627,168,day,dodan,,,3,?
+59984,169,year,ŋarak,,,3,
+60341,170,when?,"doan fis",,,"1,65",1
+60698,171,"to hide",wunin,,,1,1
+61055,172,"to climb",saka,,,2,
+61412,173,at,bua,,,3,
+61769,174,"in, inside","bua lomin",,,21,?
+62126,175,above,ata,,,1,1
+62483,176,below,wawa,,,1,1
+62840,177,this,ira,,,,
+63197,178,that,ira,,,,
+81559,179,near,ranik,,,1,1
+81560,179,near,rapat,,,1,1
+63911,180,far,rau,,,1,1
+64268,181,where?,na-iŋgí,,,,
+64625,182,I,aku,,,1,1
+64982,183,thou,kau,,,1,1
+81920,184,he/she,na,,,1,1
+81921,184,he/she,i,,,1,1
+111910,185,we,kita,,,1,1
+111911,185,we,kam,,,2,
+66053,186,you,kumu,,,1,1
+66410,187,they,sidi,,,1,1?
+66767,188,what?,la,,,,
+67124,189,who?,sei,,,1,1
+67481,190,other,wown,,,,
+67838,191,all,ababis,,,9,
+68195,192,and,tura,,,5,
+68909,194,how?,manlá,,,,
+69266,195,"no, not",tei,,,4,
+69623,196,"to count",reʔen,,L?,39,
+69980,197,One,sa,,,1,1
+70337,198,Two,roti,,,13,
+70694,199,Three,tolu,,,1,1
+71051,200,Four,fat,,,1,1

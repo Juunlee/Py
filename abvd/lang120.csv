@@ -1,0 +1,219 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+120,"Ambrym, South-East","Blust, from: Parker (1970)",tvk,sout2859,"Parker, G.J. (1970). Southeast Ambrym dictionary. Pacific Lingustics, C-17: Canberra",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, North and Central Vanuatu, Northeast Vanuatu-Banks Islands, East Vanuatu","Peng Du","Simon Greenhill","@book{d_Parker_Southeast-Ambrym,  title                 = {Southeast Ambrym dictionary},  publisher             = {Canberra: The Australian National University},  pages                 = {xiii+60},  year                  = {1970},  class_loc             = {PL6271.Z9},  document_type         = {B},  fn                    = {papua\parker_southeast-ambrym1970.pdf},  gbid                  = {http://books.google.com/books?id=eYwG5S1eq04C},  glottolog_ref_id      = {26034},  hhtype                = {dictionary},  inlg                  = {English [eng]},  isbn                  = {9780858830677},  lgcode                = {Southeast Ambrym [tvk]},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 6271 .Z9 PAR 1970},  subject_headings      = {Ambrym language - Dictionaries - English, English language - Dictionaries - Ambrym, Ambrym language - Dictionaries - English - English language - Dictionaries - Ambrym},  author                = {Parker, G.J.}}"
+latitude,longitude
+-16.30959551774218496689,168.25561523437500000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+120,1,hand,he,,,"16,72",
+71456,2,left,muel,,,"1,59",
+71457,2,left,moil,,,"1,59",
+834,3,right,mætu,,,"5, 37",1
+1191,4,leg/foot,le,,,37,
+1548,5,"to walk",kaakau,,,62,
+1905,6,road/path,susei,,,50,
+2262,7,"to come",am|mei,,,1,1?
+2619,8,"to turn",hiles,,,24,
+2976,9,"to swim",xul,,,71,
+71822,10,dirty,mʊmuu,,,63,
+71823,10,dirty,purunɪ,,,67,
+4047,12,skin,hilutɛ,,,"1, 80, 71",
+4404,13,back,mari,,,35?,
+4761,14,belly,vaŋɛ,,,61,
+5118,15,bone,si,,,52,
+72139,16,intestines,tinɛ,,,1,1
+72140,16,intestines,tinai,,,1,1
+5832,17,liver,lietne,,,38,
+6189,18,breast,sus,,,1,1
+6546,19,shoulder,vatuvu,,,65,
+6903,20,"to know, be knowledgeable",kila,,,18,
+7260,21,"to think",nɛnemi,,,28,1?
+7617,22,"to fear",ulikkanen,,,19?,
+7974,23,blood,re,,,"1, 27",1?
+8331,24,head,vatɪ,,,9,
+8688,25,neck,hiræ,,,43,
+9045,26,hair,am,,,,
+9402,27,nose,vulkusɪ,,,"27, 55",
+9759,28,"to breathe",vaŋos,,,36,
+10116,29,"to sniff, smell",puŋosɪ,,,64,
+10473,30,mouth,valoŋo,,,42,
+10830,31,tooth,luho,,,"1,35",1
+11187,32,tongue,me,,,7,1?
+11544,33,"to laugh",men,,,51,
+11901,34,"to cry",muis,,,67,
+12258,35,"to vomit",lʊlu,,,8,
+12615,36,"to spit",kusah,,,"19,34",
+12972,37,"to eat",xanɪ,,,1,1
+13329,38,"to chew",ŋasi,,,12,
+13686,39,"to cook",tinɪ,,,9,
+73472,40,"to drink",mʊmun,,,"1,49",
+73473,40,"to drink",munɪ,,,"1,49",
+14400,41,"to bite",ŋasi,,,"1, 60",
+14757,42,"to suck",mumuni,,,"11, 52",
+15114,43,ear,vuraŋɛ,,,43,
+15471,44,"to hear",loŋɛ,,,1,1
+15828,45,eye,mætɛ,,,1,1
+16185,46,"to see",pusɪ,,,11,
+16542,47,"to yawn",mæmæi,,,19,1
+16899,48,"to sleep",pat,,,86,
+17256,49,"to lie down",liŋ,,,25,
+17970,51,"to sit",to|tan,,,"80, 105",
+18327,52,"to stand",mea,,,,
+18684,53,"person/human being",moletin,,,"7, 8",
+19041,54,man/male,tiramue,,,88,
+19398,55,woman/female,atou,,,81,
+19755,56,child,natɛ,,,55,
+20112,57,husband,asou,,,2,1
+20469,58,wife,asou,,,1,1
+20826,59,mother,ninɛ,,,"1, 46",1
+21183,60,father,tame,,,1,1
+21540,61,house,[n]im,,,1,1
+21897,62,thatch/roof,taxui,,,20,
+22254,63,name,isɛ,,,66,1
+74789,64,"to say",hiteni,,,16,
+74790,64,"to say",xa,,,17,
+22968,65,rope,au,,,25,
+74991,66,"to tie up, fasten",sarɛ,,,35,
+74992,66,"to tie up, fasten",varɛ,,,35,
+23682,67,"to sew",tilɪ,,,13,
+24396,69,"to hunt",kokei,,,77,
+24753,70,"to shoot",pä|pæn,,,1,1?
+25110,71,"to stab, pierce",tilɪ,,,14,
+25467,72,"to hit",hasɪ,,,82,
+25824,73,"to steal",kakan-ni,,,,
+26181,74,"to kill",hasɪ,,,12,
+26538,75,"to die, be dead",mæt,,,1,1
+26895,76,"to live, be alive",meul,,,"1, 76",1
+27252,77,"to scratch",kakalɛ,,,12,?
+75707,78,"to cut, hack",tarati,,,1,?
+75708,78,"to cut, hack",tata,,,1,?
+75709,78,"to cut, hack",te,,,1,?
+27966,79,stick/wood,liei,,,28,?
+28323,80,"to split",selpasɪ,,,4?,
+28680,81,sharp,kan,,,14,
+29037,82,"dull, blunt",vut,,,16,
+29394,83,"to work",pol,,,,
+29751,84,"to plant",lihɪ,,,9,
+30465,86,"to grow",meul,,,15,
+30822,87,"to swell",lavuap,,,62,
+31179,88,"to squeeze",husɪ,,,"18, 71?",?
+31536,89,"to hold",hurɪ,,,34,
+31893,90,"to dig",hilɪ,,,1,1
+32250,91,"to buy",xalɛ,,,48?,
+76636,92,"to open, uncover",hoka,,,1,1?
+76637,92,"to open, uncover",laŋa,,,23,1?
+76638,92,"to open, uncover",saha,,,58,1?
+33321,94,"to throw",kop-ni,,,85,
+33678,95,"to fall",mot,,,57,
+34035,96,dog,kuli[i],,L,7,
+34392,97,bird,tu|men,,,1,1
+34749,98,egg,rælitɛ,,,1?,
+35106,99,feather,hilɪ,,,1,1
+35463,100,wing,aveu,,,1?,
+35820,101,"to fly",xa,,,14,
+36177,102,rat,asu,,,"3, 77",
+36534,103,meat/flesh,hisi,,,10,?
+36891,104,fat/grease,mur,,,72,
+37248,105,tail,xalɛ,,,24,
+37605,106,snake,tetal,,,13,
+37962,107,"worm (earthworm)",tamasis,,,,
+38319,108,louse,ut,,,1,1
+38676,109,mosquito,sikan,,,46,
+39033,110,spider,voliau,,,1?,
+39390,111,fish,meseau,,,52,
+39747,112,rotten,vo,,,52,
+77734,113,branch,aŋutɛ,,,,
+77735,113,branch,halitɛ,,,,
+40461,114,leaf,uvu|ei,,,48,
+40818,115,root,litɛ,,,17?,
+77893,116,flower,huŋi|ei,,,1,1
+77894,116,flower,piŋ,,,1,1
+41532,117,fruit,hui|ei,,,37?,1
+41889,118,grass,husmunai,,,31,
+42246,119,earth/soil,tan,,,1,1
+42603,120,stone,hat,,,1,1
+42960,121,sand,suvi|en,,,"1, 83",?
+43317,122,water,oei,,,2,1?
+43674,123,"to flow",læh,,,58?,
+44031,124,sea,tas,,,1,1
+44388,125,salt,tas,,,20,
+45102,127,woods/forest,tahi,,,,
+45459,128,sky,tilaŋ,,,"1, 61",
+45816,129,moon,eveti,,,6,
+46173,130,star,hitu,,,1,1
+46530,131,cloud,mamah,,,39,
+46887,132,fog,eas,,,70,
+47244,133,rain,[m]us,,,1,1
+47601,134,thunder,veta,,,85,
+47958,135,lightning,milaŋas,,,73,
+48315,136,wind,vati|aŋ,,,"1, 77",1?
+48672,137,"to blow",huii,,,62,
+49029,138,warm,tɪtin,,,12,
+49386,139,cold,merir,,,1,1
+49743,140,dry,vue,,,,
+50100,141,wet,mɛmer,,,35,
+50457,142,heavy,meas,,,33,
+50814,143,fire,upaŋ,,,21,
+51171,144,"to burn",tinɪ,,,1,1
+51528,145,smoke,eas,,,2,
+79584,146,ash,vulmueas,,,30,
+79585,146,ash,husutɛ,,,,
+52242,147,black,meloxoluk,,,41,
+52599,148,white,miæh,,,98,
+52956,149,red,[pɪ]pili,,,18,
+53313,150,yellow,meaŋ,,,9?,
+79824,151,green,mämæas,,,"8, 43",
+79825,151,green,xen,,,,
+54027,152,small,hokkoroŋ,,,,
+80006,153,big,eilep,,,"10, 83",
+80007,153,big,himætu,,,,
+54741,154,short,terumue,,,,
+55098,155,long,teviei,,,60,
+55455,156,thin,mæhhin,(<M),,"1, 50",1
+55812,157,thick,buriŋ,,,,
+56526,159,wide,salele,,,,
+56883,160,"painful, sick",mesei,,,1,1
+57597,162,old,talite,,,,
+57954,163,new,netahu,,,55,
+58311,164,good,hos,,,65,
+58668,165,"bad, evil",sa,,,1,1
+59025,166,"correct, true",mætu,,,6?,?
+59382,167,night,voŋi|en,,,1,1
+59739,168,day,me|leŋi|en,,,6,1
+60096,169,year,huram,,,30,
+60453,170,when?,viliæh,,,74,
+60810,171,"to hide",xus,,,6,
+81043,172,"to climb",pueou,,,38,
+81044,172,"to climb",puŋei,,,9?,
+61524,173,at,e,,,1,?
+81206,174,"in, inside",e,,,4?,
+81207,174,"in, inside",te,,,,
+62238,175,above,nesau,,,11,
+62595,176,below,netan,,,9,
+62952,177,this,[t]ak,,,52?,
+63309,178,that,[ta]xai,,,15,
+63666,179,near,viselɪ,,,55,
+64023,180,far,sotin,,,1,
+81705,181,where?,xavi,,,"3?,35",
+81706,181,where?,tavi,,,"3?,35",
+64737,182,I,inou,,,"1,21,22",1
+65094,183,thou,xouk,,,"1, 26",
+65451,184,he/she,x|i,,,"1, 29",1
+113890,185,we,xir,,,1,?
+113891,185,we,xamæm,,,2,
+82048,186,you,x|ami,,,"1,13",1
+82049,186,you,xamim,,,"1,13,33",1
+66522,187,they,x|il,,,"1, 70",1
+66879,188,what?,n|aha,,,1,1?
+67236,189,who?,visi,,,1?,?
+82343,190,other,sap,,,37,
+82344,190,other,tova,,,,
+67950,191,all,vusien,,,47?,
+68307,192,and,e,,,1?,?
+68664,193,if,"xos xa",,,1?,
+69021,194,how?,tep,,,,
+69378,195,"no, not",e-e,,,54,
+82784,196,"to count",pʊpuluu,,,"1, 13",
+82785,196,"to count",vulii,,,"1, 13",
+70092,197,One,tei,,,14,
+70449,198,Two,lu,,,1,1
+70806,199,Three,tol,,,1,1
+71163,200,Four,hat,,,"1,65",1

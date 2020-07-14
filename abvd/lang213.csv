@@ -1,0 +1,240 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+213,"Kwara'ae (Solomon Islands')","David Gegeo",kwf,kwar1239,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Southeast Solomonic, Malaita-San Cristobal, Malaita, Northern","Peng Du","Simon Greenhill","@misc{Gegeo-213-2005,  author = \"David Gegeo\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-8.68963906812765074505,160.77392578125000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+213,1,hand,lima,,,1,1
+570,2,left,mauli,"irregular reflex of *w",,"1,59",1
+927,3,right,o'olo,"irregular change to initial vowel",,10,
+1284,4,leg/foot,'ae,"irregular *q > ʔ",,1,1
+1641,5,"to walk",fali,,,10,
+1998,6,road/path,tala,,,1,
+2355,7,"to come","leka ma'i",,,"1,86",1
+2712,8,"to turn",abula,"irregular *o > a",,32,?
+3069,9,"to swim",'aru,"irregular *R > r",,5,
+3426,10,dirty,bili'a,,,13,
+3783,11,dust,fulafula,,,64,
+4140,12,skin,'uli'uli,,,1,1
+4497,13,back,ili,,,102,
+88030,14,belly,sira,abdomen,,,
+88031,14,belly,oga,stomach,,36,
+5211,15,bone,suli,,,52,
+5568,16,intestines,"oga karefo",,,16,
+5925,17,liver,"sa'e fou","irregular *t > ʔ, perhaps post loss insertion",,1,1
+6282,18,breast,susu,,,1,1
+6639,19,shoulder,"gwau 'aba'aba",,,"65,11",
+6996,20,"to know, be knowledgeable",sai,"irregular *e > i",,35,
+7353,21,"to think",manata,,,15,
+7710,22,"to fear",ma'u,,,1,1
+8067,23,blood,'abu,,,5,
+8424,24,head,gwan,"irregular *au > a",,9,
+8781,25,neck,lua,,,18,
+9138,26,hair,ifu,,,13,
+9495,27,nose,raka,,,,
+9852,28,"to breathe",mango,"irregular *ŋ > g",,47,
+10209,29,"to sniff, smell",moko,,,13,
+10566,30,mouth,kwaka,,,1,
+10923,31,tooth,lifa,"irregular *o > a",,"1,35",1
+11280,32,tongue,mea,,,7,
+11637,33,"to laugh",ga'a,,,15,
+11994,34,"to cry",angi,,,1,1
+12351,35,"to vomit",moa,"irregular *u > o",,1,1
+12708,36,"to spit",ngisu,,,"14, 58",
+73253,37,"to eat",'ani,,,1,1
+73254,37,"to eat",fanga,,,"1,53",1
+73334,38,"to chew",damu,,,34,
+73335,38,"to chew",dami,,,34,
+73424,39,"to cook",do'ofi,roast,,,
+73425,39,"to cook",du'uru,roast,,,
+14136,40,"to drink",kwa'u,"irregular *k > kw",,30,
+14493,41,"to bite",'ala,,,1,1
+14850,42,"to suck",loto,"irregular *l > n, perhaps influence from Langalanga",,"1, 28",
+15207,43,ear,alinga,,,1,1
+15564,44,"to hear",rongo,,,1,1
+15921,45,eye,mā,,,1,1
+16278,46,"to see",lisi,"irregular *e > i",,"14, 94",
+16635,47,"to yawn",mamakwa,,,19,1
+73965,48,"to sleep",maliu,,,60,
+73966,48,"to sleep",mo'osu,,,58,
+17349,49,"to lie down",teo,,,9,
+90779,50,"to dream",malinble,,,,
+90780,50,"to dream",mo'osubole,,,"14, 10",
+18063,51,"to sit",tua,,,,
+90957,52,"to stand",tata'e,"stand up",,9,1
+90958,52,"to stand",ū,,,2,
+18777,53,"person/human being",ngwae,"irregular loss of *n",,43,
+19134,54,man/male,ngwangwane,,,1,1
+19491,55,woman/female,kini,"irregular *e > i",,8,
+74389,56,child,ngela,"irregular *mw > ŋ",,8,
+74390,56,child,ngwela,,,8,
+20205,57,husband,ara'i,,,20,
+20562,58,wife,'afe,,,13,
+20919,59,mother,te'a,,,8,
+21276,60,father,ma'a,,,"1, 67",
+74609,61,house,luma,,,1,1
+74610,61,house,fera,,,29,1
+21990,62,thatch/roof,sao,,,1,1
+22347,63,name,sata,,,"1,18",1
+22704,64,"to say",sae,,,68,
+23061,65,rope,"'aba kwalo",,,2,
+23418,66,"to tie up, fasten",firi,,,18,
+23775,67,"to sew",tai,,,2,1
+75159,68,needle,sügila,,,,
+75160,68,needle,nila,loan,L,16,
+24489,69,"to hunt",ru'u,,,13,
+24846,70,"to shoot",fana,,,1,1
+25203,71,"to stab, pierce",kumu,,,57,
+25560,72,"to hit",kwa'i,"irregular *i > e",,16,
+25917,73,"to steal",bili,,,"12, 48",
+26274,74,"to kill",saungi,,,18,
+26631,75,"to die, be dead",mae,,,1,1
+26988,76,"to live, be alive",mauri,,,"1, 76",1
+27345,77,"to scratch",kame,,,14,
+27702,78,"to cut, hack",lae,,,68,
+28059,79,stick/wood,'ai,,,1,1
+28416,80,"to split",kakasi-,,,42,
+28773,81,sharp,to'o,,,71,
+29130,82,"dull, blunt",fufu,,,35,
+29487,83,"to work",rao,,,14,
+29844,84,"to plant",fasi,,,12,
+76188,85,"to choose",fili,,,1,1
+76189,85,"to choose",efo,,,,1
+30558,86,"to grow",bulao,,,10,
+30915,87,"to swell",ubu,,,12,
+31272,88,"to squeeze",fele,,,20,?
+31629,89,"to hold",dau,,,17,
+31986,90,"to dig",'ili,,,1,1
+93486,91,"to buy",foli,,,1,1
+93487,91,"to buy",usi,,,14,
+32700,92,"to open, uncover",'ifi,,,15,
+33057,93,"to pound, beat",sau,,,4,
+33414,94,"to throw",'ui,,,15,
+33771,95,"to fall",'asi,,,18,
+34128,96,dog,kui,,,7,
+76965,97,bird,manu,,,1,1
+76966,97,bird,no'o,,,37,1
+34842,98,egg,fakala,,,9,
+35199,99,feather,ifu,,,7,
+35556,100,wing,"'aba' aba",,,"1,12",
+35913,101,"to fly",lofo,,,1,1
+36270,102,rat,'asufe,,,3,
+36627,103,meat/flesh,fasi,,,"10, 65",
+36984,104,fat/grease,ofomā,,,,
+37341,105,tail,ku'iku'i,,,"1, 57",
+37698,106,snake,loi,,,15,
+38055,107,"worm (earthworm)",ngwangwa,,,10,
+38412,108,louse,u,,,1,1
+38769,109,mosquito,simi,,,13,
+39126,110,spider,garo,,,11,
+39483,111,fish,i'a,,,1,1
+39840,112,rotten,ngwa'a,,,,
+40197,113,branch,rara,,,"1,33",1
+40554,114,leaf,rau,,,1,1
+40911,115,root,lali,,,16,1
+41268,116,flower,taka['ai],,,12,
+41625,117,fruit,fa'i,"a classifier",,,
+41982,118,grass,laua,,,16,
+42339,119,earth/soil,ano,,,1,1
+42696,120,stone,fau,,,1,1
+43053,121,sand,one,,,1,1
+43410,122,water,kafo,,,5,
+43767,123,"to flow",afe,,,10,
+44124,124,sea,asi,,,1,1
+44481,125,salt,asila,salty,,1,1
+44838,126,lake,'osi,,,,
+78479,127,woods/forest,masu'u,,,21,
+78480,127,woods/forest,masu'ua,,,21,
+45552,128,sky,salo,,,13,
+45909,129,moon,madama,,,7,
+46266,130,star,bulubulu,,,14,
+46623,131,cloud,"gwa'i salo",,,,
+46980,132,fog,gafu,"irregular *k > g",,"1, 55",
+47337,133,rain,uta,,,1,1
+47694,134,thunder,kirī,,,21,
+48051,135,lightning,binabina,,,48,
+78917,136,wind,iru,"irregular *o > i",,"13, 67",
+78918,136,wind,ara,,,55,
+79031,137,"to blow",liu,,,,
+79032,137,"to blow",ufi,,,4,
+49122,138,warm,'ako'ako,,,13,
+49479,139,cold,gwari,,,13,
+79270,140,dry,langalanga,,,49,
+79271,140,dry,'eke'eke,"irregular *a > e",,86,
+50193,141,wet,isila,,,,
+50550,142,heavy,kulu,,,11,
+50907,143,fire,mafula,,,,
+51264,144,"to burn",do'ofi,,,,
+51621,145,smoke,sasu,,,2,1?
+51978,146,ash,fu'afu'a,,,11,
+52335,147,black,gwa,,,65,
+79690,148,white,kwao,,,16,
+79691,148,white,kakasinato'a,,,,
+53049,149,red,meo,,,68,?
+53406,150,yellow,sasako'a,,,52,
+53763,151,green,marako,"irregular *w > ko, expected **kwa",,13,
+79913,152,small,ti'iti'i,,,,
+79914,152,small,te'ete'e,,,,
+54477,153,big,doe,,,,
+54834,154,short,dokodoko,,,57,
+55191,155,long,keta,,,,
+55548,156,thin,ti'iti'i,,,,
+55905,157,thick,babu'ula,,,,
+56262,158,narrow,susu,,,,
+56619,159,wide,reba,"irregular *a > e",,48,
+119374,160,"painful, sick",fī,,,16,1
+119375,160,"painful, sick",matai,,,1,
+57333,161,"shy, ashamed",'eke,,,,
+57690,162,old,ngwaro,,,12,
+80540,163,new,faolo,,,1,1
+80541,163,new,faulu,,,1,1
+58404,164,good,le'a,,,20,
+58761,165,"bad, evil",ta'a,,,1,?
+80788,166,"correct, true",to'o,,,6,
+80789,166,"correct, true",saga,,,,
+59475,167,night,rodo,,,11,
+119376,168,day,aso,,,"1, 54",1
+119377,168,day,bangi,"irregular *d > b (perhaps from expected **g)",,,
+80912,169,year,fa'ingali,,,55,
+80913,169,year,falisi,,,8,
+60546,170,when?,angita,,,"1,41,41",1
+60903,171,"to hide",ago,,,8,
+61260,172,"to climb",ra'e,,,10,
+61617,173,at,a-,,,,
+61974,174,"in, inside",sae-,,,,
+62331,175,above,fafo,,,2,1
+62688,176,below,olofa,,,62,
+81386,177,this,nini,"this here",,28,1
+81387,177,this,ne'e,"this here",,1,1
+63402,178,that,nena,"that there",,1,1
+63759,179,near,karangi,,,"1, 75",?
+64116,180,far,tau,,,1,1
+64473,181,where?,['i]fa'i,,,,
+64830,182,I,nau,,,"1, 22",1
+65187,183,thou,oe,"you sg.",,1,?
+65544,184,he/she,nia,,,"1, 6",1
+123691,185,we,kulu,,,68,
+123692,185,we,kia,,,1,1
+123693,185,we,kaimili,,,2,
+123694,185,we,kami,,,2,
+66258,186,you,kaumulu,"you all",,"1,32",1?
+66615,187,they,kira,"they all",,"1, 69",1
+66972,188,what?,tae,,,"1, 52",?
+67329,189,who?,tai,,,1,1
+68043,191,all,ta'ifau,,,17,
+68400,192,and,ma,,,2,1
+68757,193,if,di'ia,,,21,
+69114,194,how?,fa'uta,,,33,
+69471,195,"no, not",noa'a,,,75,
+69828,196,"to count",to'omani,,,14,
+70185,197,One,eta,,,32,1
+70542,198,Two,rua,,,1,1
+70899,199,Three,ulu,"irregular *o > u",,1,1
+71256,200,Four,fai,,,"1,65",1
+83773,201,Five,lima,"Five, hand-arm.(Source: Pollex)",,1,
+146930,202,Six,ɔōn,six,,1,
+83675,203,Seven,fiu,"Seven (Shn).(Source: Pollex)",,1,
+90455,204,Eight,kwalu,"Pollex 06: Kwalu. :Eight (Shn).",,3,
+146931,205,Nine,siɔk,nine,,5,
+146932,206,Ten,taŋhual,ten,,5,
+146929,209,"One Hundred","teʔ talaŋeʔru","one hundred",,39,
+146928,210,"One Thousand","teʔ taʔenru","one thousand",,,

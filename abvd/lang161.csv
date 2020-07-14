@@ -1,0 +1,233 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+161,"Koiwai (Irian Jaya)","Roland Walker, SIL",kwh,kowi1239,,,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, South Bomberai","Peng Du","Simon Greenhill","@misc{Walker-161-2005,  author = \"Roland Walker\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-3.66692999999999980076,133.79150000000001341505
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+161,1,hand,nima,,,"1,66",1
+518,2,left,lagai,,,,
+875,3,right,tu'urom,,,,
+83948,4,leg/foot,ela,"third person",,7,1?
+83949,4,leg/foot,ai-m,"second person",,1,
+1589,5,"to walk",-táng,,,,
+1946,6,road/path,raran,,,1,1
+71658,7,"to come",-fa',,,,
+71659,7,"to come",ba',,,,
+2660,8,"to turn",-faran,,,,
+3017,9,"to swim",-lagur,,,,
+3374,10,dirty,'otor,,L,,
+3731,11,dust,abu|ba,,,1,?
+4088,12,skin,urit,,,1,1
+4445,13,back,"aʔera rur",,,,
+4802,14,belly,ambun,,,"2,57",
+5159,15,bone,rur,,,2,
+5516,16,intestines,"fitua waras",,,9,
+5873,17,liver,uta',,,1?,
+6230,18,breast,sus,,,1,1
+6587,19,shoulder,fafalan,,,1?,?
+6944,20,"to know, be knowledgeable",-ru',,,,
+7301,21,"to think",-fi'ir,"loan of 22?",L,22,
+7658,22,"to fear",-matatu',,,1,?
+8015,23,blood,rara,,,1,1
+8372,24,head,umun,,,,
+8729,25,neck,garan,,,11,
+9086,26,hair,"umum fur","head fur? (ASch)",,31?,
+9443,27,nose,siai,,,,
+9800,28,"to breathe","-sa'a la'esa",,,,
+88687,29,"to sniff, smell",-mus,kiss,,65,
+88688,29,"to sniff, smell",-sagala,smell,,,
+10514,30,mouth,"matafut rom",,,,
+10871,31,tooth,rifut,,,,?
+11228,32,tongue,yera,,,35?,
+11585,33,"to laugh",-marif,,,3,
+11942,34,"to cry",-tagis,,,1,1
+12299,35,"to vomit",-arwe',,,,
+12656,36,"to spit",naʔanis,,,,
+13013,37,"to eat","-'a yeta",food,,,
+13370,38,"to chew",-mama,,,1,1
+13727,39,"to cook",-tat,,,,
+14084,40,"to drink",-in,,,1,1
+73563,41,"to bite",-rofa,,,,1
+73564,41,"to bite",-ara',,,1,1
+14798,42,"to suck","-fai toba'",,,,
+15155,43,ear,teriga,,,1,1
+73755,44,"to hear",-fanonggar,,,1?,?
+73756,44,"to hear",banonggar,,,1?,?
+15869,45,eye,matafut,,,1,1?
+73890,46,"to see",-sefa,,,,1
+73891,46,"to see",-'it,,,1,1
+16940,48,"to sleep",-'enan,,,8?,
+17297,49,"to lie down",-'enan,,,1,1
+17654,50,"to dream",-sasúfa,,,,
+18011,51,"to sit",-matóran,,,1,
+18368,52,"to stand",-marír,,,1,1
+18725,53,"person/human being",téma,,,"1,78?",
+19082,54,man/male,mu[ru]ána,,,1,1
+19439,55,woman/female,mafína,,,"1,51",1
+74369,56,child,lámtút,,,,
+74370,56,child,timét,,,,
+20153,57,husband,"sóa muáne",,,2,1
+20510,58,wife,"sóa mafíne",,,"1?,5",1
+74485,59,mother,néna,,,"1,79",1
+74486,59,mother,n|ína,,,"1,79",1
+74552,60,father,yai,,,6?,
+74553,60,father,nyai,,,6?,
+21581,61,house,sáring,,,,
+21938,62,thatch/roof,barém,,,8?,
+22295,63,name,nésa,,,1,?
+74810,64,"to say",-fo'ot,,,,
+74811,64,"to say",bo'ot,,,,
+74812,64,"to say",-fi'fart,,,,
+23009,65,rope,wáras,,,2,
+75013,66,"to tie up, fasten",-rébat,,,,
+75014,66,"to tie up, fasten",-sáut,,,119,
+23723,67,"to sew",-sígat,,,,
+24080,68,needle,láin,,,1?,
+24437,69,"to hunt",-bégat,,,,
+24794,70,"to shoot",-tun,,,20,
+25151,71,"to stab, pierce",-ta',,,,
+75403,72,"to hit",-fun,,,107,
+75404,72,"to hit",-bába',,,4,
+25865,73,"to steal",-faréus,,,,
+26222,74,"to kill","-fun i namáta","hit him died",,2,1
+26579,75,"to die, be dead",-máta,,,1,1
+26936,76,"to live, be alive",rúga,,,,
+27293,77,"to scratch",-áru',,,44,1
+27650,78,"to cut, hack",-go',,,,
+28007,79,stick/wood,ai,,,1,1
+28364,80,"to split",-fáwas,,,,
+28721,81,sharp,mánggan,,,9,
+29078,82,"dull, blunt",manggúfar,,,,
+29435,83,"to work",-'arjang,,L,,
+29792,84,"to plant",-swen,,,,
+30149,85,"to choose",-pil,,,1,1?
+30506,86,"to grow",-súbun,,,,?
+30863,87,"to swell",nafafótan,,,59,
+31220,88,"to squeeze",-óbas,,,1?,
+31577,89,"to hold",-on,,,,
+31934,90,"to dig",-'ári',,,1,1
+32291,91,"to buy",-manggúr,,,,
+32648,92,"to open, uncover",-fir,,,,
+33005,93,"to pound, beat",-tu',,,"20, 2",1
+33362,94,"to throw",-faré,,,,
+33719,95,"to fall",-dai,,,,
+34076,96,dog,-afúna,,,35,
+34433,97,bird,mánu',,,1,1
+34790,98,egg,tóron,,,1,1
+35147,99,feather,fur,,,1,1
+35504,100,wing,furifur,,,77,
+35861,101,"to fly",-tif,,,6,
+36218,102,rat,asafái,,,,
+36575,103,meat/flesh,ses,"or 1?",,31,
+36932,104,fat/grease,tatífar,,,23?,
+37289,105,tail,e',,,,
+37646,106,snake,arói,,,,
+38003,107,"worm (earthworm)",wa'arwá'ar,,,,
+38360,108,louse,ut,,,1,1
+38717,109,mosquito,banísir,,,,
+39074,110,spider,ráwar-ráwar,,,1?,1?
+39431,111,fish,don,,,12,
+39788,112,rotten,nama-sóat,,,,
+40145,113,branch,"sang ai",,,2,
+77786,114,leaf,aryó',,,,
+77787,114,leaf,rówce,,,,
+77788,114,leaf,réwe,,,,
+40859,115,root,rárin,,,2?,1
+41216,116,flower,búnga,,L,,
+41573,117,fruit,afafói,,,,
+41930,118,grass,maríut,,,,
+78036,119,earth/soil,laféta,,,,
+78037,119,earth/soil,tanóm,,,1,
+42644,120,stone,lagéra,,,,
+43001,121,sand,éna,,,1,1
+43358,122,water,wálar,(<+wayeR),,2,1
+43715,123,"to flow",-buswér,,,,
+78332,124,sea,"rafú'an rau",,,,
+78333,124,sea,mot,,,,
+44429,125,salt,sira,,,1,1
+44786,126,lake,gwángga,,,,
+45143,127,woods/forest,wes,,,9?,
+45500,128,sky,ránggit,,,1,1
+45857,129,moon,fúran,,,1,1
+46214,130,star,oma-óma,,,,
+78650,131,cloud,loftaí,,,,
+78651,131,cloud,lor-tai,,,,
+78721,132,fog,sawana,,,4,
+78722,132,fog,afwara,,,,
+47285,133,rain,óma,,,,
+47642,134,thunder,dúdun,,,8,?
+47999,135,lightning,rińdaf,,,,
+48356,136,wind,lor,,,,
+48713,137,"to blow",-útun,,,,
+49070,138,warm,ońggaf,,,,
+49427,139,cold,rídin,,,1,1
+49784,140,dry,nama-ráwar,,,1?,
+50141,141,wet,-'abótan,,,8,
+50498,142,heavy,uyéman,,,4?,
+50855,143,fire,laf,(<+yapi),,1,1
+51212,144,"to burn",-taláf,,,,
+51569,145,smoke,"laf buba","fire dust",,,
+51926,146,ash,tuga,,,,
+52283,147,black,maétan,,,1,1
+52640,148,white,ra'a-rá'a,,,,
+52997,149,red,wámbar,,,,
+53354,150,yellow,'úning,,L,1,
+53711,151,green,mamáta,?,,1,1
+119496,152,small,net,one,,,
+119497,152,small,sififís,group,,,
+119317,153,big,nabéti,one,,,
+119318,153,big,ruwuwén,group,,,
+80112,154,short,tóba,,,,
+80113,154,short,émber,,,,
+55139,155,long,maráwas,,,9,
+55496,156,thin,manífin,,,1,1
+55853,157,thick,fatóron,,,,
+56210,158,narrow,nifiségat,,,,
+56567,159,wide,garáfar,,,1,
+123015,160,"painful, sick",sá'it,sick,,1,1
+123016,160,"painful, sick",nafíti,sick,,,
+123017,160,"painful, sick",sigirótan,painful,,1,
+57281,161,"shy, ashamed",-mála,(<+mayaq),,1,1
+57638,162,old,tuárin,,,,?
+57995,163,new,fówa,,,1?,
+58352,164,good,nágéf,,,,
+80679,165,"bad, evil",nogatéi,,,,
+80680,165,"bad, evil",sumángga,,,,
+59066,166,"correct, true",dóma,,,,
+59423,167,night,mómat,,,,
+59780,168,day,óra,,,,
+60137,169,year,úa,,,,
+60494,170,when?,waníng,,,,
+60851,171,"to hide",-fafúran,,,,
+119498,172,"to climb",-sa'a,,,2,
+119499,172,"to climb",-nyata,,,1?,
+61565,173,at,-na,,,4,
+61922,174,"in, inside","[-na] úta'",,,,
+62279,175,above,"[-na] féfa",,,2?,1?
+62636,176,below,"[-na] tifàa",,,,
+62993,177,this,iná,,,1,
+63350,178,that,ifá,,,,
+63707,179,near,nagésa,,,,
+64064,180,far,sor,,,,
+119500,181,where?,minaning,human,,,
+119501,181,where?,-ning,non-human,,,
+64778,182,I,la',,,1,1
+65135,183,thou,au,,,1,1
+65492,184,he/she,i,,,1,1
+119502,185,we,íta,,,1,1
+119503,185,we,am,,,2,
+66206,186,you,o,,,2,?
+66563,187,they,si,,,1,?
+66920,188,what?,lafé,,,1,?
+67277,189,who?,se,,,1,
+67634,190,other,ésa,,,,
+67991,191,all,nabúna,,,,
+82521,192,and,náta,,,,
+82522,192,and,ía,,,,
+68705,193,if,kálu,,L,,
+69062,194,how?,nugu-níng,,,,
+69419,195,"no, not",tei,,,4,
+69776,196,"to count",-re'un,,,,
+70133,197,One,isa|mós,,,1,1?
+70490,198,Two,[ru]wet,,,1,1
+70847,199,Three,tor,,,1,1
+71204,200,Four,fat,,,1,1

@@ -1,0 +1,27 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+958,"Flowery Lolo","Lu & Nong (1998)",,mant1265,"Lu Zhengyuan (吕正元) and Nong Lansheng (农览生), chief editors. 1998. Funing Xian Minzu Zhi 富宁县民族志 [Funing County Ethnic Gazetteer]. Kunming: Yunnan Ethnic Publishing House.",,"Sino-Tibetan, Tibeto-Burman, Lolo-Burmese, Loloish, Mondzish","Andrew C. Hsiu","Simon Greenhill","@book{lu1998a,  date          = {1998},  title         = {Funing Xian Minzu Zhi 富宁县民族志},  title_english = {Funing County Ethnic Gazetteer},  publisher     = {Ethnic Publishing House},  address       = {Kunming: Yunnan},  editor        = {Lu, Zhengyuan (吕正元) and Lansheng, Nong}}"
+latitude,longitude
+23.18290000000000000000,105.40500000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+247384,56,child,ʔi11,son,,,
+247385,60,father,pa31,,,,
+247397,119,earth/soil,?me11,,,,
+247398,122,water,a31,,,,
+247377,128,sky,mo11,,,,
+247378,129,moon,"let44 pɔ31",,,,
+247379,133,rain,a11,,,,
+247380,136,wind,"ni55 tsa24",,,,
+247381,143,fire,?mi31,,,,
+247382,168,day,ne31,,,,
+247383,169,year,khu35,,,,
+247386,197,One,ta13,,,,
+247387,198,Two,"ni31 a44",,,,
+247388,199,Three,"suŋ11 a44",,,,
+247389,200,Four,"ləi11 a44",,,,
+247390,201,Five,ŋa31,,,,
+247391,202,Six,"khu55 a44",,,,
+247392,203,Seven,"ɬi44 a44",,,,
+247393,204,Eight,si55,,,,
+247394,205,Nine,ko31,,,,
+247395,206,Ten,səi11,,,,
+247396,210,"One Thousand","(ta21) zui13",,,,

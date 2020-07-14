@@ -1,0 +1,233 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+41,Mori,"Hans Lapotiwa",xmz,mori1268,,,"Austronesian, Malayo-Polynesian, Celebic, Eastern, Southeastern, Bungku-Tolaki, Eastern, East Coast","Peng Du","Simon Greenhill","@misc{Lapotiwa-41-2005,  author = \"Hans Lapotiwa\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-2.48213340373056334798,121.31103515625000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+41,1,hand,kae,,,36,
+398,2,left,maŋgali,,,,
+755,3,right,koana,,,"1,62",1
+1112,4,leg/foot,karu,,,49,
+1469,5,"to walk",melenipa,,,,1
+1826,6,road/path,sala,,,1,1
+2183,7,"to come",hawe,,,,
+71700,8,"to turn",mekoana,,,,
+71701,8,"to turn",memaŋgoli,,,,
+2897,9,"to swim",s[um]owe,,,,
+3254,10,dirty,merege,,,,
+3611,11,dust,awu,,,1,
+3968,12,skin,kuli,,,1,1
+4325,13,back,torulu,,,1,
+4682,14,belly,kompo,(<kompuN),,2,
+5039,15,bone,wuku,,,16,
+5396,16,intestines,ulekompo,,,,
+5753,17,liver,ate,,,1,1
+6110,18,breast,susu,,,1,1
+6467,19,shoulder,owea,+R>y,,1?,1
+72286,20,"to know, be knowledgeable",toʔori,it,,,
+72287,20,"to know, be knowledgeable",t[um]o'orio,it,,,
+72343,21,"to think",mompewowolo,it,,,
+72344,21,"to think",mewowoloo,it,,,
+7538,22,"to fear",doito,,,,
+7895,23,blood,rea,+R>y,,1,1
+8252,24,head,"ulu [bagian tubuh]",,,1,1
+8609,25,neck,weʔu,,,37,
+8966,26,hair,wuu,,,1,1
+9323,27,nose,eŋe,,,20,
+9680,28,"to breathe",menaa,,,1,1
+10037,29,"to sniff, smell",mowowoo,,,,
+10394,30,mouth,ŋaŋa,,,24,
+10751,31,tooth,ŋisi,,,24,1
+11108,32,tongue,elo,,,4,?
+11465,33,"to laugh",metotaa,,,1,1
+11822,34,"to cry",mebee,,,,
+12179,35,"to vomit",kolua-lua,,,8,
+12536,36,"to spit",meʔeli,,,,
+12893,37,"to eat",moŋkaa,,,1,1
+13250,38,"to chew",momamaki,,,1,?
+13607,39,"to cook",monahu,,,3,1
+13964,40,"to drink",moinu,,,1,1
+89748,41,"to bite",moŋkiki,tr.,,1,1
+89749,41,"to bite",mekiki,intr.,,1,
+14678,42,"to suck",moʔoso,,,1,1
+15035,43,ear,biri,,,26,
+15392,44,"to hear",moroŋe,(e<-ey),,1,1
+15749,45,eye,mata,,,1,1
+16106,46,"to see",moŋkita,,,1,1
+16463,47,"to yawn",memaali,,,,
+16820,48,"to sleep",moturi,,,1,1
+17177,49,"to lie down",melendoako,,,,
+17534,50,"to dream",moʔipi,,,1,1
+17891,51,"to sit",mentoro,,,,
+18248,52,"to stand",mentade,,,,
+18605,53,"person/human being",mia,,,19,
+18962,54,man/male,tama,,,25,
+19319,55,woman/female,beine,,,"1,107",1
+19676,56,child,ana,,,1,1
+20033,57,husband,tama,,,,
+20390,58,wife,beine,,,5,
+20747,59,mother,ine,,,1,1
+21104,60,father,ama,,,1,1
+21461,61,house,raha,,,4,
+21818,62,thatch/roof,ato,,,1,1
+22175,63,name,nee,,,,
+153116,63,name,nge'e,,,,
+153117,63,name,ngee,,,,
+22532,64,"to say",mepau,,,,
+22889,65,rope,ula,(<+ulaR?),,,
+23246,66,"to tie up, fasten",mowutu,,,,
+23603,67,"to sew",monseu,,,,1
+23960,68,needle,seu,+R>y,,1,1
+24317,69,"to hunt",mowemba,,,,
+24674,70,"to shoot",mompana,,,1,1
+25031,71,"to stab, pierce",montobo,,,24,?
+25388,72,"to hit",montunduhi,,,,
+25745,73,"to steal",monako,,,1,1
+26102,74,"to kill",mompepate,,,22,
+26459,75,"to die, be dead",mate,,,1,1
+26816,76,"to live, be alive",tuwu,,,,
+27173,77,"to scratch",mekaru,,,1,1
+27530,78,"to cut, hack",mompole,,,,
+27887,79,stick/wood,keu,,,1,1
+28244,80,"to split",mobansi,,,,?
+28601,81,sharp,montaso,,,,1
+28958,82,"dull, blunt",bonda,,,,
+29315,83,"to work",mo'ŋga,,,,
+29672,84,"to plant",mompaho,,,,
+30029,85,"to choose",mobiniki,,,1?,
+30386,86,"to grow",tuwu,=76,,1,1
+30743,87,"to swell",kamba,,,20,?
+31100,88,"to squeeze",mompaiki,,,,
+31457,89,"to hold",moʔini,,,,
+31814,90,"to dig",moŋkelee,,,1,
+32171,91,"to buy",moʔoli,,,1,1
+32528,92,"to open, uncover",moʔuŋkahi,,,,
+32885,93,"to pound, beat",moʔisa,,,,
+76717,94,"to throw",metadiakono,,,,
+76718,94,"to throw",tumadio,(it.),,,
+33599,95,"to fall",te'onta,,,,
+33956,96,dog,d|ahu,,,1,1?
+34313,97,bird,manu-manu,,,1,1
+34670,98,egg,su'ului,,,,
+35027,99,feather,wulu,,,1,1
+35384,100,wing,paani,,,2,1
+35741,101,"to fly",membiri,,,,
+36098,102,rat,tehu,,,7,
+36455,103,meat/flesh,bau,,,,
+36812,104,fat/grease,taba,,,23,
+37169,105,tail,iki,,,1,1
+37526,106,snake,ule,,,2,1
+37883,107,"worm (earthworm)",ulekonda,+R>y,,,
+38240,108,louse,kutu,,,1,1
+77504,109,mosquito,nini,,,17,
+77505,109,mosquito,tiporo,,,,
+38954,110,spider,kaaŋga,,,,
+39311,111,fish,bou,"Could 21 = 27 ? (LS)",,21?,
+39668,112,rotten,moboo,,,115,
+40025,113,branch,sampa,,,2?,
+40382,114,leaf,lewe,,,,
+40739,115,root,haka,,,2?,?
+41096,116,flower,wuŋa,,,1,1
+41453,117,fruit,wua[ŋkeu],,,1,1
+41810,118,grass,seko,,,,
+42167,119,earth/soil,wita,,,26,
+42524,120,stone,watu,,,1,1
+42881,121,sand,one,,,1,1
+43238,122,water,uwoi,,,2?,1?
+43595,123,"to flow",umule,,,,
+43952,124,sea,tahi,,,1,1
+44309,125,salt,ohia,,,1?,1
+44666,126,lake,rano,,,1,1
+45023,127,woods/forest,wana,,,34,
+45380,128,sky,laŋi,,,1,1
+45737,129,moon,wula,,,1,1
+46094,130,star,binta,,,1,
+46451,131,cloud,seru,,,,
+46808,132,fog,menseru,,,,
+47165,133,rain,usa,,,1,1
+47522,134,thunder,rundu,,,,?
+47879,135,lightning,koliki,,,1?,
+48236,136,wind,pue,,,,
+48593,137,"to blow",mepuuri,,,,
+48950,138,warm,mokula,,,,
+49307,139,cold,morini,,,,1?
+79215,140,dry,motui,,,,1
+79216,140,dry,mowaŋe,,,1,1
+50021,141,wet,mobaho,,,1,1
+50378,142,heavy,montondu,,,,
+50735,143,fire,api,,,1,1
+51092,144,"to burn",montunu,,,1,1
+51449,145,smoke,ahu,,,2,1
+51806,146,ash,awu,,,1,1
+52163,147,black,mo'ito,,,1,1
+52520,148,white,mopute,,,1,1
+52877,149,red,motaha,,,,
+53234,150,yellow,moŋkuni,,,1,1
+53591,151,green,molowula,,,,
+53948,152,small,kodei,,,2,
+54305,153,big,laŋkai,,,,
+54662,154,short,owaa,,,,1?
+55376,156,thin,monipi,,,1,1
+55733,157,thick,mokapa,,,1,1
+56090,158,narrow,moʔiso,,,,
+56447,159,wide,malua,,,1?,1?
+56804,160,"painful, sick",mahaki,,,1,1
+57161,161,"shy, ashamed",mokoʔau,,,,
+80472,162,old,motuʔa,"(fruit) (people) cf.Mukah",,1,1
+80473,162,old,motaʔu,"(fruit) (people) cf.Mukah",,1,1
+57875,163,new,woʔohu,+R>y,,1,1
+58232,164,good,moiko,,,,
+58589,165,"bad, evil",mosa'o,,,1?,1
+58946,166,"correct, true",mentee,,,,
+59303,167,night,owiŋi,"cf.chm pwiNi",,1,1?
+59660,168,day,meene,,,,
+60017,169,year,taʔu,,,1,1
+60374,170,when?,teʔipia,?,,"1,65",?
+60731,171,"to hide",mewuni,,,1,1
+61088,172,"to climb",mewuatako,,,,
+61445,173,at,i,,,1,1
+61802,174,"in, inside",[i]laro[no],,,1,1
+62159,175,above,"i wawo[no]",,,2,1
+62516,176,below,"i toto[no]",,,,
+62873,177,this,[a]ndio,,,,
+122684,178,that,tuu,"close to hearer",,16,1
+122685,178,that,rau,"a bit far from both",,,
+122686,178,that,lou,"far from both but visible",,,
+122687,178,that,tahu,"for something aloof",,,
+63587,179,near,umpeda,,,,
+63944,180,far,olai,,,,
+64301,181,where?,"i sua",,,,
+81776,182,I,oŋkue[nonfut],,,1,1
+81777,182,I,"aku [fut]",,,1,1
+81860,183,thou,omue,,,,1
+81861,183,thou,ko-,,,1,1
+81934,184,he/she,onae,,,,
+81935,184,he/she,ta-,,,,
+122688,185,we,ontae,,,,
+122689,185,we,kita,,,1,1
+122690,185,we,omami,,,2,
+122691,185,we,kami,,,2,
+82033,186,you,omiu,,,"1,13",1
+82034,186,you,komiu,,,"1,13",1
+82129,187,they,ondae,,,12?,1
+82130,187,they,ira,,,1,1
+66800,188,what?,hapa,,,1,1
+67157,189,who?,isema,cp.wolio,,16,?
+67514,190,other,susua,,,,
+67871,191,all,luwu[no],,,,
+68228,192,and,ka,,,1,1
+68585,193,if,tewala,,,,
+68942,194,how?,"kana umpe",,,22,
+69299,195,"no, not",nahi,(&<qa(z)i?,,1?,?
+69656,196,"to count",modoa,,,,
+70013,197,One,asa,,,1,1
+70370,198,Two,orua,,,1,1
+70727,199,Three,otolu,,,1,1
+71084,200,Four,opaa,,,1,1
+153110,201,Five,olimo,,,1,
+153111,202,Six,ono,,,1,
+153115,203,Seven,opisu,,,,
+153114,204,Eight,hoalu,,,,
+153113,205,Nine,osio,,,,
+153112,206,Ten,hopulo,,,,
+210721,207,Twenty,oruompulo,,,,
+210720,209,"One Hundred",asoetu,,,,

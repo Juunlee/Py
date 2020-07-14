@@ -1,0 +1,192 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+194,Bonfia,"Blust, from Le Cocq d'Armandville (1901) / Stresemann (1927)",bnf,masi1266,"Cocq d'Armandville, C.I.F. le. (1901) Vergelijkende woordenlijst in het Hollandsch, Ceramsch, en Alfoersch (Bonfia). Tijdschrift voor Indische taal-, land- en volkenkunde 43:349-396.Stresemann, E. (1927) Die Lauterscheinungen in den ambonischen Sprachen. Zeitschrift für Eingeborenen-Sprachen, Beihaft 10. Berlin: Dietrich Reimer.is \"Bobot\" in Collins Lists",,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Central Maluku, East, Seram, Masiwang","Peng Du","Simon Greenhill","@article{7931,  journal    = {Tijdschrift voor Indische Taal-, Land- en Volkenkunde},  pages      = {349-396},  title      = {Vergelijkende woordenlijst in het Hollandsch, Ceramsch en Alfoersch (Bonfia)},  volume     = {43},  year       = {1901},  bibtexkey  = {d_ceramsch-alfoersch1901},  fn         = {papua\darmandville_ceramsch-bonfia1901.pdf},  hhtype     = {wordlist},  inlg       = {Dutch [nld]},  inlg_code  = {nld},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#w:dArmandville:Ceramsch-Bonfia},  author     = {Le Cocq d'Armandville, C. J. F.}}@book{59437,  address               = {Berlin},  pages                 = {xii+224},  publisher             = {Reimer},  series                = {Zeitschrift für Eingeborenen-Sprachen / Beihefte},  title                 = {Die Lauterscheinungen in den ambonischen Sprachen},  volume                = {10},  year                  = {1927},  bibtexkey             = {stresemann_lauterscheinungen-ambonischen1927},  class_loc             = {PL5206},  document_type         = {B},  fn                    = {papua\stresemann_ambonischen1927_o.pdf, papua\stresemann_ambonischen1927.pdf},  hhtype                = {overview;comparative},  inlg                  = {German [deu]},  inlg_code             = {deu},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 5206 STR 1927},  src                   = {hh, mpieva},  srctrickle            = {hh#hv:Stresemann:Ambonischen, mpieva#Stresemann1927DieLaute},  subject_headings      = {Amboinese languages, Amboinese languages},  author                = {Stresemann, Erwin}}"
+latitude,longitude
+-3.11858000000000012975,130.51758000000000947693
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+194,1,hand,fasa-n,,,5,
+551,2,left,kobalit,,,7,
+908,3,right,leileit,,,3,
+1265,4,leg/foot,wai-n,,,"1,100",1
+1622,5,"to walk",lowo-lowot,,,,
+1979,6,road/path,lalon,,,1,1
+87862,8,"to turn",hali-hali-n,,,8,
+87863,8,"to turn",fulis,,,15,
+3050,9,"to swim",ke-nani,,,"1,45",?
+3407,10,dirty,efieye,,,4?,
+4121,12,skin,uhit,,,1?,?
+4478,13,back,karan,,,8,
+88026,14,belly,fuʔa-n,,,5,
+88027,14,belly,toan,,,1,
+5192,15,bone,lusi,,,2,
+5549,16,intestines,wale-n,,,7,
+5906,17,liver,"yahein yathen",,,1,1?
+6263,18,breast,susi-n,,,1,1
+6620,19,shoulder,malat,,,5,
+6977,20,"to know, be knowledgeable",batafenen,,,,
+7334,21,"to think",[uha]uoho,,,,
+7691,22,"to fear",mi-toi,,,1?,?
+8048,23,blood,lasa,,,1,1
+8405,24,head,uli-n,,,1,1
+8762,25,neck,wonobaba-n,,,,
+9119,26,hair,"uli-n laa-n","head leaf (ASch)",,40,
+9476,27,nose,nini-n,,,6,
+9833,28,"to breathe",minowa,,,1,1
+10190,29,"to sniff, smell","mulit liʔet",,,5,
+10547,30,mouth,ube-n,,,9,
+10904,31,tooth,nihe-n,,,1,1
+11261,32,tongue,lehe,,,10,
+11618,33,"to laugh",wali,,,"3, 54",
+11975,34,"to cry",rakit,,,1,1
+12332,35,"to vomit",lua-k,,,8,
+12689,36,"to spit",fetōf,,,7,
+13046,37,"to eat",kān,,,1,1
+13403,38,"to chew",mama,,,1,1
+13760,39,"to cook",kali,,,,
+14117,40,"to drink",nimin,,,1?,1?
+14474,41,"to bite",kasat,,,1,1
+15188,43,ear,telike-n,,,1,1
+15545,44,"to hear",a-loka,,,6,1
+15902,45,eye,mata-n,,,1,1
+16259,46,"to see",ʔita,,,1,1
+16616,47,"to yawn","maʔe ma",,,19,?
+16973,48,"to sleep",nime,,,4,
+17330,49,"to lie down",nimeh,,,3,
+17687,50,"to dream",manīf,,,"1,60,3",1
+18044,51,"to sit",tuot,,,10,
+18401,52,"to stand",kolan,,,8,1
+18758,53,"person/human being",otitui,,,3?,
+19115,54,man/male,mesana-n,,,1,1
+19472,55,woman/female,fine-n,,,"1,41",1
+74379,56,child,koŋon,,,,
+74380,56,child,oŋ,,,,
+20186,57,husband,sowe-n,},,2,1
+20543,58,wife,sowe-n,},,1,
+20900,59,mother,"ina ovi",,,1,1
+21257,60,father,yama,,,1,1
+21614,61,house,suma,,,1,1
+21971,62,thatch/roof,yelān,,,28,
+22328,63,name,nala-n,,,1,1
+74825,64,"to say",lēn,,,7?,
+74826,64,"to say",fatan,,,,
+23042,65,rope,fam-wasat,,,2,
+23399,66,"to tie up, fasten",tes,,,6,
+23756,67,"to sew",tula,,,30,
+24470,69,"to hunt",fusa,,,,
+24827,70,"to shoot",tuin,,,20,
+75333,71,"to stab, pierce",taha,,,5,
+75334,71,"to stab, pierce",toi,,,78,
+25541,72,"to hit",leit,,,70,
+25898,73,"to steal",kahalée,,,29,
+26255,74,"to kill",huin,(<M),,1,1
+26612,75,"to die, be dead",mata,,,1,1
+26969,76,"to live, be alive",lihen,,,2,
+27326,77,"to scratch",pala|kasa,,,5,1?
+27683,78,"to cut, hack",tasa,,,1,1
+28040,79,stick/wood,ʔai,,,1,1
+28397,80,"to split",siet,,,,
+28754,81,sharp,mōit,,,7,
+29468,83,"to work","fan sèli",,,,
+30539,86,"to grow",rubi,,,1,1
+31253,88,"to squeeze",foron,,,,?
+31610,89,"to hold",siet,,,8,
+32324,91,"to buy",fas,,,4,
+33038,93,"to pound, beat",tutu,,,20,1
+33395,94,"to throw",tōi,,,6,
+33752,95,"to fall",menahei,,,"1,106",
+34109,96,dog,yai,,,32,?
+34466,97,bird,ohos,,,6,
+34823,98,egg,toli-n,,,1,1
+35180,99,feather,fuli-n,,,1,1
+35537,100,wing,umois,,,,
+35894,101,"to fly",rihi,,,6,
+36251,102,rat,ʔi-laha,,,1,1
+36608,103,meat/flesh,samar,,,7,
+36965,104,fat/grease,"muos tantan",,,,
+37322,105,tail,leken,,,4,
+37679,106,snake,ulei,,,2,?
+38036,107,"worm (earthworm)",faninen,,,,
+38393,108,louse,kuti,,,1,1
+39107,110,spider,lowa,,,1,1
+39464,111,fish,iʔen,,,1,1
+40178,113,branch,saka-n,,,2,
+40535,114,leaf,laa-n,,,1,1
+40892,115,root,tami,"for +s > t/t cp. #34",,3?,1?
+77901,116,flower,fusi-n,,,5,
+77902,116,flower,kuba-n,,,,
+41606,117,fruit,fua,,,1,1
+41963,118,grass,fanuli,,,8,
+42320,119,earth/soil,bata,,,6,
+42677,120,stone,fati,,,1,1
+43034,121,sand,bes,,,8,
+43391,122,water,wai[is],,,2,1
+43748,123,"to flow",bai,,,7,
+44105,124,sea,tasik,,,1,
+44462,125,salt,"tasik nōhin",,,20,
+45176,127,woods/forest,fanalān,,,,
+45533,128,sky,lakit,,,1,1
+45890,129,moon,fulan,,,1,1
+46247,130,star,eliovas,,,,
+46604,131,cloud,suhan,,,,
+47318,133,rain,roti,,,4,
+47675,134,thunder,lolas,,,9,
+48032,135,lightning,yamat-yamat,,,31,
+48389,136,wind,j|akin,,,1,1
+48746,137,"to blow",luti,,,,
+49103,138,warm,bobit,,,6,
+49460,139,cold,basiniŋ,,,1?,1?
+79257,140,dry,rot,,,,
+79258,140,dry,kamaren,,,,
+50174,141,wet,marémen,,,5,
+50531,142,heavy,toni,,,5,
+50888,143,fire,yāf,,,1,1
+51245,144,"to burn",tuin,<M,,1,1
+51602,145,smoke,"yāf kuba",,,4,
+51959,146,ash,yāf-tain,,,4,
+52316,147,black,meta-meta-n,,,1,1
+52673,148,white,buti,,,1,1
+53030,149,red,kala-kalat,,,60,
+53387,150,yellow,"isi inet",,,,
+53744,151,green,biri-biri,,,5,
+54101,152,small,koŋon,,,4,
+54458,153,big,sisa,,,6,
+55886,157,thick,yisé,,,,
+56243,158,narrow,robon,,,,
+56600,159,wide,tihé,,,3?,
+56957,160,"painful, sick",[mara]kali,,,5,
+57314,161,"shy, ashamed",mali,,,1?,?
+57671,162,old,madalena,,,,
+58028,163,new,fos-fosi-n,,,6,1
+58385,164,good,fia,,,1,1
+80778,166,"correct, true",kelelen,,,,
+80779,166,"correct, true",katomen,,,,
+59456,167,night,meset,,,8,
+59813,168,day,yari,,,,
+60170,169,year,nala,,,3,
+60527,170,when?,kala,,,,
+61241,172,"to climb",sā,,,2,
+61955,174,"in, inside",lala-n,,,1,1
+62312,175,above,lete,,,6,
+62669,176,below,lefo,,,6,
+63026,177,this,iso,,,,
+63740,179,near,moaka,,,,
+64097,180,far,wōtot,,,7,
+64454,181,where?,"iata ua",,,,
+64811,182,I,yā,,,1,1
+65168,183,thou,ai,,,,1
+65525,184,he/she,i,,,1,1
+119284,185,we,ʔita,,,1,1
+119285,185,we,ʔame,,,2,
+66239,186,you,ʔimu,,,1,1
+66596,187,they,ile,,,1,1
+66953,188,what?,yanafai,,,1?,
+67310,189,who?,ise|nso,,,1,1?
+67667,190,other,mesēli-séwit,,,,
+68024,191,all,ofila,,,,
+69095,194,how?,yanafai,,,,
+82739,195,"no, not",té,,,4,
+82740,195,"no, not","e nié",,,4,
+69809,196,"to count",woʔis,,,,
+70166,197,One,sa,,,1,1
+70523,198,Two,lua,,,1,1
+70880,199,Three,toli,,,1,1
+71237,200,Four,fāt,,,1,1

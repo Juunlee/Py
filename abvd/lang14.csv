@@ -1,0 +1,251 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+14,Bima,"Syamsuddin A.R. / IKIP Bandung",bhp,bima1247,,,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Bima-Sumba","Simon Greenhill","Simon Greenhill","@misc{Syamsuddin-14-2005,  author = \"A.R. Syamsuddin\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-8.53756535080401768312,118.52050781250000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+14,1,hand,rima,,,"1,64",1
+371,2,left,kuʔi,,,"1,42",?
+728,3,right,wana,,,1,1
+1085,4,leg/foot,eḏi,,,,
+1442,5,"to walk",lampa,,,42,1
+1799,6,road/path,ncai,,,,
+2156,7,"to come",mai,,,1,1
+2513,8,"to turn",peko,,,,
+2870,9,"to swim",liwa,,,,
+3227,10,dirty,sampu,,,,
+3584,11,dust,kaluḇu,,,,
+3941,12,skin,huri,,,1,1
+4298,13,back,deri,,,18,
+4655,14,belly,loko,,,,
+5012,15,bone,peke,,,,
+5369,16,intestines,"isi loko",,,5,
+5726,17,liver,ade,,,1,1
+72180,18,breast,susu,,,1,1
+72181,18,breast,tando,,,,1
+6440,19,shoulder,ḏinca,,,,
+72277,20,"to know, be knowledgeable",ḇade,,,,
+72278,20,"to know, be knowledgeable",loa,,,,
+7154,21,"to think",fiki,"Correction: Peter Just - loan from Malay/Arabic \"fikir\"",L,22,
+87938,21,"to think",kananu,"Correction: Peter Just",,29,
+7511,22,"to fear",dahu,,,1,1
+7868,23,blood,raʔa,,,1,1
+8225,24,head,tuta,,,,
+8582,25,neck,woʔo,,,,
+8939,26,hair,honggo,,,6?,
+9296,27,nose,ilu,,,1,1
+9653,28,"to breathe","sasi nawa",,,1,1
+10010,29,"to sniff, smell",ngilu,,,4?,
+10367,30,mouth,asa,,,,
+10724,31,tooth,woi,,,,
+11081,32,tongue,lera,,,6?,?
+11438,33,"to laugh",hari,,,6?,
+11795,34,"to cry",nangi,,,1,1
+12152,35,"to vomit",lohi,,,,
+12509,36,"to spit",katufe,,,9,
+12866,37,"to eat",ngaha,,,3,1
+73291,38,"to chew",mama,,,1,1
+73292,38,"to chew",panaʔa,,,3,1
+13580,39,"to cook",mbako,,,,
+13937,40,"to drink",nono,,,1?,
+14294,41,"to bite",ngenge,,,,
+14651,42,"to suck",kamuci,,,6,
+15008,43,ear,fiko,,,,
+15365,44,"to hear",kadeʔe,,,67?,
+15722,45,eye,mada,,,1,1
+73843,46,"to see",tio,,,3?,
+73844,46,"to see",ntande,,,3?,
+16436,47,"to yawn",mawa,,,19,1
+16793,48,"to sleep",maru,,,1,
+17150,49,"to lie down",ndore,,,37?,
+17507,50,"to dream",nifi,,,"1,60",1
+17864,51,"to sit",doho,,,9,
+18221,52,"to stand",kiḏi,,,"1,5",1
+18578,53,"person/human being",dou,,,1,1
+74205,54,man/male,mone,,,1,1
+74206,54,man/male,rangga,,,112,1
+19292,55,woman/female,siwe,,,1,1
+19649,56,child,ana,,,1,1
+20006,57,husband,rahi,,,6,
+20363,58,wife,wei,[=55],,3,
+20720,59,mother,ina,,,1,1
+74542,60,father,ama,,,1,1
+74543,60,father,uba,,,25,1
+21434,61,house,uma,,,1,1
+21791,62,thatch/roof,ḇutu,,,,
+22148,63,name,ngara,,,1,1
+22505,64,"to say",nggahi,,,69?,
+22862,65,rope,ai,,,6?,
+23219,66,"to tie up, fasten",ḏiki,,,1?,?
+23576,67,"to sew",ndaʔu,,,3?,?
+23933,68,needle,ndau,,,1?,?
+24290,69,"to hunt",nggalo,,,,
+24647,70,"to shoot",bedi,,,37,
+25004,71,"to stab, pierce",tuḇa,,,6,
+75360,72,"to hit",ḇoe,,,,
+75361,72,"to hit",nduku,,,40,
+25718,73,"to steal",mpanga,,,"1,58,59,60?",
+26075,74,"to kill",hade,,,,
+26432,75,"to die, be dead",made,,,1,1
+26789,76,"to live, be alive",mori,,,"1,76",1
+75611,77,"to scratch",kao,,,1,1
+75612,77,"to scratch",garo,,,1,1
+75663,78,"to cut, hack",dompo,,,5?,
+75664,78,"to cut, hack",fati,,,,
+27860,79,stick/wood,haju,,,1,1
+75824,80,"to split",biʔa,,,51,1
+75825,80,"to split",tela,,,51,1
+75939,81,sharp,ngaha,,,,
+75940,81,sharp,geri,,,,
+28931,82,"dull, blunt",dudu,,,38?,
+29288,83,"to work",karawi,,,,
+29645,84,"to plant",ngguḏa,,,,
+30002,85,"to choose",kaḏale,,,3,
+76200,86,"to grow",mori,,,2,
+76201,86,"to grow",kambonci,,,,
+30716,87,"to swell",winte,,,,
+76342,88,"to squeeze",pua,,,1,1
+76343,88,"to squeeze",pici,,,,1
+76414,89,"to hold",nenti,,,101?,
+76415,89,"to hold",ḏama,,,,
+31787,90,"to dig",ngari,,,1,1
+32144,91,"to buy",weli,,,1,1
+76608,92,"to open, uncover",hengga,,,,
+76609,92,"to open, uncover",wika,,,1?,
+102904,93,"to pound, beat",mbaju,,,1,1
+102905,93,"to pound, beat",tutu,"or 20?",,"20, 2",
+76713,94,"to throw",ḇale,,,28,
+76714,94,"to throw",leo,,,4,
+33572,95,"to fall",maḇu,,,"1,106",1
+33929,96,dog,lako,,,5,
+34286,97,bird,nasi,,,,
+34643,98,egg,dolu,,,1,1
+35000,99,feather,kere,,,,
+35357,100,wing,kalete,,,,
+35714,101,"to fly",ngemo,,,3,
+36071,102,rat,karawo,,,"1,83",1
+36428,103,meat/flesh,hiʔi,,,31,
+36785,104,fat/grease,apa,,,,
+37142,105,tail,keto,,,1?,
+37499,106,snake,sawa,,,5?,
+37856,107,"worm (earthworm)",koli,,,1?,
+38213,108,louse,hudu,,,1,1
+38570,109,mosquito,"karoku katongga",,,6?,
+38927,110,spider,sangganggau,,,3,
+39284,111,fish,uta,,,,
+105185,112,rotten,mbai,,,5,
+105186,112,rotten,mburu,,,1,
+39998,113,branch,sanga,,,2,
+40355,114,leaf,roʔo,,,1,1
+40712,115,root,amu,,,3,1
+77885,116,flower,bunga,,,1,1
+77886,116,flower,wunta,,L?,,1
+41426,117,fruit,"wua haju",,,1,1
+41783,118,grass,mpori,,,,
+42140,119,earth/soil,dana,,,1,1
+42497,120,stone,wadu,,,1,1
+42854,121,sand,sarae,,,,
+43211,122,water,oi,,,2,1
+78249,123,"to flow",rai,,,,
+78250,123,"to flow",tanggiru,,,,
+43925,124,sea,moti,,,,
+44282,125,salt,sia,,,1,1
+44639,126,lake,dano,,,1,1
+44996,127,woods/forest,wuḇa,,,,
+45353,128,sky,langi,,,1,1
+45710,129,moon,wura,,,1,1
+46067,130,star,ntara,,,4,
+46424,131,cloud,riru,,,,
+46781,132,fog,apu,,,1?,
+47138,133,rain,ura,,,1,1
+47495,134,thunder,"kareci ai",,,,
+47852,135,lightning,"kakila ai",,,1,1
+48209,136,wind,angi,,,1,1
+48566,137,"to blow",ewu,,,,
+48923,138,warm,pana,,,1,1
+49280,139,cold,ḇusi,,,,
+49637,140,dry,mango,,,1,1
+49994,141,wet,mbeca,,,1,1
+50351,142,heavy,tani,,,,
+50708,143,fire,afi,,,1,1
+51065,144,"to burn",kaʔa,,,,
+51422,145,smoke,oḇu,,,7,
+51779,146,ash,kaluḇu,,,3?,?
+52136,147,black,meʔe,,,,
+52493,148,white,ḇura,,,3,1
+52850,149,red,kala,,,,
+53207,150,yellow,monca,,,,
+53564,151,green,jao,,,41,
+79846,152,small,toʔi,,,,?
+79847,152,small,liko,,,,?
+54278,153,big,naʔe,,,,
+80081,154,short,poro,,,45,1
+80082,154,short,pada,,,1,1
+54992,155,long,naru,,,1,1
+55349,156,thin,nipi,,,1,1
+55706,157,thick,teḇe,,,7,1
+56063,158,narrow,tuka,,,,
+80303,159,wide,lembo,,,,
+80304,159,wide,paja,,,,
+80344,160,"painful, sick",supu,,,,
+80345,160,"painful, sick",hengge,,,,
+80428,161,"shy, ashamed",maja,,,1,1
+80429,161,"shy, ashamed",mbalu,,,1,1
+57491,162,old,tua,,,1,1
+57848,163,new,ḇou,,,1,1
+58205,164,good,taho,,,,
+58562,165,"bad, evil",daḇae,,,,
+58919,166,"correct, true",poda,,,,
+59276,167,night,aimangaḏi,,,,
+59633,168,day,ainai,,,,?
+59990,169,year,mbaʔana,,,,
+60347,170,when?,"ḇune ai",,,,
+80978,171,"to hide",cili,,,,
+80979,171,"to hide","ncimi kolo",,,,
+61061,172,"to climb",neʔe,"\"to ascend, go up\"",,1,1
+87939,172,"to climb",teka,"Correction: Peter Just - \"to climb\"",,,
+122900,173,at,di,,,20,1
+122901,173,at,aka,,,,
+122902,173,at,ta,,,7,
+61775,174,"in, inside",taḏei,,,,
+62132,175,above,taese,,,5?,
+62489,176,below,ta-awa,,,1,
+62846,177,this,ake,,,,
+81433,178,that,ede,,,,
+81434,178,that,aka,,,,
+63560,179,near,ḏeni,,,1,1
+63917,180,far,doʔo,,,,1
+64274,181,where?,taḇe,,,2?,
+81764,182,I,nahu,,,1,1
+81765,182,I,lamada,,,1,1
+81848,183,thou,nggomi,,,,
+81849,183,thou,ndaimu,,,,
+81924,184,he/she,sia,,,1,1
+81925,184,he/she,ndaina,,,1,1
+120895,185,we,ndaita,,,1,1
+120896,185,we,nami,,,2,
+66059,186,you,"nggomi ḏoho",,,,
+66416,187,they,"sia ḏoho",,,1?,
+66773,188,what?,au,,,,
+67130,189,who?,cou,,,,
+67487,190,other,laina,,L,,
+82373,191,all,saraʔa,,,,
+82374,191,all,samena,,,,
+68201,192,and,laḇo,,,,
+68558,193,if,nggara,,,,
+68915,194,how?,ḇune,,,,
+69272,195,"no, not",wati,,,1?,?
+69629,196,"to count",reke,,L?,39,
+69986,197,One,ica,,,1,1
+70343,198,Two,ḏua,,,1,1
+70700,199,Three,tolu,,,1,1
+71057,200,Four,upa,,,1,1
+128553,201,Five,lima,,,1,
+128567,202,Six,ini,,,1,
+128568,203,Seven,pidu,,,1,
+128569,204,Eight,waru,,,3,
+128570,205,Nine,ciwi,,,5,
+128571,206,Ten,sempuru,,,5,
+128563,207,Twenty,duampuru,,,,
+128564,208,Fifty,limampuru,,,"1,2",
+128565,209,"One Hundred",seratu,,,4,
+128566,210,"One Thousand",seriwu,,,5,

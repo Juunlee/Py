@@ -1,0 +1,229 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+215,Ma'anyan,"Blust, from: Hudson (1967)",mhy,maan1238,"Hudson, Alfred B. (1967) Padju Epat: The Ethnography and Social Structure of a Ma'anyan Dajak Group in Southeastern Borneo. Ph.D. Dissertation, Cornell University, 1967.","pe'e 'leg, foot' belongs in 22 and has no relation to set 25: it comes from *paqa 'thigh' (compare Malay paha) and has a regular Malagasy cognate fè 'thigh'","Austronesian, Malayo-Polynesian, Greater Barito, East, Central-South, South","Penny Keenan","Simon Greenhill + Sander Adelaar","@phdthesis{312062,  pages      = {598},  school     = {Cornell University},  title      = {Padju Epat: The ethnography and social structure of a Ma'anjan Dajak group in Southeastern Borneo},  year       = {1967},  bibtexkey  = {hudson_padju-epat1967},  fn         = {papua\hudson_padju-epat1967.pdf},  hhtype     = {overview;comparative;wordlist},  inlg       = {English [eng]},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#hvw:Hudson:Padju-Epat},  author     = {Hudson, Alfred B.}}"
+latitude,longitude
+-2.34878701781514820368,114.85075347668009726476
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+215,1,hand,taŋan,,,18,
+572,2,left,kawiʔ,,,"1,42",1
+929,3,right,kawan,,,"1,62",1
+1286,4,leg/foot,peʔe,,,22,
+1643,5,"to walk",takia,,,,
+2000,6,road/path,lalan,,,1,1
+2357,7,"to come",hawiʔ,"SA: S. Sulawesi loan in Ma'anyan and Malagasy (?)",,70,
+2714,8,"to turn",melok,"< Malay",L,,
+3071,9,"to swim",katamah,,,,
+3428,10,dirty,murun,,,,
+204392,10,dirty,bere,,,,
+3785,11,dust,ewuŋ,"possibly < *qabuh but not regular",,,
+4142,12,skin,kudit,,,1,1
+4499,13,back,puŋuŋ,,,24,
+4856,14,belly,wuntuŋ,,,29,
+5213,15,bone,taʔulaŋ,,,1,1
+5570,16,intestines,sanaʔi,,,1,1
+5927,17,liver,atey,,,1,1
+135638,18,breast,dubdob,"X rubbish: pl.delete",,,
+202699,18,breast,umu,,,,
+6641,19,shoulder,papale,,,12,
+6998,20,"to know, be knowledgeable",karasa,"ult. < Malay < Sanskrit",L,,
+7355,21,"to think",bafikir,"loan of 22",L,22,
+7712,22,"to fear",aŋheʔey,,,,
+8069,23,blood,iraʔ,"Dahl 1951: must be a back formation of *mi-ra 'to bleed'",,1,?
+8426,24,head,uluʔ,,,1,1
+8783,25,neck,diuŋ,"irregular but still related to *biung in other SE Barito languages",,131,
+9140,26,hair,wulu,,,31,
+9497,27,nose,uruŋ,,,1,1
+9854,28,"to breathe",mi-hewuk,,,,
+10211,29,"to sniff, smell",ñiuk,,,,
+10568,30,mouth,wawaʔ,"aru/wawa' deleted = face",,1,1
+10925,31,tooth,dipen,,,1,1
+11282,32,tongue,lelaʔ,,,4,
+11639,33,"to laugh",kakihiʔ,,,107,
+11996,34,"to cry",nuŋkaw,,,,
+12353,35,"to vomit",nuaʔ,"< *maN- + *luaq",,8,1
+12710,36,"to spit",i|rura,,,1,1
+13067,37,"to eat",kuman,,,1,1
+189075,38,"to chew",me'empa,,,66,
+189076,38,"to chew",mempa,,,66,
+13781,39,"to cook",nandru',"k in nandruk is wrong, should be glottal stop",,102,
+14138,40,"to drink",ŋoʔot,,,,
+14495,41,"to bite",ŋikit,,,20,1
+14852,42,"to suck",umuʔ,,,,
+15209,43,ear,siluʔ,,,4?,
+15566,44,"to hear",ñandriŋey,,,1,1
+15923,45,eye,mate,,,1,1
+16280,46,"to see",ŋiniʔ,"< *indiq",,,
+202698,47,"to yawn",hahayam,,,,
+16994,48,"to sleep",manreʔ,,,34,
+17351,49,"to lie down",mankadiŋ,,,,
+154809,50,"to dream",nganupi,,,1,
+18065,51,"to sit",maharuŋ,,,,
+18422,52,"to stand",minri,,,1,
+18779,53,"person/human being",ulun,,,17,
+19136,54,man/male,upu,,,,
+19493,55,woman/female,wawey,,,"1,105",1
+19850,56,child,iaʔ,,,101,
+20207,57,husband,"matue upu",,,,
+20564,58,wife,"matue wawey",,,,
+20921,59,mother,ineh,,,1,1
+21278,60,father,amah,,,1,1
+21635,61,house,lewuʔ,,,12,
+202696,62,thatch/roof,hapaw,,,15,
+202697,62,thatch/roof,wuwungan,"X = 'roof ridge' (not 'roof')",,,
+22349,63,name,ŋaran,,,1,1
+22706,64,"to say",ŋeaw,"< eaw 'voice'",,,
+23063,65,rope,tadi,,,1,1
+23420,66,"to tie up, fasten",nuruk,,,,
+23777,67,"to sew",ikamit,,,,
+173061,68,needle,pilus,,,14,
+24491,69,"to hunt",mukaʔ,,,,
+24848,70,"to shoot",nimak,,,49,
+25205,71,"to stab, pierce",ñuduk,,,23,
+25562,72,"to hit",nampar,,L,,
+204391,73,"to steal",ngalat,,,57,
+26276,74,"to kill",manuʔ,"X, delete",,1,1
+173060,74,"to kill",munuʔ,,,1,
+26633,75,"to die, be dead",matey,,,1,1
+26990,76,"to live, be alive",belum,,,11,
+27347,77,"to scratch",ikukut,,,21,
+27704,78,"to cut, hack",netik,,,3,1?
+28061,79,stick/wood,wataŋ,,,6,
+28418,80,"to split",nuhiʔ,,,,
+28775,81,sharp,kumat,,,,
+29132,82,"dull, blunt",palelep,,,,
+29489,83,"to work",bagawi,"< Banjar Malay",L,,
+172096,84,"to plant",ŋamule,,,1,
+153636,85,"to choose",pidi,,,1,
+202695,86,"to grow",tumuʔ,,,1,
+30917,87,"to swell",bakah,,,19,
+202693,88,"to squeeze",mèât,,,,
+202694,88,"to squeeze",nyejè,,,,
+31631,89,"to hold",negey,,,,
+31988,90,"to dig",ŋadi,,,1,1
+154816,91,"to buy",midi,,,1,
+154814,92,"to open, uncover",nguka,"initial w (< PMP *b) lost",,1,
+189077,93,"to pound, beat",meweh,"to beat",,,
+33416,94,"to throw",nawut,,,,
+33773,95,"to fall",lawuʔ,,,1,1
+34130,96,dog,ant|ahuʔ,,,1,1?
+34487,97,bird,wuruŋ,"recent, < Malay (orig. term related to Tunjung and Paser *mpulu (23)",L,17,
+34844,98,egg,ateluy,,,1,1
+35201,99,feather,wulu,,,1,1
+35558,100,wing,elat,,,23,
+35915,101,"to fly",s-um-idiŋ,,,97,
+36272,102,rat,aliŋeket,"small = 'mouse'",,,
+344907,102,rat,walawaw,,,1,
+36629,103,meat/flesh,lunek,,,,
+36986,104,fat/grease,taweʔ,,,23,
+37343,105,tail,ukuy,,,"1, 59",1
+37700,106,snake,anipe,,,1,?
+38057,107,"worm (earthworm)",saʔasiŋ,,L,,
+38414,108,louse,kutu,,,1,1
+38771,109,mosquito,mamuʔ,,,"1,101",?
+39128,110,spider,ganraŋ|lawaʔ,,,1,1
+39485,111,fish,kenah,,,"46,95",
+39842,112,rotten,buruk,,,1,1
+204390,113,branch,paka,,,,
+40556,114,leaf,rawen,,,1,1
+40913,115,root,wakat,,,2,1
+41270,116,flower,wuŋe,"generally speaking flower is not a very Austronesian concept",,1,1
+41627,117,fruit,wuaʔ,,,1,1
+41984,118,grass,rikut,,,45,
+42341,119,earth/soil,taneʔ,,,1,1
+42698,120,stone,watu,,,1,1
+43055,121,sand,karasik,,,24,
+43412,122,water,ranuʔ,,10,10,?
+43769,123,"to flow",mareh,,,,
+44126,124,sea,tahik,,,1,1
+44483,125,salt,raŋi,,,,
+44840,126,lake,danaw,"< Malay",L,,1
+45197,127,woods/forest,jumpun,,,,
+45554,128,sky,laŋit,,,1,1
+154813,129,moon,wulan,,,1,
+46268,130,star,wawahiaŋ,,,90,
+46625,131,cloud,rakun,,,1,?
+46982,132,fog,amun,,,"27,35",
+47339,133,rain,uran,,,1,1
+154812,134,thunder,kelat,"X = lightning",,,
+202692,135,lightning,kêlat,,,1,
+48410,136,wind,riwut,,,24,
+48767,137,"to blow",ñiwut,,,28,
+49124,138,warm,malaiŋ,"hot (in general)",,,
+344904,138,warm,ka'i,"heat (weather, sun)",,111,
+49481,139,cold,marisak,,,,
+49838,140,dry,kariŋ,,,22,
+50195,141,wet,wehuʔ,,,"1,116",
+50552,142,heavy,ma-weʔat,,,1,1
+50909,143,fire,apuy,,,1,1
+51266,144,"to burn",nutuŋ,,,19,
+51623,145,smoke,atuk,,,2,
+51980,146,ash,ewuŋ,,,,
+344908,146,ash,walenun,,,95,
+52337,147,black,maʔintem,,,1,1
+52694,148,white,mahilak,,,27,
+53051,149,red,mariaŋ,,,,
+53408,150,yellow,madintaŋ,,,,
+53765,151,green,kakuriŋ,,,,
+54122,152,small,halus,,,34,
+54479,153,big,hanteʔ,,,,
+54836,154,short,imeʔ,"im'ɛ < *imba",,,
+55193,155,long,amaw,"am'aw < *ambaw",,,
+55550,156,thin,mariris,,,1?,
+55907,157,thick,makapan,,,1,1
+56264,158,narrow,hipit,,,68,1?
+56621,159,wide,hanteʔ,,,,
+154811,160,"painful, sick",mekum,feverish,,,
+344909,160,"painful, sick",mahanang,ill,,,
+154810,161,"shy, ashamed",amangan,,,,
+57692,162,old,matuʔeh,,,1,1
+58049,163,new,baʔu,,,1,1
+218012,163,new,wa'u,,,1,
+58406,164,good,maʔeh,,,,
+58763,165,"bad, evil",murun,,,,
+59120,166,"correct, true",kapinuʔu,"< PMP *tuquh",,6,
+59477,167,night,kamalem,,,20,
+59834,168,day,andraw,,,1,1
+60191,169,year,taʔun,,,1,1
+60548,170,when?,hantekawe,,,,
+173059,171,"to hide",sadinaʔ,,,,
+173598,172,"to climb",mamai,,,,
+61619,173,at,haŋ,,,22,
+61976,174,"in, inside",hawuaŋ,,,13,
+135220,175,above,haŋamau,"haŋ 'at' + am'aw (ambaw) 'top'",,"2, 27",
+204389,176,below,"haŋ imbe","haŋ 'at' + im'e (imbe) 'bottom'",,1,
+63047,177,this,iti,,,10,
+63404,178,that,iruʔ,,,,
+63761,179,near,riʔet,,,,
+64118,180,far,lawit,,,100,
+64475,181,where?,haŋawe,"haŋ 'at' + awe 'what, which'",,,
+64832,182,I,aku,,,1,1
+65189,183,thou,hañuʔ,"not related to hianao",,,
+65546,184,he/she,hañe,,,,
+118938,185,we,takam,(incl.),,"2,75",
+118939,185,we,kita,"X wrong",,,
+66260,186,you,naun,,,9,
+66617,187,they,here,"< PMP *sida 'they'",,"1,67",?
+66974,188,what?,inun,,,61,
+67331,189,who?,hieʔ,"< *si + *ia '3sg'",,1,1?
+67688,190,other,lain,,L,2,
+68045,191,all,katuluh,,,,
+68402,192,and,anriʔ,,,67,
+68759,193,if,amun,,,10,
+69116,194,how?,kalaʔawe,"kala 'like' + awe 'what, which'",,,
+69473,195,"no, not",puaŋ,,,,
+69830,196,"to count",nan-reken,"< Dutch reken(en)",L,,
+70187,197,One,isaʔ,,,1,1
+344917,197,One,eraŋ,"also erai 'oneself'",,21,
+70544,198,Two,rueh,,,1,1
+70901,199,Three,telo,,,1,1
+71258,200,Four,epat,,,1,1
+89259,201,Five,dime,,,1,
+89260,202,Six,enem,,,1,
+89261,203,Seven,pitu,,,1,
+89262,204,Eight,balu,,,3,
+176999,204,Eight,walu,,,3,
+89264,205,Nine,su'ey,,,5,
+89265,206,Ten,sapulu(h),,,5,
+89607,207,Twenty,"ruam pulu",,,"3,6",
+89267,208,Fifty,"dime pulu",,,"1,2",
+154815,209,"One Hundred",jatuh,,,"4,15",
+170065,210,"One Thousand",saribu,,L,5,

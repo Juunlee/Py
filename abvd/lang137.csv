@@ -1,0 +1,216 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+137,Tontemboan,"NY. J. A. Karisoh",tnt,tont1239,"/?/ melambangkan pepet, /?/ melambangkan nasal ng",,"Austronesian, Malayo-Polynesian, Philippine, Minahasan, North","Penny Keenan","Simon Greenhill","@misc{Karisoh-137-2005,  author = \"NY. J. A. Karisoh\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+1.16447060718060568796,124.56298828125000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+137,1,hand,kama,(cf.Mengen),,13,?
+494,2,left,kaʔbiri,,,"1,42",1
+851,3,right,kanan,,,"1,67",1
+1208,4,leg/foot,kecey,,,,
+1565,5,"to walk",mawayaʔ,,,,
+1922,6,road/path,lalan,,,1,1
+2279,7,"to come",maʔai,,,1,1?
+167972,8,"to turn",meŋkor,,,,
+2993,9,"to swim",keŋkeŋ,,,,
+3350,10,dirty,kotor,"Bob, is this a loan too?",,31,
+3707,11,dust,awu,146.00,,1,
+4064,12,skin,kuliʔ,,,1,1
+4421,13,back,licur,,,1,1
+4778,14,belly,poʔot,,,"52,83",
+5135,15,bone,ruʔi,,,2,
+5492,16,intestines,tinaʔi,,,1,1
+5849,17,liver,ate,,,1,1
+6206,18,breast,susu,,,1,1
+6563,19,shoulder,bahu,,,17,
+6920,20,"to know, be knowledgeable",keləkan,,,,
+7277,21,"to think",magənang,,,,
+7634,22,"to fear",mainde,,,,
+7991,23,blood,əndaʔ,,,1,
+8348,24,head,roʔkos,,,,
+8705,25,neck,kanat,,,,
+9062,26,hair,wuʔuk,,,"1,65",1
+9419,27,nose,ŋiruŋ,,,27,1
+9776,28,"to breathe",mʔasəng,,,23,
+167973,29,"to sniff, smell",mow,,,71,
+10490,30,mouth,waʔbaʔ,,,1,1
+10847,31,tooth,waʔaŋ,,,15?,
+11204,32,tongue,lilaʔ,,,4,1
+11561,33,"to laugh",maʔkeʔkeʔ,,,,
+11918,34,"to cry",maʔame,,,,
+12275,35,"to vomit",məluaʔ,,,8,
+12632,36,"to spit",rumuraʔ,,,"1,30",1
+12989,37,"to eat",kuman,,,"1,14",1
+13346,38,"to chew",maʔsəsəp,,,27,
+13703,39,"to cook",maʔsiwo,,,,
+14060,40,"to drink",mələp,,,58,
+14417,41,"to bite",kumeret,,,1?,?
+14774,42,"to suck",suməsəp,,,"1,27",
+15131,43,ear,luntəng,,,,
+15488,44,"to hear",lumingan,,,,
+15845,45,eye,sumere,,,,
+16202,46,"to see",maʔtəkəlo,,,,
+16559,47,"to yawn",tuməkəl,,,42,
+16916,48,"to sleep",meʔkel,,,24,
+17273,49,"to lie down",mangipiʔ,,,,1
+17630,50,"to dream",wərən,,,,
+17987,51,"to sit",lemukut,,,,
+18344,52,"to stand",tumulu,,,,
+18701,53,"person/human being",tou,,,1,1
+19058,54,man/male,tuama,,,25,
+19415,55,woman/female,wewene,,,"1,106",1
+19772,56,child,toyaʔaŋ,,,,
+20129,57,husband,penanaan,,,,
+20486,58,wife,penanaan,,,,
+20843,59,mother,"ina [ŋ]",,,"1,74",1
+21200,60,father,ama[ŋ],,,1,1
+21557,61,house,wale,,,14,
+21914,62,thatch/roof,atəp,,,1,1
+22271,63,name,ŋaran,,,1,1
+22628,64,"to say",maroma,,,,
+22985,65,rope,wawaʔkes,,,,
+23342,66,"to tie up, fasten",waʔkəsən,,,112,
+23699,67,"to sew",mawilit,,,,
+24056,68,needle,wiwilit,,,35,
+24770,70,"to shoot",lumutaw,,,,
+25127,71,"to stab, pierce",tumopok,pierce,,24,
+168694,71,"to stab, pierce",tumupu,"to stab",,,
+25484,72,"to hit",maʔpankur,,,,
+25841,73,"to steal",rombit,,,,
+26198,74,"to kill",mapaten,,,2,
+26555,75,"to die, be dead",mate,,,1,1
+26912,76,"to live, be alive",mənounou,,,73,
+27269,77,"to scratch",maʔkoʔməs,,,,
+27626,78,"to cut, hack",toŋkey,,,,
+27983,79,stick/wood,kayu,,,1,1
+28340,80,"to split",maʔkimbeŋ,,,,
+28697,81,sharp,telew,,,,
+29054,82,"dull, blunt",umpət,,,,
+29411,83,"to work",maʔtawoy,,,,
+29768,84,"to plant",luməsəw,,,,
+30125,85,"to choose",maʔpili,,,1,1
+30482,86,"to grow",tumou,,,1,1
+30839,87,"to swell",suməga,,,1,
+168271,88,"to squeeze",me'mekan,,,,
+31553,89,"to hold",tumimboy,,,,
+31910,90,"to dig",kaʔil,,,1,
+32267,91,"to buy",tumələs,,,12,
+32624,92,"to open, uncover",wuka,,,1,1
+32981,93,"to pound, beat",maraʔas,,,,
+33338,94,"to throw",maʔwankil,,,,
+33695,95,"to fall",lumətup,,,,
+34052,96,dog,asu,,,1,1
+34409,97,bird,"lum lempar",,,,
+34766,98,egg,wulina,,,78,
+35123,99,feather,wuʔuk,"CF 26",,,
+35480,100,wing,tətələw,,,74,
+35837,101,"to fly",tumələw,,,82,
+36194,102,rat,kawok,,,,
+36551,103,meat/flesh,samaʔna,,,,
+36908,104,fat/grease,tawaʔ,,,23,
+37265,105,tail,ipus,,,30,
+37622,106,snake,ulaʔ,,,2,1
+37979,107,"worm (earthworm)",caciŋ,,,23,
+38336,108,louse,kutu,,,1,1
+38693,109,mosquito,pankaʔ,,,,
+39050,110,spider,lawa-lawa,,,1,1
+39407,111,fish,səraʔ,,,18,
+39764,112,rotten,maʔwou,,,,
+40121,113,branch,cabaŋ,,,9,
+40478,114,leaf,laleyna,,,,
+40835,115,root,amut,,,3,1
+41192,116,flower,buŋaŋ,,,"1,61",1
+41549,117,fruit,buaʔ,,,1,1
+41906,118,grass,rumput,,,27,
+42263,119,earth/soil,tanaʔ,,,1,1
+42620,120,stone,watu,,,1,1
+42977,121,sand,raŋiʔis,,,86,
+43334,122,water,rano,,,"1,55",
+43691,123,"to flow",mawayaʔ,,,,
+44048,124,sea,tasis,,,1,1
+44405,125,salt,asiŋ,,,"3,46",
+44762,126,lake,tasis,"cf 124",,,
+45119,127,woods/forest,utan,,,7,1
+45476,128,sky,laŋit,,,1,1
+45833,129,moon,sərap,,,,
+46190,130,star,suməsəndot,,,,
+46547,131,cloud,kambuŋ,,,"1,108",
+46904,132,fog,lalaindəŋ,,,,
+47261,133,rain,muran,,,1,1
+47618,134,thunder,guntur,,,30,
+47975,135,lightning,kilat,,,1,1
+48332,136,wind,rəgəs,,,"82,88",
+48689,137,"to blow",maʔrəgəs,,,,
+49046,138,warm,pasoʔ,,,26,
+49403,139,cold,utiŋ,,,,
+49760,140,dry,pəra,,,55,
+50117,141,wet,raməs,,,30,
+50474,142,heavy,utər,,,,
+50831,143,fire,api,,,1,1
+51188,144,"to burn",maʔtunuʔ,,,1,1
+51545,145,smoke,tembur,,,51,
+51902,146,ash,awu,"cf 11",,1,1
+52259,147,black,wuriŋ,,,,
+52616,148,white,kuloʔ,,,,
+52973,149,red,raindaŋ,,,105,
+53330,150,yellow,kuniʔ,,,1,1
+53687,151,green,mataʔ,,,1,1
+54044,152,small,təkeʔ,,,21,
+54401,153,big,wankər,,,98,
+54758,154,short,kolək,,,,
+55115,155,long,lambot,,,94,
+55472,156,thin,nipis,,,1,1
+55829,157,thick,kuraʔber,,,,
+56186,158,narrow,pəsut,,,30,
+56543,159,wide,welar,,,,?
+56900,160,"painful, sick",sumakit,,,1,1
+57257,161,"shy, ashamed",malawi,,,"71,72",
+57614,162,old,maʔtua,,,1,1
+57971,163,new,weru,,,"1,54",1
+58328,164,good,samaʔ,,,,
+58685,165,"bad, evil",lewoʔ,,,,
+59042,166,"correct, true",wutul,,,23,
+59399,167,night,waŋi,,,"1,72",1
+59756,168,day,əndo,,,"1,56",1
+60113,169,year,taun,,,1,1
+60470,170,when?,kawisa,,,"28,71",?
+168272,171,"to hide",yanap,,,,
+61184,172,"to climb",sumosor,,,,
+61541,173,at,an,,,,
+61898,174,"in, inside",anuntəp,,,,
+62255,175,above,andaŋka,,,,
+62612,176,below,andarəm,,,20,
+62969,177,this,anio,,,1,?
+63326,178,that,siitu,,,16,1
+63683,179,near,tawi,,,,
+64040,180,far,tayaŋ,,,81,
+64397,181,where?,ambisa,,,,
+64754,182,I,yaku,,,1,1
+65111,183,thou,kamu,,,"1,10",
+65468,184,he/she,sia,,,"1,31",1
+113922,185,we,cita,,,1,1
+113923,185,we,cami,,,"2,51",
+66182,186,you,"kamu pakasa",,,"1,38",1
+66539,187,they,sera,,,1,1
+66896,188,what?,sapa,,,1,1
+67253,189,who?,sisey,,,"1,50",1
+67610,190,other,walina,,,17,
+67967,191,all,pakasa,,,42,
+68324,192,and,wo,,,27,
+68681,193,if,so,,,75,
+69038,194,how?,tambisa,,,,
+69395,195,"no, not",raica,,,,
+69752,196,"to count",maʔreken,,L?,39,
+70109,197,One,esa,,,1,1
+70466,198,Two,rua,,,1,1
+70823,199,Three,təlu,,,1,1
+71180,200,Four,əpat,,,1,1
+168270,201,Five,lima,,,1,
+168269,202,Six,enem,,,1,
+168261,203,Seven,pitu,,,1,
+168268,204,Eight,walu,,,3,
+168267,205,Nine,siow,,,"5,34",
+168266,206,Ten,saŋapulu',,,5,
+168265,207,Twenty,"rua ngapulu'",,,"3,6",
+168264,208,Fifty,"lima ŋapulu'",,,"1,2",
+168263,209,"One Hundred",ma'atus,,,"4,52",
+168262,210,"One Thousand",mariwu,,,"5,9",

@@ -1,0 +1,6 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+1629,Beothuk,"James P. Howley F.P.S.",bue,beot1247,"Possible loanword into Beothuk from JavaneseBeothuk is extinct language of Newfoundland Canada,  Algonquin-like but perhaps not Algic in origin. Perhaps a loan from the whaling period. See also Beothuk  - methabeet 'cattle'- nethabete 'cows and horses'Compare with Javanese    - sapi 'cow'Native speaker wroteow-as-bosh-no-un ?  Whale's tail'  (speaker included the ? suggesting perhapsow-as-bosh-un-no   orow-as-posh-no-un ?   (hard to tell if letter is a  b or p)Compare with  iwak paus buntot   'whale tail'  (Googletranslate)  in Javanese which (speaker option) sounds to me like [ iwa paus bundo ]",,Isolate,"Donald Alexander Barnett",,
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+3228542,105,tail,no-un,"(for buntot?)",,,
+3228543,105,tail,owas-posh-no-un,"whale's tail",,,
+3228541,111,fish,owas,"c.f.  Javanese  iwak  [ iwa ]",,,

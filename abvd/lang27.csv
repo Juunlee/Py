@@ -1,0 +1,224 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+27,"Muna (Katobu-Tongkuno Dialect)","René van den Berg",mnb,muna1247,,,"Austronesian, Malayo-Polynesian, Celebic, Eastern, Southeastern, Muna-Buton, Nuclear Muna-Buton, Munan, Munic, Western","Simon Greenhill","Simon Greenhill","@misc{Berg-27-2005,  author = \"René van den Berg\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-5.11957755314462659157,122.91495248922549876625
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+27,1,hand,lima,,,"1,64",1
+384,2,left,kema,,,33,
+741,3,right,suana,,,"1,74",1
+1098,4,leg/foot,ghaghe,,,1,1
+1455,5,"to walk",akala,,,58,?
+1812,6,road/path,kangkaha,,,,
+2169,7,"to come",amai,,,1,1
+2526,8,"to turn",apingka,,,,
+2883,9,"to swim",aleni,,,1,1
+3240,10,dirty,noraku,,,33,
+3597,11,dust,harabu,,,29,1?
+3954,12,skin,kuli,,,1,1
+4311,13,back,towu,,,,
+4668,14,belly,taghi,,,19,
+5025,15,bone,buku,,,16,
+5382,16,intestines,ghule-ghule,,,,
+5739,17,liver,ghate,,,1,1
+6096,18,breast,titi,,,6,
+6453,19,shoulder,ghowea,,,1?,1
+6810,20,"to know, be knowledgeable",apandehaane,,,23,
+7167,21,"to think",aefekiri,"loan of 22?",L,,
+7524,22,"to fear",aotehi,,,20,
+7881,23,blood,rea,,,1,1
+8238,24,head,fotu,,,14,
+8595,25,neck,wughu,,,37,
+8952,26,hair,"wulu no fotu",,,3,
+9309,27,nose,nee,,,21,
+9666,28,"to breathe",afenei,,,25,
+10023,29,"to sniff, smell",aefewono,,,24,
+10380,30,mouth,wubha,,,1,
+10737,31,tooth,wangka,,,15,
+11094,32,tongue,lela,,,4,?
+11451,33,"to laugh",afu|taa,,,1?,1?
+11808,34,"to cry",aoghae,,,13,
+12165,35,"to vomit",atongka,,,8,
+12522,36,"to spit",afoghoniu,,,31,
+12879,37,"to eat",afumaa,,,10,
+13236,38,"to chew",aemama,,,1,1
+13593,39,"to cook",aegau,,,,
+13950,40,"to drink",aforoghu,,,14,
+14307,41,"to bite",aesia,,,,
+14664,42,"to suck",aekomi,,,17,
+15021,43,ear,pongke,,,14,
+15378,44,"to hear",afetingke,,,18,
+15735,45,eye,mata,,,1,1
+73845,46,"to see",aewura,,,,
+73846,46,"to see",aewora,,,,
+16449,47,"to yawn",andiwawa,,,,?
+16806,48,"to sleep",aolodo,,,23,
+17163,49,"to lie down",aendole,,,23,
+17520,50,"to dream",amonifi,,,"25,1",1
+17877,51,"to sit",aengkora,,,36,
+18234,52,"to stand",aere,,,35,?
+18591,53,"person/human being",mie,,,19,
+18948,54,man/male,moghane,,,1,1
+19305,55,woman/female,robhine,,,"1,41",1
+19662,56,child,ana,,,1,1
+20019,57,husband,"mie no lambu",,,,
+74453,58,wife,"mie no lambu",,,,
+74454,58,wife,anahi,,,,
+20733,59,mother,ina,,,1,1
+21090,60,father,ama,,,1,1
+21447,61,house,lambu,,,19,
+21804,62,thatch/roof,ghato,,,"1,26",1
+22161,63,name,nea,,,1,1
+74744,64,"to say",abisara,,,19,
+74745,64,"to say",apogau,,,24,
+22875,65,rope,kakoo,,,,
+23232,66,"to tie up, fasten",aekooli,,,,
+23589,67,"to sew",aetampoli,,,27,
+23946,68,needle,deu,,,1,1
+24303,69,"to hunt",ahulo,,,,
+24660,70,"to shoot",aepana,,,1,1
+25017,71,"to stab, pierce",aetobo,,,24,?
+25374,72,"to hit",aewogha,,,,
+25731,73,"to steal",ambolaku,,,17,
+26088,74,"to kill",aepongko,,,27,
+26445,75,"to die, be dead",amate,,,1,1
+26802,76,"to live, be alive",adadi,,,18,
+27159,77,"to scratch",aekurumasi,,,25,
+27516,78,"to cut, hack",aebhera,,,,
+27873,79,stick/wood,sau,"cf 90",,1,1
+28230,80,"to split",aebhogha,,,35,?
+28587,81,sharp,noroko,,,32,
+28944,82,"dull, blunt",noduko,,,28,
+29301,83,"to work",akaradhaa,,L,23,
+76095,84,"to plant",aetisa,,,21,
+76096,84,"to plant",aeladu,,,,
+30015,85,"to choose",aefe|pili,,,1,1
+30372,86,"to grow",notumbu,,,1,1
+30729,87,"to swell",notente,,,,
+31086,88,"to squeeze",ae|feo,,,1,1
+31443,89,"to hold",aeintara,,,28,
+31800,90,"to dig",ae|seli,"cf 79",,1,1
+32157,91,"to buy",aegholi,,,1,1?
+32514,92,"to open, uncover",aelengha,,,21,
+32871,93,"to pound, beat",aetumbu,,,9,1
+33228,94,"to throw",aeghompa,,,26,
+33585,95,"to fall",nondawu,,,1,1
+33942,96,dog,d|ahu,"cf 103",,1,1
+34299,97,bird,manu-manu,,,1,1
+34656,98,egg,ghunteli,,,1,1
+35013,99,feather,wulu,,,1,1
+35370,100,wing,pani,,,2,1
+35727,101,"to fly",ahoro,,,24,
+36084,102,rat,wulawo,,,1,1
+36441,103,meat/flesh,ihi,"cf 96",,1,1
+36798,104,fat/grease,tabha,,,23,
+37155,105,tail,punda,,,17,
+37512,106,snake,ghule,"< + gulej",,2,
+37869,107,"worm (earthworm)",ghundeletu,,,,
+38226,108,louse,otu,,,1,1
+38583,109,mosquito,buroto,,,23,
+38940,110,spider,kabhamba,,,19,
+39297,111,fish,kenta,,,22,
+39654,112,rotten,noburu,,,1,1
+40011,113,branch,ragha,,,1,1
+40368,114,leaf,roo,,,1,1
+40725,115,root,paraka,,,2,
+41082,116,flower,kambea,,,21?,
+41439,117,fruit,bhake,,,11,
+41796,118,grass,karuku,,,,
+42153,119,earth/soil,wite,,,26,
+42510,120,stone,kontu,,,1,
+42867,121,sand,bhone,,,2,1
+43224,122,water,oe,,,2?,1
+43581,123,"to flow",nosolo,,,,?
+43938,124,sea,tehi,,,1,1
+44295,125,salt,ghohia,,,1,1
+44652,126,lake,katebho,,,,
+45009,127,woods/forest,karumbu,,,,
+45366,128,sky,lani,,,1,1
+45723,129,moon,wula,,,1,1
+46080,130,star,ngkolipopo,,,20,
+46437,131,cloud,olu,,,29,
+46794,132,fog,gawu,,,1,1
+47151,133,rain,ghuse,,,1,1
+47508,134,thunder,tondu,,,34,
+47865,135,lightning,bhibhito,,,20,
+48222,136,wind,kawea,,,30,
+48579,137,"to blow",no|f|iu,,,1?,1?
+48936,138,warm,nopana,,,1,1
+49293,139,cold,norindi,,,1,1
+49650,140,dry,nokele,,,28,
+50007,141,wet,nomeme,,,,
+50364,142,heavy,nobhie,,,24,?
+50721,143,fire,ifi,,,1,1
+51078,144,"to burn",aetunu,,,1,1
+51435,145,smoke,ghumbo,,,13,
+51792,146,ash,ghabu,,,1,1
+52149,147,black,ghito,,,1,1
+52506,148,white,pute,,,1,1
+52863,149,red,dea,,,,
+53220,150,yellow,kuni,,,1,1
+53577,151,green,idho,,,25,
+53934,152,small,norubu,,,22,
+54291,153,big,nobhala,,,25,
+119205,154,short,nopanda,,,1,1
+119206,154,short,nongkubu,,,25,
+55005,155,long,newanta,,,32,
+55362,156,thin,nonifi,,,1,1
+55719,157,thick,nokapa,,,1,1
+56076,158,narrow,noseke,,,21,
+56433,159,wide,noware,,,18,
+56790,160,"painful, sick",nolea,,,27,
+57147,161,"shy, ashamed",noambano,,,17,
+57504,162,old,nokamokula,,,24,
+57861,163,new,nobughou,,,1,1
+58218,164,good,netaa,,,30,
+58575,165,"bad, evil",nodaediu,,,1?,?
+58932,166,"correct, true",kotughu,,,6,1
+119207,167,night,korondoha,,,26,
+119208,167,night,alo,,,25,
+59646,168,day,gholeo,,,22,1
+60003,169,year,taghu,,,1,1
+80924,170,when?,indefie,,,"1,65",1
+80925,170,when?,ne|fie,,,"1,65",1
+60717,171,"to hide",aekope,,,,
+61074,172,"to climb",a|foni,,,1,1
+81088,173,at,we,,,1?,
+81089,173,at,te,,,1?,
+81090,173,at,ne,"or 1?",,18,
+81175,174,"in, inside","we lalo",,,1,1
+81176,174,"in, inside",welo,,,1,1
+62145,175,above,"te wawo",,,2,1
+62502,176,below,"we panda",,,,
+62859,177,this,aini,,,1,1
+63216,178,that,aitu,,,16,1
+63573,179,near,nomaho,,,26,
+63930,180,far,nokodoho,,,27,
+81686,181,where?,nahamai,,,18,
+81687,181,where?,nehamai,,,18,
+64644,182,I,inodi,,,8,
+65001,183,thou,ihintu,,,11,
+65358,184,he/she,anoa,,,12,
+81981,185,we,intaidi,"intaidi (in.)",,3,
+81982,185,we,insaidi,"intaidi (in.)",,3,
+66072,186,you,ihintuumu,,,4,
+66429,187,they,andoa,,,12,
+66786,188,what?,ohae,,,12,
+67143,189,who?,la|hae,,,1?,1?
+67500,190,other,sigaahano,,,15,
+67857,191,all,kosibhari-bharihae,,,28,
+68214,192,and,bhe,,,,
+68571,193,if,ane,,,19,
+82629,194,how?,pedahai,,,,
+82630,194,how?,pedahamai,,,,
+69285,195,"no, not",miina,,,29,
+69642,196,"to count",aefeapi,,,,
+69999,197,One,ise,,,1,1
+70356,198,Two,dua,,,1,1
+165221,198,Two,"rua pulo",,,1,
+70713,199,Three,tolu,,,1,1
+71070,200,Four,paa,,,1,1
+165224,201,Five,dima,,,1,
+165223,203,Seven,pitu,,,1,
+165222,204,Eight,walu,,,3,
+165220,205,Nine,siwa,,,5,
+165214,210,"One Thousand",riwu,,,,

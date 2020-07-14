@@ -1,0 +1,225 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+208,Bare'e,"Blust, from: Adriani (1928)",pmf,pamo1252,"Adriani, N. (1928). Bare'e-Nederlandsch Woordenboek. Leiden: Voorheen E.J. Brill.",,"Austronesian, Malayo-Polynesian, Celebic, Kaili-Pamona, Northern, Pamona","Debasish Roy","Simon Greenhill","@book{86248,  address               = {Leiden},  pages                 = {xv+1074},  publisher             = {Brill},  title                 = {Bare'e-Nederlandsch woordenboek: met Nederlandsch-Bare'e register},  year                  = {1928},  bibtexkey             = {adriani_baree-nederlandsch1928},  class_loc             = {PL5233},  document_type         = {B},  hhtype                = {dictionary},  inlg                  = {Dutch [nld]},  inlg_code             = {nld},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 5233 ADR 1928},  src                   = {hh, mpieva},  srctrickle            = {hh#d:Adriani:Baree, mpieva#Adriani1928BareeNed},  subject_headings      = {Bareë dialect–Dictionaries–Dutch, Dutch language–Dictionaries–Bareë, Bareë dialect–Dictionaries–Dutch – Dutch language–Dictionaries–Bareë},  author                = {Adriani, Nicolaus}}"
+latitude,longitude
+-1.75000000000000000000,120.82999999999999829470
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+208,1,hand,pale,,,,
+565,2,left,kaii,,,"1,42",1
+922,3,right,kana,,,"1,73",1
+1279,4,leg/foot,witi,,,5,
+1636,5,"to walk",linja,,,20,
+1993,6,road/path,jaya,,,1,1
+2350,7,"to come",maʔi,,,1,1
+2707,8,"to turn",gili,,,70,1?
+3064,9,"to swim",naŋu,,,1,1
+3421,10,dirty,sapa,,,,
+3778,11,dust,awu,,,1,1
+4135,12,skin,pela,,,,
+4492,13,back,taliku,,,1,1
+4849,14,belly,kompo,,,2,
+5206,15,bone,wuku,,,16,
+5563,16,intestines,"wayaa ntaʔi",,,,
+5920,17,liver,ate,,,1,1
+6277,18,breast,susu,,,1,1
+6634,19,shoulder,awaa,,,1,1
+6991,20,"to know, be knowledgeable",inca[ni],,,,
+7348,21,"to think",mo-nawa,,,81,
+7705,22,"to fear",ma-eka,,,33,
+8062,23,blood,daa,,,1,1
+8419,24,head,woʔo,,,,
+8776,25,neck,taŋgude,,,,
+165204,25,neck,le'e,,,,
+9133,26,hair,wuyua,,,3?,
+9490,27,nose,eŋo,,,20,
+9847,28,"to breathe",wolo,,,,
+10204,29,"to sniff, smell",me-eŋa,,,,
+10561,30,mouth,ŋuju,,,2,
+10918,31,tooth,ŋisi,,,24,1
+11275,32,tongue,jila,,,4,1
+11632,33,"to laugh",gele,,,,
+11989,34,"to cry",taŋi,,,1,1
+12346,35,"to vomit",me-lua,,,8,
+12703,36,"to spit",me-ʔuëlu,,,,
+13060,37,"to eat",maŋ-koni,,,1?,?
+13417,38,"to chew",mama,,,1,1
+13774,39,"to cook",mo-nau,,,3,1
+14131,40,"to drink",inu,,,1,1
+14488,41,"to bite",mama,,,,
+73668,42,"to suck",man-cusu,,,1,1
+73669,42,"to suck",me-tomi,,,1,1
+15202,43,ear,taliŋa,,,1,1
+15559,44,"to hear",doŋe,,,1,1
+15916,45,eye,mata,,,1,1
+16273,46,"to see",maŋ-kita,,,1,1
+16630,47,"to yawn",me-ŋaŋa,,,,
+16987,48,"to sleep",ina,,,,
+17344,49,"to lie down",ina,,,1,1
+17701,50,"to dream",maŋ-ipi,,,1,1
+18058,51,"to sit",tunda,,,,
+18415,52,"to stand",karo,,,,
+18772,53,"person/human being",tau,,,1,1
+19129,54,man/male,tuama,,,25,
+19486,55,woman/female,weʔa,,,,
+19843,56,child,ana,,,1,1
+20200,57,husband,laŋkai,,,34,
+20557,58,wife,weʔa,,,,
+91273,59,mother,ine,,,1,1
+91274,59,mother,indo,,,10,
+21271,60,father,papa,,,48,
+21628,61,house,banua,,,7,
+21985,62,thatch/roof,ata,,,1,1
+22342,63,name,toʔo,,,,
+22699,64,"to say",man-toʔo,,,,
+23056,65,rope,wayaa,,,,
+23413,66,"to tie up, fasten",kombi,,,,
+23770,67,"to sew",mon-jau,,,,
+24127,68,needle,i-jau,,,1?,1
+24484,69,"to hunt",maŋ-ela,,,,
+24841,70,"to shoot",mo-pana,,,1,1
+25198,71,"to stab, pierce",mon-caku,,,68,
+25555,72,"to hit",bómbali,,,,
+25912,73,"to steal",ago,,,1,
+26269,74,"to kill",pate,,,22,
+26626,75,"to die, be dead",mate,,,1,1
+26983,76,"to live, be alive",mata,,,,
+27340,77,"to scratch",kao,,,1,1
+27697,78,"to cut, hack",man-toto,,,,1
+124906,79,stick/wood,kayu,,,1,1
+124907,79,stick/wood,kaju,,,1,1
+75897,80,"to split",ma-bala,,,1,1
+75898,80,"to split",ma-boka,,,1,1
+75899,80,"to split",wota,,,1,1
+28768,81,sharp,ma-taja,,,1,1
+29125,82,"dull, blunt",ma-kuyu,,,,
+29482,83,"to work",jama,,,24,
+29839,84,"to plant",muya,,,1,1
+30196,85,"to choose",pili,,,1,1
+30553,86,"to grow",me-woŋga,,,,
+30910,87,"to swell",baŋka,,,19,
+31267,88,"to squeeze",maŋ-komo,,,,
+31624,89,"to hold",karamoso,,,,
+31981,90,"to dig",moŋ-kae,,,,?
+32338,91,"to buy",me-oli,,,1,1
+32695,92,"to open, uncover",bowo,,,1?,
+33052,93,"to pound, beat",mo-mbaju,,,1,1
+33409,94,"to throw",ma-wunu,,,,
+33766,95,"to fall",ma-nawu,,,1,1
+34123,96,dog,asu,,,1,1
+34480,97,bird,tonci,,,,
+34837,98,egg,toyu,,,1,1
+35194,99,feather,wuyu,,,1,1
+35551,100,wing,pani,,,2,1
+35908,101,"to fly",mo-yoko,,,,
+36265,102,rat,walesu,,,,
+36622,103,meat/flesh,saŋa,,,39,
+36979,104,fat/grease,boko,,,5,
+37336,105,tail,iku,,,1,1
+37693,106,snake,ule,,,2,
+38050,107,"worm (earthworm)",tolodo,,,,
+38407,108,louse,tuku,"< m",,1,1
+38764,109,mosquito,nojo,,,,
+39121,110,spider,bukaka,,,,
+39478,111,fish,bau,"Could 21 = 27 ? (LS)",,21?,
+39835,112,rotten,boŋko,,,,
+40192,113,branch,raʔa,,,1,1
+40549,114,leaf,ira,,,,
+40906,115,root,kale,,,,
+41263,116,flower,sese,,,16,
+41620,117,fruit,wua,,,1,1
+41977,118,grass,ewo,,,,
+42334,119,earth/soil,tana,,,1,1
+42691,120,stone,watu,,,1,1
+43048,121,sand,bone,,,2,1
+43405,122,water,uë,,,2?,1?
+43762,123,"to flow",ili,,,24,1
+44119,124,sea,tasi,,,1,1
+44476,125,salt,bure,,,,
+44833,126,lake,rano,,,1,1
+45190,127,woods/forest,"wana yopo",,,34,
+45547,128,sky,yaŋi,,,1,1
+45904,129,moon,wuya,,,1,1
+46261,130,star,betuʔu,,,1,1
+46618,131,cloud,limu,,,,
+46975,132,fog,limu,,,,
+47332,133,rain,uja,,,1,1
+47689,134,thunder,gundu,,,"30,62",
+48046,135,lightning,kila,,,1,1
+48403,136,wind,ŋoyu,,,,
+48760,137,"to blow",me-wui,,,,
+49117,138,warm,ma-rameda,,,,
+135216,138,warm,ma-ramu,,,,
+49474,139,cold,ma-ranindi,,,1,
+49831,140,dry,tuʔu,,,41,
+50188,141,wet,wota,,,,
+50545,142,heavy,ma-tomo,,,,
+50902,143,fire,apu,,,1,1
+51259,144,"to burn",mon-tapara,,,,
+51616,145,smoke,raŋ|asu,,,2,1?
+51973,146,ash,awu,,,1,1
+52330,147,black,ma-eta,,,1,1
+52687,148,white,ma-buya,,,1?,1
+53044,149,red,ma-waa,,,1,
+53401,150,yellow,ma-kuni,,,1,1
+53758,151,green,ma-laumbe,,,,
+54115,152,small,kodi,,,2,1
+54472,153,big,baŋke,,,24?,
+54829,154,short,ede,,,,
+55186,155,long,ma-rate,,,29,
+55543,156,thin,ma-nipi,,,1,
+55900,157,thick,baŋke,,,,1
+56257,158,narrow,soki,,,,
+56614,159,wide,kambi,,,,
+56971,160,"painful, sick",juʔa,,,,
+57328,161,"shy, ashamed",maea,,,1,
+57685,162,old,tuʔɑ,,,1,1
+58042,163,new,"da woʔu",,,1,1
+58399,164,good,ma-dago,,,,1
+58756,165,"bad, evil",ma-jaʔa,,,1,
+59113,166,"correct, true",tuʔu,,,6,1
+59470,167,night,weŋi,,,1,1
+59827,168,day,eo,,,20,1
+60184,169,year,taʔu,,,1,1
+60541,170,when?,im-pia,,,"1,65",1
+60898,171,"to hide",wuni,,,1,1
+61255,172,"to climb",pone,,,1,1
+61612,173,at,ri,,,20,1
+61969,174,"in, inside","ri ra",,,1,1
+62326,175,above,"ri wawo",,,2,?
+62683,176,below,"ri ara",,,1?,1
+63040,177,this,seʔe/seʔi,,,,
+63397,178,that,s|etu,,,16,
+63754,179,near,mosu,,,,1
+64111,180,far,lawa,,,,
+64468,181,where?,saa,,,15,
+64825,182,I,aku,,,1,
+65182,183,thou,siko,,,1,1
+65539,184,he/she,siʔa,,,1,1
+118934,185,we,kita,,,1,?
+118935,185,we,kami,,,2,
+66253,186,you,komi,,,"1,13",1
+66610,187,they,sira,,,1,1
+66967,188,what?,nun-jaa,,,2,1
+67324,189,who?,"i se|ma",,,16,
+67681,190,other,ntani,,,,1
+68038,191,all,paka,,,42,
+68395,192,and,pai,,,,
+68752,193,if,ane,,,19,
+69109,194,how?,ma-kuja,,,1,
+69466,195,"no, not",bareʔe,,,,1
+82794,196,"to count",iwa,,,,
+82795,196,"to count",mo-bila,,,1?,
+70180,197,One,isa,,,1,1
+70537,198,Two,rua,,,1,1
+70894,199,Three,togo,,,1,1
+83053,200,Four,opo,,,1,
+83054,200,Four,pata,,,1,
+135218,201,Five,alima,,,1,
+135217,202,Six,ono,,,1,
+162562,203,Seven,papitu,,,1,
+162566,204,Eight,uayu,,,,
+162565,205,Nine,sasio,,,5,
+162564,206,Ten,sampuyu,,,,
+162563,207,Twenty,"radua mpuyu",,,,
+173815,208,Fifty,"alima mpuyu",,,,
+165215,210,"One Thousand","samba'a ncowu",,,,
+165216,210,"One Thousand",sa'ncowu,,,,

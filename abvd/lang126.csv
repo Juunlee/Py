@@ -1,0 +1,216 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+126,Sobei,"Blust, from Grace fieldnotes and J. Sterner 1975",sob,sobe1238,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Sarmi-Jayapura Bay, Sarmi","Peng Du","Simon Greenhill","@misc{GraceNB,  howpublished = {Ms.},  title        = {1955-1956 Fieldnotes: Notebook Swains Number 2},  year         = {1956},  url          = {http://digicoll.manoa.hawaii.edu/grace/Pages/PDFlist.html},  author       = {Grace, George W.}}@article{144702,  journal    = {Oceanic Linguistics},  pages      = {146-67},  title      = {Sobei phonology},  volume     = {14},  year       = {1975},  bibtexkey  = {sterner_sobei-phonology1975},  country    = {Indonesia [ID]},  fn         = {papua\sterner_sobei1975.pdf},  hhtype     = {phonology},  inlg       = {English [eng]},  macro_area = {Papua},  sil_id     = {12413},  src        = {sil16},  srctrickle = {sil16#12413},  subject    = {Phonological descriptions [PHD]},  author     = {Sterner, Joyce K.}}"
+latitude,longitude
+-1.91999999999999992895,138.75000000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+126,1,hand,imi-m,,,"1,65",?
+483,2,left,soude,,,,
+840,3,right,mau,,,"1,29",
+1197,4,leg/foot,oyum|ai,,,,
+1554,5,"to walk",awo,,,68,
+1911,6,road/path,rara,,,1,1?
+2268,7,"to come",e-ma,,,1,1
+2625,8,"to turn",a-rispar,,,,
+2982,9,"to swim",a-yas,,,19,
+3339,10,dirty,edo[adoʔo],,,,
+3696,11,dust,desa,,,,
+4053,12,skin,wadi,,,,1?
+4410,13,back,"adam tiwai",,,,
+4767,14,belly,moʔodi,,,102,
+5124,15,bone,tiwo,,,"1,10",
+5481,16,intestines,"tepeʔem wado","wado = rope",,20,
+5838,17,liver,resne,,,,
+72192,18,breast,siso,,,1,1
+72193,18,breast,sisu,,,1,1
+6552,19,shoulder,bayum,,,,
+6909,20,"to know, be knowledgeable",imnas,,,,
+7266,21,"to think",feŋgomu,,,,
+7623,22,"to fear",nenʔa,,,,
+7980,23,blood,sida,,,,
+8337,24,head,dabu,,,43,
+8694,25,neck,batem,,,69,
+9051,26,hair,"dahu-m rau",,,40,
+72693,27,nose,sumdari,,,1,1
+72694,27,nose,"su-m dari",,,1,1
+9765,28,"to breathe",sumaro,,,,
+10122,29,"to sniff, smell",sumanan,,,,
+10479,30,mouth,warifno,,,,
+10836,31,tooth,wometa,,,,
+11193,32,tongue,madamtaʔno,,,,
+11550,33,"to laugh",mermit,,,,
+11907,34,"to cry",e-tan,,,1,1
+12264,35,"to vomit",afefipar,,,,
+12621,36,"to spit",uarimran,,,,
+12978,37,"to eat",kin,,,1,1?
+13692,39,"to cook",afei,,,,
+14049,40,"to drink",a-mus,,,,
+14406,41,"to bite",yatoʔ,,,,
+14763,42,"to suck",a-mus,,,6,
+73703,43,ear,tidimrau,,,"1,68",1?
+73704,43,ear,"tidi-m rau",,,"1,68",1?
+15477,44,"to hear",a-fda,,,,
+15834,45,eye,somarnam,,,"1,22",?
+16191,46,"to see",a-rom,,,21,
+16905,48,"to sleep",moni,,,19,
+17262,49,"to lie down",moni,,,15,
+17619,50,"to dream","moni sarʔe",,,,
+17976,51,"to sit",imarois,,,,
+18333,52,"to stand",iki,,,,
+18690,53,"person/human being",temto,,,68,1
+19047,54,man/male,temto,,,"12,14",
+19404,55,woman/female,mefne,,,"1,51",1
+19761,56,child,natu,,,5,
+20118,57,husband,eson,,,25?,?
+20475,58,wife,mefne,,,"5, 92",
+20832,59,mother,nen,,,"1, 83",
+21189,60,father,mam,,,"1,10",
+21546,61,house,dimo,,,1?,1?
+21903,62,thatch/roof,"ato rau",,,1,1
+22260,63,name,asa-m,,,"1,18",1
+22617,64,"to say",fator,,,,
+22974,65,rope,wado,,,2,
+23331,66,"to tie up, fasten",afau,,,11,
+23688,67,"to sew",sesi,,,2,1
+24759,70,"to shoot",-fan,,,1,1
+25116,71,"to stab, pierce",a-so,,,67,
+25473,72,"to hit",a-fun,,,23,
+25830,73,"to steal",fenʔo,,,"1,58",1
+26187,74,"to kill","a-fun aper",,,1,1
+26544,75,"to die, be dead",aper,,,9,
+26901,76,"to live, be alive",denun,,,,
+27258,77,"to scratch",dodut,,,,
+27615,78,"to cut, hack",a-dus,,,,
+27972,79,stick/wood,ai,,,1,1
+28329,80,"to split",are,,,,
+28686,81,sharp,meta,,,36,
+29043,82,"dull, blunt",tepki,,,,
+29400,83,"to work",a-rseya,,,,
+76114,84,"to plant",a-fas,,,12,
+76115,84,"to plant",a-so,,,28,
+76178,85,"to choose",ferfir,,,1,?
+76179,85,"to choose",a-fir,,,1,?
+30828,87,"to swell",prarapor,,,,
+31185,88,"to squeeze",a-tur,,,,
+31542,89,"to hold",taput,,,22,
+31899,90,"to dig",aʔat,,,,
+32256,91,"to buy",efti,,,,
+32613,92,"to open, uncover",afoʔ,,,,
+32970,93,"to pound, beat","adau raʔreʔ",,,,
+33327,94,"to throw",afeʔ,,,,
+33684,95,"to fall",edoit,,,,
+34041,96,dog,nani,,,,
+34398,97,bird,mani|netyo,,,1,1
+34755,98,egg,beno,,,33,
+35112,99,feather,fido,,,,1?
+35469,100,wing,powai,,,7,
+35826,101,"to fly",epor,,,,
+77168,102,rat,nensau,,,,
+77169,102,rat,baŋgena,,,,
+36540,103,meat/flesh,marna,,,,
+36897,104,fat/grease,mano,,,1,1?
+37254,105,tail,iku,,,1,1
+37611,106,snake,mato,,,12,
+37968,107,"worm (earthworm)",memto,,,10,
+38325,108,louse,kute,,,1,1
+38682,109,mosquito,namu,,,1,1
+39039,110,spider,dabeno,,,,
+39396,111,fish,ina,,,1,
+39753,112,rotten,esʔer,,,,
+40467,114,leaf,rau,,,1,1
+40824,115,root,rapi,,,14,
+41181,116,flower,made,,,31,
+41538,117,fruit,afo,,,1,?
+41895,118,grass,prai,,,,
+42252,119,earth/soil,badi,,,19,
+42609,120,stone,fati,,,1,1
+42966,121,sand,wane,,,1,1
+43323,122,water,rani,,,1,1
+43680,123,"to flow",emiar,,,,
+44037,124,sea,maʔati,,,8,
+44394,125,salt,maʔati,,,"3,45",
+44751,126,lake,edus,,,,
+45108,127,woods/forest,edma,,,,
+45465,128,sky,metawadi,,,,
+45822,129,moon,mado,,,,
+46179,130,star,betwe,,,1,1
+46536,131,cloud,meno,,,,
+46893,132,fog,fedesa,,,,
+78745,133,rain,tano,,,,
+78746,133,rain,mrofi,,,42,
+78796,134,thunder,erye,,,,
+78797,134,thunder,maʔar,,,,
+47964,135,lightning,metadeda,,,17,
+48321,136,wind,maro,,,66,
+48678,137,"to blow",faruna,,,,
+49035,138,warm,mefna,,,"1, 72",1
+49392,139,cold,sebre,,,,
+49749,140,dry,esaʔara,,,,
+50106,141,wet,mekni,,,,
+50463,142,heavy,mafo,,,46,?
+50820,143,fire,yafu,,,1,1
+51177,144,"to burn",eboʔoit,,,,
+51534,145,smoke,metarfe,,,,
+51891,146,ash,desa,,,66,
+52248,147,black,fe-meno,,,,
+52605,148,white,fe-pamo,,,118,
+52962,149,red,fe-dara,,,25,
+53319,150,yellow,fe-yone,,,9,
+53676,151,green,fe-meno,,,,
+54033,152,small,benanatau,,,,
+80010,153,big,myori,,,,
+80011,153,big,wemio,,,,
+54747,154,short,tibo,,,,
+55104,155,long,meda,,,,
+55461,156,thin,mense,,,,?
+55818,157,thick,meʔdi,,,,
+56175,158,narrow,tapuemyo,,,,
+56532,159,wide,beba,,,12,
+56889,160,"painful, sick",eniefei,,,,
+57603,162,old,moru,,,,
+57960,163,new,fefou,,,"1,26",1
+80590,164,good,fiamau,,,1,1
+80591,164,good,fia,,,1,1
+80677,165,"bad, evil",kido,,,,
+80678,165,"bad, evil",serari,,,,
+59031,166,"correct, true",mermau,,,,
+113906,167,night,pani,,,1,1
+113907,167,night,meriou,,,16,
+59745,168,day,useto,,,,
+60102,169,year,yaʔme,,,13,
+60459,170,when?,"samo semfaina",,,,
+61173,172,"to climb",etisa,,,,
+61530,173,at,den,,,,
+81208,174,"in, inside",afo,,,,
+81209,174,"in, inside",waridon,,,,
+81263,175,above,wersawo,,,,
+81264,175,above,afo,,,2,
+62601,176,below,fuse,,,,
+81355,177,this,teit,,,,
+81356,177,this,[se]satei,,,,
+63315,178,that,denonoto,,,,
+63672,179,near,raʔruse,,,,
+64029,180,far,de-nowoʔ,,,,
+64386,181,where?,de-nsifana,,,,
+81786,182,I,yau,,,"1,21",1
+81787,182,I,yawasi,,,,1
+81788,182,I,ia|be,,,"1,21",1
+81880,183,thou,usimau,,,,
+81881,183,thou,u|be,,,,
+65457,184,he/she,e|be,,,1,?
+82001,185,we,usim|se,,,,
+82002,185,we,rer|be,,,,
+66171,186,you,yambe,,,1,
+66528,187,they,rerbedai,,,,
+82245,188,what?,nyo,,,,
+82246,188,what?,nisamba,,,,
+67242,189,who?,deisana,,,,?
+67599,190,other,detesa,,,,
+67956,191,all,dedwitse,,,,
+68313,192,and,fesake,,,,
+69027,194,how?,fefaina,,,,
+69384,195,"no, not",tap[se],,,"4,22",
+69741,196,"to count",imimʔaʔot,,,,
+70098,197,One,tesese,,,14,
+70455,198,Two,daidu,,,1,1
+70812,199,Three,tou,,,1,1
+71169,200,Four,fau,,,"1,71",1?

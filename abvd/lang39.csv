@@ -1,0 +1,179 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+39,Ali,"D.C. Laycock",ykm,kapp1237,"[Â«] is probably most instances /a/ but may represent a reduction of other vowels",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Schouten, Siau","Peng Du","Simon Greenhill","@misc{Laycock-39-2005,  author = \"D.C. Laycock\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-3.28760999999999992127,142.65901999999999816282
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+71405,1,hand,awiə-k,,,62,
+71406,1,hand,awi-ək,,,62,
+396,2,left,nʏaitʏ,,,19,
+753,3,right,mawáŋ,,,"1,29",?
+1110,4,leg/foot,lawi-ak,,,,
+1467,5,"to walk",siəl,,,21,
+1824,6,road/path,"tʏal təniəŋ",,,1,1
+2181,7,"to come",-ma,,,1,1?
+2538,8,"to turn",kiruwouŋ,,,,
+2895,9,"to swim",mom,,,,
+3252,10,dirty,tʏumutʏ,(=black),,105,
+3966,12,skin,wuli-k,,,1,1
+4680,14,belly,pəlapi-ak,,,,
+5037,15,bone,tuwi-ak,,,2,
+5394,16,intestines,"pia-k waruʷúŋ",,,20,
+5751,17,liver,ati-ək,,,1,1
+6108,18,breast,sus,,,1,1
+6465,19,shoulder,toup,,,,
+6822,20,"to know, be knowledgeable",roŋ,,,19,
+7179,21,"to think",aluək,,,,
+7536,22,"to fear",'eu,,,79,
+7893,23,blood,tʏnʏi,,,31,
+8250,24,head,rəmatápu-k,,,,
+8607,25,neck,aur,,,,
+8964,26,hair,rəmaló-uk,,,,
+9321,27,nose,yisu-k,,,1,1
+9678,28,"to breathe","-lol alí-ak",,,,
+10035,29,"to sniff, smell",las,,,,1
+72838,30,mouth,pəri-k,,,57,
+72839,30,mouth,supi-ək,,,,
+10749,31,tooth,nyilu-ək,,,,
+11106,32,tongue,lalí-ak,,,,
+11463,33,"to laugh",tʏilítʏ,,,,
+11820,34,"to cry",tiəŋ,,,1,
+12177,35,"to vomit",tamót,,,1,?
+12534,36,"to spit",sor,,,,
+12891,37,"to eat",ʔiəŋ,,,1,
+13962,40,"to drink","'iəŋ [riəŋ]",,,1,
+14319,41,"to bite",'ar,,,1,1?
+14676,42,"to suck","'i əŋ [sus]",,,,
+15033,43,ear,tanakeʔi-k,,,"1,69",
+15390,44,"to hear",rouŋ,,,1,1?
+15747,45,eye,matakərí-ək,,,"1,23",1
+16104,46,"to see",'oŋ,,,,
+16818,48,"to sleep",mawaŋ,,,,
+17889,51,"to sit","-nasi pitʏ",,,,
+74096,52,"to stand",-lul,,,,
+74097,52,"to stand",-tou,,,2,
+18960,54,man/male,rama,,,"70,14",
+19317,55,woman/female,tamiŋ,,,"1,98",?
+19674,56,child,salíu,,,,
+20031,57,husband,rama,,,,
+20388,58,wife,tamiŋ,,,,
+20745,59,mother,nʏanʏ,,,"1, 83",
+21102,60,father,mam,,,"1,10",
+21459,61,house,anóu,,,7,
+22173,63,name,las,,,"1,18",1
+22530,64,"to say","-pal aliŋ",,,50,
+22887,65,rope,war,,,2,
+23244,66,"to tie up, fasten",líu,,,1,
+23601,67,"to sew",sei,,,2,1
+24315,69,"to hunt",-or,,,83,
+25029,71,"to stab, pierce",sóəʔ,,,67,
+25386,72,"to hit",tar,,,10,
+26100,74,"to kill",tapaiŋ,,,,
+26457,75,"to die, be dead",miət,,,1,1
+26814,76,"to live, be alive",-tou,[?],,8,
+27171,77,"to scratch",nʏɛl,,,,
+27885,79,stick/wood,"ein təniəŋ",,,1?,1?
+28242,80,"to split",ta'aiwak,,,,
+28599,81,sharp,mateiŋ,,,36,
+28956,82,"dull, blunt","mateiŋ wuŋ","[=not sharp]",,x,
+30741,87,"to swell",sará,,,35,
+31098,88,"to squeeze",wor,,,42,1
+31812,90,"to dig",'eil,,,1,1
+33240,94,"to throw",tar,,,125,
+33597,95,"to fall",luət,,,63,
+33954,96,dog,ouŋ,,,43,
+34311,97,bird,miəŋ,,,1,1
+34668,98,egg,təliŋ,,,1,?
+35025,99,feather,louŋ,,,24,
+35382,100,wing,peiŋ,,,2,1
+35739,101,"to fly",rou,,,1,1
+36096,102,rat,yesou,,,3,
+36453,103,meat/flesh,só-ək,,,,
+36810,104,fat/grease,minúəŋ,,,1,
+37167,105,tail,nyiʔuŋ,,,1,
+37524,106,snake,ani,,,41,
+38238,108,louse,wut,,,1,1
+38595,109,mosquito,nyuəm,,,1,1
+38952,110,spider,liwa,,,1,1?
+39309,111,fish,wa'ar,,,,
+39666,112,rotten,tyiʔiəŋ,,,47,
+40023,113,branch,aiʔárɛŋ,,,55,
+40380,114,leaf,"ai rouŋ",,,1,1
+40737,115,root,"ai rapiŋ",,,14,
+41094,116,flower,"ai rawaŋ",,,,
+41451,117,fruit,"ai atuŋ",,,8,
+77963,118,grass,riŋ,,,96,
+77964,118,grass,panyiʔ,,,,
+42165,119,earth/soil,pitʏapiŋ,,,16,
+42522,120,stone,tamʷúl,,,,
+42879,121,sand,tataŋ,,,,
+43236,122,water,riaŋ,,,"1,61",1
+43593,123,"to flow",sarí,,,24,1?
+43950,124,sea,nau,,,42,
+44307,125,salt,nau,,,30,
+44664,126,lake,"riəŋ ləpiəŋ","'freshwater big'",,43,
+45021,127,woods/forest,parei,,,115,
+45378,128,sky,atér,,,,
+45735,129,moon,sənar,,,37,
+46092,130,star,touŋ,,,,?
+46449,131,cloud,louŋ,,,,
+46806,132,fog,mawór,,,,
+47163,133,rain,párei,,,,
+47520,134,thunder,múliəp,,,,
+47877,135,lightning,youl,,,57,
+48234,136,wind,wiou/wiu,,,18,
+48591,137,"to blow",ru,,,71,
+48948,138,warm,lopliək,,,,
+49305,139,cold,matʏitʏ,,,1,1?
+49662,140,dry,wawuŋ,,,,
+50019,141,wet,maliəl,,,,
+50376,142,heavy,namái,,,,?
+50733,143,fire,liəp,,,1,
+51090,144,"to burn","pis soəʔ",,,,
+51447,145,smoke,asu|wuŋ,,,2,1
+51804,146,ash,taiŋ,,,37,
+52161,147,black,tʏumutʏ,,,16,
+52518,148,white,pous,,,67,
+52875,149,red,ramu,,,,
+53232,150,yellow,liʔálaŋ,,,,
+53589,151,green,nyip,,,,
+53946,152,small,la'aiŋ,,,,
+54303,153,big,paliyeʔ,,,,
+54660,154,short,rukuŋ,,,19,
+55017,155,long,məlau,,,12,
+55731,157,thick,takum,,,,
+56088,158,narrow,kakum,,,,
+56445,159,wide,takum,,,,
+56802,160,"painful, sick",suwa'kalaŋ,,,,
+57516,162,old,lapún,"(?Tok Pisin?)",L?,42,
+57873,163,new,amat,,,19,
+58230,164,good,waneŋ,,,40,
+58587,165,"bad, evil",tʏokʷol,,,,
+58944,166,"correct, true",waneŋ,,,,
+59301,167,night,puəŋ,,,1,1?
+59658,168,day,a's',,,"1, 54",1
+60015,169,year,tapíəŋ,,,,
+80926,170,when?,"puŋ sai",,,,
+80927,170,when?,anesi,,,"1,41",
+81181,174,"in, inside",anou-lal,,,1,
+81182,174,"in, inside",anou-rum,,,18,
+62871,177,this,gia',,,,
+63228,178,that,'oŋ,,,,
+63585,179,near,rukuŋ,,,,
+63942,180,far,məláu,,,21,
+64299,181,where?,win,,,,
+64656,182,I,eu,,,"1,21",1
+65013,183,thou,yi,,,1,
+65370,184,he/she,eŋ,,,21,
+65727,185,we,yit,,,1,1
+66084,186,you,am,,,1,1
+66441,187,they,rei,,,25,?
+66798,188,what?,sai,,,1,
+67155,189,who?,esei,,,1,1
+67869,191,all,tartar,,,,
+68940,194,how?,lakəlei,"(also = why)",,,
+69297,195,"no, not",kap,,,105,
+69654,196,"to count","pis soəʔ",,,,
+70011,197,One,tei,,,14,
+70368,198,Two,rou,,,1,1
+70725,199,Three,tuəl,,,1,1
+71082,200,Four,au,,,"1,71",

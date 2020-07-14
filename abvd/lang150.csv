@@ -1,0 +1,217 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+150,"Banjarese Malay","M. Asfandi Adul",bjn,banj1239,"S Adelaar: \"Sanskrit\" stands for various older Indian influences (including Middle Indian) cf. Hoogervorst 2013",,"Austronesian, Malayo-Polynesian, Malayo-Chamic, Malayic, Malay","Peng Du","Simon Greenhill","@misc{Adul-150-2005,  author = \"M. Asfandi Adul\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-1.19701784735806904258,113.35496712035730126900
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+150,1,hand,tangan,,,18,
+507,2,left,kiwa,"< Javanese",L,27,
+864,3,right,kanan,,,"1,73",1
+1221,4,leg/foot,batis,,,23,
+1578,5,"to walk",bajalan,,,21,
+1935,6,road/path,jalan,,,1,1
+2292,7,"to come",datang,,,14,
+2649,8,"to turn",baputar,,,1,
+3006,9,"to swim",bakunyung,,,,
+3363,10,dirty,rigat,"< Javanese",L,34,
+3720,11,dust,dabu,,,58,
+4077,12,skin,kulit,,,1,1
+4434,13,back,balakang,,,27,
+4791,14,belly,parut,,,32,
+5148,15,bone,tulang,,,1,1
+88315,16,intestines,parutlilit,,,23,
+88316,16,intestines,ucus,"< Javanese",L,24,
+5862,17,liver,hati,,,1,1
+6219,18,breast,susu,,,1,1
+6576,19,shoulder,bahu,"ultimately < Sanskrit",L,17,
+6933,20,"to know, be knowledgeable",tahu,,,1,1
+7290,21,"to think",bapikir,"loan of 22",L,22,
+7647,22,"to fear",takutan,,,1,1
+8004,23,blood,darah,,,1,1
+8361,24,head,kapala,"Skt kapala 'skull'",L,45,
+8718,25,neck,gulu,"< Javanese",L,39,
+9075,26,hair,rambut,,,20,
+9432,27,nose,hidung,,,1,1
+9789,28,"to breathe",hinak,,,,
+10146,29,"to sniff, smell",cium,,,30,
+10503,30,mouth,muntung,,,47,
+10860,31,tooth,gigi,,,17,
+11217,32,tongue,ilat,"< Javanese",L,"4,25",
+11574,33,"to laugh",tatawa,,,1,1
+11931,34,"to cry",tangis,,,1,1
+12288,35,"to vomit",muak,,,,
+12645,36,"to spit",ludah,,,1,1
+13002,37,"to eat",makan,,,1,1
+13359,38,"to chew",mamah,,,1,1
+13716,39,"to cook",bamasak,,,19,
+14073,40,"to drink",nginum,,,1,1
+14430,41,"to bite",igut,,,,?
+14787,42,"to suck",taguk,,,,
+15144,43,ear,talinga,,,1,1
+15501,44,"to hear",mandangar,,,1,1
+15858,45,eye,mata,,,1,1
+16215,46,"to see",lihat,,,23,
+16572,47,"to yawn",kuap,,,19,1
+16929,48,"to sleep",guring,,,,
+17286,49,"to lie down",barabah,,,107,
+17643,50,"to dream",mimpi,,,1,1
+18000,51,"to sit",duduk,,,35,
+18357,52,"to stand",badiri,,,1,1
+18714,53,"person/human being",urang,,,20,
+19071,54,man/male,lalakian,,,2,1
+19428,55,woman/female,bibinian,,,"1,106",1
+19785,56,child,anak,,,1,1
+20142,57,husband,laki,,,28,
+20499,58,wife,bini,,,5,
+20856,59,mother,uma,,,35,
+21213,60,father,bapa,"< *b(a)- + *apa (< Dravidian)",L,5,1
+21570,61,house,rumah,,,1,1
+21927,62,thatch/roof,atap,"? hatap (SA)",,1,1
+22284,63,name,ngaran,"< Javanese",,1,1
+22641,64,"to say",ujar,,,,
+22998,65,rope,tali,,,1,1
+23355,66,"to tie up, fasten",jarat,,,137,
+23712,67,"to sew",jahit,,,2,1
+24069,68,needle,jarum,,,1,1
+24426,69,"to hunt",garit,,,,
+24783,70,"to shoot",timbak,,,49,
+25140,71,"to stab, pierce",suduk,,,30,
+25497,72,"to hit",pukul,,,27,
+176733,73,"to steal","menyuntan (mencuri)","cuntan derived from curi, which is ultimately Indian",L,,
+26211,74,"to kill",bunuh,,,1,1
+26568,75,"to die, be dead",mati,,,1,1
+26925,76,"to live, be alive",hidup,,,"1,82",1
+27282,77,"to scratch",garu,,,55,1?
+27639,78,"to cut, hack",tatak,,,3,1
+27996,79,stick/wood,kayu,,,1,
+28353,80,"to split",balah,,,1,1
+28710,81,sharp,landap,,,34,
+29067,82,"dull, blunt",bungul,,,,
+29424,83,"to work",gawi,,,21,
+29781,84,"to plant",tanam,,,2,1
+30138,85,"to choose",pilih,,,1,1
+30495,86,"to grow",tumbuh,,,1,1
+30852,87,"to swell",bangkak,,,19,
+31209,88,"to squeeze",parah,,,1,1
+31566,89,"to hold",pingkut,,,,
+31923,90,"to dig",tabuk,,,,
+131102,91,"to buy",tukar,"< non-standard (or historical) form of Javanese; possibly: inherited form with JV semantic interference?",,71,
+32637,92,"to open, uncover",buka,,,1,1
+32994,93,"to pound, beat",tumbuk,,,9,
+33351,94,"to throw",tawak,,,,
+33708,95,"to fall",gugur,,,67,
+34065,96,dog,hadupan,,,,
+34422,97,bird,burung,,,17,
+34779,98,egg,hintalu,"< (Old) Javanese",L,1,1
+35136,99,feather,bulu,,,1,1
+35493,100,wing,halar,"< Javanese",L,23,
+35850,101,"to fly",tarabang,,,18,
+36207,102,rat,tikus,,,22,
+36564,103,meat/flesh,daging,,,26,
+36921,104,fat/grease,lamak,,,24,
+37278,105,tail,buntut,,,16,
+37635,106,snake,ular,,,2,1
+135664,106,snake,tadung,,,,
+37992,107,"worm (earthworm)",cacing,,,23,
+38349,108,louse,kutu,,,1,1
+38706,109,mosquito,ñamuk,,,1,1
+39420,111,fish,iwak,"< Javanese",L,25,
+39777,112,rotten,buruk,,,1,1
+40491,114,leaf,daun,,,1,1
+40848,115,root,akar,,,2,1
+41205,116,flower,kambang,"< Javanese",L,21,
+41562,117,fruit,buah,,,1,1
+41919,118,grass,kumpai,,,,
+42276,119,earth/soil,tanah,,,1,1
+42633,120,stone,batu,,,1,1
+42990,121,sand,karangan,,,,
+43347,122,water,banyu,"Javanese Loan",L,18,
+43704,123,"to flow",alir,,,1,1
+44061,124,sea,laut,,,6,
+44418,125,salt,uyah,"< Javanese",L,15,
+44775,126,lake,danau,,,1,1
+45132,127,woods/forest,hutan,,,7,1
+45489,128,sky,langit,,,1,1
+45846,129,moon,bulan,,,1,1
+46203,130,star,bintang,,,1,
+46560,131,cloud,awan,,,1,
+46917,132,fog,kabut,,,1,1
+47274,133,rain,hujan,,,1,1
+47631,134,thunder,guntur,,,30,
+47988,135,lightning,kilat,,,1,1
+48345,136,wind,angin,,,1,1
+48702,137,"to blow",batiup,,,"1,19",1
+49059,138,warm,panas,,,1,1
+49416,139,cold,dingin,,,1,
+49773,140,dry,karing,,,22,
+50130,141,wet,basah,,,1,1
+50487,142,heavy,barat,,,1,1
+50844,143,fire,api,,,1,1
+51201,144,"to burn",banam,"< Javanese",L,,
+51558,145,smoke,asap,,,49,
+51915,146,ash,habu,,,1,1
+52272,147,black,hirang,"< Javanese",L,32,
+52629,148,white,putih,,,1,1
+52986,149,red,habang,"< Javanese",L,33,
+53343,150,yellow,kuning,,,1,1?
+53700,151,green,hijau,,,25,
+54057,152,small,halus,,,34,
+54414,153,big,ganal,,,,
+54771,154,short,handap,,,,
+55128,155,long,panjang,,,24,
+55485,156,thin,tipis,,,"1,44",1
+55842,157,thick,kandal,,,45,
+56199,158,narrow,kipit,,,47,1
+56556,159,wide,libar,,,1,
+56913,160,"painful, sick",sakit,,,1,1
+57270,161,"shy, ashamed",malu,,,20,
+57627,162,old,tuha,,,1,1
+57984,163,new,hanyar,"< Javanese",L,16,
+58341,164,good,baik,,,33,
+58698,165,"bad, evil",buruk,,,115,
+59055,166,"correct, true",banar,,,1,1
+59412,167,night,malam,,,20,
+59769,168,day,siang,"?suspect (usually refers to early afternoon)",,,
+345008,168,day,hari,,,17,
+60126,169,year,tahun,,,1,1
+60483,170,when?,bila,,,13,
+60840,171,"to hide",sambuñɪ,,,1,1
+61197,172,"to climb",naik,,,1,1
+61554,173,at,di,,,20,1
+61911,174,"in, inside",dalam,,,1,1
+62268,175,above,atas,,,1,1
+62625,176,below,bawah,,,1,1
+62982,177,this,ini,,,1,1
+63339,178,that,itu,,,16,1
+63696,179,near,parak,,,27,
+64053,180,far,jauh,,,1,1
+64410,181,where?,"di mana",,,20,
+64767,182,I,aku,,,1,1
+135244,182,I,ulun,"< Javanese (h)ulun 'slave, servant'",L,27,
+65124,183,thou,"bubuhan ikam",,,,
+65481,184,he/she,inya,,,2,
+113947,185,we,kita,,,1,1
+113948,185,we,kami,,,2,
+66195,186,you,ikam,,,1,
+66552,187,they,bubuhannya,,,,
+66909,188,what?,apaʔ,,,1,1
+67266,189,who?,siapaʔ,,,12,
+67623,190,other,"nang lain",,,2,
+67980,191,all,samuaan,"ultimately < Sanskrit",L,33,
+68337,192,and,dan,,,18,
+68694,193,if,jaka,"< Sanskrit Jaka + Arabic law",L,10,
+135665,193,if,amun,,,10,
+135201,194,how?,wayahapa,"< Javanese wajah (< *wayah) 'face'",L,,
+131101,195,"no, not",kada,,,109,
+69765,196,"to count",itung,,,31,1
+70122,197,One,asa,,,1,1
+70479,198,Two,dua,,,1,1
+70836,199,Three,talu,"< Javanese",L,1,1
+71193,200,Four,ampat,,,1,1
+83799,201,Five,lima,,,1,
+83739,202,Six,anam,,,1,
+83621,203,Seven,tujuh,,,4,
+83572,204,Eight,dalapan,,,4,
+83497,205,Nine,sambilan,,,10,
+83414,206,Ten,sapuluh,,,5,
+83344,209,"One Hundred",saratus,,,4,
+83309,210,"One Thousand",saribu,,,5,

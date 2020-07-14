@@ -1,0 +1,225 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+103,Nguna,"Albert Schütz and Jack Tavimasoe",llp,nort2836,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, North and Central Vanuatu, Northeast Vanuatu-Banks Islands, Central Vanuatu","Debasish Roy","Simon Greenhill","@book{schuetz1969a,  date      = {1969},  title     = {Nguna grammar (Vol. 5)},  publisher = {University of Hawaii Press},  language  = {en},  address   = {Honolulu},  author    = {Schütz, A.J.}}@book{schuetz1969b,  date      = {1969},  title     = {Nguna texts (Vol. 4)},  publisher = {University of Hawaii Press},  language  = {en},  address   = {Honolulu},  author    = {Schütz, A.J.}}"
+latitude,longitude
+-17.43976295005251131442,168.37961817538300124397
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+103,1,hand,nam̃elearu,,,,
+460,2,left,mawiri,,,"1,59",1
+817,3,right,matua,[<M],,"5, 37",1
+1174,4,leg/foot,natua,,,16,
+1531,5,"to walk",surata,,,102,
+1888,6,road/path,napua,,,5,
+2245,7,"to come",u|mai,,,1,1
+2602,8,"to turn",maradoa,,,105,
+2959,9,"to swim",loloso,,,8,
+3316,10,dirty,loa,,,6,
+3673,11,dust,nam̃otam̃ota,,,27,
+4030,12,skin,nawili,,,"1, 81",?
+4387,13,back,nataku,,,12,
+4744,14,belly,nap̃ele,,,12,
+5101,15,bone,navatu,,,38,
+5458,16,intestines,namarita,,,15,
+5815,17,liver,natanikapu,,,12,
+6172,18,breast,susu,,,1,1
+6529,19,shoulder,napau,,,65?,
+6886,20,"to know, be knowledgeable",atae,,,35,
+7243,21,"to think",midoki,,,"13, 72",
+7600,22,"to fear",mataku,,,1,1
+7957,23,blood,nadā,,,1,1
+8314,24,head,nap̃au,,,14,
+8671,25,neck,nanoa,,,63,
+9028,26,hair,nalolu,,,61,
+9385,27,nose,nagusu,,,27,
+9742,28,"to breathe",maromaro,,,12,
+72800,29,"to sniff, smell",nap̃o,,,42,
+72801,29,"to sniff, smell",dam̃o,,,81,
+10456,30,mouth,nawoka,,,"1, 81",
+10813,31,tooth,napati,,,6,
+11170,32,tongue,namena,"accretion of 3sg suffix to root",,"7, 40",
+11527,33,"to laugh",muru,,,94,
+11884,34,"to cry",vioso,,,,
+12241,35,"to vomit",lua,,,8,
+73168,36,"to spit",taniu,,,85,
+73169,36,"to spit",puvurai,,,35,
+12955,37,"to eat",ganikani,,,"1,12",1
+90482,39,"to cook",tao,"Pollex 06: Tao. :To cook (Stz).",,10,
+14026,40,"to drink",m|unu,[<A],,"1,49",1?
+14383,41,"to bite",kati,,,"1, 55",1
+14740,42,"to suck",susu,,,25,1
+15097,43,ear,nataliga,,,1,1
+15454,44,"to hear",togo,,,1,1
+15811,45,eye,namata,,,1,1
+16168,46,"to see",punusi,,,11,
+16882,48,"to sleep",maturu,,,1,1
+17239,49,"to lie down",one,[<M],,"1, 59",1?
+17596,50,"to dream",p̃erea,,,10,1?
+17953,51,"to sit",tāsake,,,72,
+18310,52,"to stand",lawodu,,,,
+18667,53,"person/human being",naatam̄oli,,,"4, 7",?
+19024,54,man/male,naanoai,,,80,
+19381,55,woman/female,nagoroi,,,84,
+19738,56,child,piakiki,,,,
+20095,57,husband,anawota,,,61,
+20452,58,wife,anagoroi,,,48,
+20809,59,mother,p̃ila,,,22,
+21166,60,father,tama,,,1,1
+21523,61,house,nasum̃a,[S<+R],,1,1?
+21880,62,thatch/roof,takitaki,,,20?,
+22237,63,name,nagisa,,,"1, 36",1?
+22594,64,"to say",noa,,,112,
+22951,65,rope,natali,,,1,1
+74986,66,"to tie up, fasten",likoti,,,"1,39",?
+74987,66,"to tie up, fasten",solisoki,,,57,?
+23665,67,"to sew",tuturi,,,13,
+24022,68,needle,"tea  tuturi",,,66,
+24379,69,"to hunt",palako,,,"10, 58",
+24736,70,"to shoot",tipe,,,8,
+25093,71,"to stab, pierce",puri,,,80,
+25450,72,"to hit",tip̃a,,,92,
+25807,73,"to steal",panako,,,"1,58",1
+26164,74,"to kill",mari|punu|e,,,"60, 1",1?
+26521,75,"to die, be dead",mate,,,1,1
+26878,76,"to live, be alive",mauri,,,"1, 76",1
+27235,77,"to scratch",karuti,,,44,?
+27592,78,"to cut, hack",tai,,,1,1?
+27949,79,stick/wood,nakau,,,1,1
+28306,80,"to split",mari|p̃ora|i,,,1,
+28663,81,sharp,makali,,,"14, 79, 81",
+29020,82,"dull, blunt",p̃olu,,,14,
+29377,83,"to work",p̃osiwosi,,,91,
+29734,84,"to plant",lawo,,,10,
+30091,85,"to choose",matadoa,,,32,
+30448,86,"to grow",p̃ora,,,18,
+30805,87,"to swell",puka,,,10,
+76360,88,"to squeeze",molitawonaki,,,36,
+76361,88,"to squeeze",m̃im̃isoki,,,,
+76438,89,"to hold",tapesoki,,,36,
+76439,89,"to hold",puasoki,,,36,
+31876,90,"to dig",kili,,,1,1
+32233,91,"to buy",pakotovi,,,9,
+32590,92,"to open, uncover",p̃olagati,,,13,
+33304,94,"to throw",nadi,,,75,
+33661,95,"to fall",towo,,,13,
+34018,96,dog,koria,,,"7, 79",
+34375,97,bird,manu,,,1,1
+34732,98,egg,atolu,,,1,1
+35089,99,feather,nam̃au,,,6,
+35446,100,wing,nalivaru,,,61,
+35803,101,"to fly",tiri,,,40,
+36160,102,rat,kusue,,,3,
+36517,103,meat/flesh,nap̃okasi,,,"15, 79",
+36874,104,fat/grease,natavarevare,,,,
+37231,105,tail,napue,,,11,
+37588,106,snake,m̃ata,,,12,
+37945,107,"worm (earthworm)",ula,,,24,
+38302,108,louse,kutu,,,1,1
+77513,109,mosquito,namu,,,1,1
+77514,109,mosquito,patiriki,,,84,1
+39016,110,spider,kalao,,,1,1?
+39373,111,fish,naika,,,1,1
+39730,112,rotten,matata,,,116,
+40444,114,leaf,naulu,,,1,
+40801,115,root,nakoa,[<M?],,"2, 41, 42",?
+41158,116,flower,napum̃a,,,"1, 74",
+41515,117,fruit,nawā,,,"1, 26",?
+41872,118,grass,nam̃enau,,,31,
+42229,119,earth/soil,natano,,,1,1
+42586,120,stone,vātu,,,1,
+42943,121,sand,naworauni,,,1,
+43300,122,water,noai,[<m],,2,1?
+43657,123,"to flow",sara,,,33,
+44014,124,sea,natasi,,,1,1
+44371,125,salt,natasimena,,,20,
+44728,126,lake,nama|rourou,,,8?,
+45085,127,woods/forest,namalasi,,,18,
+78504,128,sky,namalopa,,,38,
+78505,128,sky,elagi,,,1,
+45799,129,moon,atelagi,,,8,
+46156,130,star,m̃asoe,,,13,
+46513,131,cloud,napopouru,,,38,
+46870,132,fog,namavu,,,"3, 32",?
+47227,133,rain,usa,,,1,1
+47584,134,thunder,tovae,,,42,
+47941,135,lightning,navila,,,26,1?
+48298,136,wind,nal|agi,,,"1, 77",1
+78993,137,"to blow",sau,,,12,
+78994,137,"to blow",sui,,,62,
+49012,138,warm,pivitinu,,,"12, 94",
+49369,139,cold,malati,,,45,
+49726,140,dry,garagara,"possibly related to root *kaR?",,29,
+50083,141,wet,memeu,,,36,
+50440,142,heavy,mataga,,,32,
+50797,143,fire,nakapu,,,19,
+51154,144,"to burn",aso,,,,
+51511,145,smoke,nasua,,,2,
+51868,146,ash,natano,,,10,
+52225,147,black,loa,,,40,
+52582,148,white,tare,,,12,
+52939,149,red,miala,,,"1,55",
+79781,150,yellow,m̃onom̃ono,,,33,
+79782,150,yellow,m̃iloloa,,,44,
+53653,151,green,mamalakesa,,,"8, 43",
+54010,152,small,kiki,,,78,?
+54367,153,big,warua,,,45,
+54724,154,short,puru,,,,
+55081,155,long,parau,,,"16, 85",
+55438,156,thin,manivenive,,,1,
+55795,157,thick,matolu,,,3,
+56152,158,narrow,napalasa,,,,
+56509,159,wide,p̃elewelea,,,34,
+56866,160,"painful, sick",masaki,,,1,1
+57223,161,"shy, ashamed",maliere,,,7,
+57580,162,old,tuwa|i,,,"1, 35",1?
+57937,163,new,vāu,,,1,1
+58294,164,good,wia,,,1,1
+58651,165,"bad, evil",sā,,,1,1
+59008,166,"correct, true",leana,,,32,
+59365,167,night,p̃ogi,,,1,1
+59722,168,day,naleatia,,,"1,18",
+60079,169,year,natau,,,1,1
+60793,171,"to hide",tasuru,,,6,
+61150,172,"to climb",pagi,,,9,
+81105,173,at,toko,,,6,?
+81106,173,at,e,,,1,?
+61864,174,"in, inside","e  kopu",,,39,
+62221,175,above,tap̃au,,,2?,
+62578,176,below,etano,,,9,
+62935,177,this,wa|ia,,,,
+63292,178,that,wa|ina,,,1,1
+63649,179,near,malatigi,,,14,
+64006,180,far,ufea,,,66,
+81699,181,where?,esava,,,"34, 3?",
+81700,181,where?,wai,,,3?,
+81784,182,I,a,,,"1,21,22",1
+81785,182,I,ki|nau,,,"1,21,22",1
+81872,183,thou,ku,,,1,?
+81873,183,thou,nīgo,,,"1, 17, 18",?
+81948,184,he/she,[t]e,,,1,
+81949,184,he/she,nae,,,"1, 6",
+118845,185,we,toro,,,66,
+118846,185,we,tu,,,66,
+118847,185,we,nigita,,,1,
+118848,185,we,[t]aro,,,,
+118849,185,we,[t]au,,,,
+118850,185,we,kinami,,,2,
+82043,186,you,koro,,,16?,
+82044,186,you,ku,,,16?,
+82045,186,you,nimu,,,24,
+82141,187,they,[t]ero,,,"1, 70",
+82142,187,they,[t]eu,,,,
+82143,187,they,[t]ou,,,,
+82144,187,they,nara,,,"1, 33",
+66862,188,what?,nasava,,,1,1
+67219,189,who?,sei,,,1,1
+67576,190,other,pota,,,38,
+67933,191,all,mamauputi,,,,
+68290,192,and,go,,,12,
+68647,193,if,pe,,,28,
+69004,194,how?,"dapala nasava","[like what]",,13,
+69361,195,"no, not",ta,,,4?,
+69718,196,"to count",peve,,,70,
+70075,197,One,sikai,,,42,
+70432,198,Two,dua,,,1,1
+70789,199,Three,tolu,,,1,1
+71146,200,Four,pati,,,"1,65",1
+83764,201,Five,lima,"Five, hand-arm.(Source: Pollex)",,1,

@@ -1,0 +1,231 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+154,"Dayak Ngaju","Max J.R.Turangan",nij,ngaj1237,,,"Austronesian, Malayo-Polynesian, Greater Barito, West, South","Peng Du","Simon Greenhill","@misc{JRTurangan-154-2005,  author = \"Max J.R.Turangan\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+1.41666699999999989856,109.83333299999999610463
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+154,1,hand,lenge',,,19,
+511,2,left,sambil,,,23,
+868,3,right,gamtawu',,,"5,13",1
+1225,4,leg/foot,pai',,,22,?
+1582,5,"to walk",mamanjung,,,16,
+202685,5,"to walk",mananjung,,,,
+1939,6,road/path,karatak,,,14,
+2296,7,"to come",dumah,,,13,
+2653,8,"to turn",mahiwang,,,19,
+3010,9,"to swim",hanangoi,,,1,1
+3367,10,dirty,papa',,,49,
+3724,11,dust,kawu',(=146),,1,
+4081,12,skin,upak,,,19,
+4438,13,back,likut,,,1,1
+4795,14,belly,kamai',,,48,
+202688,14,belly,kana-i,,,,
+5152,15,bone,tulang,,,1,1
+5509,16,intestines,"bajakah kamai'",,,1,
+5866,17,liver,atei,,,1,1
+6223,18,breast,tusu,,,1,1
+6580,19,shoulder,"hunjun baha",,,17,
+6937,20,"to know, be knowledgeable",katawam,"should be final n",,1,1
+7294,21,"to think",bapikir,"loan of 22?",L?,22,
+7651,22,"to fear",mikeh,,,15,
+8008,23,blood,daha',,,1,1
+118231,24,head,takuluk,,,1,
+131100,25,neck,uyat,,,71,
+9079,26,hair,balau,,,18,
+9436,27,nose,urung,,,1,1
+9793,28,"to breathe",mahaseng,,,23,
+202684,28,"to breathe",nahaseng,,,23,
+72806,29,"to sniff, smell",manyium,,,20,
+72807,29,"to sniff, smell",mambewau,,,,
+10507,30,mouth,nyama,,,20,
+10864,31,tooth,kasinga,,,12,
+11221,32,tongue,iela',,,4,?
+11578,33,"to laugh",tatawe',,,1,1
+202687,33,"to laugh",katawe,,,1,
+73074,34,"to cry",manamqis,,,1,1
+73075,34,"to cry",mamatum,,,17,1
+12292,35,"to vomit",muta',,,1,1
+12649,36,"to spit",maluyah,,,1,1?
+13006,37,"to eat",kuman,,,1,1
+13363,38,"to chew",manyipa',,,24,
+13720,39,"to cook",mampakasak,,,19?,
+14077,40,"to drink",mihup,,,12,
+89806,41,"to bite",manqirut,,,56,
+89807,41,"to bite",mamangkit,,,17,
+14791,42,"to suck",minyup,,,70,
+15148,43,ear,pindinq,"check final letter g ?",,10,
+15505,44,"to hear",mahining,,,13,
+15862,45,eye,mata',,,1,1
+73888,46,"to see",mite',,,1,1
+73889,46,"to see",manampayah,,,,1
+16576,47,"to yawn",malalap,,,"4,19",
+16933,48,"to sleep",batiruh,,,"1,70",1
+173588,49,"to lie down",menter,,,,
+118232,50,"to dream",manupi,,,1,
+18004,51,"to sit",munduk,,,"35,29",
+18361,52,"to stand",mendeng,,,17,
+18718,53,"person/human being",uluh,,,17,
+19075,54,man/male,hatue',,,23,
+19432,55,woman/female,bawi',,,1,1
+19789,56,child,anak,,,1,1
+20146,57,husband,bana,,,1,1
+20503,58,wife,sawa,,,1,1
+20860,59,mother,indu,"Malay Loan",L,10,
+91321,60,father,bapa,,,5,1
+91322,60,father,apanq,,,12,
+21574,61,house,huma',,,1,1
+21931,62,thatch/roof,hatap,,,1,1
+22288,63,name,aran,,,1,1
+22645,64,"to say",hamauh,,,31,
+23002,65,rope,tali,,,1,1
+23359,66,"to tie up, fasten",mameteng,,,25,
+23716,67,"to sew",mitur[mamitur],,,,
+24073,68,needle,pilus,,,14,
+75204,69,"to hunt",mengan,cp.172,,31,1?
+75205,69,"to hunt",mandup,cp.172,,1,1?
+24787,70,"to shoot","manem bak",,,49,
+25144,71,"to stab, pierce",manyuduk,,,23,
+25501,72,"to hit",mamukul,,,27,
+25858,73,"to steal",manakau,,,1,1
+26215,74,"to kill",mampatei,,,22,?
+26572,75,"to die, be dead",matei,,,1,1
+26929,76,"to live, be alive",belum,,,11,
+27286,77,"to scratch",manqqayau,,,20,?
+27643,78,"to cut, hack",manetek,,,3,1
+28000,79,stick/wood,kayu,,,1,1
+28357,80,"to split",manyila,,,26,1
+28714,81,sharp,batajim,,,1,1
+29071,82,"dull, blunt",batumpul,,,3,1?
+29428,83,"to work",baqawi,,,21,
+29785,84,"to plant",mimbul,,,18,
+30142,85,"to choose",mintih,,,"1?,15",
+30499,86,"to grow",tumbu',,,1,1
+30856,87,"to swell",manqembanq,,,20,
+31213,88,"to squeeze",mahamis,,,1,
+31570,89,"to hold",mimbing,,,24,
+31927,90,"to dig",manqali,,,1,1
+32284,91,"to buy",mamili',,,1,1
+32641,92,"to open, uncover",mukei,,,1?,1?
+32998,93,"to pound, beat",manepe',,,5,
+33355,94,"to throw",manjakah,,,20,
+33712,95,"to fall",manjatu',,,1,
+34069,96,dog,asu,,,1,
+34426,97,bird,burunq,,,17,
+34783,98,egg,tanteluh,,,1,1
+35140,99,feather,bulu,,,1,1
+35497,100,wing,palapas,,,24,
+35854,101,"to fly",tarawanq,,,18,
+36211,102,rat,balau,(<M),,1,1
+36568,103,meat/flesh,isi,,,31,1
+36925,104,fat/grease,enyak,,,1,1?
+37282,105,tail,ikoh,,,1,1
+37639,106,snake,handipe',,,1?,
+37996,107,"worm (earthworm)",handalai,,,,
+38353,108,louse,guti',,,1,1?
+38710,109,mosquito,nyamuk,,,1,1
+39067,110,spider,sabanqkanq,,,17,
+39424,111,fish,lauk,,,14,
+39781,112,rotten,maram,,,25,
+40138,113,branch,edam,,,1?,1?
+40495,114,leaf,dawen,,,1,1
+40852,115,root,uhat,,,1,1
+41209,116,flower,kambanq,,,21,
+41566,117,fruit,bua',,,1,1
+41923,118,grass,uru',,,52,
+42280,119,earth/soil,petak,,,23,
+42637,120,stone,batu,,,1,1
+42994,121,sand,pasir,,,18,
+43351,122,water,danum,,,1,1
+43708,123,"to flow",mahasur,,,19,
+44065,124,sea,laut,,,6,
+44422,125,salt,uyah,,,15,
+44779,126,lake,damau,,,1,1
+45136,127,woods/forest,parak-kayu,,,40,
+202686,127,woods/forest,himba,,,37,
+45493,128,sky,langit,,,1,1
+45850,129,moon,bulan,,,1,1
+46207,130,star,metu',,,,?
+46564,131,cloud,"baun andau",,,26,
+78719,132,fog,"ba ambun",,,"27,35",
+78720,132,fog,hasep,,,,
+47278,133,rain,ujam,,,1,1
+47635,134,thunder,quntur,,,1,
+217951,134,thunder,nyahu,,,,
+47992,135,lightning,kilat,,,1,1
+48349,136,wind,riwut,,,24,
+48706,137,"to blow",mahambus,,,30,
+49063,138,warm,balasut,,,22,
+49420,139,cold,sadinqim,,,21,
+49777,140,dry,keang,,,22?,
+50134,141,wet,bisa',,,1,1
+50491,142,heavy,babehat,,,1,1
+50848,143,fire,apoi,,,1,1
+51205,144,"to burn",mamapoi,,,20,
+51562,145,smoke,asep,,,49,
+51919,146,ash,kawu,,,68,1?
+52276,147,black,babilem,,,30,
+52633,148,white,baputi',,,1,1
+52990,149,red,bahandang,,,27,
+53347,150,yellow,bahenda',,,22,
+53704,151,green,bahijau,,,25,
+54061,152,small,kurik,,,27,
+54418,153,big,hai',,,1,1
+54775,154,short,pandak,,,1,1
+55132,155,long,panjang,,,24,
+55489,156,thin,banipis,,,1,1
+55846,157,thick,bakapal,,,1,1
+56203,158,narrow,"lalau kurik",,,,
+80317,159,wide,lumbah,,,1,
+80318,159,wide,lebar,,,49,
+56917,160,"painful, sick",pehe',,,23,
+57274,161,"shy, ashamed",mahamen,,,13,
+57631,162,old,bakas,,,19,
+57988,163,new,haru,,,1,1
+58345,164,good,bahalap,,,36,
+58702,165,"bad, evil",papa',,,26,
+202689,165,"bad, evil",taluh,,,,
+59059,166,"correct, true",tutu',,,6,
+59416,167,night,hamalem,,,20,
+59773,168,day,andau,,,1,1
+60130,169,year,nyelu,,,17,
+60487,170,when?,hamparea',,,,
+60844,171,"to hide",manyahukan,,,12,
+61201,172,"to climb",mandai',cp.69,,1?,1
+61558,173,at,hung,,,22,
+61915,174,"in, inside","hung huang",,,13,
+62272,175,above,"hung hunjun",,,15,
+62629,176,below,"hung penda'",,,19,
+62986,177,this,jetuh,,,10,
+63343,178,that,jete',,,,
+63700,179,near,tukep,,,44,
+64057,180,far,kejau,,,1,1
+64414,181,where?,"hunq kueh",,,25,
+64771,182,I,aku,,,1,1
+65128,183,thou,ikau,,,1,1
+65485,184,he/she,ie,,,1,1
+113951,185,we,itah,,,1,1
+113952,185,we,ikei,,,1,
+66199,186,you,"ketun handiai",,,,
+66556,187,they,ewen,,,,
+66913,188,what?,narai,,,11,
+67270,189,who?,eweh,,,13,
+67627,190,other,beken,,,10,
+67984,191,all,uras,,,23,
+68341,192,and,en,,,,
+68698,193,if,amun,,,10,
+69055,194,how?,kilenampi,,,,
+69412,195,"no, not",dia',"cp. BM",,2,1?
+69769,196,"to count",mise',,,36,
+70126,197,One,ije',,,1?,
+70483,198,Two,due',,,1,1
+70840,199,Three,telu',,,1,1
+71197,200,Four,epat,,,1,1
+118233,201,Five,lime,,,1,
+118234,202,Six,jahawen,,,10,
+118235,203,Seven,uju,,,4,
+118230,204,Eight,hanya,,,6,
+118229,205,Nine,tien,,,13,
+135223,206,Ten,sapuluh,,,5,
+154668,207,Twenty,duwepuluh,,,,
+154705,208,Fifty,"lime puluh",,,"1,2",
+154704,209,"One Hundred",saratus,,,4,
+118228,210,"One Thousand",sakuyan,,,14,

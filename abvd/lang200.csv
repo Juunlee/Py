@@ -1,0 +1,234 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+200,Yakan,"Blust, from Pack  (1975), Behren (2002), Molony (1969)",yka,yaka1277,"Behrens, D. (2002) Yakan-English dictionary.‭Linguistic Society of the Philippines, Special Monograph Issue, 40.2. Manila: Linguistic Society of the Philippines.Pack, J. (1975) Yakan-Pilipino-English Dictionary. Manila: Summer Institute of Linguistics.Molony, C.H. (1969) Multilingualism and social behavior in the. southern Philippines. Ph.D. dissertation. Stanford, California. Yakan has borrowed extensively from the Greater Central Philippinnes languages and Malay.Additions to Word list from \"Languages of the Southern Gateway\" by SIL",,"Austronesian, Malayo-Polynesian, Greater Barito, Sama-Bajaw","Penny Keenan","Simon Greenhill","@book{134664,  note                  = {Includes bibliographical references (p. 610).},  pages                 = {512},  publisher             = {Linguistic Society of the Philippines, Special Monograph Issue, 40},  series                = {Philippine journal of linguistics : special monograph issue; 40,2},  title                 = {Yakan-English dictionary},  volume                = {Philippine journal of linguistics : special monograph issue},  year                  = {2002},  bibtexkey             = {behrens_yakan-dictionary2002},  class_loc             = {PL6115 .Z5},  country               = {Philippines [PH]},  document_type         = {B},  fn                    = {papua\behrens_yakan-dictionary2002.pdf},  hhtype                = {dictionary},  inlg                  = {English [eng]},  inlg_code             = {eng},  isbn                  = {9789717800103},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 6115 .Z5 BEH 2002},  sil_id                = {42725},  src                   = {hh, mpieva, sil16},  srctrickle            = {hh#d:Behrens:Yakan, mpieva#Behrens2002YakanEng, sil16#42725},  subject               = {Dictionaries and vocabularies [DAV]},  subject_headings      = {Yakan language–Dictionaries–English, English language–Dictionaries–Yakan, Yakan language–Dictionaries–English – English language–Dictionaries–Yakan},  author                = {Behrens, Dietlinde}}@book{pack1975a,  date      = {1975},  title     = {Yakan-Pilipino-English Dictionary},  publisher = {Summer Institute of Linguistics},  language  = {en},  address   = {Manila},  author    = {Pack, J.}}@thesis{molony1969a,  date     = {1969},  title    = {Multilingualism and social behavior in the. southern Philippines},  language = {pt},  type     = {Ph.D. dissertation},  address  = {Stanford, California},  author   = {Molony, C.H.}}"
+latitude,longitude
+6.54455998565332208727,122.05810546875000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+200,1,hand,taŋan,"innovation from the word for thumb, Malay loan",L,18,
+557,2,left,bibaŋ,,,24,
+914,3,right,kanawan,[<M],,"1,67",1
+1271,4,leg/foot,bettis,,,23,
+1628,5,"to walk",leŋŋan,,,59,
+1985,6,road/path,lalan,,,1,1
+2342,7,"to come",pitu,,,31,
+2699,8,"to turn",bira,,,4?,
+3056,9,"to swim",laŋi,,,1,1
+71844,10,dirty,lege,,,,
+71845,10,dirty,lemmiʔ,,,59,
+3770,11,dust,begumbun,,,71,
+4127,12,skin,kuit,,,1,1
+4484,13,back,bukut,,,46,
+4841,14,belly,betteŋ,,,29,
+5198,15,bone,tolaŋ,,,1,1
+5555,16,intestines,tinaʔi,,,1,1
+5912,17,liver,buaʔ,heart,,,
+290614,17,liver,atey,,,,
+6269,18,breast,susu,,,1,1
+6626,19,shoulder,baha,,,1,1
+6983,20,"to know, be knowledgeable",taʔo,,,1,1
+72380,21,"to think",kimmat,,,71,
+72381,21,"to think",pikil,"loan of 22?",L,4,
+7697,22,"to fear",tinalew,"talew is the base",,34,
+8054,23,blood,lahaʔ,,,1,1
+8411,24,head,kok,,,40,
+8768,25,neck,kelloŋ,,,76,
+9125,26,hair,"buu kook",,,31,1
+9482,27,nose,uŋ,,,1,?
+9839,28,"to breathe",mag-napas,"prefix loan from GCPhil, root Malay",L,29,
+10196,29,"to sniff, smell",hamut,"possible borrowing of 31",,99,
+10553,30,mouth,behe,,,1,?
+10910,31,tooth,impen,,,1,1
+11267,32,tongue,dellaʔ,,,4,
+11624,33,"to laugh",saye,,,,
+11981,34,"to cry",taŋis,,,1,1
+12338,35,"to vomit",utaʔ,,,1,1
+12695,36,"to spit",luraʔ,,,1,1
+73251,37,"to eat",kakan,,,1,1
+73252,37,"to eat",maŋan,,,"1,14",1
+13409,38,"to chew",papaʔ,,,"17?, 30",
+73422,39,"to cook",bella,,,34,
+73423,39,"to cook",usik,,,,
+14123,40,"to drink",inum,,,1,1
+14480,41,"to bite",kekkeb,,L,36,?
+14837,42,"to suck",sessep,,,1,1
+15194,43,ear,tayiŋe,,,1,1
+15551,44,"to hear",-takale,,,26,
+15908,45,eye,mata,,,1,1
+16265,46,"to see",kite,,,1,1
+16979,48,"to sleep",tuli,,,1,1
+17336,49,"to lie down",pabak,,,38,
+17693,50,"to dream",teginep,,,30,
+18050,51,"to sit",tiŋkoʔ,,,81,
+18407,52,"to stand",teŋge,,,34,
+18764,53,"person/human being",aʔa,,,28,
+19121,54,man/male,lella,,,36,
+19478,55,woman/female,dende,,,31,
+19835,56,child,anak,,,1,1
+20192,57,husband,ella,,,52,
+20549,58,wife,anda,,,36,
+20906,59,mother,saʔi,,,,
+21263,60,father,sama,,,1,1
+21620,61,house,lumaʔ,,,1,1
+21977,62,thatch/roof,sapew,,,15,
+22334,63,name,alen,,,1,1
+22691,64,"to say",paʔin,,,,
+23048,65,rope,lubid,"Philippines loan",L,21,
+23405,66,"to tie up, fasten",iŋket,,,1,1
+23762,67,"to sew",laʔit,,,2,1
+24119,68,needle,dalum,,,1,1
+24476,69,"to hunt",panhut,,,,
+24833,70,"to shoot",timbak,"Malay loan",L,49,
+25190,71,"to stab, pierce",binonoʔ,"ambush or to kill",,,
+290615,71,"to stab, pierce",dugsu,,,,
+75421,72,"to hit",pogpog,"to hit a hard object like stone or wood",,24,
+75422,72,"to hit",teuaʔ,,,,
+290616,72,"to hit",lubbak,"to hit a person or animal.",,,
+118249,73,"to steal",tangkew,,,1,
+26261,74,"to kill",bonoʔ,,,1,1
+26618,75,"to die, be dead",-matey,,,1,1
+26975,76,"to live, be alive",ellum,,,33,
+27332,77,"to scratch",kukut,,,21,?
+27689,78,"to cut, hack",mag-poloŋ,,,,
+28046,79,stick/wood,kayu,,,1,1
+28403,80,"to split",kepak,,,,
+28760,81,sharp,talem,,,1,1
+29117,82,"dull, blunt",tampul,,,3,1?
+29474,83,"to work",hinaŋ,,,36,
+76122,84,"to plant",eddek,,,,1
+76123,84,"to plant",tanem,,,2,1
+30188,85,"to choose",peneʔ,,,"16,1",
+76236,86,"to grow",sulig,"Not a malay loan",,,
+76237,86,"to grow",tumbuʔ,,,1,1
+30902,87,"to swell",bahaʔ,,,1,1
+31259,88,"to squeeze",tabid,"possible GCPhil. loan",L,,
+31616,89,"to hold",kinaputan,,,,
+31973,90,"to dig",kalih,,,1,1
+32330,91,"to buy",belli,,,1,1
+32687,92,"to open, uncover",luka,,,,?
+33044,93,"to pound, beat",bayu,,,1,1
+33401,94,"to throw",tibag,,,34,
+33758,95,"to fall",laboʔ,,,1,1
+34115,96,dog,asu,,,1,1
+34472,97,bird,manuk-manuk,,,1,1
+34829,98,egg,pugad,,,,
+35186,99,feather,bulu,,,1,1
+35543,100,wing,peppik,"or 33?",,33,
+35900,101,"to fly",layaŋ,,,22,
+36257,102,rat,mellek,,,,
+36614,103,meat/flesh,isi,,,31,1
+36971,104,fat/grease,lemmek,,,24,
+37328,105,tail,eŋko,,,1,?
+37685,106,snake,sawe,,,25,
+38042,107,"worm (earthworm)",olet,,,36,1
+38399,108,louse,kutu,,,1,1
+38756,109,mosquito,kemmut,,,1?,
+118250,110,spider,koko',,,37,
+39470,111,fish,kenna,"should connect with Barito languages, possible borrowing as should be kenas if native",,95,
+39827,112,rotten,buhuk,,,1,1
+40184,113,branch,paŋey,,,22?,
+40541,114,leaf,dawen,,,1,1
+40898,115,root,gamut,"GCPhil. loan, from Tausag",L,3,
+41255,116,flower,sumpiŋ,,,29,
+41612,117,fruit,buaʔ,,,1,1
+41969,118,grass,belili,,,1,1
+42326,119,earth/soil,bulak,,,,
+42683,120,stone,batu,,,1,
+43040,121,sand,umus,,,,
+43397,122,water,boheʔ,,,25,
+43754,123,"to flow",selluy,,,,
+44111,124,sea,tahik,,,1,1
+44468,125,salt,asin,,,3,
+45182,127,woods/forest,gulaŋan,"GCPhil. loan, from Tausag",L,2,
+45539,128,sky,laŋit,,,1,1
+45896,129,moon,bulan,,,1,1
+46253,130,star,bituʔun,,,1,1
+46610,131,cloud,gabun,"GCPhil. loan, from Tausag",L,1,
+47324,133,rain,ulan,,,1,1
+118252,134,thunder,lugung,,,33,
+118251,135,lightning,lalat,,,30,
+48395,136,wind,beliu,,,2,
+48752,137,"to blow",tihup,"possible Malay loan",,"1,19",
+49109,138,warm,panas,,,1,1
+49466,139,cold,haggut,,,35,
+79264,140,dry,gaŋu,"GCPhil. loan, from Tausag",L,,
+79265,140,dry,tohoʔ,,,75,1
+50180,141,wet,basseʔ,,,1,1
+50537,142,heavy,bohat,,,1,1
+50894,143,fire,ebbut,,,,
+51251,144,"to burn",eggas,,,,
+51608,145,smoke,umbu,,,34,
+51965,146,ash,abu,,,1,1
+52322,147,black,ittem,,,1,1
+52679,148,white,poteʔ,,,1,1
+53036,149,red,peyat,,,55,
+53393,150,yellow,binaniŋ,,,37,
+53750,151,green,gadduŋ,,,28,
+54107,152,small,dikiʔ,,,138,1
+54464,153,big,haje,,,1?,1?
+54821,154,short,pandak,,,1,1
+55178,155,long,tahaʔ,,,28,
+55535,156,thin,nipis,,,1,1
+55892,157,thick,subuk,,,,
+56249,158,narrow,kiput,,,47,
+80325,159,wide,lajab,,,1,
+80326,159,wide,luha,,,1,
+56963,160,"painful, sick",saki,,,1,1?
+57320,161,"shy, ashamed",iaʔ,,,1,1
+57677,162,old,bahiʔ,,,,
+58034,163,new,baʔahu,,,1,1
+80613,164,good,hap,,,36,
+80614,164,good,hatul,"obvious SE Borneo connections",,36,
+80615,164,good,untul,,,,
+58748,165,"bad, evil",laʔat,,,1,1
+123517,166,"correct, true",bennal,"Malay loan",L,,
+123518,166,"correct, true",toʔo,toʔo,,6,1
+123519,166,"correct, true",tuʔun,"tuʔun not",,6,
+59462,167,night,saŋem,,,36,
+59819,168,day,ellew,,,1,1
+60176,169,year,tahun,,L,1,
+60533,170,when?,sumian,,,30,?
+118253,171,"to hide",tapuk,,,13,
+61247,172,"to climb",panaʔik,"probable GCPhil. loan",L,1,
+81135,173,at,di,,,20,1
+81136,173,at,si,,,20,1
+61961,174,"in, inside",di-alem,,,1,1
+62318,175,above,di-ataʔ,,,1,1?
+62675,176,below,di-awaʔ,,,1?,1?
+63032,177,this,ini|n,,,1,1
+81504,178,that,ituʔ,,,16,1
+81505,178,that,ian,,,,1
+63746,179,near,tapit,,,59,
+64103,180,far,tala,,,46,
+81723,181,where?,antag,,,16,
+81724,181,where?,iŋge,,,,
+64817,182,I,aku,,,1,1
+65174,183,thou,kaʔu,,,1,1
+65531,184,he/she,ie,,,1,1
+123584,185,we,kita,,,1,1
+123585,185,we,kami,,,2,
+66245,186,you,kaʔam,,,1,
+66602,187,they,sie,,,1,1?
+66959,188,what?,ine,,,2,
+67316,189,who?,sine,,,14,
+67673,190,other,"seddi [li]",,,40,
+82431,191,all,kemon,,,1,
+82432,191,all,tibuʔuk,,,,
+68387,192,and,duk,,,,
+68744,193,if,baŋ,,,20,
+69101,194,how?,saʔiŋge,,,,
+82741,195,"no, not",dumaʔin,,,,
+82742,195,"no, not",gaʔi,,,,
+69815,196,"to count",ituŋ,,,31,1
+70172,197,One,issaʔ,,,1,1
+70529,198,Two,duwe,,,1,1
+70886,199,Three,tellu,,,1,1
+71243,200,Four,ampat,,,1,1
+118238,201,Five,lime,,,1,
+118239,202,Six,ennem,,,1,
+118242,203,Seven,pitu',,,1,
+118241,204,Eight,walu',,,3,
+118243,205,Nine,siyam,"Loan from Taosug",L,9,
+118244,206,Ten,sempū',,,5,
+118245,207,Twenty,duwempū',,,"3,6",
+118246,208,Fifty,limempū',,,"1,2",
+118247,209,"One Hundred","da hatus",,,4,
+118248,210,"One Thousand","de ngibu",,,5,

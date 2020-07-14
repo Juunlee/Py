@@ -71,7 +71,7 @@ BaltoSlavic.insert_right(Slavic)
 OldWestSlavic = Node("OldWestSlavic")
 Slavic.insert_left(OldWestSlavic)
 
-WesternSlavic = Node("WesternSlavic")
+WesternSlavic = Node("WesternSouth")
 Slavic.insert_right(WesternSlavic)
 
 Lechitic = Node("Lechitic")
@@ -84,13 +84,13 @@ OldPolish = Node("OldPolish")
 Lechitic.insert_right("OldPolish")
 
 Sorbian = Node("Sorbian")
-OldWestSlavic.right(Sorbian)
+OldWestSlavic.insert_right(Sorbian)
 
 Slovene = Node("Slovene")
 WesternSlavic.insert_left(Slovene)
 
 SerboCroatian = Node("SerboCroatian")
-WEsternSlavic.insert_right(SerboCroatian)
+WesternSlavic.insert_right(SerboCroatian)
 
 Greek = Node("Greek","Gk")
 GkArm.insert_left(Greek)

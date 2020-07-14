@@ -1,0 +1,221 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+140,Vitu,"Malcolm Ross",wiv,mudu1242,"Items extracted from René van den Berg and Peter Bachet, (2006) Vitu grammar sketch (Ukarumpa: Summer Institute of Linguistics)",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, Bali-Vitu","Debasish Roy","Simon Greenhill","@misc{Ross-140-2005,  author = \"Malcolm Ross\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-4.85071989271819159484,150.00598247175540222997
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+140,1,hand,lima,,,1,1
+497,2,left,mauri,,,"1,59",1
+854,3,right,maroro,,,,
+1211,4,leg/foot,kabe,,,,
+1568,5,"to walk",vana,"vano would be more regular",,"2, 64",1?
+1925,6,road/path,dala,,,1,1
+2282,7,"to come",mai,,,1,1
+2996,9,"to swim",ǥuḏu,,,,
+3353,10,dirty,molumolua,,,71,
+3710,11,dust,ǥabulo,,,"59,37",
+71958,12,skin,livu,,,,1
+71959,12,skin,ǥuli,,,1,1
+4424,13,back,ǥama-,,,,
+4781,14,belly,magali,,,96,
+5138,15,bone,toŋa,,,45,
+72141,16,intestines,magali-,,,19,
+72142,16,intestines,parokapai,,,,
+5852,17,liver,ŋepe,,,,
+6209,18,breast,ḏuḏu,,,1,1
+6566,19,shoulder,loǥora,,,77,
+6923,20,"to know, be knowledgeable",lala,,,18,
+124974,21,"to think",lohoi,,,82,
+7637,22,"to fear",ǥatewawani,ǥate,,,
+7994,23,blood,topo,,,12,
+8351,24,head,baka,,,9,
+8708,25,neck,loǥo,,,"1,126",
+9065,26,hair,vulu,,,31,
+9422,27,nose,ǥiḏu,"[cp. 111]",,1,1
+9779,28,"to breathe",ǥivu,,,87,
+10136,29,"to sniff, smell",ḏuŋia,,,9,
+10493,30,mouth,ǥava,,,36,
+10850,31,tooth,ǥaḏe,,,63,
+11207,32,tongue,lave,,,21,
+11564,33,"to laugh",noŋo,,,16,
+11921,34,"to cry",ǥaloho,,,,
+12278,35,"to vomit",lua,,,8,
+12635,36,"to spit",livoroka,(Spittle),,,
+12992,37,"to eat",ǥani,,,1,1
+13349,38,"to chew",mama,,,1,1
+73399,39,"to cook",tunu,,,9,
+73400,39,"to cook",ǥulo',,,57,
+14063,40,"to drink",ǥinu,,,1,1
+14420,41,"to bite",warihara,,,1,
+14777,42,"to suck",ḏuḏu,,,25,1
+15134,43,ear,taliŋa,,,1,1
+15491,44,"to hear",loŋo,,,"1, 36",1
+15848,45,eye,mata,,,1,1
+16205,46,"to see",ǥada,"chance similarity with ada in Lau?",,45,
+16562,47,"to yawn",maraŋavi,,,22,
+16919,48,"to sleep",ŋoro,,,63,
+17276,49,"to lie down",lama,,,,
+17633,50,"to dream",maŋi|nuvia,,,"1, 60",1?
+17990,51,"to sit",mia,,,26,
+18347,52,"to stand",madi,,,1,
+74159,53,"person/human being",kaka,,,,
+74160,53,"person/human being",tinoni,"tinoni - SE Solomons",,10,
+19061,54,man/male,tamoǥane,,,"1,14",1
+19418,55,woman/female,tavine,,,"1,35",1
+19775,56,child,kapiru,,,12,
+20132,57,husband,gena,"[cp. Tabar]",,21,
+20489,58,wife,gena,"[cp. Tabar]",,14,
+20846,59,mother,titina-na,,,1,1
+21203,60,father,tama-na,,,1,1
+21560,61,house,ruma,,,1,1
+21917,62,thatch/roof,barema,,,48,
+22274,63,name,ǥiḏa,,,66,?
+22631,64,"to say",tania,,,,
+22988,65,rope,mota,,,13,
+23345,66,"to tie up, fasten",vutuǥia,,,,
+23702,67,"to sew",turia,,,13,
+24416,69,"to hunt",paŋo,,,16,
+24773,70,"to shoot",rabebenia,,,,
+25130,71,"to stab, pierce",pandea,,,,
+75388,72,"to hit",waritutu,,,,
+75389,72,"to hit",tutuǥia,,,8,
+25844,73,"to steal",wanaǥo,,,"1,58",1
+26201,74,"to kill",ǥubi,,,45,
+26558,75,"to die, be dead",mate,,,1,1
+26915,76,"to live, be alive",maǥuri,,,"1, 76",1
+27272,77,"to scratch",koria,,,12,?
+27629,78,"to cut, hack",dopia,,,,
+27986,79,stick/wood,ǥada|ǥai,,,1,1
+28343,80,"to split",ǥutuwalagia,,,"13, 63",
+28700,81,sharp,mataŋa,,,36,
+29057,82,"dull, blunt",malugu,Smooth,,,
+29414,83,"to work",ḏaǥaḏaǥa,,,33,
+29771,84,"to plant",vaḏaǥia,,,6,
+124975,85,"to choose",maki,,,,
+30485,86,"to grow",galuḏu,,,,
+76297,87,"to swell",wata,,,,
+76298,87,"to swell",bubu,,,3,
+31199,88,"to squeeze",bebeǥia,,,"21,80",
+31556,89,"to hold",paǥoria,,,42,
+31913,90,"to dig",ǥovi,,,82,1
+124976,91,"to buy",kade,,,,
+124977,93,"to pound, beat",hubi,,,28,
+33341,94,"to throw",voḏo,,,69,
+76844,95,"to fall",dua,,,39,
+76845,95,"to fall",poke,,,19,
+34055,96,dog,kaua,,,17,
+34412,97,bird,manu,,,1,1
+34769,98,egg,koru,,,1,
+77055,99,feather,vovoi-na,,,,
+77056,99,feather,"kora kora",,,,
+35483,100,wing,banita,,,2,?
+35840,101,"to fly",bebe,,,60,
+36197,102,rat,kuǥuḏe,"metathesis < *kusuke",,"3,86",
+36554,103,meat/flesh,midana,,,23,
+36911,104,fat/grease,puḏupuḏu,,,99,
+37268,105,tail,liko,,,74,
+37625,106,snake,matabunu,,,12,
+37982,107,"worm (earthworm)",matamata,,,10,
+38339,108,louse,ǥutu,,,1,1
+38696,109,mosquito,niki,,,17,
+39053,110,spider,pakuku,,,,
+39410,111,fish,ǥiǥa,"[cp. 27]",,1,1
+39767,112,rotten,mapu,,,"52,107",
+40124,113,branch,daŋa-na,,,"1,21",
+40481,114,leaf,raurau,,,1,1
+40838,115,root,voraka,metathesis,,2,
+41195,116,flower,[palaua],L,L,,
+41552,117,fruit,ǥara-na,=seed,,29,
+41909,118,grass,raburabu,,,29,
+78030,119,earth/soil,garigari,,,,
+78031,119,earth/soil,vulavulo,,,,
+42623,120,stone,kendo,,,25,
+42980,121,sand,"maga maga",,,14,
+43337,122,water,naru,[<M],,"1,43",1?
+43694,123,"to flow",maliki,,,,
+44051,124,sea,daḏi,,,1,1
+44408,125,salt,maḏihu,,,50,
+44765,126,lake,patihutu,,,,
+45122,127,woods/forest,muŋomuŋo,,,,
+45479,128,sky,mariaba,,,77,
+45836,129,moon,liŋabo,,,,
+46193,130,star,vitovito,,,"1,81",1
+46550,131,cloud,mariaba,,,,
+46907,132,fog,ǥabuǥabu,,,"1, 54",1
+47264,133,rain,ǥuḏa,,,1,1
+47621,134,thunder,"mariaba vurupelele",,,,
+47978,135,lightning,ǥanimata,,,,
+48335,136,wind,kavili,,,72,
+48692,137,"to blow",kavili,,,11,
+49049,138,warm,kurupalia,,,,
+49406,139,cold,magaratia,,,,
+79239,140,dry,koŋa,,,,
+79240,140,dry,baba,,,,
+50120,141,wet,puripuria,,,72,
+124978,142,heavy,bize,,,,
+79378,143,fire,ǥarogo,,,"18,34",
+79379,143,fire,baritunu,,,,
+51191,144,"to burn",kalakala,,,71,
+51548,145,smoke,ǥaḏu,,,2,1
+51905,146,ash,ǥabulo,,,48,
+52262,147,black,ǥalo,,,,
+52619,148,white,kavukavua,,,38,
+79737,149,red,baritunutunua,,,,
+79738,149,red,ŋereŋereǥa,,,,
+53333,150,yellow,ǥaŋoǥaŋoa,,,9,
+53690,151,green,kobokoboa,,,15,
+54047,152,small,kote,,,70,
+54404,153,big,kapou,,,120,
+54761,154,short,boto,,,9,
+55118,155,long,malaku,,,12,
+56189,158,narrow,galakote,,,,
+56546,159,wide,kapoupone,,,,
+56903,160,"painful, sick",varitihi,,,54,
+124979,161,"shy, ashamed",puae,,,,
+57974,163,new,vaǥoru,,,1,1
+58331,164,good,kemi,,,127,
+58688,165,"bad, evil",ḏaha,,,1,?
+59045,166,"correct, true",maǥotomatoto,,,13,
+59402,167,night,mariŋo,,,,
+59759,168,day,dama,=Daylight,,,
+124980,169,year,krismas,"borrowing from Tok Pisin",L,x,
+60473,170,when?,ŋiḏa,?,,"1,24",
+60830,171,"to hide",parizigi,,,,
+61187,172,"to climb",ḏaǥe,,,2,
+113934,173,at,na,,,13,
+113935,173,at,ni,,,,
+61901,174,"in, inside",polok-,,,63,
+62258,175,above,ǥudu-,,,,
+62615,176,below,tauru-,,,,
+62972,177,this,kua,,,,
+81482,178,that,kuari,"kena - [further]",,1,
+81483,178,that,kena,"kena - [further]",,1,
+63686,179,near,ǥiripi-,,,,
+64043,180,far,ḏau,,,1,1
+64400,181,where?,nive,,,3,
+64757,182,I,ǥau,,,"1,22",1
+65114,183,thou,ǥo,,,1,1
+65471,184,he/she,ia,,,1,1
+82003,185,we,ḇolu,,,,
+82004,185,we,ǥita,,,1,
+66185,186,you,miu,,,"1,13",1
+66542,187,they,dia,,,25,?
+66899,188,what?,naḏia,?,,74,
+67256,189,who?,aḏei,?,,1,1
+67613,190,other,kakamotu,,,,
+67970,191,all,laveve,,,,
+68327,192,and,kamana,,,"1,2",?
+68684,193,if,ta,,,33,
+69041,194,how?,ḏiǥaʔ,,,,
+82723,195,"no, not",beu,,,67,
+82724,195,"no, not",beta,,,107,
+69755,196,"to count",ǥaḏenia,,,10,
+70112,197,One,kaziu,,,,
+70469,198,Two,rua,,,1,1
+70826,199,Three,tolu,,,1,1
+71183,200,Four,wata,,,1,
+124981,201,Five,lima,,,1,
+124982,202,Six,polokatiu,,,,
+124983,203,Seven,polorua,,,"11,2",
+124984,204,Eight,polotolu,,,21,
+124985,205,Nine,polovata,,,40,
+124986,206,Ten,zaŋavulu,,,5,

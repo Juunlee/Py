@@ -1,0 +1,201 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+40,"Ambai (Yapen)","Blust, from Grace Notebooks",amk,amba1265,"Ambai (Yapen) = Menawi / Kandewaia","some of the prints are very unclear","Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, South Halmahera-West New Guinea, West New Guinea, Cenderawasih Bay, Yapen, Central-Western","Peng Du","Simon Greenhill","@misc{GraceNB,  howpublished = {Ms.},  title        = {1955-1956 Fieldnotes: Notebook Swains Number 2},  year         = {1956},  url          = {http://digicoll.manoa.hawaii.edu/grace/Pages/PDFlist.html},  author       = {Grace, George W.}}"
+latitude,longitude
+-1.83000000000000007105,136.50000000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+40,1,hand,waraŋ,,,16,
+397,2,left,wei,,,,?
+754,3,right,moya,,,79,
+1111,4,leg/foot,we,,,"1,100",1
+1468,5,"to walk",i-ra,,,40?,1
+1825,6,road/path,raŋ,,,13,
+2182,7,"to come",-ma,,,1,1
+2539,8,"to turn",bera,,,18,
+2896,9,"to swim",-eria,,,,
+3253,10,dirty,rarika,?,,23,
+3610,11,dust,ayo,,,1?,
+3967,12,skin,rerawa,,,17,
+4324,13,back,kuruu-,,,23,
+4681,14,belly,ene-,,,,
+5038,15,bone,ina,,,15,
+124914,16,intestines,"ne-hu wairi",,,,
+124915,16,intestines,enembuka,,,,
+5752,17,liver,anteni,,,,
+6109,18,breast,ui,cp.36,,1,1
+6466,19,shoulder,boyawa,,,,
+6823,20,"to know, be knowledgeable",tawana,,,1,
+7180,21,"to think",tituaita,,,,
+7537,22,"to fear",i-matai,,,1,1
+7894,23,blood,rika,,,14,
+8251,24,head,kamiai,,,,
+8608,25,neck,kanaŋ,,,,
+8965,26,hair,nu-,,,,
+9322,27,nose,ube-,,,,
+9679,28,"to breathe",aiou,,,,
+10036,29,"to sniff, smell",-naha,,,19,
+10393,30,mouth,boro-,,,6,
+10750,31,tooth,dore-,,,,
+11107,32,tongue,tap[e]re-,,,23,
+11464,33,"to laugh",i-miri,,,3,
+11821,34,"to cry",i-sai,,,1?,?
+12178,35,"to vomit",i-mamuta,,,1,1
+12535,36,"to spit",i-kanui,,,14,
+12892,37,"to eat",i-ampi,,,28,
+13606,39,"to cook",i-nunu,,,3?,
+13963,40,"to drink",i-unu,,,1,1
+14320,41,"to bite",i-kiri,,,,
+14677,42,"to suck",i-sufi,,,1?,
+15034,43,ear,taraa-,,,9,1?
+15391,44,"to hear","i-tara-hu oa",,,,
+15748,45,eye,ure-,,,8,
+16105,46,"to see",i-vati,,,,
+16819,48,"to sleep",i-ena,,,8,
+17176,49,"to lie down",i-vata,,,16,
+17533,50,"to dream",-miai,,,20?,
+17890,51,"to sit",i-minohi,,,,
+18247,52,"to stand",i-oa,,,,?
+18604,53,"person/human being",inonturai,,,,
+18961,54,man/male,muaŋ,,,1,1
+19318,55,woman/female,viviŋ,,,"1,106",1
+19675,56,child,arikaŋ,,,,
+20032,57,husband,muaŋ,,,27,
+20389,58,wife,vivi,,,5?,
+20746,59,mother,ai,,,,
+21103,60,father,dai,,,11,
+21460,61,house,munu,,,,
+21817,62,thatch/roof,antarau,,,,
+22174,63,name,wono,,,1?,
+22531,64,"to say",i-eoa,,,,
+22888,65,rope,wai,,,2?,
+23245,66,"to tie up, fasten",i-aviti,,,,
+23602,67,"to sew",i-awa,,,,
+24316,69,"to hunt",i-mumpi,,,,
+24673,70,"to shoot",i-ana,,,1,1
+25030,71,"to stab, pierce",i-isaŋ,,,21,
+25387,72,"to hit",i-tuhiŋ,,,,
+25744,73,"to steal",i-kamananapi,,,,
+26101,74,"to kill",i-muni,,,1,1?
+26458,75,"to die, be dead",reha,,,,
+27172,77,"to scratch",ramati,,,,
+27529,78,"to cut, hack",i-kutui,,,,
+27886,79,stick/wood,ai,,,1,1
+28243,80,"to split",i-tarabauri,,,,
+28600,81,sharp,reisa,,,22,
+28957,82,"dull, blunt",rehabu,?,,,
+29314,83,"to work",i-ohondomi,,,,
+29671,84,"to plant",i-tanamp,,,2,?
+30028,85,"to choose",yi-riri,,,1,1?
+30742,87,"to swell",bebara,,,1,1?
+31099,88,"to squeeze",i-kuari,,,,
+31456,89,"to hold",i-ruti,,,,
+31813,90,"to dig",i-sarai,,,10,
+32170,91,"to buy",i-vori,,,1,1
+32527,92,"to open, uncover",i-fai,,,,
+32884,93,"to pound, beat",i-tut|ahi,"or 20?",,20,?
+33241,94,"to throw",i-so,,,18,
+33598,95,"to fall",i-tawa,,,,
+33955,96,dog,fiawera,,,,
+34312,97,bird,romu,,,,
+34669,98,egg,neibo,,,,
+35026,99,feather,kararoa,,,,
+35383,100,wing,varapema,,,,
+35740,101,"to fly",sifo,,,,
+36097,102,rat,karu,,,,
+36454,103,meat/flesh,tarai-,,,25,
+36811,104,fat/grease,fiabai,,,,
+37168,105,tail,amandau,,,,
+37525,106,snake,tawai,,,24,
+37882,107,"worm (earthworm)",kauboi,,,,
+38239,108,louse,u|utu,,,1,1
+38596,109,mosquito,fikerari,,,,
+38953,110,spider,mansai,,,,
+39310,111,fish,dia,,,13,
+77632,112,rotten,fitata,,,,
+77633,112,rotten,piso,,,9?,
+40381,114,leaf,rerau,,,1,1?
+40738,115,root,newa,,,,
+41095,116,flower,nebu,,,,
+41452,117,fruit,bo,,,1,?
+41809,118,grass,afui,,,,
+42166,119,earth/soil,kahopa,,,22,
+42523,120,stone,kamiai,,,11,
+42880,121,sand,ninuai,,,,
+43237,122,water,mereha,,,11,
+43594,123,"to flow",deda,,,,
+43951,124,sea,ravana,,,22,
+44308,125,salt,ai,,,1?,?
+44665,126,lake,ruru,,,12,
+45022,127,woods/forest,werabuande,,,,
+45379,128,sky,rora,,,19,
+45736,129,moon,embai,,,17,
+46093,130,star,avaha,,,,
+46450,131,cloud,rarika,,,,
+46807,132,fog,kafafe,,,,
+47164,133,rain,meta,,,,
+47521,134,thunder,kadidu,,,2,
+47878,135,lightning,kaiveva,,,,
+48235,136,wind,wana,,,22,
+48592,137,"to blow",siai,,,,
+48949,138,warm,meŋgapoi,,,,
+49306,139,cold,ikararutu,,,,
+49663,140,dry,sirahiai,,,,
+50020,141,wet,vevasa,,,1?,?
+50377,142,heavy,miraba,,,1,
+50734,143,fire,adia,,,1,
+51448,145,smoke,rirau,,,,
+51805,146,ash,kaŋgana,,,,
+52162,147,black,nu|meta,,,1?,1?
+52519,148,white,bua,,,24?,
+52876,149,red,berika,,,,
+53233,150,yellow,byomini,,,,
+53590,151,green,kehe,,,24,
+125384,152,small,katui,,,18,
+125385,152,small,ketui,,,18,
+54304,153,big,fyabai/fyebai,,,,
+54661,154,short,tana,,,22,
+55018,155,long,dauroi,,,23,
+55375,156,thin,simbena,,,,
+55732,157,thick,tehuba,,,,
+56089,158,narrow,katui,,,,
+56446,159,wide,fyabai,,,,
+56803,160,"painful, sick",meninaŋ,,,,
+57874,163,new,vevoru,,,1,1
+58231,164,good,be,,,,?
+58588,165,"bad, evil",kerira,,,19,
+58945,166,"correct, true",tarai,,,,
+59302,167,night,diru,,,19,
+59659,168,day,aha,,,,
+60016,169,year,fuina,,,,
+60373,170,when?,"rah|ida bo-doni",,,1?,?
+61087,172,"to climb",-utai,,,,
+61444,173,at,na,"or 20?",,13,
+61801,174,"in, inside",rorompu,,,,
+62158,175,above,jaifai,,,,
+62515,176,below,kofavau,,,,
+62872,177,this,nini,,,1,1?
+63229,178,that,manana,,,1,1?
+63586,179,near,kefa,,,,
+63943,180,far,wairoi,,,24,
+64300,181,where?,andi-doni,,,,
+64657,182,I,yau,,,1,1
+65014,183,thou,wau,,,,?
+65371,184,he/she,i,,,1,1
+112104,185,we,tata,,,1,1
+112105,185,we,amea,,,2,
+66085,186,you,mea,,,,
+135209,186,you,wau,,,,
+66442,187,they,ea,,,1?,
+66799,188,what?,fiani,cf.194,,,
+67156,189,who?,waune,,,,
+67513,190,other,siai,,,,
+67870,191,all,tafau,,,,
+68941,194,how?,fiani,cf.188,,,
+69298,195,"no, not",kaha,,,,
+69655,196,"to count",i-eto,,,,
+70012,197,One,bo-yori,,,,
+70369,198,Two,bo-ru,,,1,1
+70726,199,Three,bo-toru,,,1,1
+71083,200,Four,bo-a,,,1,1
+135211,201,Five,riŋ,,,1,
+135210,202,Six,wona(ŋ),,,,
+135208,203,Seven,itu,,,1,

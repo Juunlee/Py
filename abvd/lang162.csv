@@ -1,0 +1,213 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+162,Lenakel,"John Lynch",tnl,lena1238,"/ marks non-penultimate stress",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, South Vanuatu, Tanna","Peng Du","Simon Greenhill","@misc{Lynch-162-2005,  author = \"John Lynch\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-19.46659223220759926676,169.23889160156250000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+162,1,hand,nelm-,,,"1,66",1
+519,2,left,mul,,,"1,59",1
+876,3,right,mwatu,,,"5, 37",1
+1233,4,leg/foot,nelk-,,,9,
+1590,5,"to walk",aliuok,,,97,
+1947,6,road/path,suatu,,,6,
+2304,7,"to come",va,,,24,
+2661,8,"to turn",aləlín,,,123,
+3018,9,"to swim",aik,,,24,
+3375,10,dirty,amkəmək,,,14,
+3732,11,dust,nəmoulúl,,,8,
+4089,12,skin,nəviŋ-,,,79,
+4446,13,back,nəmwataa-,,,35,
+4803,14,belly,netp-,,,36,
+5160,15,bone,nəkəlkəlii-,,,7,
+5517,16,intestines,nəsŋaa-,,,"1, 57",?
+5874,17,liver,nakanmop-,,,7,
+6231,18,breast,naha-,,,1,
+6588,19,shoulder,nauik-,,,,
+6945,20,"to know, be knowledgeable",hinatín,,,138,
+7302,21,"to think","nəki-n r-ho","his mind strikes",1,65,
+7659,22,"to fear",əŋn,,,60,
+8016,23,blood,nətaa-,,,1,1
+8373,24,head,-kapwa,,,17,
+8730,25,neck,-rou,,,18,
+9087,26,hair,nouanu-,,,59,
+9444,27,nose,nəpwaŋhaŋ-,,,"12, 33",
+9801,28,"to breathe",amiŋ,,,73,
+10158,29,"to sniff, smell",arou,+,1,,
+10515,30,mouth,nhul-,,,76,
+10872,31,tooth,nelu-,,,"1,35",
+11229,32,tongue,nam-,,,7,
+11586,33,"to laugh",əlhieelh,,,97,
+11943,34,"to cry",asak,,,33,
+12300,35,"to vomit",eua,,,8,
+12657,36,"to spit",aŋh,,,"14, 83",
+13014,37,"to eat",kən,,,1,1
+13371,38,"to chew",amai,,,49,?
+13728,39,"to cook",viin,,,50,
+14085,40,"to drink",amnuumw,,,"1,49",?
+14442,41,"to bite",kəs,,,"1, 60",1
+14799,42,"to suck",təm,,,50,
+15156,43,ear,nəmwa|telŋ-,,,"1, 44",1
+15513,44,"to hear",arou,,,1,
+15870,45,eye,nəmr-,,,1,1
+16227,46,"to see",aamh,,,80,
+16584,47,"to yawn",ouaŋ-taat,['open-bad'],,12,
+16941,48,"to sleep",apul,,,11,
+17298,49,"to lie down",amel,,,8,
+17655,50,"to dream",amel-ait,,,13,
+18012,51,"to sit",owta,,,69,
+18369,52,"to stand",ail,,,57,
+18726,53,"person/human being",ieramím,,,"57, 63",
+19083,54,man/male,iera|mwaan,,,"1,14",1
+19440,55,woman/female,peravən,,,"1,75",1
+19797,56,child,ner-,,,5,
+20154,57,husband,ieramwaan,man,,17,
+20511,58,wife,peravən,woman,,"5, 58",
+20868,59,mother,in-,,,1,1
+21225,60,father,rəm-,,,1,1
+21582,61,house,nimwa,,,1,1
+21939,62,thatch/roof,nhaŋ-,,,,
+22296,63,name,netŋ-,,,"1,18",
+22653,64,"to say",əni,,,104,
+23010,65,rope,nelaus,,,11,
+23367,66,"to tie up, fasten",əliis,,,"1,39",
+23724,67,"to sew",til,,,60,
+24438,69,"to hunt",eukpən,,,11,
+24795,70,"to shoot",əru,,,10?,
+25152,71,"to stab, pierce",ətik,,,,
+25509,72,"to hit",ho,,,,
+25866,73,"to steal",aklha,,,10,
+26223,74,"to kill",hoapwnín,"compound of /ho/ \"hit\" and /apwn/ \"kill\"",,"58, 1",
+26580,75,"to die, be dead",məs,,,1,1
+26937,76,"to live, be alive",amiuh,,,61,
+27294,77,"to scratch",aki,,,13,
+27651,78,"to cut, hack",arai,,,1,
+28008,79,stick/wood,nouanək,"noua- is \"fruit of\" prefix, n*k reflects article + *k of *kayu",,1,
+28365,80,"to split",arpiai,,,1,
+28722,81,sharp,asla,,,19,
+29079,82,"dull, blunt",əpus,,,16,
+29436,83,"to work",asumw,,,"1, 13",1?
+29793,84,"to plant",su,,,28,
+30150,85,"to choose",haukər,,,37,
+30507,86,"to grow",ipwər,,,34,
+30864,87,"to swell",asiis,,,11,
+31221,88,"to squeeze",avət,,,17,
+31578,89,"to hold",os,,,33,
+31935,90,"to dig",il,,,1,1
+32292,91,"to buy","os nəmr-n",,1,"4, 13",
+32649,92,"to open, uncover",atita,,,38,
+33006,93,"to pound, beat",atia,,,11?,
+33363,94,"to throw",atkín,,,,
+33720,95,"to fall",əm,,,40?,
+34077,96,dog,kuri,"PN Loan",L,7,
+34434,97,bird,menuk,,,1,1
+34791,98,egg,nouanhal-,"-nhal- < * (qa)toluR",,1,
+35148,99,feather,nəmomwi-,,,23,
+35505,100,wing,nəkavkav-,<*kapak,,"1, 39",
+35862,101,"to fly",ivək,,,1?,?
+36219,102,rat,kahau,,,3,
+36576,103,meat/flesh,nauŋa,,,16,
+36933,104,fat/grease,nelpwa,,,15,
+37290,105,tail,nəpik-,,,"1, 31",
+37647,106,snake,taŋalua,,,14,
+38004,107,"worm (earthworm)",mwatíkalo,,,"10, 38",
+38361,108,louse,kur,,,1,1
+38718,109,mosquito,mumuk,,,1,1?
+39075,110,spider,makal,,,30,
+39432,111,fish,nam,,,51,
+39789,112,rotten,amramər,,,116,
+40146,113,branch,nelm-,"= hand",,23,
+40503,114,leaf,nəmwal-,"n*mwa- is a prefix for covering things, l- is what is left of root",,30,
+40860,115,root,nuk-,,,2,1?
+41217,116,flower,nouŋ-,,,1,1
+41574,117,fruit,noua-,,,"1, 26",1
+41931,118,grass,nəmwanvhaal,"compound form with prefix  n*mwan/vhall < *palisi with matathesis",,1,
+42288,119,earth/soil,nəmop|tən,,,"34,1",1
+42645,120,stone,kopwiel,,,6,
+43002,121,sand,nəmwakəlakəl,"*kele with prefixes",,30,
+43359,122,water,nu,"n is the article, u < *w of *waiR",,2,
+43716,123,"to flow",aih,,,21,
+44073,124,sea,tehe,,,1,1
+44430,125,salt,nəŋal,,,8,
+44787,126,lake,nəsiu,,,10,
+45144,127,woods/forest,nəkinhamra,,,,
+45501,128,sky,neai,,,12,
+45858,129,moon,mouk,,,52,
+46215,130,star,mahau,,,13,
+46572,131,cloud,napua,,,16,
+46929,132,fog,oro,verb,,,
+47286,133,rain,nihin,,,1,?
+47643,134,thunder,kalvəlva,,,18,
+48000,135,lightning,alukomw,verb,,,
+48357,136,wind,nəmataaŋ,"(PN LOAN)",L,"1, 66",
+79010,137,"to blow",ilíl,,L,16?,
+79011,137,"to blow",hal,,L,26,
+49071,138,warm,mhan,,,"1, 72",
+49428,139,cold,arap,,,29,
+49785,140,dry,ausək,,,15,
+50142,141,wet,ptəŋ,,,13,
+50499,142,heavy,pkom,,,30,
+50856,143,fire,nəkom,,,"19, 40",
+51213,144,"to burn",vaan,,,83,
+51570,145,smoke,nhankom,"n*kom = fire, n/ha- < *qasu",,2,
+51927,146,ash,nəmraau,,,"67, 71",?
+52284,147,black,apən,,,9,
+52641,148,white,tuan,,,14,
+52998,149,red,ləvləv,,,52,
+53355,150,yellow,auhia,,,42,
+53712,151,green,ami|mra,,,1,1
+54069,152,small,esuaas,,,,
+54426,153,big,asuul,,,47,
+54783,154,short,erupwerupw,,,,
+55140,155,long,apwomh,,,14,
+55497,156,thin,akəlkəl,,,20,
+55854,157,thick,pək,,,36,
+56211,158,narrow,evtetín,,,14,
+56568,159,wide,asuul,[=big],,39,
+56925,160,"painful, sick",amha,,,1,
+57282,161,"shy, ashamed",auləs,,,36,
+57639,162,old,ahiŋəl,,,,
+57996,163,new,vi,,,10,
+58353,164,good,vət,,,61,
+58710,165,"bad, evil",taat,,,1,
+59067,166,"correct, true",etuatu,,,36,
+59424,167,night,la|pən,,,1,1?
+59781,168,day,nian,,,6,
+60138,169,year,nuw,[=YAM],,41,
+60495,170,when?,nahan,,,"1,24",?
+60852,171,"to hide",elhuaiŋ,,,7,
+61209,172,"to climb",ət,,,39,
+61566,173,at,le,,,20,
+61923,174,"in, inside",nakani-,,,,
+62280,175,above,ilis,,,26?,
+62637,176,below,lahau,,,,
+62994,177,this,uk,,,17,
+63351,178,that,aan,,,1?,
+63708,179,near,iuokət,,,32,
+64065,180,far,i|sou,,,1,1?
+64422,181,where?,ihie,,,34,1?
+64779,182,I,io,,,"1,21",1
+65136,183,thou,iik,,,1,
+65493,184,he/she,in,,,1,
+113959,185,we,kat|ar,,,1,1
+113960,185,we,kam|ar,,,2,
+66207,186,you,kami|ar,,,"1,13, 46",1
+66564,187,they,il|ar,,,"1, 70",1
+66921,188,what?,neta,,,1,
+67278,189,who?,pe|he,,,"1, 61",1
+67635,190,other,psən,,,,
+67992,191,all,petəmw,,,,
+113961,192,and,məne,[NP],,"2, 40",1?
+113962,192,and,kani,[VP],,1,
+68706,193,if,takamwa,,,22,
+69063,194,how?,etu-,"verb prefix",,,
+69420,195,"no, not",kapwa,,,105,
+69777,196,"to count",avhín,,,26,
+70134,197,One,karena,,,44,
+70491,198,Two,kiu,,,1?,
+70848,199,Three,kəsil,,,1,1
+71205,200,Four,kuver,,,1,1
+90686,201,Five,katilim,,,1,
+90687,202,Six,"katilum karena",,,,
+90688,203,Seven,"katilum kiu",,,15,
+90689,204,Eight,"katilum kəsil",,,19,
+90690,205,Nine,"katilum kuvər",,,16,
+90691,206,Ten,"katilum katilum",,,19,

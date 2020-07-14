@@ -1,0 +1,282 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+142,Waropen,"Held (1942)",wrp,waro1242,"Held, G. J. 1942. Grammatica van het Waropensch. Verhandelingen van het Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen, deel LXXVII, Eerstestuk. Den Haag: Martinus Nijhoff",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, South Halmahera-West New Guinea, West New Guinea, Cenderawasih Bay, Waropen","Peng Du","Simon Greenhill","@book{61752,  address    = {'s-Gravenhage},  publisher  = {Martinus Nijhoff},  series     = {Verhandelingen van het Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen},  title      = {Woordenlijst van het Waropensch},  volume     = {LXXVII:2},  year       = {1942},  bibtexkey  = {held_woordenlijst-waropensch1942woordenlijst},  extra_hash = {woordenlijst},  fn         = {papua\held_woordenlijst-waropensch1942.pdf},  hhtype     = {dictionary},  inlg       = {Dutch [nld]},  inlg_code  = {nld},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#d:Held:Waropensch},  author     = {Held, Gerrit J.}}"
+latitude,longitude
+-2.33000000000000007105,136.58000000000001250555
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+71415,1,hand,baha,,,16,
+71416,1,hand,waha,,,16,
+499,2,left,sio,,,,
+856,3,right,ghanano,,,"1,62",1
+1213,4,leg/foot,e,,,1?,?
+71552,5,"to walk",ede,,,35,1?
+71553,5,"to walk",ra,,,40?,1?
+1927,6,road/path,rarado,,,,
+2284,7,"to come",rama,,,30,
+2641,8,"to turn",raisara,,,,
+71777,9,"to swim",odiaka,,,,
+71778,9,"to swim",embua,,,,
+3355,10,dirty,werira,,,22,
+71962,12,skin,ude,,,,
+71963,12,skin,ru,,,,
+4426,13,back,ruai,,,,
+4783,14,belly,nina,,,42?,
+5140,15,bone,kori,,,70,
+5497,16,intestines,nana,,,,
+5854,17,liver,niha-do-rana,,,,
+6211,18,breast,susi,,,1,1
+6925,20,"to know, be knowledgeable",sira,cf.46,,,
+72412,22,"to fear",niwira,,,,1?
+72413,22,"to fear",akako,,,1?,1?
+7996,23,blood,rara,,,1,1
+72495,24,head,boai,,,,
+72496,24,head,worai,,,,
+8710,25,neck,doa,,,,
+9067,26,hair,sina,,,,
+72695,27,nose,niha,,,,
+72696,27,nose,niabo,,,,
+9781,28,"to breathe",sasi,,,,
+10138,29,"to sniff, smell",asasa,,,19,?
+72855,30,mouth,boro,,,6,
+72856,30,mouth,woro[do],,,,
+10852,31,tooth,[k]enasa,,,,
+72980,32,tongue,mero,,,,
+72981,32,tongue,mebero,,,,
+73018,33,"to laugh",aneno,,,,
+73019,33,"to laugh",aneka,,,,
+73070,34,"to cry",anisa,,,1,1
+73071,34,"to cry",[k]aniko,,,1,1
+12280,35,"to vomit",koraru,,,1?,
+12637,36,"to spit",odiwara,,,,
+12994,37,"to eat",ano,,,1,1
+13351,38,"to chew",mama,,,1,1
+73403,39,"to cook",seka,,,,
+73404,39,"to cook",baro,,,,
+14065,40,"to drink",una,,,1?,
+14422,41,"to bite",afano,,,,
+73654,42,"to suck",suma,,,1?,
+73655,42,"to suck",tutuma,,,1?,
+15136,43,ear,na[ro]rei,,,,
+73749,44,"to hear",-nasa,,,,
+73750,44,"to hear",nata,,,,
+15850,45,eye,[k]ambeisi,,,,
+73879,46,"to see",sira,,,,
+73880,46,"to see",ambora,,,,
+73881,46,"to see",anima,,,,
+16564,47,"to yawn",maitotoa,,,,
+16921,48,"to sleep",enako,,,8,
+17635,50,"to dream",anina,,,20?,
+74067,51,"to sit",oaino,,,,
+74068,51,"to sit",oaro,,,,
+74104,52,"to stand",osaro,,,16,
+74105,52,"to stand",otaro,,,16,
+18706,53,"person/human being",nuŋgu,,,,
+19063,54,man/male,mano,,,1,1
+19420,55,woman/female,bino,,,"1,41",1
+74367,56,child,waita,,,,
+74368,56,child,tu[tu],,,,
+20134,57,husband,mano,,,27,
+20491,58,wife,bino,,,5,
+74479,59,mother,mini,"his mother",,1,1?
+74480,59,mother,inai,"his mother",,1,1?
+74546,60,father,daidai,,,11,
+74547,60,father,imai,,,11,
+21562,61,house,ruma,,,1,1
+21919,62,thatch/roof,aka,,,1,1
+22276,63,name,nasano,,,1,1
+74804,64,"to say",afa,,,,
+74805,64,"to say",ofa,,,,
+74904,65,rope,rona,,,,
+74905,65,rope,sera,,,,
+23347,66,"to tie up, fasten",orana,,,,
+23704,67,"to sew",sua,,,,
+75153,68,needle,ni,,,,
+75154,68,needle,rete,,,12,
+24418,69,"to hunt",sama,,,,
+24775,70,"to shoot",ana,,,1,1
+25132,71,"to stab, pierce",sako,,,68,
+75393,72,"to hit",muna,,,,
+75394,72,"to hit",we,,,,
+75395,72,"to hit",fama,,,,
+25846,73,"to steal",wu|mana,,,1?,?
+26203,74,"to kill",muna,,,1,
+26560,75,"to die, be dead",fero,,,,
+26917,76,"to live, be alive",uko,,,,
+27274,77,"to scratch",nagha,,,,
+75722,78,"to cut, hack",oama,,,,
+75723,78,"to cut, hack",oba,,,,
+75724,78,"to cut, hack",aro,,,,
+75802,79,stick/wood,a,,,1,1
+75803,79,stick/wood,ai,,,1,1
+75881,80,"to split",taka,,,,
+75882,80,"to split",usa,,,,
+75883,80,"to split",uta,,,24,
+75884,80,"to split",agha,,,,
+75885,80,"to split",eata,,,,
+75886,80,"to split",gai,,,,
+75887,80,"to split",gha,,,,
+75888,80,"to split",i,,,,
+75957,81,sharp,amumo,,,,
+75958,81,sharp,kamuko,,,,
+29059,82,"dull, blunt",kafuko,,,,
+29416,83,"to work",rua,,,,
+29773,84,"to plant",ana|ko,,,2?,1?
+30130,85,"to choose",maŋgura,,,,
+30487,86,"to grow",uko,,,,
+30844,87,"to swell",pino,,,,
+31201,88,"to squeeze",namo,,,,
+31558,89,"to hold",feka,,,,
+76514,90,"to dig",wara,,,10,
+76515,90,"to dig",ei,,,,
+76582,91,"to buy",owusa,,,,
+76583,91,"to buy",owuko,,,,
+32629,92,"to open, uncover",sako,,,,
+32986,93,"to pound, beat",soko,,,,
+33343,94,"to throw",soko,,,18?,
+33700,95,"to fall",mo[ko],,,,
+34057,96,dog,una,,,38,
+34414,97,bird,mani,,,1,1
+76989,98,egg,koiwo,,,,
+76990,98,egg,koibo,,,,
+35128,99,feather,wuro,,,1,1
+77142,101,"to fly",roko,,,1?,?
+77143,101,"to fly",rorako,,,1?,?
+36199,102,rat,afuno,,,,
+36556,103,meat/flesh,ado,,,,
+36913,104,fat/grease,mana,,,1,1?
+37270,105,tail,fera,,,,
+77390,106,snake,[w]oro,,,22,
+77391,106,snake,ghoro,,,22,
+37984,107,"worm (earthworm)",neghaghoro,,,,
+77469,108,louse,wui,,,1?,?
+77470,108,louse,ghui,,,1?,?
+77523,109,mosquito,nini,,,17,
+77524,109,mosquito,rewori,,,,
+77567,110,spider,sapaiwura,,,,
+77568,110,spider,rofaiwino,,,,
+39412,111,fish,ado,,,,
+39769,112,rotten,bu,,,52,?
+40126,113,branch,oa,,,,
+40483,114,leaf,rana,,,1?,?
+40840,115,root,wai,,,,
+41197,116,flower,buŋga,,L,,
+77937,117,fruit,-bo,,,1,1
+77938,117,fruit,wo,,,1,1
+41911,118,grass,sia,,,,
+42268,119,earth/soil,ana,,,1,1
+78098,120,stone,rewano,,,,
+78099,120,stone,wai,,,,
+42982,121,sand,nafa,,,,
+105451,122,water,rauno,,,1,1
+105452,122,water,ghai,,,2,
+78267,123,"to flow",ru,,,,
+78268,123,"to flow",mo,,,,
+44053,124,sea,rau,,,6,
+44767,126,lake,rawi,,,,
+78514,128,sky,dora,,,19,?
+78515,128,sky,naniŋgi,,,1?,?
+45838,129,moon,wafa,,,,
+46195,130,star,siwerere,,,17,
+46552,131,cloud,arepa,,,25,
+46909,132,fog,asi,,,,
+47266,133,rain,dora,,,,
+47623,134,thunder,dora-ruru,,,10,
+47980,135,lightning,merewa,,,,
+48337,136,wind,wama,,,22,
+79004,137,"to blow",so,,,,
+79005,137,"to blow",ufa,,,4,
+79090,138,warm,ora,,,,
+79091,138,warm,siko,,,,
+79092,138,warm,wokako,,,,
+49408,139,cold,fefe,,,,
+79244,140,dry,fono,,,,
+79245,140,dry,roro,,,,
+50122,141,wet,neneno,,,,
+79352,142,heavy,mahuna,,,,
+79353,142,heavy,maiwako,,,,
+50836,143,fire,sako,,,,
+79485,144,"to burn",rapari,,,,
+79486,144,"to burn",sano,,,,
+51550,145,smoke,[awu]asi,,,2,1
+51907,146,ash,awu,,,1,1
+52264,147,black,meno,,,,
+79682,148,white,fako,,,,
+79683,148,white,fasi,,,,
+79739,149,red,rewaro,,,,
+79740,149,red,regharo,,,,
+53335,150,yellow,[ni]niko,,,,
+53692,151,green,kakesio,,,24,
+79884,152,small,kumara,,,,
+79885,152,small,boma,,,,
+80014,153,big,ba[wa],,,50,
+80015,153,big,mandana,,,,
+54763,154,short,kamuto,,,,
+55120,155,long,doro,,,23?,
+55477,156,thin,tako,,,,
+56548,159,wide,sakaro,,,,
+80378,160,"painful, sick",masewe,,,43,
+80379,160,"painful, sick",foko,,,,
+80380,160,"painful, sick",totonako,,,,
+57262,161,"shy, ashamed",niamaro,,,,
+80536,163,new,boa,,,1,?
+80537,163,new,woa,,,1,?
+80592,164,good,ro,,,,
+80593,164,good,roo,,,,
+80766,166,"correct, true",mawa,,,,
+80767,166,"correct, true",uda,,,,
+80827,167,night,rana,,,,
+80828,167,night,yana,,,,
+59761,168,day,saro,,,1?,
+60118,169,year,ghéa,,,,
+60832,171,"to hide",ame,,,,
+61189,172,"to climb",esi,,,,
+61546,173,at,na,"or 20?",,13,
+61903,174,"in, inside",we,,,,
+62260,175,above,[ru]bo,,,2,1
+81297,176,below,ghero,,,,
+81298,176,below,kero,,,,
+81299,176,below,iro,,,,
+62974,177,this,maia,,,,
+63331,178,that,aimbeani,,,,
+81596,179,near,ruta,,,,
+81597,179,near,tita,,,,
+81598,179,near,awora,,,,
+131230,180,far,teka,,,,
+64402,181,where?,wohona,,,,
+81797,182,I,ra,,,1,1
+81798,182,I,ya,,,1,1
+65116,183,thou,auo,,,1,?
+65473,184,he/she,i,,,1,1
+113938,185,we,iko,,,22,1
+113939,185,we,ami,,,2,
+113940,185,we,amo,,,,
+66187,186,you,mu,,,1,1
+66544,187,they,ki,,,1,
+66901,188,what?,atano[wa],,,,
+67258,189,who?,ghare,,,5,
+82355,190,other,no,,,,
+82356,190,other,o,,,,
+82357,190,other,ohia,,,,
+82413,191,all,titi,,,,
+82414,191,all,kai,,,,
+82510,192,and,wea,,,,1
+82511,192,and,iwa,,,,1
+82512,192,and,ma,,,2,1
+68686,193,if,aŋga,,,,
+82725,195,"no, not",oita[wo],,,,
+82726,195,"no, not",[wo]mo,,,,
+70114,197,One,wosi,,,1?,?
+70471,198,Two,woru,,,1,1
+70828,199,Three,oro,,,1,1
+71185,200,Four,ako,,,1,1
+131238,201,Five,rimo,"Ambumi and Napan-Weinami dialect",,1,
+131239,201,Five,waŋgea,"Other dialects",,,
+131240,202,Six,"rimo ka wosio","5+1; Ambumi and Napan-Weinami dialects",,,
+131241,202,Six,"waŋgea ka wosio","5+1; Other dialects",,,
+131242,203,Seven,"rimo ka woruo","5+2; Ambumi and Napan-Weinami dialects",,,
+131243,203,Seven,"waŋgea ka woruo","5+2; Other dialects",,,
+131244,204,Eight,"rimo ka oro","5+3; Ambumi and Napan-Weinami dialects",,,
+131245,204,Eight,"waŋgea ka oro","5+3; Other dialects",,,
+131246,205,Nine,sighiro,"Ambumi and Napan-Weinami dialects",,,
+131247,205,Nine,"waŋgea ka ako","5+4; Other dialects",,,
+131232,206,Ten,sauro,"(All dialects)",,5,
+131231,207,Twenty,"nuŋgu etio","(a whole man)",,,

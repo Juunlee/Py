@@ -1,0 +1,223 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+106,Numfor,"Blust, from: van Hasselt & van Hasselt (1947)",bhw,biak1248,"van Hasselt, J.L. & van Hasselt, F. J. F. (1947). Noemfoorschwoordenboek. Amsterdam: N.V. Drukkerij enUitgervijJ. H.de Bussy.",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, South Halmahera-West New Guinea, West New Guinea, Cenderawasih Bay, Biakic","Debasish Roy","Simon Greenhill","@book{27061,  address               = {Amsterdam},  pages                 = {312},  publisher             = {De Bussy},  title                 = {Noemfoorsch woordenboek},  year                  = {1947},  bibtexkey             = {hasselt-hasselt_noemfoorsch-woordenboek1947},  class_loc             = {PL6279.Z5},  document_type         = {B},  hhtype                = {dictionary},  inlg                  = {Dutch [nld]},  inlg_code             = {nld},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 6279 .Z5 HAS 1947},  src                   = {hh, mpieva},  srctrickle            = {hh#d:vanHasselt:Noemfoorsch, mpieva#Hasselt1947Noemfoor},  subject_headings      = {Numfor language – Dictionaries – Dutch, Dutch language – Dictionaries – Nufor, Numfor language – Dictionaries – Dutch – Dutch language – Dictionaries – Nufor},  author                = {van Hasselt, J.L and van Hasselt, F.J.F.}}"
+latitude,longitude
+-1.26384313173499696070,134.75781076709469630259
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+106,1,hand,rwa,,,16,
+463,2,left,sār,,,55,
+820,3,right,kaku,,,"5,70",
+1177,4,leg/foot,we,,,"1,100",1
+1534,5,"to walk",rā,,,40?,1
+1891,6,road/path,nĕyan,,,,
+2248,7,"to come",rāma,,,30,1?
+2605,8,"to turn",kabĕr,,,,
+2962,9,"to swim",ās,,,19,
+71820,10,dirty,akĕm,,,,
+71821,10,dirty,fambrum,,,,
+71904,11,dust,ananef,,,,
+71905,11,dust,yorĕf,,,,
+4033,12,skin,rib,,,,
+4390,13,back,kru[ri],,,23,
+4747,14,belly,sne[ri],,,58,
+5104,15,bone,kor,,,70,
+5461,16,intestines,sne|war[si],,,1?,1
+5818,17,liver,ke|n,,,1?,1?
+6175,18,breast,sus,,,1,1
+6532,19,shoulder,radar[si],,,,
+6889,20,"to know, be knowledgeable",fau,,,,
+7246,21,"to think",swār,,,,
+7603,22,"to fear",mkāk,,,1,1
+7960,23,blood,rik,"[cf. #149]",,14,
+8317,24,head,rwu,,,1?,
+8674,25,neck,sasu[ri],,,,
+9031,26,hair,snumburaïm,,,,
+9388,27,nose,sno[ri],,,,
+9745,28,"to breathe",mnasu,,,1?,
+10102,29,"to sniff, smell",nasĕm,,,,
+10459,30,mouth,sbā[ri],,,,
+10816,31,tooth,na,,,,
+72978,32,tongue,kaprer,,,,
+72979,32,tongue,kaprendi,,,,
+11530,33,"to laugh",mbrif,,,3,
+11887,34,"to cry",kanĕs,,,1,1
+12244,35,"to vomit",aw[u],,,,
+12601,36,"to spit",aninef,,,,
+12958,37,"to eat",ān,,,1,1
+13315,38,"to chew",mam,,,1,1
+13672,39,"to cook",[fa]fnap,,,,
+14029,40,"to drink",inĕm,,,1,1
+14386,41,"to bite",ar|k,,,1,1
+73640,42,"to suck",sum,,,1,1
+73641,42,"to suck",syosĕf,,,1,1
+15100,43,ear,kna,,,1,1
+15457,44,"to hear",mnaf,,,,
+15814,45,eye,mga,,,1,1
+73869,46,"to see",mam,,,,
+73870,46,"to see",mgasi,,,,
+16528,47,"to yawn",mabab,,,19,1
+16885,48,"to sleep",enĕf,,,8,
+17242,49,"to lie down",barĕk,,,,
+17599,50,"to dream",mafu,,,,
+17956,51,"to sit",keïn,,,,
+18313,52,"to stand",orĕs,,,,
+18670,53,"person/human being",kaw|asa,,,,1?
+19027,54,man/male,man,,,1,1
+19384,55,woman/female,bin,,,"1,41",1
+19741,56,child,okir,,,,
+20098,57,husband,swa[ri],,,2,1
+20455,58,wife,swa[ri],,,1,1
+74477,59,mother,nāni,,,,1
+74478,59,mother,sna[ri],,,1?,1
+91312,60,father,mami,,,"1,10",1
+91313,60,father,kĕma,,,1,
+21526,61,house,rum,,,1,1
+21883,62,thatch/roof,os,,,,
+22240,63,name,snon-snon,,,1?,
+74782,64,"to say",faya,,,13,
+74783,64,"to say",kofen,,,,
+22954,65,rope,rabrab,,,,
+23311,66,"to tie up, fasten",yabĕk,,,,
+23668,67,"to sew",sapsip,,,,
+24025,68,needle,ret,,,12,
+24382,69,"to hunt",yafyof,,,,
+24739,70,"to shoot",kfo,,,,
+25096,71,"to stab, pierce",kuk,,,,
+25453,72,"to hit",rab,,,,
+25810,73,"to steal",karau,,,,
+26167,74,"to kill",[ma]mun,,,1,1?
+26524,75,"to die, be dead",mār,,,1?,?
+26881,76,"to live, be alive",kenĕm,,,,
+27238,77,"to scratch",rār,,,,?
+27595,78,"to cut, hack",karuk,,,,
+75796,79,stick/wood,a,,,1,1
+75797,79,stick/wood,ai,,,1,1
+75868,80,"to split",kabas,,,18?,
+75869,80,"to split",kes,,,,
+75870,80,"to split",mef,,,,
+28666,81,sharp,sār,,,,
+29023,82,"dull, blunt",dip,,,,
+29380,83,"to work",fararur,,,,
+29737,84,"to plant",karker,,,,
+30094,85,"to choose",sra,,,,
+30451,86,"to grow",sur,,,,
+30808,87,"to swell",biar,,,,
+76362,88,"to squeeze",ramĕs,,,1,1?
+76363,88,"to squeeze",o|mĕs,,,1,1?
+31522,89,"to hold",kin,,,,
+76501,90,"to dig",ba,,,,1
+76502,90,"to dig",er,,,,1
+32236,91,"to buy",kobĕs,,,,
+32593,92,"to open, uncover",bās,,,,
+32950,93,"to pound, beat",nuk,,,"20, 2",1
+33307,94,"to throw",so,,,18,
+33664,95,"to fall",mĕmgokĕf,,,,
+34021,96,dog,naf,,,,
+34378,97,bird,man,,,1,1
+34735,98,egg,penor,,,,
+35092,99,feather,kum,,,,
+35449,100,wing,waprer,,,,
+35806,101,"to fly",rob,,,1,1
+36163,102,rat,robēfrar,,,,
+36520,103,meat/flesh,kraf,,,,
+77290,104,fat/grease,mafĕn,,,1,?
+77291,104,fat/grease,mani,,,1,?
+37234,105,tail,pura[ri],,,,
+37591,106,snake,ikak,,,,
+37948,107,"worm (earthworm)",arsyawek,,,,
+38305,108,louse,uk,,,1,1
+38662,109,mosquito,mumĕs,,,18,
+39019,110,spider,kabokakin,,,,
+39376,111,fish,in,,,1,1
+39733,112,rotten,pokĕm,,,,
+40090,113,branch,snau,,,,
+40447,114,leaf,rām,,,,
+40804,115,root,rarĕs,,,,1
+41161,116,flower,pampen,,,,
+41518,117,fruit,ai|bon,,,1,1
+41875,118,grass,abris,,,,
+42232,119,earth/soil,saprop,,,,
+42589,120,stone,keru,,,,
+42946,121,sand,[ka]yen,,,1,?
+43303,122,water,wār,,,2,1
+43660,123,"to flow",ki,,,,
+78322,124,sea,masĕn,,,17?,
+78323,124,sea,swān,,,17?,
+44374,125,salt,masĕn,,,"3,45",
+44731,126,lake,dokĕn,,,,
+78508,128,sky,nanĕk,,,1?,1?
+78509,128,sky,naŋe,,,,1?
+45802,129,moon,paik,,,16,
+46159,130,star,mak,,,,
+46516,131,cloud,mandif,,,,
+46873,132,fog,afio,,,,
+47230,133,rain,mekĕm,,,,
+47587,134,thunder,kadadu,,,2,
+47944,135,lightning,wewĕr,,,,
+48301,136,wind,wām,,,22?,
+48658,137,"to blow",wuf,,,,
+49015,138,warm,sam,,,,
+49372,139,cold,prim,,,,
+79228,140,dry,miaïs,,,,
+79229,140,dry,pnaïs,,,,
+79230,140,dry,pnās,,,,
+50086,141,wet,dimek,,,,
+50800,143,fire,for,,,,
+51157,144,"to burn",kun,,,1,1
+51514,145,smoke,ās,,,2,1
+51871,146,ash,pat,,,,
+52228,147,black,pa|isĕm,"[cf/ uj pit?m]",,1?,1
+52585,148,white,piupĕr,,,,
+52942,149,red,rik,"[cf. #23]",,,
+53299,150,yellow,naniar,,,,
+53656,151,green,mandumek,,,,
+79870,152,small,kasun,,,,
+79871,152,small,baba,,,,
+54370,153,big,ba,,,50,
+54727,154,short,kwaïmba,,,,
+55084,155,long,kwaïn,,,,
+55441,156,thin,mbrĕkip,,,,
+55798,157,thick,kpor,,,1,
+56155,158,narrow,fios,,,,?
+56512,159,wide,bam,,,,
+56869,160,"painful, sick",duf,,,,
+57226,161,"shy, ashamed",ma,,,1,
+57583,162,old,-sar,,,,1
+57940,163,new,babo,,,1?,
+58297,164,good,bye,,,1?,
+58654,165,"bad, evil",barbor,,,,?
+59011,166,"correct, true",kaku,,,,
+59368,167,night,rob,,,,
+59725,168,day,ras,[<M],,,?
+60082,169,year,taun,,,1,?
+60796,171,"to hide",yofĕk,,,,
+61153,172,"to climb",aber,,,,
+61510,173,at,ro,,,,
+61867,174,"in, inside",do,,,,
+62224,175,above,bo,,,2,?
+81289,176,below,sop,,,,1
+81290,176,below,wabni,,,,1
+62938,177,this,ine,,,1,
+63295,178,that,buro,,,,1?
+63652,179,near,fanam,,,,
+64009,180,far,biŋkwaïm,,,,
+64366,181,where?,mobo,,,,
+64723,182,I,ya,,,1,
+65080,183,thou,au,,,1,1
+65437,184,he/she,i,,,1,1
+113851,185,we,ko,,,1,1
+113852,185,we,ŋgo,,,2,
+66151,186,you,rwori,,,,
+66508,187,they,si,[?],,1,
+66865,188,what?,roseï,,,10,?
+67222,189,who?,iseï,,,1,
+67579,190,other,wesĕ,,,,1
+67936,191,all,kam,,,,
+68293,192,and,ma,,,2,
+68650,193,if,bo|ma,,,3?,1
+69007,194,how?,rariso,,,,1?
+69364,195,"no, not",ba,,,25,
+69721,196,"to count",kor,,,,
+70078,197,One,saï,,,"1,61",
+70435,198,Two,duï,,,1,1?
+70792,199,Three,kior,,,1,1
+71149,200,Four,fiak,,,1,1

@@ -1,0 +1,224 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+212,Jawe,"Blust, from: Haudricourt and Ozanne-Rivierre (1982)",jaz,jawe1237,"Haudricourt, A.-G., & Ozanne-Rivierre, F. (1982). Dictionnaire thématique des langues de la région de Hienghène (Nouvelle-Calédonie) : Pije, Fwâi, Nemi, Jawe. Paris: SELAF.",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, New Caledonian, Northern, North, Nemi","Debasish Roy","Simon Greenhill","@book{122134,  address    = {Louvain},  pages      = {285},  publisher  = {Peeters},  series     = {LACITO-Documents: Asie-Austronèsie},  title      = {Dictionnaire Thématique des Langues de la région de Hienghène (Nouvelle-Calédonie): Pije – Fwâi – Nemi – Jawe},  volume     = {4},  year       = {1982},  bibtexkey  = {haudricourt-ozanne-rivierre_hienghene-jawe1982},  hhtype     = {overview;wordlist},  inlg       = {French [fra]},  inlg_code  = {fra},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#hw:HaudricourtOzanne-Rivierre:Hienghene},  author     = {Haudricourt, André-Georges and Ozanne-Rivierre, Françoise}}"
+latitude,longitude
+-20.64306554672645432902,164.77294921875000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+212,1,hand,hi-n,"< *kuku claw",,10,
+569,2,left,moo-n,,,"1,59",1?
+926,3,right,jue-hi-n,,,,?
+1283,4,leg/foot,he-n,,,1?,
+1640,5,"to walk",hya-,,,,
+1997,6,road/path,hwaa|ran,,,"5,1",?
+2354,7,"to come",he-me,,,1,1
+2711,8,"to turn",thebanem,,,,
+3068,9,"to swim",hyoom,,,97,
+3425,10,dirty,geek,,,12,
+3782,11,dust,hmuun-dilic,[Y],,"105,1",
+4139,12,skin,cii-n,,,1,1
+4496,13,back,jai-n,,,12,
+4853,14,belly,jie-n,,,1,1
+5210,15,bone,duu-n,2?,,2,
+5567,16,intestines,hooŋe-n,,,33,
+72170,17,liver,kei-n,,,1,1
+72171,17,liver,kec,,,1,1
+6281,18,breast,thi-n,,,1,?
+6638,19,shoulder,pue-hi-n,,,37,
+6995,20,"to know, be knowledgeable",hina,,,116,
+7352,21,"to think",[ne]nemi,,,28,
+7709,22,"to fear",harat,,,1?,
+8066,23,blood,kuraa-n,,,"45,1",
+8423,24,head,bwa-n,,,9,
+8780,25,neck,noo-n,,,18,
+9137,26,hair,pun-bwa-n,,,31,
+9494,27,nose,hwâdi-n,,,14,
+72770,28,"to breathe",po-hyeen,,,,
+72771,28,"to breathe",hñana,,,1,
+10208,29,"to sniff, smell",goni,,,42,
+10565,30,mouth,hwa-n,,,36,
+10922,31,tooth,payoa-n,,,21,
+11279,32,tongue,kuve|ma-n,,,"14,7",
+11636,33,"to laugh",ŋaan,,,,
+11993,34,"to cry",hye,,,,
+12350,35,"to vomit",ûja,,,1,1
+12707,36,"to spit",suma,,,43?,
+13064,37,"to eat",huu,,,,
+13421,38,"to chew",hwei,,,2,
+13778,39,"to cook",teo,,,,
+73486,40,"to drink",khûduk,[Y],,6,
+73487,40,"to drink",khûdi,[Y],,6,
+14492,41,"to bite",hwii,,,57,
+14849,42,"to suck",tit,,,25,1?
+15206,43,ear,jeene-n,,,1,1
+15563,44,"to hear",tena,,,80,?
+15920,45,eye,thivae-n,,,34,
+16277,46,"to see",noja,[Y],,9,
+16634,47,"to yawn",oahem,,,"19,30",
+16991,48,"to sleep",khêixa,[Y],,,
+17348,49,"to lie down",khêgo,[Y],,1?,
+74045,50,"to dream",neu-n,,,"1,60",1?
+74046,50,"to dream",nep,,,"1,60",1?
+18062,51,"to sit",tago,,,42,
+18419,52,"to stand",cuut,,,2,1
+18776,53,"person/human being",kac,,,4,
+74233,54,man/male,kayuk,,,22,
+74234,54,man/male,xayuk,,,22,
+19490,55,woman/female,hnemo,,,119,
+74387,56,child,naai-n,,,"5,52",
+74388,56,child,hyaok,,,,
+20204,57,husband,kaloo-n,,,"2,31",1
+20561,58,wife,ŋane-n,,,,
+20918,59,mother,cê-n,[Y],,1,1
+21275,60,father,câu-n,[Y],,45,
+21632,61,house,ŋa,,,1,
+21989,62,thatch/roof,bwan-ŋa,,,19,
+74707,63,name,yat,,,"1,18",1
+74708,63,name,yale-n,,,"1,18",1
+22703,64,"to say",peei,,,"13,103",
+23060,65,rope,wêk,,,2,
+23417,66,"to tie up, fasten",hwaŋi,,,,
+23774,67,"to sew",thigic,,,"17, 48",
+24131,68,needle,du-bwek,,,44,
+24488,69,"to hunt",haulai,[Y],,,
+24845,70,"to shoot",teiʔ,,,3,
+25202,71,"to stab, pierce",-dua,,,,
+25559,72,"to hit",kaai,,,10?,
+75475,73,"to steal",guna,,,49,
+75476,73,"to steal",gunee,,,49,
+26273,74,"to kill",kaai,,,8,
+26630,75,"to die, be dead",mac,,,1,1
+26987,76,"to live, be alive",maric,,,1?,?
+27344,77,"to scratch",yaxi,,,,
+27701,78,"to cut, hack",to-gane,,,,
+28058,79,stick/wood,ceek,,,47,1
+28772,81,sharp,cec,,,60,
+76008,82,"dull, blunt",neñ,,,34,
+76009,82,"dull, blunt","koi hwa-n",,,13,
+29843,84,"to plant",tei,,,46,
+30200,85,"to choose",hñamwi,,,7,
+30557,86,"to grow",cim,,,1?,
+30914,87,"to swell",higuk,,,12,
+31271,88,"to squeeze",thebilee,,,35?,
+31628,89,"to hold",soot,,,,
+31985,90,"to dig",hyai,,,1?,
+32342,91,"to buy",uvi,,,14,
+32699,92,"to open, uncover",tavi,,,37,
+33413,94,"to throw",thai,,,,
+33770,95,"to fall",tiluk,[Y],,46,
+76926,96,dog,cawek,,,45,
+76927,96,dog,ka-khañ,,,43,
+34484,97,bird,manik,,,1,1
+77003,98,egg,phi,,,,
+77004,98,egg,phii-n,,,,
+77059,99,feather,pun,,,1,1
+77060,99,feather,puni-n,,,1,1
+35555,100,wing,hi-n,,,,
+35912,101,"to fly",tan,,,90,
+36269,102,rat,ciibwi,,,3,
+36626,103,meat/flesh,pixe-n,,,10,
+36983,104,fat/grease,gereec,,L?,94,
+37340,105,tail,thiŋe-n,,,,
+38054,107,"worm (earthworm)",be,,,11,
+38411,108,louse,cii|k,,,1?,1
+38768,109,mosquito,naaguk,,,1,?
+39125,110,spider,ka-tha-thuaraak,[Y],,,
+39482,111,fish,nuk,,,9,
+39839,112,rotten,hñat,,,118,
+40196,113,branch,"hi-n  ceek","= hand tree",,58,
+40553,114,leaf,doo-n,,,1,1
+40910,115,root,waa-n,,,2,1
+41267,116,flower,muu-n,,,36,
+41624,117,fruit,pwe-n,,,1,1
+42338,119,earth/soil,guc,,,70,
+42695,120,stone,pai|k,,,1,1
+43052,121,sand,kon,,,1,1
+43409,122,water,we,,,2,1
+43766,123,"to flow",tho,,,13,
+44123,124,sea,jalik,,,1,1
+44480,125,salt,kon,,,,
+44837,126,lake,dan,,,1,1
+45194,127,woods/forest,kuc,,,7,1
+45551,128,sky,poa,,,75,
+45908,129,moon,hwanuk,,,71,
+46265,130,star,piuk,,,1,1
+46622,131,cloud,neeñ,,,3,
+46979,132,fog,kathek,[Y],,23,
+47336,133,rain,kut,,,1,1
+47693,134,thunder,niuk,,,43,
+48050,135,lightning,hñonim,,,95,
+48407,136,wind,da|an,,,1,?
+79029,137,"to blow",thai,,,,
+79030,137,"to blow",ùi,,,1?,
+49121,138,warm,hinu,,,11,
+49478,139,cold,cauk,[Y],,12,
+49835,140,dry,man,,,13?,
+50192,141,wet,bela,[Y],,45,
+50549,142,heavy,pwaluk,,,10,
+79388,143,fire,yaak,,,1?,
+79389,143,fire,yaa-n,,,1?,
+51263,144,"to burn",texec,,,,
+79531,145,smoke,hmu,,,"2,76",
+79532,145,smoke,hmuu-n,,,"2,76",
+51977,146,ash,dap,,,1,
+52334,147,black,phom,,,,
+52691,148,white,pulo,,,3,
+53048,149,red,mia,,,"1,55",1?
+53405,150,yellow,kari,,,14,
+53762,151,green,phûñ,[Y],,19?,
+54119,152,small,pwen-mwañ,,,26,
+54476,153,big,hac,,,7,
+54833,154,short,khûbut,[Y],,34,
+55190,155,long,hwalic,,,19?,
+55547,156,thin,terep,,,63,
+55904,157,thick,huju,,,28,
+56261,158,narrow,ubec,,,,
+56618,159,wide,kalava,,,48,
+56975,160,"painful, sick",phaliic,,,38,?
+118936,161,"shy, ashamed",ka-hûn,,,6,
+118937,161,"shy, ashamed",mayic,,,1,
+57689,162,old,vai,,,71,
+58046,163,new,"gaa kop",,,53?,
+58403,164,good,xoi,,,18,
+58760,165,"bad, evil",khênuxi,,,,
+59117,166,"correct, true",jue|juk,,,99,
+59474,167,night,gen,,,1,1?
+59831,168,day,mala,,,"1,54",
+60188,169,year,jak,,,1?,
+60545,170,when?,thêên,,,78,1
+60902,171,"to hide","thii na xoi",[Y],,,
+61259,172,"to climb",ta,,,2,
+81140,173,at,xe,,,21,
+81141,173,at,na,,,13,
+61973,174,"in, inside",le,,,1,
+62330,175,above,bwan-,,,2?,
+62687,176,below,kare-,,,,
+81384,177,this,nei,,,1,
+81385,177,this,hnoo,,,,
+63401,178,that,[dek]hnaa,,,1,
+63758,179,near,suk,,,57,1?
+64115,180,far,hoot,,,97,
+64472,181,where?,pa,,,3,
+64829,182,I,mo,,,,
+65186,183,thou,jo,,,1,
+65543,184,he/she,xe,,,1,
+82015,185,we,deye,,,,
+82016,185,we,deve,,,,
+66257,186,you,jaa,,,1,
+66614,187,they,dele,,,"1,70",
+66971,188,what?,da,,,1,
+67328,189,who?,wede,,,,?
+67685,190,other,hyele,,,,
+68399,192,and,maa,,,2,
+68756,193,if,phwãne,,,"23,12",1
+69113,194,how?,sueve,[Y],,25,
+69470,195,"no, not",heve,,,,
+69827,196,"to count",phinee,,,26,
+70184,197,One,siic,,,14,
+70541,198,Two,seLuk,,,1?,
+70898,199,Three,seen,,,1,1?
+71255,200,Four,phoec,,,"1,65",1
+153176,201,Five,nim,,,"1,15",
+153175,202,Six,ni-siic,,,,
+153174,203,Seven,ni-seLuk,,,9,
+153173,204,Eight,ni-seen,,,11?,
+153172,205,Nine,ni-phoec,,,,
+153171,206,Ten,paidu,,,12,

@@ -1,0 +1,205 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+35,Erai,Blust,ilu,iliu1237,"From J de Jong",,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Timor, Extra-Ramelaic, North, Wetar","Simon Greenhill","Simon Greenhill","@misc{Blust-35-2005,  author = \"Robert A. Blust\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-7.78786999999999984823,126.31256000000000483396
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+35,1,hand,lima,,,"1,64",1
+392,2,left,wiri,,,1,1
+749,3,right,wana,,,1,1
+1106,4,leg/foot,luku(n),,,9,
+1463,5,"to walk",la,,,1,1?
+1820,6,road/path,sala(n),,,1,1
+2177,7,"to come",ma,,,1,1
+2534,8,"to turn",pokek,,,,
+2891,9,"to swim",nani,,,"1,45",1
+3962,12,skin,ulik,,,1,1
+4319,13,back,liu,,,1,1
+4676,14,belly,kapun,,,2,
+5033,15,bone,rurin,,,2,
+5390,16,intestines,knen,,,1,1?
+5747,17,liver,ate(n),,,1,1
+6104,18,breast,susu,,,1,1
+6461,19,shoulder,pas,,,6?,
+6818,20,"to know, be knowledgeable",nau(n),,,42,?
+7175,21,"to think",knanan,,,"28, 34",
+7532,22,"to fear",leguran,,,,
+7889,23,blood,rara(n),,,1,1
+8246,24,head,kuru(n),,,1,
+72537,25,neck,poin,,,,
+72538,25,neck,poka,,,,
+8960,26,hair,kuru(n),,,3,
+9317,27,nose,kuru(n),,,"1,5",
+9674,28,"to breathe",hora,,,31,
+10031,29,"to sniff, smell",me,,,65,
+10388,30,mouth,kahan,,,"1,11",
+72913,31,tooth,agi,,,,
+72914,31,tooth,nesu,,,1,
+11102,32,tongue,naŋ,,,"6,12",
+11459,33,"to laugh",li,,,3?,
+11816,34,"to cry",kua,,,3,
+12173,35,"to vomit",muta,,,1,1
+12530,36,"to spit",purus,,,9?,
+12887,37,"to eat",na,,,24,
+13244,38,"to chew",mama,,,1,1
+13601,39,"to cook",sesan,,,2?,
+13958,40,"to drink",enu,,,1,1
+14315,41,"to bite",kosa,,,4,
+14672,42,"to suck",mokis,,,2,
+15029,43,ear,kini(n),,,"1,5",
+15386,44,"to hear",liu,,,9,
+15743,45,eye,mata(n),,,1,1
+16100,46,"to see",oco,,,6,
+16814,48,"to sleep",apu,,,43,
+17171,49,"to lie down",lole,,,4,
+17885,51,"to sit",pasu(k),,,14,
+18599,53,"person/human being",(i)to(n),,,1?,1?
+18956,54,man/male,mamane,,,1,1
+19313,55,woman/female,hahata,,,128,
+19670,56,child,ana(n),,,1,1
+20027,57,husband,riun,,,11,
+20384,58,wife,riun,,,,
+20741,59,mother,ina(n),,,1,1
+21098,60,father,ama(n),,,1,1
+21455,61,house,raha,,,4,
+21812,62,thatch/roof,rahahulun,,,,
+22169,63,name,nean,,,1,1
+74750,64,"to say",aru,,,150?,
+74751,64,"to say",tapa,,,,
+74959,66,"to tie up, fasten",ligu,,,9?,
+74960,66,"to tie up, fasten",hutu,,,9?,
+23597,67,"to sew",kaʔuk,,,,
+23954,68,needle,giris,,,,
+24311,69,"to hunt",lihu(r),,,,
+24668,70,"to shoot",suri(n),,,,
+25382,72,"to hit",tupu,,,,
+25739,73,"to steal",ku,,,,
+26096,74,"to kill",eja,,,7,
+26453,75,"to die, be dead",mate,,,1,1
+26810,76,"to live, be alive",mori,,,"1,76",1
+27167,77,"to scratch",juhik,,,,
+75674,78,"to cut, hack",leli,,,3,1
+75675,78,"to cut, hack",tete(k),,,3,1
+27881,79,stick/wood,ai,,,1,1
+28238,80,"to split",heta,,,,
+28595,81,sharp,tain,,,1?,?
+28952,82,"dull, blunt","ta tain",,,,
+29309,83,"to work",karia,,L,7,
+29666,84,"to plant",taha,,,38,
+92536,86,"to grow",mori,,,2,
+92537,86,"to grow",nupuŋ,,,5,
+30737,87,"to swell",pupu,,,3,
+31451,89,"to hold",hia,,,,
+31808,90,"to dig",kali,,,1,1
+32522,92,"to open, uncover",loi,,,7?,
+32879,93,"to pound, beat",tugu,,,,?
+33236,94,"to throw",asik,,,,
+33593,95,"to fall",pole,,,9,
+33950,96,dog,asu,,,1,1
+34307,97,bird,manu,,,1,1
+35021,99,feather,hulu(n),,,1,1
+35378,100,wing,kaha,,,1?,
+35735,101,"to fly",lari,,,2,
+36092,102,rat,lasu,,,1,
+36449,103,meat/flesh,"usi meran",,,31,1?
+104739,104,fat/grease,mair,,,9,
+104740,104,fat/grease,hian,,,10,
+37163,105,tail,iku,,,1,1
+89845,106,snake,sau(tali),,,11,1
+89846,106,snake,ula,,,2,
+37877,107,"worm (earthworm)",cama,,,,
+38234,108,louse,utu(n),,,1,1
+38591,109,mosquito,sisi,,,10,
+38948,110,spider,jalenahun,,,,
+39305,111,fish,meti,,,7,
+39662,112,rotten,hon(o),,,10,
+40019,113,branch,hana(n),,,2,
+40376,114,leaf,ron,,,1,1
+40733,115,root,akar,,,2,1
+41090,116,flower,huna,,,1,1
+41447,117,fruit,hua(n),,,1,1
+41804,118,grass,nau,,,11,
+42161,119,earth/soil,namo(n),,,,
+42518,120,stone,hatu,,,1,1
+42875,121,sand,moin,,,11,
+43232,122,water,ēr,,,2,1?
+78306,124,sea,lo(r),,,6,
+78307,124,sea,cahiralan,,,,
+44303,125,salt,masi(n),,,"3,45",
+44660,126,lake,kopak,,,,
+45017,127,woods/forest,apak,,,,
+45374,128,sky,jela,,,,
+45731,129,moon,hulan,,,1,1
+46088,130,star,tu,,,9,?
+46445,131,cloud,natas,,,10,
+46802,132,fog,meak,,,,
+47159,133,rain,usan,,,1,1
+47516,134,thunder,gogu,,,1,?
+47873,135,lightning,jilat,,,1,1?
+48230,136,wind,ani(n),,,1,1
+48587,137,"to blow",pua,,,17,
+48944,138,warm,panas,,,1,1
+49301,139,cold,cirin,,,1?,?
+49658,140,dry,mea,"cf #63",,7,?
+50015,141,wet,cos,,,,
+50372,142,heavy,herak,,,1,1
+50729,143,fire,ai,,,1,1
+51086,144,"to burn",suni,,,1,
+51443,145,smoke,aimahun,,,2,1?
+51800,146,ash,ra(ra),,,,
+52157,147,black,meta(m),,,1,1
+79674,148,white,meso,,,,1
+79675,148,white,puti,,,1,1
+52871,149,red,mera,,,1,1
+53228,150,yellow,pola,,,8,
+53585,151,green,moson,,,7,
+53942,152,small,ana(n),,,8,
+54299,153,big,air,,,,
+54656,154,short,puir,,,,
+122499,155,long,aru,,,1?,1?
+122500,155,long,poha,,,11,
+122501,155,long,mecu,,,,
+55370,156,thin,mes,,,,
+55727,157,thick,kawan,,,1,
+56084,158,narrow,mekes,,,,
+56441,159,wide,gole,,,4,
+56798,160,"painful, sick",peu,,,,
+57155,161,"shy, ashamed",suak,,,,
+57512,162,old,laik,,,7,
+57869,163,new,ha|herun,,,,?
+58226,164,good,hau(n),,,,
+58583,165,"bad, evil","te hau(n)",,,,
+58940,166,"correct, true",mōr,,,4?,
+59297,167,night,hene(n),,,1,1
+59654,168,day,leo,,,24,1
+60011,169,year,ton,,,1,1
+60368,170,when?,"leo hala",,,,
+60725,171,"to hide",lajōk,,,,
+61082,172,"to climb",hai,,,2?,
+61439,173,at,la,,,2,
+61796,174,"in, inside",ralan,,,1,1
+81259,175,above,jela,,,,1
+81260,175,above,hoho(n),,,,1
+62510,176,below,oraŋ,,,7,
+62867,177,this,ge,,,6,
+63224,178,that,go,,,8,
+81573,179,near,heren,,,,?
+81574,179,near,ranik,,,1,?
+63938,180,far,so,,,11,1
+64295,181,where?,me,,,6,
+81771,182,I,ao,,,1,1
+81772,182,I,au,,,1,1
+65009,183,thou,o,,,1,1
+65366,184,he/she,ni,,,1?,?
+123197,185,we,ita,,,1,1
+123198,185,we,ami,,,2,
+66437,187,they,hira,,,1,1
+66794,188,what?,hala,,,7,?
+67151,189,who?,hari,,,8,
+67508,190,other,seluk,,,6,
+67865,191,all,tema,,,12,
+68579,193,if,ma,,,3,
+69293,195,"no, not",ta,,,4,
+70007,197,One,eha,,,1,1
+70364,198,Two,rua,,,1,1
+70721,199,Three,telu,,,1,1
+71078,200,Four,ak,,,1,1

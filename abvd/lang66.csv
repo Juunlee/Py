@@ -1,0 +1,217 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+66,Kwaio,"Blust from: Keesing (1975)",kwd,kwai1243,"Keesing, R.M. (1975). Kwaio Dictionary. Canberra: Australian National University",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Southeast Solomonic, Malaita-San Cristobal, Malaita, Northern","Penny Keenan","Simon Greenhill","@book{127160,  address               = {Canberra},  note                  = {p. 287 + 288 missing Bibliography: p. xxxiv.},  pages                 = {xxxiv+296},  publisher             = {Dept. of Linguistics, Research School of Pacific Studies, The Australian Natl. Univ.},  series                = {Pacific linguistics: Series C},  title                 = {Kwaio dictionary},  volume                = {35},  year                  = {1975},  bibtexkey             = {keesing_kwaio-dictionary1975},  class_loc             = {PL6252.K924},  document_type         = {B},  fn                    = {papua\keesing_kwaio1975.pdf},  hhtype                = {dictionary},  inlg                  = {English [eng]},  inlg_code             = {eng},  isbn                  = {9780858831209},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 6252 .K924 KEE 1975},  src                   = {hh, mpieva, wals},  srctrickle            = {hh#d:Keesing:Kwaio, mpieva#Keesing1975Kwaiodic, wals#3127},  subject_headings      = {Kwaio language–Dictionaries–English., Kwaio language–Dictionaries–English.},  author                = {Keesing, Roger M.}}"
+latitude,longitude
+-9.05870215639212617020,161.05957031250000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+66,1,hand,nima-na,"irregular change to initial C",,"1,66",1
+423,2,left,moori,"irregular reflex of *w",,"1,59",1?
+780,3,right,leʔa,,,,
+1137,4,leg/foot,ʔae-na,"irregular *q > ʔ",,1,1
+1494,5,"to walk",leeleka,,,139,
+1851,6,road/path,tala,,,1,1
+2208,7,"to come","leka mai",,,"1,86",1
+2565,8,"to turn",bulasi-a,"irregular *o > a; note I've taken this to be a transitive form with -si suffix",,32,
+2922,9,"to swim",balaʔau,,,61,
+3279,10,dirty,bibibiliʔa,,,13,
+3636,11,dust,fuufulu-na,,,64,
+3993,12,skin,suusuŋa-na,,,,
+4350,13,back,bobou-na,,,108,
+4707,14,belly,oga-na,,,36,
+5064,15,bone,suli-na,,,52,
+5421,16,intestines,oga-na,,,16,
+5778,17,liver,lae-na,,,1,1
+6135,18,breast,susu-na,,,1,1
+6492,19,shoulder,ʔabaʔaba-na,,,11,
+6849,20,"to know, be knowledgeable",suʔai,,,68,
+7206,21,"to think",madafi-a,,,,
+7563,22,"to fear",maʔu,,,1,1
+7920,23,blood,ʔabu,,,5,
+8277,24,head,gou-na,,,9,
+8634,25,neck,onoma-na,,,96,
+8991,26,hair,ifiifu-na,,,13,
+9348,27,nose,gʷaŋo-na,"irregular *l > ŋ",,"12, 53",
+9705,28,"to breathe",maŋo,,,47,
+10062,29,"to sniff, smell",mokofi-a,,,13,
+10419,30,mouth,foka-na,,,43,
+10776,31,tooth,nifo-na,,,1,1
+11133,32,tongue,mea-na,,,7,
+11490,33,"to laugh",ʔosa,,,,
+11847,34,"to cry",ani,,,1,1
+12204,35,"to vomit",moa,"irregular *u > o",,1,1
+12561,36,"to spit",ŋisu,,,"14, 58",
+12918,37,"to eat",oso,,,,
+73308,38,"to chew",meʔe,,,,
+73309,38,"to chew",meme-a,"irregular *a > e",,1,
+13632,39,"to cook",nulafi-a,,,,
+13989,40,"to drink",goʔufiʔa,,,"30, 48",
+14346,41,"to bite",ʔala[si-a],,,1,1
+14703,42,"to suck",modoa,"irregular *u > o",,20,
+15060,43,ear,aliŋa-na,,,1,1
+15417,44,"to hear",loŋa-a,,,1,1
+15774,45,eye,maa-na,,,1,1
+16131,46,"to see",agasi-a,,,,
+16488,47,"to yawn",akʷai,"irregular loss of *m",,19,
+16845,48,"to sleep",eno,,,8,
+17202,49,"to lie down",eno,,,1,1
+17559,50,"to dream",bole-a,,,10,
+17916,51,"to sit",toʔolu,,,102,
+18273,52,"to stand",ula,,,40,
+18630,53,"person/human being",ai,,,,
+18987,54,man/male,wane,,,1,1
+19344,55,woman/female,noni,,,,
+19701,56,child,wela,,,8,
+20058,57,husband,kʷai-,,,19,
+20415,58,wife,ʔafe,,,13,
+20772,59,mother,gaʔi,,,,
+21129,60,father,maʔa,,,"1, 67",
+21486,61,house,ʔifi,,,,
+21843,62,thatch/roof,baba|lao,,,"1, 29",1
+22200,63,name,lata-na,,,"1,18",1
+22557,64,"to say",ili-a,,,67,
+22914,65,rope,kʷalo,,,2,
+23271,66,"to tie up, fasten",gaua,,,22,
+23628,67,"to sew",tai-a,,,2,1
+24342,69,"to hunt",fana,,,53,
+25056,71,"to stab, pierce",ʔotomi-a,,,55,
+25413,72,"to hit",kʷaʔi-a,,,16,
+75455,73,"to steal",lole-a,,,,
+75456,73,"to steal",togi-a,,,,
+26127,74,"to kill",kʷaʔi-a,,,14,
+26484,75,"to die, be dead",mae,,,1,1
+26841,76,"to live, be alive",toʔolu,,,8,
+27198,77,"to scratch",fai-a,,,,
+27555,78,"to cut, hack",tofu-a,,,22,
+27912,79,stick/wood,naga-na,,,,
+28269,80,"to split",gaafitalia,,,10,
+28626,81,sharp,ŋau,,,,
+28983,82,"dull, blunt",gomu,,,17,
+29340,83,"to work",tauŋaʔiŋa,,,,
+29697,84,"to plant",anomi-a,,,2,1
+30411,86,"to grow",bilaʔo,,,16,
+76279,87,"to swell",boʔo,,,24,
+76280,87,"to swell",ubu,,,12,
+31125,88,"to squeeze",filo-a,,,64,
+31482,89,"to hold",dau,,,17,
+31839,90,"to dig",takʷe-a,,,,
+32196,91,"to buy",foli-a,,,1,1
+32553,92,"to open, uncover",aʔe-a,,,,
+32910,93,"to pound, beat",gumuli-a,,,,
+33267,94,"to throw",ʔui-a,,,15,
+33624,95,"to fall",ʔesia,,,18,
+33981,96,dog,kuʔito,,,7,
+34338,97,bird,laŋasi,,,,
+34695,98,egg,fakalu-na,,,9,
+35052,99,feather,ifiifu-na,,,7,
+35409,100,wing,ʔabaʔaba-na,,,"1,12",
+35766,101,"to fly",lofo,,,1,1
+36123,102,rat,gasifou,,,,
+36480,103,meat/flesh,fasiʔo-na,,,"10, 65",
+36837,104,fat/grease,niiniu-na,,,16,
+37194,105,tail,ʔiʔi-na,,,"1, 56",
+37551,106,snake,waa,,,12,
+37908,107,"worm (earthworm)",waa,,,10,
+38265,108,louse,ʔuu,,,1,1
+38622,109,mosquito,similakʷalo,,,13,
+38979,110,spider,utouto,,,,
+39336,111,fish,iʔa,,,1,1
+39693,112,rotten,nuga,,,,
+77728,113,branch,lema,,,,
+77729,113,branch,ulu,,,,
+40407,114,leaf,gaʔe-na,,,,
+40764,115,root,lali-na,,,16,1
+41121,116,flower,taataga,,,12,
+41478,117,fruit,feʔe,,,,
+41835,118,grass,falisi,,,1,1
+42192,119,earth/soil,wado,,,51,
+42549,120,stone,fou,"irregular *a > o",,1,1
+42906,121,sand,one,,,1,1
+43263,122,water,talufaʔe,,,,
+43620,123,"to flow",afe,,,10,
+43977,124,sea,ʔosi,,,,
+44334,125,salt,asi,,,20,
+44691,126,lake,namo,,,7,
+45048,127,woods/forest,kaloŋa,,,,
+45405,128,sky,lalo,,,13,
+45762,129,moon,siŋali,,,37,
+46119,130,star,bulubulu,,,14,
+46476,131,cloud,kofa,,,,
+46833,132,fog,gʷafo,"< POc *bwa(p)o",,57,
+47190,133,rain,neʔu,,,,
+47547,134,thunder,loulou,,,20,
+47904,135,lightning,kʷaŋa,,,12,
+48261,136,wind,ilu,"irregular *o > i",,"13, 67",
+48618,137,"to blow",fulu,,,,
+48975,138,warm,ʔagoʔago,,,13,
+49332,139,cold,gʷali,,,13,
+49689,140,dry,laŋa,,,49,
+50046,141,wet,wasiu,,,61,
+50403,142,heavy,gelo,,,,
+50760,143,fire,ele,,,7,
+51117,144,"to burn",gofu-a,,,,
+51474,145,smoke,daa,,,,
+51831,146,ash,makola,,,35,
+52188,147,black,bobolaʔa,,,67,
+52545,148,white,kʷaakʷaoʔa,,,16,
+52902,149,red,meku,,,,
+53259,150,yellow,ʔataʔatakʷaʔa,,,,
+53616,151,green,malakʷa,,,13,
+53973,152,small,sikaʔu,,,58,
+54330,153,big,baʔita,,,15,
+54687,154,short,koʔosu,,,58,
+55044,155,long,lalau,,,,
+55401,156,thin,lebalebaʔa,,,,
+55758,157,thick,fonu,,,35,
+56115,158,narrow,sisitai,,,15,
+56472,159,wide,afola,,,,
+56829,160,"painful, sick",fii,,,16,
+57186,161,"shy, ashamed",ʔida,,,8,
+57543,162,old,loku,,,,
+57900,163,new,foolu,,,1,1
+58257,164,good,leʔa,,,20,
+58614,165,"bad, evil",lia,,,,
+58971,166,"correct, true",odo,,,13,
+59328,167,night,ganiaʔi,,,,
+59685,168,day,gani,,,6,1
+60042,169,year,falisi,,,8,
+60399,170,when?,naanita,,,"1,43",1
+60756,171,"to hide",nagʷa,"irregular presence of initial n-",,8,
+61113,172,"to climb",fane,"Source ACD: climb, go up",,1,
+61470,173,at,i,,,1,1
+61827,174,"in, inside",ʔubu-na,,,27,
+62184,175,above,"i lalo",,,,
+62541,176,below,"i wado",,,,
+62898,177,this,loʔoo,,,,
+63255,178,that,lokoʔu,,,,
+63612,179,near,galani-a,,,"1, 75",
+63969,180,far,lalau,,,,
+64326,181,where?,fai,,,3,
+64683,182,I,nau,,,"1, 22",1
+65040,183,thou,ʔoo,,,1,?
+65397,184,he/she,ŋaia,,,"1, 68",1
+119220,185,we,da|ulu,,,6,1
+119221,185,we,me|elu,,,,
+66111,186,you,mo|olu,,,41,1
+66468,187,they,g|ila,"irregular *k > g",,"1, 69",1
+66825,188,what?,taataga,,,,1
+67182,189,who?,dai,"irregular *s > d",,,1
+67539,190,other,matali,,,,
+67896,191,all,ʔafuta-na,,,16,
+68253,192,and,ma,,,2,1
+68610,193,if,lauta,,,,
+68967,194,how?,ʔuutaa,,,33,
+69324,195,"no, not",ʔamoe,,,,
+69681,196,"to count",idumi-a,,,46,
+70038,197,One,teʔe,,,14,
+70395,198,Two,lua,,,1,1
+70752,199,Three,olu,,,1,1
+71109,200,Four,fai,,,"1,65",1
+146933,201,Five,nima,"five; irregular *l > n",,"1, 15",
+146934,202,Six,ɔnɔ,six,,1,
+146935,203,Seven,fiu,seven,,1,
+146936,204,Eight,kwaru,eight,,3,
+146937,205,Nine,mule,nine,,,
+146938,205,Nine,sikwa,nine,,5,
+146939,206,Ten,taŋafuru,ten,,5,
+146940,209,"One Hundred",taŋalau,"one hundred",,"4, 38",
+146941,209,"One Hundred",taŋalēʔɔla,"one hundred; irregular metathesis of l and ŋ",,39,
+146942,210,"One Thousand","tɔʔɔni ɔia","one thousand",,30,

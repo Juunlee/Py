@@ -1,0 +1,258 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+25,Mota,"Blust, From Codrington & Palmer (1896)",mtt,mota1237,"Codrington, R.H. & Palmer, J. (1896). A dictionary of the language of Mota, Sugarloaf Island, Banks Islands. London: Society for Promoting Christian Knowledge",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, North and Central Vanuatu, Northeast Vanuatu-Banks Islands, East Vanuatu","Simon Greenhill","Simon Greenhill","@book{20301,  address    = {London},  pages      = {343},  publisher  = {Society for Promoting Christian Knowledge},  title      = {A dictionary of the language of Mota, Sugarloaf Island, Banks Islands},  year       = {1896},  bibtexkey  = {codrington-palmer_mota-sugarloaf1896},  fn         = {papua\codrington_mota-dictionary1896.pdf, papua\codrington-palmer_mota1896.pdf},  hhtype     = {grammar_sketch;dictionary},  inlg       = {English [eng]},  inlg_code  = {eng},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#sd:CodringtonPalmer:Mota},  author     = {Codrington, Robert and Palmer, Jim}}"
+latitude,longitude
+-13.72473892694067032494,168.21367854466890889853
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+25,1,hand,panei,,,14,
+382,2,left,galao,,,14,
+739,3,right,matua,(<M),,"5, 37",1?
+1096,4,leg/foot,raŋoi,,,17,
+1453,5,"to walk",van[o],,,2,1
+1810,6,road/path,mate-sala,,,"1, 43",1
+2167,7,"to come","vano ma",,,"23,1",
+2524,8,"to turn",viro,,,24,?
+71767,9,"to swim",gagao,,,5,
+71768,9,"to swim",garu,,,5,
+71808,10,dirty,lepa,,,9,
+71809,10,dirty,pulua,,,67,
+3595,11,dust,wuwua,,,"1, 50",
+3952,12,skin,vinitiu,,,28,
+72010,13,back,tagir,,,12,
+72011,13,back,kulai,,,10,
+4666,14,belly,toqai,"phonet. /tokpʷa-i/",,36,
+5023,15,bone,sur[iu],,,52,
+5380,16,intestines,tinai,,,1,1
+5737,17,liver,varai,,,17,
+6094,18,breast,sus[iu],,,1,1
+6451,19,shoulder,qatagpanei,,,"36,65?",
+6808,20,"to know, be knowledgeable",gilala,,,18,
+7165,21,"to think",nonom,"actually <*dodomi",,13,1
+7522,22,"to fear",gogolo,"cf mataataa (rare)",,57,
+7879,23,blood,nara,,,1,1
+8236,24,head,qatiu,,,9,
+8593,25,neck,nenei,,,63,
+8950,26,hair,ului,,,31,
+9307,27,nose,manui,,,14,
+9664,28,"to breathe",mapsag,,,14,
+10021,29,"to sniff, smell",soman,,,15,
+10378,30,mouth,valai,,,42,
+10735,31,tooth,liwoi,,,"1,35",1
+11092,32,tongue,garamʷea|i,,,"7, 14",
+11449,33,"to laugh",mʷarae,,,87,
+73052,34,"to cry",taŋ[i],"note semantics",,1,1
+73053,34,"to cry",rarao,"note semantics",,68,1
+12163,35,"to vomit",lua,,,8,
+12520,36,"to spit",anus,,,"14, 84",
+12877,37,"to eat",gan[a],,,"1,12",1
+13234,38,"to chew",gat,*kaRat,,22,
+73361,39,"to cook",taru,,,9,
+73362,39,"to cook",ur,,,9,
+73363,39,"to cook",tun/tin,,,9,
+73460,40,"to drink",un,,,"1, 50",1
+73461,40,"to drink",ima,,,51,1
+73529,41,"to bite",ŋau,,,42,
+73530,41,"to bite",ŋit,,,58,
+73605,42,"to suck",sus,,,25,1
+73606,42,"to suck",sis,,,25,1
+15019,43,ear,qoroi,,,16,
+15376,44,"to hear",roŋo|tag,,,"1, 55",1
+15733,45,eye,matai,,,1,
+16090,46,"to see",ilo,,,14,
+16447,47,"to yawn",mamaova,,,19,1?
+16804,48,"to sleep",matur,,,1,1
+17161,49,"to lie down",risa,,,75,
+17518,50,"to dream",qore,,,10,
+17875,51,"to sit",pute,,,116,
+74094,52,"to stand",tira,,,54,?
+74095,52,"to stand",tur,,,"2, 69",?
+18589,53,"person/human being",ta-nun,,,"4, 51",1?
+18946,54,man/male,ata,"[AF] means 'person', not 'male'",,14,
+19303,55,woman/female,vavine,,,"1,106",1
+74348,56,child,mʷera,,,8,
+74349,56,child,natiu,,,5,
+20017,57,husband,rasoai,,,"2, 64",
+20374,58,wife,rasoai,,,1,
+20731,59,mother,veve,,,20,
+91301,60,father,mama,,,"1, 10",1
+91302,60,father,tamai,,,1,
+21445,61,house,imʷa,,,1,1
+21802,62,thatch/roof,no-ota,"<M sago leaf'",,"1, 61",
+22159,63,name,sasai,,,"1, 34",1?
+74740,64,"to say",vava,,,13,
+74741,64,"to say",vet,,,47,
+22873,65,rope,tali,"(Tryon ?ae)",,1,1
+23230,66,"to tie up, fasten",vil,,,,
+23587,67,"to sew",susur,,,"15, 59",
+24301,69,"to hunt",ganagana,(Tryon),,,
+24658,70,"to shoot",tiqa,,,8,
+75280,71,"to stab, pierce",as,,,34,
+75281,71,"to stab, pierce",sar,,,14,
+75362,72,"to hit",tut,,,8,
+75363,72,"to hit",vus,,,86,
+25729,73,"to steal",palu,,,23,
+26086,74,"to kill","vus mate",,,"26, 2",
+26443,75,"to die, be dead",mate,,,1,1
+26800,76,"to live, be alive",es,"maur in compounds",,24,
+75613,77,"to scratch",gagata,,,1?,1?
+75614,77,"to scratch",karu,,,44,1?
+27514,78,"to cut, hack",tara,,,1,1
+27871,79,stick/wood,tan-gae,,,1?,1?
+28228,80,"to split",[gara]wora,,,1,1
+28585,81,sharp,tup,,,,
+28942,82,"dull, blunt",qatwono,,,15?,
+29299,83,"to work",mawmawui,,,29,
+29656,84,"to plant",riv,,,9,
+30013,85,"to choose",ilo-raka,,,30,
+30370,86,"to grow",totou,,,4,
+76263,87,"to swell",riga,,,23,
+76264,87,"to swell",sis,,,11?,
+76346,88,"to squeeze",gavir,,,,
+76347,88,"to squeeze",totos,,,,
+31441,89,"to hold",taur,"note semantics of alternatives",,35,
+76488,90,"to dig",gil,,,1,1?
+76489,90,"to dig",nur,,,,1?
+76562,91,"to buy",girei,,,48,1
+76563,91,"to buy",wol,,,1,1
+32512,92,"to open, uncover",tawalag,,,55,
+32869,93,"to pound, beat",tipa,,,12?,
+33226,94,"to throw",vivir,,,30,
+33583,95,"to fall",mʷas[u],,,57,
+33940,96,dog,kurut,,,"7, 76, 77",
+34297,97,bird,manu,,,1,1
+34654,98,egg,toliu,,,1,1
+35011,99,feather,ul[ui],,,1,1
+35368,100,wing,panei,,,2,1
+104665,101,"to fly",rowo,"rowo - only in compounds?",,1,1
+104666,101,"to fly",gawa,,,14?,
+36082,102,rat,gasuwe,,,3,
+36439,103,meat/flesh,visogoi,,,10,
+36796,104,fat/grease,garake,,,39,
+37153,105,tail,goloi,,,24,
+37510,106,snake,mʷata,,,12,
+37867,107,"worm (earthworm)",sulate,,,"1,8",
+38224,108,louse,wut,,,1,1
+38581,109,mosquito,nam[u],,,1,1
+38938,110,spider,marawa,,,32,1
+39295,111,fish,iga,,,1,1
+39652,112,rotten,naru,,,19,
+40009,113,branch,waŋarai,,,,
+77766,114,leaf,no,,,1,1
+77767,114,leaf,naui,,,1,1
+40723,115,root,gariu,(<+wakaRi?),,"2, 41",?
+41080,116,flower,tawaga|siu,,,34,
+41437,117,fruit,woai,,,"1, 26",?
+41794,118,grass,valis,,,1,1
+42151,119,earth/soil,tano,,,1,1
+42508,120,stone,vat,,,1,1
+42865,121,sand,one,,,1,1
+43222,122,water,pei,,,28,
+78251,123,"to flow",sale,,,38,1
+78252,123,"to flow",wera,,,31,1
+78304,124,sea,lama,,,14,
+78305,124,sea,nawo,,,42,
+44293,125,salt,nawo,,,30,
+44650,126,lake,"pei lava",,,21,
+78452,127,woods/forest,uta,,,7,1
+78453,127,woods/forest,mʷot,,,60,1
+45364,128,sky,tuka,,,62,
+45721,129,moon,vula,,,1,1
+46078,130,star,vitu,,,1,1
+46435,131,cloud,maligo,,,34,
+46792,132,fog,marav,,,"3, 32",
+47149,133,rain,wena,,,51,
+47506,134,thunder,manu,,,37,
+47863,135,lightning,vila,,,26,
+48220,136,wind,laŋ,<+laNit?),,"1, 77",?
+78970,137,"to blow",sawu,,,12,
+78971,137,"to blow",uw,,,4,
+79066,138,warm,titin,,,12,
+79067,138,warm,titkeliga,,,,
+49291,139,cold,mamarir,,,1,1
+111929,140,dry,mamasa,,,11,1
+111930,140,dry,raŋo,,,"1, 85",
+50005,141,wet,nima,,,,
+50362,142,heavy,mava,,,46,
+50719,143,fire,av,,,1,1
+51076,144,"to burn",siŋ,,,9,
+51433,145,smoke,as[u],,,2,1
+79573,146,ash,tarowo,,,62,
+79574,146,ash,tuwus,,,63,
+52147,147,black,siliga,,,,
+79672,148,white,wowoga,,,"13, 93",
+79673,148,white,aqaga,,,13,
+79723,149,red,memea,,,1,1?
+79724,149,red,soroga,,,,1?
+79773,150,yellow,aŋoaŋo,,,9,
+79774,150,yellow,pepega,,,,
+79810,151,green,gesagesaga,,,8,
+79811,151,green,turturuga,,,70,
+53932,152,small,mantagai,"/rig/ is rare",,,
+79985,153,big,poa,,,50,
+79986,153,big,lava,,,10,
+54646,154,short,qatutui,,,9?,
+55003,155,long,tole,,,,
+55360,156,thin,mavinvin,(<M),,"1, 50",1
+55717,157,thick,matoltol,,,3,
+56074,158,narrow,kokota,,,26,
+56431,159,wide,tawela,,,34,
+111931,160,"painful, sick",gopa,(sick),,"50, 102",
+111932,160,"painful, sick",woso,"(be in pain)",,,
+80432,161,"shy, ashamed",apegalo,,,,
+80433,161,"shy, ashamed",apemaragai,,,34,
+172410,162,old,mosiu,,,"1, 118",
+172411,162,old,tuai,"(of long duration)",,"1, 35",
+57859,163,new,garaqa,,,9,
+58216,164,good,wia,,,1,1
+80664,165,"bad, evil",malkeke,,,,
+80665,165,"bad, evil",tatas,,,"1, 99",
+58930,166,"correct, true",weswes,,,43,
+59287,167,night,qoŋ,,,1,1
+59644,168,day,qoŋ,,,16,
+60001,169,year,tau,,,1,1
+60358,170,when?,[a]ŋaisa,,,"1,24",1
+80982,171,"to hide",liŋarag,,,60?,
+80983,171,"to hide",vara,,,,
+81020,172,"to climb",kalo,,,49,
+81021,172,"to climb",rap,,,37,
+81086,173,at,apegalo,,,,
+81087,173,at,apemaragai,,,,
+81172,174,"in, inside",loloi,,,1,1
+81173,174,"in, inside",a-lo,,,"1,72",1
+81174,174,"in, inside",i-lo,,,"1,26",1
+62143,175,above,avunana,,,,
+62500,176,below,alalaŋana,,,,
+81331,177,this,ike,,,6,
+81332,177,this,iloke,,,,
+81441,178,that,ine,,,1?,1?
+81442,178,that,ilone,,,1?,1?
+81565,179,near,peteŋ,,,,
+81566,179,near,wenwen,,,,
+81567,179,near,rivtag,,,101,
+81635,180,far,sau,,,1,1
+81636,180,far,aras,,,32,1
+64285,181,where?,vea,,,"3,35",
+64642,182,I,[i]nau,,,"1,21,22",1
+64999,183,thou,[i]niko,,,"1, 17, 18",1
+65356,184,he/she,[i]neia,,,"1, 6",1
+111933,185,we,[i]nina,,,1?,?
+111934,185,we,[i]kamam,,,2,
+66070,186,you,"[i] kamiu",,,"1,13",1
+66427,187,they,"[i] neira",,,"1, 33",1
+66784,188,what?,sava,,,1,1
+67141,189,who?,[i]sei,,,1,1
+67498,190,other,tuara,,,61,
+82377,191,all,gese,,,48,
+82378,191,all,nol,,,15,
+82478,192,and,wa,,,56,
+82479,192,and,ta,,,30,
+68569,193,if,menigiu,,,,
+82626,194,how?,gasavai,,,13,
+82627,194,how?,gasei,,,13,
+82628,194,how?,tamʷavea,,,,
+69283,195,"no, not",tagai,,,10,
+69640,196,"to count",liwun,,,"1, 13",
+69997,197,One,tuwale,,,9,
+70354,198,Two,rua,,,1,1
+70711,199,Three,tole,,,1,1
+71068,200,Four,vat,,,"1,65",1
+83757,201,Five,lima,"Five, hand-arm.(Source: Pollex)",,1,

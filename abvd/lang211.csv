@@ -1,0 +1,177 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+211,Gapapaiwa,Blust,pwg,gapa1238,"Pencilled items from Capell (1976)","Can't really tell which is pencilled and which isn't","Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Papuan Tip, Nuclear, North Papuan Mainland-D'Entrecasteaux, Are-Taupota, Are","Simon Greenhill","Simon Greenhill","@misc{Blust-211-2005,  author = \"Blust\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-9.75237013917328532386,149.87548828125000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+211,1,hand,ima-,,,1,1
+568,2,left,duge,,,78,
+925,3,right,kataɣea,,,14,
+1282,4,leg/foot,kai-,,,1,1?
+1639,5,"to walk",bʰabʰa,,,51,
+1996,6,road/path,ketʰa,,,12,
+2353,7,"to come",kepis,,,91,
+2710,8,"to turn",kevikivirem,,,66,
+3067,9,"to swim",ke-yeka,,,92,
+3424,10,dirty,dʰoadʰoa,,,106,
+3781,11,dust,popoku,,,18,
+4138,12,skin,beka-,,,104,
+4495,13,back,kuputua-,,,101,
+4852,14,belly,kamokamo-,,,45,
+5209,15,bone,tuiri-,,,40,
+5923,17,liver,katekate-,,,1,1
+6280,18,breast,susu-,,,1,1
+6994,20,"to know, be knowledgeable",kovi,,,82,
+7351,21,"to think",aninotanota,,,94,
+7708,22,"to fear",yabʰumana,,,82,
+8065,23,blood,tara-,,,1,1?
+8422,24,head,gʰayami,,,77,
+8779,25,neck,iwa-,,,88,
+9136,26,hair,uyawi-,,,,
+9493,27,nose,gia-,,,30,
+9850,28,"to breathe","ia-m ke-tawetawe",,,91,
+10207,29,"to sniff, smell",yoni,,,27,
+10564,30,mouth,kawa-,,,36,
+10921,31,tooth,oke-,,,69,
+11278,32,tongue,pepa-,,,32,
+11635,33,"to laugh",kevinama,,,22,
+11992,34,"to cry",tou,,,8,
+12349,35,"to vomit",goroa,,,39,
+12706,36,"to spit",kanu,,,"14, 84",
+13063,37,"to eat",kanikani,,,1,1
+13777,39,"to cook",gibugibu-i,,,,
+14134,40,"to drink",ke-omai,,,64,
+14491,41,"to bite",kanikani,,,38,
+14848,42,"to suck",so-i,"irregular *u > o, but regular loss of *p/_u",,"1, 82",1
+15205,43,ear,tini-,,,1,?
+15562,44,"to hear",ke-vianei,,,74,
+15919,45,eye,mata-,,,1,1
+16276,46,"to see",ke-kita,,,1,1
+16990,48,"to sleep",ke-kena,,,8,
+17347,49,"to lie down",ke-kena,,,1,?
+18061,51,"to sit",ke-makai,,,154,
+18418,52,"to stand",ke-vomʷiri,,,"1,105",
+18775,53,"person/human being",wawaya,,,88,
+19132,54,man/male,tomoa,,,"70,14",
+19489,55,woman/female,wavine,,,"1,52",1
+19846,56,child,natu-,,,5,
+20203,57,husband,kawa-,},,2,1?
+20560,58,wife,kawa-,},,1,
+20917,59,mother,madua,,,90,
+21274,60,father,mamai,,,"1,10",1?
+21631,61,house,numa,,,"1,49",1?
+21988,62,thatch/roof,katova,,,1,1
+22345,63,name,vava,,,9,
+22702,64,"to say",ke-visisia,,,155,
+23059,65,rope,urava,,,19,
+23416,66,"to tie up, fasten",ke-kuni,,,132,
+23773,67,"to sew",ke-popoi,,,77,
+24487,69,"to hunt",yebaɣa,,,86,
+24844,70,"to shoot",ke-tona,,,46,
+25201,71,"to stab, pierce",ke-tona,,,32,
+25558,72,"to hit",ke-ravi,,,60,
+26272,74,"to kill",kivunu,,,1,1?
+26629,75,"to die, be dead",rabobo,,,10,
+26986,76,"to live, be alive",yawayawa-na,,,10,
+27343,77,"to scratch",giugiu-ra,,,94,
+75744,78,"to cut, hack",dedara,,,,
+75745,78,"to cut, hack",tara,,,1,
+28057,79,stick/wood,keama,,,"1,34",
+28414,80,"to split",riɣa-i,,,91,
+28771,81,sharp,gʰamgʰam-na,,,49,
+29128,82,"dull, blunt",kuku-na,,,79,
+29485,83,"to work",bʰagibʰagi,,,95,
+30913,87,"to swell",gʷaru,,,79,
+76384,88,"to squeeze",botoboto-i,,,81,1?
+76385,88,"to squeeze",vorovoro-i,,,42,1?
+31627,89,"to hold",vovotani,,,37,
+31984,90,"to dig",yabayaba-i,,,63,
+33412,94,"to throw",tawetawe-i,,,74,
+33769,95,"to fall",peku,,,25,
+34126,96,dog,kukou,,,17,
+34483,97,bird,kiu,,,16,
+34840,98,egg,[pou]pouna,,,15,
+35197,99,feather,tʰawara,,,26,
+35554,100,wing,mapemape-na,,,86,
+35911,101,"to fly",rovorovo,,,1,1
+36268,102,rat,waguruma,,,91,
+36625,103,meat/flesh,vio-,,,10,
+36982,104,fat/grease,monamona-na,,,"1,65",1
+37339,105,tail,gʰayamina,,,,
+37696,106,snake,motʰa,,,12,
+38053,107,"worm (earthworm)",motʰamotʰa,,,10,
+38410,108,louse,tuma,,,3,1
+38767,109,mosquito,namokiri,,,1,?
+39481,111,fish,"sia [iana]",,,1?,
+39838,112,rotten,bero-na,,,87,
+40552,114,leaf,rugurugu-na,,,16,
+40909,115,root,ramram-na,,,61,1?
+41266,116,flower,berana,,,17,
+41623,117,fruit,"kivikivivi [ua]",,,1,
+41980,118,grass,inamona,,,97,
+42337,119,earth/soil,"dʰoa [tano]",,,12,
+42694,120,stone,wakima,,,13,
+43051,121,sand,gonugonu,,,,
+43408,122,water,okoa,,,21,
+44122,124,sea,badam,,,,
+44836,126,lake,dogo,(='waterhole'),,,
+45193,127,woods/forest,dʰipa,,,117,
+45907,129,moon,nawaravi,,,13,
+46264,130,star,gʷamegʷame,,,85,
+46621,131,cloud,karekarewa,,,42,
+47335,133,rain,gʰarewa,,,17,
+48049,135,lightning,yasegana,,,,
+48406,136,wind,yanunu,,,,
+48763,137,"to blow",uvena,,,77,
+49120,138,warm,muyamuya-na,,,74,
+49477,139,cold,nubʰanubʰa-na,,,105,
+49834,140,dry,kanakana,,,105,
+50191,141,wet,buta-na,,,20,
+50548,142,heavy,vita-na,,,19,
+50905,143,fire,keama,,,"35,36",
+51262,144,"to burn",kapukapu-ni,,,16,
+51619,145,smoke,bu,,,23,
+51976,146,ash,tupitupi-na,,,,
+52333,147,black,dʰumadʰuma-na,,,21,
+52690,148,white,poipoi-na,,,67,
+53047,149,red,yebayebari-na,,,26,
+54118,152,small,gisi-na,,,121,
+54475,153,big,ɣama-na,,,119,
+54832,154,short,tupo-na,,,31,
+55189,155,long,guri-na,,,21,
+55546,156,thin,nenanena-na,,,55,
+55903,157,thick,tupatupa-na,,,68,
+56260,158,narrow,gisi-na,,,,
+56617,159,wide,nabʰa-na,,,1,
+57688,162,old,wadubo-na,,,x,
+58045,163,new,vu-na,,,"1,26",
+58402,164,good,bʷibʷi-na,,,37,
+58759,165,"bad, evil",bero-na,,,110,
+59116,166,"correct, true",vaɣata,,,,
+59473,167,night,didibʰara,,,79,
+59830,168,day,madʰeɣa,,,,
+60544,170,when?,mean,,,8,
+61972,174,"in, inside",kamonai,,,11,
+63043,177,this,wen,,,1,
+86105,178,that,nan,"nan = near hearer",,1,
+86106,178,that,nokon,"nokon = far from hearer",,,
+63757,179,near,ririmʷai,,,,
+64114,180,far,rabʰarabʰa,,,91,
+64471,181,where?,"meni dobunai",,,13,
+64828,182,I,a,,,x,1
+65185,183,thou,ku,,,x,?
+65542,184,he/she,i,,,1,1
+86346,185,we,ta,,,1,1
+86347,185,we,ka,,,,
+66256,186,you,kakam,,,1,1
+66613,187,they,i,,,42,?
+66970,188,what?,aviavis,,,,
+67327,189,who?,i-ai,,,1,1
+68041,191,all,pearisi,,,,
+69112,194,how?,ikia,,,24,
+69469,195,"no, not",ke,,,23,
+69826,196,"to count",iyiyava,,,67,
+70183,197,One,sagʰo,,,71,
+70540,198,Two,rua,,,1,1
+82977,199,Three,"rua ma sagʰo",,,,
+82978,199,Three,aroba,,,18,
+71254,200,Four,"rua ma rua","< 'two and two'",,,

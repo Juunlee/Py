@@ -1,0 +1,216 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+151,Belait,"Peter Mastin, Informant: Kujur Dukong",beg,bela1260,"as spoken in kg. Bebuloh, Brunei Muasa district. Language known as Belait - [boen] variety",,"Austronesian, Malayo-Polynesian, North Borneo, North Sarawakan, Berawan-Lower Baram, Lower Baram, Central, A","Peng Du","Simon Greenhill","@misc{Mastin-151-2005,  author = \"Peter Mastin\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+4.43404000000000042547,114.33472000000000434738
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+151,1,hand,ŋan,,,18?,
+508,2,left,abiŋ,,,24,
+865,3,right,tuʔau,,,"5,25",1
+1222,4,leg/foot,ɑgiəm,,,,
+1579,5,"to walk",lakau,,,1,1
+1936,6,road/path,alim,,,1,
+2293,7,"to come",ceow,,,,
+2650,8,"to turn",pusɛŋ,,,20,
+3007,9,"to swim",pəlaŋoi,,,1,1
+3364,10,dirty,jamiʔ,,,26,
+3721,11,dust,poʔ,,,1?,1?
+4078,12,skin,kulɛt,,,1,1
+171954,13,back,jũd,,,,
+4792,14,belly,təjin,,,1,1
+5149,15,bone,tulāŋ,,,1,1
+171953,16,intestines,tanaaid,,,,
+5863,17,liver,atay,,,1,1
+6220,18,breast,titay,,,6,
+6577,19,shoulder,barɛh,,,1,1
+6934,20,"to know, be knowledgeable",məciʔ,,,,
+7291,21,"to think",pikir,"loan of 22",L,22,
+7648,22,"to fear",baʔot,,,1?,?
+8005,23,blood,səmā,,,15,
+8362,24,head,ukau,,,1?,
+8719,25,neck,batoʔ,,,35,
+9076,26,hair,soʔ,,,1,1
+9433,27,nose,ndoŋ,,,1,1
+10147,29,"to sniff, smell",madaʔ,,,1,1
+10504,30,mouth,munoŋ,,,21,
+10861,31,tooth,nipan,,,1,1
+11218,32,tongue,dəli,,,4,?
+11575,33,"to laugh",ŋəsɛŋ,,,,
+11932,34,"to cry",mənaŋɛi,,,1,1
+12289,35,"to vomit",mutā,,,1,1
+12646,36,"to spit",juliʔ,(<met?),,28,1?
+13003,37,"to eat",kuman,,,1,1
+13360,38,"to chew",meñiʔ,,,15?,
+13717,39,"to cook",kəsā,,,35,
+14074,40,"to drink",məsap,,,13,
+14431,41,"to bite",gutɛp,,,28,1?
+14788,42,"to suck",məkut,,,,
+15145,43,ear,təliŋah,,,1,1
+15502,44,"to hear",pələtap,,,,
+15859,45,eye,matah,,,1,1
+16216,46,"to see",məlaʔ,,,,
+16573,47,"to yawn",ŋaʔay,,,,
+16930,48,"to sleep",məkil,,,,
+17287,49,"to lie down",lumbay,,,,
+17644,50,"to dream",əndupay,,,1,
+18001,51,"to sit",kəduʔ,,,31,
+18358,52,"to stand",məñit,,,,
+18715,53,"person/human being",buloən,"SIMON: bulo?n",,17?,
+19072,54,man/male,lai,,,2,1
+19429,55,woman/female,turei,,,,
+19786,56,child,ana,,,1,1
+20143,57,husband,banɛh,,,1,1
+20500,58,wife,sabah,,,1,1
+20857,59,mother,tinah,,,1,1
+21214,60,father,tamah,,,1,1
+21571,61,house,amɛn,,,13,
+21928,62,thatch/roof,sapau,,,15,
+22285,63,name,adin,,,1,1
+22642,64,"to say",bəturan,,,19,
+22999,65,rope,talai,,,1,1
+23356,66,"to tie up, fasten",pigɛt,,,1,1
+23713,67,"to sew",maroi,,,,
+24070,68,needle,taud,,,15,
+24784,70,"to shoot",mədil,,,9,
+25141,71,"to stab, pierce",tubiaʔ,,,24,
+25498,72,"to hit",məpoʔ,,,22,
+25855,73,"to steal",manau,,,1,1
+26212,74,"to kill",katay,,,22,
+26569,75,"to die, be dead",matay,,,1,1
+26926,76,"to live, be alive",mulon,,,12,
+27283,77,"to scratch",mariow,,,,
+27640,78,"to cut, hack",totaʔ,,,3,1
+27997,79,stick/wood,kajeow,,,1,1
+28354,80,"to split",piliʔ,,,,?
+28711,81,sharp,sərad,,,,
+172078,82,"dull, blunt",tumol,,,,
+29425,83,"to work",kərəjɛh,,,23,
+29782,84,"to plant",mulah,,,1,1
+30139,85,"to choose",milay,,,1,1?
+30496,86,"to grow",mulon,,,12,
+30853,87,"to swell",kəməmbaŋ,,,20,
+31210,88,"to squeeze",mərah,,,1,1
+31567,89,"to hold",pitin,,,,
+31924,90,"to dig",məkol,,,14,
+32281,91,"to buy",məlɛy,,,1,1
+32638,92,"to open, uncover",mukā,,,1,1
+32995,93,"to pound, beat",mukot,,,,
+33352,94,"to throw",maloŋ,,,,
+33709,95,"to fall",kateow,,,,
+34066,96,dog,asau,,,1,1
+34423,97,bird,məmanoʔ,,,1,1
+34780,98,egg,təjeow,,,1?,
+35137,99,feather,buleow,,,1,1
+35494,100,wing,bərabi,,,,
+35851,101,"to fly",tulon,,,20?,
+36208,102,rat,bəlabeow,,,1,1
+36565,103,meat/flesh,dagɛŋ,,,26,
+36922,104,fat/grease,ləmau,,,24,
+37279,105,tail,jeow,,,,
+37636,106,snake,nipab,,,1,?
+37993,107,"worm (earthworm)",lukɔŋ,,,17,
+38350,108,louse,kuteow,,,1,1
+38707,109,mosquito,naʔ,,,,
+39064,110,spider,kalabaŋ,,,,
+39421,111,fish,putā,,,16,
+39778,112,rotten,buroʔ,,,1,1
+40135,113,branch,diʔin,,,1,1
+40492,114,leaf,daʔon,,,1,1
+40849,115,root,amot,,,3,1
+41206,116,flower,buyɛʔ,,,23?,
+41563,117,fruit,uŋɔən,,,,
+41920,118,grass,umah,,,,
+42277,119,earth/soil,tanaʔ,,,1,1
+42634,120,stone,bateow,,,1,1
+42991,121,sand,rɛt,,,,
+43348,122,water,siʔ,,,,
+43705,123,"to flow",mələŋah,,,,
+44062,124,sea,laut,,,6,
+44419,125,salt,uwai,,,,
+44776,126,lake,sasik,,,,
+45133,127,woods/forest,məran,,,,
+45490,128,sky,laŋit,,,1,1
+45847,129,moon,buliən,,,1,1
+46204,130,star,patā,,,,
+46561,131,cloud,"buleow ndaov","possible photocopy cutoff",,,
+47275,133,rain,pərā,,,,
+47632,134,thunder,gəroəŋ,,,3,
+47989,135,lightning,stɛr,,,,
+48346,136,wind,baroy,,,25,
+171949,137,"to blow",meron,,,,
+49060,138,warm,ləsau,,,22?,
+49417,139,cold,tərəsai,,,,
+49774,140,dry,marā,,,1,
+50131,141,wet,biɛʔ,,,,1?
+50488,142,heavy,bərit,,,1,1
+50845,143,fire,sāb,,,,
+51202,144,"to burn",sundab,"possible photocopy cutoff",,,
+51559,145,smoke,tubɛh,,,,
+51916,146,ash,abeow,,,1,1
+52273,147,black,mətam,,,1,1
+52630,148,white,putay,,,1,1
+52987,149,red,maʔaŋ,,,,
+53344,150,yellow,kuniŋ,,,1,
+53701,151,green,hijau,,,25,
+171950,151,green,gadung,,,,
+54058,152,small,tiʔ,,,,
+54415,153,big,rəjɛh,,,1,1
+54772,154,short,biʔ,,,,1
+55129,155,long,bit,,,26,
+55486,156,thin,ləpɛ,,,1,1
+55843,157,thick,kapal,,,1,1
+56200,158,narrow,səpɛt,,,68,1
+56557,159,wide,rajɛh,,,14?,
+80381,160,"painful, sick",makɛt,,,1,1
+80382,160,"painful, sick",saʔit,,,1,1
+57271,161,"shy, ashamed",məsan,,,,
+57628,162,old,robɛn,,,,
+57985,163,new,bərieu,,,1,1
+58342,164,good,jiʔ,,,1?,1
+58699,165,"bad, evil",saʔat,,,1,1
+59056,166,"correct, true",tuno,,,,
+59413,167,night,lɛm,,,20,
+59770,168,day,ndaow,,,,1
+60127,169,year,taʔon,,,1,1
+60484,170,when?,səkudɛh,,,,
+60841,171,"to hide",təpoʔ,,,,
+172087,171,"to hide",terusau,,,,
+172086,171,"to hide",nusau,,,,
+61198,172,"to climb",mənad,,,16,
+61555,173,at,miʔ,,,23,
+61912,174,"in, inside","[miʔ] alɛm",,,1,1
+62269,175,above,"[miʔ] juŋ",,,,
+62626,176,below,"[miʔ] siou",,,,
+62983,177,this,itɛh,,,10,
+63340,178,that,iɛh,,,,
+63697,179,near,sumiʔ,,,,
+64054,180,far,jau,,,1,1
+64411,181,where?,"miʔ umbah",,,31,
+64768,182,I,kaw,,,1,1
+65125,183,thou,naw,,,,
+65482,184,he/she,n̂ɛh,,,11,
+113949,185,we,kitah,,,1,1
+113950,185,we,kamai,,,2,
+66196,186,you,uñiow,,,,
+66553,187,they,lɛow,,,1,
+66910,188,what?,əmbaij,,,,
+67267,189,who?,nai,,,1?,
+67624,190,other,ləŋan,,,2,
+67981,191,all,kətabɛh,,,,
+68338,192,and,ŋan,,,65,
+68695,193,if,kalau,"Sanskrit jaka + Arabic law 'if'",L,14,
+69052,194,how?,"macam əmba","possible photocopy cutoff",,23,
+172084,194,how?,gembah,,,,
+69409,195,"no, not",ndɛh,,,,
+69766,196,"to count",mudoŋ,,,21,
+70123,197,One,cɛh/səlang,,,1?,
+70480,198,Two,dubɛh,,,1,1
+70837,199,Three,təlau,,,1,1
+71194,200,Four,pāt,,,1,1
+171952,201,Five,limah,,,1,
+171951,202,Six,nam,,,1,
+172083,203,Seven,tujew,,,4,
+172085,204,Eight,marai,,,,
+172082,205,Nine,mupai,,,,
+172081,206,Ten,pulo,,,5,
+172080,209,"One Hundred",merato,,,,
+172079,210,"One Thousand",meribew,,,,

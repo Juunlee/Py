@@ -1,0 +1,254 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+30,Kairiru,"R. Wivell",kxa,kair1263,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Schouten, Kairiru-Manam, Kairiru","Simon Greenhill","Simon Greenhill","@misc{Wivell-30-2005,  author = \"R. Wivell\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-3.35440535760295155399,143.56384277343750000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+30,1,hand,koweñ,,,62,
+387,2,left,ñai,,,19,
+744,3,right,mouwon,,,"1,29",1?
+1101,4,leg/foot,kayeñ,,,1,?
+1458,5,"to walk",vyal,,,116,?
+1815,6,road/path,jyel,,,1,1
+2172,7,"to come",myai,,,1,1
+2886,9,"to swim",iyei,,,,
+3243,10,dirty,jirjir,,,,
+3957,12,skin,quliñ,(his),,1,1
+72012,13,back,kapya-,(his),,111,
+72013,13,back,nirri,(his),,,
+72014,13,back,ñumurri,(his),,3,
+4671,14,belly,tiyeñ,(his),,1,1
+5028,15,bone,jikyap,,,33,
+5385,16,intestines,tinak,(?),,1,1
+5742,17,liver,kurpuñ,(his),,,
+6099,18,breast,sus,,,1,1
+6456,19,shoulder,qarapañ,(his),,1,
+6813,20,"to know, be knowledgeable",touñ,,,1,?
+7170,21,"to think",naq,,,,
+72395,22,"to fear",qu,,,79,
+72396,22,"to fear",quwe,,,79,
+7884,23,blood,jinai,,,31,
+72482,24,head,qarai,"'his head'",,,
+72483,24,head,ipwoñ,"'his head'",,14,
+72484,24,head,sameñ,"'his head'",,69,
+8598,25,neck,nakeñ,(his),,,
+8955,26,hair,yir̃,,,,
+72679,27,nose,isuñ,(his),,1,1
+72680,27,nose,kolañ,(his),,,1
+72681,27,nose,nukalañ,(his),,,1
+72682,27,nose,nar̃uñ,(his),,,1
+9669,28,"to breathe",pui,[N],,,
+72790,29,"to sniff, smell",spu,,,,
+72791,29,"to sniff, smell",spoun,,,,
+72836,30,mouth,puriñ,(his),,57,
+72837,30,mouth,smañ,(his),,,
+10740,31,tooth,ñar̃oñ,(his),,10,
+11097,32,tongue,mamañ,(his),,7,?
+11454,33,"to laugh",ulik,,,,
+73054,34,"to cry",taŋ,,,1,1
+73055,34,"to cry",tiŋ,,,1,1
+12168,35,"to vomit",mumut,,,1,1
+73158,36,"to spit",qanswoi,,,"14, 90",
+73159,36,"to spit",qans,,,"14, 90",
+73208,37,"to eat",moñeq,,,8,1
+73209,37,"to eat",qan,,,1,1
+73299,38,"to chew",jiem,"(Chew Betel)",,65,
+73300,38,"to chew",jm,"(Chew Betel)",,65,
+73301,38,"to chew",jim,"(Chew Betel)",,65,
+86065,39,"to cook",nau,"c.f. 57/58 NB nau 'sear'",,3,1?
+86066,39,"to cook",nou,,,3,
+86067,39,"to cook",nu,,,3,
+13953,40,"to drink",in,,,1,1
+14310,41,"to bite",qan,,,38,?
+15024,43,ear,tiliŋeñ,(his),,1,1
+15381,44,"to hear",ruoŋ,,,1,1
+15738,45,eye,mataŋ,(his),,1,1
+86068,46,"to see",r̃im,"misplaced should be over r",,21,
+86069,46,"to see",r̃ma,,,21,
+86070,46,"to see",r̃om,,,21,
+16809,48,"to sleep",inamyat,,,,
+17166,49,"to lie down",yin,,,1,1
+17523,50,"to dream",miu,,,"1, 37",
+17880,51,"to sit",mor̃,,,18,
+18237,52,"to stand",tu,,,2,1
+18594,53,"person/human being",ramat,,,"1,66",1
+18951,54,man/male,mo|yan,,,1,?
+19308,55,woman/female,mo|in,"cf 102",,"1,51",1?
+74350,56,child,nat,,,5,
+74351,56,child,natu,,,5,
+20022,57,husband,awo,"'mate' cf 39",,2,1
+20379,58,wife,awo,"(his)     'mate' cf 39",,1,1?
+20736,59,mother,tinañ,(his),,1,1
+21093,60,father,tamañ,(his),,1,1
+21450,61,house,pyal,,,14,
+21807,62,thatch/roof,kyat,,,1,1
+74695,63,name,kyes,"asan 'his name'",,"1,18",1
+74696,63,name,asañ,"asan 'his name'",,"1,18",1
+22521,64,"to say",wot,,,,
+22878,65,rope,war̃,,,2,
+74953,66,"to tie up, fasten",snap,,,,
+74954,66,"to tie up, fasten",wop,,,11,
+74955,66,"to tie up, fasten",rij,,,,
+74956,66,"to tie up, fasten",qojkou,,,,
+75079,67,"to sew",sai,,,2,1
+75080,67,"to sew",sit,,,20,1
+24306,69,"to hunt",qumoui,,,,
+75240,70,"to shoot",uq,,,13,
+75241,70,"to shoot",woq,,,13,
+75282,71,"to stab, pierce",uq,,,67,
+75283,71,"to stab, pierce",woq,,,67,
+25377,72,"to hit",un,,,23,
+25734,73,"to steal",vanaq,(adverb),,"1,58",1
+26091,74,"to kill","un myat","(strike die)",,"1, 2",
+26448,75,"to die, be dead",myat,,,1,1
+26805,76,"to live, be alive",ij,,,,
+27162,77,"to scratch",soŋ,,,,
+75669,78,"to cut, hack",ip,,,19,
+75670,78,"to cut, hack",yep,,,19,
+75671,78,"to cut, hack",ipa,,,19,
+27876,79,stick/wood,qai,,,1,1
+75830,80,"to split",ut,,,41,?
+75831,80,"to split",wot,,,41,?
+75832,80,"to split",uta,,,41,?
+75943,81,sharp,is,(V),,,
+75944,81,sharp,yas,(V),,,
+86081,83,"to work",mow,(gen),,,
+86082,83,"to work",niŋa,,,78,
+86083,83,"to work",niŋ,,,78,
+86084,83,"to work",naŋ,,,,
+86087,84,"to plant",visa,taro,,65,
+86088,84,"to plant",vis,yam,,65,
+86089,84,"to plant",vyas,yam,,12,
+86090,84,"to plant",qumu,,,8,
+76164,85,"to choose",fas,,,11,
+76165,85,"to choose",fyas,,,11,
+30732,87,"to swell",manuq,(?),,,
+76348,88,"to squeeze",fuor,"cf 146",,42,1
+76349,88,"to squeeze",furas,"cf 146",,42,1
+76419,89,"to hold",r̃uqu,,,,
+76420,89,"to hold",r̃uoq,,,,
+76564,91,"to buy",ula,,,,
+76565,91,"to buy",wul,,,1,
+76566,91,"to buy",ulau,,,,
+32517,92,"to open, uncover",ivat,,,,
+76676,93,"to pound, beat",tit,"or 20?",,20,1
+76677,93,"to pound, beat",tut,"or 20?",,20,1
+33231,94,"to throw",liq,,,,
+33588,95,"to fall",taqau,,,24,
+33945,96,dog,woñau,,,,
+34302,97,bird,myan,,,1,1
+76978,98,egg,tol,,,1,1
+76979,98,egg,atol,,,1,1
+76980,98,egg,katol,,,1,1
+77033,99,feather,jyaf,"(his) jafon",,12,
+77034,99,feather,jafoñ,"(his) jafon",,12,
+35373,100,wing,panin,,,2,1
+35730,101,"to fly",ruo,"cf 55",,1,1?
+77160,102,rat,qusiu,,,3,
+77161,102,rat,jom,,,,
+36444,103,meat/flesh,mij,,,23,
+36801,104,fat/grease,moñ,,,"1,65",1
+37158,105,tail,yuquñ,,,1,
+37515,106,snake,vaniu,,,41,
+38229,108,louse,qut,,,1,1
+38586,109,mosquito,ñam,,,1,1
+39300,111,fish,jyaj,,,,
+39657,112,rotten,jieq,"< 'bad'",,47,
+40014,113,branch,r̃akeñ,(his),,1,1?
+77768,114,leaf,rouñ,,,1,1
+77769,114,leaf,r̃yau,,,1,1
+40728,115,root,jyal,,,,
+41442,117,fruit,wowuŋ,,,1?,
+41799,118,grass,ururares,,,,
+42156,119,earth/soil,pij,,,16,
+42513,120,stone,puŋ,,,,
+42870,121,sand,lil,,,47,
+43227,122,water,r̃yan,,,1,1
+43941,124,sea,nau,"+Crossed out",,42,
+45012,127,woods/forest,jimwau,,,,
+45369,128,sky,wap,,,,
+45726,129,moon,qareo,,,12,
+46083,130,star,kwai,,,84,
+46440,131,cloud,jim,,,22,
+46797,132,fog,qas,"< POc *qasu 'smoke'",,15,
+47154,133,rain,wus,,,1,1
+47511,134,thunder,aroui,,,,
+47868,135,lightning,milaf,,,,
+78890,136,wind,wau,,,18,
+78891,136,wind,yavar,,,,
+49296,139,cold,mer̃ir̃,,,1,1
+49653,140,dry,maraŋ,,,1,1
+50010,141,wet,japum,,,,
+50367,142,heavy,mau,,,46,
+50724,143,fire,yawos,,,1,
+79443,144,"to burn",lifa,,,29,
+79444,144,"to burn",laf,,,29,
+79445,144,"to burn",lif,,,29,
+51438,145,smoke,luf,,,85,
+51795,146,ash,kyaf,"cf 88",,68,1
+79622,147,black,qurqur,,,13,
+79623,147,black,jirjir,,,,
+52509,148,white,punpun,,,119,?
+52866,149,red,meramer,,,1,1
+53223,150,yellow,yaŋyaŋ,,,9,
+53580,151,green,karep,,,,
+79850,152,small,sqaiñ,,,44,
+79851,152,small,skasek,,,44,
+79987,153,big,lipa,,,,
+79988,153,big,wolap,,,10,
+54651,154,short,r̃ukuñ,(his),,19,
+55008,155,long,milawoñ,(his),,12,
+86097,160,"painful, sick",qis,qis(r),,,
+86098,160,"painful, sick",qusyeŋ,qusyen(n),,,
+57150,161,"shy, ashamed",mayek,,,1,?
+57507,162,old,juk,,,,
+80528,163,new,yivar,,,36,
+80529,163,new,yiviyan,,,36,
+58221,164,good,mokin,,,,
+80666,165,"bad, evil",sek,,,1,1?
+80667,165,"bad, evil",skapai,,,1?,1?
+58935,166,"correct, true",qon,,,,
+59292,167,night,rur̃,,,,
+80863,168,day,pwoñ,"uroryan (daytime)",,x,
+80864,168,day,uror̃yaŋ,"uroryan (daytime)",,6,
+60006,169,year,apil,,,,
+60363,170,when?,saris,,,,
+80984,171,"to hide",r̃yau,,,,
+80985,171,"to hide",qo,,,,
+61077,172,"to climb",vyan,,,1,1
+61791,174,"in, inside",palal,,,,?
+62148,175,above,yet,,,1,
+62505,176,below,lupwoñ,(his),,84,
+62862,177,this,an,,,1,
+86101,178,that,at,"at (near hearer)",,,
+86102,178,that,nai,"nai (away from hearer and speaker)",,,
+63576,179,near,jnapari,,,,
+63933,180,far,i|sau,,,1,1?
+64290,181,where?,piyei,,,,
+64647,182,I,k|yau,,,"1,21",1
+65004,183,thou,yieq,,,,
+65361,184,he/she,ei,,,1,?
+86336,185,we,tuyieq,,,,
+86337,185,we,taqam,,,2,
+86338,185,we,tu,,,66,
+86339,185,we,qait,,,1,
+82028,186,you,qum,,,1,1
+82029,186,you,qam,,,1,1
+82119,187,they,r̃u,,,x,
+82120,187,they,r̃i,,,25,
+82225,188,what?,qaikiu,,,,
+82226,188,what?,jyaukiu,,,,
+67146,189,who?,yit,,,54,
+67503,190,other,tenaqañ,(his),,,
+67860,191,all,pipiŋ,,,,
+68217,192,and,po,,,27,
+68931,194,how?,"ayem pitau",,,,
+82678,195,"no, not",eipai,,,,
+82679,195,"no, not",ponoq,,,,
+82680,195,"no, not",spain,,,,
+70002,197,One,tai,,,14,?
+70359,198,Two,wu|ru,,,1,?
+70716,199,Three,tuol,,,1,1
+71073,200,Four,vyat,,,1,1
+154009,201,Five,vilrri,,,,
+154010,201,Five,lim,,,1,
+154008,202,Six,limtai,,,,

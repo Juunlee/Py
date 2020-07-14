@@ -1,0 +1,230 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+32,Kambera,"Blust, from: Onvlee (1984), Corrections from M. Klamer",xbr,kamb1299,"Onvlee, L. 1984. Kamberaas (Oost-Soembaas) Nederlands woordenboek. Dordrecht: Foris",,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Bima-Sumba","Simon Greenhill","Simon Greenhill","@book{150485,  address    = {Leiden},  pages      = {628},  publisher  = {KITLV},  title      = {Kamberaas-Nederlands woordenboek},  year       = {1984},  bibtexkey  = {onvlee_kamberaas-nederlands1984},  hhtype     = {dictionary},  inlg       = {English [eng]},  inlg_code  = {eng},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#d:Onvlee:Kamberaas},  author     = {Onvlee, Louis}}"
+latitude,longitude
+-9.99049080307027992376,120.38818359375000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+32,1,hand,lima,,,"1,64",1
+389,2,left,kalai,,,5,
+746,3,right,kawana,,,"1,62",1
+1103,4,leg/foot,wihi,,,5,
+1460,5,"to walk",laku,,,1,1
+1817,6,road/path,ànda,,,19,
+2174,7,"to come",mai,,,1,1
+2531,8,"to turn",puuti,,,1?,
+2888,9,"to swim",ŋeni,<M,L,"1,45",1
+3245,10,dirty,marihaku,,,3,
+3602,11,dust,kaŋabu,,,,
+3959,12,skin,manula,,,6,
+4316,13,back,kajia,,,,
+4673,14,belly,kambu,,,2,
+5030,15,bone,rii,,,2,
+5387,16,intestines,tanai,,,1,1
+5744,17,liver,eti,,,1,1
+6101,18,breast,huhu,,,1,1
+6458,19,shoulder,kuundu,,,4,
+6815,20,"to know, be knowledgeable",piiŋu,,,6,
+7172,21,"to think",kanalu,,,29,
+7529,22,"to fear",madetu,,,1,
+7886,23,blood,"[wai] ria",,,"1,58",
+8243,24,head,katiiku,,,6,
+8600,25,neck,ŋgoru,,,6,
+8957,26,hair,luŋgi,,,6,
+9314,27,nose,uru,,,1,1
+9671,28,"to breathe",kayeku,,,3,
+10028,29,"to sniff, smell",haŋudu,,,4,
+10385,30,mouth,ŋaru,,,7,
+10742,31,tooth,ŋandu,,,5,
+11099,32,tongue,l|ama,,,6,?
+11456,33,"to laugh",riki,,,6,
+11813,34,"to cry",hī,,,55,
+12170,35,"to vomit",mutta,,,1,1
+12527,36,"to spit",ilu,,,6,
+12884,37,"to eat",ŋaŋu,,,3,
+13241,38,"to chew",ñama,"mamalu in Onvlee 1984",,3,?
+13598,39,"to cook","manahu uhu",,,"3,107",1
+13955,40,"to drink",unuŋu,,,1,1
+14312,41,"to bite",kati,,,1,1?
+73607,42,"to suck",harebit,,,3,
+73608,42,"to suck",habubbu,,,3,
+15026,43,ear,kahilu,,,"1,4",
+15383,44,"to hear",roŋu,,,1,1
+15740,45,eye,mata,,,1,1
+16097,46,"to see",ita,,,1,1
+16454,47,"to yawn",yaʔi,,,2,
+16811,48,"to sleep",mahurru,,,1,1
+17168,49,"to lie down",taŋgiluŋu,,,,
+17525,50,"to dream",maŋgadipaŋ,,,"1,60,4",
+90796,51,"to sit",uhuku,,,8,
+90797,51,"to sit",mandapu,,,6,
+18239,52,"to stand",ndualaku,,,7,
+18596,53,"person/human being",tau,,,1,1
+18953,54,man/male,mini,,,1,1
+19310,55,woman/female,kawini,,,"1,41,109",1
+19667,56,child,ana,,,1,1
+20024,57,husband,lei,,,6,
+20381,58,wife,"kuru umang",,,2?,
+20738,59,mother,ina,,,1,1
+21095,60,father,ama,,,1,1
+21452,61,house,uma,,,1,1
+21809,62,thatch/roof,kawuku,,,,
+22166,63,name,tamu,,,4,
+74748,64,"to say",wana,,,5,
+74749,64,"to say",pani,,,5,
+22880,65,rope,liku,,,5,
+23237,66,"to tie up, fasten",hondu,,,4,
+23594,67,"to sew",utu,,,3,
+23951,68,needle,utu,,,2,
+24308,69,"to hunt",patamaŋu,,,3,
+24665,70,"to shoot",băndil,,,37,
+25022,71,"to stab, pierce",hunju,,,37,
+25379,72,"to hit",palu,,,1,1
+75451,73,"to steal",wăhi,,,,
+75452,73,"to steal",maŋaŋa,,,"1,59,60",
+26093,74,"to kill",pameti,,,2,
+26450,75,"to die, be dead",meti,,,1,1
+26807,76,"to live, be alive",l|uri,,,"1,26",1
+27164,77,"to scratch",pakauru,,,1,?
+75672,78,"to cut, hack",kadipu,,,5,
+75673,78,"to cut, hack",kambăra,,,,
+27878,79,stick/wood,ai,,,1,1
+75833,80,"to split",biŋgăru,,,,1
+75834,80,"to split",wăka,,,36,1
+28592,81,sharp,daka,,,4,
+92429,82,"dull, blunt",katumbul,,,3,?
+92430,82,"dull, blunt",buli,,,6,
+29306,83,"to work",ramma,,,4,
+29663,84,"to plant",tonduŋ,,,,
+30020,85,"to choose",pindi,,,2,?
+30377,86,"to grow",tumbu,,,1,
+30734,87,"to swell",mboa,,,32,
+31091,88,"to squeeze",pijar,,,,
+31448,89,"to hold",yappa,,,,
+31805,90,"to dig",akki,,,4,
+32162,91,"to buy",diŋi,,,,
+32519,92,"to open, uncover",buŋgăhu,,,1,
+32876,93,"to pound, beat",bai,,,1,1?
+33233,94,"to throw",tukku,,,5,
+33590,95,"to fall",kanabu,,,"1,105",1
+33947,96,dog,ahu,,,1,1
+34304,97,bird,mahawuruŋu,,,5,?
+34661,98,egg,tilu,,,1,1
+35018,99,feather,wulu,,,1,1
+35375,100,wing,"ruu kàpa",,,1,?
+35732,101,"to fly",hawuruŋu,,,5,
+36089,102,rat,kalaʔu,,,"1,83",?
+104716,103,meat/flesh,toluŋu,,,4,1
+104717,103,meat/flesh,ihi,,,31,
+77273,104,fat/grease,miña,,,1,1
+77274,104,fat/grease,mbuaka,,,5,1
+77275,104,fat/grease,mina,,,1,1
+37160,105,tail,k|iku,,,1,1
+37517,106,snake,ularu,,,2,1
+77414,107,"worm (earthworm)",ŋeli,,,3,
+77415,107,"worm (earthworm)",ñeli,,,3,
+38231,108,louse,wutu,,,1,1
+38588,109,mosquito,kalomuhu,,,,
+38945,110,spider,ŋgiiŋgi,,,3,
+39302,111,fish,iaŋu,,,1,1
+105187,112,rotten,muhuŋu,,,4,
+105188,112,rotten,mbai,,,5,
+40016,113,branch,karàŋga,,,2?,
+40373,114,leaf,rau,,,1,1
+40730,115,root,amu,,,3,1
+41087,116,flower,mbuŋa,,,1,1
+41444,117,fruit,wua,,,1,1
+41801,118,grass,rumba,,,47,
+42158,119,earth/soil,tana,,,1,1
+42515,120,stone,watu,,,1,1
+42872,121,sand,wara,,,1?,?
+43229,122,water,wai,,,2,1
+105474,123,"to flow",kajijiru,,,,
+105475,123,"to flow",njanjaru,,,,
+43943,124,sea,tehiku,,,1,1
+44300,125,salt,mehi,,,"3,45",
+44657,126,lake,tàma,,,4,
+45014,127,woods/forest,omaŋ,,,,
+45371,128,sky,awaŋu,,,7,
+45728,129,moon,wulaŋu,,,1,1
+46085,130,star,kadunnu,,,,
+46442,131,cloud,karummaŋu,,,1,
+46799,132,fog,mahu,,,7,
+47156,133,rain,uraŋu,,,1,1
+47513,134,thunder,kabàla,,,7,
+47870,135,lightning,kabilăk,,,"26,6",
+48227,136,wind,ŋilu,,,5,
+78972,137,"to blow",hapui,,,1?,
+78973,137,"to blow",jiliru,,,1?,
+48941,138,warm,mbana,,,1,1
+49298,139,cold,mariŋu,,,1,1
+79213,140,dry,madu,,,,
+79214,140,dry,mara,,,1,
+50012,141,wet,mbaha,,,1,1
+50369,142,heavy,mbotu,,,1,1
+79370,143,fire,api,,,1,1
+79371,143,fire,epi,,,1,1
+51083,144,"to burn",tunnu,,,1,1
+51440,145,smoke,kawu,,,35,
+51797,146,ash,awu,,,1,1
+52154,147,black,mitiŋŋu,,,43,1
+52511,148,white,bara,,,3,
+52868,149,red,rara,,,5,
+53225,150,yellow,wiŋir,,,4,
+53582,151,green,muru,,,4,
+53939,152,small,kudu,,,"2?,40",
+54296,153,big,bakulu,,,5,
+54653,154,short,kababa,,,54,1
+118204,155,long,malai,,,5,
+118205,155,long,madita,,,7,
+55367,156,thin,manipa,,,1,1
+55724,157,thick,timbi,,,7,
+56081,158,narrow,kahukulu,,,5,
+80305,159,wide,mbalar,,,2,1?
+80306,159,wide,malau,,,2,1?
+56795,160,"painful, sick",hidu,,,4,
+57152,161,"shy, ashamed",makéa,,,1,
+57509,162,old,kawiada,,,5,
+57866,163,new,bidi,,,,
+58223,164,good,hamu,,,6,
+58580,165,"bad, evil",kajaliku,,,,
+58937,166,"correct, true",padeniŋu,,,5,
+59294,167,night,ruduŋu,,,7,
+59651,168,day,"tido lodu",,,12,1
+60008,169,year,ndauŋ,,,1,1
+60365,170,when?,piraŋ,,,"1,65",1
+60722,171,"to hide",kawiniŋu,,,1,
+61079,172,"to climb",hē,,,4?,
+61436,173,at,la,,,2,
+61793,174,"in, inside",[hu]dalu,,,1,1
+62150,175,above,dita,,,5,
+62507,176,below,wawa,,,1,1
+62864,177,this,jiana,,,,
+63221,178,that,nina,,,1,1
+63578,179,near,mareni,,,1,1
+63935,180,far,marau,,,"1,6",1
+64292,181,where?,laŋgii,,,5,
+64649,182,I,ñuŋga,,,3,
+65006,183,thou,ñumu,,,2,
+65363,184,he/she,ñuna,,,,
+118206,185,we,ñu|ta,,,1,1
+118207,185,we,ñuma,,,2,
+66077,186,you,ñimi,,,,1
+66434,187,they,ñu|da,,,1,1
+66791,188,what?,ŋgara,,,5,
+67148,189,who?,ŋgamu,,,6,
+67505,190,other,hawiaŋu,,,3,
+67862,191,all,"mbulu ndabana",,,7,
+68219,192,and,daŋu,,,4,
+68576,193,if,jeaka,,,4,?
+68933,194,how?,ŋgikina,,,5,
+69290,195,"no, not",ndia,,,2,1
+69647,196,"to count",kira,,L,32,
+70004,197,One,d|iha,,,1,1?
+70361,198,Two,dua,,,1,1
+70718,199,Three,tilu,,,1,1
+71075,200,Four,patu,,,1,1
+89251,201,Five,lima,,,1,
+89252,202,Six,nomu,,,1,
+89253,203,Seven,pihu,,,1,
+153154,204,Eight,walu,,,3,
+89608,205,Nine,hiwa,,,5,
+153155,206,Ten,mbulu,,,5,

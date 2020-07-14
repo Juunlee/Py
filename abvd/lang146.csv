@@ -1,0 +1,194 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+146,Wogeo,Blust,woc,woge1237,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Schouten, Kairiru-Manam, Manam","Peng Du","Simon Greenhill","@misc{Blust-146-2005,  author = \"Robert A. Blust\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-3.22827101125263515868,144.10217285156250000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+146,1,hand,lima-,,,1,1
+503,2,left,ŋasi-,,,19,
+860,3,right,wana-,,,1,1
+1217,4,leg/foot,wae-,,,"1, 100",1
+71554,5,"to walk",kʷa,,,70,1
+71555,5,"to walk",lako,,,1,1
+1931,6,road/path,jala,,,1,1
+2288,7,"to come",wot,,,32,
+2645,8,"to turn",tabúl,,,32,
+3002,9,"to swim",ŋaraŋar,,,15,
+3359,10,dirty,ñañ,,,135,
+3716,11,dust,fuŋa,,,,
+4073,12,skin,kusi-,"cp. Ubir",,50,?
+4430,13,back,katkai-,,,,
+4787,14,belly,nupu-,,,,
+5144,15,bone,kijap,,,33,
+5501,16,intestines,tai,,,29,?
+5858,17,liver,mʷage-,,,1,
+6215,18,breast,ñoño,cp.MLG,,3,1?
+6929,20,"to know, be knowledgeable",malevam,,,130,
+7286,21,"to think",yamayama,,,,
+7643,22,"to fear",-geva,,,,
+8000,23,blood,dara,,,1,1
+8357,24,head,katoŋa-,,,,
+8714,25,neck,vea-,,,,
+9071,26,hair,kisa,,,,
+9428,27,nose,ŋarili-,,,63,
+9785,28,"to breathe",yaburo,,,,
+10142,29,"to sniff, smell",tunup,,,,
+10499,30,mouth,wawa-,,,36,?
+10856,31,tooth,ŋaro-,,,10,
+11213,32,tongue,meme-,,,7,
+11570,33,"to laugh",yawe,,,61,
+11927,34,"to cry",taŋ,,,1,1
+12284,35,"to vomit",kumʷaŋ,,,,
+12641,36,"to spit",kusu,,,"14, 89",
+12998,37,"to eat",kaba|kan,,,"1,53",1?
+89667,39,"to cook",tunu,,,9,1
+89668,39,"to cook",nasi,,,3,
+14069,40,"to drink",ini,,,1,1
+14426,41,"to bite",karát,,,1,1
+14783,42,"to suck",soso|raki,"irregular *u > o",,1,?
+15140,43,ear,talŋa-,,,1,1
+15497,44,"to hear",o-roŋo,,,1,1
+15854,45,eye,mata-,,,1,1
+16211,46,"to see",o-domei,,,21,
+16568,47,"to yawn",mʷawa,,,19,1
+16925,48,"to sleep",o-yeno,,,8,
+17282,49,"to lie down",o-yeno,,,1,1
+17996,51,"to sit",mʷaro,,,18,
+18353,52,"to stand",ti,,,2,
+18710,53,"person/human being",ramata,,,"1,66",1?
+19067,54,man/male,natnat,"< *natu 'child'",,67,
+19424,55,woman/female,veine,,,"1,106",1
+19781,56,child,natu-,,,5,
+20138,57,husband,yawa-,,,2,?
+20495,58,wife,yawa-,,,1,
+20852,59,mother,tina-,,,1,1
+21209,60,father,tama-,,,1,1
+21566,61,house,ruma,,,1,1
+21923,62,thatch/roof,vato,,,1,1
+22280,63,name,vava-,,,9,
+22637,64,"to say",fila,,,81,
+22994,65,rope,waro,,,2,
+23351,66,"to tie up, fasten",roti,,,,
+75087,67,"to sew",susu,,,"17, 48",
+75088,67,"to sew",turei,,,13,
+24065,68,needle,reb,,,,
+24422,69,"to hunt",kalakʷa,,,,
+24779,70,"to shoot",fani,"cf 172",,1,1
+25136,71,"to stab, pierce",unu,,,19,
+25493,72,"to hit",dabʷaraki,,,,
+25850,73,"to steal",vanako,,,"1,58",1
+26207,74,"to kill",la|unu,,,1,1
+26564,75,"to die, be dead",tavál,,,39,
+26921,76,"to live, be alive",kemʷaro,,,42,
+27278,77,"to scratch",oyóŋ,,,85,
+27635,78,"to cut, hack",kalafolo,,,,
+27992,79,stick/wood,ka,,,1,1
+28349,80,"to split",bʷarei,,,,
+28706,81,sharp,ma|táj,,,36,1
+29063,82,"dull, blunt",bʷare,,,,
+29420,83,"to work",maníf,,,61,
+30848,87,"to swell",i-tub,,,12,
+31205,88,"to squeeze",fisei,,,"29,34",?
+31562,89,"to hold",sinai,,,,
+31919,90,"to dig",kel,,,1,1
+33347,94,"to throw",jelebou,,,,
+33704,95,"to fall",takawa,,,24,
+34061,96,dog,ke,,,17,
+34418,97,bird,man,,,1,1
+34775,98,egg,ŋ|atol,,,1,1?
+35132,99,feather,jafa,,,12,
+35489,100,wing,baji,,,20,
+35846,101,"to fly",rowo,,,1,1
+36203,102,rat,kusive,,,3,
+36560,103,meat/flesh,mija,,,23,
+36917,104,fat/grease,sasau,,,91,
+37274,105,tail,iku,,,1,1
+37631,106,snake,kef,,,,
+37988,107,"worm (earthworm)",kefkef,,,,
+38345,108,louse,kut,,,1,1
+38702,109,mosquito,ñam,,,1,1
+39059,110,spider,lawa,,,1,1
+39416,111,fish,ika,,,1,1
+39773,112,rotten,i-jika,"< 'bad'",,47,
+40130,113,branch,nakarak,,,55,
+40487,114,leaf,da,,,1,1?
+40844,115,root,koro,,,37,
+41201,116,flower,jula[r],,,,
+41915,118,grass,sirisiri,,,20,
+42272,119,earth/soil,jer,,,,
+42629,120,stone,bʷer,,,,
+42986,121,sand,kabura,,,96,
+43343,122,water,dan,,,"1,61",1
+43700,123,"to flow",ñor,(?),,49,
+44057,124,sea,"dan ba",,,,
+44414,125,salt,boka,,,34,
+44771,126,lake,yaŋawa,,,,
+45128,127,woods/forest,bulum,,,,
+45485,128,sky,laŋ,,,1,1
+45842,129,moon,kaleva,,,12,
+46199,130,star,itu,,,1,1
+46556,131,cloud,jim,"black raincloud?",,22,
+46913,132,fog,ŋaf,,,106,
+47270,133,rain,buna,,,,
+47627,134,thunder,giriri,,,,
+47984,135,lightning,wala,,,57,
+48341,136,wind,wasa,,,19,
+48698,137,"to blow",yuyureki,,,,
+49055,138,warm,mata,,,,
+49412,139,cold,kʷel,,,,
+49769,140,dry,mamasa,,,11,?
+50126,141,wet,dandan,,,19,
+50483,142,heavy,mava,,,46,
+50840,143,fire,ioa,,,1,
+51197,144,"to burn",tunu,,,1,1
+51554,145,smoke,k|as,,,2,1?
+51911,146,ash,bunata,,,,
+52268,147,black,jim,,,16,
+52625,148,white,buŋa,,,119,
+52982,149,red,war,,,59,
+53339,150,yellow,kawera,,,,
+53696,151,green,gig,,,,
+54053,152,small,buti,,,,
+54410,153,big,bitaŋa,,,,
+54767,154,short,dubu,,,,
+55124,155,long,salagalaga,,,20,
+55481,156,thin,baninini,,,,?
+55838,157,thick,tiketike,,,,
+56195,158,narrow,buti,,,,
+56552,159,wide,bitaŋa,,,,
+57266,161,"shy, ashamed",ogeva,,,,
+57623,162,old,wama,,,,
+57980,163,new,kainini,,,,
+58337,164,good,kaliŋo,,,,
+58694,165,"bad, evil",rababaia,,,,
+59051,166,"correct, true",enekawa,,,,
+59408,167,night,taum,,,,
+59765,168,day,jam,,,70,
+60122,169,year,baras,,,14,
+60479,170,when?,yakav|isa,,,,1?
+61193,172,"to climb",fani,cf.70,,1,1
+61550,173,at,i,,,1,1
+61907,174,"in, inside",lo,,,1,1
+63335,178,that,kate,,,,
+63692,179,near,seriŋa,,,22,
+64049,180,far,kasa,,,1,
+64406,181,where?,kaba,,,86,
+64763,182,I,va,,,,?
+65120,183,thou,iko,,,1,1
+65477,184,he/she,ia,,,1,1
+82005,185,we,kita,"ara (?)",,1,1
+82006,185,we,ara,"ara (?)",,,1
+66191,186,you,kam[im],,,"1,13",1
+66548,187,they,ar,,,25,
+66905,188,what?,yakanta,,,,
+67262,189,who?,ete,,,54,
+67976,191,all,kita,,,,
+69047,194,how?,kakiba,,,,
+69761,196,"to count",wayo,,,,
+70118,197,One,ta,,,14,
+70475,198,Two,rua,,,1,1
+70832,199,Three,tol,,,1,1
+71189,200,Four,kʷik,,,,
+153186,201,Five,boxoba,,,,
+153185,202,Six,bwarago,,,,
+153184,203,Seven,bwetol,,,,
+153183,204,Eight,kikirua,,,,

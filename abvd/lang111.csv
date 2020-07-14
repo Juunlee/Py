@@ -1,0 +1,181 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+111,"Peterara (Maewo)","Blust, from Tryon unpublished word list",mwo,cent2058,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, North and Central Vanuatu, Northeast Vanuatu-Banks Islands, East Vanuatu","Debasish Roy","Simon Greenhill","@misc{Tryon-111-2005,  author = \"Darrell Tryon\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-15.12515887858529417542,168.14575195312500000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+111,1,hand,lima-,,,1,1
+468,2,left,xalawa-,,,14,
+825,3,right,mataua-,,,"5, 37",1
+1182,4,leg/foot,raŋo-,,,17,
+1539,5,"to walk",xao,,,62,
+1896,6,road/path,sala,,,1,1
+2253,7,"to come",xuma,,,1,?
+2610,8,"to turn",ndiɣerisi,,,115,
+2967,9,"to swim",xaxaru,,,5,
+3324,10,dirty,maeto,,,2,
+3681,11,dust,ndixefu,,,1?,
+4038,12,skin,finu-,,,28,
+4395,13,back,taxu-,,,12,
+4752,14,belly,taŋgwaŋi-,,,13,
+5109,15,bone,suri-,,,52,
+5466,16,intestines,tinae-,,,1,1
+5823,17,liver,fara-,,,17,
+6180,18,breast,susu-,,,1,1
+6537,19,shoulder,tiŋgwa-,"*bw > gw?",,"40,65?",
+6894,20,"to know, be knowledgeable",roŋonduni,,,"19, 91",
+7251,21,"to think",ndondo,,,13,1
+7608,22,"to fear",mataxuti,,,1,1
+7965,23,blood,ndae-,,,1,1?
+8322,24,head,ŋgwatu-,,,9,
+8679,25,neck,xaua-,,,"18, 104",
+9036,26,hair,ulu-,,,31,
+9393,27,nose,lisu-,,,"1,41",1?
+9750,28,"to breathe",mambusi,,,14,
+10107,29,"to sniff, smell",mbuna,,,42,
+10464,30,mouth,fin|xusu-,,,,
+10821,31,tooth,liwo-,,,"1,35",1
+11178,32,tongue,luame-,,,"7, 17",
+11535,33,"to laugh",ma-na,,,51,
+11892,34,"to cry",ŋara,,,5,
+12249,35,"to vomit",lulue,,,8,
+12606,36,"to spit",xura,,,35,
+12963,37,"to eat",xani,,,1,1
+14034,40,"to drink",unu,,,"1, 50",1
+14391,41,"to bite",ndere,,,59,
+14748,42,"to suck",unu,,,"49, 53",
+15105,43,ear,ŋgmoro-,,,16,
+15462,44,"to hear",roŋo,,,1,1
+15819,45,eye,mata-,,,1,1
+16176,46,"to see",saŋgwe,,,,
+16890,48,"to sleep",maturu,,,1,1
+17247,49,"to lie down",eno,,,1,1
+17961,51,"to sit",taxwara,,,99,
+18318,52,"to stand",tulu,,,"2, 69",
+18675,53,"person/human being",ta-tu,,,"4,34",?
+19032,54,man/male,tatoata,,,"84, 14",
+19389,55,woman/female,fafine,,,"1,106",1
+19746,56,child,natu-,,,5,
+20103,57,husband,tumbu-,,,71,
+20460,58,wife,ŋgauliŋgu,,,,
+20817,59,mother,rerefe,,,58,
+21174,60,father,tama-,,,1,1
+21531,61,house,fale,,L?,14,
+22245,63,name,sasa-,,,"1, 34",1?
+22602,64,"to say",feve,,,"13, 103",
+22959,65,rope,xawe,,,25,
+23316,66,"to tie up, fasten",liɣo,,,"1,39",
+23673,67,"to sew",tuxuru,,,13,
+24387,69,"to hunt",saro,,,30,
+108340,70,"to shoot",vene,,,1,
+25101,71,"to stab, pierce",xoso,"< M?",,83,
+25458,72,"to hit",rambati,,,,
+26172,74,"to kill",wasi,,,12,
+26529,75,"to die, be dead",mate,,,1,1
+26886,76,"to live, be alive",ŋwaso,,,37,
+27243,77,"to scratch",taŋgari,,,"12, 28",
+75701,78,"to cut, hack",tai,,,1,1?
+75702,78,"to cut, hack",teve,,,40,1?
+27957,79,stick/wood,xai,,,1,1
+28314,80,"to split",ndara,,,62,
+28671,81,sharp,mataxani,,,14,
+29385,83,"to work",rombana,,,47?,
+30813,87,"to swell",rixa,,,23,
+31170,88,"to squeeze",fifiri,,,16,
+31527,89,"to hold",tori,,,35,
+31884,90,"to dig",xili,,,1,1
+33312,94,"to throw",xwosaxi,,,92?,
+33669,95,"to fall",soe,,,13,
+34026,96,dog,hwiriu,,,"7, 75, 77, 80",
+34383,97,bird,manu,,,1,1
+34740,98,egg,"tol toa",,,1,1
+35097,99,feather,ulu-na,,,1,
+35454,100,wing,mbani-na,,,2,1
+35811,101,"to fly",xaxa,,,14,
+36168,102,rat,xarifi,,,18,
+36525,103,meat/flesh,fasixo-na,,,10,
+36882,104,fat/grease,rixas,,,80,
+37239,105,tail,xolo-na,,,24,
+37596,106,snake,ŋwaxata,,,"12, 64",
+38310,108,louse,ŋwandi,,,30,
+38667,109,mosquito,namu,,,1,1
+39024,110,spider,taxaxa,,,"8,78",
+39381,111,fish,masi,,,53,
+39738,112,rotten,ndaru,,,19,
+40452,114,leaf,ndahwai,,,48,
+40809,115,root,xori,<M,,"2, 41",
+41166,116,flower,matas,,,34?,
+41523,117,fruit,wei,,,"1, 26",
+41880,118,grass,mbalisi,,,"1, 81",1
+42237,119,earth/soil,tano,,,1,1
+42594,120,stone,fatu,,,1,1
+42951,121,sand,one,,,1,1
+43308,122,water,mbei,,,28,
+44022,124,sea,tasi,,,1,1
+44379,125,salt,tasi,,,20,1
+45093,127,woods/forest,utaxwono,,,7,?
+45450,128,sky,"tae laŋi","prob. misunderstanding for 131",,"1, 61",1
+45807,129,moon,xula,,,1,?
+46164,130,star,fitiu,,,1,1
+46521,131,cloud,"tae laŋi",,,"36, 3",
+46878,132,fog,fififi,,,11,
+47235,133,rain,wusa,,,1,1
+47592,134,thunder,manfara,,,"15, 37",
+47949,135,lightning,xwaŋa,,,12,
+48306,136,wind,laŋi,,,"1, 77",?
+48663,137,"to blow",ufi,,,4,
+49020,138,warm,tutunu,"probably a verb",,12,
+49377,139,cold,mandiŋi,,,1,1?
+49734,140,dry,mamasa,,,11,
+50091,141,wet,saŋwale,,,43,
+50448,142,heavy,ndemu,,,,
+50805,143,fire,afi,,,1,1
+51162,144,"to burn",sulu,,,4,
+51519,145,smoke,asu,,,2,1
+51876,146,ash,taniaxu,,,"1,26",
+52233,147,black,maeto,,,1,1
+52590,148,white,oxwoxwo,,,13,
+52947,149,red,memea,,,1,1
+53304,150,yellow,aŋoxa,,,9,
+53661,151,green,malxesaxa,,,"8, 43",
+54018,152,small,riŋgriŋgi,,,66,
+54375,153,big,maŋasi,,,114,
+54732,154,short,ŋwandiŋwandi,,,,
+55089,155,long,mbambarau,,,16,
+55446,156,thin,manifnifi,,,1,
+55803,157,thick,mamatoluxa,,,3,1
+56874,160,"painful, sick",seŋwa,,,111,
+57588,162,old,ŋoixa,,,133,
+57945,163,new,araŋgwa,,,9?,
+58302,164,good,hwia,,,1,
+58659,165,"bad, evil",sati,,,1,?
+59016,166,"correct, true",hwia,,,,1?
+59373,167,night,ŋgwoŋi,,,1,
+59730,168,day,rani,,,6,1
+60087,169,year,ndamu,,,30,1
+60444,170,when?,taŋgasa,,,"1,47",
+61872,174,"in, inside",lolo,,,1,
+62943,177,this,ela,,,62,
+63300,178,that,ndaɣalia,,,,
+63657,179,near,fifirtaxi,,,,
+64014,180,far,soai,,,1,
+64371,181,where?,mbeɣe,,,3?,
+64728,182,I,n|au,,,"1,21,22",
+65085,183,thou,n|iŋgo,,,"1, 17, 18",1
+65442,184,he/she,ia,,,1,1
+113861,185,we,xinda,,,1,1
+113862,185,we,ŋgomai,,,2,
+66156,186,you,ŋgamu,,,1,1
+66513,187,they,ira,,,"1, 70",1
+66870,188,what?,asa,,,"1, 33",1
+67227,189,who?,ise,,,1,
+67941,191,all,xunuɣi,,,,
+68298,192,and,ti,,,30,
+68655,193,if,ato,,,79,
+69012,194,how?,ndasia,,,,
+69369,195,"no, not",xwatea,,,,
+69726,196,"to count",falu,,,"1, 13",
+70083,197,One,tea,,,14,
+70440,198,Two,rua,,,1,
+70797,199,Three,tolu,,,1,1
+71154,200,Four,fati,,,"1,65",1
+172413,201,Five,tafalima,,,"1, 12?",

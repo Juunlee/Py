@@ -1,0 +1,244 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+125,Singhi,"Blust, from: Reijffert (1956)",sne,baub1235,"Reijffert, Fr. A. (1956). Vocabulary of English and Sarawak Land Dayak (Singhi tribe). Sarawak Government Printer Kuching : 1956.",,"Austronesian, Malayo-Polynesian, Land Dayak, Bidayuh, Core, Western","Debasish Roy","Simon Greenhill","@book{319956,  address    = {Kuching},  pages      = {64},  publisher  = {Sarawak Government Office},  title      = {Vocabulary of English &Sarawak Land Dyak (Singhi tribe)},  year       = {1956},  bibtexkey  = {reijffert_dyak-singhi1956},  fn         = {papua\reijffert_singhi1956.pdf},  hhtype     = {dictionary},  inlg       = {English [eng]},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#d:Reijffert:Singhi},  author     = {Reijffert, A.}}"
+latitude,longitude
+1.31824000000000007837,110.34668000000000631644
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+125,1,hand,toŋan,,,18,
+482,2,left,bait,,,7,
+839,3,right,toux,,,"5,25",1
+1196,4,leg/foot,pĕun,,,,
+1553,5,"to walk",ponu,,,2,1
+1910,6,road/path,aran,,,1,1
+2267,7,"to come",nug,,,,
+2624,8,"to turn",kus,,,,
+2981,9,"to swim",naŋuy,,,1,1
+71828,10,dirty,kais,,,,
+71829,10,dirty,sirida,,,,
+71906,11,dust,abux,,,1,1
+71907,11,dust,sapok,,,1,1
+4052,12,skin,kurit,,,1,1
+4409,13,back,dug,,,,
+4766,14,belly,tain,"[< m]",,1,1
+5123,15,bone,turaŋ,,,1,1
+5837,17,liver,atin,,,1,1
+6194,18,breast,saduë,,,,
+6551,19,shoulder,papi,,,16,
+6908,20,"to know, be knowledgeable",puan,,,,
+7265,21,"to think","saka ŋasuŋ",,,,
+7622,22,"to fear",toru,,,,
+7979,23,blood,doya,,,1,1
+8336,24,head,bak,,,,
+8693,25,neck,tuŋoĕ,,,34?,
+9050,26,hair,boek,,,1,1
+9407,27,nose,nuŋ,"cf. Rejang",,1?,1?
+9764,28,"to breathe",masuŋ,,,23,
+10121,29,"to sniff, smell",koduk,,,1,1
+10478,30,mouth,boba,,,1,1
+10835,31,tooth,jupen,,,1,1
+11192,32,tongue,jorah,,,4,1?
+11549,33,"to laugh",tauwix,,,1,1
+11906,34,"to cry",sien,,,,
+12263,35,"to vomit",ŋutah,,,1,1
+12620,36,"to spit",ŋujah,,,1,1
+12977,37,"to eat",man,,,1?,?
+73312,38,"to chew",mopa,fix,,,
+73313,38,"to chew",ñugis,fix,,,
+13691,39,"to cook",tunuk,,,1,1
+14048,40,"to drink",nuoh,,,1?,
+73552,41,"to bite",siŋüt,,,,?
+73553,41,"to bite",kuut,,,1?,?
+73648,42,"to suck",ñuop,,,,1
+73649,42,"to suck",ŋisap,,,1,1
+15119,43,ear,kojit,,,,
+15476,44,"to hear",kidiŋah,,,1,1
+15833,45,eye,botun,,,,
+16190,46,"to see",kirin,,,,
+16547,47,"to yawn",kuab,,,19,1
+16904,48,"to sleep",boĕs,,,,
+74010,49,"to lie down",guriŋ,,,54,
+74011,49,"to lie down",biroñoŋ,,,,
+17618,50,"to dream",pimux,,,,
+17975,51,"to sit",guru,,,,
+18332,52,"to stand",mojug,,,,?
+18689,53,"person/human being",dayah,,,,
+19046,54,man/male,dari,,,,
+19403,55,woman/female,dayuŋ,,,,
+19760,56,child,anak,,,1,1
+20117,57,husband,bonun,,,1?,
+20474,58,wife,sowen,,,1,1
+20831,59,mother,sinĕ,,,1,1
+21188,60,father,sama,,,1,1
+21545,61,house,romin,,,"13,1?",
+74665,62,thatch/roof,toñah,,,,
+74666,62,thatch/roof,iraw,,,,
+22259,63,name,adun,,,1,1
+74796,64,"to say",naŋ,,,,
+74797,64,"to say",tanen,,,,
+22973,65,rope,taris,,,1,1
+23330,66,"to tie up, fasten",mökes,,,,
+23687,67,"to sew",nopuŋ,,,,
+24044,68,needle,tos,,,,
+75193,69,"to hunt",ŋokaŋ,,,,
+75194,69,"to hunt",ñipa,,,,
+24758,70,"to shoot",nimak,,,49,
+25115,71,"to stab, pierce",nijub,,,22?,
+25472,72,"to hit",obox,,,22,
+25829,73,"to steal",noku,,,1,1
+75509,74,"to kill",ŋabus,,,,
+75510,74,"to kill",ñüu,,,,
+26543,75,"to die, be dead",kobus,,,,
+26900,76,"to live, be alive",idip,,,1,1
+27257,77,"to scratch",gayu,,,1,1?
+27614,78,"to cut, hack",ñopa,,,,
+27971,79,stick/wood,koyux,,,1,1
+28328,80,"to split",birieh,,,1,1?
+28685,81,sharp,roya,,,,
+75994,82,"dull, blunt",tajü,,,,
+75995,82,"dull, blunt",papu,,,,
+29399,83,"to work",kimiñaŋ,,,,
+29756,84,"to plant",purux,,,,
+30113,85,"to choose",piris,,,1,1
+30470,86,"to grow",tumuh,[?],,1,1
+30827,87,"to swell",bokak,,,19,
+92604,88,"to squeeze",miset,,,27,?
+92605,88,"to squeeze",ŋapit,,,28,
+31541,89,"to hold",bikaguŋ,,,1?,
+31898,90,"to dig",karis,,,1?,1
+32255,91,"to buy",miris,,,,1
+32612,92,"to open, uncover",buka,,,1,1
+32969,93,"to pound, beat",nutuk,,,2,1
+76750,94,"to throw",ñokad,,,,
+76751,94,"to throw",mout,,,,
+33683,95,"to fall",rabu,,,1,1?
+34040,96,dog,kosoŋ,,,,
+34397,97,bird,manuk,,,1,1
+34754,98,egg,turuoŋ,,,1?,?
+35111,99,feather,burun,,,1,1
+35468,100,wing,[i]rad,,,23,?
+77140,101,"to fly",bikabur,,,34,
+77141,101,"to fly",timirib,,,,
+77166,102,rat,birog,,,,
+77167,102,rat,digoŋ,,,,
+36539,103,meat/flesh,asin,,,31,1
+36896,104,fat/grease,puak,,,,
+77342,105,tail,[u]kon,,,1,?
+77343,105,tail,ukuĕ,,,1,?
+37610,106,snake,dipux,,,1?,
+77429,107,"worm (earthworm)",tomux,,,,
+77430,107,"worm (earthworm)",ratuŋ,,,,
+38324,108,louse,gitux,,,1,1
+38681,109,mosquito,piruŋaŋ,,,,
+39038,110,spider,toka,,,,
+39395,111,fish,[i]kien,,,1,1
+77666,112,rotten,maduĕ,,,,
+77667,112,rotten,modam,,,25,
+40109,113,branch,daan,,,1,1
+40466,114,leaf,dawun,,,1,1
+77835,115,root,at,,,1,1
+77836,115,root,bokah,,,2,1
+77895,116,flower,suat,,L,,
+77896,116,flower,sara,,L,,
+41537,117,fruit,bua,,,1,1
+41894,118,grass,dux,,,52?,
+42251,119,earth/soil,tanah,,,1,1
+42608,120,stone,batux,,,1,1
+78129,121,sand,sumat,,,,
+78130,121,sand,pasir,,,18,
+43322,122,water,piin,,,,
+43679,123,"to flow",siriet,,,,
+44036,124,sea,raut,,,6,
+44393,125,salt,garoĕ,,L,18,
+44750,126,lake,danu,,,1,1
+45107,127,woods/forest,torun,,,30,
+45464,128,sky,roŋit,,,1,1
+45821,129,moon,buran,,,1,1
+46178,130,star,bitaŋ,,,1,
+46535,131,cloud,abun,,,1,1
+46892,132,fog,abun,,,27,
+47249,133,rain,[i]jan,,,1,1
+47606,134,thunder,dudu,,,2,?
+78857,135,lightning,kijat,,,1,1?
+78858,135,lightning,kuniŋ,,,,1?
+48320,136,wind,sobak,,,,
+48677,137,"to blow",yup,,,1,1
+79086,138,warm,boŋuh,,,,
+79087,138,warm,putiak,,,,
+79148,139,cold,madud,,,,
+79149,139,cold,mobus,,,,
+49748,140,dry,bodux,,,,
+50105,141,wet,bisah,,,1,1
+50462,142,heavy,baat,,,1,1
+50819,143,fire,opui,,,1,1
+79477,144,"to burn",ñaux,,,,1
+79478,144,"to burn",ninux,,,1?,1
+51533,145,smoke,asux,,,49?,1
+51890,146,ash,abux,,,1,1
+52247,147,black,suŋut,,,,
+113898,148,white,budah,,,26,
+113899,148,white,mopuk,,,1,
+52961,149,red,biriĕ,,,,
+53318,150,yellow,sia,,,,
+53675,151,green,idip,,,,
+79878,152,small,sit,,,,?
+79879,152,small,monik,,,19,?
+54389,153,big,ayux,,,1,1
+80103,154,short,kodit,,,,
+80104,154,short,kodĕ,,,,
+55103,155,long,omu,,,,
+55460,156,thin,ridiĕ,,,,
+55817,157,thick,tabar,,,26,
+80262,158,narrow,sikitok,,,1,
+80263,158,narrow,sapit,,,68,
+56531,159,wide,dar,,,,?
+80372,160,"painful, sick",monam,,,,
+80373,160,"painful, sick",minõt,,,,
+80453,161,"shy, ashamed",dasa,,,,
+80454,161,"shy, ashamed",moŋuh,,,,
+57602,162,old,ñoma,,,,
+57959,163,new,baux,,,1,
+80588,164,good,pagux,,,,1
+80589,164,good,konak,,,,1
+58673,165,"bad, evil",jaat,,,1,
+113900,166,"correct, true",tuk,,,6,1
+113901,166,"correct, true",bonar,,,1,
+59387,167,night,ŋarom,,,20,1
+59744,168,day,anu,,,,
+60101,169,year,sowa,,,,1
+60458,170,when?,siniĕ,,,,
+60815,171,"to hide",sukan,,,12,
+81049,172,"to climb",jikux,,,,
+81050,172,"to climb",tapaŋ,,,,
+61529,173,at,daaŋ,,,,
+61886,174,"in, inside",daaŋ,,,73,
+81261,175,above,"dĕ somu",,,,
+81262,175,above,"dĕ tun",,,1?,
+81293,176,below,"dĕ dau",,,,
+81294,176,below,riboeʔ,,,,
+62957,177,this,itis̟ð̙̞̞,,,10,
+63314,178,that,inu,,,1,?
+63671,179,near,sinuk,,,,1
+64028,180,far,juĕ,,,1?,
+64385,181,where?,"tiŋ ki",,,,1
+64742,182,I,aku,,,1,
+81878,183,thou,iŋan,,,1,1
+81879,183,thou,muu,,,1,1
+65456,184,he/she,iyox,,,1,
+113902,185,we,attĕ,,,1,1
+113903,185,we,kais,,,,
+66170,186,you,iŋan,,,,1
+66527,187,they,iyox,,,,
+66884,188,what?,oni,,,2,
+67241,189,who?,osi,,,1?,
+67598,190,other,[a]kun,,,10,1
+67955,191,all,"suĕ porug",,,,
+82504,192,and,duech,,,,
+82505,192,and,toban,,,,
+68669,193,if,komu,,,11,
+69026,194,how?,onimun,,,,?
+69383,195,"no, not",idex,,,,
+113904,196,"to count",niap,,,2,
+113905,196,"to count",bibiraŋ,,,1,
+70097,197,One,nikan,,,1?,1
+70454,198,Two,duex,,,1,
+70811,199,Three,tarux,,,1,1
+71168,200,Four,pat,,,1,1

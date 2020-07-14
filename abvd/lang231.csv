@@ -1,0 +1,243 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+231,"Numbami (Siboma)","Joel Bradshaw",sij,numb1247,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Huon Gulf, Numbami","Peng Du","Simon Greenhill","@misc{Bradshaw-231-2005,  author = \"Joel Bradshaw\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-7.05203390993310019752,147.77902541592919760660
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+231,1,hand,nima,,,"1,66",1
+588,2,left,kaze,,,15,
+945,3,right,ano,,,20,
+1302,4,leg/foot,ae,,,1,1
+1659,5,"to walk",-pa-andalowa,,,"2, 64",
+2016,6,road/path,andalawa,"<+in(s,j) ala path, t+awa inside or mother or AUG/DIM",,1,1?
+2373,7,"to come",-ma,,,1,1
+2730,8,"to turn",-kawewe,,,,
+87899,9,"to swim",-yuma,bathe,,94,
+87900,9,"to swim","-kota tina","'pass through freshwater/river'",,90,
+87901,9,"to swim","-kota tai","'pass through saltwater/sea'",,90,
+3444,10,dirty,kele,,,10,
+3801,11,dust,bom,"fr. NAN Paiewa",L,,
+87994,12,skin,usi,"skin as covering",,50,
+87995,12,skin,bolo,"skin as body, colon, health",,,
+4515,13,back,dumakai,,,61,
+4872,14,belly,tae,"bobdaba (chest), bobo (abdomen)",,19,
+5229,15,bone,tuatua,,,"1,10",
+5586,16,intestines,tae[lalo],,,29,?
+5943,17,liver,ate,,,1,1
+6300,18,breast,susu,,,1,1
+6657,19,shoulder,bageyala,,,30,
+7014,20,"to know, be knowledgeable",-yale,"fr. Yabem",L,118,
+7371,21,"to think",taewembi,belly-holds,,,
+7728,22,"to fear",-mandi,"<*matai <*matau",,1,1?
+8085,23,blood,masina,,,7,
+8442,24,head,dabola,,,43,
+8799,25,neck,gidu,,,66,
+9156,26,hair,"[dabola] uli",,,3,
+9513,27,nose,nisinowa,nosehole,,27,?
+88658,28,"to breathe","-so yagawa",exhale,,83,?
+88659,28,"to breathe","-you yagawa",inhale,,83,
+10227,29,"to sniff, smell",-numusu,,,,
+10584,30,mouth,alolo,,,,
+10941,31,tooth,niwo,,,1,
+11298,32,tongue,amala,,,7,
+11655,33,"to laugh",-momola,,,3?,
+12012,34,"to cry",-taŋi,,,1,1
+12369,35,"to vomit",-luwa,,,8,
+12726,36,"to spit",-kanzuwa,,,19,
+13083,37,"to eat",-ani,,,1,1
+73340,38,"to chew",-ŋaŋawi,,,8,
+73341,38,"to chew","-ani bua",,,63,
+13797,39,"to cook","-nisi bani","boil food, +a>,i cf.70 +b>t,i cf 74,120",,,1
+14154,40,"to drink",-numu,,,1,1?
+73579,41,"to bite",-saŋa,,,,
+73580,41,"to bite",-you,,,,
+90035,42,"to suck",-pipia[susu],squeeze,,,
+90036,42,"to suck",-numu,"drink; irregular *i > u",,"50, 36",
+15225,43,ear,taŋanowa,ear,,1,1
+15582,44,"to hear",-loŋoni,,,"1, 36",1
+15939,45,eye,matano,"eye true",,1,1
+16296,46,"to see",-yoŋgo,,,,
+16653,47,"to yawn",-maŋgawa,splitmouth,,,
+17010,48,"to sleep","-iye wai","wai: completive",,,
+17367,49,"to lie down",-iye,,,98,
+17724,50,"to dream",-niniwi,,,"1, 60",1
+18081,51,"to sit",-ndosua,,,"18,152",
+18438,52,"to stand",-walasa,,,,
+18795,53,"person/human being",tamtamoŋa,,,68,
+74235,54,man/male,kole,,,,
+74236,54,man/male,tamota,,,"12,14",
+19509,55,woman/female,ewa,,,58,
+74394,56,child,kolapa,"'boy, young man'",,45,
+74395,56,child,natu,offspring,,5,
+20223,57,husband,asowa,,,2,1
+20580,58,wife,asowa,,,1,
+74500,59,mother,awa,,,85,1
+74501,59,mother,tina,,,1,1
+91331,60,father,mama,,,"1,10",1
+91332,60,father,tama,,,1,
+21651,61,house,kapala,,,1,
+22008,62,thatch/roof,atawa,,,1,1
+22365,63,name,ase,"cf Lau?",,"1,18",?
+22722,64,"to say",-ŋgo,,,,
+23079,65,rope,walasa,,,2,
+23436,66,"to tie up, fasten",-yota,,,,
+23793,67,"to sew",-sali,,,50,
+24150,68,needle,salina,"R>l. cf.78",,1,1?
+24507,69,"to hunt",-ŋgewe,,,,
+24864,70,"to shoot",-wani,,,1,1
+25221,71,"to stab, pierce",-so,,,67,
+25578,72,"to hit",-lapa,,,42,
+25935,73,"to steal","-pai wena",,,"1,32",1
+26292,74,"to kill","-lapa uni",,,"42,1",1
+26649,75,"to die, be dead","-mande uni",,,1,1
+27006,76,"to live, be alive",matalalaya,,,,
+27363,77,"to scratch",wale,,,12,
+27720,78,"to cut, hack",-tala,,,1,1
+92307,79,stick/wood,"ai papaka","board / plank",,1,1
+92308,79,stick/wood,"ai pambu","log shape",,,
+28434,80,"to split",-waga,,,32,
+28791,81,sharp,mata,,,36,
+29148,82,"dull, blunt","mata mou","sharp none",,x,
+29505,83,"to work","-pai kulakua",,,,
+29862,84,"to plant","-so [iwoya]","iwoya: seed, shoot, sucker",,28,
+30219,85,"to choose","-kelele gi","set apart",,,
+30576,86,"to grow",-tumbu,,,1,1
+30933,87,"to swell",-woni,,,77,
+31290,88,"to squeeze",-pipia,,,21,?
+31647,89,"to hold",gugumi,,,1,1?
+32004,90,"to dig",-tawi,,,59,
+93490,91,"to buy",-baga,(arch.),,,
+93491,91,"to buy",-ambuli,"(semi calque fr. Yabem)",,,
+32718,92,"to open, uncover",-wosa,"Verb of manner + wosa",,,
+33075,93,"to pound, beat",-lapa,,,,
+33432,94,"to throw",-tiŋa,,,110,
+33789,95,"to fall",-peka,(intr),,25,
+34146,96,dog,kiyami,,,42,
+34503,97,bird,mani,,,1,1
+34860,98,egg,ketu,,,1,?
+35217,99,feather,[mani]uli,,,1,1
+35574,100,wing,bagelau,,,16,
+35931,101,"to fly",-lowa,,,1,1
+36288,102,rat,gobe,,,,
+36645,103,meat/flesh,wiso,,,10?,
+37002,104,fat/grease,didi,,,69,
+37359,105,tail,unae,,,,
+37716,106,snake,mota,,,12,
+38073,107,"worm (earthworm)",mota,,,10,
+38430,108,louse,tuma,,,3,1
+38787,109,mosquito,kawanda,,,67,
+39144,110,spider,lala,,,1,1?
+39501,111,fish,iya,,,1,1
+39858,112,rotten,sapupu,,,,
+40215,113,branch,[ai]lakalaka,,,1,
+40572,114,leaf,[ai]lau,,,1,1
+40929,115,root,woka,,,2,?
+41286,116,flower,plawa,(English),L,,
+41643,117,fruit,aiano,,,,
+42000,118,grass,kalasi,(English),L,,
+42357,119,earth/soil,puta,"cf YAP",,41,?
+42714,120,stone,wati,,,1,1
+43071,121,sand,alundi,,,93,
+43428,122,water,tina,,,,
+43785,123,"to flow",-zuzula,,,79,
+44142,124,sea,tai,,,1,1
+44499,125,salt,tai,,,20,
+44856,126,lake,"tina kapulawa","water round",,,
+45213,127,woods/forest,weni,,,,
+45570,128,sky,gulubu,,,25,
+45927,129,moon,kambalaŋa,,,,
+46284,130,star,gitimana,,,,
+46641,131,cloud,bubuluma,,,21,
+46998,132,fog,yawaluŋu,,,,
+47355,133,rain,usana,,,1,1
+47712,134,thunder,dubeleleki,,,,
+48069,135,lightning,"sa iwewe","'it flashes'",,,
+48426,136,wind,aula,,,,
+48783,137,"to blow",-pusie,,,6,
+49140,138,warm,wawana,,,1,1
+49497,139,cold,luluwila,,,77,
+79276,140,dry,masoso,,,11,
+79277,140,dry,-mamasa,,,11,
+50211,141,wet,totowi,,,,
+50568,142,heavy,bunama,,,,1
+50925,143,fire,yawi,,,1,?
+122771,144,"to burn",-lalaŋi,"scald / burnt skin",,75,
+122772,144,"to burn",-mbosi,roast,,,
+122773,144,"to burn",-tutuni,"set fire",,1,
+122774,144,"to burn",yaweni,fire-eat,,,
+51639,145,smoke,yabokole,,,,
+122473,146,ash,"yawi gaula",black,,,
+122474,146,ash,wowai,white,,,
+52353,147,black,kikiya,,,,
+52710,148,white,usouso,,,34,
+53067,149,red,misina,"cf. blood",,"50,75",
+53424,150,yellow,meyaŋo,,,9,
+53781,151,green,daŋala,,,,
+79922,152,small,kae,,,,
+79923,152,small,kateako,,,,
+80029,153,big,bamo,,,,
+80030,153,big,boboŋa,,,24,
+80120,154,short,tula,,,,
+80121,154,short,tupe,,,,
+55209,155,long,molosa,,,5,
+55566,156,thin,yawayawa,,,53,
+55923,157,thick,dendeliŋa,,,,
+56280,158,narrow,kateako,small,,,
+56637,159,wide,bamo,big,,,
+123026,160,"painful, sick",-witi,ache,,110,
+123027,160,"painful, sick",-mata,"be sick",,71,
+57351,161,"shy, ashamed",memeya,,,1,1
+122475,162,old,embamoto,[F],,,
+122476,162,old,kombamoto,[M],,,
+58065,163,new,wou,,,"1,26",1
+58422,164,good,wiya,,,1,1
+58779,165,"bad, evil",maya,,,,
+80793,166,"correct, true",ano,truth,,17,
+80794,166,"correct, true",biŋano,truth,,17,
+59493,167,night,towambana,,,,
+59850,168,day,yawela,sun,,,
+60207,169,year,damana,pleiades,,80,
+122477,170,when?,gesina-ma,past,,1,
+122478,170,when?,gesina-go,future,,1,
+60921,171,"to hide","-uŋa ata",reflexive,,1,
+61278,172,"to climb",-pi,,,14,
+61635,173,at,iye,"it-lie/be at",,,
+61992,174,"in, inside",lalo,,,1,1
+120851,175,above,wao,above,,2,1
+120852,175,above,dudu,"on top",,,
+120853,175,above,gawagawa,"up above",,,
+89918,176,below,idubu,underneath,,,
+89919,176,below,owe,below,,,
+129289,177,this,tatena,1p,,68,
+129290,177,this,tatona,2p,,68,
+63420,178,that,koena,3p,,,
+63777,179,near,-tabiŋa,"be closest to",,20,
+64134,180,far,"-iye molosa","it lie far",,,
+64491,181,where?,"iye tenda","it.lie, where",,,
+64848,182,I,woya,,,"1,21",
+65205,183,thou,aiya,,,35,?
+65562,184,he/she,e,,,1,1?
+123689,185,we,aita,,,1,1
+123690,185,we,i,,,,
+66276,186,you,amu,,,1,1
+66633,187,they,ai,,,,
+66990,188,what?,sawa,,,1,1
+67347,189,who?,sai,,,1,1
+67704,190,other,mainama,,,,
+68061,191,all,tiyamama,,,,
+68418,192,and,wa,,,,?
+68775,193,if,iŋgo,says,,,
+69132,194,how?,"ka kaitenda",,,,
+122479,195,"no, not",mou,none,,73,
+122480,195,"no, not",kote,not,,,
+69846,196,"to count",-wete,,,,
+70203,197,One,sesemi,,,1,
+70560,198,Two,luwa,,,1,1
+70917,199,Three,toli,,,1,1
+71274,200,Four,wata,,,1,1
+172026,201,Five,"nima teula",,,"1,15",
+172025,202,Six,"Nima teula ano sesem",,,,
+172024,203,Seven,"nima teula ano lua",,,,
+172023,204,Eight,"nima teula ano toli",,,,
+172022,205,Nine,"nima teula ano wata",,,,
+172021,206,Ten,"nima besua",,,,
+172020,207,Twenty,"tamota te","'man one'",,32,

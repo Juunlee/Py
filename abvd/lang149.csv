@@ -1,0 +1,212 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+149,"Anejom (Aneityum)","John Lynch",aty,anei1239,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, South Vanuatu, Aneityum","Peng Du","Simon Greenhill","@misc{Lynch-149-2005,  author = \"John Lynch\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-20.19003509582258359956,169.82666015625000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+149,1,hand,nijma-,,,59,1
+506,2,left,inm̃awu-,,,"1,59",1?
+863,3,right,inmata-,,,5,1
+1220,4,leg/foot,neθuo-,,,75,
+1577,5,"to walk",atŋa,,,106,
+1934,6,road/path,nefalañ,,,47,
+2291,7,"to come",apam,,,"1,24",
+2648,8,"to turn",auhañ,,,122,
+3005,9,"to swim",aŋaŋ,,,1?,
+3362,10,dirty,emeñ,,,109,
+3719,11,dust,inm̃a,,,96,
+4076,12,skin,narase-,,,20,
+4433,13,back,inɣehe-,,,111,
+4790,14,belly,nipjinetŋa-,,,72?,
+5147,15,bone,neθuo-,,,52,
+5504,16,intestines,nawiiti-,,,79,
+5861,17,liver,inmop̃o-,,,7,
+6218,18,breast,neθeθ,,,1,1
+6575,19,shoulder,nili-,,,75,
+6932,20,"to know, be knowledgeable",atou,,,1,1?
+7289,21,"to think",ataktai,,,62,
+7646,22,"to fear",emtaɣ,,,1,1
+8003,23,blood,inja,,,1,?
+8360,24,head,nitjini-,,,48,
+8717,25,neck,nawunwa-,,,18,
+9074,26,hair,numri-nitjini-,,,32,
+9431,27,nose,inŋotje-,,,16,
+9788,28,"to breathe",aθejhañ,,,15,
+10145,29,"to sniff, smell",ipñii,,,73,
+10502,30,mouth,nepje-ne|ɣse-,,,,
+10859,31,tooth,nijho-,,,"1,35",1
+11216,32,tongue,tooŋ,"+tooN has replaced the now archaic nama",L,,
+11573,33,"to laugh",lav,"Bislama Loan",L,,
+11930,34,"to cry",tañ,,,1,1
+12287,35,"to vomit",alou,,,8,
+12644,36,"to spit",elwaŋeθ,"*luaq 'vomit' + *ŋapus 'spit'",,"19,38",
+13001,37,"to eat",ɣiñ,,,1,1
+13358,38,"to chew",amai,,,49,?
+13715,39,"to cook",ahen,,,50,
+14072,40,"to drink",amñii,,,"1,49",
+14429,41,"to bite",aɣes,"(+>s cf.75)",,"1, 60",1
+14786,42,"to suck",e|θeθ,(cp.18),,25,1
+15143,43,ear,intijŋa-,,,1,1
+15500,44,"to hear",iŋii,,,1,
+15857,45,eye,nesŋan-ne|mta-,,,1,1
+16214,46,"to see",e|ɣet,,,1,1?
+16571,47,"to yawn",amoɣa,,,19,
+16928,48,"to sleep",amjeŋ,,,90,
+17285,49,"to lie down",asjeɣ,,,60,
+17642,50,"to dream",amjeŋ-acen,,,13,
+17999,51,"to sit",ateɣ,,,109,
+18356,52,"to stand",aji,,,2?,
+18713,53,"person/human being",natimi,,,"4, 55",
+19070,54,man/male,natam̃añ,,,"1,14",1
+19427,55,woman/female,intaketha,,,92,
+19784,56,child,inhalav,,,,
+20141,57,husband,natam̃ñ-,,,17,
+20498,58,wife,eŋa-,,,49,
+20855,59,mother,ri|si-,,,1,?
+21212,60,father,etma-,,,1,1
+21569,61,house,niom̃,,,1,1?
+21926,62,thatch/roof,nijhintin,,,,
+22283,63,name,niθa-,,,66,?
+22640,64,"to say",asañ,,,,
+22997,65,rope,inwou,,,67,
+23354,66,"to tie up, fasten",ahtit,,,,
+23711,67,"to sew",etjei,,,68,
+24425,69,"to hunt",eθua,,,,
+24782,70,"to shoot",asjii,,,,
+25139,71,"to stab, pierce",aɣai,,,14,
+25496,72,"to hit",awoθ,,,91,
+25853,73,"to steal",ahneŋ,,,"1,58",
+26210,74,"to kill",atŋii,,,18,
+26567,75,"to die, be dead",mas,(cf.41),,1,1
+26924,76,"to live, be alive",umu,,,61,
+27281,77,"to scratch",aɣeɣei,,,"71, 72",?
+27638,78,"to cut, hack",atɣam̃oθ,,,"52,41",
+27995,79,stick/wood,nawun|ɣai,,,1,1
+28352,80,"to split",ahtakwai,,,41,
+28709,81,sharp,ariñ,,,,
+29066,82,"dull, blunt",uwut,,,16,
+29423,83,"to work",awo-naɣa,,,,
+29780,84,"to plant",ahwañ,,,15,
+30137,85,"to choose",ispanalm̃ii,,,36,
+30494,86,"to grow",eθei,,,1,
+30851,87,"to swell",atop̃,"< *tubuq",,12,
+31208,88,"to squeeze",avii,,,16,
+31565,89,"to hold",avaktit,,,,
+31922,90,"to dig",aɣjii,,,1,1?
+32279,91,"to buy",awo-nemtan,,,"4, 13",
+32636,92,"to open, uncover",asalŋii,,,,
+32993,93,"to pound, beat",etɣei,"or 20?",,"20, 2",
+33350,94,"to throw",asjii,,,9?,
+33707,95,"to fall",ijis,,,,
+34064,96,dog,kuri,"PN Loan",L,7,
+34421,97,bird,in|man,,,1,1
+34778,98,egg,nowan-man,,,57,
+35135,99,feather,nalau,,,24,
+35492,100,wing,neppa-,,,"1, 12",
+35849,101,"to fly",ae,,,1?,
+36206,102,rat,inɣeθo,,,3,
+36563,103,meat/flesh,nohoθɣe-,,,10,
+36920,104,fat/grease,naɣla-,,,42?,
+105105,105,tail,nilowo-,animal,,24,
+105106,105,tail,niɣe-,fish,,1,
+37634,106,snake,nimñiv,,,,
+37991,107,"worm (earthworm)",nimijan,,,,
+38348,108,louse,neɣet,,,1,1
+38705,109,mosquito,inyam̃,,,1,1?
+39062,110,spider,nirisiris,,,,
+39419,111,fish,nomu,,,51,
+39776,112,rotten,moh|tan,,,92,
+40133,113,branch,inra-,,,1,1
+40490,114,leaf,neri-,,,1,?
+40847,115,root,neɣva-,<M,,2,
+41204,116,flower,intesia,,,34,
+41561,117,fruit,nowa-,,,"1, 26",1?
+41918,118,grass,nefelelɣai,,,1?,
+42275,119,earth/soil,nop̃oh|tan,,,1,1
+42632,120,stone,in|hat,,,1,1
+42989,121,sand,nom̃anjap̃,,,,
+43346,122,water,in|wai,,,2,1
+43703,123,"to flow",areθraθ,,,21,
+44060,124,sea,injap̃,,,,
+44417,125,salt,inmowanjap̃,,,,
+44774,126,lake,narenwai,"Compound of naren < *rano + wai = water",,1,
+45131,127,woods/forest,nesei,,,,
+45488,128,sky,nouhataŋ,,,"1, 61?",
+45845,129,moon,inmohoɣ,,,52,
+46202,130,star,inom̃jev,,,13,
+46559,131,cloud,nap̃at,,,16?,
+46916,132,fog,inm̃oso,,,72,
+47273,133,rain,inɣop|θa,"inɤopθa is a compound with θa deriving from *quzan",,1,
+47630,134,thunder,inmunuka,,,,
+47987,135,lightning,nawowei,,,,
+48344,136,wind,nelehel,"Not cognate with Merei: h < *p",,,
+79006,137,"to blow",elehel,,,,
+79007,137,"to blow",alai,,,16,
+49058,138,warm,iri,,,31,
+49415,139,cold,iwiu,,,54?,
+49772,140,dry,mesei,,,11,
+50129,141,wet,iθin,,,,
+50486,142,heavy,op̃oɣ,,,30,
+50843,143,fire,inɣap̃,(cf.149),,19,?
+51200,144,"to burn",a|tn|amoθ,"< *tunu",,1,
+51557,145,smoke,naθra-,,,,
+51914,146,ash,nop̃p̃a,,,1,
+125621,147,black,apeñ,,,9,
+125620,147,black,apiñ,,,9,
+52628,148,white,ahii,,,,
+52985,149,red,ɣap̃,"(cf.143 'fire')",,47,
+53342,150,yellow,yaŋ,,,9,
+53699,151,green,emelmat,,,1,?
+54056,152,small,haklin,,,,
+54413,153,big,alp̃as,,,"10, 83",
+54770,154,short,epjeθepjeθ,,,,
+55127,155,long,opra,,,16,
+55484,156,thin,aɣreaɣre,,,20,
+55841,157,thick,amesej,,,3,
+56198,158,narrow,erouerou,,,,
+56555,159,wide,aukal,,,,
+56912,160,"painful, sick",emθa,,,1,
+57269,161,"shy, ashamed",eɣamai,,,1?,1
+57626,162,old,omraŋ,,,,
+57983,163,new,mat,,,19,
+58340,164,good,upnii,,,,
+58697,165,"bad, evil",has,,,1?,
+80770,166,"correct, true",atoh,,,36,
+80771,166,"correct, true",invijeɣ,,,,
+59411,167,night,ne|peñ,,,1,1
+59768,168,day,naθiat,,,"1, 18",
+60125,169,year,inmeseise,,,,
+60482,170,when?,anuhup̃an,,,,
+60839,171,"to hide",atpu,,,32?,
+61196,172,"to climb",ahei,,,,
+61553,173,at,an,,,,
+61910,174,"in, inside",anlii-,,,1,
+62267,175,above,ijiñis,,,26?,
+62624,176,below,upou,,,,
+62981,177,this,niñki,,,"1,6?",
+63338,178,that,naikou,,,,
+63695,179,near,ohp̃otb̃otet,,,53,
+64052,180,far,itaɣ,,,,
+64409,181,where?,eθa,,,34,
+64766,182,I,añak,,,"1,21,22,23",
+65123,183,thou,aak,,,1,
+65480,184,he/she,aan,,,1,
+118922,185,we,akaja,,,,?
+118923,185,we,a|jam|a,,,,
+66194,186,you,ajowa,,,,
+66551,187,they,a|ar|a,,,"1, 70",
+66908,188,what?,inhe,,,1,
+67265,189,who?,θi,,,1,1
+67622,190,other,eɣhei,,,,
+67979,191,all,asŋa,,,,
+118924,192,and,im,"im [VP's]",,11,
+118925,192,and,am,"am [NP's]",,11,
+68693,193,if,elet,,,61,
+69050,194,how?,eɣhameɣha,,,,
+69407,195,"no, not",itiyi,,,10?,
+69764,196,"to count",isvii,,,27,
+70121,197,One,ithii,,,1,
+70478,198,Two,erou,,,1,1
+70835,199,Three,esej,"yes this really is a 1, from John Lynch",,1,1
+71192,200,Four,emanohowan,,,8?,
+125388,201,Five,mijman,,,1,
+125389,202,Six,meleθ,,,,

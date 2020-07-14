@@ -1,0 +1,215 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+42,Atoni,Blust,aoz,uabm1237,"This list appears to be represent a mixture of the Baikeno, Molo and Amfo'an dialects -ASchAnnotations made on the basis of Owens (2016) by ASch.",,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Timor, Extra-Ramelaic, West","Debasish Roy","Simon Greenhill","@misc{Blust-42-2005,  author = \"Robert A. Blust\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-9.88227999999999973113,124.05762000000000000455
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+42,1,hand,nima-,,,"1,66",1
+399,2,left,ʔliʔ,,,1?,
+756,3,right,ʔneʔu,,,"1,62?",
+1113,4,leg/foot,h|aɛ-,,,"1,100",1?
+1470,5,"to walk",naɔ,,,1,1
+1827,6,road/path,lalan,,,1,1
+2184,7,"to come","in nɛm",,,,
+2541,8,"to turn",ta-teʔun,"Owens (2016) gives the borrowing -bani for this meaning",,,
+2898,9,"to swim",tabhaɛʔ,,,,
+3255,10,dirty,lɛkɛ,,,1,
+3612,11,dust,afu,,,1,1
+71943,12,skin,poʔak,,,,
+71944,12,skin,pasu,,,,
+4326,13,back,kɔti,,,37,
+4683,14,belly,tai,,,1,?
+5040,15,bone,nui-,,,2,
+5397,16,intestines,"tai ʔnanaŋ",,,1,
+5754,17,liver,ʔatɛ-,,,1,1
+6111,18,breast,susu,,,1,1
+6468,19,shoulder,hanu-,,,,
+6825,20,"to know, be knowledgeable",ta|hin,"[< kila ?]",,,
+7182,21,"to think",ta|tɛnab,,,,
+7539,22,"to fear",ta|mtau,,,1,1
+7896,23,blood,naʔ,,,1,1
+8253,24,head,naka-,,,,
+8610,25,neck,nɛɔ-,,,74?,?
+8967,26,hair,nafu-,,,,?
+9324,27,nose,pana-,,,7,
+9681,28,"to breathe","at hɛlak snasak",,,,
+10038,29,"to sniff, smell",ta|skɔk,,,,
+10395,30,mouth,fɛfa-,,,1,1
+10752,31,tooth,nisi-,,,1,1
+11109,32,tongue,maa-,"< PCEMP *maya; Loss of CEMP y is regular.",,7,1?
+11466,33,"to laugh","ʔat mani",,,3,
+11823,34,"to cry","ʔat kaɛ",,,,
+12180,35,"to vomit","ʔat lɔʔ",,,1?,1
+12537,36,"to spit","ʔat poolin hopɛ",,,,
+12894,37,"to eat",t|ax,,,,
+13251,38,"to chew",atmam,,,1,1
+13608,39,"to cook",tahan,,,2?,
+13965,40,"to drink",t|iun,"Root is -inu",,1,1
+14322,41,"to bite","ʔat sauʔ",,,,
+73614,42,"to suck","ʔat muus",,,6,
+73615,42,"to suck",muis,,,6,
+15036,43,ear,lukɛ-,,,47?,
+15393,44,"to hear","ʔat nɛɛn","Unmetathesised root is -nena.",,1,?
+15750,45,eye,mata-,,,1,1
+73847,46,"to see","ʔat fua",,,,1
+73848,46,"to see",kiɔs,,,,1
+73849,46,"to see",t|it,,,1,1
+16464,47,"to yawn",ta|sɛɔʔ,,,,
+16821,48,"to sleep","ʔat tuup",,,43,
+17178,49,"to lie down","ʔat bɔ",,,,
+74037,50,"to dream",tamnauʔ,,,,
+74038,50,"to dream",tamnai,,,,
+17892,51,"to sit","ʔat tɔk",,,,
+18249,52,"to stand","ʔat haɛk",,,,
+18606,53,"person/human being",atoni,,,"1, 79",
+74211,54,man/male,atoni,"Means 'person' not male.",,,1
+74212,54,man/male,mɔnɛ,,,1,1
+19320,55,woman/female,bifɛl,,,1,
+19677,56,child,anax,,,1,1
+20034,57,husband,mɔnɛ,,,,
+20391,58,wife,fɛl,"Shows Amfo'an consonant insertion; regular reflex of PMP *bahi",,31,
+20748,59,mother,ainaʔ,,,1,1
+21105,60,father,amaʔ,,,1,1
+21462,61,house,umɛ,,,1,1
+21819,62,thatch/roof,"umɛ pɛnɛn",,,,
+22176,63,name,kana-,,,1?,1?
+22533,64,"to say",mak,,,,
+22890,65,rope,tani,,,1,
+23247,66,"to tie up, fasten","ʔat fut",,,9,
+23604,67,"to sew","ʔat sɔʔ",,,10,
+23961,68,needle,anɛt,,,,
+24318,69,"to hunt","ʔat sɛok",,,,
+24675,70,"to shoot","ʔat kɛn",,,,
+25032,71,"to stab, pierce",tapauʔ,,,7,
+25389,72,"to hit","ʔat tɔm",,,,
+25746,73,"to steal",ta|bak,,,,
+26103,74,"to kill","taʔ maɛt",,,2,
+26460,75,"to die, be dead","ʔat maɛt","This a compound, with metathesised form. Unmetathesised root is -mate",,1,1
+26817,76,"to live, be alive","ʔat moin",,,"1,76?",1
+27174,77,"to scratch","ʔat aɔ",,,,1
+27531,78,"to cut, hack","ʔat oɛt",,,,
+27888,79,stick/wood,hau,,,1,1
+28245,80,"to split","ʔat pɔl",,,,
+28602,81,sharp,naʔaik,,,,
+28959,82,"dull, blunt","kax naʔaik",,,,
+29316,83,"to work",ʔatmeu,,,,
+29673,84,"to plant","ʔat sɛn",,,,
+30030,85,"to choose","ʔat pil",,,1,1
+30744,87,"to swell",anku,,,,
+76350,88,"to squeeze","ʔat ap",,,,1?
+76351,88,"to squeeze",ap|mɛs,,,43,1?
+31458,89,"to hold","ʔat naʔ",,,101?,
+31815,90,"to dig","ʔat hani",,,,1
+32172,91,"to buy",sɔs,,,31,
+32886,93,"to pound, beat",tapau,,,,
+33243,94,"to throw","ʔat polin",,,,
+33600,95,"to fall","ʔat mof",,,"1,106",
+33957,96,dog,asu,,,1,1
+34314,97,bird,kɔlɔ,"also /manu/ ?",,77,
+34671,98,egg,"manu tɛkoʔ",,,1?,
+35028,99,feather,"manu nafu-",,,1,
+35385,100,wing,"manu ninɛ-",,,,
+35742,101,"to fly",taplɛl,,,,
+36099,102,rat,ifɔ,,,1,1?
+36456,103,meat/flesh,s|isi,,,1,1
+36813,104,fat/grease,min,,,1,1
+37170,105,tail,iku-,,,1,1
+37527,106,snake,ka|unaʔ,,,2?,1?
+37884,107,"worm (earthworm)",itɛ,,,,
+38241,108,louse,hutu,,,1,1
+38598,109,mosquito,basin,,,,
+38955,110,spider,lilnaʔo,,,,
+39312,111,fish,ikaʔ,,,1,1
+39669,112,rotten,pun,,,,
+40026,113,branch,tɔɛ-,,,,
+40383,114,leaf,nɔʔ,,,1?,1
+40740,115,root,baʔa-,,,,
+41097,116,flower,tunaʔ,,,1?,
+41454,117,fruit,fua-,,,1,1
+77965,118,grass,hun,,,,
+77966,118,grass,maʔu,,,58,
+42168,119,earth/soil,afu,,,,
+42525,120,stone,fatu,,,1,1
+42882,121,sand,[a]snaɛn,,,,
+43239,122,water,oɛl,"The final l appears to represent an unetymological element that is regularly appended to vowel final forms in the Baikeno dialect",,2,?
+43596,123,"to flow",saiʔ,,,,
+43953,124,sea,tasiʔ,,,1,1
+44310,125,salt,masiʔ,,,"3,45",
+44667,126,lake,nɛfɔ,,,,
+45024,127,woods/forest,mɛpat,,,,
+45381,128,sky,nɛnɔ,"also means 'day' < PMP *qalejaw",,,
+45738,129,moon,funan,,,1,1
+46095,130,star,[a]fkun,"Owens (2016) gived fkuun for the Molo dialect; he sees this as a regular reflex of PMP *bituqən",,1,?
+46452,131,cloud,nɔpɛ,,,,
+46809,132,fog,nipu,,,,
+47166,133,rain,ulan,,,1,1
+47880,135,lightning,limat,,,,?
+48237,136,wind,anin,,,1,1
+48594,137,"to blow","ʔat fu",,,5,
+48951,138,warm,maʔotuʔ,,,,
+49308,139,cold,manikin,,,1,1
+49665,140,dry,mɛtɔ,,,,
+79316,141,wet,napɛt,,,,
+79317,141,wet,tapɛt,,,,
+50379,142,heavy,"maʔ fɛnaʔ",,,1,1
+79372,143,fire,aj,,,1,1?
+79373,143,fire,ai,,,1,1?
+51093,144,"to burn","ʔat tot",,,,
+51450,145,smoke,m|asuʔ,,,2,1
+51807,146,ash,afu,,,1,1
+52164,147,black,mɛtan,,,1,1
+52521,148,white,mutiʔ,,,1,1
+52878,149,red,mtasaʔ,,,,
+53235,150,yellow,mɔlɔʔ,,,34,
+53592,151,green,matɛʔ,,,1,
+53949,152,small,ananaʔ,"Reflects PMP *anak 'child'; Owens (2016) gives root as anaʔ; the form given in this list may be a reduplication.",,8,
+54306,153,big,[a]ʔnaɛk,,,,
+80093,154,short,[tuk]tukaʔ,,,,
+80094,154,short,[pal]palaʔ,,,,
+55020,155,long,mnanuʔ,,,1,1
+55377,156,thin,manɛax,"Owens (2016) gives mainihas for 'thin', representing a regular reflex of PMP *ma-nipis. The form given in this list appears to represent a rough transcription of the phonemic form of Owens (2016) and so is coded as part of cognate set 1.",,1,
+55734,157,thick,mafauʔ,,,,
+56091,158,narrow,maʔlɛl,,,,
+56448,159,wide,manuan,,,,
+56805,160,"painful, sick",tamɛn,,,,
+57162,161,"shy, ashamed",maɛʔ,,,1,1
+57519,162,old,amnasit,"This appears to be an affixed form erroneously included here. Owens (2016) gives mnaaʔ 'old' regularly reflecting PMP *daqan meaning 'old (time), long ago'",,,
+57876,163,new,feʔu,,,1,1?
+58233,164,good,lɛkɔ,,,,
+58590,165,"bad, evil",leuf,,,,
+58947,166,"correct, true",namnɛɔ,,,,
+59304,167,night,[an]fai,,,,
+59661,168,day,nɛnɔ,,,1,
+60018,169,year,tɔn,,,1,1
+60375,170,when?,lɛkaʔ,,,,
+61446,173,at,bi,,,20,
+61803,174,"in, inside",nanan,,,1,1
+62160,175,above,"biʔ fafɔn",,,2,1
+62517,176,below,"biʔ pinan",,,,
+81337,177,this,ija,,,5,
+81338,177,this,ʔi,,,5,
+63231,178,that,naɛ,,,,
+63588,179,near,paumakaʔ,,,,
+63945,180,far,[aʔ]lɔb,,,,
+64302,181,where?,"bi mɛ",,,2,
+64659,182,I,auʔ,,,1,1
+65016,183,thou,hɔ,,,1,1
+65373,184,he/she,in,,,,
+118214,185,we,hit,,,1,1
+118215,185,we,hai,,,1,
+66087,186,you,hi,,,11,
+66444,187,they,sin,,,1,1
+66801,188,what?,saʔ,,,1,1
+67158,189,who?,sɛ|k,,,1,1?
+67515,190,other,bian,,,2,
+82381,191,all,ʔalʔal,,,,
+82382,191,all,ɔkɔkɛʔ,,,,
+68229,192,and,nɔk,,,7?,?
+68586,193,if,kalu,,L,,
+68943,194,how?,"ɔn mɛ",,,,
+82681,195,"no, not",kax,,,,
+82682,195,"no, not",kafaʔ,,,,
+69657,196,"to count",ʔatsoiʔ,,,,
+70014,197,One,m|ɛsɛʔ,,,"1,68",1
+70371,198,Two,nua,,,1,1
+70728,199,Three,tenu,,,1,1
+71085,200,Four,ha,,,1,

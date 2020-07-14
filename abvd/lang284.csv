@@ -1,0 +1,222 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+284,Sundanese,"Mas Sutikjana Oekon",sun,sund1252,,,"Austronesian, Malayo-Polynesian, Sundanese","Simon Greenhill","Simon Greenhill","@misc{Oekon-284-2005,  author = \"Mas Sutikjana Oekon\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-6.98486149438615377960,106.91584983927519658664
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+284,1,hand,leuŋeun,,,19,
+641,2,left,kenca,"SA: nc (< *w) is regular (Nothofer 1975)",,27,
+998,3,right,katuhu,,,"5,40",1
+1355,4,leg/foot,kaki,"Malay loan?",,"1,32",
+246263,4,leg/foot,suku,,,,
+1712,5,"to walk",leumpang,,,43,1
+2069,6,road/path,jalan,,,1,1
+2426,7,"to come",datang,,,14,
+2783,8,"to turn",méngkol,,,30,
+3140,9,"to swim",ngojay,,,1,
+3497,10,dirty,kotor,,,31,
+3854,11,dust,pelédug,"Javanese loan",L,,
+4211,12,skin,kulit,,,1,1
+4568,13,back,tonggong,,,,
+4925,14,belly,beuteung,,,29,
+5282,15,bone,tulang,,,1,1
+5639,16,intestines,peujit,,,23?,
+5996,17,liver,hate,,,1,
+6353,18,breast,susu,,,1,
+6710,19,shoulder,taktak,,,,
+7067,20,"to know, be knowledgeable",nyaho,"initial C is irregular (SA)",,1,
+7424,21,"to think",mikir,"loan of 22? Arabic loan",L,22,
+7781,22,"to fear",sieun,,,,
+8138,23,blood,getih,"Javanese loan",L,18,
+8495,24,head,sirah,"Javanese loan; SA: ult. < Sanskrit",L,31,
+8852,25,neck,beuheung,,,,
+88635,26,hair,rambut,"SA: probably < Malay or Javanese",L(?),20,1
+88636,26,hair,buuk,,,1,
+9566,27,nose,irung,,,1,1
+9923,28,"to breathe",nyeunghap,,,,
+10280,29,"to sniff, smell",nyium,,,20,
+10637,30,mouth,sungut,,,,?
+10994,31,tooth,huntu,"Javanese loan",L,18,
+11351,32,tongue,letah,,,"4,31",
+73042,33,"to laugh",seuri,,,,
+73043,33,"to laugh",sÖri,X,,,
+12065,34,"to cry",nangis,,,1,1
+181229,34,"to cry",ceurik,,,,
+12422,35,"to vomit",utah,,,1,1
+12779,36,"to spit",nyiduh,"SA: L removed because not clear why is should be a Javanese loan",,32,
+13136,37,"to eat",dahar,"Javanese loan",L,11,
+13493,38,"to chew",ngagayem,,,,
+13850,39,"to cook",masak,,,19,?
+14207,40,"to drink",nginum,,,1,1
+14564,41,"to bite",ngegel,,,,
+14921,42,"to suck",nyeuseup,,,1,1
+15278,43,ear,ceuli,,,12,
+15635,44,"to hear",ngadenge,,,1,1
+15992,45,eye,panon,,,,
+16349,46,"to see",nenjo,,,36,
+16706,47,"to yawn",heuay,,,,
+17063,48,"to sleep",sáre,"SA: < Javanese",,26,
+17420,49,"to lie down",ngagoler,,,"54,108",
+17777,50,"to dream",ngimpi,,,"1,37",1
+18134,51,"to sit",diuk,,,35,
+18491,52,"to stand",nangtung,,,,
+18848,53,"person/human being",jelema,"SA: < Sanskrit",L,16,
+19205,54,man/male,lalaki,,,2,1
+19562,55,woman/female,awewe,,,"1,105",
+19919,56,child,budak,"SA: = 'any child, slave'",,16?,
+345025,56,child,anak,"SA: 'offspring'",,1,
+20276,57,husband,salaki,,,28,
+20633,58,wife,pamajikan,,,,
+20990,59,mother,indung,,,10,
+21347,60,father,bapa,,,5,1
+21704,61,house,imah,,,1,1
+22061,62,thatch/roof,hateup,,,1,1
+22418,63,name,ngaran,,,1,1
+22775,64,"to say",ngomong,,,25,
+23132,65,rope,tali,,,1,1
+23489,66,"to tie up, fasten",meungkeut,,,1,1
+23846,67,"to sew",ngaput,,,,
+24203,68,needle,jɘrum,,,1,1
+24560,69,"to hunt",moro,,,23,
+24917,70,"to shoot",ngabedil,"SA: < Malay < Tamil (shoot with gun)",L,9,
+25274,71,"to stab, pierce",nubles,,,,
+25631,72,"to hit",neunggeul,,,,
+25988,73,"to steal",maok,,,,
+26345,74,"to kill",maehan,,,,
+26702,75,"to die, be dead",paèh,,,,
+27059,76,"to live, be alive",hirup,,,"1,82",1
+27416,77,"to scratch",ngagaro,,,1,1
+27773,78,"to cut, hack",motong,,,49,
+28130,79,stick/wood,kai,,,1,1
+28487,80,"to split",meulah,,,1,1
+28844,81,sharp,seukeut,,,,
+29201,82,"dull, blunt",mintul,,,,
+29558,83,"to work",digawe,,,21,
+29915,84,"to plant",melak,,,,
+30272,85,"to choose",milih,,,1,1
+30629,86,"to grow",tuwuh,,,1,1
+30986,87,"to swell",bareuh,,,1,1
+31343,88,"to squeeze",meres,"Javanese loan",L,42,1
+31700,89,"to hold",nyekel,"Javanese loan",L,31,
+32057,90,"to dig",ngali,,,1,1
+32414,91,"to buy",meuli,,,1,1
+32771,92,"to open, uncover",mukɘ,,,1,1
+33128,93,"to pound, beat",nutu,,,20,
+33485,94,"to throw",maledogkeun,,,,
+33842,95,"to fall",ragrag,,,,
+34199,96,dog,anjing,,,27,
+34556,97,bird,manuk,,,1,
+34913,98,egg,endog,"Javanese loan",L,20,
+35270,99,feather,bulu,,,1,1
+35627,100,wing,jangjang,,,,
+35984,101,"to fly",hiber,,,34,
+36341,102,rat,beurit,,,25?,
+36698,103,meat/flesh,daging,,,26,
+37055,104,fat/grease,gajih,"Javanese loan",L,25,
+37412,105,tail,buntot,loan,L,16,
+37769,106,snake,oray,,,2,1
+38126,107,"worm (earthworm)",caciŋ,,,23,
+38483,108,louse,kutu,,,1,1
+38840,109,mosquito,reungit,,,21,
+39197,110,spider,lancah,"SA: *w > nc is regular",,1,1
+39554,111,fish,lauk,,,14,
+39911,112,rotten,buruk,,,1,1
+40268,113,branch,dahan,,,1,1
+40625,114,leaf,daun,,,1,1
+40982,115,root,akar,,,2,1
+41339,116,flower,kembang,"Malay loan (SA: rather Javanese loan)",L,21,
+41696,117,fruit,bubuahan,,,1,1
+42053,118,grass,jukut,,,2,?
+42410,119,earth/soil,taneuh,,,1,1
+42767,120,stone,batu,,,1,1
+43124,121,sand,keusik,,,24,
+43481,122,water,cai,,,2,1
+43838,123,"to flow",ngalir,,,1,1
+44195,124,sea,laut,,,6,
+44552,125,salt,uyah,"Javanese loan",L,15,
+44909,126,lake,talaga,"SA: < Sanskrit (or other S. Indian source)",L,,
+45266,127,woods/forest,leuweung,,,,
+45623,128,sky,langit,,,1,1
+45980,129,moon,bulan,,,1,1
+46337,130,star,bentang,,,1,
+46694,131,cloud,mega,"Sanskrit loan",L,113,
+78733,132,fog,halimun,,,,
+78734,132,fog,pepedut,"Javanese loan",L,87,
+47408,133,rain,hujan,,,1,1
+47765,134,thunder,guludug,,,"2,96",1
+48122,135,lightning,gelap,,,"1,88",
+48479,136,wind,angin,,,1,1
+48836,137,"to blow",niup,,,"1,19",1
+49193,138,warm,panas,,,1,1
+49550,139,cold,tiis,,,44,
+49907,140,dry,garing,"Javanese loan",L,22,
+50264,141,wet,baseuh,,,1,1
+50621,142,heavy,beurat,,,1,1
+50978,143,fire,seuneu,,,,
+51335,144,"to burn",meuleum,,,,
+51692,145,smoke,haseup,,,49,
+52049,146,ash,lebu,,,1?,
+52406,147,black,hideung,,,38,
+52763,148,white,bodas,,,,
+53120,149,red,beureum,,,,
+53477,150,yellow,koneng,,,1,
+53834,151,green,hejo,,,25,
+54191,152,small,leutik,,,,
+54548,153,big,gede,"< Javanese",L,27,
+80137,154,short,pondok,,,1,
+80138,154,short,pendek,,,68,
+55262,155,long,panjang,,,24,
+55619,156,thin,ipis,,,1,1
+55976,157,thick,kandel,"Javanese loan",L,45,
+56333,158,narrow,heurin,,,,
+56690,159,wide,rubak,,,,
+57047,160,"painful, sick",gering,,,29,
+57404,161,"shy, ashamed",era,"SA: possibly related to Javanese wirang",,,
+57761,162,old,kolot,,,,
+58118,163,new,anyar,"Javanese loan",L,16,
+58475,164,good,alus,,,,
+58832,165,"bad, evil",jahat,,,1,1
+59189,166,"correct, true",bener,,,1,1
+59546,167,night,peuting,,,47,
+59903,168,day,poe,"SA: < *pa-waRi (Nothofer 1975)",,17,
+60260,169,year,taun,,,1,1
+60617,170,when?,iraha,,,1?,
+60974,171,"to hide",ñumput,,,,
+61331,172,"to climb",naek,,,1,1?
+61688,173,at,di,,,20,1
+62045,174,"in, inside",dijero,"SA: jero < Javanese",L,,
+62402,175,above,diluhur,"SA: luhur < Javanese",L,,
+62759,176,below,dihandap,"SA: handap < Javanese",L,19,
+63116,177,this,ieu,,,,
+63473,178,that,eta,,,16,
+63830,179,near,deukeut,,,28,
+64187,180,far,jauh,,,1,1
+64544,181,where?,dimana,,,20,
+64901,182,I,kuring,,,,
+65258,183,thou,maneh,,,,
+65615,184,he/she,manehna,,,,
+65972,185,we,urang,,,,
+66329,186,you,maraneh,,,,
+66686,187,they,maranehanana,,,,
+67043,188,what?,naon,,,2?,
+67400,189,who?,saha,,,58,
+67757,190,other,lain,"X SA: dictionary has this as 'not, not this one'",L,2,
+68114,191,all,kabeh,"Javanese loan",L,31,
+68471,192,and,jeung,,,64,
+68828,193,if,lamun,,,10,
+69185,194,how?,kumaha,,,,
+69542,195,"no, not",henteu,,,,
+69899,196,"to count",ngitung,,,31,1
+70256,197,One,hiji,"Javanese loan",L,,
+70613,198,Two,dua,,,1,1
+70970,199,Three,tilu,,,1,1
+71327,200,Four,opat,,,1,1
+129028,201,Five,lima,,,1,
+129029,202,Six,genep,,,,
+129030,203,Seven,tujuh,,,4,
+129031,204,Eight,dalapan,,,4,
+129032,205,Nine,salapan,,,41,
+129033,206,Ten,sapuluh,,,5,
+181228,207,Twenty,"dua puluh",,,"3,6",
+246260,208,Fifty,"lima puluh",,,"1,2",
+246261,209,"One Hundred",saratus,,,4,
+246262,210,"One Thousand",sarebu,,,5,

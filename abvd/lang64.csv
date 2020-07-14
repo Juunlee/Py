@@ -1,0 +1,222 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+64,Nukuoro,"POLLEX 2000 (Bruce Biggs & Ross Clark)",nkr,nuku1260,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, Samoic-Outlier, Ellicean","Simon Greenhill","Simon Greenhill","@article{POLLEX,  journal = {Oceanic Linguistics},  number  = {2},  pages   = {551--559},  title   = {{POLLEX-Online: The Polynesian Lexicon Project Online}},  volume  = {50},  year    = {2011},  author  = {Greenhill, Simon J. and Clark, Ross}}"
+latitude,longitude
+3.83000000000000007105,154.91999999999998749445
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+64,1,hand,lima,"Hand, arm",,1,1
+421,2,left,masui,"Left (not right)",,"1,59,74",1
+778,3,right,madau,"Right (side)",,"5, 13",1
+1135,4,leg/foot,vae,"Foot (including leg)",,"1, 100",1
+85125,5,"to walk",saele,"Walk around, wander",,6,
+85126,5,"to walk",haka/taahao,"Go for a walk, stroll (Ebt)",,7,
+133485,5,"to walk",sesee,,,4,
+1849,6,road/path,haiava,"Road, pathway (for going), track, ocean liner",,,1
+167154,7,"to come","hu mai",,,"1,42",
+133479,8,"to turn",huli,"as in turn over",,15,
+133480,8,"to turn",hage,"as to change direction",,,
+133478,10,dirty,gelegele,,,10,
+133477,11,dust,buugelegele,,,24?,
+3991,12,skin,gili,Skin,,1,1
+133471,13,back,dua,,,11,
+4705,14,belly,gona,Navel,,8,1
+133482,14,belly,dinae,,,"19,34",
+5062,15,bone,ivi,Bone,,"52,5",1
+5776,17,liver,ade,Liver,,1,1
+133476,18,breast,gaanunu,,,3,
+90494,19,shoulder,bakau,"Pollex 06: Bakau. :Wing, shoulder.",,22,
+6847,20,"to know, be knowledgeable",ilo/o,Know,,13,
+7204,21,"to think",maanadu,"Think, thought",,9,
+7561,22,"to fear",madagu,"Afraid, scared",,1,1
+7918,23,blood,dodo,"Blood (Crl)",,4,1
+8275,24,head,ulu,"Topmost part",,1,1
+133481,24,head,biho,,,10,
+8632,25,neck,ua,Neck,,18,1
+8989,26,hair,hulu,"Hair (on body)",,31,1
+133483,26,hair,ngae,"as single hair on head (or forehead)",,29,
+133484,26,hair,ngangailu,"as hair generally on head",,29,
+171943,26,hair,ŋaŋaulu,,,29,
+72685,27,nose,usu,"Nose  Nose (Crl)",,1,
+72686,27,nose,uhu,"Nose  Nose (Crl)",,1,
+88650,28,"to breathe",manava,"Breath, breathe",,1,
+90506,28,"to breathe",manava,"Pollex 06: Manava. :Breath, breathe.",,1,
+10060,29,"to sniff, smell",he/songi/,"Touch noses, smell",,9,1
+171941,29,"to sniff, smell",tuŋa,,,45,
+10417,30,mouth,ngudu,Mouth,,2,1
+10774,31,tooth,niho,Tooth,,1,1
+11131,32,tongue,alelo,Tongue,,15,1
+11488,33,"to laugh",gada,Laugh,,7,1
+11845,34,"to cry",dangi,"Cry, weep",,1,1
+12202,35,"to vomit",haga/lue/ia,Vomit,,8,1
+12916,37,"to eat",gai,Eat,,"1,47",1
+89361,38,"to chew",ngau,Chew,,8,
+89362,38,"to chew",ngungu,"Chew, masticate",,9,
+13630,39,"to cook",dao,"Bake (Crl)",,10,1
+13987,40,"to drink",unu,"Drink (Crl)",,1,
+14344,41,"to bite",gadi,"Bite, nip v",,"1,55",1
+133474,42,"to suck",midi,,,8,
+15058,43,ear,dalinga,"Ear (Crl)",,1,1
+15415,44,"to hear",longo,"Hear, feel, news",,1,1
+90495,45,eye,ganomada,"Pollex 06: Ganomada. :Eye.",,"1,18",
+16129,46,"to see",gide,See,,1,1
+16486,47,"to yawn",maava,"Yawn [<]",,"19, 39",1
+16843,48,"to sleep",moe,Sleep,,"10, 109",1
+133469,49,"to lie down","baini gi lalo",,,,
+17557,50,"to dream",midi,Dream,,36,1
+17914,51,"to sit",noho,"Sit, stay",,16,1
+18271,52,"to stand",duu,Stand,,2,1
+18628,53,"person/human being",dangada,"Person, human being (Crl)",,"1,66, 97",1
+18985,54,man/male,daane,"Man, male (Crl)",,"1,11",1
+91049,55,woman/female,hahine,"Woman (Singular)",,"1,106",
+91050,55,woman/female,hine,"Female, woman",,"1,41",
+19699,56,child,dama,Child,,6,1
+133467,57,husband,"bodu daane",,,14,
+133475,58,wife,"bodu hahine",,,"5,68",
+20770,59,mother,dinana,"Mother, dam",,1,1
+21127,60,father,dama/na,"Father, uncle, person in a fatherly relationship (Crl)",,1,1
+21484,61,house,hale,House,,14,1
+22198,63,name,ingoo,Name,,6,1
+22912,65,rope,maea,"Rope type (thickest)",,10,1
+91466,66,"to tie up, fasten",hau,"Tie up",,11,
+91467,66,"to tie up, fasten",noa,"fasten by tying  Tied",,15,
+23626,67,"to sew",dui,"Sew (Crl)",,"13, 16",1
+91558,68,needle,te/au/,"Tattooing needle (Kubary)",,1,
+91559,68,needle,siga,"Needle spool",,9,
+133470,70,"to shoot",tili,,,,
+91598,71,"to stab, pierce",sugi,"Pierce, stab",,"1, 8",1
+91599,71,"to stab, pierce",daalo,"Stab, skewer (Crl)",,10,
+91600,71,"to stab, pierce",daalo/a,"To have been stabbed (especially accidentally) (Crl)",,10,
+91685,72,"to hit",bagi/a,"Hit, by wind, spear, etc",,6,1
+91686,72,"to hit",badu,"Hit/tap with hand/foot, kick",,7,
+91687,72,"to hit",daa,"Strike, beat, kill (Crl)",,10,
+91688,72,"to hit",dugi,"Punch, hit, strike, pound (Crl)",,8,
+25768,73,"to steal",gaiaa,Steal,,7,1
+26125,74,"to kill",daa,"Strike, beat, kill (Crl)",,8,1
+26482,75,"to die, be dead",made,Die,,1,1
+91965,77,"to scratch",la/aladi/,"To scratch an itch (Crl)",,10,
+91966,77,"to scratch",lagu,Claw,,9,
+92033,78,"to cut, hack",àmu,"Cut something (Crl)",,15,1
+92034,78,"to cut, hack",modu,"Cut off",,"54, 14",
+92035,78,"to cut, hack",sele,"Chop down",,16,
+92036,78,"to cut, hack",tuu,"Cut something",,17,
+90496,79,stick/wood,laagau,"Pollex 06: Laagau. :Wood.",,1,
+28624,81,sharp,ha/kaa,"To sharpen (a knife)",,"14,15",1
+133473,83,"to work",haihegao,,,26,
+29695,84,"to plant",doo,"Plant (something)",,4,1
+30052,85,"to choose",hili,"Pick, choose",,1,1
+30409,86,"to grow",somo,"grow, develop, coconut apple.(Crl)",,7,1
+31123,88,"to squeeze",kumi,"Squeeze by grabbing",,14,
+31837,90,"to dig",geli,"Dig v",,1,1
+90497,92,"to open, uncover",mahuge,"Pollex 06: Mahuge. :Opened, uncovered (Crl).",,,
+32908,93,"to pound, beat",dugi,"Punch, hit, strike, pound (Crl)",,2,1
+33265,94,"to throw",maga,"Throw v",,11,1
+174944,96,dog,gaatu,'cat'?-MW,,,
+34336,97,bird,"manu lele",Bird,,1,
+171879,98,egg,ŋako,,,36,
+104650,100,wing,bakau,"Wing, shoulder",,"1,59",1
+104651,100,wing,pakhau,"Wing (Ebt)",,"1,81",
+104652,100,wing,bakau,"Wing, shoulder",,"1,59",
+104653,100,wing,pakhau,"Wing (Ebt)",,"1,81",
+35764,101,"to fly",lele,"Fly, jump",,11,1
+36478,103,meat/flesh,kano,"Quality, meat, flesh (Crl)",,14,1
+36835,104,fat/grease,sunu,"Oil slick",,12,
+90498,107,"worm (earthworm)",dangaloa,"Pollex 06: Dangaloa. :Silver Bush (Sophora tormentosa); earthworm; shooting star.",,,
+38263,108,louse,gudu,Louse,,1,1
+38620,109,mosquito,namu,Mosquito,,1,1
+38977,110,spider,neveneve,Spider,,1,1
+39334,111,fish,iga,"Fish n",,1,1
+105195,112,rotten,bala,"Soft, mushy",,13,
+105196,112,rotten,bobo,Rotten,,14,
+40048,113,branch,laa,Branch,,1,1
+40405,114,leaf,lau,Leaf,,1,1
+40762,115,root,aga,"Root of tree or plant",,2,1
+41119,116,flower,hungahunga-nui,"Flower of the coconut tree",,1,1
+41476,117,fruit,hua,"Bear fruit, fish roe",,1,1
+42190,119,earth/soil,gele/gele,"Sand, dirt",,10,1
+42547,120,stone,hadu,"Stone, rock",,1,1
+42904,121,sand,ssu/oni/oni,Sand,,1,
+43261,122,water,vai,"Water, liquid",,2,1
+43618,123,"to flow",sali,Flow,,24,1
+107764,124,sea,moana,"Open sea",,10,
+107765,124,sea,dai,"Lagoon, sea salt",,1,
+44332,125,salt,dai,"Lagoon, sea, salt",,20,1
+44689,126,lake,lodo,"Lagoon (Crl)",,6,1
+45046,127,woods/forest,vao,Wilderness,,14,1
+45403,128,sky,langi,"Rain, heaven, sky",,1,1
+45760,129,moon,maa-sina,Moon,,"37, 5",1
+46117,130,star,heduu,Star,,1,1
+47188,133,rain,ua,Rain,,1,1
+47545,134,thunder,hatuli,Thunder,,14,1
+108028,135,lightning,laba,"Flash (as lightning)",,9,
+108029,135,lightning,uila,Lightning,,2,
+108049,136,wind,madangi,"Wind, gas, flatus",,"1,66",
+108050,136,wind,s/sau/,"Blow (of wind)",,10,
+108102,137,"to blow",angi,"Blow gently (Wind)",,8,
+108103,137,"to blow",busi,"Blow with mouth",,6,
+108104,137,"to blow",s/sau/,"Blow (of wind)",,12,
+48973,138,warm,mahana,Hot,,"1, 72",1
+49330,139,cold,magalili,"Feel cold",,"1,52",1
+90499,141,wet,s/sui,"Pollex 06: S/sui. :Wet.",,11,
+50401,142,heavy,dae/maha/,"Heavy, oppressive",,"46, 66",1
+50758,143,fire,ahi,Fire,,1,1
+122756,144,"to burn",duungia,,,"1,7",b
+122757,144,"to burn",dudu,"Perfective of dudu set fire to",,"1, 6",
+51472,145,smoke,useahi,(Crl),,2,1
+51829,146,ash,lehu,Ashes,,67,1
+52186,147,black,uli,"Dark in colour",,7,1
+52543,148,white,dea,"White (only in compunds) (Crl)",,8,1
+52900,149,red,mea,Reddish,,1,1
+90500,150,yellow,gano/ango,"Pollex 06: Gano/ango. :Yellow (Crl).",,9?,
+90501,151,green,nu/ui,"Pollex 06: Nu/ui. :Green.",,61,
+122586,152,small,lega/lega,"Smallness  Small",,13,
+122587,152,small,l/ligi/,fine,,66,
+90502,153,big,lau/malie,"Pollex 06: Lau/malie. :Big, great.",,,
+54685,154,short,bodo/bodo,Short,,9,
+55042,155,long,lloa,"Long a",,"12,105",1
+55756,157,thick,maadolu,Thick,,3,1
+90503,158,narrow,gasogaso,"Pollex 06: <Gasogaso. :Narrow (Crl)>.",,,
+56827,160,"painful, sick",mmae,Pain,,10,1
+57184,161,"shy, ashamed",doga/a,"Bashful, shy, ashamed, embarrassed (Crl)",,,1
+57541,162,old,duai,"Old, in the past (Crl)",,48,1
+57898,163,new,hoou,New,,1,1
+58255,164,good,malie,"Good (of food and certain activities) (Crl)",,16,1
+58612,165,"bad, evil",saa,Bad,,1,1
+90504,166,"correct, true",abo,"Pollex 06: Abo. :Capable; correct (suitable), true; feel comfortable (Crl).",,,
+59326,167,night,boo,Night,,1,1
+59683,168,day,ao,Daylight,,"1, 54",1
+171881,168,day,laani,,,6,
+60397,170,when?,aahee,"When? (indefinite future)",,5,1
+60754,171,"to hide",mmuni,Hidden,,"1, 67",1
+61111,172,"to climb",gage,Climb,,32,1
+61468,173,at,i,"At (preposed particle)",,1,1
+61825,174,"in, inside",lodo,"Inside, lagoon",,5,1
+62182,175,above,lunga,"Up, above",,9,1
+62539,176,below,lalo,"Below, under",,8,1
+174946,177,this,tenei,,,"7,1",
+174945,178,that,tenaa,,,1,
+63967,180,far,mmao,Distant,,13,1
+64324,181,where?,i/hee/,Where?,,"3,35",1
+81780,182,I,au,"I  First person singular (Possessive)",,"1,21",
+81781,182,I,-gu,"I  First person singular (Possessive)",,x,
+65038,183,thou,goe,"Second person singular, thou",,1,1
+66109,183,thou,goe,"Second person singular, thou",,1,1
+65752,185,we,gida/adeu,"We inclusive",,"1, 39",1
+167153,187,they,go'doū,,,"1, 72",
+66823,188,what?,aha,What?,,1,1
+67180,189,who?,go/ai/,Who?,,1,1
+67894,191,all,hu/gadoo/,"All (of things)",,13,1
+68251,192,and,ma,"And, including, and so, with",,2,1
+68608,193,if,me/le,"Hypothetical (Ply 1970)",,5,
+68965,194,how?,behee,"Like what?",,11,1
+69679,196,"to count",dau,"Count, read (Crl)",,8,1
+70036,197,One,dahi,"One (Crl)",,41,1
+70393,198,Two,lua,Two,,1,1
+70750,199,Three,dolu,"Three (Crl)",,1,1
+71107,200,Four,haa,Four,,"1,66",1
+83761,201,Five,lima,"Hand, arm.(Source: Pollex)",,1,
+159521,202,Six,ono,,,1,
+83663,203,Seven,hidu,"Seven.(Source: Pollex)",,1,
+90505,204,Eight,valu,"Pollex 06: Valu. :Eight.",,3,
+83538,205,Nine,siva,"Nine.(Source: Pollex)",,"5, 44, 43",
+83430,206,Ten,mada/angahulu/,"Ten objects.(Source: Pollex)",,5,
+83353,209,"One Hundred",lau,"Hundred.(Source: Pollex)",,2,
+83319,210,"One Thousand",mano,"Thousand.(Source: Pollex)",,2,

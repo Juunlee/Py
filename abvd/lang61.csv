@@ -1,0 +1,181 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+61,Kemak,"Blust, from Stevens (1967)",kem,kema1243,"Stevens, A.M. (1967) Kemak: An Austronesian language. Anthropological Linguistics, 9:26-32.",,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Timor, Ramelaic, West","Simon Greenhill","Simon Greenhill","@article{100844,  journal    = {Anthropological Linguistics},  number     = {1},  pages      = {26-32},  title      = {Kemak: An Austronesian Language},  volume     = {9},  year       = {1967},  bibtexkey  = {stevens_kemak-austronesian1967},  hhtype     = {wordlist},  inlg       = {English [eng]},  macro_area = {Papua},  src        = {hh},  srctrickle = {hh#w:Stevens:Kemak},  author     = {Stevens, Alan M.}}"
+latitude,longitude
+-8.98545999999999978058,125.22766000000000019554
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+61,1,hand,lima-r,,,"1,64",1
+418,2,left,to:ʔi,,,10?,
+775,3,right,ba:na,,,1,1?
+71482,4,leg/foot,ɔɛ|ɛ,,,1,1?
+71483,4,leg/foot,pa-r,,,20,1?
+1489,5,"to walk",sɔlɛʔ-rae,,,74,
+1846,6,road/path,sala,,,1,1
+2203,7,"to come",mai,,,1,1
+2560,8,"to turn",si:pɛ,,,,
+2917,9,"to swim",nagi,,,"1,45",1
+3274,10,dirty,riʔi,<A,,1,1
+3631,11,dust,"ra:pɔ apa",,,1?,?
+3988,12,skin,uliti,,,1,1
+4345,13,back,"gənɔ-rɔ tai ait",,,,
+4702,14,belly,waʔi-ri,,,88,
+5059,15,bone,ru:i,,,2,
+5416,16,intestines,"tɛr susu",,,1,
+5773,17,liver,atɛ-r,,,1,1
+6844,20,"to know, be knowledgeable",ta:da,,,37,
+7201,21,"to think",hanɔi,,,5?,
+7558,22,"to fear",təmaʔut,,,1,1
+7915,23,blood,ra,,,1,1
+8272,24,head,gara-r,,,66,
+8629,25,neck,kɔrɔ-rɔ,,,12,
+8986,26,hair,"gara-ra hulu","head fur (ASch)",,31,
+9343,27,nose,ilu-ru,,,1,1
+9700,28,"to breathe","mɛrɛs hɔpar",,,,
+10057,29,"to sniff, smell",mɛʔu,,,65?,
+10414,30,mouth,ibɔ-rɔ,,,39,
+10771,31,tooth,nipa-r,,,1,1
+11128,32,tongue,lamara,,,6,?
+11485,33,"to laugh",gi:nala,,,8,
+12199,35,"to vomit",muta,,,1,1
+12556,36,"to spit",lɔtaʔabara,????,,109,1
+12913,37,"to eat",a,,,1,1
+13627,39,"to cook","ede sanu",,,,
+13984,40,"to drink",inu,,,1,1
+14341,41,"to bite",at,,,1,1
+14698,42,"to suck",mus,,,6,
+15055,43,ear,li:ga:-ra,,,47,1
+15412,44,"to hear",rɛ:ga,,,1,1
+15769,45,eye,mata-r,,,1,1
+16126,46,"to see",ɛtɔ,,,1,
+16840,48,"to sleep",bɔɛ,,,43,
+17197,49,"to lie down",bwɛ:kaka,,,,
+17911,51,"to sit",mudu,,,146,?
+18268,52,"to stand",a:ra,,,,
+18625,53,"person/human being",atamasa,,,4,
+18982,54,man/male,ma:nɛ,,,1,1
+19339,55,woman/female,hi:nɛ,,,"1,41",1
+19696,56,child,ana-r,,,1,1
+20053,57,husband,la:i-ri,,,9,
+20410,58,wife,hɛ-r,,,31,
+20767,59,mother,i:na-ra,,,1,1
+21124,60,father,ama-kai,,,1,1
+22195,63,name,gala-ra,,,1,1
+22552,64,"to say",ha:bu,,,,
+22909,65,rope,tali,,,1,1
+23266,66,"to tie up, fasten",hu:tu:,,,9,
+23623,67,"to sew",sɔ:ra,,,10,
+24337,69,"to hunt","mɔla rae",,,,
+24694,70,"to shoot",posi,,,2,
+25051,71,"to stab, pierce",u:nu,,,89,
+25408,72,"to hit",ti:di,,,108,
+26122,74,"to kill",taupɛ:pa,,,,
+26479,75,"to die, be dead",matɛ,,,1,1
+26836,76,"to live, be alive",mwasa,,,"1,76?",
+27193,77,"to scratch",kurui,,,1?,
+27550,78,"to cut, hack",ta,,,1,1
+27907,79,stick/wood,ai,,,1,1
+28264,80,"to split",pɔʔa,,,,
+28621,81,sharp,hati,,,94,
+28978,82,"dull, blunt",bo:u,,,21,
+29335,83,"to work",sirbian,,L,,
+30763,87,"to swell",bubu,,,3,
+31120,88,"to squeeze",measa,,,43,1?
+31477,89,"to hold",sa:li,,,,
+31834,90,"to dig",du:i,,,,
+33262,94,"to throw",tia:ra,,,108,
+33619,95,"to fall",manahu,,,"1,106",1
+33976,96,dog,asu,,,1,1
+34333,97,bird,ma:nu,,,1,1
+34690,98,egg,"manu telo",,,1,1
+35047,99,feather,hulu-ru,,,1,1
+35404,100,wing,lilapa,,,6,
+35761,101,"to fly",muluhu,,,88,
+36475,103,meat/flesh,si,,,1,1
+36832,104,fat/grease,kɔlɛ,,,,
+37189,105,tail,hiʔo,,,1?,?
+37546,106,snake,ulala,,,2,1
+37903,107,"worm (earthworm)",kwɛ:rɛ,,,,
+38260,108,louse,u:tu,,,1,1
+39331,111,fish,ika,,,1,1
+39688,112,rotten,ma:pu:,,,"52,107",?
+40402,114,leaf,"ai taha",,,7,
+40759,115,root,ha:ʔa:,,,2?,?
+41116,116,flower,"ai hi:tu",,,6,
+41473,117,fruit,"ai hoa",,,1,1
+41830,118,grass,sut,,,,1?
+42187,119,earth/soil,rae,,,4,
+42544,120,stone,hatu,,,1,1
+42901,121,sand,ɛrɔgɔ,,,,
+43258,122,water,bi:a,,,2,
+43615,123,"to flow",dɔ:dɔ,,,,
+43972,124,sea,tasi,,,1,1
+44329,125,salt,si:a,,,1,1
+44686,126,lake,tapʔo,,,,
+45043,127,woods/forest,"ai lara",,,11,
+45400,128,sky,"lɛlo mata",,,,
+45757,129,moon,ulan,,,1,1
+46114,130,star,hi:tu,,,1,1
+46471,131,cloud,tahɔ,,,,
+46828,132,fog,ta:hɔ,,,,
+47185,133,rain,u:sa,,,1,1
+48256,136,wind,agi,,,1,1
+48613,137,"to blow",huiri,,,,
+48970,138,warm,banasa,,,1,1
+49327,139,cold,raisuma,,,,
+79222,140,dry,mɛgɛga,,,,
+79223,140,dry,siu,,,,
+50041,141,wet,bia:,,,,
+50398,142,heavy,mɛdɛda,,,,
+50755,143,fire,api,,,1,1
+51112,144,"to burn","api na",,,,
+51469,145,smoke,m|asu,,,2,1
+51826,146,ash,ra:pɔ,,,1?,
+52183,147,black,metama,,,1,1
+52540,148,white,buti,,,1,1
+52897,149,red,mea:ka,,,1,1?
+53254,150,yellow,mɛgɛ,,,,
+53611,151,green,mɔsɔkɔ,,,,
+53968,152,small,lɔ:ba,,,7,
+54325,153,big,bɔ:tɛ,,,9?,
+54682,154,short,badaka,,,54,1
+55039,155,long,m|alaru,,,1,1
+55396,156,thin,hidɛrɛ,,,,
+55753,157,thick,hɔmɔgɔ,,,,
+56110,158,narrow,kɔlɔtɔ,,,8?,
+56467,159,wide,mɔlɔa,,,1,1
+57538,162,old,tu:ma,,,1?,?
+57895,163,new,hɛ:u,,,1,1
+58252,164,good,mɔlɔi,,,11,
+58609,165,"bad, evil","tai mɔlɔi",,,,
+58966,166,"correct, true",tua:,,,33,
+59323,167,night,dodaga,,,9,
+59680,168,day,ha:la,,,,
+60037,169,year,tɔna,,,1,1
+60394,170,when?,bai|pi:la,,,1,1
+61465,173,at,di:a,,,20?,?
+61822,174,"in, inside","dia lara",,,1,1
+62893,177,this,nɔgɔ,,,4,
+63250,178,that,nua,,,,
+63607,179,near,hɛ:si:,,,,
+63964,180,far,sɔgɔ,,,,
+64321,181,where?,puana:-ba,,,2,
+64678,182,I,au,,,1,1
+65035,183,thou,ɔ,,,1,1
+65392,184,he/she,ua,,,4,
+119308,185,we,ita,,,1,1
+119309,185,we,ami,,,2,
+66106,186,you,imi,,,"1,13",1
+66463,187,they,rɔma,,,5,
+66820,188,what?,seba,,,1,
+67177,189,who?,ba:sia,,,1?,
+67534,190,other,sɛ:lɔ:,,,6,
+67891,191,all,hotuhotu,,,11,
+68248,192,and,nɔ,,,7,?
+68605,193,if,kalu,,L,14,
+68962,194,how?,tausɛ-wa,,,,
+69319,195,"no, not",tai,,,4,
+82773,196,"to count",su:ra,,,7,
+82774,196,"to count",gai,,,,
+70033,197,One,sia,(<M),,1,1
+70390,198,Two,hru:a,,,"1,28",1
+70747,199,Three,telu,,,1,1
+71104,200,Four,pat,,,1,1

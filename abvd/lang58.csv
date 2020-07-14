@@ -1,0 +1,361 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+58,Rarotongan,"POLLEX 2000 (Bruce Biggs & Ross Clark)",rar,raro1241,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Nuclear, East, Central, Tahitic","Simon Greenhill","Simon Greenhill","@article{POLLEX,  journal = {Oceanic Linguistics},  number  = {2},  pages   = {551--559},  title   = {{POLLEX-Online: The Polynesian Lexicon Project Online}},  volume  = {50},  year    = {2011},  author  = {Greenhill, Simon J. and Clark, Ross}}"
+latitude,longitude
+-21.27853125091835906346,-159.74635497374418946492
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+83879,1,hand,kapu,"Palm of hand, instep of foot (Sve)",,x,
+83880,1,hand,rima,"Five, hand",,1,
+71451,2,left,kauī,,,"1,42",
+71452,2,left,kauvī,,,"1,42",
+71453,2,left,mauī,,,"1,59",
+772,3,right,katau,"Right (as opposed to left) (Bse)",,"5,40",1
+83940,4,leg/foot,tapuae,"Footmark, footprint, sole of the foot (Sve)",,x,
+83941,4,leg/foot,vae,Leg,,"1, 100",
+1486,5,"to walk",àere,"Go, walk, proceed, progress",,6,1
+1843,6,road/path,ara,"Road, path, passage, way, trail, track (Bse)",,1,1
+2200,7,"to come",tātā'i,,,,
+71706,8,"to turn",'akapa'e,,,11,
+71707,8,"to turn",'iki'iki,,,,
+71708,8,"to turn",pa'e,,,11,
+2914,9,"to swim",kau,Swim,,5,1
+87933,10,dirty,repo,"Dirty, soiled, foul, dirt, muck, mud, to shit (Bse)  Stained, smeared, sullied (Bse)",,9,1
+87934,10,dirty,àvaàva,,,8,
+3628,11,dust,puèu,"Dust, scattered",,"1, 74",1
+3985,12,skin,kiri,Skin,,1,1
+4342,13,back,mokotua,"Back of human beings and quadrupeds (Sve)",,"100, 11",1
+88011,14,belly,kona,"Lower abdomen",,8,1
+88012,14,belly,koopuu,"Belly, stomach",,2,
+88013,14,belly,manava,"Stomach, nature, disposition (Bse)",,9,
+5056,15,bone,ivi,Bone,,"52,5",1
+5413,16,intestines,ngaakau,Intestines,,12,1
+5770,17,liver,ate,Liver,,1,1
+6127,18,breast,uu,"Nipple, breast",,1,1
+72223,19,shoulder,'ua,,,78,1
+72224,19,shoulder,pakuìvi,,,8,1
+72225,19,shoulder,pukuìvi,,,8,1
+72226,19,shoulder,pokoivi,,,8,1
+88375,20,"to know, be knowledgeable",kite,"See, know",,12,
+88376,20,"to know, be knowledgeable",maatau,"Have knowledge of, be accustomed to, be in the habit of (Bse)",,1,
+7198,21,"to think",maàra,"Thought, memory, recollection, come to mind",,8,1
+88514,22,"to fear",mataku,"Fear v., afraid (to be)",,1,1
+88515,22,"to fear",iì,,,9,
+7912,23,blood,toto,"Blood (Sve)",,4,1
+8269,24,head,upoko,Head,,10,
+8626,25,neck,kakii,Neck,,20,1
+88605,26,hair,'uru,"Hair (of animals and body-hair of humans), fur, feathers, fleece (Bse)",,x,
+88606,26,hair,rauru,"Hair of head",,40,
+9340,27,nose,putaang/iqu/,Nose,,"1,2",1
+9697,28,"to breathe",ngaa,"Pant, gasp",,10,
+10054,29,"to sniff, smell",'ongi,"Touch noses, smell (I)",,9,1
+10411,30,mouth,vaà,Mouth,,"1,8",
+10768,31,tooth,ni'o,Tooth,,1,1
+11125,32,tongue,arero,Tongue,,15,1
+11482,33,"to laugh",kata,Laugh,,7,1
+11839,34,"to cry",tangi,"Any noise or sound, but especially of weeping",,1,1
+88859,35,"to vomit",rua/ki,Vomit,,"8,31",
+88860,35,"to vomit",puaki,"Spew, belch, spit out",,"1,32",
+88881,36,"to spit",puaki,"Spew, belch, spit out",,16,
+88882,36,"to spit",tu/tuà/,"Spit (Sve)",,120,
+12910,37,"to eat",kai-nga,"Food, eat",,"1,47",1
+73306,38,"to chew",ngau-a,Chew,,8,1
+73307,38,"to chew",-ìa,Chew,,,1
+89657,39,"to cook",ta'u,"Cook, burn, set on fire (Sve)",,10,
+89658,39,"to cook",tao,"To cook in an oven (Sve)",,10,
+13981,40,"to drink",inu,Drink,,1,1
+89766,41,"to bite",kati,"Bite, nip (v)",,"1,55",
+89767,41,"to bite",eti,"Gnaw, tear, bite [<]",,"9, 84",
+90014,42,"to suck",ngote-a,"Suck in/up",,9,
+90015,42,"to suck",-ìa,"absorb (Bse)  Suck",,,
+90016,42,"to suck",miti,lick,,8,
+15052,43,ear,taringa,"Ear (Sve)",,1,1
+15409,44,"to hear",rongo,"Hear, news",,1,1
+90115,45,eye,kanoì,Eyeball,,4,
+90116,45,eye,mata,"Eye, face",,1,
+16123,46,"to see",kite,"See, know",,1,1
+16480,47,"to yawn",àamama,"Yawn, open the mouth (Mka)",,"19,28",1
+16837,48,"to sleep",moe,Sleep,,"10, 109",1
+90740,49,"to lie down",'akatakoto,,,7,
+90741,49,"to lie down",'akatīpapa,,,21,
+90742,49,"to lie down",moe,,,6,
+17551,50,"to dream",moemoeaa,"A dream, to dream (Sve)",,"7,27",1
+17908,51,"to sit",no'o,"Sit, dwell",,16,1
+18265,52,"to stand",tuu,"Stand, upright, to be",,2,1
+18622,53,"person/human being",tangata,"General name for mankind (Sve)",,"1,66, 97",1
+91003,54,man/male,tamaroa,"A son, a male child",,x,
+91004,54,man/male,taane,"Male, husband, lover, man (Sve)",,"1,11",
+74276,55,woman/female,vaìne,"Woman  Female",,"1,106, 116",
+74277,55,woman/female,ìne,"Woman  Female",,"1,41",
+91119,56,child,tama,"Child, term of address to man",,6,1
+91120,56,child,tamariki,"Children (pl. of tamaiti), be a child (Bse)",,"6,63",
+91121,56,child,tamaiti,"Boy, child (Bse)",,"6,64",
+20050,57,husband,taane,"Male, husband, lover, man (Sve)",,14,1
+20407,58,wife,va'ine,,,"5,68",
+20764,59,mother,māmā,"L from English",L,,
+91305,60,father,metua,,,9,
+91306,60,father,pā,"L from English",L,,
+91307,60,father,pāpā,"L from English",L,,
+21478,61,house,àre,House,,14,1
+21835,62,thatch/roof,ato,Thatch,,1,1
+22192,63,name,ingoa,Name,,6,1
+74770,64,"to say",araara,,,60,
+74771,64,"to say",karanga,,,169,
+74772,64,"to say",kōrero,,,11,
+74773,64,"to say",tuatua,,,,
+22906,65,rope,taura,"Rope, cord (Sve)",,9,1
+91457,66,"to tie up, fasten",ìitiki-a,"Tie on around or up, tie a knot, bind, tether (Bse)",,148,1
+91458,66,"to tie up, fasten",-ìa,"Tie, lash, bind",,16?,
+91459,66,"to tie up, fasten",-na,"Bind, tie tightly round, tether, snare (in a noose) (Bse)",,13?,
+91460,66,"to tie up, fasten",rii,"Tie, lash, tether, bind (Bse)",,14,
+91461,66,"to tie up, fasten",nati-a,,,13,
+91462,66,"to tie up, fasten",taapeka,,,17,
+23620,67,"to sew",tui,"Sew, thread, pierce (Sve)",,"13, 16",1
+23977,68,needle,au,"Wooden needle",,1,1
+91576,69,"to hunt",kimi,hunt,,,
+91577,69,"to hunt",apuapu,"hunt down",,,
+24691,70,"to shoot",taa/àna/,"Shoot with bow",,1,1
+75292,71,"to stab, pierce",pātia,,,9,
+75293,71,"to stab, pierce",pātiatia,,,9,
+75294,71,"to stab, pierce",vero,,,15,
+75295,71,"to stab, pierce",verovero,,,15,
+91676,72,"to hit",papaki,"(Bse). Slap, hit, smack (Sve)",,6,1
+91677,72,"to hit",paakia,"Passive of papaki (Bse)",,6,
+91678,72,"to hit",patu,"Strike, knock with sudden short blow (Bse)",,7,
+91679,72,"to hit",taa,"Hit, strike, fight, attack (Bse)",,10,
+91680,72,"to hit",ta-ia,"Pound, beat, bruise, strike (Sve)",,10,
+91681,72,"to hit",tuki,,,8,
+25762,73,"to steal",keiaa,"Steal, thief (Mka)",,"7,65",1
+91843,74,"to kill",kikini,,,,
+91844,74,"to kill",tā,,,8,
+91845,74,"to kill",tāmate,,,2,
+91846,74,"to kill",tāmatemate,,,2,
+91847,74,"to kill",putu,,,9,
+91892,75,"to die, be dead",mate,Die,,1,
+91893,75,"to die, be dead",po'e,"Dwindle, die down (of flame, light), screwed up (of eyes), dazzled (Bse)",,3,
+91922,76,"to live, be alive",ora,"Life, health, recover from illness, alive, satiated with food",,6,
+91923,76,"to live, be alive",mauri,"Life principle, spirit, seat of the emotions (Bse)",,"1, 76",
+75621,77,"to scratch",raku(raku),"Scratch with fingernails or claws  Scratched",,9,
+75622,77,"to scratch",raraku,"Scratch with fingernails or claws  Scratched",,9,
+92025,78,"to cut, hack",vaaì/a,"To split, break (Bse)",,13,1
+92026,78,"to cut, hack",kokoti,"Cut (with blade), sever, reap (Bse)",,9,
+92027,78,"to cut, hack",kootia,"Sever, cut v",,9,
+92028,78,"to cut, hack",motu,"Chop, chisel or adze something into shape, carve something out (Bse)",,"54, 14",
+92029,78,"to cut, hack",tarai,,,1,
+27904,79,stick/wood,raakau,"Wood, tree, shrub, plant, pole, rod, stick, weapon",,1,1
+92343,80,"to split",ngaàa,"Open, cracked, broken, split, severed",,"5, 97",1
+92344,80,"to split",vaaì,"To break, split, share",,4,
+92345,80,"to split",tapaì,"To split, cleave lengthwise (Sve), chop down vertically on something, split or cleave lengthwise",,"4,6",
+28618,81,sharp,koi,Sharp,,"14,66",
+28975,82,"dull, blunt",mania,"Smooth, flat, blunt (Bse)",,11,1
+29332,83,"to work",ànga/ànga,"Work, labour, deed",,10,1
+76099,84,"to plant",tanu,,,2,
+76100,84,"to plant",tanutanu,,,2,
+76101,84,"to plant",tatanu,,,2,
+30046,85,"to choose",ìri,"Select, choose",,1,1
+30403,86,"to grow",tupu,Grow,,1,1
+76274,87,"to swell",'akangē(ngē),,,,
+76275,87,"to swell",'akapetetue,,,,
+76276,87,"to swell",ē,,,,
+76277,87,"to swell",ngaru,,,,
+76278,87,"to swell",ōpuepue,,,30,
+92593,88,"to squeeze",romi,Squeeze,,10,1
+92594,88,"to squeeze",tatau,"To squeeze, crush or press (Sve)",,13,
+92659,89,"to hold",kuku-a,"Draw or bunch together, roll up (as sleeves), ruck up, grab (Bse)",,12,1
+92660,89,"to hold",puke/na,"Take hold of  Reach for (as for fish in a hole)",,13,
+92661,89,"to hold",tango,,,14,
+31831,90,"to dig",keri,"Dig v",,1,1
+32188,91,"to buy",'oko,"Buy, sell, trade",,7,1
+76623,92,"to open, uncover",'akangangata,,,,
+76624,92,"to open, uncover",'akapu'ata,,,,
+76625,92,"to open, uncover",'akatū'era'era,,,,
+32902,93,"to pound, beat",tuki,"Pound, beat, bruise, strike (Sve)",,2,1
+104359,94,"to throw",maka,"Throw, hurl, sling, a sling (Bse)",,11,1
+104360,94,"to throw",peeì-a,"Throw directly at (Bse)",,12?,
+104361,94,"to throw",-ìa,"Throw, cast, hurl, fling (Sve)",,,
+104362,94,"to throw",tii,"Throw, cast (Sve)",,9,
+104363,94,"to throw",tiri,,,9,
+104573,95,"to fall",makuru,"Fall gently and profusely (as leaves or petals)",,11,1
+104574,95,"to fall",marere,"Fall, of fruit from a tree, etc",,12,
+104575,95,"to fall",ìnga,"Fall over from an upright position, topple over, be overthrown (Sve)",,44,
+104576,95,"to fall",topa,"Fall from a height, fallen",,124,
+33973,96,dog,kurii,Dog,,7,1
+89849,97,bird,manu,"Bird or beast, creature (Bse)",,1,1
+89850,97,bird,manu/rere,Bird,,1,
+89851,97,bird,"manu rere","Birds that fly",,1,
+34687,98,egg,ua,,,5,
+77043,99,feather,'uru,feathers,,1,
+77044,99,feather,'uru'uru,feathers,,1,
+35401,100,wing,peeàu,"Wing, pectoral fin (Bse)",,"1,81",1
+35758,101,"to fly",rere,"Jump, fly v",,11,1
+36115,102,rat,kiore,Rat,,12,1
+36472,103,meat/flesh,kiko,"Meat, tuber, fleshy, fully developed (of tubers), bast (of paper mulberry or breadfruit) (Bse)",,10,1
+104745,104,fat/grease,ngako,"Internal fat of fish or animals",,14,
+104746,104,fat/grease,ìnu,"Oil, fat",,12,
+37186,105,tail,ìku,"Tail of animal, fish, bird (Sve)",,13,1
+37543,106,snake,'ōuī,"L from Greek",L,,
+37900,107,"worm (earthworm)",toke,"Worm (Sve)",,7,
+105125,108,louse,kutu,"Louse  Body lice",,1,
+105126,108,louse,"kutu papa","the crab louse (Pthirius pubis)",,"1,6",
+38614,109,mosquito,namu,"Mosquito, gnat, midge (Bse)",,1,1
+105167,110,spider,tukutuku/ra'onui,"General term for spiders",,"5,39",
+39328,111,fish,ika,,,1,
+105193,112,rotten,para,"Ripe, rotten",,13,
+105194,112,rotten,popo,Decay,,14,
+40042,113,branch,raaraa,"Branch, twig, off-shoot",,1,
+40399,114,leaf,rau,Leaf,,1,1
+40756,115,root,paki-aka,"The bark of tree roots (Sve)",,2,1
+41113,116,flower,pua,"Flower, blossom",,1,1
+41470,117,fruit,'ua,Fruit,,1,1
+105362,118,grass,mauku,"Grass, rushes, hay, straw (Bse)",,58,
+105363,118,grass,matie(e),"Green, grass (Bse)",,13,
+42184,119,earth/soil,kere/maroo,"Dry soil (Bse)",,10,
+134105,119,earth/soil,repo,"Dirty, soiled, foul; dirt, muck, mud; to shit (Bse)",,11,
+78088,120,stone,pooàtu,"Stone (Mka)  Stone (Mka)",,"1,19",1
+78089,120,stone,pooàtu,"Stone (Mka)  Stone (Mka)",,"1,19",1
+42898,121,sand,one,"Soil, earth, sand (Bse)",,1,1
+43255,122,water,vai,Water,,2,1
+43612,123,"to flow",ta'e,"Leak, melt, ooze, trickle (Sve)",,10,1
+107762,124,sea,moana,Sea,,10,
+107763,124,sea,tai,"Sea, sea water, coast bordering the sea, tide (Sve)",,1,
+44326,125,salt,miti,"Salt water",,7,1
+44683,126,lake,roto,Lagoon,,6,1
+107842,127,woods/forest,ngaa/ngaaere/,"(Full of) weeds, useless grasses, plants or bushes (Bse)",,16,1
+107843,127,woods/forest,uru/raakau,"Clump of trees",,"15, 13",
+107844,127,woods/forest,vao,Forest,,14,
+45397,128,sky,rangi,"Sky, heaven (Bse)",,1,1
+45754,129,moon,marama,,,7,
+46111,130,star,'eetuu,"Star (Bse)",,1,1
+78639,131,cloud,tiao,,,"12, 117",
+78640,131,cloud,tūrangi,,,3,
+78641,131,cloud,tumurangi,,,3,
+107964,132,fog,ko'u,"Mist, fog",,"1, 47",
+107965,132,fog,maa'uu,"Wet, damp, moist, humid",,10,
+47182,133,rain,ua,Rain,,1,1
+47539,134,thunder,māngūngū,,,106,
+108026,135,lightning,rapa,"Flash of lightning, dazzle, glitter",,9,
+108027,135,lightning,uira,Lightning,,2,
+48253,136,wind,matangi,"Wind, air (Bse)",,"1,66",1
+108099,137,"to blow",angi,"Blow (of wind, breeze)",,8,1
+108100,137,"to blow",àrara,"To blow, rise, gust (of wind) (Bse)",,9,
+108101,137,"to blow",puì,Blow,,6,
+48967,138,warm,maàna,Warm,,"1, 72",1
+122703,139,cold,anu,Cold,,8,1
+122704,139,cold,"anu toketoke","Very cold (Bse)",,"8,9",
+49681,140,dry,maroo,"Dry, withered (Bse)",,13,
+79320,141,wet,mā'ū,,,11,
+79321,141,wet,mā'ū'ū,,,11,
+79322,141,wet,tārari,,,9,
+122740,142,heavy,tei/maà/,Heavy,,"46,66",1
+122741,142,heavy,tai/maà/,Heavy,,"46,66",
+122742,142,heavy,teimaà,"Weight, heaviness, load (Sve)",,"46,66",
+50752,143,fire,aì,"Fire, light",,1,1
+122751,144,"to burn",ta'u,"Cook, burn, set on fire (Sve)",,8,
+122752,144,"to burn",tutungi,"Pass. tuungia Set fire to, kindle, light (match, lamp, cigarette, etc.) (Buse)",,"1,7",
+79519,145,smoke,au,"Smoke  Smoke (Sve)",,2,
+79520,145,smoke,auaì,"Smoke  Smoke (Sve)",,2,
+51823,146,ash,rèu,Ashes,,67,1
+123245,147,black,kere,Black,,5,1
+123246,147,black,uri,"Dark coloured",,7,
+123247,147,black,ìva,Blackish,,6,
+52537,148,white,tea,"White, clear (Sve)",,8,1
+123130,149,red,kura,Red,,13,
+123131,149,red,'ute,"L from Tahitian",L,14,
+53251,150,yellow,rengarenga,Yellow,,10,1
+79814,151,green,matie,,,"1, 11",
+79815,151,green,'akamatie,,,"1,11",
+79816,151,green,tāmatie,,,"1, 11",
+132651,152,small,iti,Small,,1,1
+132652,152,small,riki,Small,,66,1
+132653,152,small,àka(ri)riki/,"Make smaller",,66,1
+132654,152,small,poto,Short,,10,1
+79991,153,big,ākā,,,31,
+79992,153,big,'akamatū,"CAUS + matuu",,73,
+79993,153,big,āma'atama'ata,,,31,
+79994,153,big,ngao,,,130,
+79995,153,big,katakata,,,,
+79996,153,big,ma'ata,,,31,
+79997,153,big,ma'atama'ata,,,31,
+54679,154,short,poto,Short,,9,1
+55036,155,long,roa,"Long a",,"12,105",1
+80184,156,thin,angiangi,,,18,
+80185,156,thin,rairai,,,5,
+55750,157,thick,maatoru,"Thick through, stout and solid",,3,1
+80240,158,narrow,oaoa,,,12,
+80241,158,narrow,'ōiti,,,89,
+80242,158,narrow,kōkota,,,26,
+80243,158,narrow,kōpū,,,48?,
+80244,158,narrow,kōpāpā,,,48?,
+80245,158,narrow,tākokota,,,26,
+80246,158,narrow,tākōpāpā,,,48?,
+122862,159,wide,'a'ano,,,7,
+122863,159,wide,ātea,,,21,
+123011,160,"painful, sick",mamae,"Pain, feel pain, ache, hurt, painful (Bse)",,10,
+123012,160,"painful, sick",maauiui,"Tired, weary, fatigued",,"1,12",
+57178,161,"shy, ashamed",tā'akamā,ashamed,,1,
+57535,162,old,taìto,"Be old, ancient, antique, days of yore, antiquity, old age (Bse)",,10,
+57892,163,new,'oou,"New, recent (Bse)",,1,1
+120881,164,good,reka,Pleasant,,14,
+120882,164,good,meitaki,"Good, pleasant, excellent",,15,
+58606,165,"bad, evil",kino,"Evil, bad, wicked, ugly, unfortunate, hurt, general intensifier (Bse)",,9,1
+58963,166,"correct, true",tika,"Right, correct, true (Sve)",,9,1
+59320,167,night,poo,Night,,1,1
+59677,168,day,ao,"Day (not night)",,"1, 54",1
+89899,169,year,mataìti,"Year (Bse)",,7,
+89900,169,year,tau,"A season or period (Sve)",,1,
+60391,170,when?,aa'ea,"When? Where? (Bse)",,5,1
+80986,171,"to hide",puni,"Hide (obs.) (Bse)  Hide (Bse)",,1,
+80987,171,"to hide",pi(i)pini,"Hide (obs.) (Bse)  Hide (Bse)",,1,
+61105,172,"to climb","kake-a -ìa -na","Climb, mount, serve (Bse)",,32,1
+122905,173,at,i,"At (preposed particle)",,1,
+122906,173,at,tei,"At, in, in the act of (Sve), relative pronoun (past) (Bse)",,5,
+61819,174,"in, inside",roto,"Inside, lagoon, lake",,5,1
+62176,175,above,runga,Above,,9,1
+62533,176,below,raro,"Below, under",,8,1
+81345,177,this,te(e)ia,,,"7,45",1
+81346,177,this,teia,,,"7,45",1
+81347,177,this,teeia,,,,1
+125622,178,that,taua,,,x,
+125623,178,that,aua,,,x,
+63604,179,near,vai/tata/,Near,,9,1
+63961,180,far,mamao,Distant,,13,1
+64318,181,where?,'ea,Where?,,"3,35",1
+81778,182,I,au,"First person singular pronoun (Focus)  First person singular (Possessive)",,"1,21",
+81779,182,I,-ku,"First person singular pronoun (Focus)  First person singular (Possessive)",,x,
+65032,183,thou,koe,"Second person singular, thou",,1,1
+123285,183,thou,koe,"Second person singular, thou",,1,1
+65389,184,he/she,ia,"He, she",,1,1
+123101,185,we,mātou,,,"2, 39",
+123102,185,we,tātou,"1 pl. incl.",,"1, 39",
+123286,186,you,koorua,"Second person dual pronoun, you (Ply)",,x,
+123287,186,you,kootou,"You, plural (Bse)",,16,
+82133,187,they,rātou,,,"1, 72",
+82134,187,they,rāua,dual,,x,
+66817,188,what?,aà,What,,1,1
+67174,189,who?,ài,Who?,,1,1
+122455,190,other,kē,,,8?,
+122456,190,other,ta'i,,,7,
+122457,190,other,tēta'i,,,7,
+67888,191,all,katoa,"All, (The) whole, together",,13,1
+68245,192,and,maa,"And, in company with (used to link units with tens but not confined to this) (Bse)",,2,1
+68602,193,if,me,"If, conditional (Ply 1970)",,5,1
+68959,194,how?,pèea,How?,,11,1
+123590,195,"no, not",kaa'ore,"No! (Aitutaki) (Bse)",,11,
+123591,195,"no, not",àuraka,"Negative imperative marker (Bse)",,12,
+82771,196,"to count",tārē,,,43,
+82772,196,"to count",tatau,,,"8,80",
+70030,197,One,taì,"One (Sve)",,41,1
+70387,198,Two,rua,Two,,1,1
+70744,199,Three,toru,"Three (Sve)",,1,1
+71101,200,Four,àa,"Four (Bse)",,"1,66",1
+83760,201,Five,rima,"Five, hand.(Source: Pollex)",,1,
+111859,202,Six,ono,,,1,
+83662,203,Seven,'itu,"Seven.(Source: Pollex)",,1,
+111860,203,Seven,itu,,,1,
+90596,204,Eight,varu,"Pollex 06: Varu. :Eight.",,3,
+83537,205,Nine,iva,"Nine.(Source: Pollex)",,"5,44,66",
+83429,206,Ten,nga'uru,"Ten.(Source: Pollex)",,"5,32",
+121447,207,Twenty,"rua ngauru-",,,"3,6",
+111861,208,Fifty,"rima ngauru",,,"1,15",
+111862,209,"One Hundred","tai anere","L from English (ta'i 'one' ; 'anere 'loan for hundred')",L,11,
+83318,210,"One Thousand",mano,"A thousand, or a thousand brace (Etn).(Source: Pollex)",,2,
+111863,210,"One Thousand",tavatini,"L from English",L,11,
+111864,210,"One Thousand",tauatini,"L from English",L,11,

@@ -1,0 +1,207 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+17,Bonerate,"Jim Collins",bna,bone1254,,,"Austronesian, Malayo-Polynesian, Celebic, Eastern, Southeastern, Muna-Buton, Tukangbesi-Bonerate","Simon Greenhill","Simon Greenhill","@misc{Collins-17-2005,  author = \"Jim Collins\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-7.38970540131016573326,121.78894042968750000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+17,1,hand,lima,,,"1,64",1
+374,2,left,mɔhí,,,"1,59",1
+731,3,right,mɔana,,,"1,29",1
+1088,4,leg/foot,ae,,,1,1
+1445,5,"to walk",βila,,,,
+1802,6,road/path,intɛŋa,,,10,
+2159,7,"to come",βaliako,,,,
+2516,8,"to turn",koti,,,,
+87884,9,"to swim",keaβa,swim,,39,
+87885,9,"to swim",naŋu,"to sport in the water",,1,
+3230,10,dirty,marota,,,24,
+3944,12,skin,kuli,,,1,1
+4301,13,back,ta|liku,,,1,1
+4658,14,belly,kompo,,,2,
+5015,15,bone,ɓuku,,,16,
+5372,16,intestines,"kalu kompo",,,22,
+5729,17,liver,ate,,,1,1
+6086,18,breast,titi,,,6,
+6443,19,shoulder,ɓahu,,,17,
+6800,20,"to know, be knowledgeable",ɗahani,,,30,
+7157,21,"to think",βikiri,"loan of 22?",L,22,
+7514,22,"to fear",maʔeka,,,33,
+7871,23,blood,"raha [draha]",,,1,1
+8228,24,head,kapala,"Skt kapala 'skull'",L,45,
+8585,25,neck,βuʔu,,,38,
+8942,26,hair,hɸotu,,,19,
+9299,27,nose,ŋoʔo,,,22,
+9656,28,"to breathe",monaʔa,,,1,1
+10013,29,"to sniff, smell",anti,,,,
+10370,30,mouth,ŋusu,,,2,
+10727,31,tooth,koni,,,16,
+11084,32,tongue,ela,,,4,
+11441,33,"to laugh",koni,,,27,
+11798,34,"to cry",ɗoʔito,,,14,
+12155,35,"to vomit",tɔkumbɔ,,,9,
+12512,36,"to spit",ɛ:lu,,,,
+12869,37,"to eat",maŋa,,,"1,14",?
+13226,38,"to chew",munta,,,20,
+13583,39,"to cook",mɔtaʔa,,,26,
+13940,40,"to drink",moroʔu,,,15,
+14297,41,"to bite",kaha,,,1,1
+14654,42,"to suck",pɔnɔ,,,18,
+15011,43,ear,tuli,,,12,
+15368,44,"to hear",hiki|ɗoŋo,,,1,1
+15725,45,eye,mata,,,1,1
+16082,46,"to see",ita,,,1,1
+16439,47,"to yawn",momaʔa,,,"19,9",1
+16796,48,"to sleep",moturu,,,1,1
+17153,49,"to lie down",m͡bale,,,,
+17510,50,"to dream",hɸomo|nihi,,,"25,1",1
+17867,51,"to sit",kɛɗɛ,,,37,
+18224,52,"to stand",taɗɛ,,,"22,24",
+18581,53,"person/human being",mia,,,19,
+18938,54,man/male,moane,,,1,1
+19295,55,woman/female,βoβine,,,"1,106",1
+19652,56,child,iɗana,,,24,?
+20009,57,husband,moaneno,,,,
+20366,58,wife,βoβineno,,,5,
+20723,59,mother,ina,,,1,1
+21080,60,father,ama,,,1,1
+21437,61,house,sapu,,,20,
+21794,62,thatch/roof,hɛlombo,,,17,
+22151,63,name,ŋa,,,1,1
+22508,64,"to say",bisara,,L,,
+23222,66,"to tie up, fasten",ɓoke,,,29,
+23579,67,"to sew",mɔhaki,,,41,
+23936,68,needle,deʏu,,,1,?
+24293,69,"to hunt",pajere,,,,
+24650,70,"to shoot",temba,,,49,
+25007,71,"to stab, pierce",toɓu,,,24,
+25364,72,"to hit",paluʔe,,,1,1
+25721,73,"to steal",hɸomo|nako,,,1,1
+26078,74,"to kill",hɸokomateʔe,,,2,1
+26435,75,"to die, be dead",mate,,,1,1
+26792,76,"to live, be alive",tumbu,,,19,
+27149,77,"to scratch",kaho,,,1,1
+27506,78,"to cut, hack",palɛ,,,,
+27863,79,stick/wood,kaw,,,1,1
+28220,80,"to split",βola,,,1,1
+28577,81,sharp,mohama,,,33,
+28934,82,"dull, blunt",motutu,,,,
+29291,83,"to work",jama,,,24,
+29648,84,"to plant",amo,,,22,
+30005,85,"to choose",pili,,,1,1
+30362,86,"to grow",tumbu,,,1,1
+30719,87,"to swell",mɔbela,,,1,?
+31076,88,"to squeeze",pɛnsɛ,,,,?
+31433,89,"to hold",kɔnta,,,29,
+31790,90,"to dig",kɛkɛ,,,,
+32147,91,"to buy",ɓalu,,,23,
+32504,92,"to open, uncover",leka,,,21,
+32861,93,"to pound, beat",tumbuʔe,,,9,
+33218,94,"to throw",po:ke,,,27,
+33575,95,"to fall",ɓuti,,,35,
+33932,96,dog,oɓu,,,25,
+34289,97,bird,kaɗaɗi,,,21,
+34646,98,egg,goraʔu,,,18,
+35003,99,feather,βulu,,,1,1
+35360,100,wing,ka:pi,,,46,
+35717,101,"to fly",lola,,,25,
+36074,102,rat,βolɛke,,,27,
+36431,103,meat/flesh,niʔi,,,1,?
+36788,104,fat/grease,taɓa,,,23,
+37145,105,tail,i:ku,,,1,1
+37502,106,snake,saʔa,,,27,
+37859,107,"worm (earthworm)",ngalangala,,,15,
+38216,108,louse,kutu,,,1,1
+38573,109,mosquito,βai,,,24,
+38930,110,spider,kaβaoβao,,,19?,
+39287,111,fish,kɛnta,,,22,
+39644,112,rotten,ɗaʔɔ,,,,
+40001,113,branch,paŋka,,,22?,
+40358,114,leaf,"rɔʔo [drɔʔɔ]",,,1,1
+40715,115,root,aka,,,2,1
+41072,116,flower,kamba,,L?,21?,
+41429,117,fruit,ɓaʔe,,,11,
+41786,118,grass,rɔmpɔ,,,27,
+42143,119,earth/soil,βuta,,,27,
+42500,120,stone,βatu,,,1,1
+42857,121,sand,one,,,1,1
+43214,122,water,teʔe,,,16,
+43571,123,"to flow",βulu,,,,
+43928,124,sea,tai,,,1,1
+44285,125,salt,gara,,L,18,
+44642,126,lake,tomba-tomba,,,,
+44999,127,woods/forest,h:ɸɔβɔ,,,35,
+45356,128,sky,laŋi,,,1,1
+45713,129,moon,kɔmba,,,18,
+46070,130,star,βituʔɔ,,,1,1
+46427,131,cloud,lɔnɔ,,,30,
+47141,133,rain,mɔnda,,,13,
+47498,134,thunder,tɔndu,,,34,
+47855,135,lightning,lala,,,21,
+48212,136,wind,βandɛ,,,31,
+48569,137,"to blow",iri,,,,
+48926,138,warm,mɛna,,,27,
+49283,139,cold,kɛnku,,,27,
+49640,140,dry,mɔtiti,,,,
+49997,141,wet,mɛpa,,,22,
+50354,142,heavy,mɔbɔha,,,1,1
+50711,143,fire,luk|api,,,1,1?
+51068,144,"to burn",tunu,,,1,1
+51425,145,smoke,gɔpo,,,13,
+52139,147,black,ɓiru,,L,,
+52496,148,white,muhɸutɛ,,,1,1
+52853,149,red,meha,,,1,1
+53210,150,yellow,makuri,,,1,
+53567,151,green,kudara,,,,
+53924,152,small,paepae,,,,
+54281,153,big,toʔoha,,,26,
+54638,154,short,mɛɗumpu,,,26,
+54995,155,long,mɛlaŋka,,,31,
+55352,156,thin,mɔnihi,,,1,1
+55709,157,thick,mɔkɔbɔ,,,1,?
+56066,158,narrow,maseke,,,21,
+56423,159,wide,tɔʔɔha,,,,
+56780,160,"painful, sick",mohɸou,,,28,
+57137,161,"shy, ashamed",mo͡yini,,,18,
+57494,162,old,mansuana,,,,?
+57851,163,new,βɔʔɔw,,,1,1
+58208,164,good,bajiŋa,,,,
+58565,165,"bad, evil",daʔɔ,,,1?,?
+58922,166,"correct, true",kɔɓe,,,,
+59279,167,night,wutu,,,27,
+59636,168,day,mɔina,,,13,
+59993,169,year,taʔu,,,1,1
+60350,170,when?,ara,,,"1,65",
+60707,171,"to hide",ɔkɔ,,,15,
+61064,172,"to climb",ɛka,,,19,
+61421,173,at,ɗi,,,20,1
+61778,174,"in, inside","ɗi laro",,,1,1
+62135,175,above,"di βaβɔ",,,2,1
+62492,176,below,"di βɔru",,,21,
+81329,177,this,ia,,,11,
+81330,177,this,haʔia,,,11,
+81435,178,that,atu,,,16,1
+81436,178,that,haʔatu,,,16,1
+63563,179,near,mɛɗani,,,1,1
+63920,180,far,mɛlai,,,28,
+64277,181,where?,"ɗi maʔumpa",,,19,
+64634,182,I,iaku,,,1,1
+64991,183,thou,ikɔʔɔ,,,1,1
+65348,184,he/she,iʔia,,,1,1
+111921,185,we,ikita,,,1,1
+111922,185,we,ikami,,,2,
+66062,186,you,ikomiu,,,"1,13",1
+66419,187,they,iamay,,,13,
+66776,188,what?,haira,,,13,
+82285,189,who?,yɛʔɛmai,,,1?,?
+82286,189,who?,iʏɛʔɛmai,,,1?,?
+67490,190,other,hile,,,16,
+67847,191,all,baʔanorɛ,,,29,
+68204,192,and,kɛnɛ,,,16,
+68561,193,if,ara,,,13,
+82622,194,how?,"aβa na",,,22,
+82623,194,how?,ʔumpa,,,22,
+69275,195,"no, not",m͡bɛʔa,,,30,
+69632,196,"to count",rɛkɛ,,L,39,
+69989,197,One,asa,,,1,1
+70346,198,Two,ɗua,,,1,1
+70703,199,Three,tolu,,,1,1
+71060,200,Four,paʔa,,,1,1

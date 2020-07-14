@@ -1,0 +1,189 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+225,Taiof,"Malcolm Ross",sps,sapo1253,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Meso Melanesian, New Ireland, South New Ireland-Northwest Solomonic, Nehan-North Bougainville, Saposa-Tinputz","Peng Du","Simon Greenhill","@misc{Ross-225-2005,  author = \"Malcolm Ross\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-5.74325805829891677945,155.17835383359860657038
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+225,1,hand,nima-naih,,,1,1
+582,2,left,keruk,,,17,
+939,3,right,matou,,,"5,13",1
+1296,4,leg/foot,mou-naih,,,61,
+1653,5,"to walk",tan,,,32,
+2010,6,road/path,sanan,,,1,1
+2367,7,"to come",om,,,1,
+3081,9,"to swim",sisiuf,,,12,
+3438,10,dirty,boŋ,"cf 'night'",,16,
+3795,11,dust,ku|af,cf.146,,1,
+4152,12,skin,pua-naih,,,,
+4509,13,back,touno-naih,,,12,
+4866,14,belly,koma-naih,,,44,
+5223,15,bone,tuana-naih,,,"1,10",
+5580,16,intestines,tsinaih,,,1,1
+5937,17,liver,at,,,1,1
+6294,18,breast,sus,,,1,1
+7008,20,"to know, be knowledgeable",nat,,,98,
+7722,22,"to fear",orav,,,,
+8079,23,blood,rafatsiŋ,,,8,
+8436,24,head,patu-naih,,,9,
+8793,25,neck,gogo-naih,,,27,
+9150,26,hair,funu-naih,,,31,
+9507,27,nose,usu-naih,,,1,1
+9864,28,"to breathe",sifuas,,,43,
+10221,29,"to sniff, smell",taof,,,,
+10578,30,mouth,ŋue-naih,,,2,
+10935,31,tooth,ŋisi-naih,,,24,1
+11292,32,tongue,mia-naih,,,7,
+11649,33,"to laugh",or,,,,
+12006,34,"to cry",taŋis,,,1,1
+12363,35,"to vomit",nua,,,8,
+12720,36,"to spit",kisuf,spittle,,"19,91",
+13077,37,"to eat",aiŋ,"(<M?) cf 167,168",,1?,1?
+13434,38,"to chew",aŋas,,,12,
+86010,39,"to cook",nana,bake,,108,
+86011,39,"to cook",fahonon,boil,,54,
+14148,40,"to drink",yiu,,,,?
+14505,41,"to bite",koteh,,,12,
+14862,42,"to suck",sus,,,25,1
+15219,43,ear,teina-naih,,,1,1
+15576,44,"to hear",noŋon,,,"1, 36",1
+15933,45,eye,mata-naih,,,1,1
+16290,46,"to see",abar,,,,
+16647,47,"to yawn",muaf,,,19,
+17004,48,"to sleep",goros,,,14,
+17361,49,"to lie down",tahun,,,51,
+17718,50,"to dream",tora,,,16?,
+18075,51,"to sit",vagum,,,79,
+18432,52,"to stand",tutun,,,"2,69",1
+18789,53,"person/human being",mes,,,,
+19146,54,man/male,tsoiŋ,,,"46, 68",
+19503,55,woman/female,moun,,,11,
+19860,56,child,bai,,,11,
+20217,57,husband,natso-naih,,,57,
+20574,58,wife,natu-naih,,,,
+20931,59,mother,tsina-naih,,,1,1
+21288,60,father,tama-naih,,,1,1
+21645,61,house,numa,,,1,1
+22002,62,thatch/roof,votof,,,1,1
+22359,63,name,asaŋ,,,"1,18",1
+22716,64,"to say",keta,,,55,
+23073,65,rope,afon,,,14,
+23430,66,"to tie up, fasten",kitskits,,,20,
+23787,67,"to sew",vir,,,,
+24501,69,"to hunt",naiŋ,,,,
+24858,70,"to shoot",fana,,,1,1
+25572,72,"to hit",rak,,,,
+25929,73,"to steal",kabuts,,,,
+26286,74,"to kill",atuiŋ,,,18,
+26643,75,"to die, be dead",mat-en,,,1,1
+27000,76,"to live, be alive",toto,,,8,
+27357,77,"to scratch",kar,,,12,1
+27714,78,"to cut, hack",vinau,,,,
+28071,79,stick/wood,paiŋ,,,,
+28428,80,"to split",vosa,,,,
+28785,81,sharp,aiŋ,,,14,
+29499,83,"to work",binun,,,,
+29856,84,"to plant",takan,,,,
+30570,86,"to grow",gian,,,,
+30927,87,"to swell",pua,,,,
+31284,88,"to squeeze",pots,,,18,?
+31641,89,"to hold",naom,,,50,
+31998,90,"to dig",baira,,,30,
+33426,94,"to throw",tat,,,68,
+33783,95,"to fall",tsidup,,,,
+34140,96,dog,kas,,,31,
+34497,97,bird,marei,,,33,
+34854,98,egg,tah,,,,
+35211,99,feather,funu,,,1,1
+35568,100,wing,pakpak,,,33,
+35925,101,"to fly",ruaf,,,1,
+36282,102,rat,kiso,,,"3,88",
+36639,103,meat/flesh,veno,,,10,
+36996,104,fat/grease,kovar,,,,
+37353,105,tail,fenen,,,,
+37710,106,snake,kora,,,18,
+38067,107,"worm (earthworm)",tsitsi,,,,
+38424,108,louse,bik,,,,
+38781,109,mosquito,kusi,,,15,
+39495,111,fish,yian,,,1,1
+39852,112,rotten,murak,,,79,
+40209,113,branch,nan,,,1,1
+40566,114,leaf,noun,,,1,1
+40923,115,root,voran,,,2,
+41280,116,flower,purpur,,,13,
+41637,117,fruit,kat,seed,,,
+41994,118,grass,aufiŋ,,,,
+42351,119,earth/soil,peto,,,16,
+42708,120,stone,fat,,,1,1
+43065,121,sand,moŋi|on,,,1,?
+43422,122,water,aurom,,,,
+43779,123,"to flow",tatsiu,,,78,
+44136,124,sea,naman,,,14,
+44493,125,salt,tasi,,,20,
+45207,127,woods/forest,ratu,,,24,
+45564,128,sky,koro,,,76,
+45921,129,moon,ifa,,,49,
+46278,130,star,kotsits,,,,
+46635,131,cloud,koro,,,19,
+46992,132,fog,mias,,,,
+47349,133,rain,raŋits,,,7,
+47706,134,thunder,pinaguru,,,23,
+48063,135,lightning,pedek,,,,
+48420,136,wind,aiŋsat,,,,
+48777,137,"to blow",taf,,,25,
+49134,138,warm,fisiki,,,29,
+49491,139,cold,kour,,,,
+49848,140,dry,parak,,,17,
+50205,141,wet,bum,,,,
+50919,143,fire,wu|af,,,1,1
+51276,144,"to burn",akor,,,,
+51633,145,smoke,um,,,,
+51990,146,ash,ku|af,,,"1,69",1
+52347,147,black,boŋ,,,31,
+52704,148,white,gose,,,,
+53061,149,red,marar,,,1,
+53418,150,yellow,aŋom,,,9,
+53775,151,green,bubuir,,,17,
+54132,152,small,ats,,,,
+54489,153,big,buiŋ,,,24,
+54846,154,short,kakat,,,16,
+55203,155,long,viviako,,,,
+56274,158,narrow,kapou,,,,
+56631,159,wide,taporas,,,41,
+56988,160,"painful, sick",kamits,,,18,
+58059,163,new,foun,,,"1,26",1
+58416,164,good,rof,,,,
+58773,165,"bad, evil",iriŋ,,,,
+59130,166,"correct, true",rof,,,,
+59487,167,night,voiŋ,(<M),,1,1
+59844,168,day,naiŋ,(<M),,6,1
+60201,169,year,iŋaiŋ,,,58,
+60558,170,when?,faraiŋ,?,,,
+60915,171,"to hide",kaya,,,,
+61629,173,at,i,,,1,1
+61986,174,"in, inside",koma-na,,,7,
+62343,175,above,patu-na,,,,
+62700,176,below,fai-na,,,1,
+63057,177,this,tar|aih,,,,
+81518,178,that,av|aih,,,,
+81519,178,that,tamou|aih,,,,
+63771,179,near,pana-na,,,,
+64128,180,far,vivian,,,,
+64485,181,where?,ifia,"interr adverb",,"3,35",
+64842,182,I,aiŋa,,,,
+65199,183,thou,anoh,,,"1,18",
+65556,184,he/she,aye,,,1?,
+86022,185,we,aneh,,,2,
+86023,185,we,amam,,,2,
+66270,186,you,aŋim,,,8,
+66627,187,they,areh,,,25,
+66984,188,what?,"a sa",,,1,?
+67341,189,who?,"e se",,,1,1
+67698,190,other,mespanan,,,,
+68055,191,all,kinaih,,,,
+68412,192,and,an,,,,?
+69126,194,how?,ifia,,,24,
+69483,195,"no, not",sikeh,,,10,
+69840,196,"to count",asas,,,10,
+70197,197,One,isen,,,1,?
+70554,198,Two,fuan,"< *pua- 'round obj' + *rua '2'",,1,
+70911,199,Three,fopis,,,4,
+71268,200,Four,fats,,,"1,65",1

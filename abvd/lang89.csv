@@ -1,0 +1,218 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+89,Mekeo,"Andrew Kavana",mek,meke1243,,,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, Papuan Tip, Peripheral, Central Papuan, West Central Papuan, Nuclear","Simon Greenhill","Simon Greenhill","@misc{Kavana-89-2005,  author = \"Andrew Kavana\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-8.33000000000000007105,146.50000000000000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+89,1,hand,ima,,,1,1
+446,2,left,lafani,,,88,
+803,3,right,kai,,,14,
+1160,4,leg/foot,ife,,,,
+1517,5,"to walk",pea,,,,
+1874,6,road/path,keaga,,,74,
+2231,7,"to come",mai,,,1,1
+2588,8,"to turn",me'e,,,,
+2945,9,"to swim",gau,,,,
+3302,10,dirty,ofu,,,21,
+3659,11,dust,ae|apu,,,1,1?
+4016,12,skin,faga,,,,
+4373,13,back,ofa,,,,
+4730,14,belly,gua,,,22,
+5087,15,bone,unia,,,40,
+5444,16,intestines,inae,,,1,1
+5801,17,liver,'a'e,,,1,1
+6158,18,breast,olaga,,,,
+6515,19,shoulder,fago,,,17,
+6872,20,"to know, be knowledgeable",logo,,,19,
+7229,21,"to think",opola,,,,
+7586,22,"to fear",mani'i,,,,1
+7943,23,blood,ifa,,,,
+8300,24,head,kania,,,,
+8657,25,neck,aiso,,,"1,31",
+9014,26,hair,fufu,,,"13,55",1
+9371,27,nose,kua,,,1,
+9728,28,"to breathe",guga,,,,
+10085,29,"to sniff, smell","foga logo","foga (smell) logo (know)",,42,
+10442,30,mouth,ake,,,15,
+10799,31,tooth,nie,,,24,?
+11156,32,tongue,mala,,,7,
+11513,33,"to laugh",'a'a,,,68,
+11870,34,"to cry",'apepe,,,64,
+12227,35,"to vomit",'uga,,,7,
+12584,36,"to spit",'upe,,,"19,88",
+12941,37,"to eat",'aniani,,,1,1
+13298,38,"to chew",ufa,,,,
+13655,39,"to cook",gaku,,,3,
+14012,40,"to drink",inu,,,1,1
+14369,41,"to bite",kafina,,,,
+14726,42,"to suck",guga,"irregular *u > a",,25,
+15083,43,ear,aina,,,1,1
+15440,44,"to hear","aina logo","aina (ear) logo (know)",,"1, 36",
+15797,45,eye,ma,,,1,1
+16154,46,"to see",isa,"East Mekeo, add in database",,1,?
+16511,47,"to yawn",aufa'a,,,19,
+16868,48,"to sleep",feu,,,,
+17225,49,"to lie down",kakipo,,,103,
+17582,50,"to dream",nipi,,,"1, 60",
+17939,51,"to sit",agu,,,159,
+18296,52,"to stand",apa,,,42,
+18653,53,"person/human being",papiau,,,"1, 68",
+19010,54,man/male,maguae,,,1,
+19367,55,woman/female,papie,,,"1,120",1
+19724,56,child,imoi,,,95,
+20081,57,husband,akafa,,,2,1
+20438,58,wife,akafa,,,1,
+20795,59,mother,ina,,,1,1
+21152,60,father,ama,,,1,1
+21509,61,house,'e'a,,,75,
+21866,62,thatch/roof,"'upi 'ofaofa",,,69,
+22223,63,name,aka,,,"1,18",1
+22580,64,"to say",ifa,,,13,
+22937,65,rope,apa'u,,,87,
+23294,66,"to tie up, fasten",gope,,,,
+23651,67,"to sew",kai|na,,,2,1?
+24008,68,needle,nila,,L,,
+24365,69,"to hunt",kapukapu,,,89,
+128554,70,"to shoot","mo ipitina",,,22,
+25079,71,"to stab, pierce",fauga,"to plant, embed (e.g. a knife)",,,
+131490,71,"to stab, pierce",o-ga,"main transitive verb meaning 'pierce' (as with a spear).",,,
+25436,72,"to hit",auga,,,38,
+25793,73,"to steal",painao,,,"1,32",1
+26150,74,"to kill","au pugua",,,18,
+26507,75,"to die, be dead",mae,,,1,1
+26864,76,"to live, be alive",agu,,,,
+27221,77,"to scratch",'a'i'ina,,,58,
+27578,78,"to cut, hack",opia,,,,
+27935,79,stick/wood,au,,,1,1
+28292,80,"to split",fafa,,,1,
+28649,81,sharp,ako,,,,1
+29006,82,"dull, blunt",efugu,,,"1,33",
+29363,83,"to work",pinauga,,,"19,31",
+29720,84,"to plant",fauga,,,17,
+30077,85,"to choose",kinaga,,,13,
+30434,86,"to grow",fauga,,,8?,
+30791,87,"to swell",ufu,,,12,
+31148,88,"to squeeze",fioka,,,,?
+31505,89,"to hold",afia,,,23,
+31862,90,"to dig",apia,,,59,
+32219,91,"to buy",afa,,,66,
+32576,92,"to open, uncover",pagalaisa,,,,
+32933,93,"to pound, beat",auga,,,65,
+33290,94,"to throw",piuga,,,,
+33647,95,"to fall",ufalai,,,,
+34004,96,dog,amu'e,,,102,
+34361,97,bird,inei,,,,
+34718,98,egg,aoi,,,1,1
+35075,99,feather,pui,,,1,1?
+35432,100,wing,pani,,,2,1
+35789,101,"to fly",gopo,,,1,1?
+36146,102,rat,inema,,,,
+77211,103,meat/flesh,tsitsi,,,1,
+77212,103,meat/flesh,'a'o,,,,
+36860,104,fat/grease,'o'o,,,22,
+37217,105,tail,iu,,,1,1
+37574,106,snake,kapa,,,,
+37931,107,"worm (earthworm)",'ima'ima,,,48,
+38288,108,louse,'u,,,1,1
+38645,109,mosquito,eisei,,,16,
+39359,111,fish,ma'a,,,11,
+39716,112,rotten,foka,,,"9,74",
+40073,113,branch,aga,,,"1,34",
+40430,114,leaf,"au gagau","au (tree) gagau (leaf)",,,
+40787,115,root,gagamu,,,3,1
+41144,116,flower,kaikai,,,19,
+41501,117,fruit,"au pua",,,1,1
+41858,118,grass,afa,,,35,
+42215,119,earth/soil,agoa,,,94,
+42572,120,stone,kepo,,,14,
+42929,121,sand,figu,,,68,
+43286,122,water,fei,,,2,1
+43643,123,"to flow",kipo,,,81,
+44000,124,sea,'a'u,,,19,
+78390,125,salt,kikimalu,,,14,
+78391,125,salt,'i'ifo,,,,
+44714,126,lake,ofuga,,,15,
+45071,127,woods/forest,aufa'i,,,,
+45428,128,sky,'ufa,,,17,
+45785,129,moon,gafa,,,,
+46142,130,star,mi'imi'i,,,87,
+46499,131,cloud,'apuapu,,,,?
+46856,132,fog,ama,,,31,
+47213,133,rain,imu,"ufa (sky) eauga (hitting)",,12,
+47570,134,thunder,"ufa eauga",,,"98, 27",
+47927,135,lightning,kimage,,,,
+48284,136,wind,ameku,"south-east wind - a cool, pleasant wind",,,
+129017,136,wind,lanina,"north-west wind",,1,
+48641,137,"to blow",pua,,,17,
+48998,138,warm,isapu,,,21,
+49355,139,cold,keke'a,,,,
+49712,140,dry,fuga,,,102,
+50069,141,wet,fei,,,25,
+50426,142,heavy,meau,,,48,
+50783,143,fire,lo,,,1,
+51140,144,"to burn",aga,,,17,
+51497,145,smoke,aku,,,2,1
+51854,146,ash,agafa,,,,
+52211,147,black,umu,,,18,
+52568,148,white,kelo,,,,
+52925,149,red,pito,,,37,
+53282,150,yellow,laofa,,,87,
+53639,151,green,ageage,,,84,
+53996,152,small,'e'ele,,,,
+54353,153,big,apao,,,10,
+54710,154,short,fo'oa,,,,
+55067,155,long,maefa,,,67,
+55424,156,thin,manipi,,,1,1
+55781,157,thick,afua,,,69,
+56138,158,narrow,"epo 'e'ele",,,,
+56495,159,wide,falapa,,,48,1?
+56852,160,"painful, sick",kiekie,,,,
+57209,161,"shy, ashamed",mea|gai,,,1,1?
+57566,162,old,apao,,,,
+57923,163,new,mama,,,19,
+58280,164,good,felo,,,,
+58637,165,"bad, evil",apala,,,113,
+58994,166,"correct, true",ko'a,"< *sota",,50,
+59351,167,night,gapi,,,21,
+59708,168,day,kina,,,11,
+60065,169,year,inipo,,,59,
+60422,170,when?,gaika,,,1,1
+60779,171,"to hide",oge-vake,"derived verb form, transitive only, meaning literally 'put' + 'hide, be hidden'",,57,
+131862,171,"to hide",au-vake,"hide (transitive)",,57,
+131863,171,"to hide",oge-vake,"hide (transitive)",,57,
+61136,172,"to climb",'agau,,,,
+61850,174,"in, inside",alo,,,1,1
+62207,175,above,a'oni,,,1,
+62564,176,below,papa,,,1,1
+62921,177,this,i'ina,,,67,
+63278,178,that,ega'ina,,,1,
+63635,179,near,egai,,,,
+63992,180,far,akai,,,1,
+64349,181,where?,kapai,,,3,
+64706,182,I,lau,,,"1,21",1
+65063,183,thou,isa,,,,
+81944,184,he/she,isa,,,1,
+81945,184,he/she,isa,,,1,
+119296,185,we,'i'a,,,1,1
+119297,185,we,lai,,,8,
+66134,186,you,oi,,,19,
+66491,187,they,isa,"irregular *r > s",,1,
+66848,188,what?,kapa|ina,,,1,1?
+82287,189,who?,kai,,,1,1
+82288,189,who?,kaisau,,,1,1
+67562,190,other,isa'i,,,,
+67919,191,all,ma'oai,,,,
+68276,192,and,ke,,,63,1?
+68633,193,if,aisama,,,3,
+68990,194,how?,alakoa,,,,
+69347,195,"no, not",la'i,,,1,
+69704,196,"to count",pauga,,,,
+70061,197,One,agao,,,"14,79",
+70418,198,Two,gua,,,1,1
+70775,199,Three,oiso,,,1,
+71132,200,Four,pani,,,"1,69",1?
+166793,201,Five,ima,,,1,
+173058,202,Six,imagea,,,,
+173057,203,Seven,"imagea gua",,,,
+173056,204,Eight,"imagea oiso",,,,
+173055,205,Nine,"imagea pani",,,,
+166792,206,Ten,ou'a'ga,,,46,

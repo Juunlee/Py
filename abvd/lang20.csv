@@ -1,0 +1,222 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+20,Javanese,"Pujiati Suyata",jav,java1254,,,"Austronesian, Malayo-Polynesian, Javanese","Simon Greenhill","Simon Greenhill","@misc{Suyata-20-2005,  author = \"Pujiati Suyata\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-7.40604771707625797461,110.96191406250000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+20,1,hand,taŋan,,,18,
+377,2,left,kiwa,,,27,
+734,3,right,təŋən,,,"1,83",
+1091,4,leg/foot,sikil,,,"24,60",
+1448,5,"to walk",mlaku,,,1,1?
+1805,6,road/path,dalan,,,1,1
+2162,7,"to come",təka,,,17,
+2519,8,"to turn",menggok,,,97,
+2876,9,"to swim",ŋlaŋi,,,1,
+3233,10,dirty,rəgət,,,34,
+3590,11,dust,blədug,,,,
+3947,12,skin,kulit,,,1,1
+4304,13,back,gəgər,,,26,
+4661,14,belly,wətəŋ,,,29,
+5018,15,bone,baluŋ,,,17,
+5375,16,intestines,usus,,,24,
+5732,17,liver,ati,,,1,1
+6089,18,breast,susu,,,1,1
+6446,19,shoulder,pundak,,,67,
+345022,19,shoulder,pundak,,,67,
+6803,20,"to know, be knowledgeable",ŋərti,"< Sanskrit",L,140,
+7160,21,"to think",mikir,"loan of 22?; SA: < ult. < Arabic",L,22,
+7517,22,"to fear",wədi,,,,
+7874,23,blood,gətih,,,18,
+8231,24,head,sirah,"< Sanskrit",L,31,
+8588,25,neck,gulu,,,39,
+8945,26,hair,rambut,,,20,
+9302,27,nose,iruŋ,,,1,1
+9659,28,"to breathe",ambegan,,,27,
+10016,29,"to sniff, smell",ŋambu,,,25,
+10373,30,mouth,caŋkəm,"X (= rude, SA)",,101,
+345023,30,mouth,tutuk,,,26,
+10730,31,tooth,untu,,,18,
+11087,32,tongue,ilat,,,"4,25",
+11444,33,"to laugh",ŋguyu,,,29,
+11801,34,"to cry",naŋis,,,1,1
+12158,35,"to vomit",mutah,,,1,1
+12515,36,"to spit",idu,,,32,
+12872,37,"to eat",maŋan,,,"1,14",1
+13229,38,"to chew",mamah,,,1,1
+73359,39,"to cook",masak,,,19,
+73360,39,"to cook",olah-olah,,,,
+13943,40,"to drink",ŋombe,,,,
+14300,41,"to bite",ñokot,,,,
+14657,42,"to suck",ñərot,,,16,
+15014,43,ear,kupiŋ,,,"15,51",
+15371,44,"to hear",kruŋu,,,1,1
+15728,45,eye,mata,,,1,1
+16085,46,"to see",ndələŋ,,,,
+16442,47,"to yawn",aŋop,,,19,
+16799,48,"to sleep",turu,,,1,1
+17156,49,"to lie down",turon,,,,
+17513,50,"to dream",ŋimpi,,,1,1
+17870,51,"to sit",loŋguh,,,38,
+18227,52,"to stand",ŋadek,,,22,
+18584,53,"person/human being",uwoŋ,,,20,
+18941,54,man/male,lanaŋ,,,124,
+74266,55,woman/female,wadon,,,18,
+74267,55,woman/female,wedok,,,18,
+19655,56,child,anak,,,1,1
+20012,57,husband,bojo,,,,
+20369,58,wife,bojo,,,,
+20726,59,mother,ibu,,,12,
+21083,60,father,bapak,,,5,1
+21440,61,house,omah,,,1,1
+21797,62,thatch/roof,atəp,,,1,1
+22154,63,name,jənəŋ,,,,
+22511,64,"to say",kanda,,,,
+22868,65,rope,tali,,,1,1
+23225,66,"to tie up, fasten",naleni,,,,
+23582,67,"to sew",dondom,,,,
+23939,68,needle,dom,,,1,1
+24296,69,"to hunt",mbəbəḍag,,,,
+24653,70,"to shoot",mbəḍil,"SA: < Tamil",L,9,
+25010,71,"to stab, pierce",nujəs,,,22,
+25367,72,"to hit",nutuk,,,8,
+25724,73,"to steal",ñoloŋ,,,,
+26081,74,"to kill",mateni,,,2,
+26438,75,"to die, be dead",mati,,,1,1
+26795,76,"to live, be alive",urip,,,1,1
+27152,77,"to scratch",ŋukur,,,21,
+27509,78,"to cut, hack",nugəl,,,36,
+27866,79,stick/wood,kayu,,,1,1
+28223,80,"to split",ñyigar,,,94,
+28580,81,sharp,lanḍəp,,,34,
+28937,82,"dull, blunt",keṭul,,,"80,59",
+29294,83,"to work","ñambut gawe",,,"25,21",
+29651,84,"to plant",nandur,,,,
+30008,85,"to choose",milih,,,1,1
+30365,86,"to grow",ṭukul,,,,
+30722,87,"to swell",aboh,,,1,1
+31079,88,"to squeeze",mərəs,,,42,1
+31436,89,"to hold",ñəkəl,,,31,
+31793,90,"to dig",nḍuḍuk,,,16,
+32150,91,"to buy",tuku,,,71,
+32507,92,"to open, uncover",mbukak,,,1,1?
+32864,93,"to pound, beat",nutu,,,20,
+33221,94,"to throw",ŋguwaŋ,,,,
+33578,95,"to fall",tiba,,,36,
+33935,96,dog,asu,,,1,1
+34292,97,bird,manuk,,,1,1
+34649,98,egg,ənḍog,,,20,
+35006,99,feather,wulu,,,1,1
+35363,100,wing,swiwi,,,,
+35720,101,"to fly",mabur,,,"34,52",
+36077,102,rat,tikus,,,22,
+36434,103,meat/flesh,ḍagiŋ,"X SA: = Malay",L,26,
+345021,103,meat/flesh,iwak,,,,
+36791,104,fat/grease,gajih,,,25,
+37148,105,tail,buntut,,,16,
+37505,106,snake,ula,,,2,1
+37862,107,"worm (earthworm)",caciŋ,,,23,
+38219,108,louse,tuma,,,3?,
+38576,109,mosquito,lemut,,,1,
+38933,110,spider,kemaŋga,,,,
+39290,111,fish,iwak,,,25,
+39647,112,rotten,mambu,,,"52,107",
+40004,113,branch,paŋ,,,"20,62",
+40361,114,leaf,godoŋ,,,20,
+40718,115,root,oyot,,,1,
+41075,116,flower,kəmbaŋ,,,21,
+41432,117,fruit,woh-wohan,,,1,1
+41789,118,grass,suket,,,28,
+42146,119,earth/soil,ləmah,,,,
+42503,120,stone,watu,,,1,1
+42860,121,sand,wəḍi,,,,
+43217,122,water,bañu,,,18,
+43574,123,"to flow",mili,,,56,1
+43931,124,sea,səgara,"SA: < Sanskrit",L,30,
+44288,125,salt,uyah,,,15,
+44645,126,lake,tlaga,,L,,
+45002,127,woods/forest,alas,,,1,1
+45359,128,sky,laŋit,,,1,1
+45716,129,moon,mbulan,,,1,1
+46073,130,star,lintaŋ,,,1,
+46430,131,cloud,mega,"< Sanskrit",L,113,
+46787,132,fog,pəḍut,,,87,
+47144,133,rain,udan,,,1,1
+47501,134,thunder,gludug,,,"2,96",
+47858,135,lightning,glèdèk,,,"1,98",1
+78886,136,wind,barat,"< Malay",L,8,
+78887,136,wind,aŋin,,,1,
+48572,137,"to blow",sumilir,"(of the wind)",,,
+345024,137,"to blow",ndamu,"(of a person)",,,
+48929,138,warm,panas,,,1,1
+49286,139,cold,aḍəm,,,,
+49643,140,dry,gariŋ,,,22,
+50000,141,wet,tələs,,,117,
+50357,142,heavy,abot,,,1,1
+50714,143,fire,gəni,"< Sanskrit",L,,
+51071,144,"to burn",ŋoboŋ,,,,
+51428,145,smoke,kəbul,,,,
+51785,146,ash,awu,,,1,1
+52142,147,black,irəŋ,,,32,
+52499,148,white,putih,,,1,1
+52856,149,red,abaŋ,,,33,
+53213,150,yellow,kuniŋ,,,1,
+53570,151,green,ijo,,,25,
+53927,152,small,cilik,,,,
+54284,153,big,gəde,"most probably derived from *gedang",,27,
+54641,154,short,cənḍak,,,"1,27",
+54998,155,long,dawa,,,33,
+55355,156,thin,tipis,,,"1,44",1
+55712,157,thick,kandəl,,,45,
+56069,158,narrow,ciut,,,,
+56426,159,wide,amba,,,,
+56783,160,"painful, sick",lara,,,118,
+57140,161,"shy, ashamed",isin,,,,
+57497,162,old,tuwa,,,1,1
+57854,163,new,añar,,,16,
+58211,164,good,apik,,,32,
+58568,165,"bad, evil",elek,,,,
+58925,166,"correct, true",bənər,,,1,1
+59282,167,night,bəŋi,,,1,1
+59639,168,day,dina,,,11,
+59996,169,year,tahun,,,1,1
+60353,170,when?,kapan,,,12,
+60710,171,"to hide",nḍəlik,,,,
+61067,172,"to climb",mènèk,,,1,
+61424,173,at,nèŋ,,,,
+61781,174,"in, inside","nèŋ njəro",,,,
+62138,175,above,"nèŋ nḍuwur",,,,
+62495,176,below,"nèŋ ŋisor",,,22,
+62852,177,this,iki,,,12,
+63209,178,that,kuwi,,,,
+63566,179,near,cəḍak,,,29,
+63923,180,far,adoh,,,1,1
+64280,181,where?,"ana ŋəndi",,,,
+64637,182,I,aku,,,1,1
+64994,183,thou,kowe,,,1,?
+65351,184,he/she,deweke,,,,
+65708,185,we,"aku kabeh",,,,
+66065,186,you,"kowe kabeh",,,,
+66422,187,they,"deweke kabeh",,,,
+66779,188,what?,apa,,,1,1
+67136,189,who?,sapa,,,12,?
+67493,190,other,liyà,,,2,
+67850,191,all,kabeh,,,31,
+68207,192,and,karo,,,,
+68564,193,if,nek,,,,
+68921,194,how?,piye,,,,
+69278,195,"no, not",ora,,,,
+69635,196,"to count",ŋituŋ,,,31,1
+69992,197,One,siji,"SA: < *sa-wiji 'one' seed'",87,"1,87",
+70349,198,Two,loro,,,1,1
+70706,199,Three,təlu,,,1,1
+71063,200,Four,papat,,,1,1
+83870,201,Five,lima,,,1,
+83844,202,Six,nəm,,,1,
+83866,203,Seven,pitu,,,1,
+83867,204,Eight,wolu,,,3,
+83868,205,Nine,saŋa,"SA: < *sa-nga-... 'one minus (ten)'",,12,
+83869,206,Ten,sə-puluh,,,5,
+108165,207,Twenty,"rong puluh",,,"3,6",
+108166,208,Fifty,sekət,,,,
+108167,209,"One Hundred",satus,"< sa-atus",,4,
+108164,210,"One Thousand",sewu,"Old JV sa-iwu",,5,

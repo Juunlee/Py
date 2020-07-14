@@ -1,0 +1,219 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+91,Mengen,"Dan Rath",mee,meng1267,"East New Britain",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Western Oceanic, North New Guinea, Ngero-Vitiaz, Vitiaz, Mengen","Peng Du","Simon Greenhill","@misc{Rath-91-2005,  author = \"Dan Rath\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-5.22224651322737543069,151.43554687500000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+91,1,hand,ka'mana,,,13,?
+448,2,left,kamanae'soali,,,,
+71472,3,right,kamanae'pe,,,,
+71473,3,right,kamanepe,,,,
+71488,4,leg/foot,'kaena,"cf 49",,1,1?
+71489,4,leg/foot,kæna,"cf 49",,1,1?
+1519,5,"to walk",tɔ,,,67,
+1876,6,road/path,pa'mau,,,,
+2233,7,"to come",'atu,(<+watu?!!),,72,
+2590,8,"to turn",tɔ'ḇasi,,,,
+344968,8,"to turn",mi-vàdika,intrans.,,,
+87889,9,"to swim",ui,underneath,,,
+87890,9,"to swim",'goeŋa,"on surface",,,
+3304,10,dirty,'muku,,,18,
+3661,11,dust,'gaḇu,,,59,1
+4018,12,skin,pa'tuna,,,,
+4375,13,back,ru'mena,,,,
+4732,14,belly,siana,,,1,1
+5089,15,bone,'gina,,,,
+5446,16,intestines,'lalaŋana,,,,
+5803,17,liver,'lona,,,15,
+6160,18,breast,'siu|na,,,1,1
+6517,19,shoulder,siŋina,,,,
+6874,20,"to know, be knowledgeable",'lomatana,,,,
+7231,21,"to think",lo'kʌn:ʌn:ʌ,,,,
+7588,22,"to fear",ma'tau,,,1,
+7945,23,blood,'toto,,,4,
+8302,24,head,'kun:a,,,,
+8659,25,neck,'gana,"entire neck",,,
+9016,26,hair,"gilina bulbuna",,,,
+9373,27,nose,isu|rumakia,,,1,?
+9730,28,"to breathe","unala matue",,,,
+10087,29,"to sniff, smell",'siuŋe,,,9,
+10444,30,mouth,'kɔna,,,36,
+10801,31,tooth,ŋiŋina,,,30,?
+11158,32,tongue,tɛŋɛ'tɛŋkia,,,,
+11515,33,"to laugh",'malili,,,3,
+11872,34,"to cry",'tani,,,1,1
+12229,35,"to vomit",'muta,,,1,1
+12586,36,"to spit",'ripi,,,,
+12943,37,"to eat",'kani,,,1,1
+13300,38,"to chew",ta'muŋ,,,,
+13657,39,"to cook",'tuḇa,,,38,
+14014,40,"to drink",'inu,,,1,1
+14371,41,"to bite",'kalatote,,,1,
+14728,42,"to suck",'rume,,,,
+15085,43,ear,loŋana,,,1,?
+73743,44,"to hear",loŋ,,,"1, 36",1
+73744,44,"to hear",loŋo,,,"1, 36",1
+73782,45,eye,matana,,,1,1
+73783,45,eye,kana,,,,1
+16156,46,"to see",kele,,,,
+16513,47,"to yawn",ma,"but cp 110",,19,?
+16870,48,"to sleep",kenrau,,,8,
+17227,49,"to lie down",keno,,,1,1
+17584,50,"to dream",mina,,,"1, 37",
+17941,51,"to sit",'tara,,,84,
+18298,52,"to stand",'meisi,,,,
+18655,53,"person/human being",'aǥau,,,,
+19012,54,man/male,'apanuŋ,,,,
+19369,55,woman/female,'aḇali,,,,
+19726,56,child,goe,,,46,
+20083,57,husband,'natale,,,,
+20440,58,wife,'napeŋana,,,,
+20797,59,mother,nau,,,7,
+21154,60,father,papa,"nursery form?",,48,
+21511,61,house,bale,,,14,
+21868,62,thatch/roof,"ʔbale kuna","house - it's head",,,
+22225,63,name,giana,,,66,
+22582,64,"to say",paŋamoloǥa,,,,
+22939,65,rope,ualo,,,2,
+23296,66,"to tie up, fasten",'same,,,,
+23653,67,"to sew",'sai|a,,,2,1?
+24010,68,needle,'sume,,,"1, 38",
+24367,69,"to hunt",'kelatɔ,,,,
+24724,70,"to shoot",'pare,,,1,
+25081,71,"to stab, pierce",'sule,,,,
+25438,72,"to hit",'balia,,,,
+25795,73,"to steal",golo,,,,
+26152,74,"to kill",'sapune,,,1,
+26509,75,"to die, be dead",mate,,,1,1
+26866,76,"to live, be alive",'mauli,,,"1, 76",1
+27223,77,"to scratch",'kalkalia,,,12,?
+27580,78,"to cut, hack",koḇue,,,,
+27937,79,stick/wood,begakorona,,,,
+28294,80,"to split",lopale,,,88,
+28651,81,sharp,ma'tana,,,36,
+29008,82,"dull, blunt",kumbakia,,,,
+29365,83,"to work",kuma,,,1,1
+29722,84,"to plant",'toea,,,28,
+30079,85,"to choose",lo'ŋana,,,,
+30436,86,"to grow",lele,,,,
+30793,87,"to swell",luŋu,,,,
+31150,88,"to squeeze",bibia,,,21,
+31507,89,"to hold",'kanruǥe,,,,
+31864,90,"to dig",kili|a,,,1,1
+32221,91,"to buy",kolia,,,15,
+32578,92,"to open, uncover","pula patali[a]",,,,
+32935,93,"to pound, beat",'popomuǥe,,,,
+33292,94,"to throw",ta'malkia,,,,
+33649,95,"to fall",'pupu,,,21,
+34006,96,dog,gauḇe,,,43,
+34363,97,bird,manu,,,1,1
+34720,98,egg,ka'tona,,,1,?
+35077,99,feather,"manu bul'buna",,,"75,77",1?
+35434,100,wing,pa'pana,,,,
+35791,101,"to fly",'lolo,,,1,?
+36148,102,rat,ba'ǥora,,,,
+36505,103,meat/flesh,mar'kali,,,,
+36862,104,fat/grease,mon'mona,,,"1,65",1
+37219,105,tail,bo'rona,,,,
+37576,106,snake,mue,,,12,
+37933,107,"worm (earthworm)",'onte,,,,
+38290,108,louse,'kutu,,,1,1
+38647,109,mosquito,'uŋa,,,96,
+39004,110,spider,'laua,,,1,1
+39361,111,fish,'lea,,,92,
+39718,112,rotten,'bona,,,"52,109",
+40075,113,branch,"beǥa kamana",,,,
+40432,114,leaf,lau,,,1,1
+40789,115,root,ku'la|na,,,58,
+41146,116,flower,lu'guna,,,30,
+41503,117,fruit,'kʌn:a,,,5,
+41860,118,grass,'paili,,,1,
+42217,119,earth/soil,ma'ǥalo,,,,
+42574,120,stone,lol:o,,,,
+42931,121,sand,ḇai,,,,
+43288,122,water,me,,,,
+43645,123,"to flow",'lele,,,16,
+44002,124,sea,'pelau,,,,
+44359,125,salt,poai,,,,
+44716,126,lake,"me ma'tana",,,,
+45073,127,woods/forest,'urapuna,,,,
+45430,128,sky,"taḇa ke'rana",,,,
+45787,129,moon,'in:a,,,,
+46144,130,star,'mata,,,,
+46501,131,cloud,mukmukua,,,,
+46858,132,fog,sa'u,,,,
+47215,133,rain,kue,,,1,1
+78794,134,thunder,"saia ke ruru",,,15,
+78795,134,thunder,"saia ke ḇali",,,,
+47929,135,lightning,ki'lama,,,,?
+78900,136,wind,iso,,,,
+78901,136,wind,boḇole,,,,
+78987,137,"to blow",iso,,,42,
+78988,137,"to blow",iso,,,42,
+49000,138,warm,'mampo,"bit hot & cold",,,
+49357,139,cold,marusu,,,,
+49714,140,dry,galgalaŋ,,,31,
+50071,141,wet,'beta,,,18,
+50428,142,heavy,'mæna,,,,
+50785,143,fire,'sia,,,,
+51142,144,"to burn",'tun|e,,,1,1
+51499,145,smoke,"sia ka'kaina",,,50,
+122616,146,ash,ka'ḇau,white,,,
+122617,146,ash,'sausau,black,,,
+52213,147,black,saisaiŋa,,,,
+52570,148,white,kaḇo'ḇoŋa,,,38,
+52927,149,red,'tɛnte,,,,
+53284,150,yellow,'ŋaŋo,,,9,
+53641,151,green,"'kɛr kɛraŋ",,,,
+53998,152,small,sina,,,,
+54355,153,big,bulau,,,,
+54712,154,short,'mɔro,"both terms",,12,
+55069,155,long,ga'ḇili,,,,
+55426,156,thin,luŋagina,,,,
+55783,157,thick,"luŋa bu'lau",,,,
+56140,158,narrow,'pitu,,,,
+56497,159,wide,o'pana,,,,
+80359,160,"painful, sick",'lali,,,,
+80360,160,"painful, sick",soali,,,,
+80445,161,"shy, ashamed",ma'tau,,,,
+80446,161,"shy, ashamed",ba'lɛŋa,,,,
+57568,162,old,ka'sana,,,,
+57925,163,new,pau,,,"1,26",?
+58282,164,good,pe,,,1,?
+58639,165,"bad, evil",'soali,,,,
+58996,166,"correct, true",'kɔmʌn:ʌ,,,,
+59353,167,night,'riǥo,,,,
+59710,168,day,kae[kɛ],,,"1, 54",
+60067,169,year,pɛsiŋma'tana,,,,
+60424,170,when?,"ŋa pia",,,79,?
+60781,171,"to hide",'kolu,,,66,
+61138,172,"to climb",'lopate,,,,
+61495,173,at,ŋa,,,33,
+61852,174,"in, inside",'ŋa|lo,,,1,1
+62209,175,above,'ŋai|lu,,,,
+62566,176,below,'siana,,,,
+62923,177,this,o'lɛkia,,,,
+63280,178,that,'iala,,,,
+63637,179,near,ko'koro,,,,
+63994,180,far,ŋa'tauǥa,,,1,
+64351,181,where?,"ka iɛtai",,,,
+64708,182,I,iau,,,"1,21",1
+65065,183,thou,one,,,"1,66",
+65422,184,he/she,i,,,1,1
+121825,185,we,ita,,,1,1
+121826,185,we,maŋ,,,2,
+66136,186,you,one,,,,
+66493,187,they,ri,,,25,?
+66850,188,what?,'taru,,,,
+67207,189,who?,tai,,,1,?
+67564,190,other,pa'toto,,,,
+67921,191,all,ka'rolu,,,,
+82497,192,and,ḇa,,,24,
+82498,192,and,ḇe,,,24,
+68635,193,if,ŋa'roma,,,,
+68992,194,how?,minalɛtei,,,,
+69349,195,"no, not",'kesa,,,,
+69706,196,"to count",'sisi,,,18,
+70063,197,One,kena,,,31,
+70420,198,Two,lua,,,1,1
+70777,199,Three,mologi,,,7,
+71134,200,Four,tugulu,,,,

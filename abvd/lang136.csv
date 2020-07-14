@@ -1,0 +1,230 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+136,Tongan,"Blust, from: Churchward (1959)",ton,tong1325,"Churchward, C.M. (1959). Tongan dictionary. Oxford University Press: London",,"Austronesian, Malayo-Polynesian, Central-Eastern Malayo-Polynesian, Eastern Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Remote Oceanic, Central Pacific, East Fijian-Polynesian, Polynesian, Tongic","Debasish Roy","Simon Greenhill","@book{117207,  address               = {London},  pages                 = {xiv+836},  publisher             = {Oxford Univ. Press},  title                 = {Tongan dictionary: Tongan-English and English-Tongan},  year                  = {1959},  bibtexkey             = {churchward_tongan-dictionary1959},  class_loc             = {PL6531},  document_type         = {B},  hhtype                = {dictionary},  inlg                  = {English [eng]},  inlg_code             = {eng},  macro_area            = {Papua},  mpi_eva_library_shelf = {PL 6531 CHU 1959},  src                   = {hh, mpieva},  srctrickle            = {hh#d:Churchward:Tongan, mpieva#Churchward1959Tongandi},  subject_headings      = {Tongan language–Dictionaries–English, English language–Dictionaries–Tonga (Tonga Islands), Tongan language–Dictionaries–English – English language–Dictionaries–Tonga (Tonga Islands)},  author                = {Churchward, Clerk Maxwell}}"
+latitude,longitude
+-21.23050210195644993405,-175.14404296875000000000
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+136,1,hand,nima,,,1,1
+493,2,left,hema,,,11,
+850,3,right,mataʔu,,,"5,13",1
+1207,4,leg/foot,vaʔe,,,"1, 100",1
+1564,5,"to walk",ʔalu,"Cognate in Ponapean ?",,34,
+1921,6,road/path,hala,,,1,1
+87240,7,"to come",haʔu,,,44,1
+87241,7,"to come","ō mai",,,1,
+71728,8,"to turn",tāafeafe,,,,1
+71729,8,"to turn",liliu,,,2,1
+2992,9,"to swim",kakau,,,5,
+3349,10,dirty,ʔuli,,,,
+3706,11,dust,efu,,,1,1?
+4063,12,skin,kili,,,1,1
+4420,13,back,tuʔa,,,11,
+4777,14,belly,kete,,,7,
+5134,15,bone,hui,,,52,
+5491,16,intestines,ŋākau,,,12,
+5848,17,liver,ʔate,,,1,1
+6205,18,breast,huhu,,,1,1
+6562,19,shoulder,uma,,,10,
+6919,20,"to know, be knowledgeable",ʔilo,,,13,
+7276,21,"to think",fakakaukau,,,,
+7633,22,"to fear",manavahē,,,92,
+7990,23,blood,toto,,,4,
+8347,24,head,ʔulu,,,1,1
+8704,25,neck,kia,,,20,
+9061,26,hair,louʔulu,,,40,
+9418,27,nose,ihu,,,1,1
+9775,28,"to breathe",mānava,,,1,1
+10132,29,"to sniff, smell",nāmuʔi,,,41,
+10489,30,mouth,ŋutu,,,2,
+10846,31,tooth,nifo,,,1,1
+11203,32,tongue,ʔelelo,,,15,
+11560,33,"to laugh",kata,,,7,
+11917,34,"to cry",taŋi,,,1,1
+12274,35,"to vomit",lua,,,8,
+12631,36,"to spit",ʔanuhi,,,"14,84",
+12988,37,"to eat",kai,,,"1,47",1
+89371,38,"to chew",lamu,,,7,1
+89372,38,"to chew",mama,,,1,
+73397,39,"to cook",feimeʔakai,,,,
+73398,39,"to cook",feitunu,,,9,
+14059,40,"to drink",inu,,,1,1
+14416,41,"to bite",uʔu,,,8,
+14773,42,"to suck",huhu,,,25,1
+15130,43,ear,teliŋa,,,1,1
+15487,44,"to hear",fenoŋo,,,"1, 59",1?
+15844,45,eye,mata,,,1,1
+16201,46,"to see",sio,,,132,
+16558,47,"to yawn",mamao,,,"19,28",1?
+16915,48,"to sleep",mohe,,,"10, 109",
+17272,49,"to lie down",tokoto,,,7,
+17629,50,"to dream",misi,,,36,
+74065,51,"to sit",nofo,,,16,
+74066,51,"to sit",taŋutu,,,122?,
+18343,52,"to stand",tuʔu,,,2,1
+18700,53,"person/human being",taŋata,,,"1,66, 97",1
+19057,54,man/male,taŋata,,,"12,14",
+19414,55,woman/female,fefine,,,"1,106",1
+19771,56,child,tamasiʔi,,,"6,103",
+20128,57,husband,mali,,,,
+20485,58,wife,mali,,,,
+20842,59,mother,faʔē,,,6,
+21199,60,father,tama|i,,,"1, 52",1
+21556,61,house,fale,,,14,
+21913,62,thatch/roof,ʔato,,,1,1
+22270,63,name,hiŋoa,,,6,
+22627,64,"to say",pehē,,,59,
+22984,65,rope,maea,,,10,
+23341,66,"to tie up, fasten",nonoʔo,,,15,
+23698,67,"to sew",tuitui,,,"13, 16",
+24055,68,needle,hui-tuitui,,,66,
+24412,69,"to hunt","tuli manu",,,8,
+24769,70,"to shoot",fana,,,1,1
+91601,71,"to stab, pierce",hoka,,,67,
+91602,71,"to stab, pierce",tuiʔi,,,52,
+25483,72,"to hit",tā,,,10,
+25840,73,"to steal",kaihaʔa,,,7,
+26197,74,"to kill",tāmateʔi,,,2,
+26554,75,"to die, be dead",mate,,,1,1
+26911,76,"to live, be alive",moʔui,,,"1, 76",1
+27268,77,"to scratch",vaku,,,9,
+27625,78,"to cut, hack",totofi,,,10?,?
+27982,79,stick/wood,ʔa|kau,,,1,1
+28339,80,"to split",fahi,,,4,?
+28696,81,sharp,māsila,,,2,
+29053,82,"dull, blunt",peku,,,61,
+29410,83,"to work",ŋāue,,,11,
+29767,84,"to plant",tō,,,4,
+30124,85,"to choose",fili,,,1,1
+30481,86,"to grow",tupu,,,1,1
+30838,87,"to swell",pupula,,,7,
+31195,88,"to squeeze",tatau,,,13,
+31552,89,"to hold",kuku,,,12,
+31909,90,"to dig",keli,,,1,1
+32266,91,"to buy",fakatau,,,9,
+32623,92,"to open, uncover",fakaava,,,,
+32980,93,"to pound, beat",tuki,,,2,1
+76754,94,"to throw",lī,,,79?,
+76755,94,"to throw",tolo,,,10?,
+33694,95,"to fall",tō,,,14,
+34051,96,dog,kulī,,,7,
+34408,97,bird,manu,,,1,1
+34765,98,egg,"foʔi manu",,,5,
+35122,99,feather,fulufulu,,,1,1
+35479,100,wing,kapakau,,,"1,59",
+35836,101,"to fly",puna,,,,
+36193,102,rat,kumā,,,13,
+36550,103,meat/flesh,kano,,,14,
+36907,104,fat/grease,ŋako,,,14,
+37264,105,tail,iku,,,13,1
+37621,106,snake,ŋata,,,12,
+37978,107,"worm (earthworm)",kelemutu,,,9,?
+105127,108,louse,kutu,,,1,1
+105128,108,louse,tuma,,,3,
+38692,109,mosquito,namu,,,1,1
+39049,110,spider,hina,,,,
+39406,111,fish,ika,,,1,1
+39763,112,rotten,pala,,,13,
+40120,113,branch,vaʔakau,,,65,
+77782,114,leaf,lau,,,1,1
+77783,114,leaf,lou,,,1,1
+40834,115,root,aka,,,2,1
+41191,116,flower,kakala,,,38?,
+41548,117,fruit,fua,,,1,1
+41905,118,grass,mohuku,,,58,
+42262,119,earth/soil,kelekele,,,10,
+42619,120,stone,maka,,,4,
+42976,121,sand,ʔoneʔone,,,1,1
+43333,122,water,vai,,,2,1
+43690,123,"to flow",tafe,,,10,
+44047,124,sea,tahi,,,1,1
+44404,125,salt,māsima,,,3,
+44761,126,lake,ano,,,1,1
+45118,127,woods/forest,vao,,,14,
+45475,128,sky,laŋi,,,1,
+45832,129,moon,māhina,,,"37, 5",
+46189,130,star,fetuʔu,,,1,1
+46546,131,cloud,ʔao,,,12,
+46903,132,fog,kakapu,,,1,1?
+47260,133,rain,ʔuha,,,1,1
+47617,134,thunder,mana,,,37,
+47974,135,lightning,ʔuhila,,,2,1?
+48331,136,wind,mat|aŋi,,,"1,66",1
+108113,137,"to blow",aŋi,,,8,
+108114,137,"to blow",ifi,,,5,
+49045,138,warm,mafana,,,"1, 72",1
+49402,139,cold,momoko,,,10,
+49759,140,dry,mōmoa,,,92?,
+50116,141,wet,[vi]viku,,,"10, 48",
+50473,142,heavy,mamafa,,,46,
+50830,143,fire,afi,,,1,1
+51187,144,"to burn",tutu,,,"1, 6",
+51544,145,smoke,ʔahu,,,2,
+51901,146,ash,efuefu,,,1,?
+52258,147,black,ʔuliʔuli,,,7,
+52615,148,white,hinehina,,,66,
+52972,149,red,kulokula,,,13,
+53329,150,yellow,eŋeeŋa,,,10,?
+53686,151,green,lanu-mata,,,"1, 12",
+54043,152,small,siʔi,,,141,
+80012,153,big,fuʔu,,,13,
+80013,153,big,lahi,,,12,
+54757,154,short,nounou,,,42,
+55114,155,long,lōloa,,,"12,105",
+55471,156,thin,manifi,,,1,
+55828,157,thick,matolu,,,3,1
+56185,158,narrow,lausiʔi,,,,
+56542,159,wide,laulahi,,,"73, 9",
+56899,160,"painful, sick",mahaki,,,1,
+57256,161,"shy, ashamed",mā,,,1,1
+57613,162,old,motuʔa,,,1,1
+57970,163,new,foʔou,,,1,1
+58327,164,good,lelei,,,17,1
+58684,165,"bad, evil",kovi,,,10,
+59041,166,"correct, true",tonu,,,8,
+59398,167,night,pō,,,1,
+59755,168,day,ʔaho,,,"1, 54",?
+60112,169,year,taʔu,,,1,1
+80938,170,when?,"ʔa fē",,,5,1
+80939,170,when?,"ʔane fē",,,5,1
+60826,171,"to hide",toi,,,,
+61183,172,"to climb",kaka,,,,
+61540,173,at,ʔi,,,20?,
+61897,174,"in, inside","ʔi loto",,,5,1
+62254,175,above,"ʔi ʔoluŋa",,,9,
+62611,176,below,"ʔi lalo",,,8,
+62968,177,this,"ko eni",,,1,
+63325,178,that,"ko ena",,,1,1
+63682,179,near,ofi,,,45,1
+64039,180,far,mamaʔo,,,13,
+64396,181,where?,"ʔi fē",,,"3,35",
+81795,182,I,au,,,"1,21",
+81796,182,I,ou,,,"1,21",
+65110,183,thou,koe,,,1,1
+65467,184,he/she,ia,,,1,?
+113920,185,we,kitautolu,,,"1, 39",1
+113921,185,we,kimautolu,,,"2, 39",
+66181,186,you,kimoutolu,,,16?,1
+66538,187,they,kinautolu,,,"1, 19?",?
+66895,188,what?,hā,,,1,
+67252,189,who?,hai,,,1,?
+67609,190,other,kehe,,,8,1
+67966,191,all,kotoa,,,13,
+82508,192,and,mo,,,9,
+82509,192,and,pea,,,,
+68680,193,if,ka[pau],,,1,1?
+69037,194,how?,fēfē,,,11,1
+69394,195,"no, not",ʔikai,,,"10,83",
+69751,196,"to count",lau-a,,,62,
+70108,197,One,taha,,,41,
+70465,198,Two,ua,,,1,1
+70822,199,Three,tolu,,,1,1
+71179,200,Four,fā,,,"1,66",1
+83767,201,Five,nima,"Five, hand.(Source: Pollex)",,1,
+172415,202,Six,ono,,,1,
+83668,203,Seven,fitu,"Seven.(Source: Pollex)",,1,
+90658,204,Eight,valu,"Pollex 06: Valu. :Eight.",,3,
+83542,205,Nine,hiva,"Nine.(Source: Pollex)",,"5,44",
+83434,206,Ten,hongofulu,"Ten.(Source: Pollex)",,5,
+83389,207,Twenty,tekau,"Twenty, score (Cwd).(Source: Pollex)",,4,
+242246,208,Fifty,nimangofulu,,,"1,2",
+83356,209,"One Hundred",-nge/au/,"Hundreds.(Source: Pollex)",,2,
+83323,210,"One Thousand",afe,"Thousand.(Source: Pollex)",,3,

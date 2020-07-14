@@ -1,0 +1,216 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+232,Modang,"Antonio Guerreiro",mxd,moda1244,,,"Austronesian, Malayo-Polynesian, North Borneo, North Sarawakan, Kayan-Kenyah, Kayanic, Modang","Debasish Roy","Simon Greenhill","@misc{Guerreiro-232-2005,  author = \"Antonio Guerreiro\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+0.06042000000000000148,111.34094000000000335149
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+232,1,hand,gwɛ,,,25,
+589,2,left,luy,,,86,
+946,3,right,mə'a,,,,
+1303,4,leg/foot,rɛs,,,,
+1660,5,"to walk",əmnɛa,,,,1
+2017,6,road/path,lah,,,1,1
+2374,7,"to come",hay,,,1?,1?
+2731,8,"to turn",mdo',,,,
+3088,9,"to swim",ənjo',,,20,
+3445,10,dirty,məlmah,,,,
+3802,11,dust,nyɛ,,,,
+4159,12,skin,laés,,,20,
+4516,13,back,"kəjun məl",,,,
+4873,14,belly,soh,,,25,
+72102,15,bone,tuang,,,1,1
+72103,15,bone,tluang,,,1,1
+5587,16,intestines,"wət kuən",,,,
+5944,17,liver,hətaɛ,,,1,1
+6301,18,breast,wi',,,24,
+6658,19,shoulder,lə'ip,,,18,
+7015,20,"to know, be knowledgeable",ptɛng,,,24,
+7372,21,"to think",nəmuak,,,,
+7729,22,"to fear",pkut,,,1,1?
+8086,23,blood,lə'a,,,1?,1
+8443,24,head,du',,,1?,1?
+8800,25,neck,kəlnan,,,,
+9157,26,hair,wok,,,1,1
+9514,27,nose,"guang lung",,,1,1
+9871,28,"to breathe","ngəs ngiang",,,23,
+10228,29,"to sniff, smell",mbu,,,"25, 21",
+10585,30,mouth,"guang wa'",,,1?,
+10942,31,tooth,kwə,,,70,1
+11299,32,tongue,tla',,,4?,1?
+11656,33,"to laugh",kəlo',,,24,
+12013,34,"to cry",nəngɛs,,,1,1
+12370,35,"to vomit",əntua',,,1,1
+12727,36,"to spit",nəploa',,,,?
+73257,37,"to eat",mun,,,17,1?
+73258,37,"to eat",hu',,,,1?
+13441,38,"to chew",əmpa',"[cp 84]",,,1?
+13798,39,"to cook",məngsɛak,,,19,
+14155,40,"to drink",mək,,,,
+14512,41,"to bite",əntəp,,,1?,1
+14869,42,"to suck",ənjik,,,,
+15226,43,ear,kəlnyə|n,,,1,1?
+15583,44,"to hear",ngəhjing,,,13,
+15940,45,eye,mta|n,,,1,1
+16297,46,"to see",ənli',,,,
+16654,47,"to yawn",nguə,,,7,1?
+17011,48,"to sleep",əndu',,,1?,1?
+17368,49,"to lie down",ngəla',,,,
+17725,50,"to dream",əmpi|n,,,1?,1?
+18082,51,"to sit",ngo,,,30,
+18439,52,"to stand",nəkjang,,,18,1
+18796,53,"person/human being",səwʊn,,,,
+19153,54,man/male,ləkaɛ,,,2,
+19510,55,woman/female,lədoh,,,15,
+19867,56,child,nɛək,,,1,1
+20224,57,husband,səgwən,,,2?,1
+20581,58,wife,səgwən,,,1,1
+20938,59,mother,nyə|n,"[ref] / y?E(ad)",,1,1
+21295,60,father,mà|n,"[ref] / m?@(ad)",,1,1
+74611,61,house,msow,,,,
+74612,61,house,min,,,13,
+22009,62,thatch/roof,səpɛa,,,15,
+22366,63,name,ngəlan,,,1,1
+22723,64,"to say",ənsiə,,,,
+74913,65,rope,təlon,,,1,1
+74914,65,rope,tləɛ,,,1,1
+23437,66,"to tie up, fasten",ngəpas,,,,
+23794,67,"to sew",nəhut,,,24,
+24151,68,needle,selay,,,,
+24508,69,"to hunt","lɛng tlung",,,24,
+24865,70,"to shoot",mənah,,,1,
+25222,71,"to stab, pierce",əntoh,,,,
+25579,72,"to hit",əntong,,,,
+25936,73,"to steal",əngkɛa,"[cp 5,102,168,175]",,1,1
+26293,74,"to kill",mətaɛ,,,2,
+26650,75,"to die, be dead",ləwas,,,13,
+27007,76,"to live, be alive",blom,,,11,
+27364,77,"to scratch",ngəjəb,,,,
+27721,78,"to cut, hack",əndung,,,,
+28078,79,stick/wood,kəjə,,,1,1
+28435,80,"to split",ənta',,,19,1
+28792,81,sharp,nə'at,,,30,
+29149,82,"dull, blunt",kə'ok,,,,
+29506,83,"to work",na'hu',,,,
+29863,84,"to plant",əndam,"[cp 38]",,2?,1?
+30220,85,"to choose",ngəli',,,1,1?
+30577,86,"to grow",bu',,,1,1
+30934,87,"to swell",plung,,,,
+31291,88,"to squeeze",ngəpis,,,28,
+31648,89,"to hold",əngkam,,,1,?
+32005,90,"to dig",ənkiɛt,,,19,
+32362,91,"to buy",ənliə,,,,?
+32719,92,"to open, uncover",əmbə,,,,
+33076,93,"to pound, beat",əmpə,,,5?,
+33433,94,"to throw",ənsiəl,,,21,
+33790,95,"to fall",tə'ɛak,,,27,
+34147,96,dog,tlung,,,,
+34504,97,bird,mnuk,,,1,1
+34861,98,egg,tloh,,,1,1
+35218,99,feather,blu|n,,,1,1
+35575,100,wing,kəpit,,,46,
+35932,101,"to fly",mléang,,,19,
+36289,102,rat,əwɛa,"[cp. 5,73,168,175]",,,1
+36646,103,meat/flesh,sɛ|n,,,1,1
+37003,104,fat/grease,ləni',,,24?,?
+37360,105,tail,kih,,,1?,1?
+37717,106,snake,pə',,,1?,
+38074,107,"worm (earthworm)",kəslang,,,18,
+38431,108,louse,tə,,,1?,1
+38788,109,mosquito,ləmuk,,,1,1?
+39145,110,spider,səlguak,,,,
+39502,111,fish,tuk,,,15,
+105213,112,rotten,mləm,food,,25,
+105214,112,rotten,"mbu tup",smell,,52,
+77793,114,leaf,hətin,,,,
+77794,114,leaf,sung,,,19,
+77847,115,root,wəkɛat,,,2,1
+77848,115,root,"akai kayu",,,2,1
+41287,116,flower,sliəp,,,,
+41644,117,fruit,guak,,,1,1?
+42001,118,grass,laa,,,,
+42358,119,earth/soil,mna',,,1,1
+42715,120,stone,wətà,"[cp 146,199]",,1?,1?
+43072,121,sand,bəlngin,,,20,
+43429,122,water,hanguy,,,12,
+43786,123,"to flow",əmnul,,,20,
+44143,124,sea,lwaut,,,6,
+44500,125,salt,həjə',,,,?
+44857,126,lake,pkung,,,,
+45214,127,woods/forest,las,,,1,1
+45571,128,sky,ləngɛt,,,1,1
+45928,129,moon,wəllun,,,1,1
+46285,130,star,tuntə',,,,
+46642,131,cloud,"bo' həwun",,,1,1
+46999,132,fog,"məng bop",,,,
+47356,133,rain,siən,,,1?,?
+47713,134,thunder,dlay,,,31,
+48070,135,lightning,nong,,,,
+48427,136,wind,wəhɛə,[&<+baRiuS],,,
+48784,137,"to blow",nəp,,,1?,1
+49141,138,warm,əmnas,,,1,1
+49498,139,cold,bla',,,,
+49855,140,dry,kəhwang,,,22?,
+50212,141,wet,wəsà',,,1,1
+50569,142,heavy,bəhat,,,1,1
+50926,143,fire,əpoɛ,,,1,1
+51283,144,"to burn",əntung,,,19,
+51640,145,smoke,so|n,,,19,1?
+51997,146,ash,əwa,"[cp 120, 199]",,1,1?
+52354,147,black,məldung,,,19,
+52711,148,white,məklung,,,,
+53068,149,red,məlhɛang,,,,
+53425,150,yellow,məngsɛa,,,35,
+53782,151,green,mənghom,,,27,
+54139,152,small,so',,,20,
+54496,153,big,pwun,,,,
+54853,154,short,əmdya',,,,
+55210,155,long,kəjah,,,25,
+55567,156,thin,pis,,,1,1
+55924,157,thick,təmang,,,20,
+56281,158,narrow,mə'muk,,,,
+56638,159,wide,bléang,,,13,
+80401,160,"painful, sick",plas,,,22,
+80402,160,"painful, sick",lɛng'ak,,,,
+57352,161,"shy, ashamed",sə'ɛh,,,14,
+80503,162,old,bə'as,,,19,
+80504,162,old,nə',,,,
+58066,163,new,məhling,,,,
+58423,164,good,kas,,,28,
+58780,165,"bad, evil",ak,,,28,?
+59137,166,"correct, true",ə,,,,
+59494,167,night,maɛdəm,,,20?,
+59851,168,day,dɛa,"[5,73,102,168,175]",,,1
+60208,169,year,tə'on,,,1,1
+60565,170,when?,nəma,,,9,
+60922,171,"to hide",əngkə,,,,
+61279,172,"to climb",bɛa,,,,
+61636,173,at,la,,,2,
+61993,174,"in, inside",lamaɛ,,,,
+62350,175,above,tŭ|bɛa,,,2?,1
+62707,176,below,tŭtya',,,,
+63064,177,this,nɛ,,,1,1
+63421,178,that,tu|y,,,16,1?
+63778,179,near,jə'an,,,,
+64135,180,far,dlu',,,,?
+81731,181,where?,təmaw,,,14,
+81732,181,where?,təmà,,,14,
+81803,182,I,kuy,,,1,1
+81804,182,I,ku,,,1,1
+65206,183,thou,ky',,,1,
+65563,184,he/she,sih,,,10,
+118973,185,we,tam,,,71,1
+118974,185,we,may,,,2,
+66277,186,you,"tium tabuang",,,,
+66634,187,they,sah,,,1?,
+66991,188,what?,nən,,,2,
+67348,189,who?,hɛ',,,1,?
+67705,190,other,əlap,,,11,
+68062,191,all,tabuang,,,,
+68419,192,and,wan,,,,
+68776,193,if,bang,,,20,
+69133,194,how?,yitmaw,,,,
+69490,195,"no, not",am,,,,
+69847,196,"to count",ənsə,,,,
+70204,197,One,siah,,,1?,
+70561,198,Two,ləgə',,,,1
+70918,199,Three,ətla,"[cp 120, 146]",,1,1
+71275,200,Four,paét,,,1,1

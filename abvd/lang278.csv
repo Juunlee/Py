@@ -1,0 +1,209 @@
+id,language,author,silcode,glottocode,notes,problems,classification,typedby,checkedby,source
+278,Werinama,"J. Collins",bty,bobo1254,"Is this distinct from Bobot?",,"Austronesian, Malayo-Polynesian, Central-Eastern, Central Malayo-Polynesian, Central Maluku, East, Seram, Bobot","Debasish Roy","Simon Greenhill","@misc{Collins-278-2005,  author = \"J. Collins\",  date = \"2005\",  howpublished = \"personal communication\"}"
+latitude,longitude
+-3.32698999999999989186,129.95178000000001361514
+id,word_id,word,item,annotation,loan,cognacy,pmpcognacy
+278,1,hand,animan,,,"1,66",1
+635,2,left,avet,,,8,
+992,3,right,kamuin,,,4,
+1349,4,leg/foot,ayain,"[cp. 17]",,1,1
+71581,5,"to walk",iko,,,44,
+71582,5,"to walk",lea,,,44,
+2420,7,"to come",islot,,,6,
+2777,8,"to turn",ibutar,,,1,
+3134,9,"to swim",inakṿ,"[cf. #128]",,"1,45",1?
+3491,10,dirty,"fofṿ fofṿ",,,4,
+3848,11,dust,"lavṿ lavṿ",,,4,?
+4205,12,skin,akurit,,,1,1
+4562,13,back,akotan,,,8,
+4919,14,belly,atian,,,1,1
+5276,15,bone,aɬuin,,,2,
+5633,16,intestines,"avị tuan",,,6,
+5990,17,liver,ayatan,,,1,1
+6347,18,breast,asusin,,,1,1
+6704,19,shoulder,avaya|yan,"and 1?",,24,?
+7061,20,"to know, be knowledgeable",iaveneta,,,9,
+7418,21,"to think",afikir,"loan of 22?",L,,
+7775,22,"to fear",imtait,,,1?,1
+8132,23,blood,alawan,"[cf. 87]",,1,1?
+8489,24,head,anba,,,,
+8846,25,neck,ayonin,,,9,
+9203,26,hair,aʔulin,,,3,
+9560,27,nose,aʔilin,,,1,1?
+9917,28,"to breathe",amesa,,,6,
+10274,29,"to sniff, smell",abufmauk,,,6,
+10631,30,mouth,avivin,,,1,
+10988,31,tooth,anifan,,,1,1
+11345,32,tongue,amelin,,,11,
+11702,33,"to laugh",amɬi,,,3,
+12059,34,"to cry",takit,,,1,1
+12416,35,"to vomit",aɬua,,,8,
+12773,36,"to spit",abeba,,,8,
+13130,37,"to eat",aken,,,1,1
+73342,38,"to chew",muma,,,1,1
+73343,38,"to chew",mama,,,1,1
+13844,39,"to cook",bamasa,,L?,19,
+14201,40,"to drink",a|ninṿ,,,1?,1?
+14558,41,"to bite",a|kat,,,"1, 55",1?
+90063,42,"to suck",amoit,,,6,1
+90064,42,"to suck",sosa,,,1,
+15272,43,ear,atarikʌn,,,1,1
+15629,44,"to hear",ab|loka,,,6,1
+15986,45,eye,amatʌn,,,1,1
+16343,46,"to see",ablá,,,,
+16700,47,"to yawn",amamawa,,,19,1
+17057,48,"to sleep",imtoɬṿ,,,104,1
+17414,49,"to lie down",iburburiŋ,,,2,
+17771,50,"to dream",mnif,,,"1,60,3",1
+18128,51,"to sit",iduʷat,,,10,
+18485,52,"to stand",akolan,,,8,1
+18842,53,"person/human being",mansia,,L,,
+19199,54,man/male,muana,,,1,1
+19556,55,woman/female,vina,,,"1,41",1
+19913,56,child,yana,,,1,1
+20270,57,husband,"isawan muana",,,2,1
+20627,58,wife,"isawan vina",,,"1,5",
+20984,59,mother,inan,,,1,1
+21341,60,father,yaman,,,1,1
+21698,61,house,uma,,,1,1
+22055,62,thatch/roof,yata,,,1,1
+22412,63,name,anaɬan,,,1,1
+22769,64,"to say",aduɬa,,,8,
+23126,65,rope,wawat,,,2,
+23483,66,"to tie up, fasten",inafit,,,7,
+23840,67,"to sew",abakasoma,,,6,
+24197,68,needle,jaroŋ,,L?,1?,
+24554,69,"to hunt",ak̚mada,,,,
+24911,70,"to shoot",bana,,,1,1
+25268,71,"to stab, pierce",idevat,,,4,
+25625,72,"to hit",ibiatṿ,,,2,
+25982,73,"to steal",mana:,,,"1,59,60",1
+26339,74,"to kill",abunṿ,,,1,1
+26696,75,"to die, be dead",imata,,,1,1
+27053,76,"to live, be alive",ihidup,,L,1,
+27410,77,"to scratch",ikwas,,,5,
+27767,78,"to cut, hack",i|da,,,1,1
+28124,79,stick/wood,ai,,,1,1
+28481,80,"to split",ibat,,,3,
+28838,81,sharp,katṿ,,,8,
+29195,82,"dull, blunt",nona,,,7,
+29552,83,"to work",dei,,,5,
+29909,84,"to plant",abakatau,,,3,
+30266,85,"to choose",badali,,,5,
+30623,86,"to grow",me,,,52,
+30980,87,"to swell",bi|vawa,"[cf. 23]",,26,1?
+31337,88,"to squeeze",lefa,,,4,
+31694,89,"to hold",adoman,,,9,
+32051,90,"to dig",ikaɬṿ,,,1,1
+32408,91,"to buy",balat,,,5,
+32765,92,"to open, uncover",balak,,,5,
+33122,93,"to pound, beat",dutṿ,"or 20?",,20,1?
+33479,94,"to throw",idutṿ,,,7,?
+33836,95,"to fall",imnavṿ,,,"1,106?",1
+34193,96,dog,yasṿ,,,1,1
+34550,97,bird,miova,,,7,
+34907,98,egg,tolin,,,1,1
+35264,99,feather,avurin,,,1,1
+35621,100,wing,yeon,,,5,
+35978,101,"to fly",idivṿ,,,6,
+36335,102,rat,mi|lava,,,1,1
+36692,103,meat/flesh,aʔisin,,,31,1
+37049,104,fat/grease,"avatan aiak",,,1?,
+37406,105,tail,efat,,,5,
+37763,106,snake,bufin,"(or /bulin/?)",,10,
+38120,107,"worm (earthworm)",caciŋ,,L,23,
+38477,108,louse,tinan,,,5,
+38834,109,mosquito,umanis,,,7,
+39548,111,fish,ian,,,1,1
+39905,112,rotten,mikoban,,,6,
+40262,113,branch,"ai yakan",,,2,
+40619,114,leaf,"ai lan",,,1,1
+40976,115,root,"ai waʔat",,,2,1?
+41333,116,flower,"ai futin",,,5,
+41690,117,fruit,"ai vuan",,,1,1
+42047,118,grass,fofṿ,,,9,
+42404,119,earth/soil,yena,,,5,
+42761,120,stone,vatṿ,,,1,1
+43118,121,sand,yena,,,1,1
+43475,122,water,wai,,,2,1
+43832,123,"to flow",baitṿ,,,7,
+44189,124,sea,lautan,,L,,
+44903,126,lake,timalola,,,,
+45260,127,woods/forest,"ai lalan",,,11,
+45617,128,sky,lakit,,,1,1
+45974,129,moon,vulan,,,1,1
+46331,130,star,toin,,,1,1?
+46688,131,cloud,awan,,L,1,
+47045,132,fog,"kamu kamu",,,,
+47402,133,rain,ulan,,,1,1
+47759,134,thunder,dola,,,10,
+48116,135,lightning,kalak,,,1,
+48473,136,wind,yakin,,,1,1
+48830,137,"to blow",anu,,,,
+49187,138,warm,bafanat,,,1,1
+49544,139,cold,baʔidikṿ,,,1?,?
+49901,140,dry,mamala,,,1,
+50258,141,wet,loba-loban,,,6,
+50615,142,heavy,biat,,,1,1
+50972,143,fire,yafṿ,,,1,1
+51329,144,"to burn",i|dun,,,1,1
+51686,145,smoke,numik,,,8,
+52043,146,ash,ɬavṿ,,,5,?
+52400,147,black,mametan,,,1,1
+52757,148,white,babutṿ,,,1,1
+53114,149,red,dadau,,,7,
+53471,150,yellow,unin,,L,1,
+53828,151,green,iǰo,,L,41,
+54185,152,small,fofinyana,,,5,
+54542,153,big,aiak,,,7,?
+54899,154,short,wetuwetik,,,4,
+55256,155,long,aʔotak,,,8,
+55613,156,thin,minifit,,,1,1
+55970,157,thick,vitól,,,3,
+56327,158,narrow,kofakofat,,,7,?
+56684,159,wide,tiban,,,3,
+57041,160,"painful, sick",mayaut,,,6,
+57398,161,"shy, ashamed",imayan,,,1,1
+80518,162,old,tuain,,,1,1
+80519,162,old,mitua,,,1,1
+58112,163,new,vavoi,,,1,1?
+58469,164,good,kamuin,,,9,
+58826,165,"bad, evil",kajahatan,,L,,
+59183,166,"correct, true",mamenin,,,7,
+59540,167,night,matabot,,,,
+59897,168,day,bilima,,,,
+60254,169,year,na,,,3,
+60611,170,when?,"bot fila",,,"11,65",1
+60968,171,"to hide",basavunin,,,1,1
+61325,172,"to climb",sa:,,,2,1
+61682,173,at,va,,,3,
+62039,174,"in, inside",valala,,,1,1
+81273,175,above,"ko lete",,,6,
+81274,175,above,"kona leta",,,6,
+62753,176,below,"ko na vaɬ",,,5,
+63110,177,this,li,,,3,
+63467,178,that,lin,,,1,
+63824,179,near,wetuwetik,,,5,
+64181,180,far,aʔotak,,,7,
+64538,181,where?,ána,,,,
+64895,182,I,ya,,,1,1
+65252,183,thou,an,,,3,
+65609,184,he/she,ia,,,1,1
+119242,185,we,ita,,,1,1
+119243,185,we,am,,,2,
+66323,186,you,em,,,"1,13",1?
+66680,187,they,sia,,,1,1
+67037,188,what?,safa,,,1,1
+67394,189,who?,se|ma,,,1,1?
+67751,190,other,kulkul,[?],,,
+68108,191,all,"sev sev",,,,
+68465,192,and,dua,,,6,
+82610,193,if,ø,,L,,
+82611,193,if,kalau,,L,14,
+69179,194,how?,dawáia,,,8,
+69536,195,"no, not",sak|ali,,,5,?
+69893,196,"to count",areking,,L,39,
+70250,197,One,san,,,"1,65",1
+70607,198,Two,lua,,,1,1
+70964,199,Three,tol,,,1,1
+71321,200,Four,fetṿ,,,1,1
